@@ -27,7 +27,7 @@ openrouter_models:
 
 # Used to personalize the AI-drafted proposals. Edit this to describe yourself.
 profile:
-  name: "Your Name"
+  name: "Moataz"
   skills: "Framer development, Webflow, WordPress (Elementor), responsive web design, CMS builds, custom interactions"
   rate: "project-based, open to discussing budget"
   portfolio_url: ""
