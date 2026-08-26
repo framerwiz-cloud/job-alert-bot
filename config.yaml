@@ -1,0 +1,35 @@
+# Non-secret settings. Secrets (webhook URLs, API keys) go in .env instead.
+
+# A job alerts if its title or description contains ANY of these (case-insensitive).
+# Upwork filtering happens on Upwork's side via your saved search, so this list mainly
+# matters for Freelancer.com, Guru and PPH -- but it's applied to every source as a safety net.
+keywords:
+  - Framer
+  - Webflow
+  - WordPress
+  - Elementor
+  - Web Design
+  - Landing Page
+
+# Skip jobs below this budget (USD). Set to 0 to disable. Hourly jobs are never filtered by this.
+min_budget: 0
+
+# Tried in order until one works. Free models rate-limit hard and get retired without
+# notice, so keep several. If all of these fail, the bot asks OpenRouter's API which
+# models are free right now and tries those automatically.
+# Browse current options at openrouter.ai/models (filter: Free).
+openrouter_models:
+  - "z-ai/glm-5.2:free"
+  - "google/gemma-4-31b-it:free"
+  - "google/gemma-4-26b-a4b-it:free"
+  - "nvidia/nemotron-3-super-120b-a12b:free"
+  - "thinkingmachines/inkling:free"
+
+# Used to personalize the AI-drafted proposals. Edit this to describe yourself.
+profile:
+  name: "Your Name"
+  skills: "Framer development, Webflow, WordPress (Elementor), responsive web design, CMS builds, custom interactions"
+  rate: "project-based, open to discussing budget"
+  portfolio_url: ""
+  tone: "confident, concise, no fluff, no generic filler phrases like 'I am excited to apply'"
+  proposal_length_words: 120

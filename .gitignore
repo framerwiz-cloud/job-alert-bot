@@ -1,0 +1,10 @@
+# Secrets -- never commit. Covers .env, .env.backup, .env.local, etc.
+.env
+.env.*
+# ...but the placeholder template SHOULD be committed.
+!.env.example
+
+venv/
+__pycache__/
+*.pyc
+data/run.log

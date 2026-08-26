@@ -1,0 +1,39 @@
+name: Job Alert Bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run job alert bot
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          IMAP_HOST: ${{ secrets.IMAP_HOST }}
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          FREELANCER_OAUTH_TOKEN: ${{ secrets.FREELANCER_OAUTH_TOKEN }}
+          GURU_RSS_URL: ${{ secrets.GURU_RSS_URL }}
+          PPH_RSS_URL: ${{ secrets.PPH_RSS_URL }}
+        run: python -m src.main
+
+      - name: Persist dedup state
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update seen jobs"
+          file_pattern: data/seen.json
