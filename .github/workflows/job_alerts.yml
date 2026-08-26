@@ -2,7 +2,9 @@ name: Job Alert Bot
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # Every 5 minutes -- GitHub's minimum interval. Runs take seconds now that
+    # there's no AI drafting step, so there's no reason to poll less often.
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -23,7 +25,6 @@ jobs:
       - name: Run job alert bot
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           IMAP_HOST: ${{ secrets.IMAP_HOST }}
           IMAP_USER: ${{ secrets.IMAP_USER }}
           IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}

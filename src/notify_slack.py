@@ -8,39 +8,65 @@ from .sources.base import Job
 
 log = logging.getLogger(__name__)
 
+PLATFORM_EMOJI = {
+    "Upwork": "🟢",
+    "Freelancer.com": "🔵",
+    "Guru": "🟣",
+    "PeoplePerHour": "🟠",
+}
 
-def send_alert(webhook_url: str, job: Job, proposal: str | None) -> None:
+
+def send_alert(webhook_url: str, job: Job) -> None:
     if not webhook_url:
         log.warning("SLACK_WEBHOOK_URL not set, skipping alert for %s", job.url)
         return
 
-    header = f"*{job.platform}* — <{job.url}|{job.title}>"
+    emoji = PLATFORM_EMOJI.get(job.platform, "⚪")
+
+    context_bits = [f"{emoji} *{job.platform}*"]
     if job.budget:
-        header += f"  ·  💰 {job.budget}"
+        context_bits.append(f"💰 {job.budget}")
 
     blocks = [
-        {"type": "section", "text": {"type": "mrkdwn", "text": header}},
         {
             "type": "section",
-            "text": {"type": "mrkdwn", "text": job.description[:600] + ("…" if len(job.description) > 600 else "")},
+            "text": {"type": "mrkdwn", "text": f"*<{job.url}|{job.title}>*"},
+        },
+        {
+            "type": "context",
+            "elements": [{"type": "mrkdwn", "text": "  ·  ".join(context_bits)}],
         },
     ]
 
-    if proposal:
-        blocks.append({"type": "divider"})
+    description = job.description.strip()
+    if description:
         blocks.append(
             {
                 "type": "section",
-                "text": {"type": "mrkdwn", "text": f"*Draft proposal (review before sending):*\n>{proposal}"},
+                "text": {
+                    "type": "mrkdwn",
+                    "text": description[:700] + ("…" if len(description) > 700 else ""),
+                },
             }
         )
-    else:
-        blocks.append(
-            {"type": "context", "elements": [{"type": "mrkdwn", "text": "_No AI draft available — write your own proposal._"}]}
-        )
+
+    blocks.append(
+        {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {"type": "plain_text", "text": "View job"},
+                    "url": job.url,
+                    "style": "primary",
+                }
+            ],
+        }
+    )
 
     payload = {
-        "text": f"New job on {job.platform}: {job.title}",
+        # Fallback text drives the mobile/desktop notification preview.
+        "text": f"{job.platform}: {job.title}",
         "blocks": blocks,
     }
 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.moataz.jobalertbot</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/apple/job-alert-bot/venv/bin/python</string>
+        <string>-m</string>
+        <string>src.main</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/apple/job-alert-bot</string>
+
+    <!-- Every 15 minutes. launchd runs a missed job on wake; cron does not. -->
+    <key>StartInterval</key>
+    <integer>900</integer>
+
+    <!-- Don't fire the moment it's loaded; let the first scheduled tick handle it. -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/apple/job-alert-bot/data/run.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/apple/job-alert-bot/data/run.log</string>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>

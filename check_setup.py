@@ -5,8 +5,6 @@ import imaplib
 import sys
 from datetime import datetime, timedelta
 
-import requests
-
 from src.config import env, load_config
 
 OK, BAD, WARN = "\033[92m✅\033[0m", "\033[91m❌\033[0m", "\033[93m⚠️ \033[0m"
@@ -25,12 +23,6 @@ def main():
     # --- config.yaml ---
     try:
         cfg = load_config()
-        name = cfg.get("profile", {}).get("name", "")
-        if not name or name == "Your Name":
-            print(f"{WARN} config.yaml: profile name is still 'Your Name' -- your proposals will be generic.")
-            problems.append("Edit the profile: block in config.yaml")
-        else:
-            print(f"{OK} config.yaml: profile set up for {name}")
         print(f"{OK} config.yaml: {len(cfg['keywords'])} keywords -> {', '.join(cfg['keywords'])}")
     except Exception as e:
         print(f"{BAD} config.yaml could not be read: {e}")
@@ -46,26 +38,6 @@ def main():
         problems.append("Check your Slack webhook URL")
     else:
         print(f"{OK} SLACK_WEBHOOK_URL looks valid: {mask(hook)}")
-
-    # --- OpenRouter ---
-    key = env("OPENROUTER_API_KEY")
-    if not key:
-        print(f"{BAD} OPENROUTER_API_KEY is empty")
-        problems.append("Add OPENROUTER_API_KEY to .env")
-    else:
-        try:
-            r = requests.get(
-                "https://openrouter.ai/api/v1/auth/key",
-                headers={"Authorization": f"Bearer {key}"},
-                timeout=20,
-            )
-            if r.status_code == 200:
-                print(f"{OK} OPENROUTER_API_KEY is valid: {mask(key)}")
-            else:
-                print(f"{BAD} OpenRouter rejected the key (HTTP {r.status_code})")
-                problems.append("Regenerate your OpenRouter key")
-        except Exception as e:
-            print(f"{WARN} Could not reach OpenRouter: {e}")
 
     # --- IMAP / Upwork emails ---
     host, user, pw = env("IMAP_HOST"), env("IMAP_USER"), env("IMAP_PASSWORD").replace(" ", "")
@@ -118,7 +90,7 @@ def main():
         print("\nRun this again after fixing them.")
     else:
         print("Everything checks out. Preview what it found with:")
-        print("  venv/bin/python -m src.main --dry-run --no-ai")
+        print("  venv/bin/python -m src.main --dry-run")
     print()
     return 1 if problems else 0
 

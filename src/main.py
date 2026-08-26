@@ -2,12 +2,10 @@ from __future__ import annotations
 
 import argparse
 import logging
-import time
 
 from .config import env, load_config
 from .dedup import SeenStore
 from .notify_slack import send_alert
-from .proposal import draft_proposal
 from .sources.email_source import UpworkEmailSource
 from .sources.freelancer_api import FreelancerSource
 from .sources.rss_source import RssSource
@@ -27,13 +25,12 @@ def budget_ok(job, min_budget: float) -> bool:
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Find new freelance jobs and draft proposals.")
+    ap = argparse.ArgumentParser(description="Alert on new freelance jobs matching your keywords.")
     ap.add_argument(
         "--dry-run",
         action="store_true",
         help="Print what would be alerted instead of posting to Slack. Does not record jobs as seen.",
     )
-    ap.add_argument("--no-ai", action="store_true", help="Skip proposal drafting (useful when testing sources).")
     ap.add_argument(
         "--limit",
         type=int,
@@ -52,11 +49,8 @@ def main():
     cfg = load_config()
     keywords = cfg["keywords"]
     min_budget = cfg.get("min_budget", 0)
-    profile = cfg.get("profile", {})
-    models = cfg.get("openrouter_models") or []
 
     slack_webhook = env("SLACK_WEBHOOK_URL")
-    openrouter_key = "" if args.no_ai else env("OPENROUTER_API_KEY")
 
     sources = [
         UpworkEmailSource(
@@ -113,10 +107,8 @@ def main():
                 continue
 
             log.info("New match: [%s] %s", job.platform, job.title)
-            proposal = draft_proposal(job, profile, models, openrouter_key)
-            send_alert(slack_webhook, job, proposal)
+            send_alert(slack_webhook, job)
             seen.mark_seen(job.id)
-            time.sleep(1)  # be polite to OpenRouter's free-tier rate limit
 
     if args.dry_run:
         print("\n" + "=" * 70)
