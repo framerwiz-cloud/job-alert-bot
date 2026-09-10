@@ -61,7 +61,7 @@ def main():
             folder=env("IMAP_FOLDER", "INBOX"),
             lookback_days=int(env("IMAP_LOOKBACK_DAYS", "2") or 2),
         ),
-        FreelancerSource(keywords, env("FREELANCER_OAUTH_TOKEN")),
+        FreelancerSource(env("FREELANCER_OAUTH_TOKEN")),
         RssSource("Guru", env("GURU_RSS_URL")),
         RssSource("PeoplePerHour", env("PPH_RSS_URL")),
     ]

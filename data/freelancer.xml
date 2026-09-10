@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Freelancer.com saved search</title>
+<link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
+<description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Fix for Sports Recruiting Platform</title><link>https://www.freelancer.com/projects/web-development/Website-Fix-for-Sports-Recruiting</link><guid isPermaLink="false">freelancer:40703509</guid><pubDate>Thu, 10 Sep 2026 15:48:10 GMT</pubDate><description>15-25 USD/hr | I need a skilled developer to resolve issues on my high school sports recruiting website, which features a student academy with 6 courses and a mock AI interview section.
+
+Key issues:
+- Broken links or buttons
+- Functionality errors in student academy courses
+  - Courses not loading
+  - Course progress not being saved
+  - Videos or materials not accessible
+
+Ideal skills and experience:
+- Web development expertise
+- Experience with course management systems
+- Strong problem-solving abilities
+- Ability to fix broken links and improve site functionality
+
+Please ensure the site is fully functional and user-friendly.</description></item>
+<item><title>Franchise Restaurant Site Drawing Update</title><link>https://www.freelancer.com/projects/branding/Franchise-Restaurant-Site-Drawing-Update</link><guid isPermaLink="false">freelancer:40703439</guid><pubDate>Thu, 10 Sep 2026 15:11:37 GMT</pubDate><description>25-50 USD/hr | I need an experienced professional to update site drawings based on field verifications and modifications for a franchise restaurant fit-out. The project involves incorporating design guide elements, specifically signage and branding guidelines.
+
+Key Requirements:
+- Update site drawings to reflect:
+  - Layout changes
+  - Utility adjustments
+- Apply design guide for franchise restaurant fit-out, focusing on:
+  - Signage and branding
+- Implement prototype layout in tenant space
+
+Ideal Skills and Experience:
+- Proficiency in architectural design and site drawing modification
+- Strong understanding of franchise restaurant requirements
+- Experience with signage and branding integration
+- Attention to detail and accuracy in reflecting field modifications</description></item>
+<item><title>Web-Based Freight Logistics Software</title><link>https://www.freelancer.com/projects/web-development/Web-Based-Freight-Logistics-Software</link><guid isPermaLink="false">freelancer:40703322</guid><pubDate>Thu, 10 Sep 2026 14:05:32 GMT</pubDate><description>250-750 GBP | I'm looking for a web-based software solution to track and plan freight lorry logistics jobs. The software should be designed for manual entry of job information.
+
+Key requirements:
+- Route optimization feature to ensure the most efficient time and cost
+- User-friendly interface for easy manual job input
+
+Ideal Skills and Experience:
+- Proven experience in developing web-based logistics software
+- Expertise in route optimization algorithms
+- Strong UI/UX design skills for intuitive manual entry
+
+Please provide examples of similar projects and your approach to ensure efficiency in route planning.
+
+https://chatgpt.com/share/6aa2afa4-fd54-83ed-8658-72d1eceec26d</description></item>
+<item><title>AI Customer Support Automation</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Customer-Support-Automation-40702981</link><guid isPermaLink="false">freelancer:40702981</guid><pubDate>Thu, 10 Sep 2026 11:01:18 GMT</pubDate><description>250-750 USD | I want to automate our first-line customer support so every incoming message on WhatsApp and the website chat widget is routed through an AI that consults our knowledge base and replies instantly.
+
+Scope of interactions  
+• Channel flow: Customer → WhatsApp / web chat → AI assistant → updated knowledge base.
+
+What the assistant must do  
+• Answer FAQs accurately.  
+• Handle account-level inquiries (e.g., order status, subscription details).  
+• Provide personalised product recommendations that link back to our catalogue.
+
+Knowledge base status  
+About 70 % of the material already exists; we will need to audit, clean, and expand it so the AI can retrieve up-to-date answers with full citations.
+
+Technical expectations  
+The solution should integrate with the WhatsApp Business API and an embeddable web chat widget, use retrieval-augmented generation (OpenAI, LangChain, Rasa, or a comparable framework) for traceable responses, log every conversation, and include an admin panel where my team can review chats and edit content. Deployment will be on our AWS account; please ship infrastructure-as-code or detailed setup notes so we can reproduce the environment.
+
+Acceptance criteria  
+1. Messages on both channels receive AI responses in under five seconds.  
+2. At least 90 % of test questions are answered correctly, referencing a knowledge-base source.  
+3. Admin panel shows real-time transcripts and allows manual take-over.  
+4. Clear hand-off procedure to human agents for edge cases.  
+5. Comprehensive documentation covering architecture, setup, and future training steps.
+
+If you have proven experience building chat or WhatsApp AI agents, let’s discuss your approach and timeline.</description></item>
+<item><title>Animated Claude-Design Website Development</title><link>https://www.freelancer.com/projects/visual-basic/Animated-Claude-Design-Website</link><guid isPermaLink="false">freelancer:40702837</guid><pubDate>Thu, 10 Sep 2026 09:58:06 GMT</pubDate><description>250-750 USD | I’m putting together a small website that blends Claude-style visual design with a straightforward tech stack: Visual Basic for core logic, Sanity Studio as the headless CMS, and Vercel for hosting. The key requirement is a set of interactive elements—
+
+Here’s what I need from you:
+
+• Build the front-end so that every animation is consistent with the Claude design language I’ll provide (colour palette, spacing, motion principles).  
+• Wire it to Sanity Studio so I can update copy and images myself.  
+• Handle deployment to Vercel and leave me with a clear hand-off guide covering environment variables, build commands, and any Visual Basic functions or helpers you write.
+
+Acceptance criteria  
+• Content edits made in Sanity publish to production via Vercel’s pipeline with no manual steps.  
+• Codebase is clean, commented, and ready for future contributors.
+
+If you have recent examples of animation-heavy sites or have paired Sanity with Vercel before, that will help me decide quickly.</description></item>
+<item><title>Comprehensive Website Revamp for Optimal UX/UI</title><link>https://www.freelancer.com/projects/graphic-design/Comprehensive-Website-Revamp-for-Optimal</link><guid isPermaLink="false">freelancer:40702810</guid><pubDate>Thu, 10 Sep 2026 09:41:00 GMT</pubDate><description>250-750 GBP | I need my website updated to be user-friendly and compatible on web browsers, desktop, mobiles, and tablets. The website will be informational only, with no online payment terminals. It should include a testimonial section relevant to each page, using existing reviews from Google and Checkatrade (with first names replaced by Mr. or Mrs.). For patios and driveways, integrate these reviews alongside a detailed gallery showcasing job categories like brickwork and groundwork. For waste management and plant hire services, include clear sections highlighting offerings such as loose aggregates (available in bulk bags) and RMC ready-mix concrete. Emphasize that building materials are strictly delivery-only, with no collection option. Additionally, plant hire pricing should match HSS Southern in Woking's rates as all equipment is cross-hired from them. The design should align with the fonts and color scheme of my provided letterhead.</description></item>
+<item><title>M365 Solutions Architect Needed in Sydney</title><link>https://www.freelancer.com/projects/microsoft-365/Solutions-Architect-Needed-Sydney</link><guid isPermaLink="false">freelancer:40702532</guid><pubDate>Thu, 10 Sep 2026 07:19:00 GMT</pubDate><description>50+ AUD/hr | I'm seeking a Microsoft 365 Solutions Architect to help implement custom-built solutions across SharePoint, Power Platform, and Teams. The solutions will focus on:
+
+- Workflow Automation
+- Collaboration Tools
+- Document Management
+We are building a Microsoft 365-based operating platform for a lender-side distressed property development management business. We require SharePoint information architecture, segregated client data rooms, Teams, Microsoft Lists, Power Automate workflows, Power BI dashboards, Intune/Entra security, Purview governance and AI-ready structured data. We already have the business process and contractual control architecture mapped and need a Microsoft solutions architect to translate it into an engineered M365 environment.
+
+Ideal skills and experience:
+- Strong expertise in Microsoft 365, especially SharePoint, Power Platform, and Teams.
+- Proven track record in designing and implementing custom-built solutions.
+- Experience with advanced integrations with other systems.
+
+Looking for a professional who can work on-site in Sydney. Please provide examples of previous work and relevant certifications.</description></item>
+<item><title>Portfolio Site for Handbag Brand</title><link>https://www.freelancer.com/projects/web-design/Portfolio-Site-for-Handbag-Brand</link><guid isPermaLink="false">freelancer:40702531</guid><pubDate>Thu, 10 Sep 2026 07:12:25 GMT</pubDate><description>250-750 GBP | I’ve just launched a new handbag line and I need a stylish, easy-to-manage portfolio website that lets visitors fall in love with the collection at a glance. This is not an online store—no shopping cart or checkout flow is necessary—so the focus is purely on visual storytelling and brand credibility.
+
+Core requirements  
+• About Us page that tells the brand story in a clean, engaging layout.  
+• Product Gallery that can display multiple photos per bag, with lightbox or slider functionality and simple category tags so I can expand the range later.  
+• Contact Us page with a short form, social links, and a map or office details.
+
+The finished site must be mobile-first, fast-loading, and SEO-ready. I’m open to WordPress, Webflow, Squarespace, or a lightweight static build—as long as updating images and copy is straightforward for a non-developer. Please handle basic on-page SEO (meta tags, alt text) and set up Google Analytics so I can track interest from day one.
+
+Delivery will be: the live site on my domain, editable source files/templates, and a brief hand-over guide showing me how to add new bags or tweak text. If you excel at clean design, strong imagery placement, and responsive layouts, I’d love to see how you would bring this brand to life.</description></item>
+<item><title>Corporate HTML Email Signature Design</title><link>https://www.freelancer.com/projects/web-design/Corporate-HTML-Email-Signature-Design</link><guid isPermaLink="false">freelancer:40702217</guid><pubDate>Thu, 10 Sep 2026 04:12:25 GMT</pubDate><description>250-750 AUD | We are an Australian specialist consulting firm looking for an experienced HTML email signature developer to turn an already approved design into a professional, responsive email signature.
+The design is complete. This is not a logo or branding project. We need someone with genuine expertise in building email signatures that render correctly across Outlook Windows, Outlook Mac, Apple Mail, Gmail, iPhone and Android.
+The signature includes an existing logo, employee name and title, mobile number, office number, website and a simple two section layout.
+Requirements include:
+1.	Pixel accurate reproduction of supplied design 
+2.	Responsive performance across desktop and mobile 
+3.	Outlook compatible HTML 
+4.	Clickable phone numbers and website 
+5.	Sharp logo rendering on Retina screens 
+6.	Live HTML text rather than converting the entire signature to an image 
+7.	A reusable template for multiple employees 
+8.	Testing across major email clients 
+9.	Experience dealing with email font fallback and dark mode behaviour 
+Our preferred typography is Aptos and Aptos Display, with appropriate email safe fallbacks.
+Please do not redesign the signature. We are looking for an HTML email specialist rather than a graphic designer.
+When applying, please send 2 or 3 examples of HTML email signatures you have personally built, preferably showing both desktop and mobile rendering.
+Please also answer:
+How would you build a two-section signature so it remains reliable in Outlook for Windows but also works well on an iPhone?
+I would particularly like applicants who can demonstrate actual cross client testing rather than simply providing a HTML file.</description></item>
+<item><title>Community Builder Heritage Site Setup</title><link>https://www.freelancer.com/projects/web-development/Community-Builder-Heritage-Site-Setup</link><guid isPermaLink="false">freelancer:40702122</guid><pubDate>Thu, 10 Sep 2026 02:59:05 GMT</pubDate><description>250-750 CAD | I’m preparing a new Joomla-powered website for our heritage organization and need an experienced hand with Joomlapolis Community Builder to turn it into a lively hub for our members.
+
+The main objective is simple: facilitate member interaction. To achieve that, the build must include active forums with true threaded discussions so conversations stay clear and easy to follow, plus an area for group activities where members can organise and collaborate around specific heritage projects or interests. If you have a preferred way to handle event-style gatherings inside Community Builder, let me know; I’m open to solutions that keep everything under one login.
+
+Here’s how I see the engagement:
+
+• Install and configure the latest Community Builder on a fresh Joomla instance (or work within our existing install if you prefer).  
+• Integrate a compatible forum component—Kunena or another tool you trust—ensuring threaded view works smoothly with CB profiles.  
+• Set up a group-management extension such as CB GroupJive (or an equivalent you recommend) so members can create and join topic-based groups.  
+• Apply a clean template that matches our heritage branding; responsiveness across devices is required.  
+• Document any custom CSS, plugin tweaks, or overrides so we can maintain them internally.  
+• Final hand-over: a short screencast or written guide showing how to add new forums, groups, and events.
+
+Please share a link or two to Community Builder projects you’ve done—especially those with integrated forums or group modules—and your estimated timeline from install to launch.</description></item>
+<item><title>Website Redesign with Local SEO Focus</title><link>https://www.freelancer.com/projects/graphic-design/Website-Redesign-with-Local-SEO</link><guid isPermaLink="false">freelancer:40701945</guid><pubDate>Thu, 10 Sep 2026 01:14:57 GMT</pubDate><description>1500-3000 USD | Looking for an experienced website designer with expertise in service-based businesses. The project involves redesigning an existing website to improve its design, conversion methods, and SEO performance. Key requirements include: - Local SEO emphasis (local business schema markup, embedded Google map, NAP consistency). - Proven experience in service-based business websites with strong portfolios showcasing links to live sites. - Ability to showcase designs that rank well in SEO within their respective industries. The current site rates as 5/10 for design, 7/10 for conversion, and 8/10 for SEO. The redesign must significantly improve these metrics without compromising functionality or SEO.</description></item>
+<item><title>Corporate Website Completion</title><link>https://www.freelancer.com/projects/web-design/Corporate-Website-Completion</link><guid isPermaLink="false">freelancer:40701889</guid><pubDate>Wed, 09 Sep 2026 23:49:29 GMT</pubDate><description>15-25 AUD/hr | Includes everything in Option 1 plus:
+
+    Rebuild broken sections
+
+    Improve layout and spacing
+
+    Optimise mobile
+
+    Fix plugin conflicts
+
+    Improve speed
+
+    Add missing pages
+
+    Set up email notifications
+
+    Ongoing support for 2–4 weeks</description></item>
+<item><title>SmartGrid Electric – Workflow System Development</title><link>https://www.freelancer.com/projects/wordpress/SmartGrid-Electric-Workflow-System</link><guid isPermaLink="false">freelancer:40701834</guid><pubDate>Wed, 09 Sep 2026 22:55:06 GMT</pubDate><description>250-750 USD | SmartGrid Electric – Website Workflow Development
+
+We need a developer to build two automated workflow systems on onlysmartgrid.com:
+
+1. SmartGrid Apprenticeship Academy Workflow
+
+We need a complete online enrollment and applicant-management system for our electrical apprenticeship program.
+
+The workflow should be:
+
+Landing Page → Application → Applicant Profile → Document Upload → Application Review → Approval/Denial → Enrollment → Tuition/Payment Setup → Apprentice Dashboard → Program Tracking
+
+Applicants should be able to:
+
+* Complete an online apprenticeship application
+* Create an account/profile
+* Upload required documents such as ID, resume, certifications, etc.
+* Select available program/cohort options
+* Receive automatic email/SMS confirmations and status updates
+* Receive an acceptance/enrollment offer if approved
+* Electronically sign enrollment documents
+* Pay tuition, registration fees, or select an available financing/payment option
+* Access a student/apprentice dashboard after enrollment
+* View documents, payment status, announcements, and program information
+
+Administrators need a backend dashboard showing every applicant and their current stage, such as:
+
+New Lead → Application Started → Application Submitted → Under Review → Approved → Enrollment Pending → Payment Pending → Enrolled → Active Apprentice → Completed/Inactive
+
+The system should make it easy for SmartGrid staff to move applicants between stages, add notes, send communications, request missing documents, and track enrollment conversions.
+
+⸻
+
+2. SmartShield Warranty/Membership Workflow
+
+We need a complete online sales, enrollment, recurring-payment, and membership-management workflow for the SmartShield warranty/membership program.
+
+The customer workflow should be:
+
+SmartShield Landing Page → Select Plan → Customer Information → Property Information → Terms/Agreement → Recurring Payment → Confirmation → Initial Inspection/Service Setup → Active Member
+
+Customers should be able to:
+
+* Compare SmartShield membership plans
+* Select a plan
+* Enter customer and property information
+* Electronically accept/sign membership terms
+* Set up automatic recurring payments
+* Receive an immediate enrollment confirmation
+* Receive automatic email/SMS communications
+* Access their membership information
+* Request service or submit a claim/service request
+* Update payment information when necessary
+
+The administrative workflow should track:
+
+New Lead → Plan Selected → Enrollment Started → Payment Completed → Inspection Required → Inspection Scheduled → Inspection Completed → Active Member → Service Request/Claim → Renewal/Cancellation
+
+We currently use Housecall Pro, so the system should integrate with Housecall Pro where possible to automatically create/update customer records, membership information, jobs, inspections, and service requests.
+
+⸻
+
+Overall Requirements
+
+Both systems should be designed for automation and scalability, not simply basic contact forms.
+
+We want:
+
+* WordPress integration with onlysmartgrid.com
+* Mobile-friendly forms and dashboards
+* CRM/database tracking
+* Automated email and SMS notifications
+* Electronic signatures
+* Secure document uploads
+* Online and recurring payments
+* Admin dashboards
+* Customer/applicant status tracking
+* Housecall Pro integration where applicable
+* API/webhook capability for future integrations
+* Conversion tracking/analytics
+* Ability to add additional programs, membership plans, locations, and workflows later
+
+The goal is to create an automated system where SmartGrid staff can see exactly where every apprenticeship applicant and every SmartShield customer is in the process without manually managing spreadsheets, emails, and paperwork.</description></item>
+<item><title>Enhance LivSafe Website Functionality</title><link>https://www.freelancer.com/projects/web-development/Enhance-LivSafe-Website-Functionality</link><guid isPermaLink="false">freelancer:40701823</guid><pubDate>Wed, 09 Sep 2026 22:43:43 GMT</pubDate><description>250-750 USD | I currently have the basic LivSafe Home website built through Free Website Guys:
+
+https://livsafe.fwgsite.com/
+
+The public-facing website is already established, and I am not looking for a complete website redesign. I am primarily looking for someone to add the functional client and admin side of the business while keeping the design/branding cohesive with the existing site.
+
+LivSafe Home provides private-pay home safety assessments. Clients will complete the process remotely by submitting information, completing a home safety checklist, and uploading photos/videos of their home for review.
+
+I would like to add:
+
+* A one-time payment/checkout system, preferably Stripe
+* A secure client login
+* A client dashboard/portal
+* A secure admin dashboard for me
+* Client intake form
+* Online home safety checklist
+* Room-by-room photo and video uploads
+* Client progress/status tracking
+* A way for me to review each client's information and uploads
+* A place for me to add private admin notes
+* Ability for me to upload the completed assessment/report as a PDF
+* Ability for each client to access/download only their own completed report
+
+The ideal customer workflow is:
+
+Current LivSafe website → Purchase Home Safety Assessment → Create/Login to Client Account → Complete Intake → Complete Home Safety Checklist → Upload Photos/Videos by Room → Submit for Review → LivSafe Reviews Submission → Completed Report Becomes Available in Client Portal.
+
+For the client dashboard, I would like the process to be visually simple and show their progress, for example:
+
+1. Payment Complete
+2. Complete Intake
+3. Complete Home Safety Checklist
+4. Upload Home Photos/Videos
+5. Submitted for Review
+6. Assessment Complete / Download Report
+
+For my admin dashboard, I would like to see all clients and quickly identify:
+
+* Payment status
+* Intake completion
+* Checklist completion
+* Photo/video submission status
+* Date submitted
+* Assessment status
+* Ready for Review
+* Report in Progress
+* Completed
+
+When I click on a client, I would like their intake information, checklist answers, photos/videos organized by room, admin notes, and final report all accessible in one place.
+
+I am open to a no-code/low-code solution such as Softr + Airtable/Softr Database + Stripe rather than building a completely custom application.
+
+Ideally, the client portal could live on something like:
+
+portal.livsafehome.com
+
+while the existing public website remains the primary marketing website.
+
+I would like the freelancer to recommend the simplest, most cost-effective setup that can accomplish this while maintaining secure individual client access and an easy-to-use admin system.</description></item>
+<item><title>WordPress Developer for Kastle Media</title><link>https://www.freelancer.com/projects/javascript/WordPress-Developer-for-Kastle-Media</link><guid isPermaLink="false">freelancer:40701803</guid><pubDate>Wed, 09 Sep 2026 22:21:31 GMT</pubDate><description>250-750 CAD | Kastle Media is hiring a freelance WordPress developer to build a new client website using our
+existing Kastle Core custom WordPress theme and our approved schema plugin.
+This is a custom-code WordPress build. It is not a page-builder project.
+The successful freelancer will work within the existing Kastle Core architecture and build a
+new, client-specific website from scratch. Each client has its own design, content, brand
+identity, page layouts, and CSS. Do not copy page templates, CSS, HTML, components, or visual
+styling from another Kastle client website unless a specific technical pattern has been
+approved for reuse.
+AI-assisted development is acceptable. The final output must be clean, maintainable,
+accessible, responsive, secure, documented, and production-ready.
+Build in WordPress using the existing Kastle Core custom theme.
+Do not install or use Elementor, Divi, WPBakery, Beaver Builder, Bricks, Oxygen, or any
+other visual page builder.
+Build pages with semantic HTML, CSS, and JavaScript only where it is genuinely required.
+Do not replace, modify, or bypass the Kastle Core theme architecture without written
+approval.</description></item>
+<item><title>Modern WordPress Business Site</title><link>https://www.freelancer.com/projects/elementor/Modern-WordPress-Business-Site</link><guid isPermaLink="false">freelancer:40701802</guid><pubDate>Wed, 09 Sep 2026 22:20:27 GMT</pubDate><description>15-25 USD/hr | I'm seeking an experienced developer to build a modern and clean business website using WordPress and Elementor. 
+
+Key Requirements:
+- The website should include the following pages: Home, About Us, Contact Us, Services, and Shop.
+
+Ideal Skills and Experience:
+- Proficiency in WordPress and Elementor
+- Strong design skills for a modern and clean aesthetic
+- Experience in setting up e-commerce functionalities is a plus
+- Attention to detail and ability to meet deadlines
+
+Please provide a portfolio showcasing similar projects.</description></item>
+<item><title>Wix - worldfriendshipplace.life setup</title><link>https://www.freelancer.com/projects/blogging/Wix-worldfriendshipplace-life-setup</link><guid isPermaLink="false">freelancer:40701785</guid><pubDate>Wed, 09 Sep 2026 22:00:11 GMT</pubDate><description>15-25 USD/hr | I need help setting up a Wix and integrating my domain, www.worldfriendshipplace.life.  
+
+The blog should include:  
+- Comment section  
+- Social media sharing buttons  
+- Newsletter signup  
+
+Ideal skills and experience:  
+- Proficient in Wix  
+- Experience with personal blogs  
+- Knowledge of SEO best practices  
+- Strong design skills to ensure a professional look  
+
+Please provide a portfolio of similar work.</description></item>
+<item><title>SaaS Platform Backend Improvement</title><link>https://www.freelancer.com/projects/backend-development/SaaS-Platform-Backend-Improvement</link><guid isPermaLink="false">freelancer:40701721</guid><pubDate>Wed, 09 Sep 2026 20:52:52 GMT</pubDate><description>36+ GBP/hr | Secure Multi-Tenant SaaS Backend Redesign
+
+Category: Backend Development / Software Architecture Budget: £1,350 GBP Hourly rate range (if hourly bids considered): $30/hr – $250/hr Project deadline: Tuesday, 6 October 2026
+
+Description: We need an experienced backend engineer to redesign and harden the backend architecture of an existing multi-tenant SaaS platform. The current system needs improved data isolation between tenants, encrypted API endpoints, and a cleaner service layer separating authentication, billing, and core business logic. This is purely backend/infrastructure work — no front-end changes required.
+
+Key requirements:
+
+Strong experience with backend frameworks (Node.js, Django, or Java Spring)
+Familiarity with multi-tenant data architecture and encryption best practices
+Experience designing secure, versioned REST or GraphQL APIs
+Comfortable working against a fixed one-week delivery window
+
+Deliverables:
+
+Revised backend architecture diagram
+Refactored authentication and API layer with encryption in transit/at rest
+Documentation of security decisions and migration notes
+
+Money-Back Guarantee &amp; Acceptance Terms:
+
+Freelancer's acceptance of these terms. By commencing any work under this project — including, without limitation, accepting the award, confirming a start date, or performing any preparatory or substantive task — the Freelancer is deemed to have read, understood, and irrevocably accepted all terms of this posting in full, including this Money-Back Guarantee &amp; Acceptance Terms clause. Commencement of work by the Freelancer constitutes their binding acceptance of the contract; it is not conditional on any further signature or confirmation.
+
+Milestone release ≠ Client's acceptance of the work. Release of any milestone payment by the Client authorises the Freelancer to commence or continue work only. It does not constitute the Client's acceptance of that work or of the final deliverable. The Client's acceptance of the deliverable occurs solely upon the Client's written confirmation that it conforms to the specification set out in this posting. 
+
+Time is of the essence. The Project Deadline stated above (6 October 2026) is a material term of this engagement.
+
+Money-back guarantee. If the completed deliverable(s) are not delivered in full working order by the Project Deadline, and the Client has not granted an express written extension prior to that deadline, the moneyback gurantee clause will be triggered and this contract shall automatically and immediately terminate (become void) without further notice, and the Freelancer shall refund the Client all sums paid under this contract in full within 5 business days of the deadline lapsing.
+Extensions. Any extension to the Project Deadline is valid only if agreed in writing (including via the platform's messaging system) by the Client before the original deadline expires. No extension is implied by silence, delay in response, or continued work after the deadline has passed.
+No waiver. The Client's acceptance of late or partial work, at its sole discretion, does not waive the Client's rights under this clause in respect of any other milestone or deliverable.
+Survival. This clause survives termination of the contract.</description></item>
+<item><title>Brand Identity &amp; E-Commerce Site</title><link>https://www.freelancer.com/projects/branding/Brand-Identity-Commerce-Site</link><guid isPermaLink="false">freelancer:40701428</guid><pubDate>Wed, 09 Sep 2026 17:42:32 GMT</pubDate><description>750-1500 AUD | I’m building Forever Flower Co. into a premium flower-gift destination and need a designer who can translate “modern yet timeless” into every touchpoint—from the logo through to a mobile-first Shopify storefront.  
+
+Here’s the vision: a minimal, elegant identity that feels fresh today and still relevant years from now. You’ll craft the core brand system (logo, refined typography palette, packaging concepts) and then roll that aesthetic seamlessly into a fully functioning Shopify site. The store must support user account creation, advanced product filtering, and an integrated blog so we can share care tips and stories behind each arrangement.
+
+I like to work collaboratively: we’ll review each stage, lock in approved decisions, and keep the brand language consistent. Good communication is crucial; I expect timely updates, openness to feedback, and proactive creative advice on best practices for luxury e-commerce.
+
+Deliverables  
+• Logo suite and brand guidelines  
+• Typography hierarchy and usage rules  
+• Packaging design ready for print  
+• Responsive Shopify theme customised to our brand, complete with account, filter, and blog functionality  
+• Handover of editable source files and brief documentation for future updates
+
+If you’re skilled in branding, packaging, and Shopify design and enjoy building long-term brands—not just one-off assets—I’d love to hear how you’d approach Forever Flower Co.</description></item>
+<item><title>Engaging Jewelry E-commerce Build</title><link>https://www.freelancer.com/projects/shopify-site/Engaging-Jewelry-commerce-Build</link><guid isPermaLink="false">freelancer:40701423</guid><pubDate>Wed, 09 Sep 2026 17:41:57 GMT</pubDate><description>15-25 USD/hr | I’m ready to launch an online store for a curated line of jewelry and need a developer who can turn the concept into a polished, revenue-ready website. All product photos and short demo videos will be pulled from the manufacturer’s site; I’m already in the process of securing formal usage permission, so the build must make it easy to swap or update media later if any items change.
+
+The site has a single goal—sell. From a clean product catalogue and zoom-ready galleries to a frictionless cart and secure checkout, every click should reinforce trust and elegance. I’m open to Shopify, WooCommerce or another mainstream platform if it speeds us to market, provided the final result is fully responsive, SEO-friendly, and simple for me to maintain after hand-off.
+
+Key deliverables  
+• Complete store setup with intuitive navigation and modern, mobile-first design  
+• Product pages that showcase manufacturer-supplied images and videos without quality loss  
+• Payment gateway integration and basic tax/shipping rules  
+• Backend walkthrough so I can add or update items myself  
+
+Acceptance criteria: a live site that passes mobile and desktop performance audits, processes a test order end-to-end, and allows me to change a product’s media in under five minutes.</description></item>
+<item><title>SaaS Platform Development for Cleaning Companies</title><link>https://www.freelancer.com/projects/saas-development/SaaS-Platform-Development-for-Cleaning</link><guid isPermaLink="false">freelancer:40701398</guid><pubDate>Wed, 09 Sep 2026 17:29:08 GMT</pubDate><description>1500-3000 USD | We are looking for an experienced full-stack developer or development team to build a multi-tenant SaaS platform for cleaning companies from scratch.
+
+The platform will provide functionality similar to leading cleaning and field-service management platforms such as ZenMaid and Housecall Pro, while incorporating our own unique features, workflows, branding, and business model.
+
+The goal is to create a scalable software platform where multiple independent cleaning companies can subscribe to the service, create their own business profile, and operate through their own secure web interface. Each company must have completely separated customers, employees, schedules, jobs, invoices, payments, reports, and business data.
+
+Core features will include:
+
+- Company registration and account management
+- Separate company dashboards
+- Customer and employee management
+- Scheduling and dispatching
+- One-time and recurring cleaning appointments
+- Online booking
+- Custom pricing and service packages
+- Estimates and invoicing
+- Online payments
+- Customer portal
+- Cleaner/employee portal
+- SMS and email notifications
+- Before/after job photos
+- Cleaning checklists and quality control
+- Reviews and ratings
+- Business reporting and analytics
+- Subscription plans for SaaS customers
+- Role-based permissions
+- Company branding and booking websites
+- API integrations
+
+We also want to develop additional features that can differentiate our platform, including AI-powered customer communication/receptionist capabilities, automated lead follow-up, smart scheduling, route optimization, business analytics, and other automation tools.
+
+The system should be designed as a true multi-tenant SaaS architecture with strong security, data isolation, scalability, and the ability to support thousands of cleaning companies as the business grows.
+
+We are open to recommendations regarding the technology stack, but expect the developer to have strong experience with modern web development, cloud infrastructure, databases, APIs, payment systems, and SaaS architecture. Mobile applications for cleaners may be developed as a later phase.
+
+We prefer to build the platform in phases, starting with an MVP and then adding advanced features, integrations, AI, and mobile applications.
+
+We are looking for a long-term development partner, not someone to simply create a basic website. Please provide examples of similar SaaS or multi-tenant platforms you have built, your recommended technology stack, estimated timeline, estimated cost, and information about your development team.
+
+Web Platform and Phone [Ios and Android]</description></item>
+<item><title>WordPress Homepage &amp; Template Revamp</title><link>https://www.freelancer.com/projects/web-design/WordPress-Homepage-Template-Revamp</link><guid isPermaLink="false">freelancer:40701129</guid><pubDate>Wed, 09 Sep 2026 15:00:00 GMT</pubDate><description>250-750 GBP | Our corporate WordPress site needs a fresh, professional face and a smarter way for my team to manage content without touching code.  
+
+First, the homepage: please re-work the header and navigation, main content area, and footer so they line up with a clean, corporate-and-professional aesthetic while remaining fully responsive. I want every element—from typography to spacing—to feel consistent and trustworthy on desktop, tablet, and mobile.
+
+Next, the reusable templates. I need a set of drag-free, code-free building blocks—powered by Customizable Content Blocks—that my non-technical team can duplicate and edit in the native WordPress editor (or a reputable page-builder if it offers the same no-code flexibility). Each template must inherit the same responsive rules you establish on the homepage.
+
+Deliverables  
+• Redesigned homepage (header, body, footer) implemented on our live staging site  
+• Reusable page templates:  
+ – Product / Service page  
+ – About Us  
+ – Blog listing &amp; single-post layout  
+ – Case Study detail page  
+• All templates built with easily editable content blocks, no custom PHP required  
+• Documentation (short Loom video or PDF) showing my team how to duplicate and edit each template  
+
+Acceptance Criteria  
+• Templates pass Google Mobile-Friendly Test and load without layout shifts  
+• All text, images, and CTAs can be changed by an Editor-role user without developer help  
+ Editable content: Our team must be able to change headings, copy, images, buttons, FAQs, testimonials, cards, pricing, links etc. 
+•  Reusable sections: Hero banners, feature cards, carousels, CTAs, FAQs, testimonial sections, comparison sections and other blocks should ideally be reusable across pages. 
+•  Design direction: Classic/timeless, professional and trustworthy. Designed primarily for UK education professionals, including headteachers, SLT, SENCOs, assessment leads and MAT leaders. 
+•  Brand: Must follow the existing iTRACK Education brand identity, including logo, colours, typography and overall feel, but you're open to improving how these are applied digitally. 
+•  Responsive design: Desktop, tablet and mobile. 
+•  Accessibility: Designed with accessibility in mind and ideally WCAG 2.2 AA. 
+•  SEO: Proper heading hierarchy, editable metadata where appropriate, internal linking, schema-friendly structure, good Core Web Vitals/page speed and no design elements that make content difficult for search engines to understand. 
+•  AI/search: Content needs to remain crawlable as normal HTML rather than important information being buried in images or unnecessarily complicated interactive elements. 
+•  Performance: Avoid bloated plugins/builders and unnecessarily large animations. 
+•  Navigation: Existing site navigation and footer should be incorporated/updated consistently. 
+•  Forms/CTAs: Clearly designed routes to Book a Demo, enquire, purchase/find out more etc. 
+•  Handover: Documentation or a short recorded training session showing your team how to create/edit pages. 
+•  Ownership: iTRACK should own the templates/design work and should not require an ongoing licence to the designer themselves to keep using them. 
+•  Staging: Work should be completed/tested on staging before being pushed to the live website. 
+
+
+Once the new homepage and templates are signed off, I’ll migrate everything to production. I’m happy to answer any technical questions or provide brand assets as soon as we start.</description></item>
+<item><title>Fullscreen Photography Portfolio Website</title><link>https://www.freelancer.com/projects/web-design/Fullscreen-Photography-Portfolio-Website</link><guid isPermaLink="false">freelancer:40701011</guid><pubDate>Wed, 09 Sep 2026 13:54:35 GMT</pubDate><description>250-750 AUD | I’m ready to turn my body of work into a polished online showcase. The site’s sole purpose is to display my portfolio, so every design choice should push the photography to the foreground. A fullscreen slideshow is the look I’m after—edge-to-edge images that fill the visitor’s screen, with minimal UI and smooth, swipe-friendly transitions on mobile.
+
+My work spans portraits, events, and weddings, and I’d like each category to feel distinct while still living inside one cohesive experience. Think elegant, fast-loading galleries, subtle hover-reveals for captions, and an unobtrusive menu or icon set that never pulls attention away from the images.
+
+A lightweight CMS (WordPress, Webflow, or something equally intuitive) will let me update shots and reorder slides myself without touching code. The build must be fully responsive, optimized for retina displays, and lightly tuned for SEO so prospective clients can actually find me. Speed matters; large images should be delivered through smart compression or lazy loading.
+
+Deliverables  
+• Custom responsive site with fullscreen slideshow landing page  
+• Separate galleries for portraits, events, and weddings  
+• Simple About/Contact section with embedded contact form  
+• CMS setup and walkthrough so I can update images/text  
+• Basic SEO and performance optimisation (image compression, lazy load)  
+
+Once the site is live and I’ve tested image swaps on my end, we’ll call the project complete. If this sounds like your wheelhouse, let’s get started—I’m excited to see my work shine online.</description></item>
+<item><title>UK Website Ongoing Technical Maintenance</title><link>https://www.freelancer.com/projects/cloudflare/Website-Ongoing-Technical-Maintenance</link><guid isPermaLink="false">freelancer:40700842</guid><pubDate>Wed, 09 Sep 2026 12:18:43 GMT</pubDate><description>18-36 GBP/hr | I’m looking for a new developer/company to provide ongoing technical maintenance and support for our established website, FreeWills.co.uk, which is operated by Quick Will Limited.
+
+The website is built using October CMS/PHP and is hosted on Linode, with Cloudflare also in use. We are not looking for a redesign or redevelopment of the website. We need a reliable person/company to maintain the existing system and provide technical support when required.
+
+Our requirements include:
+
+* 24/7 automated uptime monitoring and alerts
+* Monitoring for HTTP 5xx/504 errors and other availability issues
+* Linode/server monitoring, including unusual traffic or resource usage
+* October CMS, PHP and database maintenance
+* Security and dependency updates
+* Cloudflare/DNS support where required
+* Backup monitoring and the ability to restore the site if necessary
+* GitHub/source-code and deployment support
+* Investigation of server/application errors when they occur
+* Reasonable response times for urgent issues affecting the live website
+* Occasional development/fixes, which could be charged separately if appropriate
+
+We recently had an incident where the website returned 504 Gateway Timeout errors for approximately 16 minutes during a site crawl. Unfortunately, Google Ads attempted to access the website during this period and subsequently disapproved a significant number of our advertisements because it considered the destination unavailable. This has highlighted the need for appropriate monitoring and someone available to investigate these issues when they occur.
+
+Our current developers have carried out substantial remediation and development work, so we would arrange a proper technical handover and provide access to the relevant systems and documentation.
+
+We would like a quote for ongoing maintenance with additional development charged separately or another arrangement you would recommend.
+
+Could you please let me know:
+
+1. Whether you currently support existing October CMS websites;
+2. Whether you are comfortable supporting Linode/Linux, Cloudflare, PHP and the associated server infrastructure;
+3. What monitoring and emergency response you would provide;
+4. Your typical response time if the live website goes down;
+5. What would be included within a monthly maintenance package;
+6. Your monthly cost;
+7. Your hourly rate for work outside the maintenance package; and
+8. Whether there would be any initial onboarding/handover charge.
+
+The website is commercially important to us, so I’m looking for a long-term relationship with someone who can maintain the existing platform reliably, rather than someone looking to replace or rebuild it.
+
+I’d be happy to arrange a call and provide further technical information if required before you quote.
+
+Kind regards,
+
+Amanda George
+Managing Director
+Quick Will Limited t/a Free Wills
+FreeWills.co.uk</description></item>
+<item><title>IT Company Website Development -- 2</title><link>https://www.freelancer.com/projects/web-development/Company-Website-Development-40700803</link><guid isPermaLink="false">freelancer:40700803</guid><pubDate>Wed, 09 Sep 2026 11:55:53 GMT</pubDate><description>250-750 AUD | I'm looking for an experienced web developer to create an informational website for my new IT company. The site should include the following key pages:
+
+- About Us
+- Services
+- Contact Us
+
+Ideal Skills and Experience:
+- Proficiency in HTML, CSS, and JavaScript
+- Experience with responsive design
+- Strong understanding of SEO best practices
+- Ability to integrate contact forms and other interactive elements
+
+Please provide samples of previous work and a timeline for project completion.</description></item>
+<item><title>Blazor Dynamic Theme Template</title><link>https://www.freelancer.com/projects/dot-net/Blazor-Dynamic-Theme-Template</link><guid isPermaLink="false">freelancer:40700792</guid><pubDate>Wed, 09 Sep 2026 11:51:14 GMT</pubDate><description>15-25 AUD/hr | I’m building a reusable Blazor WebAssembly SPA template for business projects and need a seasoned .NET 8 developer to turn my specification into a clean, pluggable starter kit.
+
+What I need built:
+• HTML/CSS Template layout for Blazor – header, left/right panels, main body and footer, wired for light / dark switching. Only sample placeholder content is necessary so the focus stays on the template and left/right and scrollable mechanics.
+• Static values replaced by tokens – every colour, font or spacing value must be expressed as a placeholder such as «HeavyValidationAccent». A single JSON file will hold the real values so that swapping themes is a simple file change.
+• Demo application – at dev or run-time the app should read the JSON, replace the tokens with the JSON values and reflecting the styling. I’d like to demonstrate both a black-on-white and white-on-black scheme plus a quick edit (for example a new accent colour) to prove live re-theming works.  Grey scale is required.  Colour tones/accents not necessary.
+
+Sample content focus:
+The demo should showcase general form and a few non-interactive, basic data entry elements. Include:
+– Input fields and buttons  
+– Dropdowns and checkboxes  
+– A simple data grid / table  
+
+Tech stack &amp; approach:
+C# .NET 8 or 10.
+Operationally/hosting environment is Linux.
+Stick with pure WASM Blazor (not server)
+Standard HTML/CSS.
+Just enough code to toggle the Light/Dark theme.
+Keep the code organised so future code generated pages can inherit the layout without too much modification or hassle.
+
+Once awarded I’ll share a detailed technical document.</description></item>
+<item><title>UI/UX Designer – MudBlazor-First, Responsive Multi-Platform SaaS UI (Remote, AEST-Aligned) -- 2</title><link>https://www.freelancer.com/projects/website-design/Designer-MudBlazor-First-Responsive</link><guid isPermaLink="false">freelancer:40700671</guid><pubDate>Wed, 09 Sep 2026 10:51:13 GMT</pubDate><description>8-15 AUD/hr | I’m building a business-management SaaS platform using Blazor with MudBlazor as the component foundation, and I’m looking for a UI/UX designer to shape the entire user experience. There is a current front-end which would need to undergo an uplift.
+
+The same design language must feel natural:
+	• In a browser
+	• Inside a desktop shell (e.g. .NET MAUI)
+	• On mobile screens
+
+Responsive, multi-platform thinking is required from the first wireframe onward.
+
+This is NOT A Figma-only role.
+
+Every design must be implementable in MudBlazor using Blazor-friendly CSS and design tokens.
+
+What you’ll do
+	• Translate existing user flows and rough sketches into:
+		○ High-fidelity mockups
+		○ Clickable prototypes
+	• Design core system-defining screens, including:
+		○ A data-rich analytics dashboard (charts, tables, KPIs)
+		○ A flexible user profile area
+	• Use these screens to establish:
+		○ Layout patterns
+		○ Navigation behaviour
+		○ Modals, dialogs, and settings conventions
+	• Design responsive layouts for:
+		○ Web (desktop)
+		○ Tablet
+		○ Mobile (down to ~360px)
+	• Apply CSS and theming to extend MudBlazor:
+		○ Typography
+		○ Spacing
+		○ Density
+		○ Visual hierarchy
+	• Ensure designs:
+		○ Map cleanly to MudBlazor components
+		○ Avoid custom UI elements that fight the framework
+	• Collaborate closely with developers and provide regular written status updates during AEST hours
+
+Deliverables
+	• Low- and high-fidelity designs for Web, Desktop, and Mobile breakpoints
+	• A reusable design system aligned to:
+		○ MudBlazor variables
+		○ Typography and spacing rules
+	• Handoff package including:
+		○ Component mappings
+		○ Color palette
+		○ Interaction notes
+		○ Responsive behaviour guidance
+
+Acceptance criteria (examples)
+	• No layout shifts at desktop, tablet, or mobile breakpoints
+	• Dashboard charts, tables, and KPIs remain readable at 360px width
+	• All core profile actions (edit details, password reset, avatar upload) complete in ≤ 3 interactions
+
+Required experience (must have)
+	• Proven UI/UX design experience for responsive SaaS applications
+	• Strong CSS skills, especially in component-based systems
+	• Hands-on experience working with Blazor
+	• Strong familiarity with MudBlazor (or real Blazor + MudBlazor projects)
+	• Experience designing within an existing component library
+	• Ability to explain design trade-offs clearly
+	• Availability overlapping AEST hours
+
+Nice to have
+	• Experience exporting design tokens from Figma / XD / Sketch
+	• Familiarity with Material Design 2.0
+	• Experience designing data-heavy dashboards
+	• Light Blazor / Razor component awareness
+
+Compensation
+	• AUD $8 – $15 per hour
+	• Open to per-screen or milestone pricing
+
+Short design validation task (unpaid, shortlisted only)
+Shortlisted candidates may be asked to complete a small, time-boxed design task.
+	Not production work. Not used commercially. ≤ 2 hours.
+Example:
+	• Design one responsive dashboard screen using MudBlazor
+	• Show desktop, tablet, and mobile layouts
+	• Map key elements to MudBlazor components
+	• Include brief CSS/theming notes
+
+How to apply
+To confirm you’ve read this:
+	• Start your proposal with: MudBlazor + CSS
+	• Share relevant work
+	• Briefly explain how you design for responsive, multi-platform UI using component libraries
+
+If you enjoy defining product-level UX that developers can implement with minimal friction, this role is for you.</description></item>
+<item><title>NFC Digital Filing System Development</title><link>https://www.freelancer.com/projects/api-developmet/NFC-Digital-Filing-System-Development</link><guid isPermaLink="false">freelancer:40700418</guid><pubDate>Wed, 09 Sep 2026 08:42:07 GMT</pubDate><description>250-750 GBP | Hello,
+
+I’m looking for a software/web developer who could help me turn an idea into a simple, user-friendly platform.
+
+The concept is similar in some ways to NFC digital business cards. With these, a physical NFC card is linked to a unique user profile, which can be opened simply by tapping the card against a smartphone.
+
+My idea would use the same principle, but for storing and accessing documents and images.
+
+Each customer would receive a physical NFC card, also containing a QR code, which I am able to manufacture and programme myself. The card would be linked to that customer’s unique account.
+
+When the customer taps the NFC card against their phone, or scans the QR code, they would be taken directly to their own simple user area. From there, they could:
+
+- Create folders
+- Upload images, receipts and scanned documents
+- View and manage previously uploaded files
+- Organise their files within their account
+
+The key part of the idea is simplicity. I don’t want users to have to remember an email address, username or password. Instead, access would be through a unique link/token associated with their physical NFC/QR card.
+
+Ideally, without the card or its unique link, there would be no straightforward way of accessing the account.
+
+From an admin side, I would need to be able to create and manage customer accounts, associate each account with an NFC/QR card, and potentially manage an annual subscription for the service.
+
+I can handle the manufacture, printing and programming of the physical NFC/QR cards, so I’m mainly looking for someone who can develop the web/software side of the project.
+
+The files being stored would primarily be things such as receipts, photographs and scanned documents rather than highly sensitive information. However, I would still want the platform to follow sensible security and data-protection practices.
+
+The purpose of this platform is to allow vehicle enthusiasts to securely upload and store their vehicle’s data—such as invoices, receipts, repair bills, service history—in one location that can then be sold along with the vehicle. This eliminates missing information even if the NFC card is lost since hidden NFC labels could also be placed in vehicles as backups. This ensures transparency for buyers while helping avoid issues like stolen vehicles or falsified histories.
+
+I’m initially looking to create a relatively simple MVP rather than an unnecessarily complicated system, with the possibility of developing it further if the concept proves successful. The design should reflect simplicity and intuitiveness akin to "Apple product" aesthetics—clean and user-friendly for all age groups.
+
+Additionally:
+- Users should start with a fixed storage amount tied to their card but have options to expand storage if needed without incurring high costs on my end.
+- Attached images are included as references for my vision; these were created using non-specialized software but convey the core idea clearly.
+
+If this sounds like something you could build, please get in touch. I’d be interested to hear how you would approach the project, what technology you would suggest using, an approximate development timescale, and an indication of cost.
+
+Thank you!
+Harvey</description></item>
+<item><title>Laravel Developer for Classic Car Websites</title><link>https://www.freelancer.com/projects/web-development/Laravel-Developer-for-Classic-Car</link><guid isPermaLink="false">freelancer:40700396</guid><pubDate>Wed, 09 Sep 2026 08:28:04 GMT</pubDate><description>6-12 EUR/hr | For our classic car listing websites (40+), all connected to one database , we are looking for an experienced developer to help refine and improve our existing Laravel-based website.
+
+Scope of work (current phase):
+
+* Fine-tuning the existing Laravel website
+* Modernizing the overall structure and performance
+* Ensuring compatibility with modern browsers
+* Resolving minor mobile usability issues
+* Improving the overall design and user experience
+
+Future phases:
+
+* Enable data and listing synchronization between Laravel and WordPress (both directions: Laravel → WordPress and WordPress → Laravel)
+
+* Upgrade the Laravel/PHP environment to the latest stable versions
+
+
+Working approach:
+
+* Work will be done directly on the live website (no local-only workflow)
+
+* We prefer a practical, no-nonsense mindset
+
+Who we’re looking for:
+
+* An independent developer (no agencies)
+* Someone reliable who is interested in a long-term collaboration and growing with the project
+
+If this sounds like a fit, we’d be happy to hear from you.
+
+Preferably UK or Armenia based.</description></item>
+<item><title>Build Medical Tourism Platform</title><link>https://www.freelancer.com/projects/database-management/Build-Medical-Tourism-Platform</link><guid isPermaLink="false">freelancer:40700259</guid><pubDate>Wed, 09 Sep 2026 07:11:32 GMT</pubDate><description>250-750 USD | I’m ready to bring a full-featured medical tourism platform to life and need an experienced team or individual who can take the idea from concept to launch. The core goal is to let prospective patients discover qualified healthcare providers abroad, understand treatment options, and complete every step—from inquiry to confirmed appointment and travel logistics—inside a single, secure environment.  
+
+Here’s what I expect:  
+
+• A modern, responsive web application with intuitive patient and provider flows.  
+• A secure backend that can scale as traffic grows, built on a technology stack you’re comfortable supporting long-term.  
+• Essential modules such as provider profiles, treatment listings, real-time availability, booking management, payment processing, and multilingual support.  
+• Administrative tools for onboarding new clinics, reviewing content, and tracking transactions.  
+• Strong emphasis on data privacy, HIPAA/GDPR compliance, and encrypted communication.  
+
+Please outline the architecture you propose, the key milestones you’d follow, and previous, relevant platforms you’ve delivered. Demonstrate how you plan to handle performance, security, and user support. I’m open to recommendations on frameworks and hosting as long as they align with mainstream best practices.  
+
+The deliverable is a production-ready platform with documentation that allows me to operate and expand it confidently after hand-off.</description></item>
+<item><title>Urgent 5-Page E-Commerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Urgent-Page-Commerce-Site</link><guid isPermaLink="false">freelancer:40699534</guid><pubDate>Tue, 08 Sep 2026 21:49:26 GMT</pubDate><description>250-750 USD | I need a clean, brand-focused e-commerce website built fast. The site will consist of five pages:  
+
+• Home  
+• About Us  
+• Contact Us  
+• Product Listings  
+• Cart / Checkout (with integrated shopping cart functionality)  
+
+Please build on a platform that lets me manage inventory and content myself afterward—WordPress + WooCommerce, Shopify, or something equally user-friendly. The shopping cart must work flawlessly, and I’ll provide product images, copy, and brand guidelines as soon as we start.
+
+Visual style should stay consistent with my existing branding (colors, logo, fonts), look professional on desktop and mobile, and load quickly. Basic on-page SEO setup is expected so we can launch ready for search indexing.
+
+Timeline is tight: I’d like first mock-ups within three days, full site ready to review by day seven, and launch immediately after revisions. My total budget is $600-700 and we can break that into fair milestones (design, development, final deployment).
+
+Deliver the finished, live site plus all source files, documented credentials, and a brief hand-off guide so I can add products or tweak content without extra help.
+
+If you’re confident you can meet the schedule and quality bar, let’s move quickly—my brand needs to be online this week.</description></item>
+<item><title>Non-Profit WordPress Site Redesign</title><link>https://www.freelancer.com/projects/wordpress-design/Non-Profit-WordPress-Site-Redesign</link><guid isPermaLink="false">freelancer:40699454</guid><pubDate>Tue, 08 Sep 2026 20:45:20 GMT</pubDate><description>750-1500 USD | I need our existing wordPress cat sanctuary and adoption center website rebuilt on WordPress so it is easier for our small team to manage and, more importantly, so it can serve the core mission of our non-profit. The finished site must do four things well:
+
+• Raise awareness  
+• Collect donations  
+• Recruit volunteers  
+• Promote animal adoption  
+
+I already have branding, copy, and most images; what’s missing is a modern, responsive WordPress build that brings it all together. A clean UI, clear calls-to-action, and seamless integrations (PayPal or Stripe for donations, Mailchimp for newsletters, and a plug-in or custom post type for adoptable animals) are essential. Accessibility, mobile performance, and straightforward page-builder editing are must-haves so staff can make updates without touching code. We also have a few items for sale so we need basic e-commerce.
+
+Deliverables:
+• Fully configured WordPress theme (child theme or block-based) reflecting our brand style  
+• Donation flow tested end-to-end  
+• Volunteer and contact forms routed to our CRM email  
+• Animal adoption listing section with search/filter  
+• Basic on-page SEO and Google Analytics 4 connected  
+• One-hour hand-off screen share showing how to update pages, posts, and listings  
+
+Please build on a staging server first; I’ll point the domain when we approve the final review link.</description></item>
+<item><title>SharePoint Setup with Dashboards</title><link>https://www.freelancer.com/projects/data-visualization/SharePoint-Setup-with-Dashboards</link><guid isPermaLink="false">freelancer:40699256</guid><pubDate>Tue, 08 Sep 2026 18:18:47 GMT</pubDate><description>750-1500 CAD | I'm seeking an experienced SharePoint developer to create structured, functional pages tailored for our HR team, executive leaders, and all employees. The setup should include:
+
+- Document management capabilities
+- Reporting and analytics features
+- Design and creation of a unified One-SharePoint HR page
+
+Additionally, I need dashboards for:
+- HR performance metrics
+- Employee engagement
+- Project management
+
+Ideal Skills &amp; Experience:
+- Proficiency in SharePoint design and implementation
+- Strong understanding of HR metrics and dashboard creation
+- Experience in building user-friendly, organized document management systems
+- Ability to customize pages for different user groups</description></item>
+<item><title>Web developer</title><link>https://www.freelancer.com/projects/php/Web-developer-40699065</link><guid isPermaLink="false">freelancer:40699065</guid><pubDate>Tue, 08 Sep 2026 16:32:14 GMT</pubDate><description>15-25 CAD/hr | I am looking for a web developer to create an E-commerce website using WordPress. The ideal candidate should have experience in developing E-commerce websites and be proficient in WordPress. The website should have the following features:
+
+- SEO Optimization: The website should be optimized for search engines to improve its visibility and attract more traffic.
+- Payment Gateway: The website should have a payment gateway to allow customers to make purchases online.
+- Social Media Integration: The website should be integrated with social media platforms to increase its reach and engagement.
+
+If you have the required skills and experience, please apply for this project.</description></item>
+<item><title>Lead-Gen Website for RetireCareUSA</title><link>https://www.freelancer.com/projects/graphic-design/Lead-Gen-Website-for-RetireCareUSA</link><guid isPermaLink="false">freelancer:40696645</guid><pubDate>Tue, 08 Sep 2026 15:21:52 GMT</pubDate><description>250-750 USD | I need a professional website for RetireCareUSA, focused on lead generation. The site will promote guaranteed lifetime income and funding for long-term care.
+
+Key Requirements:
+- Engaging, user-friendly design
+- Strong calls-to-action
+- SEO optimization
+- Mobile responsiveness
+- Integration with CRM for lead tracking
+
+Ideal Skills &amp; Experience:
+- Proven web design expertise
+- Experience with lead-gen sites
+- SEO and mobile optimization skills
+- CRM integration knowledge
+
+Please include detailed project proposals in your application.</description></item>
+<item><title>Social Media Manager &amp; Video Content Creator (Financial Services)</title><link>https://www.freelancer.com/projects/ai-video-editing/Financial-Services-Social-Media-Lead</link><guid isPermaLink="false">freelancer:40698928</guid><pubDate>Tue, 08 Sep 2026 15:19:53 GMT</pubDate><description>300-750 CAD | Summary
+
+We're a mortgage advisory and business lending practice looking for a creative-first, AI-assisted content expert to own our social media presence and website content end-to-end — not someone who just runs AI tools and posts the output.
+
+Core Responsibilities
+-Build and maintain a simple, modern website (landing pages, updates, basic SEO)
+-Plan and create platform-native content for Instagram, Facebook, TikTok, Snapchat, Twitter/X — each post fits the platform, not copy-pasted across
+-Produce and edit short-form video using AI avatars / digital-twin avatars, converting raw or AI-generated footage into polished, on-brand content
+-Edit all video/photo content: cuts, captions, sound, pacing, thumbnails
+-Schedule and publish across all channels using a content calendar and scheduling tools
+-Stay current on each platform's content and ad policies so posts are never flagged, shadowbanned, or removed (especially finance-related content, which faces extra scrutiny)
+-Bring original creative concepts and hooks — AI is a production tool, not the idea generator
+-Report on performance (reach, engagement, saves/shares) and adjust strategy monthly
+
+Must-Have Skills
+-Proven portfolio of video content you personally created/edited (not stock/template work)
+-Fluency with AI avatar tools (HeyGen, Synthesia, or similar) and AI video/editing tools (CapCut, Premiere, Runway, etc.)
+-Working knowledge of Meta, TikTok, and Snap content/ad policies, especially for regulated industries (finance)
+-Website editing ability (Wix/Squarespace/WordPress — no need for custom dev)
+-Strong independent creative judgment — can pitch content ideas, not just execute briefs
+
+Nice-to-Have
+Experience with financial services, real estate, or other regulated/compliance-sensitive brands
+Copywriting for captions/scripts
+
+What We're NOT Looking For
+-Beginners, students, or "I can learn this" applicants
+-Pure AI-prompted content with no editing or creative direction
+-Agencies who will hand this to a junior after the pitch call
+
+To Apply
+
+Submit 2–3 samples of video content you personally created or edited (avatar-based or otherwise), plus one paragraph on how you'd approach a mortgage/loan brand's social presence differently from a generic business page.</description></item>
+<item><title>Digital Communications &amp; Social Media Specialist — Ongoing Execution Support</title><link>https://www.freelancer.com/projects/social-media-management/Digital-Communications-Social-Media</link><guid isPermaLink="false">freelancer:40698776</guid><pubDate>Tue, 08 Sep 2026 13:50:00 GMT</pubDate><description>50+ CAD/hr | Hello!
+
+We are a Québec-based organization operating in the mining innovation ecosystem and are looking for a reliable, hands-on freelancer to support the weekly, and occasional day-to-day, execution of our digital communications.
+
+This is primarily an execution role, not a strategy mandate. Our strategic communications direction, positioning, key messages and priorities are developed internally. We are looking for someone who can take clear direction and approved content and turn it into polished, timely digital communications with minimal supervision.
+
+What you’ll do :
+
+• Create, format, schedule and publish content across our social media channels, primarily LinkedIn and our Website;
+• Adapt supplied content into platform-appropriate posts while preserving the intended message and institutional tone;
+• Produce simple, professional visual assets using Canva or equivalent tools, based on our existing brand guidelines and templates;
+• Update and maintain website content through our CMS;
+• Support the digital promotion of programs, events, initiatives, calls for applications and organizational announcements;
+• Prepare and manage content calendars based on priorities provided by our team
+• Coordinate publication logistics, links, tagging, formatting and basic quality control;
+• Monitor published content and flag comments, issues or opportunities requiring internal attention;
+• Track basic digital performance metrics and provide concise reporting when required;
+• Handle occasional short-turnaround requests when organizational priorities change.
+
+What we’re looking for :
+
+You are someone who gets things done. You are comfortable receiving an objective and source material, asking the few questions that genuinely matter, and then moving efficiently to execution.
+
+You have strong attention to detail, good editorial judgment and the ability to work independently without turning every task into a meeting or a lengthy process. You know when to make a reasonable execution decision yourself and when something genuinely requires approval.
+
+Very strong written French (mother-tongue preferred) is essential, including the ability to work naturally in a Québec institutional/business context. Professional English is also required.
+
+Experience with LinkedIn, Meta/Facebook, Canva and common website CMS platforms is expected. Experience with organizations in B2B, technology, innovation, economic development, industry or institutional environments is an strong asset.
+
+How we will work together :
+
+We provide the strategic direction, priorities, source material and necessary approvals. You provide the execution capacity that turns them into consistent, professional digital output.
+
+We value:
+
+• Reliability and follow-through
+• Responsiveness
+• Autonomy within a clear mandate
+• Fast, practical execution
+• Attention to detail
+• Good judgment
+• Clear and concise communication
+• Respect for deadlines and agreed deliverables
+
+We are specifically looking for someone who can close the loop: When a task is agreed upon, we expect it to move from brief to execution to completion without repeated follow-ups.
+
+Engagement :
+
+This is intended to begin as a freelance engagement with the potential for ongoing work if there is a strong fit. Workload may vary depending on campaigns, events and organizational priorities.
+
+To apply, please send:
+
+• A short introduction focused on your hands-on digital communications experience
+• 3 to 5 examples of social media content you personally created or executed
+• Examples of simple branded visuals, if available
+• Your experience updating websites/CMS platforms
+• Your level of written French and English
+• Your availability and typical response time during business hours
+• Your hourly rate
+
+Please also briefly answer this question:
+
+"You receive approved source material and a clear communications objective for a LinkedIn post that needs to go live tomorrow. Walk us through exactly what you would do from receiving the brief to publication."
+
+Many thanks!</description></item>
+<item><title>Construction Website with Booking</title><link>https://www.freelancer.com/projects/web-development/Construction-Website-with-Booking</link><guid isPermaLink="false">freelancer:40698690</guid><pubDate>Tue, 08 Sep 2026 13:02:53 GMT</pubDate><description>8-15 USD/hr | Hello, I’m building a professional website for Pathfinder Construction LLC, a general contracting and remodeling company based in Aurora, Illinois.
+
+I plan to hire 2–3 freelancers who can collaborate as a small team, potentially covering:
+
+* Website and UI design
+* Website development
+* Construction copywriting and local SEO
+
+The website should generate estimate requests, showcase completed projects, explain our construction services, and include a dedicated insurance-restoration section.
+
+Pathfinder has experience serving as the general contractor on insurance-funded repairs. We inspect and document physical damage, prepare construction estimates and supplemental repair information, send supporting documentation to the assigned insurance adjuster, and complete approved repairs. We do not provide public-adjusting services or negotiate policy coverage on behalf of customers.
+
+Important features include:
+
+* Modern, premium, mobile-friendly design
+* Home, Services, Projects, About, Service Areas and Contact pages
+* Insurance Restoration landing page
+* Detailed estimate and insurance-loss intake forms
+* Secure photograph and document uploads
+* Fields for insurer, claim number and assigned adjuster
+* Optional e-signature integration for company-provided AOB and work-authorization forms
+* Before-and-after project gallery
+* Local SEO for Aurora and surrounding Chicagoland communities
+* A system I can easily update myself
+* Complete ownership and administrator access at handoff
+
+Please reply with:
+
+1. The specific role you would handle.
+2. Examples of relevant construction, restoration or home-service websites you created.
+3. Your preferred website platform and why you recommend it.
+4. Your experience collaborating with other freelancers.
+5. Your availability and estimated completion time.
+6. The tools or third-party services you would require.
+7. Whether you are comfortable using shared files, designs and project checklists.
+
+I will select one person as the lead developer so responsibilities, deadlines and final integration remain organized.</description></item>
+<item><title>Local Trades Network Development</title><link>https://www.freelancer.com/projects/api-developmet/Local-Trades-Network-Development</link><guid isPermaLink="false">freelancer:40698646</guid><pubDate>Tue, 08 Sep 2026 12:39:44 GMT</pubDate><description>5000-10000 GBP | I'm seeking a developer to create a comprehensive local trades network platform. This platform will enable tradespeople to share portfolios, post and discuss jobs, and build trusted reputations through interactions.
+
+Essential Key Functionalities:
+- Portfolio Sharing: Users should be able to showcase their work through:
+  - Photo uploads
+  - Video uploads
+  - Text descriptions
+
+- Job Posting and Discussion: A forum for tradespeople to post and discuss jobs with interactions via:
+  - Comment threads
+  - Private messaging
+  - Public posts
+
+Ideal Skills and Experience:
+- Proficiency in web and mobile app development
+- Experience with database management
+- Strong UI/UX design skills
+- Familiarity with video and photo upload integrations
+- Excellent communication skills for ongoing collaboration
+
+I’m looking for a developer who can bring this vision to life with a user-friendly and efficient platform. Please provide your portfolio and relevant experience.
+
+1. Purpose and value proposition
+GuildRadius helps local tradespeople and small merchants find work, prove credibility, and grow through peer‑verified collaborations. It combines a radius‑based forum for local job posts, portfolio profiles, merchant reviews, and a lightweight gamified retention loop (daily puzzle) that drives repeat visits and organic invites.
+
+Core user problems solved
+
+Hard to discover trusted local tradespeople.
+
+No simple way to record and verify collaborations across projects.
+
+Low retention for community platforms without a daily habit.
+
+Merchants need a place to be rated and discovered by local trades.
+
+2. Target users
+Tradespeople (plumbers, electricians, carpenters, builders etc.) who want a public portfolio and verified collaboration history.
+
+Small merchants and suppliers who want ratings and local visibility.
+
+Local customers searching for trusted trades within a radius.
+
+Community managers / local trade associations who want to promote verified professionals.
+
+3. Core features (MVP + Phase 2)
+MVP (launch)
+User accounts &amp; onboarding: email verification, trade selection, location (radius), portfolio image uploads.
+
+Profile pages: portfolio gallery, trade tags, average collaboration score, contact CTA.
+
+Radius Forum: create posts, filter by trade and distance, comment, flag content.
+
+Merchant listings &amp; reviews: create merchant entries, submit ratings and comments, recalc averages.
+
+Daily puzzle widget: embedded iframe; webhook endpoint to record completions and award points/badges.
+
+Basic gamification: points, streaks, badges, leaderboard placeholder.
+
+Admin tools: flagged content queue, revoke points, basic metrics.
+
+Phase 2 (after validation)
+Invite collaborators: send/accept invites, create CollaborationRecord, optional peer ratings.
+
+Verification badge: awarded when collaborators confirm and meet criteria.
+
+Reference requests: contact flow to request references from collaborators.
+
+Dispute resolution: admin tools for disputes and rating moderation.
+
+Growth loop: invite tracking, referral rewards, featured merchant placements.
+
+4. Pages and reusable elements (Bubble names)
+Pages: Home, Newsfeed, RadiusForum, Profile, MerchantDirectory, PuzzleModal, AdminDashboard, InviteInbox.
+
+Reusable elements: PuzzleCard, PuzzleModal (iframe), ProfileCard, CollaborationCard, BadgeShelf, InviteModal, MerchantCard, FlagModal.
+
+5. Data model (high level)
+User: name, email, trade, location, portfolio_images, points, badges, puzzle_streak, collaboration_score.
+
+ForumPost: author, trade, radius_miles, content, created_at, flags.
+
+Merchant: name, location, rating_avg, reviews.
+
+PuzzleEmbedLog: user, provider, action, timestamp, idempotency_key.
+
+CollaborationRecord: title, initiator, collaborators, photos, start_date, end_date, ratings, is_verified.
+
+Invite: token, sender, recipient, status, sent_at, responded_at.
+
+6. Key workflows (developer‑ready)
+Onboarding: create User → email verify → prompt portfolio upload → set location.
+
+Open puzzle: PuzzleCard → open PuzzleModal (iframe with user_id &amp; idempotency token).
+
+Puzzle webhook: verify HMAC/timestamp → idempotency check → create PuzzleEmbedLog → award points/badges (one per day).
+
+Create forum post: create ForumPost → notify users within radius.
+
+Invite collaborator: create Invite → send email + in‑app notification → accept adds CollaborationRecord and updates both profiles.
+
+Merchant review: create review → recalc Merchant.rating_avg.
+
+7. Acceptance criteria &amp; KPIs
+Acceptance criteria
+
+Puzzle webhook validates HMAC and enforces one completion per user per day.
+
+Invite accept flow updates both profiles within 3s and allows optional rating.
+
+Admin can view flagged items and revoke points/badges.
+
+KPIs
+
+DAU, 7‑day retention, puzzle completion rate, invite conversion (sent→accepted), new users via invites, verified collaboration rate.
+
+8. Suggested build approach &amp; timeline
+Phase approach: MVP core (2–6 weeks with Bubble specialist), soft launch to 50–200 users, measure KPIs, then Phase 2.
+
+Tech choice: Bubble for MVP (fast, low cost). Custom webhook endpoint (small Node/Express or serverless) for secure HMAC verification and idempotency.
+
+Budget guidance: freelancer Bubble build £4k–£8k; small agency £10k–£20k depending on polish and Phase 2 scope.
+
+9. News &amp; Grants section (product feature description)
+Add a News &amp; Grants section to the site to help tradespeople and small merchants discover funding opportunities and local support. This section should include:
+
+Features
+Grants feed: curated list of relevant grants, funds, and local support programmes. Each item includes: title, short summary, eligibility, deadline, link to official page, and region applicability.
+
+Filter &amp; subscribe: filter by region (e.g., UK regions), business size, and sector (construction, home services). Users can subscribe to email alerts for new grants.
+
+Apply checklist: per‑grant checklist (documents required, typical timeline, contact points).
+
+News updates: short articles about funding changes, success stories, and upcoming local enterprise events.
+
+Admin curation UI: admin can add, edit, and flag grants; schedule push notifications for urgent deadlines.
+
+Grant alerts: push or email alerts for grants closing within 14 days.
+
+UX notes
+Place the News &amp; Grants section on the main navigation and surface urgent grants on the dashboard.
+
+Use cards with clear CTAs (“Read more”, “Check eligibility”, “Save for later”).
+
+Allow merchants to sponsor a grant highlight for visibility (monetisation option).
+
+10. Example grant types to include (what to curate)
+Local enterprise grants (county or city business support funds).
+
+SME growth grants (innovation, digital adoption, equipment purchase).
+
+Apprenticeship and training subsidies (levy transfers, training vouchers).
+
+Green retrofit or energy efficiency grants (for trades doing retrofit work).
+
+Community &amp; social enterprise funds (if you support community projects).
+
+11. How to keep the Grants feed accurate (operational)
+Sources: UK government portals, local council business pages, Local Enterprise Partnerships (LEPs), Innovate UK, British Business Bank, and trade association bulletins.
+
+Curation process: admin reviews and approves new grant entries; set a 30‑day recheck for each grant to ensure links and deadlines are current.
+
+Automation: use RSS or API feeds where available; otherwise, manual curation with scheduled reminders.
+
+12. Example News &amp; Grants content items (templates)
+Grant card: Title; 1‑line summary; Eligibility tags; Deadline; CTA link; “Save” icon.
+
+News update: Headline; 2–3 sentence summary; link to full article; related grants.
+
+Success story: Profile of a tradesperson who used a grant; before/after photos; grant used; contact for mentorship.</description></item>
+<item><title>Shopify Store Build &amp; Integrations -- 2</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Build-Integrations-40698461</link><guid isPermaLink="false">freelancer:40698461</guid><pubDate>Tue, 08 Sep 2026 10:59:20 GMT</pubDate><description>1500-3000 GBP | I’m launching a brand-new Shopify store that will offer both individual physical products and a quarterly subscription box. I already have my product list, producer information and brand assets ready; what I need is a developer who can turn it all into a fully functioning storefront.  
+
+Here’s what the project covers:  
+• Theme set-up and visual customisation so the site is clean, fast and responsive on mobile and desktop.  
+• Product catalogue creation, including variants and clear producer pages that tell each maker’s story.  
+• Subscription set-up: one plan only—Quarterly—so customers can pre-pay and receive a box every three months.  
+• Payment configuration using either Shopify Payments or Stripe (whichever you recommend for smooth recurring billing).  
+• Courier/shipping integration with live rates and automatic label generation.  
+• Basic on-page SEO and analytics so I can track performance from day one.  
+
+Acceptance criteria  
+– Store passes Shopify speed score and displays flawlessly on major browsers and devices.  
+– A test order for a single product and a test subscription both process without errors through the chosen gateway.  
+– Shipping labels generate correctly with my selected courier.  
+– I receive a concise hand-off document (or Loom video) showing how to add new products and manage subscriptions on my own.  
+
+If you’re comfortable working end-to-end—theme, products, payments, shipping—let’s get started.</description></item>
+<item><title>Shopify Store Optimization for Handcrafted alligator and cypress Goods</title><link>https://www.freelancer.com/projects/seo/Shopify-Store-Optimization-for</link><guid isPermaLink="false">freelancer:40698022</guid><pubDate>Tue, 08 Sep 2026 07:36:30 GMT</pubDate><description>2-15 USD/hr | About My Business:
+I run Pitres Handcrafted, faire etsy and .com selling 100% handcrafted goods, including hand-burned woodenware (like roux paddles and cutting boards), hand-stitched leather goods, and candles. Everything is made entirely by hand—I do not use CNC machines or automated lasers. My products are proven and validated: I recently did $10,000 this quarter on Faire and have over 100 sales on Etsy. However, my Shopify store is currently generating zero sales.
+The Goal:
+I do not want to build a completely new Shopify store from scratch. I need to keep my current theme but upgrade the UX, fix backend syncing issues, solve variant problems, and optimize my SEO so Shopify can become my central hub for both retail and wholesale.
+Scope of Work:
+1. Multi-Channel Sync &amp; Variant Troubleshooting
+Set up automated syncing between Shopify, Faire, and Etsy so inventory and orders are centralized on Shopify.
+Fix existing variant issues across all three platforms (Shopify, Etsy, Faire). I am specifically having trouble getting variants to sync and display correctly for items like my roux paddles.
+2. Wholesale &amp; Retail Integration
+Set up a B2B wholesale solution (like Wholesale Gorilla, Locksmith, or similar) on my Shopify store.
+I need the ability to manually approve wholesale customers so they can log in and see wholesale pricing, while regular retail customers see standard pricing on the same website.
+3. Shopify Theme Cleanup &amp; UX "Flairs"
+Reorganize my Shopify collections so they are logical, clean, and easy to navigate.
+Hide or remove unnecessary pages to streamline the buying process.
+Add visual upgrades and "flairs" to make the site more attractive and trustworthy without changing the core theme.
+Import my existing Etsy reviews into Shopify to build social proof.
+4. SEO &amp; Title Optimization
+Optimize product titles, meta descriptions, and tags across Shopify, Etsy, and Faire.
+Fix current title issues so products are named exactly what customers are searching for (e.g., focusing on descriptive, search-friendly keywords).
+5. Product Photography Assistance
+Assist with auditing, organizing, and potentially updating product photos across listings to ensure they look cohesive and professional.
+Ideal Freelancer:
+You should be an expert in the Shopify ecosystem, specifically with B2B/wholesale apps, variant structures, and multi-channel syncing (Etsy and Faire). Strong SEO knowledge for both Shopify and marketplace algorithms is required.</description></item>
+<item><title>Custom-Coded, Modern Website Development</title><link>https://www.freelancer.com/projects/web-development/Custom-Coded-Modern-Website-Development</link><guid isPermaLink="false">freelancer:40697536</guid><pubDate>Tue, 08 Sep 2026 02:49:01 GMT</pubDate><description>250-750 USD | I’m looking for a web developer with a strong sense of clean and modern design to build a custom-coded website.
+The website should feel simple, professional, polished, and easy to use. I prefer a modern style with good spacing, clear typography, smooth sections, and a strong visual hierarchy.
+Please do not use WordPress, Shopify, Wix, Webflow, Squarespace, or other website builders.
+
+Preferred technologies:
+-HTML
+-CSS
+-JavaScript
+-React
+-Next.js
+
+The website should include:
+- Modern hero section
+- About section
+- Services section
+- Testimonials
+- Contact section
+- Responsive design
+- Clean navigation
+- Smooth animations
+- Modern buttons and UI elements
+- Good typography and spacing
+
+I do not need a complicated backend. The main focus is frontend quality and visual design.
+The website will target a U.S. audience, so experience with modern American website design and natural U.S. business presentation is helpful.
+I will provide the general content and direction, but I would also like you to suggest improvements to the layout and overall design.
+Please include one or two examples of clean, modern websites you have designed and coded.</description></item>
+<item><title>Ongoing WordPress Blog Setup</title><link>https://www.freelancer.com/projects/seo/Ongoing-WordPress-Blog-Setup</link><guid isPermaLink="false">freelancer:40697513</guid><pubDate>Tue, 08 Sep 2026 02:34:53 GMT</pubDate><description>15-25 USD/hr | I run a WordPress-based content site and need a dependable professional to take charge of its initial setup with email marketing and ongoing management. You’ll keep the front-end experience smooth while I focus on creating new articles.
+
+Here’s what I count on you for:
+• Publishing or updating posts I provide, checking formatting and links before they go live  
+• Applying core, theme and plugin updates safely, with backups in place  
+• Watching performance and uptime, then correcting anything that slows the site below a two-second load time  
+• Carrying out basic security monitoring and acting fast if issues surface  
+
+If you also enjoy refining SEO, layout, or introducing useful features, that initiative is welcome.
+
+Acceptance criteria  
+• No broken pages or errors after updates  
+• Consistent load times under two seconds on desktop tests  
+• Scheduled content goes live on the agreed dates  
+
+When you reply, share examples of other WordPress blogs you manage, the tools you rely on—WP-CLI, Jetpack, PageSpeed Insights, Sucuri, or similar—and how you like to structure ongoing support. I’m ready to start as soon as I find the right match.</description></item>
+<item><title>Build a Simple Food Subscription Website</title><link>https://www.freelancer.com/projects/web-development/Build-Simple-Food-Subscription-Website</link><guid isPermaLink="false">freelancer:40697266</guid><pubDate>Mon, 07 Sep 2026 22:23:04 GMT</pubDate><description>250-750 USD | Build a Simple Food Subscription Website
+
+Project Overview
+
+I am looking for a developer to build a simple, mobile-friendly website for a food subscription business.
+
+The goal is to create a clean website where customers can learn about the product, select a subscription, enter their information, and complete payment.
+
+This is an MVP, so I am looking for something simple, functional, and scalable, not an overly complicated custom platform.
+
+Main Features
+
+1. Landing Page
+
+* Product description
+* Product images
+* How it works section
+* Pricing
+* Customer testimonials
+* FAQ
+* Strong “Subscribe Now” CTA
+* Mobile responsive design
+
+2. Subscription Checkout
+
+Customers should be able to:
+
+* Select a subscription plan
+* Enter name, email, phone and shipping address
+* Enter payment information
+* Complete checkout
+* Receive confirmation
+
+3. Subscription Management
+
+Customers should be able to:
+
+* View their subscription
+* Update shipping information
+* Change subscription plan
+* Skip a shipment
+* Cancel subscription
+
+4. Admin Dashboard
+
+Admin should be able to:
+
+* View customers
+* View active subscriptions
+* View orders
+* See upcoming shipments
+* Export customer/order data
+* Cancel or modify subscriptions
+
+5. Email Notifications
+
+Automated emails for:
+
+* New subscription
+* Payment confirmation
+* Upcoming shipment
+* Failed payment
+* Cancellation
+
+Preferred Technology
+
+I am open to recommendations, but I would prefer using established platforms and services rather than building everything from scratch.</description></item>
+<item><title>Stickurity Bags WordPress Website Design</title><link>https://www.freelancer.com/projects/seo/Stickurity-Bags-WordPress-Website-Design</link><guid isPermaLink="false">freelancer:40697241</guid><pubDate>Mon, 07 Sep 2026 22:07:28 GMT</pubDate><description>250-750 USD | I am looking for an experienced website designer to create a clean, professional website for Stickurity Bags, a new tamper-evident packaging system for restaurant takeout and food-delivery orders.
+
+The Concept and Purpose
+
+Stickurity Bags are designed to discourage unauthorized access to food after an order leaves the restaurant. The top of the bag is folded closed, and the customer’s printed receipt—or a specially designed security label—is used to secure the bag. Opening the bag would require breaking or damaging the seal, providing visible evidence that the order may have been opened.
+
+The purpose is to help restaurants, delivery services, and customers feel more confident that food remains protected between the restaurant and the customer. We expect to offer both flat-handle paper bags and SOS paper bags without handles, along with compatible security labels.
+
+Website Requirements
+
+The website should include:
+
+Home page introducing Stickurity Bags and their benefits
+Product page showing the available bag styles, sizes, and labels
+“How It Works” page with simple illustrations or photographs
+Information for restaurants, distributors, and delivery services
+Option to request a quote or purchase products online
+About Us page
+Contact page with an inquiry form
+Mobile-friendly design
+Basic search-engine optimization
+Ability for us to easily update text, photographs, and products
+
+We prefer WordPress but are open to recommendations. We will provide product information, drawings, photographs, and logo materials.
+
+When responding, please include:
+
+Examples of similar business or product websites you have created
+Your estimated completion time
+Your total fixed-price quote
+A description of what is included in your price
+Whether you provide assistance after the website is launched
+
+We are looking for someone who communicates clearly and can create a simple, modern website that makes the Stickurity Bags concept easy to understand.</description></item>
+<item><title>Care Home Website &amp; Branding</title><link>https://www.freelancer.com/projects/web-design/Care-Home-Website-Branding</link><guid isPermaLink="false">freelancer:40697163</guid><pubDate>Mon, 07 Sep 2026 20:51:23 GMT</pubDate><description>250-750 GBP | I would like a warm, easy-to-navigate website for my residential care home that lets families stay connected with day-to-day life here. The site’s core purpose is community and updates, so a simple news or blog section needs to sit front and centre alongside three evergreen pages: About Us, Services Offered and Contact Information.  
+
+Please build on a user-friendly CMS (WordPress, Squarespace or similar) so my team can post photos, event summaries and notices without touching code. A clean, responsive layout, readable typography and colours that convey trust and comfort are essential, and the finished site must meet basic accessibility guidelines.  
+
+Alongside the site I need a fresh logo that fits the same visual language and delivers in scalable vector and web formats. Finally, set up domain-based email—at minimum info@ and manager@—so all outward communication carries our new branding.  
+
+Deliverables  
+• Custom logo in SVG, PNG and print-ready PDF  
+• Live, mobile-responsive website with About Us, Services Offered, Contact Information and an update/news section, handed over with admin credentials  
+• Two functioning domain email accounts configured through my hosting or a recommended provider  
+
+The project is complete when the site is live on my chosen domain, the logo files are delivered, and the email addresses send and receive correctly.</description></item>
+<item><title>Website Gallery &amp; Testimonials Update</title><link>https://www.freelancer.com/projects/elementor/Website-Gallery-Testimonials-Update</link><guid isPermaLink="false">freelancer:40697148</guid><pubDate>Mon, 07 Sep 2026 20:36:11 GMT</pubDate><description>25-50 AUD/hr | I’ve already built the core of my site, but it needs a quick refresh so visitors immediately see fresh visuals and social proof.  
+
+Here’s what I need done:
+
+• Add a new image gallery in a clean grid layout. I’ll supply the photos; you handle sizing, optimisation and seamless styling so it matches the existing theme.  
+• Insert those same new pictures into the relevant service pages where placeholders currently sit.  
+• Create a reviews &amp; testimonials section that appears prominently on the homepage, styled to fit the site’s colours and typography. I’ll provide the copy; you just need to lay it out attractively and wire it into my CMS so I can add more later.
+
+Everything runs on WordPress with Elementor, so experience with both is important. No major redesign—just tidy, lightweight tweaks that keep load times fast and the user experience smooth. Once complete, I’d like a quick walk-through (screen-share or short Loom video) showing where to update images and testimonials in future.
+
+If you’ve handled similar front-end tweaks before and can turn this around quickly, let’s get started.</description></item>
+<item><title>Construction Portfolio Site with Booking</title><link>https://www.freelancer.com/projects/web-design/Construction-Portfolio-Site-with-Booking</link><guid isPermaLink="false">freelancer:40697027</guid><pubDate>Mon, 07 Sep 2026 18:55:54 GMT</pubDate><description>500-1250 USD | I’m ready to put our construction work front-and-center online and need a clean, professional portfolio website that does two things exceptionally well: (1) displays our completed projects in a visually appealing gallery and (2) lets visitors lock in an estimate through a simple booking form.
+
+Core structure  
+Home, a brief About section, and a clear Services overview will support the site, but the spotlight must remain on the gallery and the appointment form. I’ll provide brand assets, copy, and high-resolution photos; you’ll design and build the site so I can update images and manage appointments myself afterward—WordPress, Webflow, or any comparable CMS is fine as long as editing stays straightforward.
+
+Key deliverables  
+• Responsive, fast-loading project gallery with category filters  
+• Integrated appointment booking form that emails our office and stores entries in the dashboard  
+• Basic on-page SEO, security plugins/settings, and speed optimisation  
+• Launch on my hosting plus a short hand-off guide that shows how to add new projects or adjust the booking calendar
+
+If you’ve created similar portfolio sites before, especially for trades or construction, include links and the CMS you used; that will help me get a feel for your style. Looking forward to seeing how you can turn our work into a digital showcase that converts visitors into scheduled estimates.
+     Home page with strong before/after photos
+*  Services — decks, kitchens, bathrooms, renovations, landscaping, etc.
+*  Project/gallery page
+* Reviews/testimonials
+*Prominent Call Now / Get a Free Estimate buttons
+* Simple estimate/contact form
+*  Service areas around your area
+*  Excellent mobile design
+*  Basic SEO so Google can understand your services and locations
+*  Google Analytics/Google Ads conversion tracking
+*  You personally own the domain, website account, and hosting</description></item>
+<item><title>Ongoing SEO, Ads &amp; Site Care</title><link>https://www.freelancer.com/projects/google-ads/Ongoing-SEO-Ads-Site-Care</link><guid isPermaLink="false">freelancer:40696926</guid><pubDate>Mon, 07 Sep 2026 18:01:21 GMT</pubDate><description>8-15 CAD/hr | I need an experienced hand to keep three critical engines of our business running smoothly: our SEO rankings, our Google Ads campaigns, and the overall health of the website itself and consistent communication and reporting. 
+
+SEO focus  
+• The immediate KPI is a steady, measurable lift in our domain authority, not just short-term keyword jumps. You’ll monitor and adjust on-page elements, technical SEO, and backlink outreach with tools like Google Search Console, Ahrefs or SEMrush, then translate the data into clear monthly reports I can act on.  
+
+Google Ads &amp; AI-driven optimisation  
+• Our campaigns already generate leads locally, but bids, copy and audiences need regular pruning and expansion. Automate wherever sensible with Performance Max or similar AI features while still applying human judgment to keep cost-per-lead under control.  
+
+Website maintenance  
+• The site (WordPress with a handful of custom plugins) requires routine updates, uptime checks, speed improvements and security patches so rankings and ads never suffer from a surprise outage.  
+
+Local market orientation  
+Everything you do should map back to visibility and conversion in our immediate geographic area; national traffic is nice, but local wins pay the bills.  
+
+Deliverables each month  
+1. Domain-authority progress report with actions taken  
+2. Google Ads performance summary and next-step plan  
+3. Website maintenance log with any fixes or upgrades applied  
+
+If that cadence and scope fit your expertise, let’s talk about timing and onboarding.</description></item>
+<item><title>Rustic Horse Boarding Website Integration</title><link>https://www.freelancer.com/projects/360-video/Rustic-Horse-Boarding-Website</link><guid isPermaLink="false">freelancer:40696828</guid><pubDate>Mon, 07 Sep 2026 17:01:04 GMT</pubDate><description>50+ USD/hr | I operate a horse boarding facility and need a U.S.-based web designer to create a warm, traditional-yet-rustic online home that helps me attract new boarders. The site has to feel welcoming to equestrians while still handling the practical tasks of my business.
+
+Core objectives  
+• Seamlessly connect the website with our existing Facebook and Instagram pages so new posts and photos appear in both directions without extra work.  
+• Offer an immersive, interactive facility tour—panoramas or 360° video—so prospects can “walk the barn” before they call.  
+• Host legal boarding agreements in a secure, digital, sign-and-pay format. Once signed, the form should trigger an invoice through QuickBooks Online, allowing clients to set up monthly auto-pay for stall rent.  
+• Provide a simple dashboard where I can publish or embed articles and videos—whether they come from my own content writer or trusted equine news sites.  
+• Install visitor analytics (e.g., Google Analytics 4 with enhanced tracking or a comparable tool) and a Facebook/Instagram pixel so I can see who drops by even if they never fill out a form.  
+• Build on a platform that lets me expand later with testimonials or photo galleries if I choose, without a full redesign.
+
+Deliverables  
+1. Fully responsive website styled in a traditional, rustic aesthetic.  
+2. Integrated social feeds (FB &amp; IG) with auto-sync capabilities.  
+3. Digital boarding agreement workflow tied directly to QuickBooks Online for invoicing and recurring payments.  
+4. Interactive 360° or video-based facility tour embedded on the site.  
+5. Content management area for articles and videos with copy-paste simplicity.  
+6. Visitor tracking setup with clear reporting instructions.  
+7. A brief hand-off guide or live walk-through so I can manage day-to-day updates myself.
+
+I’m open to WordPress, Squarespace, or another stable platform—whichever best supports these functions without heavy custom code. Clean execution, clear communication, and an eye for country charm matter most to me.</description></item>
+<item><title>Database and Accounting System Development</title><link>https://www.freelancer.com/projects/accounting/Database-Accounting-System-Development</link><guid isPermaLink="false">freelancer:40696442</guid><pubDate>Mon, 07 Sep 2026 13:27:37 GMT</pubDate><description>10-15 GBP/hr | I need a freelancer to build a database and accounting system.
+
+Key Requirements:
+- Store customer information
+- Invoice processing functionality
+- Integration with existing CRM system
+
+Ideal Skills and Experience:
+- Experience in database development
+- Proficiency in creating accounting systems
+- Familiarity with CRM integration
+
+Please provide examples of similar work done and your approach to this project.</description></item>
+<item><title>WordPress Relaunch for Animal Welfare Site</title><link>https://www.freelancer.com/projects/elementor/WordPress-Relaunch-for-Animal-Welfare</link><guid isPermaLink="false">freelancer:40696361</guid><pubDate>Mon, 07 Sep 2026 12:48:07 GMT</pubDate><description>12-18 EUR/hr | We are a small German nonprofit animal welfare foundation and are looking for an experienced WordPress freelancer to redesign and modernize our existing website:
+
+[www.tierschutzstiftungen.de](http://www.tierschutzstiftungen.de)
+
+The website already contains extensive content and should not be rebuilt completely from scratch. We want a professional WordPress relaunch with a cleaner structure, modern and emotional design, better mobile usability, and a much stronger focus on our animal welfare projects and donations. The payment systems, set up by the previous agency, are working fine and do not require changes.
+
+The current navigation is too extensive and should be simplified considerably. We are considering a structure such as:
+
+Our Foundation | Projects | Animals &amp; Help | News | About Us | DONATE
+
+The DONATE button should be clearly visible.
+
+The homepage should feature a large emotional animal image, our foundation name, and our message:
+
+“Without detours – directly for the benefit of animals.”
+
+It should then present a small number of current projects with strong images and short descriptions, followed by measurable impact, animal stories, information about the foundation, and a clear donation call to action.
+
+Our current projects include support for an animal shelter in Andratx, food and supply donations, support for an animal clinic, and the care of cats and donkeys in Mallorca as well as animal welfare projects in Germany.
+
+The donation page should also be redesigned to become a real donation landing page, explaining clearly what donations achieve and making it easy for visitors to support our work.
+
+We are looking specifically for a freelancer with:
+
+- Strong WordPress and Elementor experience
+- Experience with NGO, nonprofit or charity websites
+- Good UI/UX and web design skills
+- Experience with German or European clients
+- Responsive/mobile design experience
+- Basic SEO and performance optimization
+- Ability to work with our existing WordPress website
+- Ability to create a homepage mockup before full implementation
+
+We prefer an individual freelancer or very small team rather than a large agency.
+
+Please provide 2–3 examples of NGO/nonprofit websites and, if possible, websites created for German or European clients.</description></item>
+<item><title>UX/UI Expert for Educational Website Consultation</title><link>https://www.freelancer.com/projects/ui-design/Expert-for-Educational-Website</link><guid isPermaLink="false">freelancer:40694941</guid><pubDate>Sun, 06 Sep 2026 19:53:56 GMT</pubDate><description>5-10 GBP/hr | I’m looking for an experienced UX/UI designer for a short website consultation.
+
+I already have an educational website and want someone to review the design, user experience, navigation, layout, colours, mobile usability, and overall professional appearance.
+
+This is consultation only, not a full redesign or development project.
+
+I would like an initial 30-minute online consultation. I want someone who can quickly identify problems and give practical recommendations.
+
+Please apply only if you have strong UX/UI experience and can show examples of websites you have reviewed or designed.
+
+Please include your hourly/consultation rate in your proposal.</description></item>
+<item><title>Revamp and Update Website</title><link>https://www.freelancer.com/projects/web-design/Revamp-Update-Website</link><guid isPermaLink="false">freelancer:40691503</guid><pubDate>Fri, 04 Sep 2026 22:01:04 GMT</pubDate><description>15-25 USD/hr | Website Review &amp; Update
+
+Project Overview
+
+I am looking for an experienced website professional to review and update my existing website.
+
+The goal is to ensure the website accurately represents my current brand, services, projects, and overall direction while providing a polished, professional, and user-friendly experience.
+
+Scope of Work
+
+* Update website with information I provide.
+* Review images, links, buttons, calls-to-action, and contact information.
+* Ensure branding is consistent throughout the site.
+* Review mobile responsiveness.
+* Identify basic SEO opportunities.
+* Make agreed-upon updates directly to the website.
+* Provide recommendations for additional improvements that should be considered in a future phase.
+
+Ideal Freelancer
+
+I am looking for someone who:
+
+* Has experience auditing and updating existing websites.
+* Has strong attention to detail.
+* Understands branding, user experience, and content strategy.
+* Can make recommendations rather than simply waiting for instructions.
+* Communicates clearly and provides progress updates.
+* Can work within an existing website platform/CMS.
+
+Deliverables
+1. Website review/audit.
+2. Completed website updates.
+3. Final quality-control review.
+4.. List of recommended future enhancements.
+
+Please include examples of websites you have previously reviewed, redesigned, or updated and indicate what platform(s) you specialize in.</description></item>
+<item><title>Website Integration Fix</title><link>https://www.freelancer.com/projects/api/Website-Integration-Fix</link><guid isPermaLink="false">freelancer:40691238</guid><pubDate>Fri, 04 Sep 2026 18:02:18 GMT</pubDate><description>25-50 USD/hr | I'm seeking assistance with a bearer token error on my website. 
+
+Key Requirements:
+- Expertise in API authentication
+- Experience with bearer tokens and related errors
+
+Ideal Skills:
+- Proficient in OAuth 2.0, JWT, or Basic Auth
+- Strong background in web development and troubleshooting</description></item>
+<item><title>Home services Lead Gen Website</title><link>https://www.freelancer.com/projects/web-design/Home-services-Lead-Gen-Website</link><guid isPermaLink="false">freelancer:40691147</guid><pubDate>Fri, 04 Sep 2026 17:05:33 GMT</pubDate><description>15-25 USD/hr | The goal is to build a high-converting home services site focused solely on capturing  leads. Every design decision—layout, visuals, copy, and flow—should nudge visitors toward requesting more information on available properties.
+
+I need a clean, modern interface that feels trustworthy and professional to home-buyers. A prominent hero section, clear calls-to-action, short enquiry forms, and persuasive micro-copy are essential. Integration with my current CRM (HubSpot) will allow new enquiries to drop straight into an automated follow-up sequence, so the form fields must map correctly.  
+
+Please ensure:  
+• Fully responsive pages that load quickly on mobile, tablet, and desktop  
+• On-page SEO fundamentals baked in (title tags, structured data for listings, image alt text)  
+• Google Analytics and Facebook Pixel ready for tracking ad performance  
+• Easy-to-edit templates in WordPress or Webflow—whichever you are most efficient with—so I can add or remove property highlights without touching code
+
+Deliverables:  
+1. Low-fidelity wireframes for approval  
+2. Final UI mock-ups (desktop &amp; mobile)  
+3. Developed, launch-ready site hosted on my domain  
+4. 30-minute recorded walkthrough showing how to update content
+
+Acceptance criteria: the site must pass Google Lighthouse performance score of 85+, all lead forms must feed the CRM without errors, and there must be no broken links on launch.
+
+Timeline is flexible but I would like the first wireframe within a week of project start.</description></item>
+<item><title>Website Content Update Guidance</title><link>https://www.freelancer.com/projects/content-writing/Website-Content-Update-Guidance</link><guid isPermaLink="false">freelancer:40689488</guid><pubDate>Thu, 03 Sep 2026 21:29:56 GMT</pubDate><description>8-15 USD/hr | I have an existing website that needs a round of fresh, accurate content. What I need most right now is practical, step-by-step guidance on how to make those updates efficiently inside the site’s current setup. I am still deciding whether the revised copy should be fully SEO-optimised, so I’d appreciate your advice on that point as we move along.
+
+Here’s what the collaboration will look like:  
+• You review the site’s pages with me (screen-share or recorded walkthrough is fine).  
+• We identify which text, images, or calls-to-action must be replaced or expanded.  
+• You coach me through the actual edit process inside the CMS, showing best practices for formatting, internal linking, and basic on-page checks.  
+• If you believe search optimisation is worth the effort here, outline exactly what you would tweak and why, so I can decide before we proceed.  
+
+To be confident we’re a good fit, please point me to past work where you have guided a site owner—or handled the edits yourself—on similar content refreshes. A quick note on the challenge faced, the approach taken, and the final outcome will help me understand your style.
+
+Deliverables I expect at minimum:  
+1. A concise action plan (checklist or short doc) mapping each page to its required update.  
+2. A recorded session or written tutorial that I can refer back to after our live call.  
+3. The first page fully updated together, serving as a template for the rest of the site.
+
+If this format suits you, share a link or two that reflects comparable projects you’ve completed, and let’s schedule our first walkthrough.</description></item>
+<item><title>Trello Workflow Coordinator Needed</title><link>https://www.freelancer.com/projects/project-management/Trello-Workflow-Coordinator-Needed</link><guid isPermaLink="false">freelancer:40689452</guid><pubDate>Thu, 03 Sep 2026 20:55:31 GMT</pubDate><description>15-25 USD/hr | Creative Project Coordinator — Trello, 1-2 hrs/day, ongoing
+
+We're a creative studio looking for a coordinator to own the flow from client request to delivery. Someone who is familiar with the creative design process and is excellent with customer service.
+
+You'd handle:
+Trello board management
+Client communication and customer service
+Following up on approvals
+Scheduling
+Organizing assets and files
+Client onboarding
+Tracking deadlines
+Flagging scope creep before it becomes a problem
+The chain you'd be running is: Client &gt; Request &gt; Creative Team &gt; Revisions &gt; Approval &gt; Delivery.
+
+The most important thing: we need someone who can run that without us checking in constantly. If you need daily direction, this isn't the right fit. If you like owning a process end to end, it is.
+
+Strong written and spoken English is required. You'll be talking to our clients.
+
+1-2 hours per day, ongoing, starting immediately. This is a long-term role.</description></item>
+<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
+
+Requirements:
+- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
+- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
+- Inventory management: Efficient tracking and management of stock levels.
+- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
+
+Ideal Skills:
+- Proven experience in e-commerce, particularly on Amazon
+- Strong background in marketing and promotions
+- Excellent inventory management skills
+- Customer service expertise
+- Proven positive track record with end to end Amazon store management.
+- Experience with Printful to Amazon integrations (Not required but useful)
+
+We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
+</channel></rss>

@@ -1,8 +1,9 @@
 # Non-secret settings. Secrets (webhook URL, IMAP password) go in .env instead.
 
 # A job alerts if its title or description contains ANY of these (case-insensitive).
-# Upwork filtering happens on Upwork's side via your saved-search alerts, so this list
-# mainly matters for Freelancer.com -- but it's applied to every source as a safety net.
+# Upwork filtering happens on Upwork's side via your saved-search alerts, and Freelancer.com
+# uses the saved-search filters in src/sources/freelancer_api.py (keywords don't apply to it).
+# This list is a safety net for the other sources.
 keywords:
   - Framer
   - Webflow
