@@ -3,6 +3,48 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Premium Squarespace Site Consolidation and SEO Implementation</title><link>https://www.freelancer.com/projects/branding/Premium-Squarespace-Site-Consolidation</link><guid isPermaLink="false">freelancer:40703911</guid><pubDate>Thu, 10 Sep 2026 20:44:46 GMT</pubDate><description>250-750 USD | Project: Consolidate two websites into one premium Squarespace site, implement SEO/copy I've already written, and clean up scattered social media accounts.
+
+Background: I run South Garden Service Dogs (southgardenservicedogs.com), an established Squarespace site for my premium German Shepherd training/placement business, and a separate single-page site, Elite Guardian Service Dogs (eliteguardianservicedogs.com), for my 501(c)(3) nonprofit that places service dogs with veterans and first responders. Both share the same phone number, facility, and founder, and the overlapping branding is splitting my search visibility and confusing buyers. Elite Guardian currently doesn't show up in Google at all.
+
+The decision: Make South Garden the single public-facing site. Fold Elite Guardian in as its own dedicated 501(c)(3) program page inside South Garden — not a second site. Migrate the relevant Elite Guardian content over, then retire the old Elite Guardian site with a 301 redirect.
+
+Audience and goal: Affluent buyers along the DC-to-Richmond/I-95 corridor purchasing premium trained German Shepherds ($15,000-$50,000 range). The primary conversion action on every page should be a booking/inquiry form submission, with phone as backup. Tone needs to be premium, trustworthy, and discreet.
+
+What I supply: Finished page copy and SEO titles/meta descriptions for the home page, an Executive K9 consultation page, and 5-7 city landing pages, plus Elite Guardian program copy, brand facts, and updated photos/video. This is an implementation job, not a copywriting job.
+
+What I need done (website/SEO):
+
+Consolidate the two sites into one, build the Elite Guardian program page, set up the 301 redirect
+Implement my supplied copy, SEO titles, meta descriptions, image alt text
+Google Search Console setup, sitemap submission, crawl/indexing review
+LocalBusiness/Organization schema (JSON-LD) via Squarespace code injection
+Audit and optimize my Google Business Profile
+Premium design refresh, full mobile optimization
+Online booking integration (Squarespace Scheduling or Calendly) plus short lead forms on key pages
+A distinct "Request a Private Executive K9 Consultation" funnel, separate from my existing free-assessment CTA
+5-7 unique city landing pages (copy provided), properly internally linked to each other and the rest of the site — no duplicate/thin content
+Blog structure for future content
+Fix footer copyright year and a few known typos
+Visible 501(c)(3)/EIN info on the Elite Guardian page
+Make "Available Puppies" prominent in the main nav and homepage header
+Refresh outdated photos/video with assets I provide
+Consolidate two separate business email inboxes into one
+
+What I need done (social media cleanup — one-time, not ongoing management):
+
+Audit Facebook, both Instagram profiles, TikTok, YouTube, and X/Twitter
+Identify and remove or merge duplicate/abandoned accounts
+Confirm Facebook/Instagram are properly linked and cross-posting through Meta Business Suite
+Standardize name, bio, contact info, and website link across every platform
+Document which platforms stay active vs. go dormant
+Confirm I retain admin access to everything before it's considered done
+
+Important wording rule: for liability/insurance reasons, the visible website copy can never use the word "protection" — I use stability, secure, steady, confident, grounded instead. The word "protection" stays only in the SEO layer (page titles, meta descriptions, URL slugs), never in visible text.
+
+Out of scope unless separately agreed: off-page SEO (backlink building, citations, outreach), reputation management, ranking guarantees, ongoing social media posting/management.
+
+What I need in your quote: a firm fixed price, broken out separately for the website/SEO work and the social media cleanup, a proposed timeline with milestones, relevant samples (ideally premium/high-end service business sites, not just any Squarespace site), and confirmation you're comfortable working inside Squarespace — this is not a custom-code rebuild.</description></item>
 <item><title>Shopify E-Commerce App With Search</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Commerce-App-With-Search</link><guid isPermaLink="false">freelancer:40703857</guid><pubDate>Thu, 10 Sep 2026 19:53:54 GMT</pubDate><description>750-1500 USD | I need a fully functional e-commerce web app built on Shopify. The core of the project is to design and configure a storefront that feels modern, loads quickly, and scales easily as my catalogue grows.  
 
 My must-have feature is a robust, advanced search so shoppers can filter by attributes such as size, color, price range, and availability without delay. If you have experience integrating or custom-coding advanced search solutions within Shopify’s ecosystem—whether through Liquid, Shopify APIs, or a well-chosen app—this project should be straightforward for you.  
@@ -1289,29 +1331,6 @@ Here’s what I need done:
 Everything runs on WordPress with Elementor, so experience with both is important. No major redesign—just tidy, lightweight tweaks that keep load times fast and the user experience smooth. Once complete, I’d like a quick walk-through (screen-share or short Loom video) showing where to update images and testimonials in future.
 
 If you’ve handled similar front-end tweaks before and can turn this around quickly, let’s get started.</description></item>
-<item><title>Construction Portfolio Site with Booking</title><link>https://www.freelancer.com/projects/web-design/Construction-Portfolio-Site-with-Booking</link><guid isPermaLink="false">freelancer:40697027</guid><pubDate>Mon, 07 Sep 2026 18:55:54 GMT</pubDate><description>500-1250 USD | I’m ready to put our construction work front-and-center online and need a clean, professional portfolio website that does two things exceptionally well: (1) displays our completed projects in a visually appealing gallery and (2) lets visitors lock in an estimate through a simple booking form.
-
-Core structure  
-Home, a brief About section, and a clear Services overview will support the site, but the spotlight must remain on the gallery and the appointment form. I’ll provide brand assets, copy, and high-resolution photos; you’ll design and build the site so I can update images and manage appointments myself afterward—WordPress, Webflow, or any comparable CMS is fine as long as editing stays straightforward.
-
-Key deliverables  
-• Responsive, fast-loading project gallery with category filters  
-• Integrated appointment booking form that emails our office and stores entries in the dashboard  
-• Basic on-page SEO, security plugins/settings, and speed optimisation  
-• Launch on my hosting plus a short hand-off guide that shows how to add new projects or adjust the booking calendar
-
-If you’ve created similar portfolio sites before, especially for trades or construction, include links and the CMS you used; that will help me get a feel for your style. Looking forward to seeing how you can turn our work into a digital showcase that converts visitors into scheduled estimates.
-     Home page with strong before/after photos
-*  Services — decks, kitchens, bathrooms, renovations, landscaping, etc.
-*  Project/gallery page
-* Reviews/testimonials
-*Prominent Call Now / Get a Free Estimate buttons
-* Simple estimate/contact form
-*  Service areas around your area
-*  Excellent mobile design
-*  Basic SEO so Google can understand your services and locations
-*  Google Analytics/Google Ads conversion tracking
-*  You personally own the domain, website account, and hosting</description></item>
 <item><title>Ongoing SEO, Ads &amp; Site Care</title><link>https://www.freelancer.com/projects/google-ads/Ongoing-SEO-Ads-Site-Care</link><guid isPermaLink="false">freelancer:40696926</guid><pubDate>Mon, 07 Sep 2026 18:01:21 GMT</pubDate><description>8-15 CAD/hr | I need an experienced hand to keep three critical engines of our business running smoothly: our SEO rankings, our Google Ads campaigns, and the overall health of the website itself and consistent communication and reporting. 
 
 SEO focus  
