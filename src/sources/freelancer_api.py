@@ -32,6 +32,9 @@ QUERIES = [
     {"project_types[]": ["fixed"], "min_price": 400},
     {"project_types[]": ["hourly"], "min_hourly_rate": 10},
 ]
+# Dropped even if they slip past countries[]. The public API hides the client's own
+# country (owner fields come back null), so currency is the only client-side signal.
+EXCLUDED_CURRENCIES = {"INR"}
 
 # Characters XML 1.0 forbids; one stray one in a description breaks the whole feed.
 _XML_BAD = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
@@ -67,6 +70,8 @@ class FreelancerSource:
 
             for p in data.get("result", {}).get("projects", []):
                 try:
+                    if (p.get("currency") or {}).get("code") in EXCLUDED_CURRENCIES:
+                        continue
                     job_id = f"freelancer:{p['id']}"
                     seo_url = p.get("seo_url", "")
                     url = f"https://www.freelancer.com/projects/{seo_url}" if seo_url else "https://www.freelancer.com/"
