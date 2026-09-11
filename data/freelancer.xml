@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI-Powered Security Camera &amp; Sensor Alert System (Prototype/Pilot Build)</title><link>https://www.freelancer.com/projects/web-design/Powered-Security-Camera-Sensor-Alert</link><guid isPermaLink="false">freelancer:40705007</guid><pubDate>Fri, 11 Sep 2026 10:19:28 GMT</pubDate><description>250-750 USD | We're building a pilot AI security monitoring system to replace traditional on-site guarding for sites such as depots, yards, commercial premises, and rural land.
+
+We need a system that can:
+
+Connect to IP/CCTV cameras (existing or freelancer-recommended hardware) and motion/perimeter sensors
+Use AI/computer vision to distinguish between people, vehicles, and animals — not just raw motion — to cut down false alarms
+Send real-time alerts (app notification, SMS, or WhatsApp/Telegram) when it detects a genuine event, e.g. a person on-site after hours
+Provide a simple dashboard or live-view where we can check camera feeds and recent alerts remotely
+Be built in a way that can scale from one pilot site to multiple sites later
+
+This is a first pilot build — we want something working and reliable rather than over-engineered. Please propose your recommended tech stack (cameras, AI model/service, hosting, alerting method) as part of your bid, and break your price into phases:
+
+Camera/sensor integration + live feed
+AI detection layer (person/vehicle/animal classification)
+Alerting + dashboard
+
+Ideal freelancer: experience with computer vision (e.g. OpenCV, YOLO, or similar), IoT/camera integration, and comfortable working with a non-technical client to explain trade-offs (cost vs. accuracy vs. complexity).
+
+We're a small UK-based team moving from traditional in-person security guarding into AI-led monitoring, so real-world reliability matters more than flashy features.</description></item>
 <item><title>E-commerce Stripe Integration for Website</title><link>https://www.freelancer.com/projects/stripe/commerce-Stripe-Integration-for-Website</link><guid isPermaLink="false">freelancer:40704854</guid><pubDate>Fri, 11 Sep 2026 08:47:47 GMT</pubDate><description>250-750 GBP | I'm seeking an experienced bubble server developer to integrate Stripe into my e-commerce website. The work is to change the current direct charge to customer, to move over to transfer and payments using the Cranford Tech stripe-connect plug in.  There will also be some editing and development on the site itself.  
 
 Key requirements include:
@@ -1191,22 +1210,6 @@ Deliverables:
 • One-hour hand-off screen share showing how to update pages, posts, and listings  
 
 Please build on a staging server first; I’ll point the domain when we approve the final review link.</description></item>
-<item><title>SharePoint Setup with Dashboards</title><link>https://www.freelancer.com/projects/data-visualization/SharePoint-Setup-with-Dashboards</link><guid isPermaLink="false">freelancer:40699256</guid><pubDate>Tue, 08 Sep 2026 18:18:47 GMT</pubDate><description>750-1500 CAD | I'm seeking an experienced SharePoint developer to create structured, functional pages tailored for our HR team, executive leaders, and all employees. The setup should include:
-
-- Document management capabilities
-- Reporting and analytics features
-- Design and creation of a unified One-SharePoint HR page
-
-Additionally, I need dashboards for:
-- HR performance metrics
-- Employee engagement
-- Project management
-
-Ideal Skills &amp; Experience:
-- Proficiency in SharePoint design and implementation
-- Strong understanding of HR metrics and dashboard creation
-- Experience in building user-friendly, organized document management systems
-- Ability to customize pages for different user groups</description></item>
 <item><title>Web developer</title><link>https://www.freelancer.com/projects/php/Web-developer-40699065</link><guid isPermaLink="false">freelancer:40699065</guid><pubDate>Tue, 08 Sep 2026 16:32:14 GMT</pubDate><description>15-25 CAD/hr | I am looking for a web developer to create an E-commerce website using WordPress. The ideal candidate should have experience in developing E-commerce websites and be proficient in WordPress. The website should have the following features:
 
 - SEO Optimization: The website should be optimized for search engines to improve its visibility and attract more traffic.
