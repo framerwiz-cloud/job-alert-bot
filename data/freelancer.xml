@@ -3,24 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>E-commerce Stripe Integration for Website</title><link>https://www.freelancer.com/projects/stripe/commerce-Stripe-Integration-for-Website</link><guid isPermaLink="false">freelancer:40704854</guid><pubDate>Fri, 11 Sep 2026 12:47:16 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced Bubble server developer to integrate Stripe into my e-commerce website. The work involves changing the current direct charge to customers to transfer and payments using the Cranford Tech Stripe-Connect plugin. Since there are no existing customers yet, this plugin change will be straightforward. There will also be some editing and development on the site itself.
-
-Key requirements include:
-- API integration
-- Website editing with branding and a few features to add, including:
-  - Adding a new column to the event organizer dashboard
-  - Implementing a description in the event organizer profile to appear on event pages
-  - Adding a "Refund All" function to trigger refunds for all ticket purchasers of a specific event
-  - Adding social media icons to relevant sections of the platform for better user engagement
-- Payouts and transfers configuration
-
-Ideal Skills and Experience:
-- Proven experience with Stripe integrations, Cranford Tech plugin experience is desirable.
-- Strong background in e-commerce website development
-- Familiarity with security protocols for online transactions and onboarding customers to express-type connect Stripe accounts
-- Ability to provide documentation and support post-integration
-
-Please include any relevant portfolio work with your bids.</description></item>
 <item><title>Youtube AI Summarizer &amp; PDF Boost + Text Editor</title><link>https://www.freelancer.com/projects/ai-content-creation/Youtube-Summarizer-PDF-Boost-Text</link><guid isPermaLink="false">freelancer:40705152</guid><pubDate>Fri, 11 Sep 2026 11:34:02 GMT</pubDate><description>500-2000 EUR | I want to launch a full-featured web app that lets users:  
 • paste a YouTube link and instantly receive an AI-generated written summary;  
 • create or upload documents, enhance them as polished PDFs, and perform rich text edits (grammar correction, formatting tweaks, light rewriting);  
@@ -1235,6 +1217,24 @@ Here’s what I expect:
 Please outline the architecture you propose, the key milestones you’d follow, and previous, relevant platforms you’ve delivered. Demonstrate how you plan to handle performance, security, and user support. I’m open to recommendations on frameworks and hosting as long as they align with mainstream best practices.  
 
 The deliverable is a production-ready platform with documentation that allows me to operate and expand it confidently after hand-off.</description></item>
+<item><title>Non-Profit WordPress Site Redesign</title><link>https://www.freelancer.com/projects/wordpress-design/Non-Profit-WordPress-Site-Redesign</link><guid isPermaLink="false">freelancer:40699454</guid><pubDate>Tue, 08 Sep 2026 20:45:20 GMT</pubDate><description>750-1500 USD | I need our existing wordPress cat sanctuary and adoption center website rebuilt on WordPress so it is easier for our small team to manage and, more importantly, so it can serve the core mission of our non-profit. The finished site must do four things well:
+
+• Raise awareness  
+• Collect donations  
+• Recruit volunteers  
+• Promote animal adoption  
+
+I already have branding, copy, and most images; what’s missing is a modern, responsive WordPress build that brings it all together. A clean UI, clear calls-to-action, and seamless integrations (PayPal or Stripe for donations, Mailchimp for newsletters, and a plug-in or custom post type for adoptable animals) are essential. Accessibility, mobile performance, and straightforward page-builder editing are must-haves so staff can make updates without touching code. We also have a few items for sale so we need basic e-commerce.
+
+Deliverables:
+• Fully configured WordPress theme (child theme or block-based) reflecting our brand style  
+• Donation flow tested end-to-end  
+• Volunteer and contact forms routed to our CRM email  
+• Animal adoption listing section with search/filter  
+• Basic on-page SEO and Google Analytics 4 connected  
+• One-hour hand-off screen share showing how to update pages, posts, and listings  
+
+Please build on a staging server first; I’ll point the domain when we approve the final review link.</description></item>
 <item><title>Web developer</title><link>https://www.freelancer.com/projects/php/Web-developer-40699065</link><guid isPermaLink="false">freelancer:40699065</guid><pubDate>Tue, 08 Sep 2026 16:32:14 GMT</pubDate><description>15-25 CAD/hr | I am looking for a web developer to create an E-commerce website using WordPress. The ideal candidate should have experience in developing E-commerce websites and be proficient in WordPress. The website should have the following features:
 
 - SEO Optimization: The website should be optimized for search engines to improve its visibility and attract more traffic.
