@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-commerce Stripe Integration for Website</title><link>https://www.freelancer.com/projects/stripe/commerce-Stripe-Integration-for-Website</link><guid isPermaLink="false">freelancer:40704854</guid><pubDate>Fri, 11 Sep 2026 12:47:16 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced Bubble server developer to integrate Stripe into my e-commerce website. The work involves changing the current direct charge to customers to transfer and payments using the Cranford Tech Stripe-Connect plugin. Since there are no existing customers yet, this plugin change will be straightforward. There will also be some editing and development on the site itself.
+
+Key requirements include:
+- API integration
+- Website editing with branding and a few features to add, including:
+  - Adding a new column to the event organizer dashboard
+  - Implementing a description in the event organizer profile to appear on event pages
+  - Adding a "Refund All" function to trigger refunds for all ticket purchasers of a specific event
+  - Adding social media icons to relevant sections of the platform for better user engagement
+- Payouts and transfers configuration
+
+Ideal Skills and Experience:
+- Proven experience with Stripe integrations, Cranford Tech plugin experience is desirable.
+- Strong background in e-commerce website development
+- Familiarity with security protocols for online transactions and onboarding customers to express-type connect Stripe accounts
+- Ability to provide documentation and support post-integration
+
+Please include any relevant portfolio work with your bids.</description></item>
 <item><title>Youtube AI Summarizer &amp; PDF Boost + Text Editor</title><link>https://www.freelancer.com/projects/ai-content-creation/Youtube-Summarizer-PDF-Boost-Text</link><guid isPermaLink="false">freelancer:40705152</guid><pubDate>Fri, 11 Sep 2026 11:34:02 GMT</pubDate><description>500-2000 EUR | I want to launch a full-featured web app that lets users:  
 • paste a YouTube link and instantly receive an AI-generated written summary;  
 • create or upload documents, enhance them as polished PDFs, and perform rich text edits (grammar correction, formatting tweaks, light rewriting);  
@@ -61,20 +79,6 @@ Alerting + dashboard
 Ideal freelancer: experience with computer vision (e.g. OpenCV, YOLO, or similar), IoT/camera integration, and comfortable working with a non-technical client to explain trade-offs (cost vs. accuracy vs. complexity).
 
 We're a small UK-based team moving from traditional in-person security guarding into AI-led monitoring, so real-world reliability matters more than flashy features.</description></item>
-<item><title>E-commerce Stripe Integration for Website</title><link>https://www.freelancer.com/projects/stripe/commerce-Stripe-Integration-for-Website</link><guid isPermaLink="false">freelancer:40704854</guid><pubDate>Fri, 11 Sep 2026 08:47:47 GMT</pubDate><description>250-750 GBP | I'm seeking an experienced bubble server developer to integrate Stripe into my e-commerce website. The work is to change the current direct charge to customer, to move over to transfer and payments using the Cranford Tech stripe-connect plug in.  There will also be some editing and development on the site itself.  
-
-Key requirements include:
-- API integration
-- Website editing with branding and a few features to add. 
-- Payouts and transfers configuration
-
-Ideal Skills and Experience:
-- Proven experience with Stripe integrations, Cranford Tech plug in experience is desirable.
-- Strong background in e-commerce website development
-- Familiarity with security protocols for online transactions and onboarding customers to express type connect Stripe accounts
-- Ability to provide documentation and support post-integration
-
-Please include any relevant portfolio work with your bids.</description></item>
 <item><title>Remote IT Support Specialist -- (Canada, US, Brazil, Europe)</title><link>https://www.freelancer.com/projects/php/Remote-Support-Specialist-Canada-Brazil</link><guid isPermaLink="false">freelancer:40704644</guid><pubDate>Fri, 11 Sep 2026 06:48:49 GMT</pubDate><description>250-750 USD | **Remote IT Infrastructure Support Specialist Needed (India &amp; Philippines)**
 
 We are looking for a skilled **Remote IT Support Specialist** based in ** to assist with laptop setup, system configuration, and remote technical operations.
