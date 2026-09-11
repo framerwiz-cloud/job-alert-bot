@@ -3,22 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Efficient HTML Documentation Site Construction</title><link>https://www.freelancer.com/projects/web-development/Efficient-HTML-Documentation-Site</link><guid isPermaLink="false">freelancer:40705210</guid><pubDate>Fri, 11 Sep 2026 12:08:21 GMT</pubDate><description>250-750 USD | I need a clean, multi-page documentation site served from docs.mapitright.com. All pages must be pure HTML so they load fast, stay lightweight, and can be version-controlled easily. I will hand over every logo, style guide, and draft text you need the moment we start.
-
-The finished site must include:
-• Getting Started
-• API Reference
-• FAQ
-
-Each section should sit on its own page, with a consistent header, sidebar navigation, and footer so readers can jump between topics smoothly. A simple client-side search (JavaScript is fine) will round out the experience.
-
-I’ll review the build against these acceptance points:
-1. Every page renders without console errors in the latest Chrome, Firefox, and Safari.
-2. Internal links, anchors, and search return the correct content.
-3. The entire bundle deploys to docs.mapitright.com through a single drag-and-drop or Git push.
-4. The layout matches the supplied brand assets pixel-for-pixel.
-
-All assets, copy, and hosting access come from me at project start; payment is released only once the live site meets every checkpoint above.</description></item>
 <item><title>Youtube AI Summarizer &amp; PDF Boost + Text Editor</title><link>https://www.freelancer.com/projects/ai-content-creation/Youtube-Summarizer-PDF-Boost-Text</link><guid isPermaLink="false">freelancer:40705152</guid><pubDate>Fri, 11 Sep 2026 11:34:02 GMT</pubDate><description>500-2000 EUR | I want to launch a full-featured web app that lets users:  
 • paste a YouTube link and instantly receive an AI-generated written summary;  
 • create or upload documents, enhance them as polished PDFs, and perform rich text edits (grammar correction, formatting tweaks, light rewriting);  
@@ -1234,6 +1218,19 @@ If this sounds like something you could build, please get in touch. I’d be int
 
 Thank you!
 Harvey</description></item>
+<item><title>Build Medical Tourism Platform</title><link>https://www.freelancer.com/projects/database-management/Build-Medical-Tourism-Platform</link><guid isPermaLink="false">freelancer:40700259</guid><pubDate>Wed, 09 Sep 2026 07:11:32 GMT</pubDate><description>250-750 USD | I’m ready to bring a full-featured medical tourism platform to life and need an experienced team or individual who can take the idea from concept to launch. The core goal is to let prospective patients discover qualified healthcare providers abroad, understand treatment options, and complete every step—from inquiry to confirmed appointment and travel logistics—inside a single, secure environment.  
+
+Here’s what I expect:  
+
+• A modern, responsive web application with intuitive patient and provider flows.  
+• A secure backend that can scale as traffic grows, built on a technology stack you’re comfortable supporting long-term.  
+• Essential modules such as provider profiles, treatment listings, real-time availability, booking management, payment processing, and multilingual support.  
+• Administrative tools for onboarding new clinics, reviewing content, and tracking transactions.  
+• Strong emphasis on data privacy, HIPAA/GDPR compliance, and encrypted communication.  
+
+Please outline the architecture you propose, the key milestones you’d follow, and previous, relevant platforms you’ve delivered. Demonstrate how you plan to handle performance, security, and user support. I’m open to recommendations on frameworks and hosting as long as they align with mainstream best practices.  
+
+The deliverable is a production-ready platform with documentation that allows me to operate and expand it confidently after hand-off.</description></item>
 <item><title>Web developer</title><link>https://www.freelancer.com/projects/php/Web-developer-40699065</link><guid isPermaLink="false">freelancer:40699065</guid><pubDate>Tue, 08 Sep 2026 16:32:14 GMT</pubDate><description>15-25 CAD/hr | I am looking for a web developer to create an E-commerce website using WordPress. The ideal candidate should have experience in developing E-commerce websites and be proficient in WordPress. The website should have the following features:
 
 - SEO Optimization: The website should be optimized for search engines to improve its visibility and attract more traffic.
