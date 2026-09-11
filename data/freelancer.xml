@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Engaging Startup Product Showcase Video (Not India, Pakistan, Bangladesh)</title><link>https://www.freelancer.com/projects/video-production/Engaging-Startup-Product-Showcase-Video</link><guid isPermaLink="false">freelancer:40704259</guid><pubDate>Fri, 11 Sep 2026 02:00:00 GMT</pubDate><description>5000-10000 USD | I want to create a polished promotion video that spotlights my US-based startup and the nearly 2,000 products we already carry. The piece is first and foremost a product showcase, but it also needs to hint at our brand’s personality so viewers instantly understand who we are and why they should care.
+
+Visually, I’m picturing a seamless blend of live-action footage—think lifestyle clips, quick product demos, or behind-the-scenes shots—paired with clean animated call-outs, motion-graphics, and subtle text overlays that highlight features, specs, and pricing tiers. The storytelling rhythm should feel dynamic yet structured: short, punchy scenes that move quickly while giving each hero product its moment.
+
+Here’s how I see the workflow:
+• Script and concise storyboard that decides which products (or categories) get screen time.
+• Live-action shoot or carefully sourced stock footage that fits our brand tone.
+• Custom 2D/3D animation layered over the footage for visual punch.
+• Professional voice-over, licensed background music, and tight sound design.
+• Final edit delivered in full-HD (4K preferred) ready for web, social, and trade-show screens.
+
+I’m open on exact runtime and will lock that down with you once we have the storyboard, though it should stay short and engaging rather than sprawling. If you have a reel that blends animation with real-world footage, share it—seeing smooth transitions and brand-focused storytelling is key.
+
+Let’s craft something memorable that convinces viewers our extensive catalogue is worth a closer look.</description></item>
 <item><title>Comprehensive Growth Package for Renovation Business</title><link>https://www.freelancer.com/projects/go-high-level/Comprehensive-Growth-Package-for</link><guid isPermaLink="false">freelancer:40704201</guid><pubDate>Fri, 11 Sep 2026 01:05:42 GMT</pubDate><description>1500-3000 AUD | Casa Vita Renovations is a Melbourne-based renovation/outdoor-living business. We already have a live website and content; we are NOT looking for a new site from scratch.
 
 We need an experienced freelancer to manage Meta Ads, GoHighLevel CRM/AI, Google Business Profile, local SEO, review automation and website expansion over 90 days. Main focus: pergolas and decking, plus kitchens/bathrooms. Expand the existing site to about 30 useful pages, prioritising pergola pricing/product pages, decking/ClickDeck pages and high-conversion landing pages.
@@ -1329,175 +1343,6 @@ Please reply with:
 7. Whether you are comfortable using shared files, designs and project checklists.
 
 I will select one person as the lead developer so responsibilities, deadlines and final integration remain organized.</description></item>
-<item><title>Local Trades Network Development</title><link>https://www.freelancer.com/projects/api-developmet/Local-Trades-Network-Development</link><guid isPermaLink="false">freelancer:40698646</guid><pubDate>Tue, 08 Sep 2026 12:39:44 GMT</pubDate><description>5000-10000 GBP | I'm seeking a developer to create a comprehensive local trades network platform. This platform will enable tradespeople to share portfolios, post and discuss jobs, and build trusted reputations through interactions.
-
-Essential Key Functionalities:
-- Portfolio Sharing: Users should be able to showcase their work through:
-  - Photo uploads
-  - Video uploads
-  - Text descriptions
-
-- Job Posting and Discussion: A forum for tradespeople to post and discuss jobs with interactions via:
-  - Comment threads
-  - Private messaging
-  - Public posts
-
-Ideal Skills and Experience:
-- Proficiency in web and mobile app development
-- Experience with database management
-- Strong UI/UX design skills
-- Familiarity with video and photo upload integrations
-- Excellent communication skills for ongoing collaboration
-
-I’m looking for a developer who can bring this vision to life with a user-friendly and efficient platform. Please provide your portfolio and relevant experience.
-
-1. Purpose and value proposition
-GuildRadius helps local tradespeople and small merchants find work, prove credibility, and grow through peer‑verified collaborations. It combines a radius‑based forum for local job posts, portfolio profiles, merchant reviews, and a lightweight gamified retention loop (daily puzzle) that drives repeat visits and organic invites.
-
-Core user problems solved
-
-Hard to discover trusted local tradespeople.
-
-No simple way to record and verify collaborations across projects.
-
-Low retention for community platforms without a daily habit.
-
-Merchants need a place to be rated and discovered by local trades.
-
-2. Target users
-Tradespeople (plumbers, electricians, carpenters, builders etc.) who want a public portfolio and verified collaboration history.
-
-Small merchants and suppliers who want ratings and local visibility.
-
-Local customers searching for trusted trades within a radius.
-
-Community managers / local trade associations who want to promote verified professionals.
-
-3. Core features (MVP + Phase 2)
-MVP (launch)
-User accounts &amp; onboarding: email verification, trade selection, location (radius), portfolio image uploads.
-
-Profile pages: portfolio gallery, trade tags, average collaboration score, contact CTA.
-
-Radius Forum: create posts, filter by trade and distance, comment, flag content.
-
-Merchant listings &amp; reviews: create merchant entries, submit ratings and comments, recalc averages.
-
-Daily puzzle widget: embedded iframe; webhook endpoint to record completions and award points/badges.
-
-Basic gamification: points, streaks, badges, leaderboard placeholder.
-
-Admin tools: flagged content queue, revoke points, basic metrics.
-
-Phase 2 (after validation)
-Invite collaborators: send/accept invites, create CollaborationRecord, optional peer ratings.
-
-Verification badge: awarded when collaborators confirm and meet criteria.
-
-Reference requests: contact flow to request references from collaborators.
-
-Dispute resolution: admin tools for disputes and rating moderation.
-
-Growth loop: invite tracking, referral rewards, featured merchant placements.
-
-4. Pages and reusable elements (Bubble names)
-Pages: Home, Newsfeed, RadiusForum, Profile, MerchantDirectory, PuzzleModal, AdminDashboard, InviteInbox.
-
-Reusable elements: PuzzleCard, PuzzleModal (iframe), ProfileCard, CollaborationCard, BadgeShelf, InviteModal, MerchantCard, FlagModal.
-
-5. Data model (high level)
-User: name, email, trade, location, portfolio_images, points, badges, puzzle_streak, collaboration_score.
-
-ForumPost: author, trade, radius_miles, content, created_at, flags.
-
-Merchant: name, location, rating_avg, reviews.
-
-PuzzleEmbedLog: user, provider, action, timestamp, idempotency_key.
-
-CollaborationRecord: title, initiator, collaborators, photos, start_date, end_date, ratings, is_verified.
-
-Invite: token, sender, recipient, status, sent_at, responded_at.
-
-6. Key workflows (developer‑ready)
-Onboarding: create User → email verify → prompt portfolio upload → set location.
-
-Open puzzle: PuzzleCard → open PuzzleModal (iframe with user_id &amp; idempotency token).
-
-Puzzle webhook: verify HMAC/timestamp → idempotency check → create PuzzleEmbedLog → award points/badges (one per day).
-
-Create forum post: create ForumPost → notify users within radius.
-
-Invite collaborator: create Invite → send email + in‑app notification → accept adds CollaborationRecord and updates both profiles.
-
-Merchant review: create review → recalc Merchant.rating_avg.
-
-7. Acceptance criteria &amp; KPIs
-Acceptance criteria
-
-Puzzle webhook validates HMAC and enforces one completion per user per day.
-
-Invite accept flow updates both profiles within 3s and allows optional rating.
-
-Admin can view flagged items and revoke points/badges.
-
-KPIs
-
-DAU, 7‑day retention, puzzle completion rate, invite conversion (sent→accepted), new users via invites, verified collaboration rate.
-
-8. Suggested build approach &amp; timeline
-Phase approach: MVP core (2–6 weeks with Bubble specialist), soft launch to 50–200 users, measure KPIs, then Phase 2.
-
-Tech choice: Bubble for MVP (fast, low cost). Custom webhook endpoint (small Node/Express or serverless) for secure HMAC verification and idempotency.
-
-Budget guidance: freelancer Bubble build £4k–£8k; small agency £10k–£20k depending on polish and Phase 2 scope.
-
-9. News &amp; Grants section (product feature description)
-Add a News &amp; Grants section to the site to help tradespeople and small merchants discover funding opportunities and local support. This section should include:
-
-Features
-Grants feed: curated list of relevant grants, funds, and local support programmes. Each item includes: title, short summary, eligibility, deadline, link to official page, and region applicability.
-
-Filter &amp; subscribe: filter by region (e.g., UK regions), business size, and sector (construction, home services). Users can subscribe to email alerts for new grants.
-
-Apply checklist: per‑grant checklist (documents required, typical timeline, contact points).
-
-News updates: short articles about funding changes, success stories, and upcoming local enterprise events.
-
-Admin curation UI: admin can add, edit, and flag grants; schedule push notifications for urgent deadlines.
-
-Grant alerts: push or email alerts for grants closing within 14 days.
-
-UX notes
-Place the News &amp; Grants section on the main navigation and surface urgent grants on the dashboard.
-
-Use cards with clear CTAs (“Read more”, “Check eligibility”, “Save for later”).
-
-Allow merchants to sponsor a grant highlight for visibility (monetisation option).
-
-10. Example grant types to include (what to curate)
-Local enterprise grants (county or city business support funds).
-
-SME growth grants (innovation, digital adoption, equipment purchase).
-
-Apprenticeship and training subsidies (levy transfers, training vouchers).
-
-Green retrofit or energy efficiency grants (for trades doing retrofit work).
-
-Community &amp; social enterprise funds (if you support community projects).
-
-11. How to keep the Grants feed accurate (operational)
-Sources: UK government portals, local council business pages, Local Enterprise Partnerships (LEPs), Innovate UK, British Business Bank, and trade association bulletins.
-
-Curation process: admin reviews and approves new grant entries; set a 30‑day recheck for each grant to ensure links and deadlines are current.
-
-Automation: use RSS or API feeds where available; otherwise, manual curation with scheduled reminders.
-
-12. Example News &amp; Grants content items (templates)
-Grant card: Title; 1‑line summary; Eligibility tags; Deadline; CTA link; “Save” icon.
-
-News update: Headline; 2–3 sentence summary; link to full article; related grants.
-
-Success story: Profile of a tradesperson who used a grant; before/after photos; grant used; contact for mentorship.</description></item>
 <item><title>Shopify Store Optimization for Handcrafted alligator and cypress Goods</title><link>https://www.freelancer.com/projects/seo/Shopify-Store-Optimization-for</link><guid isPermaLink="false">freelancer:40698022</guid><pubDate>Tue, 08 Sep 2026 07:36:30 GMT</pubDate><description>2-15 USD/hr | About My Business:
 I run Pitres Handcrafted, faire etsy and .com selling 100% handcrafted goods, including hand-burned woodenware (like roux paddles and cutting boards), hand-stitched leather goods, and candles. Everything is made entirely by hand—I do not use CNC machines or automated lasers. My products are proven and validated: I recently did $10,000 this quarter on Faire and have over 100 sales on Etsy. However, my Shopify store is currently generating zero sales.
 The Goal:
