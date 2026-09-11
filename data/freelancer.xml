@@ -3,26 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Square POS Restaurant Menu Setup</title><link>https://www.freelancer.com/projects/customer-service/Square-POS-Restaurant-Menu-Setup</link><guid isPermaLink="false">freelancer:40705366</guid><pubDate>Fri, 11 Sep 2026 13:51:19 GMT</pubDate><description>250-750 USD | My Square register is installed and running, but the Item Library needs help and so do I. I need a Square-savvy freelancer to assit me real-time on Zoom to build the entire menu for my restaurant so my staff can start ringing up orders without confusion.
-
-What I need done
-• Organise the menu into clear, intuitive categories that match our service flow.  
-• Enter every menu item with correct price, tax group and any necessary variations.  
-• Create modifier sets (e.g., sizes, add-ons, cooking preferences) so servers can capture common customisations in two taps.  
-• Upload the item photos I provide—each image must display crisply on both the POS tiles and online ordering page.  
-• Flag vegetarian, vegan and gluten-free dishes so guests and staff can spot them instantly.
-
-Scope notes
-– This project is strictly menu programming; payments and inventory tracking are already configured.  
-– I’ll supply a spreadsheet of items, prices and modifier details as well as all images.  
-– Please double-check everything on the Square Dashboard and the register itself to be sure categories, items and modifiers appear exactly as intended.
-
-Deliverable
-A fully populated Square Item Library with categories, items, modifiers, images and dietary tags ready for immediate use, plus a quick walkthrough (written or video) showing me how to make future edits.
-
-If you know Square inside and out and can turn around a clean, organised menu quickly, I’d love to work with you.
-
-YOU MUST BE AVAILABLE IMMEDIATELY TO TAKE ON THIS, SPEAK CLEAR ENGLISH AND GET ON A ZOOM VIDEO CALL WITH SHARED SCREEN TO HELP ME PROGRAM THE SYSTEM.</description></item>
 <item><title>E-commerce Site Optimization</title><link>https://www.freelancer.com/projects/html/commerce-Site-Optimization</link><guid isPermaLink="false">freelancer:40705352</guid><pubDate>Fri, 11 Sep 2026 13:43:31 GMT</pubDate><description>750-1500 AUD | I need an experienced developer to tidy up my existing e-commerce site. The site is currently facing several issues that need to be resolved for a smoother user experience. 
 
 Key areas for improvement:
@@ -1224,6 +1204,45 @@ To confirm you’ve read this:
 	• Briefly explain how you design for responsive, multi-platform UI using component libraries
 
 If you enjoy defining product-level UX that developers can implement with minimal friction, this role is for you.</description></item>
+<item><title>NFC Digital Filing System Development</title><link>https://www.freelancer.com/projects/api-developmet/NFC-Digital-Filing-System-Development</link><guid isPermaLink="false">freelancer:40700418</guid><pubDate>Wed, 09 Sep 2026 08:42:07 GMT</pubDate><description>250-750 GBP | Hello,
+
+I’m looking for a software/web developer who could help me turn an idea into a simple, user-friendly platform.
+
+The concept is similar in some ways to NFC digital business cards. With these, a physical NFC card is linked to a unique user profile, which can be opened simply by tapping the card against a smartphone.
+
+My idea would use the same principle, but for storing and accessing documents and images.
+
+Each customer would receive a physical NFC card, also containing a QR code, which I am able to manufacture and programme myself. The card would be linked to that customer’s unique account.
+
+When the customer taps the NFC card against their phone, or scans the QR code, they would be taken directly to their own simple user area. From there, they could:
+
+- Create folders
+- Upload images, receipts and scanned documents
+- View and manage previously uploaded files
+- Organise their files within their account
+
+The key part of the idea is simplicity. I don’t want users to have to remember an email address, username or password. Instead, access would be through a unique link/token associated with their physical NFC/QR card.
+
+Ideally, without the card or its unique link, there would be no straightforward way of accessing the account.
+
+From an admin side, I would need to be able to create and manage customer accounts, associate each account with an NFC/QR card, and potentially manage an annual subscription for the service.
+
+I can handle the manufacture, printing and programming of the physical NFC/QR cards, so I’m mainly looking for someone who can develop the web/software side of the project.
+
+The files being stored would primarily be things such as receipts, photographs and scanned documents rather than highly sensitive information. However, I would still want the platform to follow sensible security and data-protection practices.
+
+The purpose of this platform is to allow vehicle enthusiasts to securely upload and store their vehicle’s data—such as invoices, receipts, repair bills, service history—in one location that can then be sold along with the vehicle. This eliminates missing information even if the NFC card is lost since hidden NFC labels could also be placed in vehicles as backups. This ensures transparency for buyers while helping avoid issues like stolen vehicles or falsified histories.
+
+I’m initially looking to create a relatively simple MVP rather than an unnecessarily complicated system, with the possibility of developing it further if the concept proves successful. The design should reflect simplicity and intuitiveness akin to "Apple product" aesthetics—clean and user-friendly for all age groups.
+
+Additionally:
+- Users should start with a fixed storage amount tied to their card but have options to expand storage if needed without incurring high costs on my end.
+- Attached images are included as references for my vision; these were created using non-specialized software but convey the core idea clearly.
+
+If this sounds like something you could build, please get in touch. I’d be interested to hear how you would approach the project, what technology you would suggest using, an approximate development timescale, and an indication of cost.
+
+Thank you!
+Harvey</description></item>
 <item><title>Web developer</title><link>https://www.freelancer.com/projects/php/Web-developer-40699065</link><guid isPermaLink="false">freelancer:40699065</guid><pubDate>Tue, 08 Sep 2026 16:32:14 GMT</pubDate><description>15-25 CAD/hr | I am looking for a web developer to create an E-commerce website using WordPress. The ideal candidate should have experience in developing E-commerce websites and be proficient in WordPress. The website should have the following features:
 
 - SEO Optimization: The website should be optimized for search engines to improve its visibility and attract more traffic.
