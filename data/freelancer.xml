@@ -12,29 +12,6 @@ Must have real GoHighLevel, Meta Ads and local SEO experience. Casa Vita must re
 Please quote separately for Month 1 setup, Month 2, Month 3 and ongoing monthly management, plus any software/SMS/AI costs.
 
 Start your bid with CASA VITA 90 and include relevant examples, Australian experience, and your first 30-day plan.</description></item>
-<item><title>Multi-Chain Token Launch Platform</title><link>https://www.freelancer.com/projects/solidity/Multi-Chain-Token-Launch-Platform</link><guid isPermaLink="false">freelancer:40704138</guid><pubDate>Fri, 11 Sep 2026 00:16:01 GMT</pubDate><description>25-50 USD/hr | I want to offer projects an end-to-end, self-serve launch pad where they can mint their own token, configure a distribution schedule, and push everything live on Ethereum, Binance Smart Chain, and Polygon from a single web dashboard.  
-
-Core scope  
-The heart of the build is threefold:  
-• Solidity smart contracts that cover token creation (ERC-20 / BEP-20), allocation and vesting logic, and on-chain distribution.  
-• A clean, responsive web interface that lets non-technical users set parameters (name, symbol, supply, vesting cliffs, wallets, etc.), deploy the contracts at the click of a button, and monitor live distribution.  
-• Seamless integration with MetaMask and other Web3 wallets, with clear transaction feedback and error handling.  
-
-Preferred stack  
-Solidity for contracts, Hardhat or Truffle for testing/deployment, and a React or Next.js frontend backed by Node.js / Express APIs. If you have an alternative yet equally solid toolchain, I’m open—security and usability come first.  
-
-Deliverables  
-- Audited, upgrade-ready smart contracts deployed to Ethereum, BSC and Polygon testnets (then mainnets)  
-- Web dashboard (desktop &amp; responsive mobile view) packaged for production  
-- Deployment scripts, unit tests, and handover documentation that lets me recreate everything from scratch  
-
-Acceptance criteria  
-1. A new token can be created in under five minutes via the UI, with parameters written on-chain and verifiable on Etherscan/BscScan/Polygonscan.  
-2. Distribution events execute automatically according to the vesting schedule without manual intervention.  
-3. All critical functions are covered by tests with ≥90 % coverage.  
-4. No high- or medium-severity issues flagged by standard audit tools (Slither, MythX, or comparable).  
-
-If this aligns with your expertise, let’s discuss timelines and any questions you have.</description></item>
 <item><title>Urgent Shopify Editing for Mobile</title><link>https://www.freelancer.com/projects/html/Urgent-Shopify-Editing-for-Mobile</link><guid isPermaLink="false">freelancer:40704107</guid><pubDate>Thu, 10 Sep 2026 23:42:11 GMT</pubDate><description>250-750 USD | Shopify editing.
 I have the images and the captions.
 I need this done curated to mobile mostly.
