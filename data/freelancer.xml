@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Square E-Commerce Build &amp; Maintenance</title><link>https://www.freelancer.com/projects/seo/Square-Commerce-Build-Maintenance</link><guid isPermaLink="false">freelancer:40706045</guid><pubDate>Fri, 11 Sep 2026 22:11:19 GMT</pubDate><description>250-750 AUD | I want my online store built from the ground up on Square’s e-commerce platform, then taken live on a hosting environment you will configure for me. That means registering or pointing the domain, setting up SSL, connecting payment processing, and making sure the site loads quickly and securely from day one.  
+
+Once we are live, I’ll rely on you for ongoing website updates and general maintenance—everything from applying platform patches to refreshing product pages so the catalogue and design always feel current.  
+
+You should be comfortable working inside the Square dashboard, customising templates with HTML/CSS where needed, and optimising images and metadata for basic SEO. A clean, responsive layout, friction-free checkout, and clear analytics tracking will serve as our acceptance criteria for launch.  
+
+If you have a track record building stores on Square (or have transferable experience from Shopify, WooCommerce, or Magento), let’s talk about timelines and a sensible hand-off plan for long-term upkeep.</description></item>
 <item><title>Server for French Dinner Party</title><link>https://www.freelancer.com/projects/canadian-french-translator/Server-for-French-Dinner-Party</link><guid isPermaLink="false">freelancer:40705972</guid><pubDate>Fri, 11 Sep 2026 20:18:06 GMT</pubDate><description>25-50 USD/hr | I’m hosting a private, four-course French dinner for 8–10 guests and want the evening to feel seamless from the first canapé to the last glass collected. You’ll greet guests with passed appetizers, plate and present each of the four courses at the table, keep wine and water topped up, and quietly clear plates and glassware between courses and at the end of the meal.  
 
 The menu is already planned, there are no dietary restrictions to navigate, and all serving pieces, platters, and utensils will be on-site and ready for you—so you can focus purely on timing, presentation, and attentive service. Professional attire and a calm, polished manner are essential; knowledge of basic French dining etiquette is a plus.  
@@ -1212,24 +1219,6 @@ Here’s what I expect:
 Please outline the architecture you propose, the key milestones you’d follow, and previous, relevant platforms you’ve delivered. Demonstrate how you plan to handle performance, security, and user support. I’m open to recommendations on frameworks and hosting as long as they align with mainstream best practices.  
 
 The deliverable is a production-ready platform with documentation that allows me to operate and expand it confidently after hand-off.</description></item>
-<item><title>Non-Profit WordPress Site Redesign</title><link>https://www.freelancer.com/projects/wordpress-design/Non-Profit-WordPress-Site-Redesign</link><guid isPermaLink="false">freelancer:40699454</guid><pubDate>Tue, 08 Sep 2026 20:45:20 GMT</pubDate><description>750-1500 USD | I need our existing wordPress cat sanctuary and adoption center website rebuilt on WordPress so it is easier for our small team to manage and, more importantly, so it can serve the core mission of our non-profit. The finished site must do four things well:
-
-• Raise awareness  
-• Collect donations  
-• Recruit volunteers  
-• Promote animal adoption  
-
-I already have branding, copy, and most images; what’s missing is a modern, responsive WordPress build that brings it all together. A clean UI, clear calls-to-action, and seamless integrations (PayPal or Stripe for donations, Mailchimp for newsletters, and a plug-in or custom post type for adoptable animals) are essential. Accessibility, mobile performance, and straightforward page-builder editing are must-haves so staff can make updates without touching code. We also have a few items for sale so we need basic e-commerce.
-
-Deliverables:
-• Fully configured WordPress theme (child theme or block-based) reflecting our brand style  
-• Donation flow tested end-to-end  
-• Volunteer and contact forms routed to our CRM email  
-• Animal adoption listing section with search/filter  
-• Basic on-page SEO and Google Analytics 4 connected  
-• One-hour hand-off screen share showing how to update pages, posts, and listings  
-
-Please build on a staging server first; I’ll point the domain when we approve the final review link.</description></item>
 <item><title>Web developer</title><link>https://www.freelancer.com/projects/php/Web-developer-40699065</link><guid isPermaLink="false">freelancer:40699065</guid><pubDate>Tue, 08 Sep 2026 16:32:14 GMT</pubDate><description>15-25 CAD/hr | I am looking for a web developer to create an E-commerce website using WordPress. The ideal candidate should have experience in developing E-commerce websites and be proficient in WordPress. The website should have the following features:
 
 - SEO Optimization: The website should be optimized for search engines to improve its visibility and attract more traffic.
