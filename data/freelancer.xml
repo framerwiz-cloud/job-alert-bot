@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce POS Invoice Integration and with website order forms</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-POS-Invoice-Integration-with</link><guid isPermaLink="false">freelancer:40707128</guid><pubDate>Sat, 12 Sep 2026 13:48:01 GMT</pubDate><description>15-25 AUD/hr | I’m relaunching my online store on WooCommerce and need two things finished so that I can open with confidence:
+
+1) Domain connection  
+My new domain must be pointed to the fresh WooCommerce build, with DNS, SSL and any redirects handled so shoppers always land on the secure storefront without broken links.
+
+2) Invoices &amp; packing slips that run themselves  
+Every order coming through WooCommerce should trigger an automatically generated invoice and packing slip. Those documents must pull live data from my in-store POS, including customer details, full order lines and the related transaction history, then save back to WooCommerce for easy lookup and bulk export later. If an off-the-shelf plugin (e.g., WooCommerce PDF Invoices &amp; Packing Slips) can be extended, great; if custom code or API work is cleaner, that’s fine too—just keep the workflow seamless for staff.
+
+Acceptance criteria  
+• Domain resolves to the WooCommerce front-end over HTTPS with no mixed-content errors  
+• New orders automatically create a PDF invoice and packing slip the moment payment is captured  
+• Documents display live customer data, order items and historical POS transaction numbers exactly as stored in the POS  
+• Test orders from both the website and the physical till populate identically in WooCommerce, proving bidirectional sync  
+• Clear setup notes so I can edit templates or switch domains in the future
+
+Please outline how you would achieve the sync (plugins, REST API, webhooks, or custom connector), a rough timeline, and any access you’ll need from my side.</description></item>
 <item><title>Elevate My Big Cartel Store</title><link>https://www.freelancer.com/projects/web-design/Elevate-Big-Cartel-Store</link><guid isPermaLink="false">freelancer:40706953</guid><pubDate>Sat, 12 Sep 2026 11:40:56 GMT</pubDate><description>10-15 GBP/hr | My Big Cartel shop is live, but it still looks and behaves like a starter site. I want to turn it into a polished, conversion-focused storefront that feels modern and clean, showcases sharper product images, works flawlessly on mobile, and ranks better in search.
 
 Design &amp; Layout  
