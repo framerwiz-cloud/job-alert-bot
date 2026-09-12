@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Team Page Build</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Team-Page-Build</link><guid isPermaLink="false">freelancer:40707273</guid><pubDate>Sat, 12 Sep 2026 15:41:46 GMT</pubDate><description>1500-3000 USD | I need a WordPress-based team page that I can manage easily once it’s in place. Here is what has to be delivered:
+
+• A clean grid of cards, each showing a member photo, name, role, short bio and contact links.  
+• A reusable single-profile template so visitors can click through (or however you suggest) for full details.  
+• A simple filter that lets users view people by department.  
+• Clear instructions—or a small back-end UI tweak—so I can add, edit or remove team members myself without touching code.
+
+My site isn’t live or hosted yet; please build everything locally or in a portable way so I can drop it into hosting later. If you see a smarter presentation while developing, I’m open to ideas.
+
+When you reply, include:
+• An estimated timeline with milestones.  
+• Your total cost.  
+• Any lightweight plugin or custom-post-type approach you plan to use to keep the page fast and maintainable.
+
+All access you need will be provided. Looking forward to working together.</description></item>
 <item><title>Elevate My Big Cartel Store</title><link>https://www.freelancer.com/projects/web-design/Elevate-Big-Cartel-Store</link><guid isPermaLink="false">freelancer:40706953</guid><pubDate>Sat, 12 Sep 2026 11:40:56 GMT</pubDate><description>10-15 GBP/hr | My Big Cartel shop is live, but it still looks and behaves like a starter site. I want to turn it into a polished, conversion-focused storefront that feels modern and clean, showcases sharper product images, works flawlessly on mobile, and ranks better in search.
 
 Design &amp; Layout  
@@ -1029,65 +1044,6 @@ We want:
 * Ability to add additional programs, membership plans, locations, and workflows later
 
 The goal is to create an automated system where SmartGrid staff can see exactly where every apprenticeship applicant and every SmartShield customer is in the process without manually managing spreadsheets, emails, and paperwork.</description></item>
-<item><title>Enhance LivSafe Website Functionality</title><link>https://www.freelancer.com/projects/web-development/Enhance-LivSafe-Website-Functionality</link><guid isPermaLink="false">freelancer:40701823</guid><pubDate>Wed, 09 Sep 2026 22:43:43 GMT</pubDate><description>250-750 USD | I currently have the basic LivSafe Home website built through Free Website Guys:
-
-https://livsafe.fwgsite.com/
-
-The public-facing website is already established, and I am not looking for a complete website redesign. I am primarily looking for someone to add the functional client and admin side of the business while keeping the design/branding cohesive with the existing site.
-
-LivSafe Home provides private-pay home safety assessments. Clients will complete the process remotely by submitting information, completing a home safety checklist, and uploading photos/videos of their home for review.
-
-I would like to add:
-
-* A one-time payment/checkout system, preferably Stripe
-* A secure client login
-* A client dashboard/portal
-* A secure admin dashboard for me
-* Client intake form
-* Online home safety checklist
-* Room-by-room photo and video uploads
-* Client progress/status tracking
-* A way for me to review each client's information and uploads
-* A place for me to add private admin notes
-* Ability for me to upload the completed assessment/report as a PDF
-* Ability for each client to access/download only their own completed report
-
-The ideal customer workflow is:
-
-Current LivSafe website → Purchase Home Safety Assessment → Create/Login to Client Account → Complete Intake → Complete Home Safety Checklist → Upload Photos/Videos by Room → Submit for Review → LivSafe Reviews Submission → Completed Report Becomes Available in Client Portal.
-
-For the client dashboard, I would like the process to be visually simple and show their progress, for example:
-
-1. Payment Complete
-2. Complete Intake
-3. Complete Home Safety Checklist
-4. Upload Home Photos/Videos
-5. Submitted for Review
-6. Assessment Complete / Download Report
-
-For my admin dashboard, I would like to see all clients and quickly identify:
-
-* Payment status
-* Intake completion
-* Checklist completion
-* Photo/video submission status
-* Date submitted
-* Assessment status
-* Ready for Review
-* Report in Progress
-* Completed
-
-When I click on a client, I would like their intake information, checklist answers, photos/videos organized by room, admin notes, and final report all accessible in one place.
-
-I am open to a no-code/low-code solution such as Softr + Airtable/Softr Database + Stripe rather than building a completely custom application.
-
-Ideally, the client portal could live on something like:
-
-portal.livsafehome.com
-
-while the existing public website remains the primary marketing website.
-
-I would like the freelancer to recommend the simplest, most cost-effective setup that can accomplish this while maintaining secure individual client access and an easy-to-use admin system.</description></item>
 <item><title>Modern WordPress Business Site</title><link>https://www.freelancer.com/projects/elementor/Modern-WordPress-Business-Site</link><guid isPermaLink="false">freelancer:40701802</guid><pubDate>Wed, 09 Sep 2026 22:20:27 GMT</pubDate><description>15-25 USD/hr | I'm seeking an experienced developer to build a modern and clean business website using WordPress and Elementor. 
 
 Key Requirements:
