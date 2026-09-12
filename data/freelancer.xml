@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Graphic Designer</title><link>https://www.freelancer.com/projects/ui-design/Graphic-Designer-40707723</link><guid isPermaLink="false">freelancer:40707723</guid><pubDate>Sat, 12 Sep 2026 22:12:01 GMT</pubDate><description>250-750 USD | I have just launched a small, fast-moving team and we need a creative partner who can own the full visual side of our first public touchpoint—our website. 
+
+The core of the job is Graphic Design, yet every asset you craft must fold naturally into an intuitive, web-friendly UI/UX.  Think banners, icons, illustrations, color palette, typography, and then the actual page layouts that will carry those elements.  We already know the site’s structure; what we lack is the look, feel, and polish that will make visitors trust us at a glance.
+
+Adobe Illustrator, Photoshop, Figma or similar tools are fine—use whatever lets you move quickly while keeping layers, components, and styles editable.  
+
+Deliverables I need from you:
+• A cohesive visual style guide (colors, fonts, graphic motif)  
+• High-fidelity mock-ups for the homepage + two key inner pages  
+• Export-ready graphics (SVG/PNG) optimised for web performance  
+• The working design file so we can iterate in-house later  
+
+I’ll provide the site map, copy, and a mood board on kickoff, and I’m happy to give rapid feedback along the way.  If you can blend strong graphic aesthetics with user-centric web layouts, let’s talk and get this site live.</description></item>
 <item><title>UI/UX Design Expertise Needed</title><link>https://www.freelancer.com/projects/ui-design/Design-Expertise-Needed</link><guid isPermaLink="false">freelancer:40707637</guid><pubDate>Sat, 12 Sep 2026 20:22:07 GMT</pubDate><description>15-25 USD/hr | # UI/UX Designer Required for Web &amp; Mobile Applications
 
 We are looking for a creative and experienced **UI/UX Designer** to help us design modern, clean, and user-friendly interfaces for our web and mobile applications.
@@ -1016,89 +1029,6 @@ Please share a link or two to Community Builder projects you’ve done—especia
     Set up email notifications
 
     Ongoing support for 2–4 weeks</description></item>
-<item><title>SmartGrid Electric – Workflow System Development</title><link>https://www.freelancer.com/projects/wordpress/SmartGrid-Electric-Workflow-System</link><guid isPermaLink="false">freelancer:40701834</guid><pubDate>Wed, 09 Sep 2026 22:55:06 GMT</pubDate><description>250-750 USD | SmartGrid Electric – Website Workflow Development
-
-We need a developer to build two automated workflow systems on onlysmartgrid.com:
-
-1. SmartGrid Apprenticeship Academy Workflow
-
-We need a complete online enrollment and applicant-management system for our electrical apprenticeship program.
-
-The workflow should be:
-
-Landing Page → Application → Applicant Profile → Document Upload → Application Review → Approval/Denial → Enrollment → Tuition/Payment Setup → Apprentice Dashboard → Program Tracking
-
-Applicants should be able to:
-
-* Complete an online apprenticeship application
-* Create an account/profile
-* Upload required documents such as ID, resume, certifications, etc.
-* Select available program/cohort options
-* Receive automatic email/SMS confirmations and status updates
-* Receive an acceptance/enrollment offer if approved
-* Electronically sign enrollment documents
-* Pay tuition, registration fees, or select an available financing/payment option
-* Access a student/apprentice dashboard after enrollment
-* View documents, payment status, announcements, and program information
-
-Administrators need a backend dashboard showing every applicant and their current stage, such as:
-
-New Lead → Application Started → Application Submitted → Under Review → Approved → Enrollment Pending → Payment Pending → Enrolled → Active Apprentice → Completed/Inactive
-
-The system should make it easy for SmartGrid staff to move applicants between stages, add notes, send communications, request missing documents, and track enrollment conversions.
-
-⸻
-
-2. SmartShield Warranty/Membership Workflow
-
-We need a complete online sales, enrollment, recurring-payment, and membership-management workflow for the SmartShield warranty/membership program.
-
-The customer workflow should be:
-
-SmartShield Landing Page → Select Plan → Customer Information → Property Information → Terms/Agreement → Recurring Payment → Confirmation → Initial Inspection/Service Setup → Active Member
-
-Customers should be able to:
-
-* Compare SmartShield membership plans
-* Select a plan
-* Enter customer and property information
-* Electronically accept/sign membership terms
-* Set up automatic recurring payments
-* Receive an immediate enrollment confirmation
-* Receive automatic email/SMS communications
-* Access their membership information
-* Request service or submit a claim/service request
-* Update payment information when necessary
-
-The administrative workflow should track:
-
-New Lead → Plan Selected → Enrollment Started → Payment Completed → Inspection Required → Inspection Scheduled → Inspection Completed → Active Member → Service Request/Claim → Renewal/Cancellation
-
-We currently use Housecall Pro, so the system should integrate with Housecall Pro where possible to automatically create/update customer records, membership information, jobs, inspections, and service requests.
-
-⸻
-
-Overall Requirements
-
-Both systems should be designed for automation and scalability, not simply basic contact forms.
-
-We want:
-
-* WordPress integration with onlysmartgrid.com
-* Mobile-friendly forms and dashboards
-* CRM/database tracking
-* Automated email and SMS notifications
-* Electronic signatures
-* Secure document uploads
-* Online and recurring payments
-* Admin dashboards
-* Customer/applicant status tracking
-* Housecall Pro integration where applicable
-* API/webhook capability for future integrations
-* Conversion tracking/analytics
-* Ability to add additional programs, membership plans, locations, and workflows later
-
-The goal is to create an automated system where SmartGrid staff can see exactly where every apprenticeship applicant and every SmartShield customer is in the process without manually managing spreadsheets, emails, and paperwork.</description></item>
 <item><title>Modern WordPress Business Site</title><link>https://www.freelancer.com/projects/elementor/Modern-WordPress-Business-Site</link><guid isPermaLink="false">freelancer:40701802</guid><pubDate>Wed, 09 Sep 2026 22:20:27 GMT</pubDate><description>15-25 USD/hr | I'm seeking an experienced developer to build a modern and clean business website using WordPress and Elementor. 
 
 Key Requirements:
