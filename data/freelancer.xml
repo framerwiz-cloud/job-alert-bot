@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify E-Commerce Store Setup and website </title><link>https://www.freelancer.com/projects/shopify-site/Shopify-Commerce-Store-Setup-website</link><guid isPermaLink="false">freelancer:40711688</guid><pubDate>Mon, 14 Sep 2026 23:19:53 GMT</pubDate><description>750-1500 AUD | I have a brand identity already in place-logo, typography, core colours-and now I need that look and feel translated into a Shopify storefront. The business currently sells one signature product, but the site must be structured so I can scale easily to six products without redesigning everything later.
+Style &amp; branding
+• Overall aesthetic: clean and minimalist, with plenty of white space and an uncluttered layout.
+• Colour palette: start with my existing colours and allow subtle tonal variations where they enhance hierarchy or readability.
+Key homepage sections
+• Hero-level product showcase that spotlights the current flagship item and can later expand into a multi-item grid.
+• Genuine customer testimonials presented in a simple slider or card format that matches the minimalist look.
+Scope of work &amp; deliverables
+
+- Shopify build/development, homepage design in Figma, copywriting, Shopify store/backend setup, single product page, cart &amp; checkout, payment gateway, shipping &amp; tax setup,
+mobile/tablet/desktop optimisation, standard returns &amp; T&amp;Cs pages, implementation branding, and website handover/training.
+
+"Shopify website design and build, including homepage design/layout, mobile optimisation, product page, cart/checkout and implementation of existing! branding."
+
+
+Acceptance criteria
+The store should pass Google Lighthouse scores of 90+ for performance and accessibility, retain brand colours accurately, and display correctly on the latest versions of Chrome, Safari, Edge and mobile browsers. Once these boxes are ticked and the theme is transferred to my Shopify account, the project is complete.</description></item>
 <item><title>Fix Website Menu Functionality</title><link>https://www.freelancer.com/projects/website-development/Fix-Website-Menu-Functionality</link><guid isPermaLink="false">freelancer:40711613</guid><pubDate>Mon, 14 Sep 2026 22:02:31 GMT</pubDate><description>15-25 CAD/hr | My site’s main navigation has stopped behaving and the pages are all messed up. It was made on Wordpress and hosted on Hostinger. I need someone who is an expert on figuring out what the problem is and fixing it. 3 sites are affected by this. There is future work possibility.</description></item>
 <item><title>Drone Spraying Service Website</title><link>https://www.freelancer.com/projects/web-design/Drone-Spraying-Service-Website</link><guid isPermaLink="false">freelancer:40711583</guid><pubDate>Mon, 14 Sep 2026 21:38:34 GMT</pubDate><description>250-750 USD | I run a crop-care company that applies pesticides and nutrients by drone, and I now need a small yet polished online presence to explain the service and generate enquiries. The site is strictly informational—no online payments or bookings at this stage—so the focus is on telling our story, listing the benefits of aerial spraying, and making it easy for farmers to reach me.
 
@@ -135,22 +152,6 @@ Hard deadline
 The complete, live site must be delivered and fully tested by Friday morning—no extensions are possible.
 
 I’ll stay on call to answer questions and deliver any extra assets immediately after you accept the project, and I’m ready to sign off as soon as the live store looks and works exactly like the designs.</description></item>
-<item><title>Modern, Secure Online Payment Website Development</title><link>https://www.freelancer.com/projects/web-development/Modern-Secure-Online-Payment-Website</link><guid isPermaLink="false">freelancer:40711271</guid><pubDate>Mon, 14 Sep 2026 17:36:31 GMT</pubDate><description>8-15 USD/hr | I need a small, modern payment website that allows customers to securely make online payments through a simple and straightforward interface. The goal is to keep the experience lightweight and easy to use, with a clean payment page where users can enter their required information, choose a payment method, complete the transaction, and receive a confirmation after successful payment.
-
-The website should include a basic backend or admin area where I can view payment records, transaction status, customer information, and basic payment history. Security and reliability are important, so the implementation should follow standard web security practices and use a reputable payment gateway such as Stripe, PayPal, or another suitable provider.
-
-I’m open to your suggested technology stack, but experience with modern web development, secure payment integration, APIs, databases, and responsive UI design is essential.
-
-Deliverables
-• Fully functional payment website
-• Secure payment gateway integration
-• Basic admin/dashboard for viewing transactions
-• Responsive design for desktop and mobile
-• Database setup and clear schema
-• Complete source code and setup documentation
-• Live demo/staging version for testing
-
-I will provide the branding details, payment requirements, and any additional content once we begin. Please include your proposed technology stack, estimated timeline, payment gateway recommendation, and examples of similar payment or e-commerce websites you have developed.</description></item>
 <item><title>Complete and Launch a Redesigned WordPress Website</title><link>https://www.freelancer.com/projects/wordpress/Complete-Launch-Redesigned-WordPress</link><guid isPermaLink="false">freelancer:40711045</guid><pubDate>Mon, 14 Sep 2026 15:36:21 GMT</pubDate><description>250-750 GBP | I am looking for an experienced WordPress freelancer to complete and launch a redesigned website
 
 This is not simply a visual design job. The existing website has Google and Bing search history and backlinks that must be protected during the relaunch.
@@ -1334,21 +1335,6 @@ Please include:
 We are looking for someone who can work with us on the initial project and potentially continue with us for future design work.
 
 Please only apply if you can provide examples of real UI/UX work you have completed.</description></item>
-<item><title>WordPress Team Page Build</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Team-Page-Build</link><guid isPermaLink="false">freelancer:40707273</guid><pubDate>Sat, 12 Sep 2026 15:41:46 GMT</pubDate><description>1500-3000 USD | I need a WordPress-based team page that I can manage easily once it’s in place. Here is what has to be delivered:
-
-• A clean grid of cards, each showing a member photo, name, role, short bio and contact links.  
-• A reusable single-profile template so visitors can click through (or however you suggest) for full details.  
-• A simple filter that lets users view people by department.  
-• Clear instructions—or a small back-end UI tweak—so I can add, edit or remove team members myself without touching code.
-
-My site isn’t live or hosted yet; please build everything locally or in a portable way so I can drop it into hosting later. If you see a smarter presentation while developing, I’m open to ideas.
-
-When you reply, include:
-• An estimated timeline with milestones.  
-• Your total cost.  
-• Any lightweight plugin or custom-post-type approach you plan to use to keep the page fast and maintainable.
-
-All access you need will be provided. Looking forward to working together.</description></item>
 <item><title>Elevate My Big Cartel Store</title><link>https://www.freelancer.com/projects/web-design/Elevate-Big-Cartel-Store</link><guid isPermaLink="false">freelancer:40706953</guid><pubDate>Sat, 12 Sep 2026 11:40:56 GMT</pubDate><description>10-15 GBP/hr | My Big Cartel shop is live, but it still looks and behaves like a starter site. I want to turn it into a polished, conversion-focused storefront that feels modern and clean, showcases sharper product images, works flawlessly on mobile, and ranks better in search.
 
 Design &amp; Layout  
