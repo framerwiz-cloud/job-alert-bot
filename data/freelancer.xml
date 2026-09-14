@@ -621,120 +621,6 @@ The site’s sole goal is to showcase the services I offer, so visual accuracy a
 
 All artwork, copy and login credentials will be supplied as soon as we start. If you’re comfortable turning static AI mock-ups into a polished Squarespace site, I’m ready to get this live right away.
 I want to be able to edit it later myself, photos and information might change</description></item>
-<item><title>WordPress Elementor Website Redesign - Build Supplied Mock-up and Annotated Requirements</title><link>https://www.freelancer.com/projects/css/WordPress-Elementor-Website-Redesign</link><guid isPermaLink="false">freelancer:40708330</guid><pubDate>Sun, 13 Sep 2026 08:16:28 GMT</pubDate><description>750-1500 AUD | We are looking for an experienced WordPress and Elementor designer/developer to refresh our educational publishing website: www.bmezy.com.au.
-
-BMEZY creates Business Management and Enterprise resources for Western Australian schools. Our current website uses WordPress and Elementor, which we want to retain so we can update routine content ourselves after handover.
-
-DESIGN FILES AND INSTRUCTION HIERARCHY
-
-The design and requested changes are already defined. We are not looking for someone to redesign the website from scratch, create their own interpretation of our brand or omit annotated requirements.
-
-We will provide three complementary design files:
-
-- The original high-resolution mock-up, which is the visual baseline for the website.
-- A clean annotated PowerPoint containing a font reference, a separate annotation sheet for each of the five pages and repeated site-wide instructions.
-- AND FOR OUR CHOSEN WEBSITE DEVELOPER: Our logo, book mockups and other branding materials.
-
-Where the PowerPoint requests a change, it takes precedence over the original mock-up. Where no change is annotated, the original design should be preserved. Please review both files carefully and raise any uncertainty before building rather than making an unapproved interpretation.
-
-The final website contains five pages:
-
-- Home
-- Product Samples
-- Full Product Catalogue and ISBNs
-- How to Order
-- Contact Us
-
-The finished website must closely reproduce the original visual direction, action every applicable annotation and be professionally adapted for different screen sizes. No annotated requirement or major visual element may be changed or omitted without our approval.
-
-VISUAL DIRECTION
-
-The required style is clean, polished and modern academic. It uses BMEZY branding, blue and white with subtle pastel/gradient styling, strong typography, resource cards, book covers, icons, buttons, handwritten-style elements, Western Australian imagery, a consistent black Perth skyline across the lower section/footer, catalogue/ISBN tables and clear user pathways.
-
-We will supply the original mock-up, annotated PowerPoint, logos, book cover artwork, graphics, written content and other available assets. Please confirm at the outset that both design files open correctly.
-
-ELEMENTOR AND EDITABILITY
-
-The finished website must remain easy for us to edit. Routine content such as prices, ISBNs, wording, buttons, links, descriptions, images and contact details should be editable through Elementor wherever reasonably possible.
-
-Custom CSS or limited custom development is acceptable where needed to reproduce the design and annotations, but ordinary page content should not be unnecessarily hard-coded. Please use modern Elementor practices such as Containers/Flexbox, global colours, global typography, reusable styling/components and logically organised page structures. The Elementor editor should remain clean and understandable after handover.
-
-RESPONSIVE DESIGN
-
-The supplied design files primarily represent the desktop website. The project includes professionally adapting the design for desktop, laptop, tablet and mobile. We do not want the desktop layout simply reduced in size on mobile. Navigation, cards, buttons, typography, tables, product information and calls to action must remain attractive and easy to use on smaller screens. We would like to approve both the desktop and mobile implementations.
-
-WEBSITE FUNCTIONALITY
-
-This is primarily an informational/product website rather than a traditional e-commerce website. Resources are purchased through BMEZY Direct, Campion and ReadCloud, so we do not require a WooCommerce-style checkout. The site should direct users to the appropriate purchasing method.
-
-The Contact Us page must include a functioning enquiry form. The site will also contain links to external resources and sample materials. Existing useful URLs should be retained wherever practical. If a URL must change, an appropriate redirect should be implemented.
-
-PERFORMANCE AND QUALITY
-
-The website should look polished without becoming slow or bloated. Include sensible image optimisation, responsive behaviour, browser compatibility, performance practices and basic on-page SEO structure. Avoid unnecessary plugins. The site must work on current major desktop and mobile browsers.
-
-DEVELOPMENT PROCESS
-
-The redesign should initially be completed on a staging/development website rather than directly on the live website. The existing site must be backed up before migration or significant changes.
-
-We want to review the work progressively. The responsive Home page should be developed and approved first against the original mock-up, the Home page annotation sheet and all site-wide instructions. Once the Home page styling is approved, the remaining four pages can follow the same design language while applying their own page-specific annotations.
-
-REVISIONS AND DESIGN ACCURACY
-
-The quoted price must include reasonable revisions needed to align the website with the original mock-up, every applicable annotation, the site-wide instructions and the responsive requirements. This does not include unlimited revisions for new ideas or changes in scope.
-
-Corrections to inaccurate typography, spacing, colours, sizing, layout or responsiveness, or implementation of an annotated item that was missed, are part of the original scope rather than an additional project.
-
-If an annotated requirement is technically infeasible or would create a material usability problem, identify it and propose an alternative for approval before proceeding. Annotated items must not be silently omitted.
-
-MILESTONES, APPROVAL AND PAYMENT
-
-This will be a milestone-based fixed-price project. A milestone will only be released after the relevant work has been reviewed against the mock-up, annotations, site-wide instructions and responsive requirements, and any reasonable corrections have been completed.
-
-If the work materially fails to meet the agreed project description, original mock-up or annotated PowerPoint after a reasonable opportunity to correct it, we reserve the right not to approve or release the relevant outstanding milestone and, where necessary, to use Freelancer.com's dispute process.
-
-Suggested milestone structure for an A$900 project:
-
-1. A$180 - Staging setup and responsive Home page matching the design and relevant annotations.
-2. A$180 - Product Samples and How to Order pages, with page-specific annotations completed.
-3. A$180 - Product Catalogue/ISBN and Contact pages, with page-specific annotations completed.
-4. A$180 - Responsive refinement across all five pages and full application of site-wide instructions.
-5. A$180 - Final revisions, testing, optimisation, migration and handover.
-
-Final milestone amounts may be adjusted to match the successful freelancer's accepted quote.
-
-FINAL HANDOVER
-
-At completion, we expect all five pages and applicable annotations completed, responsive desktop/tablet/mobile layouts, working forms and links, reasonable optimisation and migration to our live domain.
-
-We require ownership and control of the completed website and any custom code created specifically for the project. Any paid plugins, fonts, stock assets or licences requiring an ongoing fee must be disclosed and approved before use. The website must not rely on a freelancer-owned licence that will stop functioning after the project ends.
-
-Please provide brief written handover instructions or a short screen recording showing us how to update the main editable areas through Elementor.
-
-WHEN SUBMITTING YOUR PROPOSAL
-
-Please begin your proposal with: BMEZY ELEMENTOR
-
-Then answer the following questions:
-
-1. Please provide 2-4 examples of Elementor websites you personally built, preferably from supplied designs or mock-ups.
-2. Having reviewed the original mock-up and complete annotated PowerPoint, can you reproduce this style closely and action all specified changes in Elementor?
-3. Would any elements require custom CSS, custom development or an approved alternative?
-4. How would you make this five-page design responsive on mobile while preserving the annotated priorities?
-5. Will normal website content remain easily editable by us through Elementor after completion?
-6. Do you use Elementor Containers/Flexbox and global styling?
-7. Will you build on a staging website before making the redesigned website live?
-8. Do you anticipate needing any paid plugins or licences? If yes, please identify them.
-9. What is your estimated completion timeframe?
-10. What is your fixed-price quote for the complete five-page project?
-11. Does your quote include reasonable revisions needed to accurately implement the original design, page-specific annotations and site-wide instructions?
-12. Do you accept the milestone approval and payment conditions in this project description?
-
-Generic copy-and-paste proposals that do not address these questions are unlikely to be considered.
-
-Additional details:
-- graphic design skills for creating textbook mock-ups and geometric backgrounds is highly preferred
--</description></item>
 <item><title>OnePage Modern Website UI/UX Redesign</title><link>https://www.freelancer.com/projects/ui-design/OnePage-Modern-Website-Redesign</link><guid isPermaLink="false">freelancer:40708226</guid><pubDate>Sun, 13 Sep 2026 07:16:21 GMT</pubDate><description>750-1500 USD | # OnePage (opage.sa) Website Redesign Brief
 
 ## Project Overview
@@ -1345,6 +1231,20 @@ The most pressing task is creating 1–5 clear product categories (Shopify colle
 Acceptance criteria: the site should be publicly shareable (password removed), each collection must display the correct products, and the full purchase flow should complete without errors.
 
 A solid grasp of Shopify’s theme editor, collections, and basic SEO is essential. If you can get this store ready for launch efficiently, let’s talk timelines and any assets you’ll need from me to start.</description></item>
+<item><title>Non-Profit Fundraising Website</title><link>https://www.freelancer.com/projects/web-development/Non-Profit-Fundraising-Website-40706143</link><guid isPermaLink="false">freelancer:40706143</guid><pubDate>Sat, 12 Sep 2026 00:44:19 GMT</pubDate><description>250-750 USD | I need a website for my non-profit organization focused on fundraising. The site should facilitate donation forms, event sign-ups, and purchases. 
+
+Key Requirements:
+- Donation forms for one-time and recurring donations
+- Event sign-ups and purchases
+- User-friendly navigation
+- Secure payment processing
+- Mobile-responsive design
+
+Ideal Skills and Experience:
+- Web development expertise, particularly in creating donation and event management forms
+- Experience with secure payment gateways
+- Strong design skills for a clean, professional look
+- Knowledge of mobile-responsive layouts</description></item>
 <item><title>Server for French Dinner Party</title><link>https://www.freelancer.com/projects/canadian-french-translator/Server-for-French-Dinner-Party</link><guid isPermaLink="false">freelancer:40705972</guid><pubDate>Fri, 11 Sep 2026 20:18:06 GMT</pubDate><description>25-50 USD/hr | I’m hosting a private, four-course French dinner for 8–10 guests and want the evening to feel seamless from the first canapé to the last glass collected. You’ll greet guests with passed appetizers, plate and present each of the four courses at the table, keep wine and water topped up, and quietly clear plates and glassware between courses and at the end of the meal.  
 
 The menu is already planned, there are no dietary restrictions to navigate, and all serving pieces, platters, and utensils will be on-site and ready for you—so you can focus purely on timing, presentation, and attentive service. Professional attire and a calm, polished manner are essential; knowledge of basic French dining etiquette is a plus.  
