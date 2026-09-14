@@ -26,26 +26,6 @@ Acceptance criteria
 3. Contact form successfully sends to my email and shows thank-you confirmation  
 
 Please include any relevant portfolio pieces of similarly styled sites when you reply, along with your estimated timeframe for the initial mock-ups and final launch.</description></item>
-<item><title>React.js SaaS E-commerce Development</title><link>https://www.freelancer.com/projects/react-js/React-SaaS-commerce-Development</link><guid isPermaLink="false">freelancer:40711547</guid><pubDate>Mon, 14 Sep 2026 21:00:21 GMT</pubDate><description>15-25 USD/hr | My e-commerce SaaS platform already has the core concept in place and a lightweight MVP wired up in React.js. The next milestone is a polished, production-ready front-end that can scale gracefully as new merchants onboard.
-
-What’s waiting on your desk: extending and refining the existing React codebase, building out reusable components for product listings, shopping-cart flows, and user dashboards, then wiring them to the current REST/GraphQL APIs. A keen eye for responsive design, accessibility, and performance matters just as much as clean architecture.
-
-You’ll be working in a GitHub-based workflow, shipping iterative pull requests, writing concise unit tests with Jest and React Testing Library, and documenting the component library so future contributors can jump straight in.
-
-Deliverables  
-• Modular, well-documented React components covering the catalogue, cart, checkout, and account areas  
-• Responsive layouts that pass Lighthouse and Axe accessibility checks  
-• Integration hooks and error handling for all existing API endpoints  
-• A basic but solid test suite (Jest + RTL) with at least 80 % line coverage  
-• Build and deployment instructions that work on a fresh clone
-
-Acceptance Criteria  
-• All pages render without console errors or warnings  
-• Core user flows—browse, add to cart, checkout—complete successfully on desktop and mobile breakpoints  
-• Tests run green in CI and coverage threshold is met  
-• Code reviews show adherence to the project’s ESLint/Prettier rules
-
-If React hooks, Context/Redux patterns, and component-level performance tuning are second nature to you, this collaboration should feel straightforward and rewarding. Looking forward to seeing what you can bring to this platform’s next release.</description></item>
 <item><title>Gas Engineer Services Website Build</title><link>https://www.freelancer.com/projects/web-design/Gas-Engineer-Services-Website-Build</link><guid isPermaLink="false">freelancer:40711437</guid><pubDate>Mon, 14 Sep 2026 19:22:09 GMT</pubDate><description>250-750 GBP | I need a clean, modern website that clearly showcases my work as a UK Gas Safe-registered engineer. The main goal is to highlight the three core services I offer—Boiler installations, Gas safety inspections and Emergency repairs—and turn visitors into enquiries.
 
 Design &amp; structure
