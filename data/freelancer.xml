@@ -3,6 +3,28 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Drone Spraying Service Website</title><link>https://www.freelancer.com/projects/web-design/Drone-Spraying-Service-Website</link><guid isPermaLink="false">freelancer:40711583</guid><pubDate>Mon, 14 Sep 2026 21:38:34 GMT</pubDate><description>250-750 USD | I run a crop-care company that applies pesticides and nutrients by drone, and I now need a small yet polished online presence to explain the service and generate enquiries. The site is strictly informational—no online payments or bookings at this stage—so the focus is on telling our story, listing the benefits of aerial spraying, and making it easy for farmers to reach me.
+
+Design &amp; feel  
+I like a modern, sleek aesthetic: full-width imagery of drones in action, clean typography, plenty of white space, and smooth scrolling effects that still load quickly on rural 4G connections. Think lightweight HTML5/CSS3 (or a fast WordPress theme such as Astra or GeneratePress) with responsive layouts that look just as sharp on mobile as on desktop.
+
+Content structure  
+The build only needs three pages for now:  
+• Home – hero video or image, quick value proposition, call-to-action button to contact form  
+• Services – outline of spray types, acreage capacity, safety and compliance details, plus a short FAQ section I will supply  
+• Contact Us – embedded map, contact form (reCAPTCHA protected), phone, email, and operating hours  
+
+Technical notes  
+• SSL-ready and GDPR-compliant form handling  
+• Optimised images and basic on-page SEO (meta titles, alt tags) so we can rank locally  
+• Delivery as a live site on my current hosting (cPanel access provided) plus a zipped backup  
+
+Acceptance criteria  
+1. Page load under 3 s on GTmetrix for 3G simulation  
+2. No console errors in latest Chrome, Firefox, Safari, Edge  
+3. Contact form successfully sends to my email and shows thank-you confirmation  
+
+Please include any relevant portfolio pieces of similarly styled sites when you reply, along with your estimated timeframe for the initial mock-ups and final launch.</description></item>
 <item><title>React.js SaaS E-commerce Development</title><link>https://www.freelancer.com/projects/react-js/React-SaaS-commerce-Development</link><guid isPermaLink="false">freelancer:40711547</guid><pubDate>Mon, 14 Sep 2026 21:00:21 GMT</pubDate><description>15-25 USD/hr | My e-commerce SaaS platform already has the core concept in place and a lightweight MVP wired up in React.js. The next milestone is a polished, production-ready front-end that can scale gracefully as new merchants onboard.
 
 What’s waiting on your desk: extending and refining the existing React codebase, building out reusable components for product listings, shopping-cart flows, and user dashboards, then wiring them to the current REST/GraphQL APIs. A keen eye for responsive design, accessibility, and performance matters just as much as clean architecture.
@@ -1354,19 +1376,6 @@ Key Deliverables
 
 If necessary, I can provide current theme access, product photos, and branding assets as soon as we start. I’m open to your suggestions on additional tools or plug-ins that will help the shop grow, and I’m happy to review progress on a staging link before we go live.</description></item>
 <item><title>Modern Corporate Website Setup</title><link>https://www.freelancer.com/projects/content-management-system/Modern-Corporate-Website-Setup</link><guid isPermaLink="false">freelancer:40706896</guid><pubDate>Sat, 12 Sep 2026 11:23:18 GMT</pubDate><description>250-750 USD | I'm looking for an experienced web developer to create a modern and clean business/corporate website. The site should include:
-
-- Contact form
-- Service descriptions
-- Articles and resources
-
-Ideal skills and experience:
-- Proven track record in developing business websites
-- Strong portfolio showcasing modern and clean design
-- Expertise in creating user-friendly contact forms and comprehensive service description pages
-- Ability to integrate a blog or resource section for articles
-
-Please include examples of previous work and a brief outline of your approach.</description></item>
-<item><title>Modern Corporate Website Setup - 12/09/2026 07:22 EDT</title><link>https://www.freelancer.com/projects/content-management-system/Modern-Corporate-Website-Setup-EDT</link><guid isPermaLink="false">freelancer:40706908</guid><pubDate>Sat, 12 Sep 2026 11:23:17 GMT</pubDate><description>250-750 USD | I'm looking for an experienced web developer to create a modern and clean business/corporate website. The site should include:
 
 - Contact form
 - Service descriptions
