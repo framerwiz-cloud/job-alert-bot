@@ -3,6 +3,47 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Speed &amp; SEO Overhaul</title><link>https://www.freelancer.com/projects/google-analytics/WordPress-Speed-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40713687</guid><pubDate>Tue, 15 Sep 2026 20:39:30 GMT</pubDate><description>8-15 USD/hr | My WordPress site needs a rapid, end-to-end tune-up so it loads lightning-fast, ranks higher, and drives more orders—ideally hitting 95+ on Google PageSpeed Insights. On-page SEO is the priority, but I also want stronger local visibility and a smoother sales funnel that feeds directly into Clover for online ordering.
+
+Here’s what I’m aiming for:
+
+• Performance &amp; UX  
+  – Lighthouse / PageSpeed score of 95 or better on both mobile and desktop  
+  – Clean Core Web Vitals (LCP, FID, CLS all in the green)  
+  – No breakage across popular browsers and responsive breakpoints  
+
+• SEO &amp; Content  
+  – Tight on-page optimisation: titles, schema, internal links, image alt text, and keyword-aligned copy  
+  – Local SEO tweaks so the business shows up in the 3-pack for our main keywords  
+  – Tracking set up in Google Analytics 4 and Search Console for ongoing monitoring  
+
+• Clover Integration  
+  – Native or API-based ordering flow from the site straight to Clover without third-party widgets that slow things down  
+  – Menu sync and test transactions to confirm reliability  
+
+• Digital Marketing Basics  
+  – Branded social pages (Facebook, Instagram, X) connected to the site for easy sharing  
+  – A Mailchimp—or similar—email list ready to capture leads, with one welcome automation in place  
+  – Simple loyalty programme touchpoint at checkout to start collecting repeat-purchase data  
+
+Acceptance criteria  
+1. PageSpeed Insight score ≥95 after cache clear  
+2. All primary pages pass Core Web Vitals in Search Console  
+3. Test order successfully lands in Clover dashboard  
+4. At least one scheduled social post and one email automation in place, both pulling cleanly from onsite content  
+5. Full hand-off document outlining what was changed and how to maintain results  
+
+To move quickly (I’d like this done ASAP), you’ll need:  
+– WordPress admin and hosting panel access  
+– Clover merchant API credentials  
+– Any premium plugin licences you prefer to use (e.g., WP Rocket, Rank Math Pro) if they aren’t already installed  
+
+When you reply, please include:  
+• Two or three live WordPress sites you’ve pushed to 90+ PageSpeed with similar SEO work  
+• A brief outline of your process and estimated timeline  
+• Anything else you’ll need from my side to start right away  
+
+Looking forward to collaborating and seeing this site finally perform the way it should.</description></item>
 <item><title>Add Ecommerce Buying Feature</title><link>https://www.freelancer.com/projects/api-integration/Add-Ecommerce-Buying-Feature</link><guid isPermaLink="false">freelancer:40713558</guid><pubDate>Tue, 15 Sep 2026 18:48:00 GMT</pubDate><description>750-1200 USD | I’m ready to turn my existing site into a fully-functioning store for our physical products, and I need the checkout side set up from end to end. The core requirements are straightforward:
 
 • Shoppers must be able to place physical-goods orders that ship to their home addresses.  
