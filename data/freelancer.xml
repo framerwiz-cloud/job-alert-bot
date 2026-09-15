@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Laravel Feature Additions &amp; Bug Fixes</title><link>https://www.freelancer.com/projects/git/Laravel-Feature-Additions-Bug-Fixes</link><guid isPermaLink="false">freelancer:40712877</guid><pubDate>Tue, 15 Sep 2026 11:56:23 GMT</pubDate><description>18-36 GBP/hr | I run a PHP Laravel website that needs both fresh functionality and a solid round of maintenance. Before we move on to the new features, I want to clean up the outstanding issues that are hurting performance and user experience.
+
+Current pain points you will tackle:
+• Front-end display issues – pages occasionally break layout on mobile and certain components are not rendering as designed in Blade templates.  
+• Backend functionality errors – several controller actions throw unexpected exceptions, and some queued jobs never complete.  
+• Database connection problems – intermittent time-outs and occasional lost writes suggest query optimisation and possibly a review of the connection settings.
+
+Once these are stable I’d like to discuss and prioritise the feature enhancements (think user workflow improvements, additional business logic, maybe a dashboard module). Your first milestone is therefore a bug-free, smoothly loading site with clean logs.
+
+You will work in a Git-based flow (feature branches, PRs, code review), follow Laravel best practices, and keep changes well documented. I can spin up a staging server for testing and will provide clear reproduction steps for each reported issue.
+
+Deliverables are accepted when:
+1. All listed bugs are fixed and verified on staging.  
+2. No new errors appear in the Laravel logs after 48 hours of test traffic.  
+3. Code is merged to the production branch with migration scripts (if any) included.
+
+If you are comfortable diving into an existing codebase, optimising MySQL queries, tweaking Blade/CSS, and writing clean, testable PHP, I’d love to hear how quickly you can start.</description></item>
 <item><title>Website Consolidation &amp; Sister Sites Setup</title><link>https://www.freelancer.com/projects/website-development/Website-Consolidation-Sister-Sites-Setup</link><guid isPermaLink="false">freelancer:40712881</guid><pubDate>Tue, 15 Sep 2026 11:50:49 GMT</pubDate><description>250-750 GBP | I manage a number of business websites, domains and Outlook mailboxes that sit with different providers. The patchwork has become hard to maintain, so I want everything brought under one roof and given a light facelift before I launch two new sister companies.
 
 Here is what I need done:
