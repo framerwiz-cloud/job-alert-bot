@@ -3,18 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Enhance Product Display with Rotation and Zoom</title><link>https://www.freelancer.com/projects/web-development/Enhance-Product-Display-with-Rotation</link><guid isPermaLink="false">freelancer:40712975</guid><pubDate>Tue, 15 Sep 2026 12:41:02 GMT</pubDate><description>5000-10000 AUD | I'm looking to enhance my website that sells digital products, specifically computers. I want to implement advanced product display features to improve user experience and engagement.
+<item><title>Cold Email Domain Warming &amp; Outreach</title><link>https://www.freelancer.com/projects/lead-generation/Cold-Email-Domain-Warming-Outreach</link><guid isPermaLink="false">freelancer:40712990</guid><pubDate>Tue, 15 Sep 2026 12:50:47 GMT</pubDate><description>8-15 CAD/hr | I need an experienced cold-email specialist to take a fresh domain from zero to full inbox-ready status, then run a B2B lead-generation campaign that drives sign-ups through our contact forms.
 
-Key requirements:
-- Implement product rotation and zoom capabilities.
-- Allow users to customize colors and other aspects.
+Scope of work  
+• Configure the domain correctly—SPF, DKIM, DMARC, custom tracking, dedicated sending inboxes—and warm it gradually so we avoid spam filters.  
+• Build or clean a prospect list that matches our B2B ICP.  
+• Write and schedule persuasive email sequences (initial touch + logical follow-ups) focused on delivering value and prompting a quick sign-up.  
+• A/B-test subject lines, calls-to-action, and send times to maximise open and reply rates.  
+• Set up analytics so we can measure inbox placement, opens, clicks, and conversion to form completions. Connect results to Google Sheets or a simple CRM for easy review.
 
-Ideal skills and experience:
-- Web development expertise, especially in front-end technologies.
-- Experience with interactive product display tools.
-- Familiarity with e-commerce platforms and digital product sales.
+Tools you are comfortable with—Lemlist, Woodpecker, Mailshake, GMass, or similar—are fine as long as they support proper warming, sequencing, and reporting.
 
-Please share examples of previous similar work.</description></item>
+Acceptance criteria  
+1. Domain health scores in green and ≥90 % inbox placement on test sends.  
+2. Campaign achieves at least 30 % open rate and measurable sign-ups recorded in our forms dashboard.  
+3. All assets (email copy, lists, performance reports) handed over in editable format.
+
+If this is your daily bread and you can start right away, let’s talk.</description></item>
 <item><title>Website Consolidation &amp; Sister Sites Setup</title><link>https://www.freelancer.com/projects/website-development/Website-Consolidation-Sister-Sites-Setup</link><guid isPermaLink="false">freelancer:40712881</guid><pubDate>Tue, 15 Sep 2026 11:50:49 GMT</pubDate><description>250-750 GBP | I manage a number of business websites, domains and Outlook mailboxes that sit with different providers. The patchwork has become hard to maintain, so I want everything brought under one roof and given a light facelift before I launch two new sister companies.
 
 Here is what I need done:
@@ -855,6 +860,84 @@ Refine the website’s current green colour palette and overall styling to creat
 Provide a six-monthly website health check and update service covering content, software, security, performance and SEO. Please quote this separately as an ongoing maintenance option.
 Quotation Requirements
 Please provide an itemised quotation showing the cost for each element above, the proposed approach, estimated delivery timescale, any information or content required from us, and details of ongoing fees. Please also include examples of relevant website, SEO or smart-home sector work.</description></item>
+<item><title>WordPress Dev for Multi-platform Travel Blog</title><link>https://www.freelancer.com/projects/affiliate-marketing/WordPress-Dev-for-Multi-platform</link><guid isPermaLink="false">freelancer:40709317</guid><pubDate>Sun, 13 Sep 2026 19:57:55 GMT</pubDate><description>250-750 USD | Project: Unfiltered With Rose
+
+I am looking for an experienced WordPress developer/automation specialist to finish and rebuild my existing travel and review website, Unfiltered With Rose.
+
+I want a polished, fast, monetization-ready travel website connected to a largely hands-off content system involving my website, Facebook, YouTube, email, SEO, analytics, and social-media distribution compared to the website I currently have on Hostinger Horizons:
+
+The goal is simple: I should be able to focus primarily on traveling, creating/providing original content, and approving content—not repeatedly copying, formatting, posting, and maintaining the same material across multiple platforms.
+
+Scope of Work
+
+1. WordPress Migration/Rebuild — Rebuild/migrate the existing Hostinger site into a proper self-hosted WordPress installation while preserving my domain, business email, useful existing content, links, and brand assets.
+
+2. Professional Redesign — Create a modern, attractive, mobile-responsive travel/review website that feels personal to the Unfiltered With Rose brand—not like a generic template or AI-generated travel blog. (I would prefer to keep the exact same layout that you currently see with the color scheme and all)
+
+3. Performance &amp; Speed — Optimize images, caching, plugins, scripts, database, mobile performance, Core Web Vitals, redirects, broken links, SSL and overall site speed.
+
+4. Homepage &amp; Brand Introduction — Create a strong homepage introducing Unfiltered With Rose, what the brand represents, featured/latest content, destinations/reviews, newsletter signup, social channels and clear navigation.
+
+5. Reusable Travel Content System — Create reusable templates/categories for travel articles, destinations, hotels/resorts, cruises, restaurants/experiences, reviews, guides/tips and similar future content. I should not have to design a new page every time I publish.
+
+6.SEO &amp; Google Setup — Configure technical/on-page SEO, titles/meta descriptions, sitemap, schema where appropriate, internal linking, Google Search Console and Google Analytics.
+
+7.Google AdSense Readiness — Prepare the website for AdSense monetization, including appropriate technical/site structure and required legal/policy pages.
+
+8. Affiliate Monetization — Make the site affiliate-ready with disclosures, reusable CTA/link areas and an organized method for managing travel-related affiliate links.
+
+9. Facebook Integration &amp; Automation — Connect my Facebook presence to the content workflow so approved website content can be repurposed/scheduled without manually recreating every post.
+
+10. YouTube Integration &amp; Workflow — Optimize/connect the YouTube side of the brand and establish a repeatable system for video/Shorts-related titles, descriptions, keywords, links, thumbnails/templates and content repurposing.
+
+11. Social Scheduling System — Establish one central, manageable scheduling/distribution workflow for the appropriate social channels rather than requiring me to log into each platform separately.
+
+12. Content Repurposing Automation — Where practical, one approved core piece of content should be reusable across the ecosystem: website → social → Facebook → YouTube supporting content/Shorts → email/newsletter, with human approval where appropriate.
+
+13. Email &amp; Newsletter Automation — Configure branded email capture, subscriber management, welcome automation and a reusable newsletter/content-distribution system.
+
+14. Automation Integrations — Connect WordPress and the approved social/email/content tools using reliable integrations or automation platforms. The objective is maximum practical automation without creating an unnecessarily expensive or fragile technology stack.
+
+15. Security, Backups &amp; Maintenance — Configure security/hardening, SSL, spam protection, backups, updates and a straightforward recovery process.
+
+16. Analytics &amp; Reporting — Configure an easy way for me to review website traffic, search performance, top content, referral/social traffic and available monetization data without constantly checking numerous systems.
+
+After work is completed:
+
+1. Full Account &amp; Asset Ownership — I retain ownership/control of my domain, hosting, WordPress installation, Google properties, Facebook, YouTube, email list, automation accounts, content, graphics, integrations, source files and any licenses/accounts purchased specifically for this project.
+
+2. Documentation &amp; Training — Provide documentation plus a recorded video walkthrough showing how the system works, what is automated, how I approve/publish content, how to make normal edits, and what requires occasional maintenance.
+
+3. Complete End-to-End Testing — Before final acceptance, we will test the actual workflow—not merely inspect the website. This includes website publishing/display, mobile responsiveness, SEO configuration, analytics, social/Facebook workflow, YouTube workflow, email workflow, automations and backups.
+
+Tools / Software:
+
+I am open to premium software when it provides meaningful value, but I do not want unnecessary overlapping subscriptions.
+
+Possible tools may include WordPress-compatible SEO software, Google Search Console/Analytics/AdSense, Metricool or a comparable social scheduling platform, vidIQ or comparable YouTube optimization tools, an email/newsletter platform, and an appropriate automation platform.
+
+You may recommend alternatives if they produce a better or simpler system such as one consolidated system.
+
+Non-Negotiable
+
+All permanent accounts should be created under my email/account ownership whenever possible.
+The freelancer may receive collaborator/admin access as needed but should not permanently own any essential component of the business. At project completion, all temporary access must be removed or reduced appropriately, and I must receive all necessary credentials, files, licenses, documentation and backups. Do not migrate my domain or business email in a way that risks interruption without discussing the migration plan with me first.
+
+Please identify in your proposal:
+
+-What tools/plugins you recommend (monthly cost)
+-Why each paid tool is necessary
+-I want the smallest reliable stack, not the largest.
+-Please include examples of WordPress websites you personally built, especially travel/content/affiliate websites if available.
+-Also briefly explain your experience with WordPress migration, website performance, SEO, Google integrations, social automation, Facebook, YouTube, email automation and content repurposing.
+-What would still require manual approval/work from me?
+-How would you migrate/rebuild the current site without disrupting my domain or business email?
+-How would you make the website faster? 
+-How would you connect WordPress, Facebook, YouTube and email without creating a complicated system?
+-What is your estimated completion timeline?
+-What do you need from me before starting?
+
+Please begin your proposal with the words “UNFILTERED WITH ROSE” so I know you read the entire scope.</description></item>
 <item><title>UI/UX Design Expertise Needed</title><link>https://www.freelancer.com/projects/ui-design/Design-Expertise-Needed</link><guid isPermaLink="false">freelancer:40707637</guid><pubDate>Sat, 12 Sep 2026 20:22:07 GMT</pubDate><description>15-25 USD/hr | # UI/UX Designer Required for Web &amp; Mobile Applications
 
 We are looking for a creative and experienced **UI/UX Designer** to help us design modern, clean, and user-friendly interfaces for our web and mobile applications.
