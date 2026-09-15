@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Add Ecommerce Buying Feature</title><link>https://www.freelancer.com/projects/api-integration/Add-Ecommerce-Buying-Feature</link><guid isPermaLink="false">freelancer:40713558</guid><pubDate>Tue, 15 Sep 2026 18:48:31 GMT</pubDate><description>750-1500 USD | I’m ready to turn my existing site into a fully-functioning store for our physical products, and I need the checkout side set up from end to end. The core requirements are straightforward:
+
+• Shoppers must be able to place physical-goods orders that ship to their home addresses.  
+• Credit and debit card processing is the only payment method we plan to offer at launch, so I’ll need a reliable, PCI-compliant gateway integrated (Stripe, Square, or another mainstream API—happy to follow your recommendation).  
+• After payment, the system should generate an order confirmation email, update stock levels automatically, and feed order details to our fulfillment workflow so we can print shipping labels and track delivery.
+
+The site is already live; what’s missing is the cart, secure checkout, and order-management dashboard. Feel free to build on WooCommerce, Shopify custom app, or a clean Laravel/React stack—whichever gets us a stable, scalable solution fastest.
+
+Deliverables
+1. Responsive product pages with “Add to Cart” and quantity controls  
+2. Secure checkout flow with card payment, error handling, and success page  
+3. Admin view to see, filter, and update order status  
+4. Email templates for confirmation and shipping notices  
+5. Brief hand-off guide so my team can add products and adjust shipping fees
+
+Once everything is tested and live, I’ll verify that a test purchase runs from cart all the way to a courier tracking number. If that passes, the job is complete.</description></item>
 <item><title>Corporate Website Revamp</title><link>https://www.freelancer.com/projects/web-design/Corporate-Website-Revamp-40713540</link><guid isPermaLink="false">freelancer:40713540</guid><pubDate>Tue, 15 Sep 2026 18:33:17 GMT</pubDate><description>250-750 USD | I'm seeking a skilled designer to enhance the branding and color scheme for my corporate website. Need some new photos added with recent projects.  I'm also open to hearing suggestions for improvements.
 
 Ideal skills and experience:
@@ -607,42 +623,6 @@ Requirements:
 - Detailed project proposal required
 
 Please include your past work and experience. Need this done ASAP.</description></item>
-<item><title>Webflow Redesign for </title><link>https://www.freelancer.com/projects/web-design/Webflow-Redesign-for</link><guid isPermaLink="false">freelancer:40709453</guid><pubDate>Sun, 13 Sep 2026 22:47:22 GMT</pubDate><description>250-750 USD | Project
-
-Rebuild website from GoDaddy Website Builder to Webflow
-Six core pages: About, Adventures Aviation, Our Experience, Insights, Private Jet Media, Contact
-No budget for new photography — real photography of installed screens in FBO terminals is available to use
-Developer briefing and SEO audit already completed and available to hand over
-
-Insights page
-
-Fix nav label mismatch — menu says "Insights", page heading says "In the News"
-Fix broken images
-Fix card links — all currently point to one outdated URL
-Remove content tied to the former JSX Airlines partnership (ended)
-Apply existing keep/rewrite/remove content decisions (five entries to retain)
-Insert already-drafted intro paragraph once page is live
-
-Our Experience page
-
-Replace broken headshots
-Source fresh original headshots rather than reusing compressed GoDaddy files
-
-Homepage
-
-Add a clear conversion path / call-to-action (currently missing)
-
-Imagery
-
-Apply consistent treatment to hero images: cropping, duotone/monochrome, dark gradient overlay
-Use owned FBO terminal screen photography as primary hero imagery
-AI-generated imagery as fallback for any gaps
-
-SEO / migration technical
-
-Set up 301 redirects from every current GoDaddy URL
-Carry over rewritten meta descriptions and title tags (already drafted)
-Add image alt text across all pages</description></item>
 <item><title>UI/UX Design Expertise Needed</title><link>https://www.freelancer.com/projects/ui-design/Design-Expertise-Needed</link><guid isPermaLink="false">freelancer:40707637</guid><pubDate>Sat, 12 Sep 2026 20:22:07 GMT</pubDate><description>15-25 USD/hr | # UI/UX Designer Required for Web &amp; Mobile Applications
 
 We are looking for a creative and experienced **UI/UX Designer** to help us design modern, clean, and user-friendly interfaces for our web and mobile applications.
