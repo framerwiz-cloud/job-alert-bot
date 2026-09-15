@@ -51,22 +51,6 @@ When you reply, please include:
 • Anything else you’ll need from my side to start right away  
 
 Looking forward to collaborating and seeing this site finally perform the way it should.</description></item>
-<item><title>Add Ecommerce Buying Feature</title><link>https://www.freelancer.com/projects/api-integration/Add-Ecommerce-Buying-Feature</link><guid isPermaLink="false">freelancer:40713558</guid><pubDate>Tue, 15 Sep 2026 18:48:00 GMT</pubDate><description>750-1200 USD | I’m ready to turn my existing site into a fully-functioning store for our physical products, and I need the checkout side set up from end to end. The core requirements are straightforward:
-
-• Shoppers must be able to place physical-goods orders that ship to their home addresses.  
-• Credit and debit card processing is the only payment method we plan to offer at launch, so I’ll need a reliable, PCI-compliant gateway integrated (Stripe, Square, or another mainstream API—happy to follow your recommendation).  
-• After payment, the system should generate an order confirmation email, update stock levels automatically, and feed order details to our fulfillment workflow so we can print shipping labels and track delivery.
-
-The site is already live; what’s missing is the cart, secure checkout, and order-management dashboard. Feel free to build on WooCommerce, Shopify custom app, or a clean Laravel/React stack—whichever gets us a stable, scalable solution fastest.
-
-Deliverables
-1. Responsive product pages with “Add to Cart” and quantity controls  
-2. Secure checkout flow with card payment, error handling, and success page  
-3. Admin view to see, filter, and update order status  
-4. Email templates for confirmation and shipping notices  
-5. Brief hand-off guide so my team can add products and adjust shipping fees
-
-Once everything is tested and live, I’ll verify that a test purchase runs from cart all the way to a courier tracking number. If that passes, the job is complete.</description></item>
 <item><title>SharePoint Team Hub Development</title><link>https://www.freelancer.com/projects/web-development/SharePoint-Team-Hub-Development</link><guid isPermaLink="false">freelancer:40713524</guid><pubDate>Tue, 15 Sep 2026 18:23:03 GMT</pubDate><description>250-750 CAD | I want a single SharePoint site that acts as the central hub for my whole team. The core idea is simple: everything anyone needs—resources, documents, brand assets, onboarding material, and upcoming-event details—should sit in one clean, well-structured place.
 
 Scope of the build  
@@ -218,18 +202,6 @@ Acceptance criteria
 3. Test submission arrives in my inbox/CRM with all requested fields populated.
 
 If you’ve built landing pages that convert for B2B or construction before, show me. Let’s get this live fast so we can start building our prospect list.</description></item>
-<item><title>E-Commerce Product Upload &amp; Organization</title><link>https://www.freelancer.com/projects/woocommerce/Commerce-Product-Upload-Organization</link><guid isPermaLink="false">freelancer:40712193</guid><pubDate>Tue, 15 Sep 2026 05:52:04 GMT</pubDate><description>15-25 USD/hr | My home-and-lifestyle store is almost ready to launch; the site shell is already built, but the catalogue still needs to be populated and polished. I will supply a spreadsheet with product names, descriptions, prices, SKUs, and high-resolution images, plus admin access and clear instructions.
-
-Your task is to bring every item online: upload the data, format the content I provide, assign sensible collections and tags, and make sure images, variants, and prices display correctly on both desktop and mobile. Whether you prefer Shopify, WooCommerce, or a comparable platform, the interface will feel familiar—no coding required, just a sharp eye and solid e-commerce experience.
-
-Deliverables
-• All supplied products entered, reviewed, and published  
-• Consistent category/tag hierarchy that makes browsing intuitive  
-• Accurate stock, pricing, and variant details with clean image galleries  
-• Quick sanity check of existing payment and shipping settings after the upload  
-• Brief hand-off summary of work completed and any improvement notes  
-
-I value reliability, accuracy, and the ability to work independently. If this first phase goes smoothly, I’ll have ongoing updates and expansion tasks for you. When you respond, let me know which platform you’ve used most and share at least one live store you helped set up.</description></item>
 <item><title>Modern WordPress Portfolio Build</title><link>https://www.freelancer.com/projects/seo/Modern-WordPress-Portfolio-Build</link><guid isPermaLink="false">freelancer:40712040</guid><pubDate>Tue, 15 Sep 2026 04:24:21 GMT</pubDate><description>750-1500 USD | I’m looking for an experienced WordPress developer to build a clean, modern and professional website for my engineering consultancy specializing in fire safety for Battery Energy Storage Systems (BESS).
 
 The website is aimed primarily at professional clients, project developers, operators and other stakeholders in the BESS industry. It should communicate technical expertise, reliability and experience rather than look like a typical creative portfolio.
@@ -662,6 +634,42 @@ Requirements:
 - Detailed project proposal required
 
 Please include your past work and experience. Need this done ASAP.</description></item>
+<item><title>Webflow Redesign for </title><link>https://www.freelancer.com/projects/web-design/Webflow-Redesign-for</link><guid isPermaLink="false">freelancer:40709453</guid><pubDate>Sun, 13 Sep 2026 22:47:22 GMT</pubDate><description>250-750 USD | Project
+
+Rebuild website from GoDaddy Website Builder to Webflow
+Six core pages: About, Adventures Aviation, Our Experience, Insights, Private Jet Media, Contact
+No budget for new photography — real photography of installed screens in FBO terminals is available to use
+Developer briefing and SEO audit already completed and available to hand over
+
+Insights page
+
+Fix nav label mismatch — menu says "Insights", page heading says "In the News"
+Fix broken images
+Fix card links — all currently point to one outdated URL
+Remove content tied to the former JSX Airlines partnership (ended)
+Apply existing keep/rewrite/remove content decisions (five entries to retain)
+Insert already-drafted intro paragraph once page is live
+
+Our Experience page
+
+Replace broken headshots
+Source fresh original headshots rather than reusing compressed GoDaddy files
+
+Homepage
+
+Add a clear conversion path / call-to-action (currently missing)
+
+Imagery
+
+Apply consistent treatment to hero images: cropping, duotone/monochrome, dark gradient overlay
+Use owned FBO terminal screen photography as primary hero imagery
+AI-generated imagery as fallback for any gaps
+
+SEO / migration technical
+
+Set up 301 redirects from every current GoDaddy URL
+Carry over rewritten meta descriptions and title tags (already drafted)
+Add image alt text across all pages</description></item>
 <item><title>UI/UX Design Expertise Needed</title><link>https://www.freelancer.com/projects/ui-design/Design-Expertise-Needed</link><guid isPermaLink="false">freelancer:40707637</guid><pubDate>Sat, 12 Sep 2026 20:22:07 GMT</pubDate><description>15-25 USD/hr | # UI/UX Designer Required for Web &amp; Mobile Applications
 
 We are looking for a creative and experienced **UI/UX Designer** to help us design modern, clean, and user-friendly interfaces for our web and mobile applications.
