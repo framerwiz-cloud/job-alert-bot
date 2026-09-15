@@ -3,6 +3,28 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SharePoint Team Hub Development</title><link>https://www.freelancer.com/projects/web-development/SharePoint-Team-Hub-Development</link><guid isPermaLink="false">freelancer:40713524</guid><pubDate>Tue, 15 Sep 2026 18:23:03 GMT</pubDate><description>250-750 CAD | I want a single SharePoint site that acts as the central hub for my whole team. The core idea is simple: everything anyone needs—resources, documents, brand assets, onboarding material, and upcoming-event details—should sit in one clean, well-structured place.
+
+Scope of the build  
+• Home landing page that instantly signals “one-stop shop” and routes users to the right zone in one click.  
+• Onboarding zone with checklists, policies, key contacts, and a place new hires can acknowledge completion.  
+• Brand zone housing approved logos, colour guides, presentation templates, and any future brand updates.  
+• Upcoming events space showing calendars, key deadlines, and announcements; ideally fed from Outlook or a shared calendar so we update once and the site reflects it automatically.  
+• Quick-link panel for every employee’s personal folder (stored in their OneDrive or a dedicated document library). Inside those folders staff must be able to drag and drop Timesheets, Invoices, and Project files without extra permission prompts.  
+
+Key requirements  
+– Clean page layouts built with modern SharePoint (no classic pages).  
+– Intuitive navigation and search so even first-time users find content fast.  
+– Proper permissions: the shared areas stay read-only for most, while each personal folder remains private to its owner and their manager.  
+– Mobile-friendly design; most of our team checks info from phones.  
+– Straightforward hand-over notes so I can maintain zones, update web parts, or add new sections after go-live.  
+
+Deliverables  
+1. Fully configured SharePoint site template ready for launch.  
+2. Documentation covering site architecture, libraries, permissions, and how to add future pages or lists.  
+3. Brief walk-through (live or recorded) showing me where and how to manage the hub.
+
+If you have experience building modern SharePoint communication or team sites that blend document management, onboarding flows, and branded resources, let’s get this rolling.</description></item>
 <item><title>Modern Informational Banner Design</title><link>https://www.freelancer.com/projects/web-design/Modern-Informational-Banner-Design</link><guid isPermaLink="false">freelancer:40713454</guid><pubDate>Tue, 15 Sep 2026 17:43:44 GMT</pubDate><description>250-750 USD | I’m refreshing my website visuals and need a set of modern-styled banners that immediately convey key product details to visitors. The goal is purely informational—no hard-sell language or flashing promos—so the design should feel clean, contemporary and on-brand while making the product specs or feature highlights easy to absorb at a glance.
 
 Please roll out a cohesive family of banners that can live in hero sections, sidebars and in-content slots without losing their impact. Consistent typography, color harmony and intuitive hierarchy are critical so users can recognize the product focus wherever a banner appears.
@@ -835,24 +857,6 @@ Configure:
 10. Addition to appropriate newsletter lists.
 
 BILINGUAL VERSION</description></item>
-<item><title>Laravel SaaS &amp; PrestaShop Customization</title><link>https://www.freelancer.com/projects/laravel/Laravel-SaaS-PrestaShop-Customization</link><guid isPermaLink="false">freelancer:40709403</guid><pubDate>Sun, 13 Sep 2026 21:30:37 GMT</pubDate><description>250-750 CAD | Laravel Developer — Customizing CodeCanyon AI SaaS Platform &amp; PrestaShop Integration
-We are seeking a freelancer to adapt Berkine’s Davinci AI script (from CodeCanyon) for our "FutureOS Agents" project.
-We aim to maximize the use of existing features and proceed in stages while keeping the budget under control.
-Scope of work:
-Install and customize Davinci with our branding.
-Connect our PrestaShop store via API.
-Add configurable agents for the product catalog, inventory, customer service, sales follow-ups, and reporting.
-Add an agent to create and publish professional blog posts: polished layout, images, H1/H2/H3 tags, SEO titles, meta descriptions, and internal links.
-Implement task scheduling, action validation, and a simple activity log.
-The system must allow for the gradual addition of further agents and integrations, without mandatory reliance on Make or Zapier.
-Required profile: Experience with Laravel, AI API integration, and PrestaShop. Familiarity with Davinci is a plus.
-Please submit:
-One or two examples of relevant past projects.
-Details of your experience with Davinci or similar scripts.
-Your fixed price and timeline per stage (breaking down installation, PrestaShop integration, agents, and the blog module).
-Any potential costs for additional APIs or extensions.
-Source code and installation on our hosting environment must be included. Deliverables will be finalized together before work begins.
-Potential for long-term collaboration based on results.</description></item>
 <item><title>UI/UX Design Expertise Needed</title><link>https://www.freelancer.com/projects/ui-design/Design-Expertise-Needed</link><guid isPermaLink="false">freelancer:40707637</guid><pubDate>Sat, 12 Sep 2026 20:22:07 GMT</pubDate><description>15-25 USD/hr | # UI/UX Designer Required for Web &amp; Mobile Applications
 
 We are looking for a creative and experienced **UI/UX Designer** to help us design modern, clean, and user-friendly interfaces for our web and mobile applications.
