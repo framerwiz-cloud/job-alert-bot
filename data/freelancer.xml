@@ -3,6 +3,70 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>OfficeVector Portal Demo Stabilization</title><link>https://www.freelancer.com/projects/dot-net-core/OfficeVector-Portal-Demo-Stabilization</link><guid isPermaLink="false">freelancer:40713643</guid><pubDate>Tue, 15 Sep 2026 20:00:49 GMT</pubDate><description>25-50 USD/hr | Hourly contract — OfficeVector provider portal: conference demo stabilization (.NET 10 + React)
+
+NOTE: This contract is for a contractor we have already selected and is not open
+to other bids. Please do not bid unless you have been invited.
+
+ABOUT THE WORK
+Titronics Software Services builds software for chiropractic practices. OfficeVector
+(product name: ChiroVector) is our practice-management platform, currently mid-rebuild.
+We need a stable, presentable end-to-end build ready to demonstrate at a conference
+in October.
+
+The codebase is in good shape — clean architecture, working test suites, active
+documentation. This is stabilization and completion work, not a rebuild.
+
+STACK
+- API: ASP.NET Core (.NET 10), clean architecture, EF Core, SQL Server
+- Web: React + TypeScript + Vite + Tailwind single-page app
+- Auth: Auth0, fronted by an ASP.NET Core backend-for-frontend (cookie session + YARP proxy)
+- Cloud: Azure
+
+SCOPE — WEEK 1: core demo flow and fixes
+- Review the end-to-end demo flow and identify remaining gaps and bugs
+- Validate the Admin flow: patient registration, patient information, creating a visit
+- Validate the Provider/Specialist flow: opening a visit, diagnosis, treatment, SOAP notes
+- Add a basic invoicing flow: services, standard rates, taxes, invoice generation
+- Fix patient selection in Scheduling/Appointments (search rather than scrolling)
+- Investigate why newly created patients are not immediately available in Scheduling
+- Fix billing so it remains accessible after a visit is finalized
+- Raise a GitHub issue per identified problem so ownership and progress are tracked
+
+SCOPE — WEEK 2: demo preparation and stabilization
+- Prepare realistic demo data for patients, visits and services
+- Present a first test demo, then adjust based on feedback
+- Verify the UI works correctly at standard laptop resolutions
+- Finalize role-based permissions so each role has appropriate access
+- Run the full 5-minute demo scenario repeatedly — no crashes or blocking bugs
+- Provide instructions for running the demo locally, including a Docker-based setup
+- Conduct the final demo
+
+Authentication setup is included: configuring the Auth0 application, wiring it to the
+frontend, and validating tokens on the backend against issuer, audience and signing keys.
+
+TARGET DEMO SCENARIO
+Login → Patient → Appointment → Visit → Diagnosis/Treatment → SOAP Note → Finalize → Billing
+
+The goal for this phase is one clean, reliable end-to-end scenario that runs without
+interruption — not every planned product feature.
+
+OUT OF SCOPE FOR THIS PHASE
+Patient Portal, Admin Portal, CMS-1500/insurance workflow, production AI transcription,
+live Titronics scanner integration, online patient payments, analytics/reporting.
+
+DATA
+This phase uses seeded demo data only. No real patient data is involved. If scope
+changes to include real patient data, that will be agreed separately in writing
+before any such access is granted.
+
+ENGAGEMENT
+- Hourly contract, billed weekly via Freelancer Time Tracker
+- Rate: 40 USD/hour
+- Up to 40 hours per week
+- Target completion 24 September, outside limit 30 September
+- Some overlap with US Central time required for real-time collaboration
+- Access to GitHub repositories, Azure resource group and Auth0 is already provisioned</description></item>
 <item><title>Add Ecommerce Buying Feature</title><link>https://www.freelancer.com/projects/api-integration/Add-Ecommerce-Buying-Feature</link><guid isPermaLink="false">freelancer:40713558</guid><pubDate>Tue, 15 Sep 2026 18:48:00 GMT</pubDate><description>750-1200 USD | I’m ready to turn my existing site into a fully-functioning store for our physical products, and I need the checkout side set up from end to end. The core requirements are straightforward:
 
 • Shoppers must be able to place physical-goods orders that ship to their home addresses.  
