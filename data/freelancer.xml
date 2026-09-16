@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Branded Amazon Storefront Setup</title><link>https://www.freelancer.com/projects/branding/Branded-Amazon-Storefront-Setup</link><guid isPermaLink="false">freelancer:40715133</guid><pubDate>Wed, 16 Sep 2026 12:22:49 GMT</pubDate><description>250-750 USD | I’m ready to launch my line of electronics on Amazon and need a storefront that instantly reflects the look and feel of my brand. All core assets—logo files, color palette, and tagline—are finalized and in hand, so you can focus entirely on layout, design, and implementation rather than asset creation.
+
+Branding elements to feature:  
+• Logo  
+• Brand colors  
+• Tagline  
+• Additional branded content that helps tell the brand story  
+
+Here’s what I’m expecting from you: a clean, intuitive Amazon storefront that highlights my electronics catalogue, uses the approved assets consistently across banners, headings, and product tiles, and includes small narrative sections or graphics to reinforce our brand story. Proper category organization, eye-catching hero images, and mobile-friendly formatting are essential.
+
+Once the storefront is live, I’d like a quick walkthrough or video showing where key elements were placed and how I can update them in the future. If you’ve built Amazon storefronts before—especially for tech or gadget brands—please share a link or two when you respond.</description></item>
 <item><title>Amazon &amp; TikTok Store Setup</title><link>https://www.freelancer.com/projects/amazon/Amazon-TikTok-Store-Setup</link><guid isPermaLink="false">freelancer:40715001</guid><pubDate>Wed, 16 Sep 2026 11:12:07 GMT</pubDate><description>250-750 USD | I want to launch my brand on Amazon and TikTok at the same time. I already have a regular TikTok account, but it still needs to be converted into a TikTok Shop, and I have no Amazon Seller Central account yet. Your job is to build both sales channels side-by-side so they are fully compliant, on-brand, and ready for me to start adding products as soon as you hand them over.
 
 Deliverables  
@@ -1011,19 +1022,6 @@ Essential deliverables:
 • Launch support plus a brief hand-over guide so I can keep things updated myself
 
 Completion is confirmed once the site is live, orders flow end-to-end, and I can manually adjust stock without developer assistance.</description></item>
-<item><title>Shopify Product Showcase Website</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Product-Showcase-Website</link><guid isPermaLink="false">freelancer:40710085</guid><pubDate>Mon, 14 Sep 2026 06:53:22 GMT</pubDate><description>3500-4500 USD | I’m moving our shop group onto Shopify and need a partner who can turn the platform into a clean, engaging showcase for everything we offer—physical goods, digital downloads and our in-house services.  
-
-Core pieces I want in place:  
-• A well-structured product catalog that lets visitors browse all three product types with clear filtering and variant options.  
-• A native-looking customer reviews section on each item page (Loox, Judge.me or a similar app is fine) so buyers can see authentic feedback at a glance.  
-
-Visual polish matters just as much as functionality. I’m after a layout that feels cohesive across the catalog, blog and About pages, uses our brand palette, and loads quickly on mobile. Although I’m not asking for a full booking engine right now, the architecture should stay flexible enough for us to bolt on service scheduling later without a redesign.
-
-Please handle: theme selection or custom theme development, app setup for reviews, basic SEO settings, and a short hand-over guide so I can update products myself. Once it’s live I’ll test the storefront; payment processing and domain are already sorted on my end.
-
-If this sounds like a build you can deliver, let’s talk timeline and your approach to keeping Shopify lean yet feature-rich.
-
-When you read and agree with this post, please add the "Shopify" oon top of the bid</description></item>
 <item><title>Web App User Dashboard Wireframing</title><link>https://www.freelancer.com/projects/ui-design/Web-App-User-Dashboard-Wireframing</link><guid isPermaLink="false">freelancer:40709710</guid><pubDate>Mon, 14 Sep 2026 03:23:11 GMT</pubDate><description>25-50 AUD/hr | I'm looking for an experienced designer to create detailed wireframes for a user dashboard on a web application, based on provided hi-fi UX designs. 
 
 Key Requirements:
@@ -1250,51 +1248,6 @@ Key deliverables
 • Backend walkthrough so I can add or update items myself  
 
 Acceptance criteria: a live site that passes mobile and desktop performance audits, processes a test order end-to-end, and allows me to change a product’s media in under five minutes.</description></item>
-<item><title>UK Website Ongoing Technical Maintenance</title><link>https://www.freelancer.com/projects/cloudflare/Website-Ongoing-Technical-Maintenance</link><guid isPermaLink="false">freelancer:40700842</guid><pubDate>Wed, 09 Sep 2026 12:18:43 GMT</pubDate><description>18-36 GBP/hr | I’m looking for a new developer/company to provide ongoing technical maintenance and support for our established website, FreeWills.co.uk, which is operated by Quick Will Limited.
-
-The website is built using October CMS/PHP and is hosted on Linode, with Cloudflare also in use. We are not looking for a redesign or redevelopment of the website. We need a reliable person/company to maintain the existing system and provide technical support when required.
-
-Our requirements include:
-
-* 24/7 automated uptime monitoring and alerts
-* Monitoring for HTTP 5xx/504 errors and other availability issues
-* Linode/server monitoring, including unusual traffic or resource usage
-* October CMS, PHP and database maintenance
-* Security and dependency updates
-* Cloudflare/DNS support where required
-* Backup monitoring and the ability to restore the site if necessary
-* GitHub/source-code and deployment support
-* Investigation of server/application errors when they occur
-* Reasonable response times for urgent issues affecting the live website
-* Occasional development/fixes, which could be charged separately if appropriate
-
-We recently had an incident where the website returned 504 Gateway Timeout errors for approximately 16 minutes during a site crawl. Unfortunately, Google Ads attempted to access the website during this period and subsequently disapproved a significant number of our advertisements because it considered the destination unavailable. This has highlighted the need for appropriate monitoring and someone available to investigate these issues when they occur.
-
-Our current developers have carried out substantial remediation and development work, so we would arrange a proper technical handover and provide access to the relevant systems and documentation.
-
-We would like a quote for ongoing maintenance with additional development charged separately or another arrangement you would recommend.
-
-Could you please let me know:
-
-1. Whether you currently support existing October CMS websites;
-2. Whether you are comfortable supporting Linode/Linux, Cloudflare, PHP and the associated server infrastructure;
-3. What monitoring and emergency response you would provide;
-4. Your typical response time if the live website goes down;
-5. What would be included within a monthly maintenance package;
-6. Your monthly cost;
-7. Your hourly rate for work outside the maintenance package; and
-8. Whether there would be any initial onboarding/handover charge.
-
-The website is commercially important to us, so I’m looking for a long-term relationship with someone who can maintain the existing platform reliably, rather than someone looking to replace or rebuild it.
-
-I’d be happy to arrange a call and provide further technical information if required before you quote.
-
-Kind regards,
-
-Amanda George
-Managing Director
-Quick Will Limited t/a Free Wills
-FreeWills.co.uk</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
