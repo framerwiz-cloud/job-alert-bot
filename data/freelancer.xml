@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>B2B Web Developer Needed: Premium Product Showroom with Dropbox API Integration (No E-Commerce)</title><link>https://www.freelancer.com/projects/wordpress/Web-Developer-Needed-Premium-Product</link><guid isPermaLink="false">freelancer:40714278</guid><pubDate>Wed, 16 Sep 2026 04:43:23 GMT</pubDate><description>1500-3000 AUD | We are a premier Australian manufacturer and wholesaler of Hush acoustic panels and desk screens. 
+
+We sell strictly B2B / Trade-only (architects, designers, and commercial fit-out companies). We do not sell to the public and do not require a shopping cart/e-commerce system.
+
+We require a high-end, clean, corporate website that acts as a digital product showroom.
+
+Key Requirements:
+
+Premium Digital Showroom: Visual-first product catalog focusing on high-quality imagery, product specifications, and acoustic data.
+
+Dynamic Dropbox Integration: We have a large Dropbox folder with high-res images, CAD files, and technical spec sheets. The website must interface dynamically with this Dropbox repository via API so updates in Dropbox sync to the website download sections seamlessly.Lead Generation &amp; Quote 
+
+Trade Portal (Gated Asset Area): A secure login area where approved trade clients can download price lists and technical spec sheets.
+
+Responsive Design: Must look flawless on desktop, tablet, and mobile.
+
+What we will provide:Comprehensive 4-page Website Design Brief (PDF attached).High-res brand guidelines, logo assets, and product brochures.Access to the Dropbox repository.
+
+Screening Questions 
+Please explain your specific experience with the Dropbox API. How do you plan to handle the dynamic syncing of high-res images and CAD files to the front end without slowing down the site loading speeds?
+
+We are a B2B trade-only manufacturer, not a consumer e-commerce store. What is your approach to building a site like this. 
+
+To prove you have read our description and the attached brief, please start your bid response with the word 'ACOUSTIC'.</description></item>
+<item><title>Website Payment Integration &amp; Cart</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Website-Payment-Integration-Cart</link><guid isPermaLink="false">freelancer:40714271</guid><pubDate>Wed, 16 Sep 2026 04:40:55 GMT</pubDate><description>250-750 USD | I want my website to accept payments smoothly through PayPal, Stripe and a standard merchant gateway. Because I do not yet have accounts with either PayPal or Stripe, the first step will be walking me through the sign-up and verification process for each platform, making sure all business information matches what the processors require so there are no surprise holds later on.
+
+The site will sell services only, so the shopping cart can stay lean—just enough to let a visitor pick a service, see the price, and check out. Once payment clears, I need an automatic confirmation email to both the buyer and me, plus a simple dashboard or log where I can review transactions at a glance.
+
+Security and reliability are key. Please follow the usual PCI-compliant best practices, load test in a sandbox, and leave detailed notes so I can manage routine changes myself after launch.
+
+Deliverables  
+• Fully configured PayPal, Stripe and merchant account credentials connected to the site  
+• Lightweight shopping cart for service checkout  
+• Success / failure callbacks that update an order record and trigger emails  
+• End-to-end sandbox test results with screencaps or logs  
+• Clear hand-off documentation covering settings, API keys, and how to add or edit services  
+
+If you have questions about my current tech stack, let me know; I’m flexible on libraries and can give FTP or admin access as soon as we agree on the approach.</description></item>
 <item><title>Toronto Courier SEO + Hostinger Website + Instant Delivery Booking System</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/Toronto-Courier-SEO-Hostinger-Website</link><guid isPermaLink="false">freelancer:40714064</guid><pubDate>Wed, 16 Sep 2026 01:57:23 GMT</pubDate><description>1500-3000 CAD | I own Cargaroo.ca, a Toronto-based same-day courier and business delivery company.
 
 My website is built and hosted on HOSTINGER.
@@ -991,25 +1029,6 @@ We want it to match the features of site: Megalancer. Including:
 - Refer clients and earn 5% cash back on their project payments, for Life.
 
 Once the site is live and tested, I expect a brief window for fixes or tweaks to ensure everything performs flawlessly. If you have recent e-commerce builds to showcase, that will help me gauge fit quickly.</description></item>
-<item><title>Modern Minimalist Squarespace Redesign</title><link>https://www.freelancer.com/projects/squarespace/Modern-Minimalist-Squarespace-Redesign-40709583</link><guid isPermaLink="false">freelancer:40709583</guid><pubDate>Mon, 14 Sep 2026 01:18:49 GMT</pubDate><description>250-750 USD | I’m ready to give my existing Squarespace site a clean, contemporary facelift. The priority is to modernise the overall look while keeping the experience light, uncluttered and visually engaging.
-
-Here’s what I need help with:
-
-• A completely re-worked homepage layout that instantly feels fresh yet intuitive.  
-• Refined visual content—images and any embedded video—so they sit seamlessly within a minimalist aesthetic.
-
-I’m on Squarespace 7.1, so please be comfortable working inside that environment and with its style settings, section blocks, custom CSS and basic code injection when required.
-
-Final hand-off should include the updated live site, plus a brief note outlining any custom CSS or design tweaks you introduced so I can maintain them going forward.</description></item>
-<item><title>Modern Fall Decor Installation</title><link>https://www.freelancer.com/projects/interior-design/Modern-Fall-Decor-Installation</link><guid isPermaLink="false">freelancer:40709512</guid><pubDate>Sun, 13 Sep 2026 23:55:54 GMT</pubDate><description>150-400 USD | I'm looking for a talented decorator to create and install modern fall-themed decor in my kitchen, half bath, full bath, and living room. 
-
-Requirements:
-- Modern decor style
-- Experience in seasonal decorating
-- Ability to source and provide all necessary materials
-- Detailed project proposal required
-
-Please include your past work and experience. Need this done ASAP.</description></item>
 <item><title>UI/UX Design Expertise Needed</title><link>https://www.freelancer.com/projects/ui-design/Design-Expertise-Needed</link><guid isPermaLink="false">freelancer:40707637</guid><pubDate>Sat, 12 Sep 2026 20:22:07 GMT</pubDate><description>15-25 USD/hr | # UI/UX Designer Required for Web &amp; Mobile Applications
 
 We are looking for a creative and experienced **UI/UX Designer** to help us design modern, clean, and user-friendly interfaces for our web and mobile applications.
