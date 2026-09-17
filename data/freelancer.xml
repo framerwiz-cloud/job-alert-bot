@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist Shopify Service Website</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Shopify-Service-Website</link><guid isPermaLink="false">freelancer:40717469</guid><pubDate>Thu, 17 Sep 2026 13:02:11 GMT</pubDate><description>250-750 EUR | I’m moving my service-based business onto Shopify and need a clean, minimalistic site that positions the brand clearly and professionally. The store function itself can stay disabled for now; the priority is a streamlined information hub that explains what we do and encourages visitors to reach out.
+
+Here’s what I have in mind: the homepage should introduce the brand at a glance, followed by dedicated sections for concise service descriptions. I’d like each service to have its own sub-page or expandable module so users don’t get lost in long blocks of text. A simple, well-placed contact or “Request a Quote” form is essential, and a lightweight blog area for occasional updates would be a bonus if it fits naturally within the theme.
+
+Design direction is strictly clean and minimalistic—white space, subtle typography, and a muted palette that lets the content breathe. No loud color splashes or heavy animations. Think modern SaaS landing pages rather than an e-commerce catalog. If custom graphics are needed to keep things visually consistent, you can suggest them, but they should stay within the understated aesthetic.
+
+Please work directly in Shopify, selecting a theme that matches this vision (free or paid, I’m flexible). I’ll provide copy for the service descriptions; you handle layout, theme setup, and any light CSS tweaks required to keep the look cohesive across desktop and mobile.
+
+Deliverables I need to sign off on:
+• Fully configured Shopify theme with home, services, about, and contact pages  
+• Responsive layout verified on major devices and browsers  
+• Contact form (or simple request-quote app) tested and functional  
+• Clear guidance on how I can update text and images myself
+
+If you have relevant clean-style Shopify builds in your portfolio, share a link so I can gauge fit. Let me know your estimated timeline and any questions that will help you quote accurately.</description></item>
 <item><title>Malaysia Water Filtration Website Launch</title><link>https://www.freelancer.com/projects/web-design/Malaysia-Water-Filtration-Website-Launch</link><guid isPermaLink="false">freelancer:40717405</guid><pubDate>Thu, 17 Sep 2026 12:30:43 GMT</pubDate><description>250-750 AUD | I need a full-service build for a new Malaysian water filtration brand. The goal is simple: a clean, modern site that spotlights our product line and makes it effortless for visitors to reach out for quotes or further information. All product images and descriptions are ready to hand over, so you can concentrate on design, layout, and smooth user experience rather than content creation.
 
 Key expectations  
@@ -755,21 +770,6 @@ Ideal skills and experience:
 - Excellent communication skills for collaboration and feedback.
 
 Please include examples of your previous work in your bids. Looking forward to your proposals!</description></item>
-<item><title>HubSpot Alumni Portal Build</title><link>https://www.freelancer.com/projects/api-developmet/HubSpot-Alumni-Portal-Build</link><guid isPermaLink="false">freelancer:40713101</guid><pubDate>Tue, 15 Sep 2026 14:03:08 GMT</pubDate><description>250-750 USD | I need a developer who knows HubSpot inside-out to stand up a secure, private alumni portal. The immediate focus is a log-in flow that uses Single Sign-On so former students can authenticate once and move seamlessly through the site.  
-
-Inside the portal I want an alumni directory that feels polished and easy to navigate. Users must be able to search or filter the database, open an individual profile page, and view listed contact details without exposing anything publicly. The portal will sit behind a secure, well-documented API; safeguarding personal data is non-negotiable, so please be comfortable with HubSpot’s security settings, GDPR best practice and any custom middleware needed.
-
-The same environment will house a small billing area. After log-in, alumni should be able to download invoices, pay online and review their full transaction history. Stripe or HubSpot Payments are both acceptable if you have a strong preference.
-
-Deliverables  
-• SSO-enabled log-in page connected to HubSpot contacts  
-• Alumni directory with search/filter, profile pages and contact display  
-• Billing module: invoice generation, online payment gateway, transaction history  
-• Clean, secure API endpoints plus basic documentation  
-
-Once the portal is live, I would appreciate a short walkthrough (recorded is fine) covering how to set up future events and manage the billing tools myself, but that training is secondary to getting the log-in and directory working flawlessly.
-
-If you have recent HubSpot CMS or custom API examples, share a link and outline the stack you used. I am ready to start as soon as we agree on the best approach.</description></item>
 <item><title>Full Stack Sysop and Webmaster.  Ongoing work.  WP expert.</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Sysop-Webmaster-Ongoing</link><guid isPermaLink="false">freelancer:40713075</guid><pubDate>Tue, 15 Sep 2026 13:45:29 GMT</pubDate><description>15-25 USD/hr | Full Stack Developer For Websites Ongoing  Launch a new instance on our hosting company.  Maintain and upgradde existing sites on Hostgator</description></item>
 <item><title>Cold Email Domain Warming &amp; Outreach</title><link>https://www.freelancer.com/projects/lead-generation/Cold-Email-Domain-Warming-Outreach</link><guid isPermaLink="false">freelancer:40712990</guid><pubDate>Tue, 15 Sep 2026 12:50:47 GMT</pubDate><description>8-15 CAD/hr | I need an experienced cold-email specialist to take a fresh domain from zero to full inbox-ready status, then run a B2B lead-generation campaign that drives sign-ups through our contact forms.
 
