@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Elementor Homepage Design &amp; Gallery Integration</title><link>https://www.freelancer.com/projects/elementor/Elementor-Homepage-Design-Gallery</link><guid isPermaLink="false">freelancer:40717797</guid><pubDate>Thu, 17 Sep 2026 16:23:39 GMT</pubDate><description>250-750 USD | I need an experienced Elementor designer to create a modern and clean homepage for my site, similar to ASLD.org. 
+
+Requirements:
+- Design a minimalist homepage, two columns layout, inspired by ASLD.org
+- Integrate a thumbnail photo gallery plugin
+
+Ideal Skills &amp; Experience:
+- Proficiency in Elementor
+- Strong design skills for modern, clean aesthetics
+- Experience with photo gallery plugins</description></item>
 <item><title>Squarespace Architecture Site Completion</title><link>https://www.freelancer.com/projects/website-design/Squarespace-Architecture-Site-Completion</link><guid isPermaLink="false">freelancer:40717753</guid><pubDate>Thu, 17 Sep 2026 15:59:13 GMT</pubDate><description>250-750 USD | I’ve already laid the foundation for our architectural design firm’s Squarespace site, but several key pieces still need polishing before we can take it live. The portfolio area is top priority: every project requires engaging descriptions, carefully curated image galleries, and a few succinct client testimonials to frame our work.  
 
 I also need a detailed project inquiry form—something more robust than a basic contact page—so prospective clients can easily outline their scope, timeline, and budget. I also want a process page with our different packages. Beyond that, the site still lacks active social links and a clean SSO setup so the site is functional. 
@@ -777,20 +787,6 @@ Layered source file (PSD/AI/Affinity)
 Separate flat JPEG for Kindle eBook cover
 
 Please share past memoir/nonfiction cover work in your proposal. Budget: $150–350.</description></item>
-<item><title>Website Payment Integration &amp; Cart</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Website-Payment-Integration-Cart</link><guid isPermaLink="false">freelancer:40714271</guid><pubDate>Wed, 16 Sep 2026 04:40:55 GMT</pubDate><description>250-750 USD | I want my website to accept payments smoothly through PayPal, Stripe and a standard merchant gateway. Because I do not yet have accounts with either PayPal or Stripe, the first step will be walking me through the sign-up and verification process for each platform, making sure all business information matches what the processors require so there are no surprise holds later on.
-
-The site will sell services only, so the shopping cart can stay lean—just enough to let a visitor pick a service, see the price, and check out. Once payment clears, I need an automatic confirmation email to both the buyer and me, plus a simple dashboard or log where I can review transactions at a glance.
-
-Security and reliability are key. Please follow the usual PCI-compliant best practices, load test in a sandbox, and leave detailed notes so I can manage routine changes myself after launch.
-
-Deliverables  
-• Fully configured PayPal, Stripe and merchant account credentials connected to the site  
-• Lightweight shopping cart for service checkout  
-• Success / failure callbacks that update an order record and trigger emails  
-• End-to-end sandbox test results with screencaps or logs  
-• Clear hand-off documentation covering settings, API keys, and how to add or edit services  
-
-If you have questions about my current tech stack, let me know; I’m flexible on libraries and can give FTP or admin access as soon as we agree on the approach.</description></item>
 <item><title>Monthly Band Website &amp; FB Updates</title><link>https://www.freelancer.com/projects/web-design/Monthly-Band-Website-Updates</link><guid isPermaLink="false">freelancer:40713773</guid><pubDate>Tue, 15 Sep 2026 21:41:19 GMT</pubDate><description>15-25 USD/hr | I front a busy classic-rock band and every new booking depends on how fresh our online presence feels. Each month I’ll pass along our confirmed gig dates, the best photos from the shows, and cut-down performance clips; your job is to turn that raw material into polished updates on both our website and our Facebook page.
 
 Website  
