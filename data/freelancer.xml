@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Non-Medical Home Care Platform Build</title><link>https://www.freelancer.com/projects/api-developmet/Non-Medical-Home-Care-Platform</link><guid isPermaLink="false">freelancer:40717637</guid><pubDate>Thu, 17 Sep 2026 14:33:00 GMT</pubDate><description>1000-3500 USD | I’m ready to launch a fully-featured, non-medical home health care agency platform that mirrors the depth and polish of Alora, WellSky, HHAeXchange, and Sandata—but branded and configured for my operation. Because this is a ground-up build, I need a partner who has already walked this path and can demonstrate it with a live URL, demo credentials, or code repository. If you have never delivered a comparable system, please do not reply.
+
+What I expect the finished product to do
+• Web-based (desktop &amp; mobile responsive) portal plus lightweight caregiver mobile app  
+• Patient intake, profile management, and visit scheduling with drag-and-drop calendar  
+• Caregiver roster, shift invitations, time-tracking, and electronic visit verification (EVV)  
+• Automated billing, claims submission, and payroll calculations  
+• Real-time dashboards and compliance reporting (HIPAA, state EVV mandates)  
+• Secure messaging and document storage for care plans, signatures, and notes  
+• Open API or native connectors for EHR feeds, clearinghouses, and major payment gateways  
+
+Project flow &amp; checkpoints
+– Discovery and architecture sign-off  
+– UX/UI prototypes for web and caregiver app  
+– Agile sprints with bi-weekly demos on a cloud staging server  
+– End-to-end acceptance test covering admin, caregiver, and client roles  
+– Deployment, knowledge transfer, and 30-day post-launch support  
+
+To be considered include
+1. A link or demo video that proves you have already built a comparable platform.  
+2. Your true fixed-price proposal—if you have done this before, you know the real number.  
+
+
+I’m prepared to move quickly once past work is confirmed and the scope is locked.</description></item>
 <item><title>Shopify Expert for 2026 Halloween E-Commerce</title><link>https://www.freelancer.com/projects/advertising/Shopify-Expert-for-Halloween-Commerce</link><guid isPermaLink="false">freelancer:40717575</guid><pubDate>Thu, 17 Sep 2026 14:05:42 GMT</pubDate><description>15-25 USD/hr | I’m preparing a Shopify e-commerce project for the 2026 Halloween season and I’m looking for an experienced freelancer to help with the project from preparation through the seasonal campaign.
 
 The project will focus on the US market, with an emphasis on seasonal products, Shopify store management, product research, and online marketing.
@@ -98,31 +122,6 @@ Acceptance criteria
 3. A short handover note explains what was changed so we can maintain it going forward.
 
 Once the console is clean we will extend the collaboration to broader on-site optimisation, so view this as the first step in a longer engagement.</description></item>
-<item><title>Shopify Store Setup &amp; Structure Professional</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-Structure</link><guid isPermaLink="false">freelancer:40717489</guid><pubDate>Thu, 17 Sep 2026 13:18:06 GMT</pubDate><description>18-36 EUR/hr | Shopify Freelancer – Store Setup &amp; Structure
-
-We are looking for an experienced Shopify freelancer to build the basic technical and structural setup of our online store.
-
-A Shopify account and an existing theme/template are already in place. We are not looking for a fully custom-built store or a new design from scratch. The goal is to professionally set up and customize the existing theme so that we can easily add and manage products, images, and content ourselves afterwards.
-
-Scope of work:
-
-Set up and configure the existing Shopify theme
-Create a clear and user-friendly store structure and navigation
-Set up the main pages, e.g. Homepage, Shop, Collections, Product Pages, About, Contact
-Set up header, footer, menus, and navigation
-Create a consistent structure for product and collection pages
-Configure essential Shopify settings and functionalities
-Optimize the basic setup for desktop and mobile
-Implement or recommend necessary Shopify apps, if required
-Ensure basic SEO-friendly page structure
-Prepare the store so that our team can easily add and maintain products and content
-Provide a short handover/introduction to the Shopify setup
-
-Branding, design direction, copy, and imagery will generally be provided by us. We are looking for someone who can translate these into a clean, functional, and well-structured Shopify store based on the existing theme.
-
-Ideal experience: Strong Shopify experience, particularly in setting up and customizing existing themes, a good understanding of e-commerce UX, and the ability to work independently and efficiently.
-
-Project goal: A fully structured and technically set-up Shopify store that is ready for us to populate with final content and products and can easily be managed by our team going forward.</description></item>
 <item><title>Minimalist Shopify Service Website</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Shopify-Service-Website</link><guid isPermaLink="false">freelancer:40717469</guid><pubDate>Thu, 17 Sep 2026 13:02:11 GMT</pubDate><description>250-750 EUR | I’m moving my service-based business onto Shopify and need a clean, minimalistic site that positions the brand clearly and professionally. The store function itself can stay disabled for now; the priority is a streamlined information hub that explains what we do and encourages visitors to reach out.
 
 Here’s what I have in mind: the homepage should introduce the brand at a glance, followed by dedicated sections for concise service descriptions. I’d like each service to have its own sub-page or expandable module so users don’t get lost in long blocks of text. A simple, well-placed contact or “Request a Quote” form is essential, and a lightweight blog area for occasional updates would be a bonus if it fits naturally within the theme.
@@ -803,28 +802,6 @@ We are seeking help to upgrade our website, with an emphasis on building in flex
 Our website needs to be in multiple languages to accommodate our many regions.
 
 One of our regions developed an e-commerce site outside of our parent platform - I'd like to explore if we can bring their e-commerce needs under the umbrella of this new site as well. It's not the highest priority, but if there's functionality to allow us to do that, the better.</description></item>
-<item><title>SharePoint Team Hub Development</title><link>https://www.freelancer.com/projects/web-development/SharePoint-Team-Hub-Development</link><guid isPermaLink="false">freelancer:40713524</guid><pubDate>Tue, 15 Sep 2026 18:23:03 GMT</pubDate><description>250-750 CAD | I want a single SharePoint site that acts as the central hub for my whole team. The core idea is simple: everything anyone needs—resources, documents, brand assets, onboarding material, and upcoming-event details—should sit in one clean, well-structured place.
-
-Scope of the build  
-• Home landing page that instantly signals “one-stop shop” and routes users to the right zone in one click.  
-• Onboarding zone with checklists, policies, key contacts, and a place new hires can acknowledge completion.  
-• Brand zone housing approved logos, colour guides, presentation templates, and any future brand updates.  
-• Upcoming events space showing calendars, key deadlines, and announcements; ideally fed from Outlook or a shared calendar so we update once and the site reflects it automatically.  
-• Quick-link panel for every employee’s personal folder (stored in their OneDrive or a dedicated document library). Inside those folders staff must be able to drag and drop Timesheets, Invoices, and Project files without extra permission prompts.  
-
-Key requirements  
-– Clean page layouts built with modern SharePoint (no classic pages).  
-– Intuitive navigation and search so even first-time users find content fast.  
-– Proper permissions: the shared areas stay read-only for most, while each personal folder remains private to its owner and their manager.  
-– Mobile-friendly design; most of our team checks info from phones.  
-– Straightforward hand-over notes so I can maintain zones, update web parts, or add new sections after go-live.  
-
-Deliverables  
-1. Fully configured SharePoint site template ready for launch.  
-2. Documentation covering site architecture, libraries, permissions, and how to add future pages or lists.  
-3. Brief walk-through (live or recorded) showing me where and how to manage the hub.
-
-If you have experience building modern SharePoint communication or team sites that blend document management, onboarding flows, and branded resources, let’s get this rolling.</description></item>
 <item><title>Full Stack Sysop and Webmaster.  Ongoing work.  WP expert.</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Sysop-Webmaster-Ongoing</link><guid isPermaLink="false">freelancer:40713075</guid><pubDate>Tue, 15 Sep 2026 13:45:29 GMT</pubDate><description>15-25 USD/hr | Full Stack Developer For Websites Ongoing  Launch a new instance on our hosting company.  Maintain and upgradde existing sites on Hostgator</description></item>
 <item><title>Cold Email Domain Warming &amp; Outreach</title><link>https://www.freelancer.com/projects/lead-generation/Cold-Email-Domain-Warming-Outreach</link><guid isPermaLink="false">freelancer:40712990</guid><pubDate>Tue, 15 Sep 2026 12:50:47 GMT</pubDate><description>8-15 CAD/hr | I need an experienced cold-email specialist to take a fresh domain from zero to full inbox-ready status, then run a B2B lead-generation campaign that drives sign-ups through our contact forms.
 
