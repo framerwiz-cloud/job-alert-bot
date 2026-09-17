@@ -569,35 +569,6 @@ Acceptance criteria
 4. I receive a brief hand-off guide covering app settings and how to add new products.  
 
 If you have a portfolio of clean, modern Shopify builds—especially in beauty or wellness—let’s discuss timelines and milestones.</description></item>
-<item><title>Elegant Author Website Design</title><link>https://www.freelancer.com/projects/cms/Elegant-Author-Website-Design</link><guid isPermaLink="false">freelancer:40715569</guid><pubDate>Wed, 16 Sep 2026 16:31:29 GMT</pubDate><description>250-750 USD | I need an experienced web designer to build a modern, high-brow site that presents my dual professional life—published author and practising psychoanalyst—with equal weight and sophistication.
-
-Purpose &amp; feel  
-The site should effortlessly showcase my books, essays, and general thinking while inviting prospective analysands to explore my psychoanalytic approach and get in touch. Visually I’m after an elegant yet contemporary mood: clean lines, refined typography, generous whitespace, and subtle interactions that suggest confidence without feeling flashy.
-
-Core pages  
-• About the Author – a narrative-driven bio with portrait photography  
-• Psychoanalytic Approach – an engaging explanation of my method, credentials, and a clear call-to-action for consultations  
-• Publications – grid or shelf layout for books and selected papers, each with detail modals or pages  
-
-Functional requirements  
-– Responsive design that reads flawlessly on mobile, tablet, and desktop  
-– Easy-to-update CMS (WordPress, Webflow, or similar) so I can post new work without touching code  
-– SEO-ready structure and metadata  
-– Contact form routed to my practice email and optional newsletter signup  
-– GDPR-compliant cookie notice
-
-Process &amp; deliverables  
-1. Low-fidelity wireframes for layout approval  
-2. High-fidelity mock-ups reflecting agreed typography, colour palette, and micro-interactions  
-3. Fully built, tested, and deployed site with a brief style guide for future content updates  
-4. One round of post-launch tweaks (minor text or image swaps)
-
-Acceptance criteria  
-• Page speed scores above 85 on Google Lighthouse  
-• No visual glitches across Chrome, Safari, Firefox, and mobile browsers  
-• CMS tutorial (video or live call) giving me confidence to add new publications myself  
-
-If this balance of elegance and intellectual edge excites you, please share relevant portfolio links and outline your preferred stack and timeline.</description></item>
 <item><title>WordPress/Elementor Designer for PHONKLAI Website Redesign</title><link>https://www.freelancer.com/projects/elementor/WordPress-Elementor-Designer-for</link><guid isPermaLink="false">freelancer:40715533</guid><pubDate>Wed, 16 Sep 2026 16:07:22 GMT</pubDate><description>750-1500 AUD | I need an experienced WordPress/Elementor website designer to redesign my existing website for PHONKLAI Remedial &amp; Massage Therapy, an established massage clinic in Toorak, Melbourne.
 
 I want the website to have a modern, clean, professional and clinical appearance — more like an allied-health/remedial therapy clinic and NOT a traditional Thai massage or spa website.
@@ -798,6 +769,20 @@ Layered source file (PSD/AI/Affinity)
 Separate flat JPEG for Kindle eBook cover
 
 Please share past memoir/nonfiction cover work in your proposal. Budget: $150–350.</description></item>
+<item><title>Website Payment Integration &amp; Cart</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Website-Payment-Integration-Cart</link><guid isPermaLink="false">freelancer:40714271</guid><pubDate>Wed, 16 Sep 2026 04:40:55 GMT</pubDate><description>250-750 USD | I want my website to accept payments smoothly through PayPal, Stripe and a standard merchant gateway. Because I do not yet have accounts with either PayPal or Stripe, the first step will be walking me through the sign-up and verification process for each platform, making sure all business information matches what the processors require so there are no surprise holds later on.
+
+The site will sell services only, so the shopping cart can stay lean—just enough to let a visitor pick a service, see the price, and check out. Once payment clears, I need an automatic confirmation email to both the buyer and me, plus a simple dashboard or log where I can review transactions at a glance.
+
+Security and reliability are key. Please follow the usual PCI-compliant best practices, load test in a sandbox, and leave detailed notes so I can manage routine changes myself after launch.
+
+Deliverables  
+• Fully configured PayPal, Stripe and merchant account credentials connected to the site  
+• Lightweight shopping cart for service checkout  
+• Success / failure callbacks that update an order record and trigger emails  
+• End-to-end sandbox test results with screencaps or logs  
+• Clear hand-off documentation covering settings, API keys, and how to add or edit services  
+
+If you have questions about my current tech stack, let me know; I’m flexible on libraries and can give FTP or admin access as soon as we agree on the approach.</description></item>
 <item><title>Monthly Band Website &amp; FB Updates</title><link>https://www.freelancer.com/projects/web-design/Monthly-Band-Website-Updates</link><guid isPermaLink="false">freelancer:40713773</guid><pubDate>Tue, 15 Sep 2026 21:41:19 GMT</pubDate><description>15-25 USD/hr | I front a busy classic-rock band and every new booking depends on how fresh our online presence feels. Each month I’ll pass along our confirmed gig dates, the best photos from the shows, and cut-down performance clips; your job is to turn that raw material into polished updates on both our website and our Facebook page.
 
 Website  
