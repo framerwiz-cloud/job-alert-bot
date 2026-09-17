@@ -3,6 +3,46 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Search Console Index Errors</title><link>https://www.freelancer.com/projects/seo/Fix-Search-Console-Index-Errors</link><guid isPermaLink="false">freelancer:40717492</guid><pubDate>Thu, 17 Sep 2026 13:19:26 GMT</pubDate><description>250-750 USD | Our Google Search Console dashboard is lighting up with indexing problems across more than fifty pages of a site that was generated with the Cursor AI builder. The development team has delivered all front-end and back-end functionality, but they are not taking care of the SEO layer, so I now need someone who can focus exclusively on the console warnings and clear them out one by one.
+
+The console is flagging three specific issues:
+• Pages not indexed  
+• Server errors  
+• Redirect errors  
+
+Your job is to diagnose what is really causing each of those warnings, implement the required on-page or technical fixes (robots.txt, sitemap, canonical tags, status codes, internal links, etc.), and then get every affected URL successfully re-crawled and indexed. I will provide full Search Console and hosting access, along with a direct line to the client for clarifying content or structural changes.
+
+Acceptance criteria  
+1. All “Excluded” or “Error” URLs for the three issues above move to “Valid” after re-submission.  
+2. Server logs or equivalent proof show the underlying problems resolved (no 5xx or bad 3xx loops).  
+3. A short handover note explains what was changed so we can maintain it going forward.
+
+Once the console is clean we will extend the collaboration to broader on-site optimisation, so view this as the first step in a longer engagement.</description></item>
+<item><title>Shopify Store Setup &amp; Structure Professional</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-Structure</link><guid isPermaLink="false">freelancer:40717489</guid><pubDate>Thu, 17 Sep 2026 13:18:06 GMT</pubDate><description>18-36 EUR/hr | Shopify Freelancer – Store Setup &amp; Structure
+
+We are looking for an experienced Shopify freelancer to build the basic technical and structural setup of our online store.
+
+A Shopify account and an existing theme/template are already in place. We are not looking for a fully custom-built store or a new design from scratch. The goal is to professionally set up and customize the existing theme so that we can easily add and manage products, images, and content ourselves afterwards.
+
+Scope of work:
+
+Set up and configure the existing Shopify theme
+Create a clear and user-friendly store structure and navigation
+Set up the main pages, e.g. Homepage, Shop, Collections, Product Pages, About, Contact
+Set up header, footer, menus, and navigation
+Create a consistent structure for product and collection pages
+Configure essential Shopify settings and functionalities
+Optimize the basic setup for desktop and mobile
+Implement or recommend necessary Shopify apps, if required
+Ensure basic SEO-friendly page structure
+Prepare the store so that our team can easily add and maintain products and content
+Provide a short handover/introduction to the Shopify setup
+
+Branding, design direction, copy, and imagery will generally be provided by us. We are looking for someone who can translate these into a clean, functional, and well-structured Shopify store based on the existing theme.
+
+Ideal experience: Strong Shopify experience, particularly in setting up and customizing existing themes, a good understanding of e-commerce UX, and the ability to work independently and efficiently.
+
+Project goal: A fully structured and technically set-up Shopify store that is ready for us to populate with final content and products and can easily be managed by our team going forward.</description></item>
 <item><title>Minimalist Shopify Service Website</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Shopify-Service-Website</link><guid isPermaLink="false">freelancer:40717469</guid><pubDate>Thu, 17 Sep 2026 13:02:11 GMT</pubDate><description>250-750 EUR | I’m moving my service-based business onto Shopify and need a clean, minimalistic site that positions the brand clearly and professionally. The store function itself can stay disabled for now; the priority is a streamlined information hub that explains what we do and encourages visitors to reach out.
 
 Here’s what I have in mind: the homepage should introduce the brand at a glance, followed by dedicated sections for concise service descriptions. I’d like each service to have its own sub-page or expandable module so users don’t get lost in long blocks of text. A simple, well-placed contact or “Request a Quote” form is essential, and a lightweight blog area for occasional updates would be a bonus if it fits naturally within the theme.
@@ -683,47 +723,6 @@ We are seeking help to upgrade our website, with an emphasis on building in flex
 Our website needs to be in multiple languages to accommodate our many regions.
 
 One of our regions developed an e-commerce site outside of our parent platform - I'd like to explore if we can bring their e-commerce needs under the umbrella of this new site as well. It's not the highest priority, but if there's functionality to allow us to do that, the better.</description></item>
-<item><title>WordPress Speed &amp; SEO Overhaul</title><link>https://www.freelancer.com/projects/google-analytics/WordPress-Speed-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40713687</guid><pubDate>Tue, 15 Sep 2026 20:39:30 GMT</pubDate><description>8-15 USD/hr | My WordPress site needs a rapid, end-to-end tune-up so it loads lightning-fast, ranks higher, and drives more orders—ideally hitting 95+ on Google PageSpeed Insights. On-page SEO is the priority, but I also want stronger local visibility and a smoother sales funnel that feeds directly into Clover for online ordering.
-
-Here’s what I’m aiming for:
-
-• Performance &amp; UX  
-  – Lighthouse / PageSpeed score of 95 or better on both mobile and desktop  
-  – Clean Core Web Vitals (LCP, FID, CLS all in the green)  
-  – No breakage across popular browsers and responsive breakpoints  
-
-• SEO &amp; Content  
-  – Tight on-page optimisation: titles, schema, internal links, image alt text, and keyword-aligned copy  
-  – Local SEO tweaks so the business shows up in the 3-pack for our main keywords  
-  – Tracking set up in Google Analytics 4 and Search Console for ongoing monitoring  
-
-• Clover Integration  
-  – Native or API-based ordering flow from the site straight to Clover without third-party widgets that slow things down  
-  – Menu sync and test transactions to confirm reliability  
-
-• Digital Marketing Basics  
-  – Branded social pages (Facebook, Instagram, X) connected to the site for easy sharing  
-  – A Mailchimp—or similar—email list ready to capture leads, with one welcome automation in place  
-  – Simple loyalty programme touchpoint at checkout to start collecting repeat-purchase data  
-
-Acceptance criteria  
-1. PageSpeed Insight score ≥95 after cache clear  
-2. All primary pages pass Core Web Vitals in Search Console  
-3. Test order successfully lands in Clover dashboard  
-4. At least one scheduled social post and one email automation in place, both pulling cleanly from onsite content  
-5. Full hand-off document outlining what was changed and how to maintain results  
-
-To move quickly (I’d like this done ASAP), you’ll need:  
-– WordPress admin and hosting panel access  
-– Clover merchant API credentials  
-– Any premium plugin licences you prefer to use (e.g., WP Rocket, Rank Math Pro) if they aren’t already installed  
-
-When you reply, please include:  
-• Two or three live WordPress sites you’ve pushed to 90+ PageSpeed with similar SEO work  
-• A brief outline of your process and estimated timeline  
-• Anything else you’ll need from my side to start right away  
-
-Looking forward to collaborating and seeing this site finally perform the way it should.</description></item>
 <item><title>SharePoint Team Hub Development</title><link>https://www.freelancer.com/projects/web-development/SharePoint-Team-Hub-Development</link><guid isPermaLink="false">freelancer:40713524</guid><pubDate>Tue, 15 Sep 2026 18:23:03 GMT</pubDate><description>250-750 CAD | I want a single SharePoint site that acts as the central hub for my whole team. The core idea is simple: everything anyone needs—resources, documents, brand assets, onboarding material, and upcoming-event details—should sit in one clean, well-structured place.
 
 Scope of the build  
@@ -756,20 +755,6 @@ Deliverables
 • A quick style guide outlining fonts, color codes and spacing rules so I can extend the look in future updates
 
 I’ll supply logos, product imagery and any copy as soon as we kick off; feel free to suggest tighter wording or layout tweaks if it will improve clarity. Let’s create banners that look fresh and modern while giving visitors exactly the product information they came for.</description></item>
-<item><title>Minimalistic Blog Website Design</title><link>https://www.freelancer.com/projects/web-design/Minimalistic-Blog-Website-Design</link><guid isPermaLink="false">freelancer:40713207</guid><pubDate>Tue, 15 Sep 2026 15:03:20 GMT</pubDate><description>750-1500 GBP | I'm looking for a talented web designer to create a minimalistic exterior cleaning website. The primary focus of the site will be services.
-
-Key requirements:
-- Design a clean, user-friendly layout that emphasizes readability and a seamless user experience.
-- Incorporate a minimalistic design aesthetic with a focus on simplicity and elegance.
-
-Ideal skills and experience:
-- Proven experience in designing minimalistic websites, particularly for blogs.
-- Strong portfolio showcasing previous work.
-- Proficiency in HTML, CSS, and popular content management systems (CMS) like WordPress.
-- Ability to create responsive designs that work well on both desktop and mobile devices.
-- Excellent communication skills for collaboration and feedback.
-
-Please include examples of your previous work in your bids. Looking forward to your proposals!</description></item>
 <item><title>Full Stack Sysop and Webmaster.  Ongoing work.  WP expert.</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Sysop-Webmaster-Ongoing</link><guid isPermaLink="false">freelancer:40713075</guid><pubDate>Tue, 15 Sep 2026 13:45:29 GMT</pubDate><description>15-25 USD/hr | Full Stack Developer For Websites Ongoing  Launch a new instance on our hosting company.  Maintain and upgradde existing sites on Hostgator</description></item>
 <item><title>Cold Email Domain Warming &amp; Outreach</title><link>https://www.freelancer.com/projects/lead-generation/Cold-Email-Domain-Warming-Outreach</link><guid isPermaLink="false">freelancer:40712990</guid><pubDate>Tue, 15 Sep 2026 12:50:47 GMT</pubDate><description>8-15 CAD/hr | I need an experienced cold-email specialist to take a fresh domain from zero to full inbox-ready status, then run a B2B lead-generation campaign that drives sign-ups through our contact forms.
 
