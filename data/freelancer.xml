@@ -3,6 +3,41 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern Church Website Development</title><link>https://www.freelancer.com/projects/cms/Modern-Church-Website-Development</link><guid isPermaLink="false">freelancer:40716602</guid><pubDate>Thu, 17 Sep 2026 05:22:59 GMT</pubDate><description>250-750 USD | I need a modern and clean website built for St. Paul Missionary Baptist Church that my team can easily maintain once it is launched at www.spmbchfl.org. The design should carry our church logo and color palette throughout and feel welcoming on both desktop and mobile.
+
+Core pages and sections
+• About Us  
+• Our Pastor  
+• Our Mission  
+• Our Future  
+• Our Members  
+• Upcoming Events  
+• Word from the Pastor  
+• Member of the Month  
+• Inspirational Message of the Week  
+• Prayer Line  
+• Sick and Shut In  
+• Announcements  
+• Need a Ride  
+• Contact Us  
+
+Key functionality
+• Live streaming of services so members can watch in real-time  
+• A secure donation portal for tithes and offerings (credit/debit and PayPal preferred)  
+
+Technical notes
+• Build on a user-friendly CMS such as WordPress, Webflow, or another platform that allows non-technical staff to update text, photos, events, and sermons without coding.  
+• Integrate our existing social media links and make sharing simple.  
+• Optimize for fast load times, accessibility, and SEO best practices.  
+• Provide clear hand-off documentation: admin credentials, plugin list, style guide (colors, fonts), and a short video walkthrough or written manual that shows how to add new content, update livestream links, and process online gifts.
+
+Acceptance criteria
+1. All pages above are live, styled consistently, and linked in the main navigation.  
+2. Livestream and donation features are tested end-to-end on desktop and mobile.  
+3. Staff can add a new announcement and publish it successfully during hand-off.  
+4. Final site passes Google PageSpeed “green” scores and basic accessibility checks.  
+
+I will supply the logo files and photos of the pastor once we begin.</description></item>
 <item><title>Wheelchair-Friendly Senior Community Development</title><link>https://www.freelancer.com/projects/accessibiliy/Wheelchair-Friendly-Senior-Community</link><guid isPermaLink="false">freelancer:40714284</guid><pubDate>Thu, 17 Sep 2026 02:24:58 GMT</pubDate><description>5000-10000 USD | I'm seeking an experienced developer to create a new homestead community in Texas for seniors. We're focusing on building single-family homes that are wheelchair-friendly.
 
 Key requirements include:
@@ -686,22 +721,6 @@ I am open to Gutenberg, Elementor, Bricks or another suitable solution, provided
 Please share examples of recent WordPress websites you have built, preferably for engineering, technology, energy, architecture or professional consulting businesses. Please also indicate your proposed approach, estimated timeline and what you would need from me to start.
 
 The attached image is a visual concept/reference for the desired look and feel. It is not intended as a pixel-perfect final layout. The website content, images, texts and graphic elements will be provided separately.</description></item>
-<item><title>SDK Design for Photo Editing</title><link>https://www.freelancer.com/projects/ui-design/SDK-Design-for-Photo-Editing</link><guid isPermaLink="false">freelancer:40711932</guid><pubDate>Tue, 15 Sep 2026 03:11:10 GMT</pubDate><description>250-750 USD | I'm looking for an experienced developer to design an SDK for my website that allows users to take, edit, and filter their pictures. 
-
-The editing tools should include:
-- Crop and resize
-- Exposure and color adjustments
-- Add text and stickers
-
-The design should be modern and minimalist.
-
-Ideal skills and experience:
-- Strong background in SDK development
-- Experience with photo editing tools
-- UI/UX design skills for a modern look
-- Familiarity with web development
-
-Please provide examples of similar work done.</description></item>
 <item><title>Fix Website Menu Functionality</title><link>https://www.freelancer.com/projects/website-development/Fix-Website-Menu-Functionality</link><guid isPermaLink="false">freelancer:40711613</guid><pubDate>Mon, 14 Sep 2026 22:02:31 GMT</pubDate><description>15-25 CAD/hr | My site’s main navigation has stopped behaving and the pages are all messed up. It was made on Wordpress and hosted on Hostinger. I need someone who is an expert on figuring out what the problem is and fixing it. 3 sites are affected by this. There is future work possibility.</description></item>
 <item><title>Web App User Dashboard Wireframing</title><link>https://www.freelancer.com/projects/ui-design/Web-App-User-Dashboard-Wireframing</link><guid isPermaLink="false">freelancer:40709710</guid><pubDate>Mon, 14 Sep 2026 03:23:11 GMT</pubDate><description>25-50 AUD/hr | I'm looking for an experienced designer to create detailed wireframes for a user dashboard on a web application, based on provided hi-fi UX designs. 
 
