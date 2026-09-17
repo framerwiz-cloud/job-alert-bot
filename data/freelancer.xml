@@ -3,18 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Home Improvement Services Website</title><link>https://www.freelancer.com/projects/web-design/Home-Improvement-Services-Website</link><guid isPermaLink="false">freelancer:40718183</guid><pubDate>Thu, 17 Sep 2026 20:37:30 GMT</pubDate><description>1500-3000 USD | I run a home-improvement company that specialises in renovations and remodelling, and I need a clean, modern website whose sole focus is to showcase those services clearly and persuasively.  
+<item><title>IntimateMD Site &amp; Ad Launch</title><link>https://www.freelancer.com/projects/web-development/IntimateMD-Site-Launch</link><guid isPermaLink="false">freelancer:40718196</guid><pubDate>Thu, 17 Sep 2026 20:54:48 GMT</pubDate><description>15-25 USD/hr | I’m ready to take intimateMD.com from concept to conversion. The core of the project is a clean, professional, minimalistic website that makes it effortless for visitors to browse and buy our telehealth-related products. I’ll supply brand guidelines, product details, and copy; I’m counting on you to translate that into a fast, mobile-first storefront with intuitive navigation, secure checkout, and HIPAA-compliant intake where needed.
 
-Here’s what I expect:  
-• A visually engaging homepage that immediately communicates our renovation and remodelling expertise.  
-• Dedicated service pages outlining what we do, our process, and the value we bring.  
-• Simple, intuitive navigation and a responsive layout that looks great on mobile, tablet, and desktop.  
-• Clear calls-to-action and an easy-to-use contact form so prospects can request a quote without friction.  
-• Basic on-page SEO setup (titles, meta descriptions, alt text) so we start on the right foot with search engines.  
+Once the site is live, I want immediate traction through highly targeted Social Media Ads. Your role is to plan, build, and optimize campaigns on the major social platforms, install tracking pixels, and set up retargeting so every ad dollar drives measurable sales. If future expansion into Google Ads or email funnels makes sense, I’m open to your recommendations—right now, however, social channels are the priority.
 
-Feel free to recommend the platform or stack you’re most comfortable with (WordPress, Webflow, custom code—open to suggestions). All copy, images, and icons can be placeholder if needed; I’ll swap in final content before launch.  
+Key deliverables  
+• Fully designed and developed intimateMD.com (WordPress, Shopify, or a stack you recommend)  
+• E-commerce setup with payment gateway, product pages, and essential legal/telehealth disclaimers  
+• Speed, SEO, and analytics configuration (GA4, Meta pixel, etc.)  
+• Launch and management of initial social ad campaigns, including creative, copy, and A/B tests  
+• Clear reporting on spend, clicks, and conversions tied back to the site
 
-Once the site is approved on a staging link, I’ll need the files or credentials transferred to my domain/hosting so we can go live smoothly. Looking forward to seeing how you can turn our renovation expertise into an online presence that converts visitors into enquiries.</description></item>
+Success looks like a polished site that converts and a paid traffic engine that hits agreed sales targets within the first month. If you can own both halves of this launch, let’s talk timelines and milestones so we can open the digital doors of intimateMD.com.</description></item>
 <item><title>Luxury Jewelry Shopify Store Build</title><link>https://www.freelancer.com/projects/shopify-site/Luxury-Jewelry-Shopify-Store-Build</link><guid isPermaLink="false">freelancer:40717954</guid><pubDate>Thu, 17 Sep 2026 17:48:38 GMT</pubDate><description>250-750 USD | I run a diamond and fine-jewelry brand and need a sophisticated online storefront built on Shopify, my preferred platform. The site must look and feel luxurious, load quickly, and make it effortless for visitors to browse collections, study detailed specifications, and check out with complete confidence.
 
 What I need you to handle  
@@ -777,6 +777,20 @@ Layered source file (PSD/AI/Affinity)
 Separate flat JPEG for Kindle eBook cover
 
 Please share past memoir/nonfiction cover work in your proposal. Budget: $150–350.</description></item>
+<item><title>Website Payment Integration &amp; Cart</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Website-Payment-Integration-Cart</link><guid isPermaLink="false">freelancer:40714271</guid><pubDate>Wed, 16 Sep 2026 04:40:55 GMT</pubDate><description>250-750 USD | I want my website to accept payments smoothly through PayPal, Stripe and a standard merchant gateway. Because I do not yet have accounts with either PayPal or Stripe, the first step will be walking me through the sign-up and verification process for each platform, making sure all business information matches what the processors require so there are no surprise holds later on.
+
+The site will sell services only, so the shopping cart can stay lean—just enough to let a visitor pick a service, see the price, and check out. Once payment clears, I need an automatic confirmation email to both the buyer and me, plus a simple dashboard or log where I can review transactions at a glance.
+
+Security and reliability are key. Please follow the usual PCI-compliant best practices, load test in a sandbox, and leave detailed notes so I can manage routine changes myself after launch.
+
+Deliverables  
+• Fully configured PayPal, Stripe and merchant account credentials connected to the site  
+• Lightweight shopping cart for service checkout  
+• Success / failure callbacks that update an order record and trigger emails  
+• End-to-end sandbox test results with screencaps or logs  
+• Clear hand-off documentation covering settings, API keys, and how to add or edit services  
+
+If you have questions about my current tech stack, let me know; I’m flexible on libraries and can give FTP or admin access as soon as we agree on the approach.</description></item>
 <item><title>Monthly Band Website &amp; FB Updates</title><link>https://www.freelancer.com/projects/web-design/Monthly-Band-Website-Updates</link><guid isPermaLink="false">freelancer:40713773</guid><pubDate>Tue, 15 Sep 2026 21:41:19 GMT</pubDate><description>15-25 USD/hr | I front a busy classic-rock band and every new booking depends on how fresh our online presence feels. Each month I’ll pass along our confirmed gig dates, the best photos from the shows, and cut-down performance clips; your job is to turn that raw material into polished updates on both our website and our Facebook page.
 
 Website  
