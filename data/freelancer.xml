@@ -3,6 +3,47 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
+
+Category: Web Development / Web App Development
+
+Budget Type: Fixed price (quotes requested) or Hourly
+
+Project Description:
+
+I'm building a paid-access web portfolio platform for clinical professionals, primarily aimed at international doctors arriving in the UK who currently have no way to organise their credentials and clinical evidence in one place. The platform should also be usable by any member of the clinical team — nurses, allied health professionals, medical students (pre-grad and postgrad).
+
+Think of it as similar in spirit to existing medical e-portfolio tools (comparable to platforms like the NHS e-Portfolio / "Turas"-style tools, or "14Fish"), but:
+- Subscription or one-off payment to access, built as the flagship feature of a wider brand (Octavia)
+- Designed to expand later into a course marketplace and locum agency platform (not now — see Phase 2 below)
+
+Phase 1 scope (what I need built now):
+- User registration/login system (individual accounts)
+- Payment integration (Stripe or similar) — gating access to the portfolio tool behind a subscription or one-time fee; open to your recommendation on which pricing model suits the build best
+- A personal portfolio dashboard where users can:
+  - Upload and store certificates (PDF/image upload, categorised — e.g. BLS, ALS, safeguarding levels 1–3, infection control, moving and handling, consent and capacity, Oliver McGowan training, etc.)
+  - Write free-text portfolio entries/reflections (date-stamped, editable)
+  - View/download/export their own certificate list and entries
+- Clean, professional medical/clinical aesthetic — trustworthy, simple, not cluttered
+- Mobile-responsive
+- Basic admin backend for me to see user counts, subscriptions/payments, and manage the platform
+
+Phase 2 (future, not part of this build — please design with this in mind for extensibility):
+- Paid course marketplace (BLS, ALS, safeguarding, infection control, etc.)
+- Locum agency functionality
+- Academy/CPD tracking tied to course completions
+
+What I need from freelancers bidding:
+- Relevant experience with web apps involving user accounts, payment integration, file uploads, and dashboards
+- Suggested tech stack and why
+- Recommended payment/pricing model (subscription vs. one-off) and why
+- Fixed price estimate for Phase 1 only, and rough estimate for what Phase 2 might add later
+- Timeline estimate
+- Portfolio/examples of similar platforms you've built
+
+Notes:
+- Data privacy matters — this will hold personal certificates, career documents, and payment data, so secure storage/auth and PCI-compliant payment handling are essential
+- Please build with scalability in mind since Phase 2 will add more course commerce and complex user roles</description></item>
 <item><title>Full-Stack Developer to Build a Restaurant Management SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Developer-Build-Restaurant</link><guid isPermaLink="false">freelancer:40719778</guid><pubDate>Fri, 18 Sep 2026 16:29:24 GMT</pubDate><description>250-750 USD | I’m looking for an experienced full-stack developer to build a restaurant management SaaS platform from the ground up.
 The idea is to create a platform where multiple restaurants can sign up and manage their operations from one place. For example, a restaurant owner should be able to manage their menu, tables, orders, staff, and view their sales from a central dashboard.
 This will be a multi-tenant SaaS, so each restaurant should have its own account, data, settings, and users while everything is managed through the same platform.
