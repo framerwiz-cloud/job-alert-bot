@@ -3,22 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>WHMCS HTML Email Template Creation -- 2</title><link>https://www.freelancer.com/projects/php/WHMCS-HTML-Email-Template-Creation</link><guid isPermaLink="false">freelancer:40721209</guid><pubDate>Sat, 19 Sep 2026 13:35:17 GMT</pubDate><description>8-15 AUD/hr | I am overhauling the automated service-related emails that leave our WHMCS installation and I need someone who already knows every quirk of WHMCS’s template engine. All work will be billed hourly, as I expect several iterations and live tests while we slot the new code into production.
-
-Scope of work  
-We currently need three modern, clean HTML templates, each fully compatible with WHMCS merge tags and styling constraints:  
-• Account setup notification  
-• Payment confirmation receipt  
-• Service suspension notice  
-
-Each template must:  
-• Render perfectly in the major desktop and mobile email clients (Outlook, Gmail, Apple Mail, etc.)  
-• Use inline CSS, table-based layouts, and WHMCS smart tags so variables pull in correctly.  
-• Pass basic spam-filter checks and display a graceful text-only fallback.  
-
-I will supply logo, brand colours, and any copy blocks you require. You will handle design, coding, and in-app testing inside a staging environment, then walk me through importing and activating the templates.
-
-If you have proven, hands-on WHMCS email experience and can start right away, let’s move forward by the hour.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
