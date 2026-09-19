@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full-Stack Next.js Developer For Chauffeur Website Overhaul</title><link>https://www.freelancer.com/projects/nextjs/Full-Stack-Next-Developer-For-40721618</link><guid isPermaLink="false">freelancer:40721618</guid><pubDate>Sat, 19 Sep 2026 18:15:53 GMT</pubDate><description>250-750 USD | We are seeking an experienced Full-Stack Next.js Developer to rebuild, modernize, and deploy our luxury private transportation and chauffeur website.
+
+The goal is to replace a legacy WordPress installation with a fast, high-performance web application built using Next.js (App Router) and Tailwind CSS, paired with a lightweight admin CMS/dashboard for content and reservation leads, delivered fully deployed on our Linux VPS.
+
+Scope of Work &amp; Deliverables
+1. Public High-End Website
+Architecture: Next.js (App Router), TypeScript, and Tailwind CSS.
+
+Pages &amp; Flow: Replicate and elevate existing site design across core pages: Home, Fleet, Services, About Us, and Booking/Inquiry.
+
+Fleet Showcase: Dynamic vehicle catalog with specs (passenger limits, luggage capacity, class) and optimized image delivery (next/image).
+
+Reservation Inquiry System: Multi-step or clean validated booking form capturing pickup/drop-off locations, dates/times, passenger count, and vehicle choice.
+
+Performance &amp; SEO: Semantic markup, dynamic OpenGraph/meta tags, and a target 90+ score on Google Lighthouse across mobile and desktop.
+
+Responsiveness: Pixel-perfect adaptability across mobile, tablet, and wide screens.
+
+2. Admin CMS &amp; Lead Management
+Authentication: Secure admin authentication (credentials/session management).
+
+Fleet &amp; Content CRUD: Intuitive interface to add, edit, or delete fleet vehicles, pricing tiers/specs, and core site content.
+
+Lead / Booking Viewer: Searchable, filterable table to track, review, and manage inbound booking inquiries.
+
+Database: Structured relational schema managed via Prisma ORM (PostgreSQL or SQLite).
+
+3. Production VPS Deployment &amp; Handover
+Server Environment: Full production rollout on an Ubuntu Linux VPS.
+
+Runtime &amp; Proxy: Process management via PM2 (or Docker) behind an Nginx reverse proxy with gzip/brotli compression.
+
+Security &amp; SSL: Automated SSL via Let's Encrypt (Certbot) and basic firewall configuration (UFW).
+
+Repository &amp; Docs: Clean Git repository with documented environment variables (.env.example) and a straightforward README for maintenance.
+
+Budget &amp; Payment Milestone
+Contract Type: Fixed Price</description></item>
 <item><title>Digital Marketing for Independent Restaurant</title><link>https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-for-Independent</link><guid isPermaLink="false">freelancer:40717519</guid><pubDate>Sat, 19 Sep 2026 15:36:19 GMT</pubDate><description>8-15 USD/hr | Looking for an experienced freelancer or small agency to manage digital marketing for a single-location independent restaurant. Tasks include Google Business Profile optimization, local SEO, WordPress website updates, setting up direct online ordering, email/SMS marketing, social media posting, review generation, and simple monthly reporting. You will be expected to recommend and implement the most suitable tools and platforms for these tasks, as I lack experience in this area.
 
 Note: All accounts, platforms, customer lists, website, domain, Google profiles, and marketing tools must be owned by the restaurant. Freelancer/agency will only be added as admin or manager.
@@ -718,66 +756,6 @@ Ideal Skills and Experience:
 - Ability to create community-oriented designs.
 
 Looking forward to your proposals!</description></item>
-<item><title>Revamp Static Website with Template System</title><link>https://www.freelancer.com/projects/accessibiliy/Revamp-Static-Website-with-Template</link><guid isPermaLink="false">freelancer:40716331</guid><pubDate>Thu, 17 Sep 2026 02:19:13 GMT</pubDate><description>750-1500 AUD | Website Rebuild Brief
-We're looking for a freelancer to fix a website problem. Our site used to run on templates that kept every page consistent. When it got exported to static HTML and moved to its current host, we lost that template system.  We want someone to rebuild the site with a proper template system underneath it, so the design stays consistent by default, and so our own team can update content without needing a developer for every change.
-The problem
-Our site has about 10 pages: a homepage, a handful of location pages, a few service pages, and a contact page. It used to run on a CMS with templates, where the templates kept every page looking and behaving the same.
-The site was exported to static HTML and pushed to a git-based host. That export process flattened everything into separate, standalone HTML files. There's no shared template underneath them anymore. Each page is now its own island, and the page layouts and UI have started to drift apart because there's nothing tying them together.
-To be clear: our branding (colours, fonts, logo) is fine as it is. The problem is the page design and UI itself. Layouts, navigation, and components are inconsistent from page to page and, honestly, look dated and rough. We want the rebuild to fix that, on top of the missing template layer.
-What's in scope
-• Rebuild the site using a static site generator (we're picturing Eleventy, but we're open to your recommendation if you've got a good reason)
-• Identify the repeating page types across our 10 pages (homepage, location page, service page, contact page, etc.) and build one template per type
-• Redesign the page layouts and UI components (navigation, headers, cards, forms, footer, etc.) so they're clean and consistent across every page type. Keep our current colours, fonts, and logo. Fix the layout and component design, not the brand itself.
-• Move page content out of hard-coded HTML and into simple content files (Markdown or a similar plain format) that templates pull from
-• Write a one-page reference doc capturing our current brand basics (colours, fonts, logo use) so it's documented, plus the new layout and component patterns
-• Set up the project so it deploys to our current host the same way it does now
-• Document how someone on our team edits content and pushes a change, using an AI coding assistant and a pull request
-What's out of scope
-• Moving our existing page content into the new system. Our team does that ourselves once the system's built.
-• A CMS, admin panel, or login-based editing tool of any kind. We're editing through an AI coding assistant and pull requests.
-• Any of our other websites or brands. This project is one site only.
-• New copywriting or photography. We're only talking about structure, layout, and system, not new content.
-• Changing our colours, fonts, or logo. Those stay as they are.
-Deliverables
-1. Rebuilt site (static site generator, deployed to our current host, matching current URLs where possible)
-2. Redesigned templates for each repeating page type, using our current brand but with cleaned-up, consistent layouts and UI components
-3. A one-page reference doc: current brand basics plus the new layout and component patterns
-4. Sample content files showing how a page's content is structured, so our team has a clear pattern to follow
-5. A short written guide for our team: how to edit a content file, preview the change, and push it live using an AI coding assistant and a pull request
-6. A short handover call to walk us through it
-Technical approach
-• Static site generator: Eleventy is our starting suggestion. It builds plain HTML from templates and content files, needs no server or database, and deploys straight to a static host the way our site already does.
-• Hosting: stays where it is now, no change to how the site is served.
-• Content editing: content lives in Markdown or a similar plain-text format, one file per page (or per section of a page). No database, no admin login.
-• Workflow: someone on our team opens a content file, makes the edit (using an AI coding assistant where helpful), commits the change, and opens a pull request. We're comfortable with that. We just want it to be a content edit, not a code edit.
-How we'll work together
-We'll give you access to the current repo and point you to the live site. We're happy to hop on a call at the start to walk through the current pages and answer questions.
-We'd like a short check-in partway through, once the templates are taking shape, before you build out all of them. That way we can catch anything off-brand early rather than at the end.
-One of us currently manages the repo day to day and will be your main point of contact for anything technical.
-A few more conditions for this to work:
-• We work in AEST. Please keep that in mind for call times and response windows.
-• We'd like documentation handed over at the end, not just working code.
-• We'll collaborate through MS Teams.
-• Before you start building, we'll do a 1.5 hour discovery and planning call together.
-• Payment is through Freelancer, in milestones. We'll agree on the milestones together on that first call.
-Sound fair?
-Timeline
-Four weeks, start to finish. A rough shape we'd expect:
-Week
-Focus
-1
-Review current site, propose template structure and brand guide direction
-2
-Build templates, check in with us
-3
-Finish templates, set up content files and deployment
-4
-Handover documentation, walk-through call, wrap up
-Budget
-$1,000 AUD total for the scope above. If you think that's tight for the work involved, tell us honestly and we'll figure out where to flex, either on scope or budget, before you start rather than partway through.
-Who we're looking for
-Someone comfortable with static site generators (Eleventy or similar), Git and GitHub, and who can look at an existing site and pull a clean, consistent design system out of it rather than starting from a blank template. Industry experience isn't required. What matters more is that you're tidy, you document what you build, and you can explain your setup clearly enough that a non-developer can follow it.
-If you've done this kind of "untangle a static site into templates" work before, tell us about it when you apply.</description></item>
 <item><title>Part-Time E-Commerce Site Development</title><link>https://www.freelancer.com/projects/web-development/Part-Time-Commerce-Site-Development</link><guid isPermaLink="false">freelancer:40715990</guid><pubDate>Wed, 16 Sep 2026 21:15:35 GMT</pubDate><description>8-20 CAD/hr | I run several small online stores that serve customers across the United States and Canada, and I need ongoing, part-time help from a web developer to keep them running smoothly and growing.
 
 Here is what the work involves:
