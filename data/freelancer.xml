@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full-Stack Developer for Recruiting SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Developer-for-Recruiting</link><guid isPermaLink="false">freelancer:40720775</guid><pubDate>Sat, 19 Sep 2026 08:18:21 GMT</pubDate><description>150-450 EUR | We are looking for an experienced Senior Full-Stack Developer or a small professional development team to redesign and further develop an existing multi-tenant recruiting SaaS platform.
+
+The platform already has a working codebase and must not be rebuilt from scratch. Existing functions, data structures, and workflows must be reviewed and preserved.
+
+The project includes:
+
+* Complete UI and UX relaunch
+* Candidate, company, contact, project, and talent-pool management
+* German and English language support
+* Microsoft Outlook Add-in and Microsoft 365 integration
+* Email and calendar synchronization
+* Secure CV processing and irreversible candidate anonymization
+* Customer shortlists and protected profile-sharing links
+* AI-supported candidate matching and search
+* Sales pipeline, tasks, activities, and time tracking
+* Professional invoicing with ZUGFeRD support
+* Administration-area redesign
+* Server security, tenant isolation, and DDoS protection
+
+The developer should have strong experience with Next.js, TypeScript, backend development, databases, SaaS architecture, Microsoft Graph, OAuth, document processing, and application security.
+
+A detailed German and English development specification is available and will be provided to suitable candidates.
+
+Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
 <item><title>Modern Webflow Portfolio Site Build</title><link>https://www.freelancer.com/projects/webflow/Modern-Webflow-Portfolio-Site-Build</link><guid isPermaLink="false">freelancer:40720605</guid><pubDate>Sat, 19 Sep 2026 06:22:58 GMT</pubDate><description>250-750 USD | I need a Webflow expert to translate my design vision into a sleek, modern portfolio site. The project calls for roughly 30 pages—think home, about me, contact, and a full collection of project and case-study pages—each one consistent in style, responsive across devices, and optimised for fast loading.
 
 I have the visual direction mapped out: clean typography, generous white space, subtle interactions, and a contemporary colour palette. Your job is to build this directly in Webflow, set up the CMS for easy content updates, and ensure every page is properly linked, SEO-ready, and accessible.
@@ -748,16 +772,6 @@ Demonstrated track record with YouTube SEO, metadata structuring, and channel gr
 
 How to Apply:
 Please share links to past AI integration projects, live websites you have built, or YouTube channels you have optimized. State your estimated timeline for complete delivery within our $500 fixed budget.</description></item>
-<item><title>Minimalist Portfolio Site Creation</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Portfolio-Site-Creation</link><guid isPermaLink="false">freelancer:40716172</guid><pubDate>Wed, 16 Sep 2026 23:53:46 GMT</pubDate><description>250-750 USD | I’m ready to bring my work online with a sleek, minimalist portfolio that feels modern rather than bare. I have the domain and hosting in place; what I need now is a designer-developer who can translate my ideas into an elegant, responsive site and also guide me on the features that will make it memorable.
-
-Core requirement  
-• A dedicated section for client testimonials that I can update easily without touching code.
-
-Beyond that, I’m keen to hear your creative suggestions—smart ways to showcase projects, subtle animation, or any interactive touch that fits a minimalist aesthetic without clutter. A contact form or image gallery could make sense if implemented with restraint, and I’m happy to discuss those possibilities after I see your concepts.
-
-Please share a brief outline of how you would structure the site, the tech stack you prefer (React, Next.js, WordPress, Webflow—whatever suits a fast, lightweight build), and a couple of links to similar minimalist sites you’ve produced. Clear milestones for design mock-ups, development, and final hand-off—including basic CMS instructions—will help me choose quickly.  
-
-Looking forward to your ideas and a clean, polished result.</description></item>
 <item><title>Part-Time E-Commerce Site Development</title><link>https://www.freelancer.com/projects/web-development/Part-Time-Commerce-Site-Development</link><guid isPermaLink="false">freelancer:40715990</guid><pubDate>Wed, 16 Sep 2026 21:15:35 GMT</pubDate><description>8-20 CAD/hr | I run several small online stores that serve customers across the United States and Canada, and I need ongoing, part-time help from a web developer to keep them running smoothly and growing.
 
 Here is what the work involves:
