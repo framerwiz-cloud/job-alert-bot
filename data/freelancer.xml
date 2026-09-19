@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Claude-Powered Web Dev Platform</title><link>https://www.freelancer.com/projects/web-development/Claude-Powered-Web-Dev-Platform</link><guid isPermaLink="false">freelancer:40721877</guid><pubDate>Sat, 19 Sep 2026 23:08:33 GMT</pubDate><description>250-750 USD | I am building a Claude-driven workflow that lets me spin up and maintain polished, SEO-ready websites—primarily blogs and other informational sites—for remodelers, contractors, home-service companies, law firms, and similar local businesses. The core of the job is to wire Claude into a repeatable development pipeline that:
+
+• Generates a full site structure and initial content on command  
+• Lets me edit or expand pages through natural-language prompts  
+• Publishes to hosting with a single action, handling version control behind the scenes  
+• Bakes in on-page SEO checks and recommendations before every deploy  
+• Provides an easy web-based CMS for non-technical updates
+
+Design quality matters as much as the tech. Every theme you help me create must load fast, look modern and clean, stay fully responsive on mobile, and support straightforward brand tweaks (colors, fonts, logo swaps).
+
+Acceptance criteria  
+1. End-to-end demo: I type a prompt, the system produces a live site served from my own infrastructure.  
+2. Built-in modules for meta tags, schema, and headline analysis confirm SEO readiness.  
+3. CMS interface is intuitive enough that a VA with basic web literacy can update text or images.  
+4. Deployment logs and rollback options are exposed for troubleshooting.  
+5. Clear documentation shows how to extend templates or plug in additional Claude prompts.
+
+If you have previous experience connecting LLMs to static-site generators, headless CMSs, or custom automation scripts, I’d love to see it. Let’s make website creation as simple as having a conversation with Claude.</description></item>
 <item><title>Real Estate Listing Website Development</title><link>https://www.freelancer.com/projects/cms/Real-Estate-Listing-Website-Development</link><guid isPermaLink="false">freelancer:40721846</guid><pubDate>Sat, 19 Sep 2026 22:19:32 GMT</pubDate><description>1500-3000 GBP | I'm looking for a skilled developer to create a comprehensive real estate listing website. 
 
 Key Requirements:
@@ -708,23 +726,6 @@ Ideal Skills and Experience:
 - Knowledge of SEO best practices
 
 Please provide samples of previous work and estimated timelines.</description></item>
-<item><title>E-commerce Site Design for Digital Products</title><link>https://www.freelancer.com/projects/ecommerce/commerce-Site-Design-for-Digital</link><guid isPermaLink="false">freelancer:40716701</guid><pubDate>Thu, 17 Sep 2026 06:13:02 GMT</pubDate><description>250-750 AUD | I'm looking for a skilled web designer to create an e-commerce website for selling digital products. The site must include an instant download feature after purchase.
-
-Key requirements:
-- E-commerce functionality
-- User-friendly interface
-- Secure payment gateway integration
-- Instant download capability after purchase
-- Mobile-responsive design
-
-Ideal skills and experience:
-- Proven experience in designing e-commerce websites
-- Strong portfolio showcasing similar projects
-- Expertise in payment gateway integration
-- Familiarity with SEO best practices
-- Knowledge of UI/UX design principles
-
-Please provide a portfolio and relevant experience with your bids.</description></item>
 <item><title>Missing Meta Verification Badge for Business page</title><link>https://www.freelancer.com/projects/account-management/Missing-Meta-Verification-Badge-for</link><guid isPermaLink="false">freelancer:40716424</guid><pubDate>Thu, 17 Sep 2026 03:30:48 GMT</pubDate><description>15-25 USD/hr | My business account is officially verified with a Meta One subscription, yet the blue verified badge has refused to appear for more than two weeks. I have already opened a ticket with Meta support—no resolution so far—and I have tried the basic fixes: restarting both the app and each device, plus double-checking every relevant setting. Because the problem shows up on every phone, tablet, and desktop I use, I’m convinced it is a backend or account-level glitch rather than a local device issue.
 
 I need someone who truly understands Meta’s Business Suite, Creator Studio, Business Manager and the new Meta One dashboard to dig in, pinpoint the cause, and push the right levers inside Meta so the badge finally displays across all my profiles.
