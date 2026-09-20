@@ -36,30 +36,6 @@ Required Skills
 Strong experience with PHP and MySQL is essential. Experience with Laravel or similar PHP frameworks is highly desirable, along with a solid understanding of REST APIs, JSON, authentication, database architecture, Git, and general web security practices.
 
 Knowledge of HTML, CSS, JavaScript, Linux/server environments, and deployment workflows would be an advantage.</description></item>
-<item><title>5-Page Drafting Website Build</title><link>https://www.freelancer.com/projects/web-design/Page-Drafting-Website-Build</link><guid isPermaLink="false">freelancer:40722274</guid><pubDate>Sun, 20 Sep 2026 06:08:24 GMT</pubDate><description>750-1500 AUD | I have the wireframes, layout concepts, and brand colours for my residential (Architectural) drafting business ready to go—I now need a developer who can turn them into a clean, professional five-page site. The page set-up is fixed: Home, About, Services, Portfolio, and Contact.  
-
-Here’s the scope in a nutshell  
-
-• Design &amp; build the site around my supplied Figma/PDF concepts, keeping every spacing, font and visual cue intact.  
-• Apply the exact colour palette and typography from my existing branding guidelines (I’ll share these assets at kick-off).  
-• Implement a simple but effective image gallery on the Portfolio page so I can showcase drawings and finished projects.  
-• Add a reliable, spam-protected contact form on the Contact page that routes enquiries to my business email.  
-• Deliver the finished website fully responsive, tested across modern browsers, and ready to deploy to my hosting environment (cPanel/WordPress or straight HTML—happy to hear your recommendation).  
-
-What I’d like to see from you  
-
-1. Links to two or three live sites you’ve built with a similar small-business focus—ideally ones that used client-supplied designs or strict brand guidelines.  
-2. A brief outline of your workflow: discovery, staging server, client review cycles, hand-off, and post-launch support.  
-3. Expected timing from project start to go-live.  
-
-Acceptance criteria  
-
-• All five pages mirror the approved layouts and colour scheme.  
-• Portfolio gallery loads quickly and scales on mobile.  
-• Contact form successfully sends and stores messages.  
-• No console errors or layout breaks on the latest Chrome, Safari, Firefox, and Edge.  
-
-I’m ready to share the design files as soon as we agree on the timeline, so please send over your best examples and a short note on how you’ll tackle this build.</description></item>
 <item><title>ZIORE – Premium Sleepwear Shopify Website Design &amp; Development</title><link>https://www.freelancer.com/projects/branding/ZIORE-Premium-Sleepwear-Shopify-Website</link><guid isPermaLink="false">freelancer:40722230</guid><pubDate>Sun, 20 Sep 2026 05:30:55 GMT</pubDate><description>250-750 AUD | I’m currently developing ZIORE, a new Australian premium sleepwear and lifestyle brand, and I’m looking for an experienced Shopify designer/developer to help create our website ready for launch.
 
 ZIORE is centred around comfort, slowing down and making everyday downtime feel a little more special. Our tagline is “Made to slow down.”
@@ -755,6 +731,21 @@ I already experimented with AI website builders and do NOT want another AI-gener
 Please send me 2–3 examples of your best luxury/automotive/community websites before applying.
 
 I need the finished website ready to connect to my own domain, and I need ownership/access to the website and source files after completion.</description></item>
+<item><title>Fix Search Console Index Errors</title><link>https://www.freelancer.com/projects/seo/Fix-Search-Console-Index-Errors</link><guid isPermaLink="false">freelancer:40717492</guid><pubDate>Thu, 17 Sep 2026 13:19:26 GMT</pubDate><description>250-750 USD | Our Google Search Console dashboard is lighting up with indexing problems across more than fifty pages of a site that was generated with the Cursor AI builder. The development team has delivered all front-end and back-end functionality, but they are not taking care of the SEO layer, so I now need someone who can focus exclusively on the console warnings and clear them out one by one.
+
+The console is flagging three specific issues:
+• Pages not indexed  
+• Server errors  
+• Redirect errors  
+
+Your job is to diagnose what is really causing each of those warnings, implement the required on-page or technical fixes (robots.txt, sitemap, canonical tags, status codes, internal links, etc.), and then get every affected URL successfully re-crawled and indexed. I will provide full Search Console and hosting access, along with a direct line to the client for clarifying content or structural changes.
+
+Acceptance criteria  
+1. All “Excluded” or “Error” URLs for the three issues above move to “Valid” after re-submission.  
+2. Server logs or equivalent proof show the underlying problems resolved (no 5xx or bad 3xx loops).  
+3. A short handover note explains what was changed so we can maintain it going forward.
+
+Once the console is clean we will extend the collaboration to broader on-site optimisation, so view this as the first step in a longer engagement.</description></item>
 <item><title>WordPress Site Migration and Setup</title><link>https://www.freelancer.com/projects/seo/WordPress-Site-Migration-Setup</link><guid isPermaLink="false">freelancer:40717137</guid><pubDate>Thu, 17 Sep 2026 09:56:48 GMT</pubDate><description>10-1000 GBP/hr | I'm looking for an experienced WordPress developer to migrate our current website to a new WordPress platform. The new site must be fully editable by our internal staff, with secure links to PDFs. 
 
 Key requirements include:
