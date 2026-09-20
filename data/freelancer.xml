@@ -21,128 +21,6 @@ Required Skills
 Strong experience with PHP and MySQL is essential. Experience with Laravel or similar PHP frameworks is highly desirable, along with a solid understanding of REST APIs, JSON, authentication, database architecture, Git, and general web security practices.
 
 Knowledge of HTML, CSS, JavaScript, Linux/server environments, and deployment workflows would be an advantage.</description></item>
-<item><title>E-commerce Site with Booking System</title><link>https://www.freelancer.com/projects/web-development/commerce-Site-with-Booking-System-40722738</link><guid isPermaLink="false">freelancer:40722738</guid><pubDate>Sun, 20 Sep 2026 10:55:18 GMT</pubDate><description>250-750 USD | Summary
-Job Title
-Branding + Website Design for New Party Rental Business in Dubai
-Job Description
-We are launching a new party rental business in Dubai called Partyinabox.
-The concept is simple: customers can rent a complete party equipment package for birthdays and private events, with optional consumables and add-ons.
-We are looking for one freelancer who can handle both branding and website design/development and help us prepare the business for launch.
-Scope of Work
-1. Logo &amp; Branding
-- Create/refine the Partyinabox logo
-- Full logo with tagline: Every Party Starts Here
-- Include Dubai, UAE
-- Logo variations:
-  - Full logo
-  - Logo without tagline
-  - Horizontal version
-  - Icon-only version
-  - Transparent background version
-- Deliver editable/vector files: AI, SVG, EPS, PDF, PNG
-- Define brand colors
-- Define fonts
-- Create a simple brand guideline
-2. Website Design &amp; Development
-We need a professional, colorful, mobile-friendly website.
-The website is not an e-commerce website and does not require online payment.
-Its purpose is to:
-- Showcase our party packages
-- Show pricing
-- Show the items included in each package
-- Show optional add-ons
-- Explain how the service works
-- Generate booking inquiries through WhatsApp and a booking form
-Website Pages / Sections
-- Home
-- Packages &amp; Pricing
-- What’s in the Box
-- Add-ons
-- How It Works
-- Gallery
-- FAQ
-- Contact / Booking
-Packages to Display
-- Equipment Only – AED 549
-- Up to 10 Kids – AED 699
-- Up to 20 Kids – AED 829
-- Up to 30 Kids – AED 899
-Each package should clearly show:
-- Package image
-- Price
-- Number of children covered
-- Reusable rental items included
-- Consumables included
-- What needs to be returned
-- What the customer keeps
-- WhatsApp / inquiry button
-We will provide:
-- Photos of each package
-- Photos of each individual item
-- Package contents
-- Pricing
-- Business information
-Booking Form
-The website should have a simple inquiry form with fields such as:
-- Name
-- Mobile number
-- Email
-- Party date
-- Party location
-- Number of children
-- Package selected
-- Add-ons
-- Notes
-The form should send the inquiry to us by email.
-WhatsApp Integration
-- Floating WhatsApp button
-- WhatsApp buttons on package pages
-- Pre-filled inquiry message
-Add-ons
-The website should display both:
-- Returnable rental add-ons, e.g. beanbags, extra speakers, lighting
-- Non-returnable add-ons, e.g. piñatas, balloons, extra consumables
-Additional Requirements
-- Mobile-first design
-- Easy for us to edit prices, text, and photos later
-- Basic SEO setup
-- Google Analytics
-- Google Search Console
-- Meta Pixel
-- Fast loading
-- SSL/security setup
-- Contact form spam protection
-Social / Marketing Assets
-Please also include:
-- Instagram profile image
-- Facebook/TikTok branding
-- A few simple social media post/story templates
-- Digital price/package sheet
-- Basic WhatsApp marketing graphic
-Final Handover
-We require:
-- Full ownership of the website
-- Admin access
-- All editable source files
-- All logo/vector files
-- All brand files
-- All website assets
-- Basic handover/training
-Budget
-Fixed price: approximately USD 250–350
-Please only apply if you can handle both branding and website development.
-When applying, please send:
-1. Examples of websites you designed
-2. Examples of branding/logo work
-3. What platform you recommend for the website
-4. How long the project will take
-5. Your fixed price
-6. Whether revisions are included
-Preference will be given to freelancers who have worked with:
-- Party/event businesses
-- Rental businesses
-- Kids/family brands
-- Small local service businesses</description></item>
 <item><title>5-Page Drafting Website Build</title><link>https://www.freelancer.com/projects/web-design/Page-Drafting-Website-Build</link><guid isPermaLink="false">freelancer:40722274</guid><pubDate>Sun, 20 Sep 2026 06:08:24 GMT</pubDate><description>750-1500 AUD | I have the wireframes, layout concepts, and brand colours for my residential (Architectural) drafting business ready to go—I now need a developer who can turn them into a clean, professional five-page site. The page set-up is fixed: Home, About, Services, Portfolio, and Contact.  
 
 Here’s the scope in a nutshell  
@@ -862,6 +740,21 @@ I already experimented with AI website builders and do NOT want another AI-gener
 Please send me 2–3 examples of your best luxury/automotive/community websites before applying.
 
 I need the finished website ready to connect to my own domain, and I need ownership/access to the website and source files after completion.</description></item>
+<item><title>Fix Search Console Index Errors</title><link>https://www.freelancer.com/projects/seo/Fix-Search-Console-Index-Errors</link><guid isPermaLink="false">freelancer:40717492</guid><pubDate>Thu, 17 Sep 2026 13:19:26 GMT</pubDate><description>250-750 USD | Our Google Search Console dashboard is lighting up with indexing problems across more than fifty pages of a site that was generated with the Cursor AI builder. The development team has delivered all front-end and back-end functionality, but they are not taking care of the SEO layer, so I now need someone who can focus exclusively on the console warnings and clear them out one by one.
+
+The console is flagging three specific issues:
+• Pages not indexed  
+• Server errors  
+• Redirect errors  
+
+Your job is to diagnose what is really causing each of those warnings, implement the required on-page or technical fixes (robots.txt, sitemap, canonical tags, status codes, internal links, etc.), and then get every affected URL successfully re-crawled and indexed. I will provide full Search Console and hosting access, along with a direct line to the client for clarifying content or structural changes.
+
+Acceptance criteria  
+1. All “Excluded” or “Error” URLs for the three issues above move to “Valid” after re-submission.  
+2. Server logs or equivalent proof show the underlying problems resolved (no 5xx or bad 3xx loops).  
+3. A short handover note explains what was changed so we can maintain it going forward.
+
+Once the console is clean we will extend the collaboration to broader on-site optimisation, so view this as the first step in a longer engagement.</description></item>
 <item><title>WordPress Site Migration and Setup</title><link>https://www.freelancer.com/projects/seo/WordPress-Site-Migration-Setup</link><guid isPermaLink="false">freelancer:40717137</guid><pubDate>Thu, 17 Sep 2026 09:56:48 GMT</pubDate><description>10-1000 GBP/hr | I'm looking for an experienced WordPress developer to migrate our current website to a new WordPress platform. The new site must be fully editable by our internal staff, with secure links to PDFs. 
 
 Key requirements include:
