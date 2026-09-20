@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Store Migration</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Migration</link><guid isPermaLink="false">freelancer:40723066</guid><pubDate>Sun, 20 Sep 2026 14:59:23 GMT</pubDate><description>250-750 GBP | I need to transfer my current webstore, www.militaryhistorybooks.com, into a simple, clean Shopify template. The new store should improve user experience by simplifying navigation. We have over 8000 titles that need to be migrated.
+
+Key Requirements:
+- Simplified Navigation: 
+  - Category Structure: Restructure for ease of access.
+  - Search Functionality: Enhance to deliver accurate results quickly.
+  - Menu Layout: Redesign for a cleaner, more intuitive browsing experience.
+
+Ideal Skills &amp; Experience:
+- Shopify expertise
+- Experience with large inventory migration
+- Strong understanding of UX/UI principles
+- Ability to restructure categories and improve search functionality
+
+Please provide examples of similar work done.</description></item>
 <item><title>PHP &amp; Backend Expert Needed</title><link>https://www.freelancer.com/projects/backend-development/PHP-Backend-Expert-Needed</link><guid isPermaLink="false">freelancer:40722925</guid><pubDate>Sun, 20 Sep 2026 13:06:57 GMT</pubDate><description>750-1500 GBP | We are looking for an experienced PHP &amp; Backend Developer to build, improve, and maintain reliable server-side systems for web applications. The ideal developer should be comfortable working with existing codebases as well as developing new backend functionality from the ground up.
 
 Responsibilities
@@ -740,21 +755,6 @@ I already experimented with AI website builders and do NOT want another AI-gener
 Please send me 2–3 examples of your best luxury/automotive/community websites before applying.
 
 I need the finished website ready to connect to my own domain, and I need ownership/access to the website and source files after completion.</description></item>
-<item><title>Fix Search Console Index Errors</title><link>https://www.freelancer.com/projects/seo/Fix-Search-Console-Index-Errors</link><guid isPermaLink="false">freelancer:40717492</guid><pubDate>Thu, 17 Sep 2026 13:19:26 GMT</pubDate><description>250-750 USD | Our Google Search Console dashboard is lighting up with indexing problems across more than fifty pages of a site that was generated with the Cursor AI builder. The development team has delivered all front-end and back-end functionality, but they are not taking care of the SEO layer, so I now need someone who can focus exclusively on the console warnings and clear them out one by one.
-
-The console is flagging three specific issues:
-• Pages not indexed  
-• Server errors  
-• Redirect errors  
-
-Your job is to diagnose what is really causing each of those warnings, implement the required on-page or technical fixes (robots.txt, sitemap, canonical tags, status codes, internal links, etc.), and then get every affected URL successfully re-crawled and indexed. I will provide full Search Console and hosting access, along with a direct line to the client for clarifying content or structural changes.
-
-Acceptance criteria  
-1. All “Excluded” or “Error” URLs for the three issues above move to “Valid” after re-submission.  
-2. Server logs or equivalent proof show the underlying problems resolved (no 5xx or bad 3xx loops).  
-3. A short handover note explains what was changed so we can maintain it going forward.
-
-Once the console is clean we will extend the collaboration to broader on-site optimisation, so view this as the first step in a longer engagement.</description></item>
 <item><title>WordPress Site Migration and Setup</title><link>https://www.freelancer.com/projects/seo/WordPress-Site-Migration-Setup</link><guid isPermaLink="false">freelancer:40717137</guid><pubDate>Thu, 17 Sep 2026 09:56:48 GMT</pubDate><description>10-1000 GBP/hr | I'm looking for an experienced WordPress developer to migrate our current website to a new WordPress platform. The new site must be fully editable by our internal staff, with secure links to PDFs. 
 
 Key requirements include:
