@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-Commerce Website &amp; Landing Page</title><link>https://www.freelancer.com/projects/web-development/Commerce-Website-Landing-Page</link><guid isPermaLink="false">freelancer:40723140</guid><pubDate>Sun, 20 Sep 2026 16:00:54 GMT</pubDate><description>250-750 GBP | I’m preparing to launch a line of physical products and need a modern, conversion-focused e-commerce website along with a standalone landing page that funnels paid-ads traffic straight to my best-selling item.
+
+Core requirements  
+• Full-width, mobile-first design that feels clean and contemporary  
+• A product catalogue with easy inventory management inside the CMS  
+• Built-in user reviews displayed on each product page (star rating + comment)  
+• Fast, intuitive checkout that keeps the customer on-brand from start to finish  
+• A dedicated landing page styled to match the main site but stripped of distractions for higher ad ROI  
+
+Nice-to-haves I’m open to discussing later include advanced product search and deeper payment-gateway options, but the review feature is the only absolute.
+
+I’ll supply product photos, copy, and brand guidelines. You’ll handle design, front-end build, back-end configuration, and a quick walkthrough so I can add new items myself before launch. Clean code, SEO-ready structure, and responsive performance are non-negotiable.  
+
+If this scope suits your skill set, let’s talk timelines and get started.</description></item>
 <item><title>Shopify Store Migration</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Migration</link><guid isPermaLink="false">freelancer:40723066</guid><pubDate>Sun, 20 Sep 2026 14:59:23 GMT</pubDate><description>250-750 GBP | I need to transfer my current webstore, www.militaryhistorybooks.com, into a simple, clean Shopify template. The new store should improve user experience by simplifying navigation. We have over 8000 titles that need to be migrated.
 
 Key Requirements:
@@ -731,21 +745,6 @@ I already experimented with AI website builders and do NOT want another AI-gener
 Please send me 2–3 examples of your best luxury/automotive/community websites before applying.
 
 I need the finished website ready to connect to my own domain, and I need ownership/access to the website and source files after completion.</description></item>
-<item><title>Fix Search Console Index Errors</title><link>https://www.freelancer.com/projects/seo/Fix-Search-Console-Index-Errors</link><guid isPermaLink="false">freelancer:40717492</guid><pubDate>Thu, 17 Sep 2026 13:19:26 GMT</pubDate><description>250-750 USD | Our Google Search Console dashboard is lighting up with indexing problems across more than fifty pages of a site that was generated with the Cursor AI builder. The development team has delivered all front-end and back-end functionality, but they are not taking care of the SEO layer, so I now need someone who can focus exclusively on the console warnings and clear them out one by one.
-
-The console is flagging three specific issues:
-• Pages not indexed  
-• Server errors  
-• Redirect errors  
-
-Your job is to diagnose what is really causing each of those warnings, implement the required on-page or technical fixes (robots.txt, sitemap, canonical tags, status codes, internal links, etc.), and then get every affected URL successfully re-crawled and indexed. I will provide full Search Console and hosting access, along with a direct line to the client for clarifying content or structural changes.
-
-Acceptance criteria  
-1. All “Excluded” or “Error” URLs for the three issues above move to “Valid” after re-submission.  
-2. Server logs or equivalent proof show the underlying problems resolved (no 5xx or bad 3xx loops).  
-3. A short handover note explains what was changed so we can maintain it going forward.
-
-Once the console is clean we will extend the collaboration to broader on-site optimisation, so view this as the first step in a longer engagement.</description></item>
 <item><title>WordPress Site Migration and Setup</title><link>https://www.freelancer.com/projects/seo/WordPress-Site-Migration-Setup</link><guid isPermaLink="false">freelancer:40717137</guid><pubDate>Thu, 17 Sep 2026 09:56:48 GMT</pubDate><description>10-1000 GBP/hr | I'm looking for an experienced WordPress developer to migrate our current website to a new WordPress platform. The new site must be fully editable by our internal staff, with secure links to PDFs. 
 
 Key requirements include:
