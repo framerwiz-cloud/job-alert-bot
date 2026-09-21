@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Voice Sales Platform Build</title><link>https://www.freelancer.com/projects/ai-voice-agents/Voice-Sales-Platform-Build</link><guid isPermaLink="false">freelancer:40725644</guid><pubDate>Mon, 21 Sep 2026 21:46:30 GMT</pubDate><description>750-1500 USD | I need a full-stack developer with solid AI voice expertise to architect and code a web-based outbound sales platform that speaks naturally with prospective shippers, qualifies freight opportunities, and instantly routes good leads to my human team.
+
+Core features the system must deliver:  
+• Natural language processing that keeps the conversation professional and fluid  
+• Automated lead qualification logic aligned with our brokerage criteria  
+• Seamless handoff to a live rep via warm transfer, chat, or calendar booking  
+
+During each call the agent should:  
+• Engage in two-way conversation, answering questions as they arise  
+• Collect and analyze responses in real time, updating a contact record  
+• Schedule follow-up calls or demos when prospects prefer a later touchpoint  
+
+I’m picturing a browser-based dashboard where I can upload target lists, monitor live or recorded calls, tweak qualification rules, and pull analytics on conversion rates. You’ll own everything from AI model selection (think speech-to-text, text-to-speech, intent detection) to back-end services, database design, and a crisp React or similar front end.
+
+Deliverables will be:  
+1. A deployed MVP on my cloud account (AWS, GCP, or Azure—your recommendation)  
+2. Source code in a private Git repo with setup documentation  
+3. Post-launch support for bug fixes and performance tuning for at least 30 days  
+
+I’m ready to move quickly; show me past voice or conversational AI work that proves you can handle both the telephony layer (Twilio, Voximplant, etc.) and a modern web stack.</description></item>
 <item><title>Zendxb Techhub Visual Identity Creation</title><link>https://www.freelancer.com/projects/branding/Zendxb-Techhub-Visual-Identity-Creation</link><guid isPermaLink="false">freelancer:40725569</guid><pubDate>Mon, 21 Sep 2026 20:30:54 GMT</pubDate><description>15-25 USD/hr | Logo Design &amp; Brand Guidelines for Zendxb Techhub
 
 We are looking for an experienced graphic designer/brand identity designer to create a professional and modern visual identity for our brand, *ZENDXB Techhub*.
@@ -903,14 +923,6 @@ When you respond, show me past work that proves your GoHighLevel automation skil
 We’re looking for a creative team that can take our existing content and ideas and turn them into a polished website that positions our company as a leading creative fabrication and experiential design company.
 
 Please send some example of your work.</description></item>
-<item><title>Shopify Redesign Mockups Needed</title><link>https://www.freelancer.com/projects/figma/Shopify-Redesign-Mockups-Needed</link><guid isPermaLink="false">freelancer:40718787</guid><pubDate>Fri, 18 Sep 2026 05:52:13 GMT</pubDate><description>250-750 CAD | My Shopify store needs a fresh look that boosts sales while making the browsing experience smoother and more engaging. I want to start with the two pages that matter most—​the Home page and key Product pages—​and I need a designer who can show me exactly how they’ll evolve by presenting clear, conversion-focused mock-ups.
-
-Here’s what I’m looking for:
-• Two high-fidelity mock-ups (Home + Product page) created in Figma, Adobe XD, Sketch, or a comparable design tool.  
-• A short rationale for each layout that explains how the changes support stronger merchandising, quicker decision-making, and an overall better user journey.  
-• Mobile-first considerations baked in, so the concepts translate seamlessly across devices.  
-
-Please include links to past work—​especially any Shopify redesigns—​so I can see your visual style and problem-solving approach in action. If your portfolio shows a knack for balancing strong aesthetics with measurable performance gains, we’ll be a great fit.</description></item>
 <item><title>IntimateMD Site &amp; Ad Launch</title><link>https://www.freelancer.com/projects/web-development/IntimateMD-Site-Launch</link><guid isPermaLink="false">freelancer:40718196</guid><pubDate>Thu, 17 Sep 2026 20:54:48 GMT</pubDate><description>15-25 USD/hr | I’m ready to take intimateMD.com from concept to conversion. The core of the project is a clean, professional, minimalistic website that makes it effortless for visitors to browse and buy our telehealth-related products. I’ll supply brand guidelines, product details, and copy; I’m counting on you to translate that into a fast, mobile-first storefront with intuitive navigation, secure checkout, and HIPAA-compliant intake where needed.
 
 Once the site is live, I want immediate traction through highly targeted Social Media Ads. Your role is to plan, build, and optimize campaigns on the major social platforms, install tracking pixels, and set up retargeting so every ad dollar drives measurable sales. If future expansion into Google Ads or email funnels makes sense, I’m open to your recommendations—right now, however, social channels are the priority.
