@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bilingual WordPress Skeleton Build</title><link>https://www.freelancer.com/projects/seo/Bilingual-WordPress-Skeleton-Build</link><guid isPermaLink="false">freelancer:40724934</guid><pubDate>Mon, 21 Sep 2026 13:47:36 GMT</pubDate><description>250-750 USD | I want a clean WordPress installation that already handles two languages out of the box and gives me a solid foundation to extend later. You will set up the CMS on my hosting, configure a reputable multilingual plugin (WPML, Polylang, or similar) and leave dummy content blocks in both languages so I can swap the text myself.
+
+On top of that, I need the essentials of on-page SEO in place—permalink structure, meta-tag control, XML sitemap, and an SEO plugin such as Yoast or RankMath already tuned with best-practice defaults. Speed plugins and security hardening are welcome but please keep everything lightweight; this site is meant to grow, not to feel bloated.
+
+Interactive elements should be ready to activate. At minimum I expect a working contact form module and placeholders for extra widgets like live chat or polls, disabled by default until I add my own API keys. Give me clear instructions inside the admin area or a short PDF so I know where to switch them on.
+
+Deliverables  
+• WordPress installed and secured on my server  
+• Multilingual framework active with example pages in both languages  
+• Home, About, and Services pages pre-built with placeholder text and Gutenberg blocks  
+• Basic SEO plugin configured and XML sitemap generated  
+• Contact form tested and functioning  
+• Written hand-off notes (1-2 pages) explaining how to change text, duplicate pages in the second language, and enable any interactive widgets
+
+The site must be responsive, pass Google’s Mobile-Friendly test, and load in under three seconds on a standard connection. Once the skeleton is running smoothly, I’ll take over content and design tweaks myself.</description></item>
 <item><title>Full-Stack Web3 Dev for Gaming Marketplace</title><link>https://www.freelancer.com/projects/solidity/Full-Stack-Web-Dev-for</link><guid isPermaLink="false">freelancer:40724312</guid><pubDate>Mon, 21 Sep 2026 13:20:07 GMT</pubDate><description>25-50 USD/hr | Project Overview
 
 We are building MarketHub, a blockchain-powered Web3 marketplace where users can discover, buy, sell, trade, and manage digital gaming assets using cryptocurrency and Web3 wallets.
@@ -816,25 +831,6 @@ Key deliverables
 • Clear reporting on spend, clicks, and conversions tied back to the site
 
 Success looks like a polished site that converts and a paid traffic engine that hits agreed sales targets within the first month. If you can own both halves of this launch, let’s talk timelines and milestones so we can open the digital doors of intimateMD.com.</description></item>
-<item><title>Luxury Jewelry Shopify Store Build</title><link>https://www.freelancer.com/projects/shopify-site/Luxury-Jewelry-Shopify-Store-Build</link><guid isPermaLink="false">freelancer:40717954</guid><pubDate>Thu, 17 Sep 2026 17:48:38 GMT</pubDate><description>250-750 USD | I run a diamond and fine-jewelry brand and need a sophisticated online storefront built on Shopify, my preferred platform. The site must look and feel luxurious, load quickly, and make it effortless for visitors to browse collections, study detailed specifications, and check out with complete confidence.
-
-What I need you to handle  
-• A clean, modern design that reinforces the premium nature of our pieces  
-• Full Shopify setup—theme (custom or heavily tailored), collections, product pages, payment gateway, taxes, and shipping rules  
-• Security best practices so every transaction is protected  
-• Guidance through the initial product launch and clear hand-off documentation
-
-We’ll refine style choices, typography, and any advanced features during a Zoom or email session. I’m happy to consider extras such as customer reviews, wish-lists, or live chat if you feel they suit the brand.
-
-To apply, show me examples of luxury or high-end e-commerce sites you’ve launched and outline your relevant Shopify experience. Please include an estimated timeline with key milestones from kickoff to go-live.
-
-Acceptance criteria  
-• Fully responsive Shopify site on our domain  
-• Secure, tested checkout flow  
-• Up to ten products uploaded with variant logic and spec tables  
-• One-hour walkthrough so I can manage inventory and orders myself
-
-I’m excited to see how your expertise can bring our jewelry collection to life online.</description></item>
 <item><title>WordPress Site Migration and Setup</title><link>https://www.freelancer.com/projects/seo/WordPress-Site-Migration-Setup</link><guid isPermaLink="false">freelancer:40717137</guid><pubDate>Thu, 17 Sep 2026 09:56:48 GMT</pubDate><description>10-1000 GBP/hr | I'm looking for an experienced WordPress developer to migrate our current website to a new WordPress platform. The new site must be fully editable by our internal staff, with secure links to PDFs. 
 
 Key requirements include:
