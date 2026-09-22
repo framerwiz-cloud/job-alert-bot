@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Automation &amp; Customer Support Assistant for my website</title><link>https://www.freelancer.com/projects/ai-automation/Automation-Customer-Support-Assistant</link><guid isPermaLink="false">freelancer:40727669</guid><pubDate>Tue, 22 Sep 2026 19:12:30 GMT</pubDate><description>250-750 USD | I need an experienced AI Automation Developer to build and integrate an AI powered appointment and customer support assistant into an existing business website. The website is already built, so the work will focus only on creating, configuring, testing, and integrating the automation without rebuilding the existing website.
+
+The AI assistant should be able to answer common customer questions, understand the business services, pricing, availability, and policies, and guide customers toward the appropriate service. It should collect customer details such as name, email, phone number, and appointment requirements, then help customers request or schedule an appointment.
+
+The automation should connect with a booking system, calendar, CRM, or webhook through APIs. It should send appointment confirmations and notifications, allow customers to reschedule or cancel when supported, and notify the business whenever a new appointment or important customer request is received. A human handoff option should also be available when the AI cannot properly handle a request.
+
+The workflow can be built using tools such as n8n, Make, OpenAI, Claude, Gemini, REST APIs, webhooks, Google Calendar, Calendly, or another suitable automation stack. The solution should be mobile and desktop friendly, properly handle errors and fallback situations, maintain conversation history, and keep all API keys and sensitive credentials secure.
+
+The final deliverables should include the fully working AI assistant, website integration, customer information collection, appointment automation, calendar or CRM connection, notifications, human handoff, testing and bug fixes, complete workflow or source files, setup documentation, and a short handover walkthrough explaining how the automation and AI instructions can be updated later.
+
+Please apply only if you have real experience with AI automation, chatbots, APIs, webhooks, n8n or Make, and business workflow automation. When applying, please share 1 to 3 examples of similar work, explain which tools you would recommend for this project, and provide your estimated delivery time.</description></item>
 <item><title>Mobile IV Booking Website Build</title><link>https://www.freelancer.com/projects/web-development/Mobile-Booking-Website-Build</link><guid isPermaLink="false">freelancer:40727617</guid><pubDate>Tue, 22 Sep 2026 18:39:29 GMT</pubDate><description>250-750 USD | I’m ready to launch a professional-looking website for my mobile IV therapy service and I need the full build handled from design through go-live. The core of the site will be a streamlined booking system where visitors can pick a treatment, choose an available time slot, and secure their appointment in just a few clicks. I also want each service page to carry customer reviews so new clients see real-world results before they book.
 
 Design must feel clean, medical-grade professional—think crisp typography, calm colour palette and intuitive navigation. While an e-commerce cart isn’t necessary, the booking flow should still capture contact details, requested location, treatment add-ons and any promo codes, then send automated confirmations and reminders.
@@ -707,9 +718,6 @@ Ideal Skills:
 - Experience with e-commerce platforms
 - Proficiency in secure payment gateways
 - Strong background in developing sites for digital product sales</description></item>
-<item><title>LMS Admin Needed for Client Site</title><link>https://www.freelancer.com/projects/html/LMS-Admin-Needed-for-Client</link><guid isPermaLink="false">freelancer:40722028</guid><pubDate>Sun, 20 Sep 2026 02:45:13 GMT</pubDate><description>250-750 CAD | I am looking for a LMS Admin to come and set up LMS training on my client's site
-
-The selected freelancer will primarily be responsible for implementing the Disaster Recovery training provided by the LMS company on the client’s site.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
