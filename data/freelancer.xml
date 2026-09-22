@@ -3,6 +3,33 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Site Development for Local Club</title><link>https://www.freelancer.com/projects/web-development/WordPress-Site-Development-for-Local</link><guid isPermaLink="false">freelancer:40727015</guid><pubDate>Tue, 22 Sep 2026 12:36:30 GMT</pubDate><description>250-750 GBP | One page website plus two text based pop-ups.
+
+A website for a local village club that I have designed but it needs building and coding.
+
+It is a simple one page website that needs to be able take posts and change the opening times, so it will need a back end to enable this administration to be done easily.
+
+I will supply the design, MP4 movie, typefaces and the mark up of the site for this to be done.
+
+It will have a link to a Stripe and a link to Printify Pop-Up Store.
+
+It will also have a link to a Club Calendar, which I will leave for you to sort, maybe a Google Calendar.
+
+It has one link to a simple pop-up Membership page, which should be able to be accessed by the admin section to update a single club joining price with a small amount of text and a pop-up page of text for the Clubs Privacy Policy.
+
+I have already designed a clean, one-page website for our village club and now need it turned into a working WordPress build. You will receive the finished desktop and mobile layouts, all typefaces and a intro MP4, and a markup; your job is to convert that into a lightweight theme, hook it up to an easy-to-use backend, and deploy it ready for content.
+
+The whole site as the marked up design will show with have Parallax Scrolling.
+
+The site only needs two pieces of editable content:
+
+• Posts: staff will add a short news item each week.
+
+• Opening times: these change every so often and must be editable from a simple field without touching code.
+
+Because WordPress is the chosen platform, I expect you to set up custom fields (ACF, Gutenberg block, or similar) so the committee can log in, update opening hours, and publish a new post in minutes. No user-registration or complex roles are required beyond an admin account for me and an editor account for them.
+
+Please keep page speed high, stick closely to the supplied design, and leave the code well-commented. Once the theme is in place, a short screen-share hand-over or concise PDF guide showing how to update posts and opening times will complete the job.</description></item>
 <item><title>Modern Redesign of Swimming School Website</title><link>https://www.freelancer.com/projects/database-management/Custom-Built-Website-Development</link><guid isPermaLink="false">freelancer:40726953</guid><pubDate>Tue, 22 Sep 2026 11:58:48 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced web designer to redesign my custom-built website for my swimming school. The goal is to modernize the design while keeping it professional and simple, with a focus on providing clear information about our operations. Key features include a dedicated staff section and a layout that aligns with our blue and yellow branding. Payment or booking systems are not required. Completion is expected by mid-November, with a budget around £500.</description></item>
 <item><title>Wix Photo Store Shopify Rebuild</title><link>https://www.freelancer.com/projects/html/Wix-Photo-Store-Shopify-Rebuild</link><guid isPermaLink="false">freelancer:40726873</guid><pubDate>Tue, 22 Sep 2026 11:26:32 GMT</pubDate><description>3000-5000 AUD | I have a photography print store that is only halfway finished on Wix and I’m ready to give it new life on Shopify. Every product, collection and previous bit of content must be migrated cleanly, but the look and feel should be re-imagined from scratch so the brand feels premium and the buying journey is effortless.
 
@@ -854,30 +881,6 @@ Experience with:
 We are looking for someone interested in building this into a serious scalable AI platform, not simply a chatbot.
 
 Please provide examples of relevant AI-agent or SaaS platforms you have built and your preferred technology stack.</description></item>
-<item><title>Full-Stack Developer for Recruiting SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Developer-for-Recruiting</link><guid isPermaLink="false">freelancer:40720775</guid><pubDate>Sat, 19 Sep 2026 08:18:21 GMT</pubDate><description>150-450 EUR | We are looking for an experienced Senior Full-Stack Developer or a small professional development team to redesign and further develop an existing multi-tenant recruiting SaaS platform.
-
-The platform already has a working codebase and must not be rebuilt from scratch. Existing functions, data structures, and workflows must be reviewed and preserved.
-
-The project includes:
-
-* Complete UI and UX relaunch
-* Candidate, company, contact, project, and talent-pool management
-* German and English language support
-* Microsoft Outlook Add-in and Microsoft 365 integration
-* Email and calendar synchronization
-* Secure CV processing and irreversible candidate anonymization
-* Customer shortlists and protected profile-sharing links
-* AI-supported candidate matching and search
-* Sales pipeline, tasks, activities, and time tracking
-* Professional invoicing with ZUGFeRD support
-* Administration-area redesign
-* Server security, tenant isolation, and DDoS protection
-
-The developer should have strong experience with Next.js, TypeScript, backend development, databases, SaaS architecture, Microsoft Graph, OAuth, document processing, and application security.
-
-A detailed German and English development specification is available and will be provided to suitable candidates.
-
-Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
