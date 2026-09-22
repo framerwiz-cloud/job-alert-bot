@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Mystical Occult Course Website</title><link>https://www.freelancer.com/projects/web-design/Mystical-Occult-Course-Website</link><guid isPermaLink="false">freelancer:40727212</guid><pubDate>Tue, 22 Sep 2026 14:17:21 GMT</pubDate><description>250-750 GBP | I’m ready to launch an online home for my occultism courses based on the Black Star of Nuit and I’d like the entire experience to feel immersive and mystical from the first click. The site needs a clean, intuitive layout that still carries an esoteric mood through colour, typography and subtle visual elements—think dark palettes, sigil-inspired icons, gentle animations and plenty of space for imagery.
+
+Core functionality  
+• Course listing: visitors must be able to browse all available lessons, filter by topic or level and preview sample material.  
+• Secure payment processing: a seamless checkout flow (Stripe or PayPal preferred) with automatic enrolment on successful payment.  
+
+Content management  
+I’ll supply video lessons and written articles. The back-end has to let me upload, organise and update both formats quickly—drag-and-drop or simple WYSIWYG editing would be ideal. If you can recommend a framework (WordPress with LearnDash, Webflow + Memberstack, custom React/Laravel, etc.) that keeps future scaling painless, please outline why.
+
+Responsive design &amp; SEO  
+The layout must look great on phones as well as desktops, and basic on-page SEO (semantic headings, alt tags, meta descriptions) should be baked in so people searching for astrology, ritual work or ceremonial magic can find the site organically.
+
+Deliverables  
+– Fully themed front-end (home, course catalogue, individual course page, checkout, thank-you page)  
+– Admin dashboard for course and order management  
+– Payment gateway integration with test transactions verified  
+– Documentation or short Loom walk-through showing how to add new courses  
+
+If you have experience blending strong visual storytelling with robust e-learning features, let’s talk timelines and milestones.</description></item>
 <item><title>WordPress Site Development for Local Club</title><link>https://www.freelancer.com/projects/web-development/WordPress-Site-Development-for-Local</link><guid isPermaLink="false">freelancer:40727015</guid><pubDate>Tue, 22 Sep 2026 12:36:30 GMT</pubDate><description>250-750 GBP | One page website plus two text based pop-ups.
 
 A website for a local village club that I have designed but it needs building and coding.
@@ -842,25 +861,6 @@ The developer should have strong experience with Next.js, TypeScript, backend de
 A detailed German and English development specification is available and will be provided to suitable candidates.
 
 Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
-<item><title>Modern Webflow Portfolio Site Build</title><link>https://www.freelancer.com/projects/webflow/Modern-Webflow-Portfolio-Site-Build</link><guid isPermaLink="false">freelancer:40720605</guid><pubDate>Sat, 19 Sep 2026 06:22:58 GMT</pubDate><description>250-750 USD | I need a Webflow expert to translate my design vision into a sleek, modern portfolio site. The project calls for roughly 30 pages—think home, about me, contact, and a full collection of project and case-study pages—each one consistent in style, responsive across devices, and optimised for fast loading.
-
-I have the visual direction mapped out: clean typography, generous white space, subtle interactions, and a contemporary colour palette. Your job is to build this directly in Webflow, set up the CMS for easy content updates, and ensure every page is properly linked, SEO-ready, and accessible.
-
-Deliverables  
-• Webflow project file with 30 fully built, responsive pages  
-• CMS collections configured for portfolio items and blog posts (if needed later)  
-• Global styles and symbols for effortless future edits  
-• Basic on-page SEO: titles, meta descriptions, alt text  
-• Final walkthrough so I’m comfortable maintaining the site myself
-
-Acceptance criteria  
-1. All pages load correctly on desktop, tablet, and mobile breakpoints.  
-2. Page speed scores at least 85 on Google PageSpeed Insights.  
-3. No console errors in Chrome DevTools.  
-4. CMS items display seamlessly within their respective templates.  
-5. Hand-off includes clear documentation or a quick Loom video tour.
-
-If you’ve built modern, multi-page Webflow portfolios before, I’d love to see examples. Let’s create a site that showcases my work beautifully and functions flawlessly.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
