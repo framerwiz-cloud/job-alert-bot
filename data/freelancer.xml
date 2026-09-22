@@ -3,6 +3,43 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Tour Website With Booking Gateway -- 2</title><link>https://www.freelancer.com/projects/php/Tour-Website-With-Booking-Gateway</link><guid isPermaLink="false">freelancer:40726763</guid><pubDate>Tue, 22 Sep 2026 10:19:32 GMT</pubDate><description>250-750 CAD | I want to launch a brand-new, modern and sleek website for my tour company and fold in a couple of quick updates on two existing sites at the same time.
+
+Core build  
+• Design a responsive, visually striking site that captures the excitement of our tours. Think clean lines, generous whitespace, bold photography and fast load times.  
+• Integrate a booking engine that shows real-time availability so customers can instantly secure a spot without email ping-pong.  
+• Connect a payment gateway able to process both credit/debit cards and PayPal smoothly at checkout.  
+
+Extra pages for current sites  
+Each of my two established websites needs one additional page—simple in scope but matched to their existing styles and mobile friendly. Content is ready; it just needs to be designed, added to the menus and published.
+
+Preferred stack &amp; hand-off  
+WordPress with WooCommerce or a similarly intuitive CMS works well, though I’m open if you have a faster, reliable alternative. Once everything is live, please walk me through the admin dashboard so I can manage inventory, pricing and content myself.
+
+Deliverables  
+1. Full tour business website (design, development, deployment)  
+2. Real-time availability booking system connected to my tours database  
+3. Payment gateway accepting credit/debit cards and PayPal  
+4. One new page added to each of the two existing sites  
+5. Post-launch hand-over guide and a short recorded walkthrough
+
+Optional future enhancements such as automated email confirmations or a user review system can be scoped later, so build with extendability in mind.</description></item>
+<item><title>Creative WordPress Redesign &amp; Shop Website </title><link>https://www.freelancer.com/projects/woocommerce/Creative-WordPress-Redesign-Shop-Website</link><guid isPermaLink="false">freelancer:40726754</guid><pubDate>Tue, 22 Sep 2026 10:16:12 GMT</pubDate><description>250-750 USD | I’m ready to give offshorerentals.co.uk a complete creative overhaul on WordPress. You’ll receive full admin access as soon as we agree on the first concept, so you can work directly in the live environment and replace the temporary images that are on the site today. Absolutely no AI-generated visuals are to make it into the final build; every photo must look authentic and professional.
+
+The new site must:  
+• Showcase our full rental stock with clear categories and quick-view options.  
+• Add a fully functional shop for items we sell outright, powered by WooCommerce (or a similarly robust WordPress plugin) so I can manage products, pricing, and orders myself.  
+• Retain the core structure—Homepage, About Us, and Contact Us—while matching the current content scope for specs, certifications, and enquiry forms.  
+• Follow a creative theme that still feels lean and intuitive, with simplified navigation, responsive layouts, and fast load times.  
+
+Deliverables  
+1. High-fidelity mock-up for approval (Figma, XD, or similar).  
+2. Custom WordPress theme or child theme implementation.  
+3. WooCommerce shop setup with sample products.  
+4. Migration of all existing text/media plus new, high-quality imagery.  
+5. Basic documentation so my team can edit pages, add stock, and manage orders.  
+
+I’ll supply hosting credentials and expect all work to occur on a staging subdomain until sign-off. Launch only when every link, form, and checkout flow is fully tested across modern browsers and mobile devices. If that sounds like your sweet spot, let’s discuss timeline and milestones.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
 Key Tasks:
@@ -870,39 +907,6 @@ The developer should have strong experience with Next.js, TypeScript, backend de
 A detailed German and English development specification is available and will be provided to suitable candidates.
 
 Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
-<item><title>Modern Webflow Portfolio Site Build</title><link>https://www.freelancer.com/projects/webflow/Modern-Webflow-Portfolio-Site-Build</link><guid isPermaLink="false">freelancer:40720605</guid><pubDate>Sat, 19 Sep 2026 06:22:58 GMT</pubDate><description>250-750 USD | I need a Webflow expert to translate my design vision into a sleek, modern portfolio site. The project calls for roughly 30 pages—think home, about me, contact, and a full collection of project and case-study pages—each one consistent in style, responsive across devices, and optimised for fast loading.
-
-I have the visual direction mapped out: clean typography, generous white space, subtle interactions, and a contemporary colour palette. Your job is to build this directly in Webflow, set up the CMS for easy content updates, and ensure every page is properly linked, SEO-ready, and accessible.
-
-Deliverables  
-• Webflow project file with 30 fully built, responsive pages  
-• CMS collections configured for portfolio items and blog posts (if needed later)  
-• Global styles and symbols for effortless future edits  
-• Basic on-page SEO: titles, meta descriptions, alt text  
-• Final walkthrough so I’m comfortable maintaining the site myself
-
-Acceptance criteria  
-1. All pages load correctly on desktop, tablet, and mobile breakpoints.  
-2. Page speed scores at least 85 on Google PageSpeed Insights.  
-3. No console errors in Chrome DevTools.  
-4. CMS items display seamlessly within their respective templates.  
-5. Hand-off includes clear documentation or a quick Loom video tour.
-
-If you’ve built modern, multi-page Webflow portfolios before, I’d love to see examples. Let’s create a site that showcases my work beautifully and functions flawlessly.</description></item>
-<item><title>Dating Website</title><link>https://www.freelancer.com/projects/web-development/Dating-Website-40720491</link><guid isPermaLink="false">freelancer:40720491</guid><pubDate>Sat, 19 Sep 2026 04:31:46 GMT</pubDate><description>750-1500 AUD | Zim Hearts is a modern dating and relationship platform for Zimbabweans in Zimbabwe and across the global diaspora. It should feel premium, warm, romantic and authentically Zimbabwean—not like a generic dating template or formal matrimonial website.
-
-The design should be mobile-first, visually attractive and easy to use, with profiles centred on photos and personality while allowing deeper compatibility information.
-
-Members create detailed profiles covering location, Zimbabwean roots/kumusha, languages, culture/totem, education, profession, faith, children, family expectations, relationship goals, roora/lobola, lifestyle, interests, communication preferences and future plans.
-
-Key features include global and local search, detailed partner preferences and deal-breakers, matching, likes/introductions, messaging, multiple photos, private photos shared by permission, phone/live-photo/identity verification, reporting/blocking and strong privacy controls.
-
-The platform must distinguish between public profile information, full-profile information, partner preferences and highly sensitive private information.
-
-The goal is not “Tinder for Zimbabweans.” Zim Hearts should make culturally meaningful, serious compatibility feel simple, modern and enjoyable.
-
-Brand: Zim Hearts
-Possible tagline: Zimbabwean at heart. Genuine connections wherever you are.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
