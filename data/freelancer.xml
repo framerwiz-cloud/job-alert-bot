@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix-TutorBird Migration Expert</title><link>https://www.freelancer.com/projects/wix/Wix-TutorBird-Migration-Expert</link><guid isPermaLink="false">freelancer:40727349</guid><pubDate>Tue, 22 Sep 2026 15:44:49 GMT</pubDate><description>250-750 GBP | I want to move my entire teaching website from Wix to TutorBird without losing any of the functionality my students (and I) rely on. On Wix I currently run a robust booking system and a series of automations; everything from first-touch lead magnets to recurring invoices is already in place and some are being developed, so I need a developer who can replicate those workflows inside TutorBird as closely as the platform allows.
+
+Core functionality to reproduce  
+• Booking system – regular lessons and a “trial class if a seat is free” option, both syncing seamlessly with my calendar.  
+- Payment options for monthly (term split into monthly payments), monthly payment and yearly payment options 
+• Automated emails – welcome, reminders, upsells, and any future funnels.  
+• Lead-magnet delivery – instant PDF/audio download triggered by opt-in links.  
+• Automated invoicing – with international payment gateways that keep fees low.  
+• Future-proofing – the ability to bolt on a trip-wire funnel and sell resources at checkout, plus pages for upcoming free and paid masterclasses.
+
+Design continuity matters too: I want the current Wix layout, colour palette, and typography rebuilt inside TutorBird so the switch feels invisible to my audience. Or better if the professional knows how to make it flow and feel better for the user. It also needs to be editable for me so that I can make changes where necessary. 
+
+Acceptance criteria  
+1. A fully functioning TutorBird site that mirrors my Wix design.  
+2. All automations listed above tested live with sample data.  
+3. Step-by-step documentation so I can tweak or extend the setup myself later.  
+
+If you have hands-on experience with TutorBird, Wix Corvid/Editor X, Stripe or similar payment integrations, and email automation tools (TutorBird’s native system, Zapier, or Make), I’d love to hear how you would tackle this migration and the estimated timeline and cost (as I am on a budget as a small business and sole trader in my first year- budget of £0-500).
+
+My current website is: www.knowmadictutoring.com (the class booking system is still being built but I have a html of the draft)</description></item>
 <item><title>Website Content &amp; Page Refresh</title><link>https://www.freelancer.com/projects/content-management-system/Website-Content-Page-Refresh</link><guid isPermaLink="false">freelancer:40727334</guid><pubDate>Tue, 22 Sep 2026 15:36:30 GMT</pubDate><description>6-12 EUR/hr | I have an existing website that needs a tidy, up-to-date feel. The work is purely content-focused:
 
 • Text updates – polishing current copy and adding new sections where needed  
@@ -793,24 +813,6 @@ Ideal Skills:
 <item><title>LMS Admin Needed for Client Site</title><link>https://www.freelancer.com/projects/html/LMS-Admin-Needed-for-Client</link><guid isPermaLink="false">freelancer:40722028</guid><pubDate>Sun, 20 Sep 2026 02:45:13 GMT</pubDate><description>250-750 CAD | I am looking for a LMS Admin to come and set up LMS training on my client's site
 
 The selected freelancer will primarily be responsible for implementing the Disaster Recovery training provided by the LMS company on the client’s site.</description></item>
-<item><title>Claude-Powered Web Dev Platform</title><link>https://www.freelancer.com/projects/web-development/Claude-Powered-Web-Dev-Platform</link><guid isPermaLink="false">freelancer:40721877</guid><pubDate>Sat, 19 Sep 2026 23:08:33 GMT</pubDate><description>250-750 USD | I am building a Claude-driven workflow that lets me spin up and maintain polished, SEO-ready websites—primarily blogs and other informational sites—for remodelers, contractors, home-service companies, law firms, and similar local businesses. The core of the job is to wire Claude into a repeatable development pipeline that:
-
-• Generates a full site structure and initial content on command  
-• Lets me edit or expand pages through natural-language prompts  
-• Publishes to hosting with a single action, handling version control behind the scenes  
-• Bakes in on-page SEO checks and recommendations before every deploy  
-• Provides an easy web-based CMS for non-technical updates
-
-Design quality matters as much as the tech. Every theme you help me create must load fast, look modern and clean, stay fully responsive on mobile, and support straightforward brand tweaks (colors, fonts, logo swaps).
-
-Acceptance criteria  
-1. End-to-end demo: I type a prompt, the system produces a live site served from my own infrastructure.  
-2. Built-in modules for meta tags, schema, and headline analysis confirm SEO readiness.  
-3. CMS interface is intuitive enough that a VA with basic web literacy can update text or images.  
-4. Deployment logs and rollback options are exposed for troubleshooting.  
-5. Clear documentation shows how to extend templates or plug in additional Claude prompts.
-
-If you have previous experience connecting LLMs to static-site generators, headless CMSs, or custom automation scripts, I’d love to see it. Let’s make website creation as simple as having a conversation with Claude.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
