@@ -3,7 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Wix-TutorBird Migration Expert</title><link>https://www.freelancer.com/projects/wix/Wix-TutorBird-Migration-Expert</link><guid isPermaLink="false">freelancer:40727349</guid><pubDate>Tue, 22 Sep 2026 18:29:04 GMT</pubDate><description>10-500 GBP | I want to move my entire teaching website from Wix to TutorBird without losing any of the functionality I plan on having on it. 
+<item><title>Mobile IV Booking Website Build</title><link>https://www.freelancer.com/projects/web-development/Mobile-Booking-Website-Build</link><guid isPermaLink="false">freelancer:40727617</guid><pubDate>Tue, 22 Sep 2026 18:39:29 GMT</pubDate><description>250-750 USD | I’m ready to launch a professional-looking website for my mobile IV therapy service and I need the full build handled from design through go-live. The core of the site will be a streamlined booking system where visitors can pick a treatment, choose an available time slot, and secure their appointment in just a few clicks. I also want each service page to carry customer reviews so new clients see real-world results before they book.
+
+Design must feel clean, medical-grade professional—think crisp typography, calm colour palette and intuitive navigation. While an e-commerce cart isn’t necessary, the booking flow should still capture contact details, requested location, treatment add-ons and any promo codes, then send automated confirmations and reminders.
+
+Key deliverables  
+• Responsive website with integrated appointment scheduling, service selection and customer review sections  
+• Admin dashboard where I can add/edit services, pricing, time slots and testimonials without touching code  
+• Secure user data handling (HIPAA-aware best practices) and SSL setup  
+• Fast-loading pages, SEO-friendly structure and Google Analytics connected  
+• Deployment on my hosting with a brief hand-over call and 14-day post-launch support  
+
+If you have previous medical, wellness or on-demand service site experience, please mention it when you respond.</description></item>
+<item><title>Wix-TutorBird Migration Expert</title><link>https://www.freelancer.com/projects/wix/Wix-TutorBird-Migration-Expert</link><guid isPermaLink="false">freelancer:40727349</guid><pubDate>Tue, 22 Sep 2026 18:38:34 GMT</pubDate><description>10-500 GBP | I want to move my entire teaching website from Wix to TutorBird without losing any of the functionality I plan on having on it. 
 
 On Wix a booking system is currently being built and a series of automations - these are bookings for trial classes within free spaces in group classes. Then email automations will follow for these classes, so students know how to join the class on Lessonspace. Payment needs to be taken and invoices will need to be sent for the trial class and if parents decide to pay for the term then an option to pay will be sent to them and there will be an option to pay for the term/monthly/yearly on the website too. If they do not decide to join the class after the trial class the space becomes empty again for someone else.
 
@@ -25,7 +37,7 @@ Core functionality to reproduce
 • Automated invoicing – with international payment gateways that keep fees low.  
 • Future-proofing – the ability to bolt on a trip-wire funnel and sell resources at checkout, plus pages for upcoming free and paid masterclasses.
 
-Design continuity matters too: I want the current Wix layout, colour palette, and typography rebuilt inside TutorBird so the switch feels close to invisible to my audience since my brand feel matters to me. Or better if the professional knows how to make it flow and feel better for the user. It also needs to be editable for me so that I can make changes where necessary. 
+Design continuity matters too: I want the current Wix layout, colour palette, and typography rebuilt inside TutorBird so the switch feels close to invisible to my audience since my brand feel matters to me. Or better if the professional knows how to make it flow and feel better for the user. It also needs to be editable for me so that I can make changes where necessary. If design continuity is not possible in tutorbird then I might not consider the project since my brand is very important to me.
 
 Acceptance criteria  
 1. A fully functioning TutorBird site that mirrors my Wix design.  
@@ -698,24 +710,6 @@ Ideal Skills:
 <item><title>LMS Admin Needed for Client Site</title><link>https://www.freelancer.com/projects/html/LMS-Admin-Needed-for-Client</link><guid isPermaLink="false">freelancer:40722028</guid><pubDate>Sun, 20 Sep 2026 02:45:13 GMT</pubDate><description>250-750 CAD | I am looking for a LMS Admin to come and set up LMS training on my client's site
 
 The selected freelancer will primarily be responsible for implementing the Disaster Recovery training provided by the LMS company on the client’s site.</description></item>
-<item><title>Claude-Powered Web Dev Platform</title><link>https://www.freelancer.com/projects/web-development/Claude-Powered-Web-Dev-Platform</link><guid isPermaLink="false">freelancer:40721877</guid><pubDate>Sat, 19 Sep 2026 23:08:33 GMT</pubDate><description>250-750 USD | I am building a Claude-driven workflow that lets me spin up and maintain polished, SEO-ready websites—primarily blogs and other informational sites—for remodelers, contractors, home-service companies, law firms, and similar local businesses. The core of the job is to wire Claude into a repeatable development pipeline that:
-
-• Generates a full site structure and initial content on command  
-• Lets me edit or expand pages through natural-language prompts  
-• Publishes to hosting with a single action, handling version control behind the scenes  
-• Bakes in on-page SEO checks and recommendations before every deploy  
-• Provides an easy web-based CMS for non-technical updates
-
-Design quality matters as much as the tech. Every theme you help me create must load fast, look modern and clean, stay fully responsive on mobile, and support straightforward brand tweaks (colors, fonts, logo swaps).
-
-Acceptance criteria  
-1. End-to-end demo: I type a prompt, the system produces a live site served from my own infrastructure.  
-2. Built-in modules for meta tags, schema, and headline analysis confirm SEO readiness.  
-3. CMS interface is intuitive enough that a VA with basic web literacy can update text or images.  
-4. Deployment logs and rollback options are exposed for troubleshooting.  
-5. Clear documentation shows how to extend templates or plug in additional Claude prompts.
-
-If you have previous experience connecting LLMs to static-site generators, headless CMSs, or custom automation scripts, I’d love to see it. Let’s make website creation as simple as having a conversation with Claude.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
