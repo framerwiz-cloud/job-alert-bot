@@ -777,44 +777,6 @@ Deliverables
 • A quick walk-through call or screen-share to make sure everything is buttoned up.
 
 Please include a short note on which platform you recommend and why, plus any similar sites you’ve built so I can get a feel for your style.</description></item>
-<item><title>Full-Stack Next.js Developer For Chauffeur Website Overhaul</title><link>https://www.freelancer.com/projects/nextjs/Full-Stack-Next-Developer-For-40721618</link><guid isPermaLink="false">freelancer:40721618</guid><pubDate>Sat, 19 Sep 2026 18:15:53 GMT</pubDate><description>250-750 USD | We are seeking an experienced Full-Stack Next.js Developer to rebuild, modernize, and deploy our luxury private transportation and chauffeur website.
-
-The goal is to replace a legacy WordPress installation with a fast, high-performance web application built using Next.js (App Router) and Tailwind CSS, paired with a lightweight admin CMS/dashboard for content and reservation leads, delivered fully deployed on our Linux VPS.
-
-Scope of Work &amp; Deliverables
-1. Public High-End Website
-Architecture: Next.js (App Router), TypeScript, and Tailwind CSS.
-
-Pages &amp; Flow: Replicate and elevate existing site design across core pages: Home, Fleet, Services, About Us, and Booking/Inquiry.
-
-Fleet Showcase: Dynamic vehicle catalog with specs (passenger limits, luggage capacity, class) and optimized image delivery (next/image).
-
-Reservation Inquiry System: Multi-step or clean validated booking form capturing pickup/drop-off locations, dates/times, passenger count, and vehicle choice.
-
-Performance &amp; SEO: Semantic markup, dynamic OpenGraph/meta tags, and a target 90+ score on Google Lighthouse across mobile and desktop.
-
-Responsiveness: Pixel-perfect adaptability across mobile, tablet, and wide screens.
-
-2. Admin CMS &amp; Lead Management
-Authentication: Secure admin authentication (credentials/session management).
-
-Fleet &amp; Content CRUD: Intuitive interface to add, edit, or delete fleet vehicles, pricing tiers/specs, and core site content.
-
-Lead / Booking Viewer: Searchable, filterable table to track, review, and manage inbound booking inquiries.
-
-Database: Structured relational schema managed via Prisma ORM (PostgreSQL or SQLite).
-
-3. Production VPS Deployment &amp; Handover
-Server Environment: Full production rollout on an Ubuntu Linux VPS.
-
-Runtime &amp; Proxy: Process management via PM2 (or Docker) behind an Nginx reverse proxy with gzip/brotli compression.
-
-Security &amp; SSL: Automated SSL via Let's Encrypt (Certbot) and basic firewall configuration (UFW).
-
-Repository &amp; Docs: Clean Git repository with documented environment variables (.env.example) and a straightforward README for maintenance.
-
-Budget &amp; Payment Milestone
-Contract Type: Fixed Price</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
@@ -880,6 +842,25 @@ The developer should have strong experience with Next.js, TypeScript, backend de
 A detailed German and English development specification is available and will be provided to suitable candidates.
 
 Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
+<item><title>Modern Webflow Portfolio Site Build</title><link>https://www.freelancer.com/projects/webflow/Modern-Webflow-Portfolio-Site-Build</link><guid isPermaLink="false">freelancer:40720605</guid><pubDate>Sat, 19 Sep 2026 06:22:58 GMT</pubDate><description>250-750 USD | I need a Webflow expert to translate my design vision into a sleek, modern portfolio site. The project calls for roughly 30 pages—think home, about me, contact, and a full collection of project and case-study pages—each one consistent in style, responsive across devices, and optimised for fast loading.
+
+I have the visual direction mapped out: clean typography, generous white space, subtle interactions, and a contemporary colour palette. Your job is to build this directly in Webflow, set up the CMS for easy content updates, and ensure every page is properly linked, SEO-ready, and accessible.
+
+Deliverables  
+• Webflow project file with 30 fully built, responsive pages  
+• CMS collections configured for portfolio items and blog posts (if needed later)  
+• Global styles and symbols for effortless future edits  
+• Basic on-page SEO: titles, meta descriptions, alt text  
+• Final walkthrough so I’m comfortable maintaining the site myself
+
+Acceptance criteria  
+1. All pages load correctly on desktop, tablet, and mobile breakpoints.  
+2. Page speed scores at least 85 on Google PageSpeed Insights.  
+3. No console errors in Chrome DevTools.  
+4. CMS items display seamlessly within their respective templates.  
+5. Hand-off includes clear documentation or a quick Loom video tour.
+
+If you’ve built modern, multi-page Webflow portfolios before, I’d love to see examples. Let’s create a site that showcases my work beautifully and functions flawlessly.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
