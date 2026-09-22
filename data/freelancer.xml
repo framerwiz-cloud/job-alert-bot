@@ -3,7 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Website Developer, Coder, Shopify, HTML</title><link>https://www.freelancer.com/projects/web-development/Website-Developer-Coder-Shopify-HTML</link><guid isPermaLink="false">freelancer:40725937</guid><pubDate>Tue, 22 Sep 2026 02:57:59 GMT</pubDate><description>8-15 USD/hr | I need someone who can code pages fast, efficently, and detail oreinted, has experience with shopify, HTML, can code FAST. Good pricing, I have lot of jobs.</description></item>
+<item><title>Website Update &amp; Stripe Integration</title><link>https://www.freelancer.com/projects/php/Website-Update-Stripe-Integration</link><guid isPermaLink="false">freelancer:40725949</guid><pubDate>Tue, 22 Sep 2026 03:07:09 GMT</pubDate><description>250-750 USD | My short-term rental website is up and running, but I need two key improvements to streamline bookings and reduce manual work.
+
+First, I want the site’s availability calendar to stay perfectly in sync with my Airbnb listings. A real-time two-way iCal connection is essential so guests never see outdated dates or double-booked nights. Once the feeds are pulling and pushing correctly, I’ll need a quick walk-through (screencast or brief doc) showing how to refresh or troubleshoot the sync if Airbnb makes future changes.
+
+Second, I’m ready to accept card payments directly on the site. I have decided on Stripe for its clean checkout flow and strong fraud protection, so the job includes installing and configuring Stripe, creating the required webhooks, and testing end-to-end to confirm that bookings trigger payment and that receipts land in both the guest’s inbox and mine. Sensitive details like account numbers will be handled by me directly within Stripe; freelancers will only work with API keys provided with limited permissions. If any small front-end tweaks are needed to slot the payment form naturally into the existing pages, please include them.
+
+Additionally, I’d like professional videos added to each property listing so visitors can view them directly on the site. Let me know if a specific video hosting platform is required or if hosting directly on the website is feasible.
+
+Lastly, I want my website integrated with platforms like TikTok, Facebook, Instagram, and Google for better visibility and marketing reach.
+
+Deliverables:
+• Live two-way Airbnb calendar sync with demonstrated success on at least one test reservation  
+• Fully integrated Stripe checkout, webhooks, and confirmation emails tested in live mode  
+• Short hand-off guide covering how to add future properties, locate Stripe transactions, manage iCal feeds, update videos, and manage social media integrations  
+• Integration of professional property videos into listings for seamless viewing
+• Social media integration with TikTok, Facebook, Instagram, and Google
+
+Everything else on the site can stay as is; no design overhaul is required. If you have experience with Stripe, iCal, video integration, social media platforms, and hospitality platforms, this should be a smooth project. I’m available for quick answers so we can get this wrapped up and taking direct bookings without delay.</description></item>
 <item><title>Wix Studio Master for Design &amp; Optimisation -- 2</title><link>https://www.freelancer.com/projects/website-design/Wix-Studio-Master-for-Design</link><guid isPermaLink="false">freelancer:40725835</guid><pubDate>Tue, 22 Sep 2026 01:16:21 GMT</pubDate><description>250-750 AUD | Wix Studio Expert Needed – Design Implementation &amp; Responsive Optimisation
 
 I’m looking for someone highly experienced with Wix Studio who can help me properly transfer and implement an existing website design into Wix Studio.
@@ -872,7 +889,6 @@ Ideal Skills &amp; Experience:
 - Familiarity with various hosting providers and their support services.
 
 Looking for a freelancer who can either teach me how to navigate this or handle the migration seamlessly.</description></item>
-<item><title>Build Website in Azure</title><link>https://www.freelancer.com/projects/web-development/Build-Website-Azure</link><guid isPermaLink="false">freelancer:40720031</guid><pubDate>Fri, 18 Sep 2026 19:20:50 GMT</pubDate><description>250-750 USD | I need a freelancer to create a website in Azure using the data and materials I will provide. The work includes setting up the site, organizing the content, and ensuring the final site is functional and ready to launch. I will handle purchasing the domain, so I’m looking for someone who can build and configure the website based on the assets I supply.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
