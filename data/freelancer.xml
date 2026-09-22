@@ -3,25 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Mobile Playback, Security, Taxonomy, SEO</title><link>https://www.freelancer.com/projects/html5/Mobile-Playback-Security-Taxonomy-SEO</link><guid isPermaLink="false">freelancer:40727900</guid><pubDate>Tue, 22 Sep 2026 23:15:18 GMT</pubDate><description>250-750 USD | I need to tackle three well-defined jobs on my adult WordPress site, starting with the most urgent: fixing a stubborn HTML5 playback bug and tightening security.
-
-Task 1 – Mobile Playback Bug &amp; Security  
-On both Safari and Chrome for iOS/Android the player ignores playsinline, refuses muted autoplay, and sometimes falls back to blank audio/video when H.264 / AAC should load. Once the player behaves exactly like it does on desktop, I also want Wordfence installed, configured, and hardened (firewall rules plus brute-force lockout). You’re free to use any lightweight tweaks or custom JS so long as performance stays crisp.
-
-Task 2 – Taxonomy Mirroring &amp; Mass Embedder  
-After playback is stable, I’d like my category tree mirrored from watchhentai.net (e.g. 3D Hentai, Uncensored, Series, Subtitled, Cosplay). ViceTemple’s Mass Embedder and the server’s cron jobs then need mapping so every scraped video inserts itself into the right clean category without creating duplicates.
-
-Task 3 – Adult SEO &amp; Metadata  
-Finally, I need dynamic templates that generate title and description tags for every auto-imported post, plus a video-centric XML sitemap that the major search engines recognise immediately.
-
-Deliverables  
-• Working inline, muted autoplay on mobile Safari &amp; Chrome with proper H.264/AAC fallback  
-• Wordfence fully configured and tested (firewall + brute-force rules)  
-• Clean taxonomy replicated and tied into Mass Embedder with duplicate prevention  
-• Dynamic meta tag template applied site-wide  
-• Automatically generated video XML sitemap
-
-Each task can be a separate milestone that roughly reflects the original budget ranges ($100-200, $150-250, $100-200). If you have experience with HTML5 media APIs, Wordfence optimisation, ViceTemple hosting, and adult SEO best practices, I’d love to hear how quickly you can jump in.</description></item>
 <item><title>Professional Email Signature Design</title><link>https://www.freelancer.com/projects/web-design/Professional-Email-Signature-Design-40727896</link><guid isPermaLink="false">freelancer:40727896</guid><pubDate>Tue, 22 Sep 2026 23:12:14 GMT</pubDate><description>15-25 USD/hr | I need a reusable email-signature block designed first, before we move on to any of the other brand assets on my list. The signature must feel professional and classic—clean lines, balanced typography, and no trendy gimmicks—so it stands up well across Outlook, Gmail, Apple Mail, and mobile clients.
 
 Content that must appear:
@@ -762,6 +743,17 @@ I’ll provide high-resolution product photography, copy, exact brand colours, f
 If you love pairing thoughtful design with seamless e-commerce functionality, I’d love to see your portfolio and discuss timelines.
 
 Look forward to speaking and collaborating with you!</description></item>
+<item><title>E-commerce Website Development</title><link>https://www.freelancer.com/projects/web-development/commerce-Website-Development-40722192</link><guid isPermaLink="false">freelancer:40722192</guid><pubDate>Sun, 20 Sep 2026 05:10:15 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to create an e-commerce website for selling digital products. The site must include secure payment processing. 
+
+Key Requirements:
+- E-commerce functionality
+- Digital products catalog
+- Secure payment processing integration
+
+Ideal Skills:
+- Experience with e-commerce platforms
+- Proficiency in secure payment gateways
+- Strong background in developing sites for digital product sales</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
