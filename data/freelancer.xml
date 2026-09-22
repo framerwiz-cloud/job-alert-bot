@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix-TutorBird Migration Expert</title><link>https://www.freelancer.com/projects/wix/Wix-TutorBird-Migration-Expert</link><guid isPermaLink="false">freelancer:40727349</guid><pubDate>Tue, 22 Sep 2026 18:24:30 GMT</pubDate><description>10-500 GBP | I want to move my entire teaching website from Wix to TutorBird without losing any of the functionality I plan on having on it. 
+
+On Wix a booking system is currently being built and a series of automations - these are bookings for trial classes within free spaces in group classes. Then email automations will follow for these classes, so students know how to join the class on Lessonspace. Payment needs to be taken and invoices will need to be sent for the trial class and if parents decide to pay for the term then an option to pay will be sent to them and there will be an option to pay for the term/monthly/yearly on the website too. If they do not decide to join the class after the trial class the space becomes empty again for someone else.
+
+Payment options will be termly payments (with an option to pay for either the full term or in monthly instalments), or a yearly payment. 
+
+So far I have a freebie lead magnet pdf ready - this is sent to someone once they sign up for the freebie. I will be collecting an email list this way and would like this to be saved on tutorbird. Once they receive the freebie they are sent 4 automated emails over 5 days. They are also directed to a page that leads them on to next steps like following my socials or joining a masterclass. I need a developer who can replicate those workflows inside TutorBird as closely as the platform allows. I need to make this as automated as possible. I will also be sending newsletters. 
+
+I need to also build a page which will give people the opportunity to join free and paid masterclasses that I host. 
+
+In the future I will need to build a tripwire funnel and a page that upsells resources. 
+
+Core functionality to reproduce  
+• Booking system – regular lessons and a “trial class if a seat is free” option, both syncing seamlessly with my calendar.  
+- Payment options for monthly (term split into monthly payments), termly payment and yearly payment options 
+• Automated emails – welcome, reminders, upsells, and any future funnels.  
+• Lead-magnet delivery – instant PDF by opt-in links.  
+• Automated invoicing – with international payment gateways that keep fees low.  
+• Future-proofing – the ability to bolt on a trip-wire funnel and sell resources at checkout, plus pages for upcoming free and paid masterclasses.
+
+Design continuity matters too: I want the current Wix layout, colour palette, and typography rebuilt inside TutorBird so the switch feels close to invisible to my audience since my brand feel matters to me. Or better if the professional knows how to make it flow and feel better for the user. It also needs to be editable for me so that I can make changes where necessary. 
+
+Acceptance criteria  
+1. A fully functioning TutorBird site that mirrors my Wix design.  
+2. All automations listed above tested live with sample data.  
+3. Step-by-step documentation so I can tweak or extend the setup myself later.  
+
+If you have hands-on experience with TutorBird, Wix, Stripe or similar payment integrations, and email automation tools (TutorBird’s native system), I’d love to hear how you would tackle this migration and the estimated timeline and cost (as I am on a budget as a small business and sole trader in my first year- budget of £0-400). I also use lessonspace to deliver my lessons and would like this to be integrated.
+
+My current website is: www.knowmadictutoring.com (the class booking system is still being built but I have a html of the draft which is attached to this brief)</description></item>
 <item><title>Creative WordPress Site Revamp</title><link>https://www.freelancer.com/projects/woocommerce/Creative-WordPress-Site-Revamp</link><guid isPermaLink="false">freelancer:40727569</guid><pubDate>Tue, 22 Sep 2026 18:05:36 GMT</pubDate><description>400-500 GBP | I’m moving my existing Squarespace website to WordPress and want to use the opportunity to give it a fresh, more creative and artistic feel. The site’s content and structure are already in place, but the look, flow, and underlying platform need an upgrade.
 
 Here’s what I need:  
@@ -19,26 +49,6 @@ I’ll supply the present Squarespace URLs, copy, and any brand assets you need.
 Once the site is live, a short hand-off session (video or written guide) will help me understand how to update products, post blogs, and manage orders.  
 
 If you enjoy pushing pixels in a playful way while still delivering a robust, professional WordPress build, I’d love to hear how you’d approach this project and see samples of similar creative sites you’ve produced.</description></item>
-<item><title>Wix-TutorBird Migration Expert</title><link>https://www.freelancer.com/projects/wix/Wix-TutorBird-Migration-Expert</link><guid isPermaLink="false">freelancer:40727349</guid><pubDate>Tue, 22 Sep 2026 18:03:11 GMT</pubDate><description>10-500 GBP | I want to move my entire teaching website from Wix to TutorBird without losing any of the functionality my students (and I) rely on. On Wix I currently run a robust booking system and a series of automations; everything from first-touch lead magnets to recurring invoices is already in place and some are being developed, so I need a developer who can replicate those workflows inside TutorBird as closely as the platform allows.
-
-Core functionality to reproduce  
-• Booking system – regular lessons and a “trial class if a seat is free” option, both syncing seamlessly with my calendar.  
-- Payment options for monthly (term split into monthly payments), monthly payment and yearly payment options 
-• Automated emails – welcome, reminders, upsells, and any future funnels.  
-• Lead-magnet delivery – instant PDF/audio download triggered by opt-in links.  
-• Automated invoicing – with international payment gateways that keep fees low.  
-• Future-proofing – the ability to bolt on a trip-wire funnel and sell resources at checkout, plus pages for upcoming free and paid masterclasses.
-
-Design continuity matters too: I want the current Wix layout, colour palette, and typography rebuilt inside TutorBird so the switch feels invisible to my audience. Or better if the professional knows how to make it flow and feel better for the user. It also needs to be editable for me so that I can make changes where necessary. 
-
-Acceptance criteria  
-1. A fully functioning TutorBird site that mirrors my Wix design.  
-2. All automations listed above tested live with sample data.  
-3. Step-by-step documentation so I can tweak or extend the setup myself later.  
-
-If you have hands-on experience with TutorBird, Wix, Stripe or similar payment integrations, and email automation tools (TutorBird’s native system), I’d love to hear how you would tackle this migration and the estimated timeline and cost (as I am on a budget as a small business and sole trader in my first year- budget of £0-400). I also use lessonspace to deliver my lessons and would like this to be integrated.
-
-My current website is: www.knowmadictutoring.com (the class booking system is still being built but I have a html of the draft which is attached to this brief)</description></item>
 <item><title>Rental Property Website With Booking</title><link>https://www.freelancer.com/projects/web-development/Rental-Property-Website-With-Booking</link><guid isPermaLink="false">freelancer:40727256</guid><pubDate>Tue, 22 Sep 2026 14:43:30 GMT</pubDate><description>250-750 USD | I want a clean, modern website that showcases my short- and long-term rental in Mexico and lets visitors reserve dates on the spot. The site must pull availability and pricing directly from Airbnb (or a similar API/widget) so I only manage one calendar. Guests should be able to:
 
 • Browse a photo gallery, watch short videos and explore an interactive virtual tour to get a full sense of the space  
