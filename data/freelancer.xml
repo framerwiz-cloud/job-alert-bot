@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Rental Property Website With Booking</title><link>https://www.freelancer.com/projects/web-development/Rental-Property-Website-With-Booking</link><guid isPermaLink="false">freelancer:40727256</guid><pubDate>Tue, 22 Sep 2026 14:43:30 GMT</pubDate><description>250-750 USD | I want a clean, modern website that showcases my short- and long-term rental in Mexico and lets visitors reserve dates on the spot. The site must pull availability and pricing directly from Airbnb (or a similar API/widget) so I only manage one calendar. Guests should be able to:
+
+• Browse a photo gallery, watch short videos and explore an interactive virtual tour to get a full sense of the space  
+• View a live calendar that mirrors my Airbnb schedule  
+• Complete their booking and payment without leaving the site  
+• Read and leave reviews that sync with—or at least mirror—the Airbnb ratings
+
+I already have professional photos and raw video footage; you will handle optimal web formatting and fast loading. A straightforward CMS (WordPress, Webflow or comparable) is preferred so I can swap images, update rates and edit text myself.
+
+Please include in your proposal:  
+• Your recommended tech stack or theme  
+• How you will handle the Airbnb integration for real-time availability and payments  
+• Approximate timeline from kickoff to launch  
+• Examples of past property or booking sites you have produced
+
+The finished site should be mobile-first, SEO-friendly and ready to go live on my domain once we sign off.</description></item>
 <item><title>Google Sheets WooCommerce Stock Control</title><link>https://www.freelancer.com/projects/google-sheets/Google-Sheets-WooCommerce-Stock-Control</link><guid isPermaLink="false">freelancer:40727243</guid><pubDate>Tue, 22 Sep 2026 14:34:06 GMT</pubDate><description>250-750 GBP | I run two WooCommerce stores and I’m looking for a straightforward stock-control spreadsheet that lives in Google Sheets. The goals are simple:
 
 • Pull the current inventory for every SKU from both WooCommerce sites into one sheet and keep it fresh throughout the day (hourly sync is fine).
@@ -786,19 +802,6 @@ Acceptance criteria
 5. Clear documentation shows how to extend templates or plug in additional Claude prompts.
 
 If you have previous experience connecting LLMs to static-site generators, headless CMSs, or custom automation scripts, I’d love to see it. Let’s make website creation as simple as having a conversation with Claude.</description></item>
-<item><title>Real Estate Listing Website Development</title><link>https://www.freelancer.com/projects/cms/Real-Estate-Listing-Website-Development</link><guid isPermaLink="false">freelancer:40721846</guid><pubDate>Sat, 19 Sep 2026 22:19:32 GMT</pubDate><description>1500-3000 GBP | I'm looking for a skilled developer to create a comprehensive real estate listing website. 
-
-Key Requirements:
-- Advanced property search functionality
-- Interactive maps for property visualization
-- (CMS preference is flexible)
-
-Ideal Skills and Experience:
-- Expertise in developing real estate websites
-- Proficiency in integrating advanced search and mapping features
-- Experience with WordPress, Joomla, or custom CMS solutions
-
-Please provide examples of similar work.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
