@@ -3,27 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Tour Website With Booking Gateway -- 2</title><link>https://www.freelancer.com/projects/php/Tour-Website-With-Booking-Gateway</link><guid isPermaLink="false">freelancer:40726763</guid><pubDate>Tue, 22 Sep 2026 10:19:32 GMT</pubDate><description>250-750 CAD | I want to launch a brand-new, modern and sleek website for my tour company and fold in a couple of quick updates on two existing sites at the same time.
+<item><title>Professional Legal Services Website</title><link>https://www.freelancer.com/projects/seo-writing/Professional-Legal-Services-Website</link><guid isPermaLink="false">freelancer:40726767</guid><pubDate>Tue, 22 Sep 2026 10:21:54 GMT</pubDate><description>250-750 EUR | I need a professional, lightweight and fast website for a legal/professional services business.
 
-Core build  
-• Design a responsive, visually striking site that captures the excitement of our tours. Think clean lines, generous whitespace, bold photography and fast load times.  
-• Integrate a booking engine that shows real-time availability so customers can instantly secure a spot without email ping-pong.  
-• Connect a payment gateway able to process both credit/debit cards and PayPal smoothly at checkout.  
+The website should have a clean, formal and trustworthy design, with a muted navy-led colour palette and professional typography. It should be responsive and work properly on desktop, tablet and mobile.
 
-Extra pages for current sites  
-Each of my two established websites needs one additional page—simple in scope but matched to their existing styles and mobile friendly. Content is ready; it just needs to be designed, added to the menus and published.
+The main requirements are:
 
-Preferred stack &amp; hand-off  
-WordPress with WooCommerce or a similarly intuitive CMS works well, though I’m open if you have a faster, reliable alternative. Once everything is live, please walk me through the admin dashboard so I can manage inventory, pricing and content myself.
+Two core pages with a consistent shared design and styling.
+Clear presentation of the services offered.
+Professional biography/about section.
+Contact form for visitors to submit enquiries.
+Contact form submissions should be delivered to the designated email address.
+Legal information including Terms, Privacy/Cookies Policy and Disclaimer.
+Fast loading and lightweight implementation.
+Clean, maintainable source code.
+Mobile-responsive layout.
+Basic accessibility and good user experience.
+Proper navigation between the pages and easy access to contact and legal information.
 
-Deliverables  
-1. Full tour business website (design, development, deployment)  
-2. Real-time availability booking system connected to my tours database  
-3. Payment gateway accepting credit/debit cards and PayPal  
-4. One new page added to each of the two existing sites  
-5. Post-launch hand-over guide and a short recorded walkthrough
+I have the general direction for the content, but I need help developing/fleshing out the service descriptions, biography and legal text. The developer should work with me to turn the available project information into polished website content.
 
-Optional future enhancements such as automated email confirmations or a user review system can be scoped later, so build with extendability in mind.</description></item>
+The final website should be ready for deployment, with all pages, forms, responsive styling and required content functioning correctly.
+
+Please clearly state the technology/CMS you recommend, how you would implement the contact form, and what is included in your quoted price.</description></item>
 <item><title>Creative WordPress Redesign &amp; Shop Website </title><link>https://www.freelancer.com/projects/woocommerce/Creative-WordPress-Redesign-Shop-Website</link><guid isPermaLink="false">freelancer:40726754</guid><pubDate>Tue, 22 Sep 2026 10:16:12 GMT</pubDate><description>250-750 USD | I’m ready to give offshorerentals.co.uk a complete creative overhaul on WordPress. You’ll receive full admin access as soon as we agree on the first concept, so you can work directly in the live environment and replace the temporary images that are on the site today. Absolutely no AI-generated visuals are to make it into the final build; every photo must look authentic and professional.
 
 The new site must:  
@@ -181,29 +183,6 @@ Deliverables:
 
 Everything else on the site can stay as is; no design overhaul is required. If you have experience with Stripe, iCal, video integration, social media platforms, and hospitality platforms, this should be a smooth project. I’m available for quick answers so we can get this wrapped up and taking direct bookings without delay.</description></item>
 <item><title>Website Developer, Coder, Shopify, HTML</title><link>https://www.freelancer.com/projects/web-development/Website-Developer-Coder-Shopify-HTML</link><guid isPermaLink="false">freelancer:40725937</guid><pubDate>Tue, 22 Sep 2026 02:57:59 GMT</pubDate><description>8-15 USD/hr | I need someone who can code pages fast, efficently, and detail oreinted, has experience with shopify, HTML, can code FAST. Good pricing, I have lot of jobs.</description></item>
-<item><title>Wix Studio Master for Design &amp; Optimisation -- 2</title><link>https://www.freelancer.com/projects/website-design/Wix-Studio-Master-for-Design</link><guid isPermaLink="false">freelancer:40725835</guid><pubDate>Tue, 22 Sep 2026 01:16:21 GMT</pubDate><description>250-750 AUD | Wix Studio Expert Needed – Design Implementation &amp; Responsive Optimisation
-
-I’m looking for someone highly experienced with Wix Studio who can help me properly transfer and implement an existing website design into Wix Studio.
-
-I already have an AI-assisted design/wireframe created using Claude, including the overall layout, structure and visual direction. However, I’m having difficulty fully translating the design into Wix Studio, particularly when it comes to achieving the same level of accuracy and responsive behaviour across desktop, tablet and mobile.
-
-I’m looking for someone who can work with me to:
-
-* Accurately recreate my existing design and layout in Wix Studio.
-* Help translate the Claude-generated design into a practical Wix Studio implementation.
-* Make sure the website is properly responsive across desktop, tablet and mobile.
-* Fix issues such as awkward stacking, spacing, sizing and horizontal scrolling on smaller screens.
-* Use Wix Studio’s native tools and responsive features wherever possible.
-* Use Velo/custom code only where it is genuinely necessary.
-* Keep the website structured so that I can continue making changes myself through Wix Studio’s drag-and-drop/editor tools in the future.
-
-A particularly important requirement is future maintainability. I don’t want the entire website to depend on custom code. If I need to change text, images, spacing, positioning or other visual elements later, I would like to be able to do this myself using Wix Studio’s native editor wherever possible.
-
-I’m therefore looking for someone who can not only implement the design, but also guide me on the best way to build it in Wix Studio so that it remains flexible and easy to maintain.
-
-I already have the design direction and layout, so I’m not looking to start the website design from scratch. I mainly need an experienced Wix Studio developer/designer who can help me bridge the gap between the existing design and a polished, fully responsive Wix Studio website.
-
-I’d also appreciate an estimated timeline and a brief explanation of how you would approach transferring the existing design into Wix Studio.</description></item>
 <item><title>Squarespace Content Upload Support wesbite claude designed prototype </title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Content-Upload-Support</link><guid isPermaLink="false">freelancer:40725776</guid><pubDate>Tue, 22 Sep 2026 00:13:34 GMT</pubDate><description>250-750 AUD | Task description:
 Everything's already designed — I just need someone comfortable with Squarespace to build it out. I'll give you a full spec with the exact text for every section, a folder of images, and the site colors/fonts. No design decisions needed, just assembly.
 
@@ -907,6 +886,25 @@ The developer should have strong experience with Next.js, TypeScript, backend de
 A detailed German and English development specification is available and will be provided to suitable candidates.
 
 Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
+<item><title>Modern Webflow Portfolio Site Build</title><link>https://www.freelancer.com/projects/webflow/Modern-Webflow-Portfolio-Site-Build</link><guid isPermaLink="false">freelancer:40720605</guid><pubDate>Sat, 19 Sep 2026 06:22:58 GMT</pubDate><description>250-750 USD | I need a Webflow expert to translate my design vision into a sleek, modern portfolio site. The project calls for roughly 30 pages—think home, about me, contact, and a full collection of project and case-study pages—each one consistent in style, responsive across devices, and optimised for fast loading.
+
+I have the visual direction mapped out: clean typography, generous white space, subtle interactions, and a contemporary colour palette. Your job is to build this directly in Webflow, set up the CMS for easy content updates, and ensure every page is properly linked, SEO-ready, and accessible.
+
+Deliverables  
+• Webflow project file with 30 fully built, responsive pages  
+• CMS collections configured for portfolio items and blog posts (if needed later)  
+• Global styles and symbols for effortless future edits  
+• Basic on-page SEO: titles, meta descriptions, alt text  
+• Final walkthrough so I’m comfortable maintaining the site myself
+
+Acceptance criteria  
+1. All pages load correctly on desktop, tablet, and mobile breakpoints.  
+2. Page speed scores at least 85 on Google PageSpeed Insights.  
+3. No console errors in Chrome DevTools.  
+4. CMS items display seamlessly within their respective templates.  
+5. Hand-off includes clear documentation or a quick Loom video tour.
+
+If you’ve built modern, multi-page Webflow portfolios before, I’d love to see examples. Let’s create a site that showcases my work beautifully and functions flawlessly.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
