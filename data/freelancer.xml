@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist WooCommerce Store Setup</title><link>https://www.freelancer.com/projects/woocommerce/Minimalist-WooCommerce-Store-Setup-40727225</link><guid isPermaLink="false">freelancer:40727225</guid><pubDate>Tue, 22 Sep 2026 14:23:46 GMT</pubDate><description>150-400 USD | I have WordPress already running on my server and now need a clean, minimalistic WooCommerce store. The catalogue starts with five products, so the build should stay light and easy to maintain.
+
+Scope  
+• Design a responsive, minimal-style storefront that reflects my brand colours and logo.  
+• Configure WooCommerce on the existing WordPress.  
+• Add the first five products (images, descriptions and pricing supplied by me) and leave everything organised so I can upload new items myself later.  
+• Set up and sandbox-test a friction-free checkout that offers PayPal, Stripe and Google Pay side by side.  
+• Keep the plugin stack to the absolute essentials—ideally only WooCommerce, the official payment extensions and one lightweight security/performance tool.  
+• Optimise basic speed and security settings without pulling in heavy page builders or bloated add-ons.  
+
+Timeline  
+All work, testing and hand-over need to be wrapped up within one month.</description></item>
 <item><title>Mystical Occult Course Website</title><link>https://www.freelancer.com/projects/web-design/Mystical-Occult-Course-Website</link><guid isPermaLink="false">freelancer:40727212</guid><pubDate>Tue, 22 Sep 2026 14:17:21 GMT</pubDate><description>250-750 GBP | I’m ready to launch an online home for my occultism courses based on the Black Star of Nuit and I’d like the entire experience to feel immersive and mystical from the first click. The site needs a clean, intuitive layout that still carries an esoteric mood through colour, typography and subtle visual elements—think dark palettes, sigil-inspired icons, gentle animations and plenty of space for imagery.
 
 Core functionality  
@@ -837,30 +849,6 @@ Experience with:
 We are looking for someone interested in building this into a serious scalable AI platform, not simply a chatbot.
 
 Please provide examples of relevant AI-agent or SaaS platforms you have built and your preferred technology stack.</description></item>
-<item><title>Full-Stack Developer for Recruiting SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Developer-for-Recruiting</link><guid isPermaLink="false">freelancer:40720775</guid><pubDate>Sat, 19 Sep 2026 08:18:21 GMT</pubDate><description>150-450 EUR | We are looking for an experienced Senior Full-Stack Developer or a small professional development team to redesign and further develop an existing multi-tenant recruiting SaaS platform.
-
-The platform already has a working codebase and must not be rebuilt from scratch. Existing functions, data structures, and workflows must be reviewed and preserved.
-
-The project includes:
-
-* Complete UI and UX relaunch
-* Candidate, company, contact, project, and talent-pool management
-* German and English language support
-* Microsoft Outlook Add-in and Microsoft 365 integration
-* Email and calendar synchronization
-* Secure CV processing and irreversible candidate anonymization
-* Customer shortlists and protected profile-sharing links
-* AI-supported candidate matching and search
-* Sales pipeline, tasks, activities, and time tracking
-* Professional invoicing with ZUGFeRD support
-* Administration-area redesign
-* Server security, tenant isolation, and DDoS protection
-
-The developer should have strong experience with Next.js, TypeScript, backend development, databases, SaaS architecture, Microsoft Graph, OAuth, document processing, and application security.
-
-A detailed German and English development specification is available and will be provided to suitable candidates.
-
-Please include examples of similar SaaS, ATS, CRM, or recruiting platforms you have developed, your proposed approach, availability, estimated timeline, and preferred milestone structure.</description></item>
 <item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
 
 Category: Web Development / Web App Development
@@ -1035,7 +1023,6 @@ Acceptance
 Updates are considered complete when dates match the master schedule, media displays correctly on desktop and mobile, links work, and Facebook insights confirm that posts are properly scheduled.
 
 If you’re comfortable juggling simple CMS editing, basic image/video optimisation, and social copy that sounds like a rock-n-roll stage banter, this will be a smooth, ongoing gig.</description></item>
-<item><title>Full Stack Sysop and Webmaster.  Ongoing work.  WP expert.</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Sysop-Webmaster-Ongoing</link><guid isPermaLink="false">freelancer:40713075</guid><pubDate>Tue, 15 Sep 2026 13:45:29 GMT</pubDate><description>15-25 USD/hr | Full Stack Developer For Websites Ongoing  Launch a new instance on our hosting company.  Maintain and upgradde existing sites on Hostgator</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
