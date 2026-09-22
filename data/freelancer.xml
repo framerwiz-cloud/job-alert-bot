@@ -23,15 +23,6 @@ Acceptance criteria
 If you have hands-on experience with TutorBird, Wix Corvid/Editor X, Stripe or similar payment integrations, and email automation tools (TutorBird’s native system, Zapier, or Make), I’d love to hear how you would tackle this migration and the estimated timeline and cost (as I am on a budget as a small business and sole trader in my first year- budget of £0-500).
 
 My current website is: www.knowmadictutoring.com (the class booking system is still being built but I have a html of the draft)</description></item>
-<item><title>Website Content &amp; Page Refresh</title><link>https://www.freelancer.com/projects/content-management-system/Website-Content-Page-Refresh</link><guid isPermaLink="false">freelancer:40727334</guid><pubDate>Tue, 22 Sep 2026 15:36:30 GMT</pubDate><description>6-12 EUR/hr | I have an existing website that needs a tidy, up-to-date feel. The work is purely content-focused:
-
-• Text updates – polishing current copy and adding new sections where needed  
-• Image updates – swapping out old visuals for fresh, properly optimised ones  
-• New pages – creating and linking a handful of additional pages to extend the site’s structure
-
-You’ll receive the current site files (or CMS login), the revised text, and a folder of approved images. I’d like the styling to remain consistent with the present design, so the job is largely about accurate placement, formatting, and making sure everything displays perfectly across desktop and mobile.
-
-Please let me know which CMSs or code bases you’re comfortable with, an estimated turnaround, and any similar content update projects you’ve completed. Once the refreshed content is live and pages are loading error-free, the job is done.</description></item>
 <item><title>Rental Property Website With Booking</title><link>https://www.freelancer.com/projects/web-development/Rental-Property-Website-With-Booking</link><guid isPermaLink="false">freelancer:40727256</guid><pubDate>Tue, 22 Sep 2026 14:43:30 GMT</pubDate><description>250-750 USD | I want a clean, modern website that showcases my short- and long-term rental in Mexico and lets visitors reserve dates on the spot. The site must pull availability and pricing directly from Airbnb (or a similar API/widget) so I only manage one calendar. Guests should be able to:
 
 • Browse a photo gallery, watch short videos and explore an interactive virtual tour to get a full sense of the space  
@@ -87,33 +78,6 @@ Deliverables
 – Documentation or short Loom walk-through showing how to add new courses  
 
 If you have experience blending strong visual storytelling with robust e-learning features, let’s talk timelines and milestones.</description></item>
-<item><title>WordPress Site Development for Local Club</title><link>https://www.freelancer.com/projects/web-development/WordPress-Site-Development-for-Local</link><guid isPermaLink="false">freelancer:40727015</guid><pubDate>Tue, 22 Sep 2026 12:36:30 GMT</pubDate><description>250-750 GBP | One page website plus two text based pop-ups.
-
-A website for a local village club that I have designed but it needs building and coding.
-
-It is a simple one page website that needs to be able take posts and change the opening times, so it will need a back end to enable this administration to be done easily.
-
-I will supply the design, MP4 movie, typefaces and the mark up of the site for this to be done.
-
-It will have a link to a Stripe and a link to Printify Pop-Up Store.
-
-It will also have a link to a Club Calendar, which I will leave for you to sort, maybe a Google Calendar.
-
-It has one link to a simple pop-up Membership page, which should be able to be accessed by the admin section to update a single club joining price with a small amount of text and a pop-up page of text for the Clubs Privacy Policy.
-
-I have already designed a clean, one-page website for our village club and now need it turned into a working WordPress build. You will receive the finished desktop and mobile layouts, all typefaces and a intro MP4, and a markup; your job is to convert that into a lightweight theme, hook it up to an easy-to-use backend, and deploy it ready for content.
-
-The whole site as the marked up design will show with have Parallax Scrolling.
-
-The site only needs two pieces of editable content:
-
-• Posts: staff will add a short news item each week.
-
-• Opening times: these change every so often and must be editable from a simple field without touching code.
-
-Because WordPress is the chosen platform, I expect you to set up custom fields (ACF, Gutenberg block, or similar) so the committee can log in, update opening hours, and publish a new post in minutes. No user-registration or complex roles are required beyond an admin account for me and an editor account for them.
-
-Please keep page speed high, stick closely to the supplied design, and leave the code well-commented. Once the theme is in place, a short screen-share hand-over or concise PDF guide showing how to update posts and opening times will complete the job.</description></item>
 <item><title>Modern Redesign of Swimming School Website</title><link>https://www.freelancer.com/projects/database-management/Custom-Built-Website-Development</link><guid isPermaLink="false">freelancer:40726953</guid><pubDate>Tue, 22 Sep 2026 11:58:48 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced web designer to redesign my custom-built website for my swimming school. The goal is to modernize the design while keeping it professional and simple, with a focus on providing clear information about our operations. Key features include a dedicated staff section and a layout that aligns with our blue and yellow branding. Payment or booking systems are not required. Completion is expected by mid-November, with a budget around £500.</description></item>
 <item><title>Wix Photo Store Shopify Rebuild</title><link>https://www.freelancer.com/projects/html/Wix-Photo-Store-Shopify-Rebuild</link><guid isPermaLink="false">freelancer:40726873</guid><pubDate>Tue, 22 Sep 2026 11:26:32 GMT</pubDate><description>3000-5000 AUD | I have a photography print store that is only halfway finished on Wix and I’m ready to give it new life on Shopify. Every product, collection and previous bit of content must be migrated cleanly, but the look and feel should be re-imagined from scratch so the brand feels premium and the buying journey is effortless.
 
@@ -818,6 +782,19 @@ Acceptance criteria
 5. Clear documentation shows how to extend templates or plug in additional Claude prompts.
 
 If you have previous experience connecting LLMs to static-site generators, headless CMSs, or custom automation scripts, I’d love to see it. Let’s make website creation as simple as having a conversation with Claude.</description></item>
+<item><title>Real Estate Listing Website Development</title><link>https://www.freelancer.com/projects/cms/Real-Estate-Listing-Website-Development</link><guid isPermaLink="false">freelancer:40721846</guid><pubDate>Sat, 19 Sep 2026 22:19:32 GMT</pubDate><description>1500-3000 GBP | I'm looking for a skilled developer to create a comprehensive real estate listing website. 
+
+Key Requirements:
+- Advanced property search functionality
+- Interactive maps for property visualization
+- (CMS preference is flexible)
+
+Ideal Skills and Experience:
+- Expertise in developing real estate websites
+- Proficiency in integrating advanced search and mapping features
+- Experience with WordPress, Joomla, or custom CMS solutions
+
+Please provide examples of similar work.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
