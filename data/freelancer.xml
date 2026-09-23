@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Company Portfolio Website Development</title><link>https://www.freelancer.com/projects/web-development/Company-Portfolio-Website-Development-40728133</link><guid isPermaLink="false">freelancer:40728133</guid><pubDate>Wed, 23 Sep 2026 02:38:50 GMT</pubDate><description>8-15 USD/hr | I’m ready to launch a polished online presence focused on one goal: a company portfolio that tells our story and converts visitors into leads. The site must put three elements front and center—an engaging About Us narrative, a clear breakdown of our Services, and real Client Testimonials that add credibility.  
+
+Design and performance are equally important. I want a modern, mobile-first layout, quick loading times, and clean code that’s easy to maintain. Feel free to recommend the stack you’re most comfortable with—WordPress, React, or a lightweight static approach—as long as the finished product is responsive and SEO-friendly.  
+
+Deliverables  
+• Fully functional website with About Us, Services, and Client Testimonials sections  
+• Simple CMS or editable templates so my team can update content without touching code  
+• Deployment on our existing host and a concise hand-over guide  
+
+Acceptance criteria  
+• Layout matches approved mock-ups across major browsers and devices  
+• All internal links, contact forms, and testimonial sliders work flawlessly  
+• Core Web Vitals score 90+ on Google PageSpeed for mobile  
+
+If you’ve built similar company portfolios before, send over two or three live links along with a brief outline of the tools you used. I’m looking forward to collaborating and getting this site live soon.</description></item>
 <item><title>Tune Joomla PHP &amp; Menus</title><link>https://www.freelancer.com/projects/content-management-system/Tune-Joomla-PHP-Menus</link><guid isPermaLink="false">freelancer:40728088</guid><pubDate>Wed, 23 Sep 2026 01:58:38 GMT</pubDate><description>15-25 AUD/hr | My Joomla site is online but several template-level PHP tweaks and a few stubborn menu behaviours are still blocking launch. I have already chosen the template (Joomlart JA Trip) and most of the content is in place.
 
 What I need is a developer who can dive straight into the template’s PHP files, adjust existing features (and possibly add new ones), and then make sure the corresponding menu items point to the right views, display in the right order, and inherit the correct styling.
