@@ -347,18 +347,6 @@ The finished site should be mobile-first, SEO-friendly and ready to go live on m
 • As soon as an item flags low, automatically create a ready-to-send purchase order tab or PDF using the stored supplier details and the predefined reorder quantity.
 
 I don’t need elaborate dashboards—just reliable automation, clean formulas, and lightweight Apps Script so anyone on the team can follow what’s happening. Please build directly in my Google Workspace, comment the scripts, and include a brief setup guide so I can add new SKUs or suppliers later without touching code. If you’ve connected WooCommerce to Sheets before via the REST API or add-ons like API Connector or Sheetgo, that experience will help us move fast.</description></item>
-<item><title>Minimalist WooCommerce Store Setup</title><link>https://www.freelancer.com/projects/woocommerce/Minimalist-WooCommerce-Store-Setup-40727225</link><guid isPermaLink="false">freelancer:40727225</guid><pubDate>Tue, 22 Sep 2026 14:23:46 GMT</pubDate><description>150-400 USD | I have WordPress already running on my server and now need a clean, minimalistic WooCommerce store. The catalogue starts with five products, so the build should stay light and easy to maintain.
-
-Scope  
-• Design a responsive, minimal-style storefront that reflects my brand colours and logo.  
-• Configure WooCommerce on the existing WordPress.  
-• Add the first five products (images, descriptions and pricing supplied by me) and leave everything organised so I can upload new items myself later.  
-• Set up and sandbox-test a friction-free checkout that offers PayPal, Stripe and Google Pay side by side.  
-• Keep the plugin stack to the absolute essentials—ideally only WooCommerce, the official payment extensions and one lightweight security/performance tool.  
-• Optimise basic speed and security settings without pulling in heavy page builders or bloated add-ons.  
-
-Timeline  
-All work, testing and hand-over need to be wrapped up within one month.</description></item>
 <item><title>Modern Redesign of Swimming School Website</title><link>https://www.freelancer.com/projects/database-management/Custom-Built-Website-Development</link><guid isPermaLink="false">freelancer:40726953</guid><pubDate>Tue, 22 Sep 2026 11:58:48 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced web designer to redesign my custom-built website for my swimming school. The goal is to modernize the design while keeping it professional and simple, with a focus on providing clear information about our operations. Key features include a dedicated staff section and a layout that aligns with our blue and yellow branding. Payment or booking systems are not required. Completion is expected by mid-November, with a budget around £500.</description></item>
 <item><title>Wix Photo Store Shopify Rebuild</title><link>https://www.freelancer.com/projects/html/Wix-Photo-Store-Shopify-Rebuild</link><guid isPermaLink="false">freelancer:40726873</guid><pubDate>Tue, 22 Sep 2026 11:26:32 GMT</pubDate><description>3000-5000 AUD | I have a photography print store that is only halfway finished on Wix and I’m ready to give it new life on Shopify. Every product, collection and previous bit of content must be migrated cleanly, but the look and feel should be re-imagined from scratch so the brand feels premium and the buying journey is effortless.
 
@@ -683,6 +671,13 @@ Ideal skills and experience:
 - Familiarity with event promotion layouts
 
 Please provide samples of similar work.</description></item>
+<item><title>Luxury Interactive Webflow E-Commerce Website for Skincare Brand</title><link>https://www.freelancer.com/projects/web-development/Luxury-Interactive-Webflow-Commerce</link><guid isPermaLink="false">freelancer:40723869</guid><pubDate>Mon, 21 Sep 2026 03:11:03 GMT</pubDate><description>250-750 USD | DRK Expressions is a science-driven skincare and body care brand centered on intentional formulation, culture, education, and self-expression.
+
+I’m seeking a skilled Webflow designer/developer to create a luxury, interactive e-commerce website that feels cinematic, modern, culturally intelligent, and editorial.
+
+The site should combine cultural imagery, product storytelling, video, subtle animations, and skincare education while maintaining a clean, easy-to-shop experience.
+
+Key features include responsive design, e-commerce functionality, customer accounts, pre-orders, product pages, and our educational INSIGHT section.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
