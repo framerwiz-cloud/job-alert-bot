@@ -3,6 +3,51 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern WooCommerce Music Store Build</title><link>https://www.freelancer.com/projects/ecommerce/Modern-WooCommerce-Music-Store-Build</link><guid isPermaLink="false">freelancer:40729609</guid><pubDate>Wed, 23 Sep 2026 17:29:05 GMT</pubDate><description>750-1500 USD | I need a fresh, modern-looking WordPress site powered by WooCommerce where I can sell my original music as individual tracks and albums. The storefront must feel slick on both desktop and mobile, reflect a clean “modern” aesthetic, and keep page load times low so listeners stay engaged.
+
+Core functionality  
+• Every product page should include an embedded streaming preview of the track or album. Listeners hit Play, hear a 30–60 second sample, and decide on the spot whether to buy.  
+• Once purchased, customers receive an automated, secure download link. No manual fulfilment.  
+• Shoppers can leave ratings and written reviews that display below the track details to boost social proof.  
+• Checkout needs to accept major credit &amp; debit cards (Stripe is fine) and PayPal. I’m open to adding more gateways later, but those two must be live from day one.
+
+Scope of work  
+– Design a lightweight, responsive theme or child-theme that nails the modern look while staying easy for me to update.  A theme has been installed but I am not attached to using it.
+– Set up product templates for single tracks, EPs, and full albums, each with preview, price, and review section ready to go.  
+– Configure audio-preview and secure-download plugins (WooCommerce Product Audio Preview, Downloadable Product permissions, or similar—your call) so they work seamlessly.  
+– Integrate Stripe and PayPal, run test transactions, and hand-over written steps so I can reconcile orders.  
+– Basic on-page SEO (titles, meta, schema for music) and performance tweaks so the store scores well on Core Web Vitals.  
+– Final walkthrough and a quick video or PDF guide showing me how to add new releases.
+
+Acceptance criteria  
+1. A visitor can preview, purchase, pay with card or PayPal, receive a download link, and leave a review—all without errors.  
+2. Site front-end scores 90+ on Google PageSpeed for mobile.  
+3. Design remains consistent across Chrome, Safari, Firefox, Edge, and current iOS/Android browsers.
+
+If this sounds like a build you can knock out cleanly, let’s talk timeline and milestones.
+
+Here is what I came up with myself:
+
+ROBERTLEECAMPMUSIC.COM
+
+Wordpress Site using WooCommerce
+Wordpress and WooCommerce have been installed
+
+Features
+
+A story with photos about my musical journey. like a bio
+
+Songs for sale under categories I create
+for each song:
+1. A description/story about the song
+2. An image that I will provide
+3. Ability to listen to the song, without downloading
+4. Ability to listen to the original recording of the song, without downloading
+5. Able to purchase the song as a download, in two formats:
+	a. mp3 file
+	b. wav file
+
+A group of free to download songs that I recorded, mostly around 1 minute each</description></item>
 <item><title>Modern Minimalistic Cleaning Website</title><link>https://www.freelancer.com/projects/web-design/Modern-Minimalistic-Cleaning-Website</link><guid isPermaLink="false">freelancer:40729038</guid><pubDate>Wed, 23 Sep 2026 12:05:06 GMT</pubDate><description>1500-3000 AUD | # Website Design &amp; Development – Green Clean Systems
 
 We are looking for an experienced **website designer/developer to build a completely new website from scratch** for Green Clean Systems, an established cleaning company servicing Sydney.
@@ -629,20 +674,6 @@ I’m seeking a skilled Webflow designer/developer to create a luxury, interacti
 The site should combine cultural imagery, product storytelling, video, subtle animations, and skincare education while maintaining a clean, easy-to-shop experience.
 
 Key features include responsive design, e-commerce functionality, customer accounts, pre-orders, product pages, and our educational INSIGHT section.</description></item>
-<item><title>Healthcare Consulting Website Development</title><link>https://www.freelancer.com/projects/web-development/Healthcare-Consulting-Website</link><guid isPermaLink="false">freelancer:40723612</guid><pubDate>Sun, 20 Sep 2026 22:33:50 GMT</pubDate><description>250-750 USD | I'm seeking a skilled web developer to create a comprehensive website for my healthcare consulting company, focusing on behavioral health accreditation. The primary users of this site will be healthcare organizations.
-
-Key Requirements:
-- The website should primarily serve healthcare organizations seeking behavioral health accreditation.
-- We need a dedicated section for resources and guidelines related to accreditation.
-- The design should be professional, user-friendly, and easily navigable.
-
-Ideal Skills and Experience:
-- Proven experience in developing websites for healthcare or consulting services.
-- Strong understanding of user experience (UX) and user interface (UI) design principles.
-- Ability to create resource-rich sections that are easy to access and understand.
-- Excellent communication skills for regular updates and feedback during the project.
-
-Please provide a portfolio showcasing similar projects.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
