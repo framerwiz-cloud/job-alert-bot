@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Kadence 3-Page PE Website</title><link>https://www.freelancer.com/projects/web-design/Kadence-Page-Website</link><guid isPermaLink="false">freelancer:40729841</guid><pubDate>Wed, 23 Sep 2026 20:04:04 GMT</pubDate><description>250-750 GBP | Rebuild of an existing B2B advisory website in WordPress/Kadence
+
+I'm rebuilding funnel-iq.com, currently a single-scroll site built in SeedProd on WordPress, hosted with Fasthosts. The audience is private-equity and venture-capital investors, M&amp;A advisers and corporate sales leaders. The site's job is to generate conversations, so every section should lead naturally to contact, while keeping an institutional, understated tone – credible rather than salesy (reference: nordiccapital.com).
+
+Fixed technical terms
+• Kadence theme and Kadence Blocks, free versions only. No Elementor, Divi or other page builders
+• No paid plugins or subscriptions. Any exception needs my written approval, with the licence bought in my name
+• Hosting stays on my existing Fasthosts WordPress plan and domain
+• Build on a staging copy, with no disruption to the live site until I approve the switch
+• Keep my existing FluentForms contact form, FluentSMTP, Cloudflare Turnstile spam protection and Google Analytics 4 set-up; remove SeedProd after switchover
+
+Build approach
+• Use Kadence's own library sections and native blocks – no custom HTML or CSS
+• Set colours and fonts globally (site-wide settings), so sections keep their built-in responsive behaviour
+• Structure: [single scroll-down page with section navigation / three pages: Home, Approach, Contact – delete as appropriate]
+• Migrate my existing final copy and images from the current site; no placeholder content
+
+Quality and handover
+• Tested and polished on iPhone as well as desktop and tablet; screenshots of each at sign-off
+• Basic on-page SEO (Yoast or Rank Math, free tier), free caching and image optimisation compatible with Fasthosts, and UpdraftPlus (free) for backups
+• A short screen-recorded handover showing me how to edit text, swap images and reorder sections without breaking the mobile layout
+• All accounts and licences in my name; your WordPress admin account removed at completion
+
+To quote, please send:
+• Two or three live links to institutional or professional-services sites you built in Kadence, saying which parts you designed and which came from a template
+• A fixed price, with delivery in two milestones: (1) the home/hero section on staging; (2) the full site live</description></item>
 <item><title>Create a High Converting Website Using AI</title><link>https://www.freelancer.com/projects/web-development/Create-High-Converting-Website-Using</link><guid isPermaLink="false">freelancer:40729803</guid><pubDate>Wed, 23 Sep 2026 19:32:56 GMT</pubDate><description>250-750 USD | Most websites look nice but fail at the one thing that matters: converting visitors into paying clients. In this project, you'll learn how to use AI to build a high converting website from scratch, fast.
 
 You'll go step by step through creating a site that looks professional, loads quickly, and is structured to sell. We'll cover how to write copy that speaks directly to your ideal client, how to lay out your pages so visitors know exactly what to do next, and how to add strong calls to action that drive enquiries and sales.
@@ -657,13 +683,6 @@ Ideal skills and experience:
 - Familiarity with event promotion layouts
 
 Please provide samples of similar work.</description></item>
-<item><title>Luxury Interactive Webflow E-Commerce Website for Skincare Brand</title><link>https://www.freelancer.com/projects/web-development/Luxury-Interactive-Webflow-Commerce</link><guid isPermaLink="false">freelancer:40723869</guid><pubDate>Mon, 21 Sep 2026 03:11:03 GMT</pubDate><description>250-750 USD | DRK Expressions is a science-driven skincare and body care brand centered on intentional formulation, culture, education, and self-expression.
-
-I’m seeking a skilled Webflow designer/developer to create a luxury, interactive e-commerce website that feels cinematic, modern, culturally intelligent, and editorial.
-
-The site should combine cultural imagery, product storytelling, video, subtle animations, and skincare education while maintaining a clean, easy-to-shop experience.
-
-Key features include responsive design, e-commerce functionality, customer accounts, pre-orders, product pages, and our educational INSIGHT section.</description></item>
 <item><title>Develop AI-Based Operating System for Art Festivals</title><link>https://www.freelancer.com/projects/Develop-Based-Operating-System-for</link><guid isPermaLink="false">freelancer:40720999</guid><pubDate>Sat, 19 Sep 2026 10:45:12 GMT</pubDate><description>50+ AUD/hr | FRINGE OS — AI-Powered Festival Management Platform
 
 We are seeking an experienced AI / full-stack developer or small development team to build an initial MVP of FRINGE OS, an AI-powered operating system for independent arts festivals and producers.
