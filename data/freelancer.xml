@@ -3,17 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Migrate Duda Site to WordPress</title><link>https://www.freelancer.com/projects/elementor/Migrate-Duda-Site-WordPress</link><guid isPermaLink="false">freelancer:40731325</guid><pubDate>Thu, 24 Sep 2026 14:19:30 GMT</pubDate><description>250-750 CAD | I’m moving my informational website from Duda to WordPress and need every page, color, font, and layout element reproduced as-is so visitors notice no visual change after launch. All existing text, images, and meta data should survive the jump intact, but I also want a straightforward contact form added and tested before we go live.
-
-Here’s how I picture the hand-off:
-• A clean WordPress install (I have an Elementor pro login) with a theme that mirrors my current design and functionality.
-• All content migrated and formatted correctly, including menus, internal links, and on-page SEO settings.
-• A functional contact form routed to my email and protected against spam (reCAPTCHA or a similar solution works).
-• Mobile and desktop responsiveness verified, plus a quick guide showing me how to edit text and images on my own.
-
-I can provide the Duda login and hosting credentials as soon as we agree on a timeline. Let me know your preferred migration workflow, the plugins you’d rely on, and how soon you can deliver a launch-ready WordPress site.
-
-https://login.oopsdo.com/home/dashboard/overview/1a59081b/overview#siteInfoCard</description></item>
 <item><title>5MW BESS Siteplan</title><link>https://www.freelancer.com/projects/BESS-Siteplan-fix</link><guid isPermaLink="false">freelancer:40731245</guid><pubDate>Thu, 24 Sep 2026 13:41:02 GMT</pubDate><description>250-750 USD | I need a conceptual design for a 5MW /20MWh Battery Energy Storage System (BESS) site plan in Massachusetts. The design should include:
 
 - Site layout and access routes
@@ -760,6 +749,24 @@ Ideal skills and experience:
 - Knowledge of payment integration systems
 
 Please share your portfolio and relevant experience.</description></item>
+<item><title>Website Update &amp; Stripe Integration</title><link>https://www.freelancer.com/projects/php/Website-Update-Stripe-Integration</link><guid isPermaLink="false">freelancer:40725949</guid><pubDate>Tue, 22 Sep 2026 03:07:09 GMT</pubDate><description>250-750 USD | My short-term rental website is up and running, but I need two key improvements to streamline bookings and reduce manual work.
+
+First, I want the site’s availability calendar to stay perfectly in sync with my Airbnb listings. A real-time two-way iCal connection is essential so guests never see outdated dates or double-booked nights. Once the feeds are pulling and pushing correctly, I’ll need a quick walk-through (screencast or brief doc) showing how to refresh or troubleshoot the sync if Airbnb makes future changes.
+
+Second, I’m ready to accept card payments directly on the site. I have decided on Stripe for its clean checkout flow and strong fraud protection, so the job includes installing and configuring Stripe, creating the required webhooks, and testing end-to-end to confirm that bookings trigger payment and that receipts land in both the guest’s inbox and mine. Sensitive details like account numbers will be handled by me directly within Stripe; freelancers will only work with API keys provided with limited permissions. If any small front-end tweaks are needed to slot the payment form naturally into the existing pages, please include them.
+
+Additionally, I’d like professional videos added to each property listing so visitors can view them directly on the site. Let me know if a specific video hosting platform is required or if hosting directly on the website is feasible.
+
+Lastly, I want my website integrated with platforms like TikTok, Facebook, Instagram, and Google for better visibility and marketing reach.
+
+Deliverables:
+• Live two-way Airbnb calendar sync with demonstrated success on at least one test reservation  
+• Fully integrated Stripe checkout, webhooks, and confirmation emails tested in live mode  
+• Short hand-off guide covering how to add future properties, locate Stripe transactions, manage iCal feeds, update videos, and manage social media integrations  
+• Integration of professional property videos into listings for seamless viewing
+• Social media integration with TikTok, Facebook, Instagram, and Google
+
+Everything else on the site can stay as is; no design overhaul is required. If you have experience with Stripe, iCal, video integration, social media platforms, and hospitality platforms, this should be a smooth project. I’m available for quick answers so we can get this wrapped up and taking direct bookings without delay.</description></item>
 <item><title>Website Developer, Coder, Shopify, HTML</title><link>https://www.freelancer.com/projects/web-development/Website-Developer-Coder-Shopify-HTML</link><guid isPermaLink="false">freelancer:40725937</guid><pubDate>Tue, 22 Sep 2026 02:57:59 GMT</pubDate><description>8-15 USD/hr | I need someone who can code pages fast, efficently, and detail oreinted, has experience with shopify, HTML, can code FAST. Good pricing, I have lot of jobs.</description></item>
 <item><title>WordPress Website Development</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Website-Development-40725036</link><guid isPermaLink="false">freelancer:40725036</guid><pubDate>Mon, 21 Sep 2026 14:43:16 GMT</pubDate><description>15-25 USD/hr | I need someone to develop my WordPress website. Some of what I have already done is visible at denisledoux.com.</description></item>
 <item><title>Environmental Admin &amp; Payroll Coordinator</title><link>https://www.freelancer.com/projects/data-entry/Environmental-Admin-Payroll-Coordinator</link><guid isPermaLink="false">freelancer:40724123</guid><pubDate>Mon, 21 Sep 2026 05:50:00 GMT</pubDate><description>25-50 USD/hr | I run a San Francisco–based habitat-restoration company and need an organised, tech-savvy hand for about 20 hours each week. The heartbeat of the job is keeping our timecards and payroll straight: you’ll pull field hours from QuickBooks, push them into ADP, cross-check labour-compliance data in LCP Tracker, and flag discrepancies before they reach the crew.
