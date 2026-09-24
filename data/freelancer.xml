@@ -16,20 +16,6 @@ Deliverables
 
 I aim to go live within one week of awarding the project, so please reply with a brief plan and realistic timeline for each milestone.</description></item>
 <item><title>Full-Scale Webinar Marketing Assets Production</title><link>https://www.freelancer.com/projects/content-creation/Full-Scale-Webinar-Marketing-Assets</link><guid isPermaLink="false">freelancer:40730991</guid><pubDate>Thu, 24 Sep 2026 10:58:14 GMT</pubDate><description>500-7000 AUD | We're running a B2B webinar campaign and need hands-on help producing the marketing assets around it — from planning content through to post-event repurposing. This is a full-funnel project: pre-webinar promotion, during event and post-webinar repurposing.   We'll provide the strategic direction (key messages, speaker info, brand assets) — you'll bring the craft to execute it professionally and on-brand.  Scope of Work  Content foundation -Build the webinar agenda -Develop key messages / talk track for the presenters -Build the presentation deck -Build a content master one-pager summarising the key messages, to brief the rest of the campaign assets  Copywriting &amp; design -Speaker background/lower-third graphics -Webinar background design -On-screen offer/CTA for the next step, shown during the webinar -Registration landing page copy -Registration website banner -3x registration emails (why attend / speaker highlights / key message) -3x registration social posts (why attend / speaker highlights / key message) -Informal registration email  - 2x registrant reminder emails (3 days out, 24 hours out) - 4x live text posts for during the webinar  Webinar hub listing copy/assets -Attendee follow-up email (offer + key takeaways) - Non-attendee follow-up email (takeaways + on-demand link) - 2x post-webinar social posts (summary, key message) - Blog post summarising the webinar, with embedded video cutdowns  Video editing Script + edit 2x short registration videos (we'll provide the script, we'll get the raw footage recorded — you edit) Edit the full webinar recording Cut down 3x short clips from the recording, each highlighting one key message  What we'll provide Key messages, brand guidelines, and speaker information Raw webinar recording and video footage for editing</description></item>
-<item><title>Healthcare Information Website With Articles</title><link>https://www.freelancer.com/projects/web-development/Healthcare-Information-Website-With</link><guid isPermaLink="false">freelancer:40730632</guid><pubDate>Thu, 24 Sep 2026 07:27:50 GMT</pubDate><description>250-750 USD | I need a brand-new website that acts as a trusted information hub for our patients. The single most important feature is an article section where I can post clear, reliable health tips every week. Because this cadence is non-negotiable, the build must include a straightforward content-management system—something my team can use to log in, draft, schedule, and publish without touching code.  
-
-The design should feel professional yet welcoming, load quickly, and look perfect on phones and tablets. Basic on-page SEO (metadata, clean URLs, structured headings) is essential so the articles can be discovered easily, and an intuitive search or category filter will help patients locate the topics they need.  
-
-I’m open to WordPress, Joomla, or another lightweight framework—whatever you recommend that keeps weekly updates painless while leaving room to add appointment booking or doctor profile modules down the road.  
-
-Deliverables  
-• Fully responsive site installed on our domain and hosting  
-• CMS configured with a blog/news module for weekly health articles and tips  
-• One customised theme matching our brand colours and logo  
-• Basic security, backup, and analytics in place  
-• A brief hand-off guide (or recorded walk-through) so staff can add, edit, and schedule content on their own  
-
-I will handle the first batch of articles once the site is live, so demonstration posts are all that’s required during development. Please outline your proposed tech stack, build timeline, and any ongoing maintenance you recommend.</description></item>
 <item><title>Game Developer for Gift Website -- 2</title><link>https://www.freelancer.com/projects/game-development/Game-Developer-for-Gift-Website</link><guid isPermaLink="false">freelancer:40729954</guid><pubDate>Thu, 24 Sep 2026 06:00:33 GMT</pubDate><description>1500-3000 CAD | I’m the founder of EZ Gift, a customizable gift company, and I’m looking for a developer or game studio to create an optional gaming experience connected to our website, ezgift.net. Customers should be able to shop normally or enter a fun game mode where they build a real gift as they play. The game should appeal to adults and younger audiences, with the energy of racing, obstacle runs, arcade challenges, and friendly competition. The player chooses an occasion, enters EZ Gift City, and completes a mission that includes candy choices, packaging design, add-ons, and personalization. These selections should carry through to the final product preview and checkout.</description></item>
 <item><title>Build a guest registration and check-in system for a wellness/ recovery venue</title><link>https://www.freelancer.com/projects/web-development/Build-guest-registration-check-system</link><guid isPermaLink="false">freelancer:40730437</guid><pubDate>Thu, 24 Sep 2026 05:23:17 GMT</pubDate><description>250-750 AUD | We need someone to build a simple guest registration and check-in system for a wellness venue. 
 
@@ -673,6 +659,26 @@ Deliverables:
 
 Everything else on the site can stay as is; no design overhaul is required. If you have experience with Stripe, iCal, video integration, social media platforms, and hospitality platforms, this should be a smooth project. I’m available for quick answers so we can get this wrapped up and taking direct bookings without delay.</description></item>
 <item><title>Website Developer, Coder, Shopify, HTML</title><link>https://www.freelancer.com/projects/web-development/Website-Developer-Coder-Shopify-HTML</link><guid isPermaLink="false">freelancer:40725937</guid><pubDate>Tue, 22 Sep 2026 02:57:59 GMT</pubDate><description>8-15 USD/hr | I need someone who can code pages fast, efficently, and detail oreinted, has experience with shopify, HTML, can code FAST. Good pricing, I have lot of jobs.</description></item>
+<item><title>AI Voice Sales Platform Build</title><link>https://www.freelancer.com/projects/ai-voice-agents/Voice-Sales-Platform-Build</link><guid isPermaLink="false">freelancer:40725644</guid><pubDate>Mon, 21 Sep 2026 21:46:30 GMT</pubDate><description>750-1500 USD | I need a full-stack developer with solid AI voice expertise to architect and code a web-based outbound sales platform that speaks naturally with prospective shippers, qualifies freight opportunities, and instantly routes good leads to my human team.
+
+Core features the system must deliver:  
+• Natural language processing that keeps the conversation professional and fluid  
+• Automated lead qualification logic aligned with our brokerage criteria  
+• Seamless handoff to a live rep via warm transfer, chat, or calendar booking  
+
+During each call the agent should:  
+• Engage in two-way conversation, answering questions as they arise  
+• Collect and analyze responses in real time, updating a contact record  
+• Schedule follow-up calls or demos when prospects prefer a later touchpoint  
+
+I’m picturing a browser-based dashboard where I can upload target lists, monitor live or recorded calls, tweak qualification rules, and pull analytics on conversion rates. You’ll own everything from AI model selection (think speech-to-text, text-to-speech, intent detection) to back-end services, database design, and a crisp React or similar front end.
+
+Deliverables will be:  
+1. A deployed MVP on my cloud account (AWS, GCP, or Azure—your recommendation)  
+2. Source code in a private Git repo with setup documentation  
+3. Post-launch support for bug fixes and performance tuning for at least 30 days  
+
+I’m ready to move quickly; show me past voice or conversational AI work that proves you can handle both the telephony layer (Twilio, Voximplant, etc.) and a modern web stack.</description></item>
 <item><title>WordPress Website Development</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Website-Development-40725036</link><guid isPermaLink="false">freelancer:40725036</guid><pubDate>Mon, 21 Sep 2026 14:43:16 GMT</pubDate><description>15-25 USD/hr | I need someone to develop my WordPress website. Some of what I have already done is visible at denisledoux.com.</description></item>
 <item><title>Environmental Admin &amp; Payroll Coordinator</title><link>https://www.freelancer.com/projects/data-entry/Environmental-Admin-Payroll-Coordinator</link><guid isPermaLink="false">freelancer:40724123</guid><pubDate>Mon, 21 Sep 2026 05:50:00 GMT</pubDate><description>25-50 USD/hr | I run a San Francisco–based habitat-restoration company and need an organised, tech-savvy hand for about 20 hours each week. The heartbeat of the job is keeping our timecards and payroll straight: you’ll pull field hours from QuickBooks, push them into ADP, cross-check labour-compliance data in LCP Tracker, and flag discrepancies before they reach the crew.
 
