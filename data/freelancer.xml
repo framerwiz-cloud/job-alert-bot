@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Kaspa Credential Verification MVP Build</title><link>https://www.freelancer.com/projects/blockchain/Kaspa-Credential-Verification-MVP-Build</link><guid isPermaLink="false">freelancer:40730321</guid><pubDate>Thu, 24 Sep 2026 03:59:29 GMT</pubDate><description>250-750 USD | I’m ready to move EduTrace from concept to a working MVP on the Kaspa blockchain and need a builder who can make that happen. The focus for this first milestone is a simple, web-based verification portal where anyone can drop in a credential hash and instantly confirm its authenticity on-chain.  
+
+Core scope  
+• Build Kaspa-powered anchoring logic that writes credential proofs (UTXOs) using SilverScript covenants.  
+• Support issuance and verification for educational diplomas, transcripts, and certificates right from day one.  
+• Design both institution and student workflows: schools must be able to issue and revoke, while graduates should download or share proofs for employers.  
+• Expose a clean front-end that shows status, timestamp, and tamper-proof evidence in seconds.  
+
+Acceptance criteria  
+• One-click issuance writes a verifiable Kaspa transaction; hash, timestamp, and metadata are queryable.  
+• Verification portal returns a validated / invalid / revoked state under three seconds.  
+• All three document types process end-to-end without manual intervention.  
+• Codebase and covenant scripts are handed over with clear README and setup instructions so I can redeploy independently.  
+
+If you already speak Kaspa and have experimented with SilverScript covenants, you’ll feel right at home. If you’re just eager to dive in and can prove past UTXO-based projects, that works too. After the MVP goes live, I plan to extend EduTrace into physical asset tokenization, so there’s plenty of room to grow the engagement. Let’s get this portal live.</description></item>
 <item><title>Solo Practitioner Law Firm Website</title><link>https://www.freelancer.com/projects/web-design/Solo-Practitioner-Law-Firm-Website</link><guid isPermaLink="false">freelancer:40728176</guid><pubDate>Thu, 24 Sep 2026 01:47:22 GMT</pubDate><description>3000-5000 USD | Hello,
 
 *I just attached a detailed call for proposals ("CFP") with all requirements.*
@@ -689,13 +704,6 @@ Web3 user experience
 We already have an MVP version and are improving the blockchain architecture for the next development phase.
 
 We are looking for someone who can become a key technical contributor as we continue building our Web3 gaming ecosystem.</description></item>
-<item><title>API Integration for Training Portal</title><link>https://www.freelancer.com/projects/api/API-Integration-for-Training-Portal</link><guid isPermaLink="false">freelancer:40724369</guid><pubDate>Mon, 21 Sep 2026 08:09:59 GMT</pubDate><description>250-750 GBP | Hi
-
-I need an API Developer for a small project to integrate a training portal from a third party on to my website https://www.eqmstraining.co.uk/, is this something you are able to help with?
-The third party is https://mytrainingacademy.org.uk/ and I have the API workflow and details required from them already.
-
-Kind Regards
-Bjarke</description></item>
 <item><title>Environmental Admin &amp; Payroll Coordinator</title><link>https://www.freelancer.com/projects/data-entry/Environmental-Admin-Payroll-Coordinator</link><guid isPermaLink="false">freelancer:40724123</guid><pubDate>Mon, 21 Sep 2026 05:50:00 GMT</pubDate><description>25-50 USD/hr | I run a San Francisco–based habitat-restoration company and need an organised, tech-savvy hand for about 20 hours each week. The heartbeat of the job is keeping our timecards and payroll straight: you’ll pull field hours from QuickBooks, push them into ADP, cross-check labour-compliance data in LCP Tracker, and flag discrepancies before they reach the crew.
 
 Around that core responsibility, you’ll keep our many small but critical wheels turning—renewing insurance certificates on schedule, tracking the status of several concurrent contracts, ordering safety gear and native-plant supplies, and touching base with a wide range of clients that includes municipal and state agencies. Clear, confident email and phone communication is a must.
