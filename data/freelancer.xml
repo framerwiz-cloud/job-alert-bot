@@ -3,6 +3,62 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build a guest registration and check-in system for a wellness/ recovery venue</title><link>https://www.freelancer.com/projects/web-development/Build-guest-registration-check-system</link><guid isPermaLink="false">freelancer:40730437</guid><pubDate>Thu, 24 Sep 2026 05:23:17 GMT</pubDate><description>250-750 AUD | We need someone to build a simple guest registration and check-in system for a wellness venue. 
+
+We operate a wellness venue (pool, sauna, ice bath) in Bali, Indonesia. We need a simple, mobile-friendly web application for guest registration, digital waivers, passes, and attendance.
+
+Payments are handled separately through our card terminal. We do not need payment processing, online booking, or a native mobile app. We have started working on a website via square space, but this is only for visual content, nothing interactive (no bookings, payments etc via this website).
+
+the Operational flow would be as follows:
+Guest registration:
+- Existing guests scan a QR code and check in or first-time guests type in their name, phone number, and email.
+- First time Guests read and electronically sign our waiver.
+- Store the signed waiver, signing date, and the exact waiver version with their profile.
+- Returning guests do not need to register again unless their waiver needs renewing.
+- Guests can choose between a single entry, a week pass or a monthly pass. Payment is then done separately, but recorded via the platform.
+- There is also a variety of juices available, which we'd like them to be able to choose. As above, payment is then done separately, but recorded via the platform.
+
+Reception dashboard:
+- Secure staff login.
+- Search for a guest by name, phone, or email.
+- Easily view their details, signed waiver, pass status, and visit history.
+- Staff can assign single-entry, seven-day, or monthly passes after payment is taken separately.
+- Show the pass start and expiry dates clearly.
+- Check guests in with one click and record the actual entry time.
+- Check guests out and show who is currently inside.
+- Allow a configurable visit time limit, such as two hours, with an expected departure time and a visible overdue indicator.
+- Use Bali local time.
+
+Reports
+- Daily visits, unique guests, and new registrations.
+- Weekly summary with a daily breakdown.
+- Export guest details and attendance records to CSV.
+- Download signed waivers.
+
+Ownership and handover
+- We must own the source code and control the hosting, database, and administrator accounts.
+- Include automated backups and instructions for restoring data.
+- Guest information and waivers must only be accessible to authorized staff.
+- Provide operating instructions.
+- State all ongoing hosting, software, and maintenance costs.
+- Include a clearly defined period for fixing bugs after launch.
+
+Please propose the simplest maintainable solution. An established platform is acceptable if it meets the requirements and you explain its fees and limitations.
+
+Please include:
+1. Relevant examples of similar systems you have delivered.
+2. Your proposed approach and why it fits.
+3. A fixed-price quote with milestones.
+4. Estimated delivery time.
+5. Ongoing costs and support arrangements.
+
+Before final acceptance, please demonstrate:
+- A new guest registering and signing a waiver.
+- A returning guest checking in without creating another profile.
+- A valid and an expired weekly pass.
+- An overdue visit and guest checkout.
+- Accurate weekly reporting.
+- Data export and backup restoration.</description></item>
 <item><title>Kaspa Credential Verification MVP Build</title><link>https://www.freelancer.com/projects/blockchain/Kaspa-Credential-Verification-MVP-Build</link><guid isPermaLink="false">freelancer:40730321</guid><pubDate>Thu, 24 Sep 2026 03:59:29 GMT</pubDate><description>250-750 USD | I’m ready to move EduTrace from concept to a working MVP on the Kaspa blockchain and need a builder who can make that happen. The focus for this first milestone is a simple, web-based verification portal where anyone can drop in a credential hash and instantly confirm its authenticity on-chain.  
 
 Core scope  
@@ -655,24 +711,6 @@ Ideal Skills and Experience:
 - Ability to enhance site functionality without compromising existing performance
 - Attention to detail and good project management skills</description></item>
 <item><title>WordPress Website Development</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Website-Development-40725036</link><guid isPermaLink="false">freelancer:40725036</guid><pubDate>Mon, 21 Sep 2026 14:43:16 GMT</pubDate><description>15-25 USD/hr | I need someone to develop my WordPress website. Some of what I have already done is visible at denisledoux.com.</description></item>
-<item><title>Two-Page Legal Website Creation</title><link>https://www.freelancer.com/projects/web-design/Two-Page-Legal-Website-Creation</link><guid isPermaLink="false">freelancer:40724844</guid><pubDate>Mon, 21 Sep 2026 12:56:12 GMT</pubDate><description>250-750 GBP | I need a concise, professional-looking website for my new legal venture. The entire build is just two core pages plus a footer that carries the obligatory legal notices.
-
-Page one, “What I Do”, must present clear service descriptions in a crisp, formal layout—no fluff, just the essentials of how I can help. Page two, “Who I Am”, should host a very short bio (a couple of lines and possibly a headshot) to keep things personable without feeling like a résumé.
-
-The contact section can sit either as a sidebar or footer block; it simply needs my email, phone and an embedded form that works. Right beneath, or linked in the footer, place the Terms of Use, Privacy &amp; Cookies Policy and a standard legal disclaimer, all styled consistently with the rest of the site.
-
-Design needs:
-• Professional, formal theme—think muted palette, strong typography, clean spacing (navy etc).  
-• Fully responsive so it reads well on phones and desktops alike.  
-• Lightweight code; fast load is a must.
-
-Deliverables:
-• Two fully coded pages with responsive CSS.  
-• Contact form configured to send to my mailbox.  
-• Linked or embedded Terms of Use, Privacy &amp; Cookies Policy, and Disclaimer.  
-• Source files and any stock imagery licences.
-
-I’ll provide the final wording for services and the bio; you handle layout, styling and any minor copy tweaks for flow. Once built, a brief hand-over showing where to update text in future will wrap the project.</description></item>
 <item><title>Smart Contract Developer Needed for Web3 Gaming Platform (Solidity / DeFi / NFT)</title><link>https://www.freelancer.com/projects/blockchain/Smart-Contract-Developer-Needed-for-40724478</link><guid isPermaLink="false">freelancer:40724478</guid><pubDate>Mon, 21 Sep 2026 09:12:15 GMT</pubDate><description>18-36 EUR/hr | We are building a next-generation Blockchain Web3 Gaming platform that combines decentralized gaming, token economics, staking, NFTs, and on-chain rewards.
 
 We are looking for an experienced Smart Contract Developer who can help us design, develop, test, and optimize secure smart contracts for our platform.
