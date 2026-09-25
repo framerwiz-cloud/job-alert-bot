@@ -3,6 +3,124 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Property-Manager Portal Development</title><link>https://www.freelancer.com/projects/web-development/WordPress-Property-Manager-Portal</link><guid isPermaLink="false">freelancer:40732214</guid><pubDate>Fri, 25 Sep 2026 03:01:42 GMT</pubDate><description>250-750 AUD | I am looking for a WordPress developer to build a secure property-manager portal within my existing Mako Property Care website.
+
+The aim is to provide real estate/property managers with a simple online portal where they can manage their properties and request maintenance services from Mako.
+
+Existing Technology
+
+The website is built on WordPress and I intend to use:
+
+Gutenberg
+Advanced Custom Fields (ACF)
+Forminator or similar forms
+A lightweight custom WordPress plugin where required
+I want to avoid Elementor or a separate custom application unless there is a strong technical reason.
+
+Core Portal Workflow
+
+The main workflow should be:
+
+Property Manager Login → My Properties → Select Property → Request a Job → Track Job → View Job Report/Photos/Documents
+
+Main Features Required
+
+1. Secure Property Manager Login
+
+Individual property-manager accounts
+Property managers cannot access WordPress administration
+Each manager can only see their own assigned properties
+2. My Properties
+
+Display properties assigned to the logged-in manager
+Property cards showing photo, address, property ID and status
+“View Property” and “Request a Job” buttons
+Must be dynamically filtered by the logged-in user
+3. Individual Property Page
+Each property should have:
+
+Property information
+Access instructions
+Special instructions
+Request a Job
+Current Jobs
+Job Reports
+Photos
+Documents
+4. Maintenance Request Form
+Using Forminator or similar:
+
+Property — automatically selected
+Service required
+Description
+Priority
+Preferred date
+Photo upload
+Additional information
+Services will initially include lawn mowing, gutter cleaning, pressure washing, window cleaning, house washing, roof cleaning and other external property maintenance.
+
+5. Jobs
+Property managers should be able to see:
+
+Job number
+Property
+Service
+Status
+Requested/scheduled/completed dates
+Job details
+6. Job Reports
+Mako staff should be able to upload reports containing:
+
+Work completed
+Before/after condition
+Recommendations
+Before/after photos
+PDF report
+Property managers should only see reports belonging to their properties.
+
+7. Documents
+Allow property-specific documents such as:
+
+Quotes
+Invoices
+Job reports
+Certificates
+Photos
+Other documents
+Security
+
+This is particularly important.
+
+A property manager must not be able to access another manager’s property, job, report or document by changing a URL or otherwise bypassing the portal.
+
+Access must be controlled at the server/WordPress level, not simply by hiding information from the screen.
+
+Future Integration
+
+The system should be designed so that we can later integrate with ServiceM8 or Formitize for job management, scheduling, reporting and other automation.
+
+I do not require that integration in the initial build.
+
+My Priority
+
+I want a professional but simple and affordable MVP that I can manage myself after development.
+
+I need to be able to:
+
+Add a property → assign it to a property manager → publish → property automatically appears in that manager’s portal.
+
+The portal must be mobile-friendly and work well on phones, tablets and desktop.
+
+Initial Quote Request
+
+Could you please provide:
+
+Estimated development cost
+Estimated timeframe
+What plugins/licences you would require
+What you would recommend changing or simplifying
+Ongoing maintenance costs, if any
+Whether you can build the system so it can later integrate with ServiceM8 or Formitize</description></item>
 <item><title>CEO Dashboard &amp; WordPress Booking Revamp</title><link>https://www.freelancer.com/projects/zapier/CEO-Dashboard-WordPress-Booking-Revamp</link><guid isPermaLink="false">freelancer:40732017</guid><pubDate>Thu, 24 Sep 2026 23:36:13 GMT</pubDate><description>250-750 CAD | I need two tightly-connected pieces of work completed so I can run the business with better data and turn more site visitors into confirmed bookings.
 
 1) CEO Profit-and-Loss Dashboard  
@@ -835,22 +953,6 @@ The finished site should be mobile-first, SEO-friendly and ready to go live on m
 
 I don’t need elaborate dashboards—just reliable automation, clean formulas, and lightweight Apps Script so anyone on the team can follow what’s happening. Please build directly in my Google Workspace, comment the scripts, and include a brief setup guide so I can add new SKUs or suppliers later without touching code. If you’ve connected WooCommerce to Sheets before via the REST API or add-ons like API Connector or Sheetgo, that experience will help us move fast.</description></item>
 <item><title>Modern Redesign of Swimming School Website</title><link>https://www.freelancer.com/projects/database-management/Custom-Built-Website-Development</link><guid isPermaLink="false">freelancer:40726953</guid><pubDate>Tue, 22 Sep 2026 11:58:48 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced web designer to redesign my custom-built website for my swimming school. The goal is to modernize the design while keeping it professional and simple, with a focus on providing clear information about our operations. Key features include a dedicated staff section and a layout that aligns with our blue and yellow branding. Payment or booking systems are not required. Completion is expected by mid-November, with a budget around £500.</description></item>
-<item><title>Wix Photo Store Shopify Rebuild</title><link>https://www.freelancer.com/projects/html/Wix-Photo-Store-Shopify-Rebuild</link><guid isPermaLink="false">freelancer:40726873</guid><pubDate>Tue, 22 Sep 2026 11:26:32 GMT</pubDate><description>3000-5000 AUD | I have a photography print store that is only halfway finished on Wix and I’m ready to give it new life on Shopify. Every product, collection and previous bit of content must be migrated cleanly, but the look and feel should be re-imagined from scratch so the brand feels premium and the buying journey is effortless.
-
-What I already know I need  
-• Customer reviews visible on every product page (Loox, Judge.me or whatever app you trust)  
-• Robust, tag-driven product filtering so shoppers can narrow by size, orientation, colour palette, price, etc.  
-• Seamless social media integration for Instagram and Pinterest galleries, plus direct sharing buttons.
-
-Beyond that, I’m open to your advice on extra functionality that could boost AOV and retention—whether that’s custom framing previews, live chat, or any other best-practice tools you’ve seen work for art or print stores.
-
-Key expectations  
-• Full Wix-to-Shopify data migration without losing SEO equity.  
-• A completely new, mobile-first theme designed in Liquid/Shopify 2.0 standards.  
-• Fast load times, clear checkout flow, and WCAG-friendly accessibility.  
-• Launch support and a quick hand-off guide so I can manage the store solo after go-live.
-
-If you have a track record of high-converting, visually striking Shopify builds, I’d love to see examples and hear how you’d tackle this project.</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
