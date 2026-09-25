@@ -1067,62 +1067,6 @@ Experience with:
 We are looking for someone interested in building this into a serious scalable AI platform, not simply a chatbot.
 
 Please provide examples of relevant AI-agent or SaaS platforms you have built and your preferred technology stack.</description></item>
-<item><title>Clinical Professionals Portfolio Web Platform</title><link>https://www.freelancer.com/projects/backend-development/Clinical-Professionals-Portfolio-Web</link><guid isPermaLink="false">freelancer:40719781</guid><pubDate>Fri, 18 Sep 2026 16:30:55 GMT</pubDate><description>5-10 GBP/hr | Project Title: Medical Portfolio Web Platform — Paid Certificate &amp; CPD Tracker (with Future Course/Academy Expansion)
-
-Category: Web Development / Web App Development
-
-Budget Type: Fixed price (quotes requested) or Hourly
-
-Project Description:
-
-I'm building a paid-access web portfolio platform for clinical professionals, primarily aimed at international doctors arriving in the UK who currently have no way to organise their credentials and clinical evidence in one place. The platform should also be usable by any member of the clinical team — nurses, allied health professionals, medical students (pre-grad and postgrad).
-
-Think of it as similar in spirit to existing medical e-portfolio tools (comparable to platforms like the NHS e-Portfolio / "Turas"-style tools, or "14Fish"), but:
-- Subscription or one-off payment to access, built as the flagship feature of a wider brand (Octavia)
-- Designed to expand later into a course marketplace and locum agency platform (not now — see Phase 2 below)
-
-Phase 1 scope (what I need built now):
-- User registration/login system (individual accounts)
-- Payment integration (Stripe or similar) — gating access to the portfolio tool behind a subscription or one-time fee; open to your recommendation on which pricing model suits the build best
-- A personal portfolio dashboard where users can:
-  - Upload and store certificates (PDF/image upload, categorised — e.g. BLS, ALS, safeguarding levels 1–3, infection control, moving and handling, consent and capacity, Oliver McGowan training, etc.)
-  - Write free-text portfolio entries/reflections (date-stamped, editable)
-  - View/download/export their own certificate list and entries
-- Clean, professional medical/clinical aesthetic — trustworthy, simple, not cluttered
-- Mobile-responsive
-- Basic admin backend for me to see user counts, subscriptions/payments, and manage the platform
-
-Phase 2 (future, not part of this build — please design with this in mind for extensibility):
-- Paid course marketplace (BLS, ALS, safeguarding, infection control, etc.)
-- Locum agency functionality
-- Academy/CPD tracking tied to course completions
-
-What I need from freelancers bidding:
-- Relevant experience with web apps involving user accounts, payment integration, file uploads, and dashboards
-- Suggested tech stack and why
-- Recommended payment/pricing model (subscription vs. one-off) and why
-- Fixed price estimate for Phase 1 only, and rough estimate for what Phase 2 might add later
-- Timeline estimate
-- Portfolio/examples of similar platforms you've built
-
-Notes:
-- Data privacy matters — this will hold personal certificates, career documents, and payment data, so secure storage/auth and PCI-compliant payment handling are essential
-- Please build with scalability in mind since Phase 2 will add more course commerce and complex user roles</description></item>
-<item><title>GoHighLevel Account Manager</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-Account-Manager</link><guid isPermaLink="false">freelancer:40719777</guid><pubDate>Fri, 18 Sep 2026 16:29:24 GMT</pubDate><description>25-50 CAD/hr | I manage several client accounts inside GoHighLevel and need a specialist to expand and maintain their systems. The immediate priority is automation building and testing. As well as funnel page construction, with a strong emphasis on creating follow-up workflows that fire reliably as leads move through defined pipeline stages.
-
-Beyond the core follow-up sequences, ongoing tasks will include refining pipeline automation, constructing high-converting funnel pages, building clear client dashboards, and providing occasional user support. If you already work comfortably inside GoHighLevel, you’ll recognise the tools involved—Workflows, Campaigns, Email Builder, Funnel Builder, and Reporting dashboards.
-
-Deliverables
-• A fully tested follow-up email workflow for each assigned client, complete with triggers, tags, and time delays  
-• Clear documentation of the logic and settings used  
-• A brief Loom walkthrough so my internal team can maintain or duplicate the setup  
-
-Acceptance Criteria
-• Emails send at the correct intervals and from the correct domains  
-• Leads advance automatically to the appropriate pipeline stages and opportunities are updated accordingly  
-• No manual intervention is required once the workflow is active  
-
-When you respond, show me past work that proves your GoHighLevel automation skills—screenshots, short videos, or live examples are all welcome. I’m ready to get started as soon as I find the right fit.</description></item>
 <item><title>Improve my website for a massage shop</title><link>https://www.freelancer.com/projects/branding/Project-for-Gowtham-40708388</link><guid isPermaLink="false">freelancer:40708388</guid><pubDate>Sun, 13 Sep 2026 08:44:39 GMT</pubDate><description>20-20 USD/hr | Improve the website free jands on design. Link to exhisting appointment system</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
