@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Web Designer Needed: HIPAA-Compliant Squarespace Site &amp; Acuity Scheduling Setup for Laboratory</title><link>https://www.freelancer.com/projects/website-design/Web-Designer-Needed-HIPAA-Compliant</link><guid isPermaLink="false">freelancer:40733704</guid><pubDate>Fri, 25 Sep 2026 19:36:14 GMT</pubDate><description>250-750 USD | Overview:
+
+I am seeking an experienced web designer to build out a clean, modern, and formal website for a clinical pathology laboratory. We have an existing domain and an inactive Squarespace account. The primary goal is to launch a professional web presence that features seamless, HIPAA-compliant patient scheduling.
+
+Scope of Work:
+
+Page Builds &amp; Design: Custom layout and configuration for a small site, including a Services page (detailing testing capabilities) and an About Us page (mission statement, team bios, and photos for 4 staff members).
+
+HIPAA-Compliant Scheduling Integration: Set up and embed Acuity Scheduling into the site. Must support a seamless booking flow that matches brand styling while ensuring all Protected Health Information (PHI) is safely captured within Acuity. (Note: Must be configured on an Acuity tier that supports a signed BAA).
+
+Design &amp; Responsiveness: Clean, uncluttered layout with modern healthcare typography and a restrained color palette. Fully responsive across desktop, tablet, and mobile browsers (Chrome, Safari, Edge).
+
+Deliverables:
+
+Fully configured and published Squarespace (or other) website.
+
+Integrated, end-to-end tested Acuity Scheduler meeting all HIPAA requirements.
+
+A brief hand-off guide (PDF or Doc) so internal staff can update copy, add services, and manage appointments moving forward.
+
+Client Support:
+
+Logo collaborator access to Squarespace/Acuity (if used) will be provided upon project kickoff.</description></item>
 <item><title>Remote Floral Shop Support USA</title><link>https://www.freelancer.com/projects/customer-service/Remote-Floral-Shop-Support-USA</link><guid isPermaLink="false">freelancer:40733662</guid><pubDate>Fri, 25 Sep 2026 19:02:00 GMT</pubDate><description>25-50 USD/hr | I need a friendly, tech-savvy voice to look after my floral shop’s customers from home. Your day will revolve around two touchpoints: picking up incoming phone calls and responding in real time through the LiveChat widget on our website. You’ll be the first person a bride, event planner, or last-minute gift giver speaks with, so clear, warm communication is essential.
 
 Here is how I measure success:  
@@ -971,38 +994,6 @@ Key deliverables
 • Deployment on my hosting with a brief hand-over call and 14-day post-launch support  
 
 If you have previous medical, wellness or on-demand service site experience, please mention it when you respond.</description></item>
-<item><title>Wix-TutorBird Migration Expert</title><link>https://www.freelancer.com/projects/wix/Wix-TutorBird-Migration-Expert</link><guid isPermaLink="false">freelancer:40727349</guid><pubDate>Tue, 22 Sep 2026 18:38:34 GMT</pubDate><description>10-500 GBP | I want to move my entire teaching website from Wix to TutorBird without losing any of the functionality I plan on having on it. 
-
-On Wix a booking system is currently being built and a series of automations - these are bookings for trial classes within free spaces in group classes. Then email automations will follow for these classes, so students know how to join the class on Lessonspace. Payment needs to be taken and invoices will need to be sent for the trial class and if parents decide to pay for the term then an option to pay will be sent to them and there will be an option to pay for the term/monthly/yearly on the website too. If they do not decide to join the class after the trial class the space becomes empty again for someone else.
-
-Payment options will be termly payments (with an option to pay for either the full term or in monthly instalments), or a yearly payment. Payments will be made from abroad to the UK. Therefore UK and other time zones need to be shown on the calendar.
-
-So far I have a freebie lead magnet pdf ready and set up on my wix - this is sent to someone once they sign up for the freebie on my website. I will be collecting an email list this way and would like this to be saved on tutorbird. Once they receive the freebie they are sent 4 automated emails over 5 days. They are also directed to a page that leads them on to next steps like following my socials or joining a masterclass. I need a developer who can replicate those workflows inside TutorBird as closely as the platform allows. I need to make this as automated as possible. I will also be sending newsletters. 
-
-I currently do not have any contacts/students/emails to transfer from wix to tutorbird. 
-
-I need to also build a page which will give people the opportunity to join free and paid masterclasses that I host. 
-
-In the future I will need to build a tripwire funnel and a page that upsells resources. 
-
-Core functionality to reproduce  
-• Booking system – regular lessons and a “trial class if a seat is free” option, both syncing seamlessly with my calendar.  
-- Payment options for monthly (term split into monthly payments), termly payment and yearly payment options 
-• Automated emails – welcome, reminders, upsells, and any future funnels.  
-• Lead-magnet delivery – instant PDF by opt-in links.  
-• Automated invoicing – with international payment gateways that keep fees low.  
-• Future-proofing – the ability to bolt on a trip-wire funnel and sell resources at checkout, plus pages for upcoming free and paid masterclasses.
-
-Design continuity matters too: I want the current Wix layout, colour palette, and typography rebuilt inside TutorBird so the switch feels close to invisible to my audience since my brand feel matters to me. Or better if the professional knows how to make it flow and feel better for the user. It also needs to be editable for me so that I can make changes where necessary. If design continuity is not possible in tutorbird then I might not consider the project since my brand is very important to me.
-
-Acceptance criteria  
-1. A fully functioning TutorBird site that mirrors my Wix design.  
-2. All automations listed above tested live with sample data.  
-3. Step-by-step documentation so I can tweak or extend the setup myself later.  
-
-If you have hands-on experience with TutorBird, Wix, Stripe or similar payment integrations, and email automation tools (TutorBird’s native system), I’d love to hear how you would tackle this migration and the estimated timeline and cost (as I am on a budget as a small business and sole trader in my first year- budget of £0-400). I also use lessonspace to deliver my lessons and would like this to be integrated.
-
-My current website is: www.knowmadictutoring.com (the class booking system is still being built but I have a html of the draft which is attached to this brief)</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
