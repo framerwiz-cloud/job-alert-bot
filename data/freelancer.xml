@@ -720,6 +720,51 @@ Quality and handover
 To quote, please send:
 • Two or three live links to institutional or professional-services sites you built in Kadence, saying which parts you designed and which came from a template
 • A fixed price, with delivery in two milestones: (1) the home/hero section on staging; (2) the full site live</description></item>
+<item><title>Modern WooCommerce Music Store Build</title><link>https://www.freelancer.com/projects/ecommerce/Modern-WooCommerce-Music-Store-Build</link><guid isPermaLink="false">freelancer:40729609</guid><pubDate>Wed, 23 Sep 2026 17:29:05 GMT</pubDate><description>750-1500 USD | I need a fresh, modern-looking WordPress site powered by WooCommerce where I can sell my original music as individual tracks and albums. The storefront must feel slick on both desktop and mobile, reflect a clean “modern” aesthetic, and keep page load times low so listeners stay engaged.
+
+Core functionality  
+• Every product page should include an embedded streaming preview of the track or album. Listeners hit Play, hear a 30–60 second sample, and decide on the spot whether to buy.  
+• Once purchased, customers receive an automated, secure download link. No manual fulfilment.  
+• Shoppers can leave ratings and written reviews that display below the track details to boost social proof.  
+• Checkout needs to accept major credit &amp; debit cards (Stripe is fine) and PayPal. I’m open to adding more gateways later, but those two must be live from day one.
+
+Scope of work  
+– Design a lightweight, responsive theme or child-theme that nails the modern look while staying easy for me to update.  A theme has been installed but I am not attached to using it.
+– Set up product templates for single tracks, EPs, and full albums, each with preview, price, and review section ready to go.  
+– Configure audio-preview and secure-download plugins (WooCommerce Product Audio Preview, Downloadable Product permissions, or similar—your call) so they work seamlessly.  
+– Integrate Stripe and PayPal, run test transactions, and hand-over written steps so I can reconcile orders.  
+– Basic on-page SEO (titles, meta, schema for music) and performance tweaks so the store scores well on Core Web Vitals.  
+– Final walkthrough and a quick video or PDF guide showing me how to add new releases.
+
+Acceptance criteria  
+1. A visitor can preview, purchase, pay with card or PayPal, receive a download link, and leave a review—all without errors.  
+2. Site front-end scores 90+ on Google PageSpeed for mobile.  
+3. Design remains consistent across Chrome, Safari, Firefox, Edge, and current iOS/Android browsers.
+
+If this sounds like a build you can knock out cleanly, let’s talk timeline and milestones.
+
+Here is what I came up with myself:
+
+ROBERTLEECAMPMUSIC.COM
+
+Wordpress Site using WooCommerce
+Wordpress and WooCommerce have been installed
+
+Features
+
+A story with photos about my musical journey. like a bio
+
+Songs for sale under categories I create
+for each song:
+1. A description/story about the song
+2. An image that I will provide
+3. Ability to listen to the song, without downloading
+4. Ability to listen to the original recording of the song, without downloading
+5. Able to purchase the song as a download, in two formats:
+	a. mp3 file
+	b. wav file
+
+A group of free to download songs that I recorded, mostly around 1 minute each</description></item>
 <item><title>Modern Minimalistic Cleaning Website</title><link>https://www.freelancer.com/projects/web-design/Modern-Minimalistic-Cleaning-Website</link><guid isPermaLink="false">freelancer:40729038</guid><pubDate>Wed, 23 Sep 2026 12:05:06 GMT</pubDate><description>1500-3000 AUD | # Website Design &amp; Development – Green Clean Systems
 
 We are looking for an experienced **website designer/developer to build a completely new website from scratch** for Green Clean Systems, an established cleaning company servicing Sydney.
@@ -942,22 +987,6 @@ I’ll supply the present Squarespace URLs, copy, and any brand assets you need.
 Once the site is live, a short hand-off session (video or written guide) will help me understand how to update products, post blogs, and manage orders.  
 
 If you enjoy pushing pixels in a playful way while still delivering a robust, professional WordPress build, I’d love to hear how you’d approach this project and see samples of similar creative sites you’ve produced.</description></item>
-<item><title>Rental Property Website With Booking</title><link>https://www.freelancer.com/projects/web-development/Rental-Property-Website-With-Booking</link><guid isPermaLink="false">freelancer:40727256</guid><pubDate>Tue, 22 Sep 2026 14:43:30 GMT</pubDate><description>250-750 USD | I want a clean, modern website that showcases my short- and long-term rental in Mexico and lets visitors reserve dates on the spot. The site must pull availability and pricing directly from Airbnb (or a similar API/widget) so I only manage one calendar. Guests should be able to:
-
-• Browse a photo gallery, watch short videos and explore an interactive virtual tour to get a full sense of the space  
-• View a live calendar that mirrors my Airbnb schedule  
-• Complete their booking and payment without leaving the site  
-• Read and leave reviews that sync with—or at least mirror—the Airbnb ratings
-
-I already have professional photos and raw video footage; you will handle optimal web formatting and fast loading. A straightforward CMS (WordPress, Webflow or comparable) is preferred so I can swap images, update rates and edit text myself.
-
-Please include in your proposal:  
-• Your recommended tech stack or theme  
-• How you will handle the Airbnb integration for real-time availability and payments  
-• Approximate timeline from kickoff to launch  
-• Examples of past property or booking sites you have produced
-
-The finished site should be mobile-first, SEO-friendly and ready to go live on my domain once we sign off.</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
