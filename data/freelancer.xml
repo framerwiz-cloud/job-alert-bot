@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress User Activity Dashboard</title><link>https://www.freelancer.com/projects/looker-studio/WordPress-User-Activity-Dashboard</link><guid isPermaLink="false">freelancer:40733226</guid><pubDate>Fri, 25 Sep 2026 14:23:28 GMT</pubDate><description>25-50 CAD/hr | I want to see at a glance how people actually use my WordPress site, so I need a Looker Studio (formerly Google Data Studio) dashboard that pulls real-time user activity directly from the WordPress database or an appropriate plugin/API.  
+
+The focus is on three metrics:
+-  time duration per session that a user logs in (session start/end time). Or if not possible, then total amount of time that a user uses the site, across all times that they’ve logged in.
+- page view (yes/no) - this will allow us to see which module they got to, and how far within that module. 
+- file downloads  
+
+Please visualise the trends with simple bar or line charts and pair them with clean, sortable data tables for quick exporting. A date-range selector and user search filter should sit at the top so I can drill down without editing the report. Responsive layout is important because I will view it on both desktop and tablet.  
+
+Deliverables  
+1. Reliable data connection from WordPress to Looker Studio (native connector, BigQuery, or a lightweight middleware—whatever you recommend and set up).  
+2. One-page dashboard containing the charts and tables described above, styled to match my site colours.  
+3. Brief hand-over note explaining how to refresh data sources and add additional metrics later.  
+
+I will supply admin access to WordPress and a Google account for Looker Studio as soon as we agree on the approach.</description></item>
 <item><title>Shopify Store Setup &amp; Branding</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-Branding-40733158</link><guid isPermaLink="false">freelancer:40733158</guid><pubDate>Fri, 25 Sep 2026 13:31:48 GMT</pubDate><description>8-15 USD/hr | My goal is to turn a blank Shopify account into a polished, on-brand storefront that consistently reinforces who we are and why visitors should remember us. The primary focus is brand awareness, so every visual and functional decision—from theme selection to homepage layout—has to serve that objective.
 
 I haven’t settled on a theme yet and need guidance finding one that can be customised without sacrificing performance. Once the theme is chosen, I’ll rely on you to install it, tailor the colour palette, typography and imagery to match our style guide, and configure core pages (home, product, about, contact) so the narrative feels cohesive.
