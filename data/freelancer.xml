@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist Tiling Store Website</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Tiling-Store-Website</link><guid isPermaLink="false">freelancer:40732539</guid><pubDate>Fri, 25 Sep 2026 06:58:57 GMT</pubDate><description>250-750 AUD | I’m setting up a small online shop focused on just five tiling-levelling products and I need a clean, modern, minimalist website to match. The site should feel light and uncluttered yet make it effortless for customers across Australia to select a product, read all the details, checkout and pay.
+
+Core requirements  
+• Design aesthetic: modern and minimalist, with plenty of white space and straightforward navigation.  
+• Catalogue: only five products, each with a dedicated page that includes a zoomable image gallery, a detailed description and space for customer reviews.  
+• Payments: integrate credit/debit card processing, PayPal and bank-transfer options so buyers can choose what suits them.  
+• Mobile responsiveness and fast loading are essential.
+
+I’ll provide product photos, copy and pricing. You’ll handle theme selection or custom build, checkout setup, basic SEO, and a quick walk-through so I can update stock or pricing myself later.
+
+Acceptance will be based on:  
+1. All five products live and purchasable with the three payment methods fully tested.  
+2. Zoom feature, reviews section and description layout working on desktop and mobile.  
+3. Clean, minimalist look consistent across all pages.  
+
+If this sounds straightforward for you, let’s get it launched.</description></item>
 <item><title>Property Listings Integration on NestSeekers Australia</title><link>https://www.freelancer.com/projects/api-developmet/Property-Listings-Integration</link><guid isPermaLink="false">freelancer:40732431</guid><pubDate>Fri, 25 Sep 2026 05:45:24 GMT</pubDate><description>250-750 USD | NestSeekers Australia — Property Listings Integration
 
 Site: nestseekersaustralia.com.au (WordPress + Elementor)
@@ -986,7 +1002,6 @@ The finished site should be mobile-first, SEO-friendly and ready to go live on m
 • As soon as an item flags low, automatically create a ready-to-send purchase order tab or PDF using the stored supplier details and the predefined reorder quantity.
 
 I don’t need elaborate dashboards—just reliable automation, clean formulas, and lightweight Apps Script so anyone on the team can follow what’s happening. Please build directly in my Google Workspace, comment the scripts, and include a brief setup guide so I can add new SKUs or suppliers later without touching code. If you’ve connected WooCommerce to Sheets before via the REST API or add-ons like API Connector or Sheetgo, that experience will help us move fast.</description></item>
-<item><title>Modern Redesign of Swimming School Website</title><link>https://www.freelancer.com/projects/database-management/Custom-Built-Website-Development</link><guid isPermaLink="false">freelancer:40726953</guid><pubDate>Tue, 22 Sep 2026 11:58:48 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced web designer to redesign my custom-built website for my swimming school. The goal is to modernize the design while keeping it professional and simple, with a focus on providing clear information about our operations. Key features include a dedicated staff section and a layout that aligns with our blue and yellow branding. Payment or booking systems are not required. Completion is expected by mid-November, with a budget around £500.</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
