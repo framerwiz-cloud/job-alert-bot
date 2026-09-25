@@ -19,53 +19,6 @@ Acceptance will be based on:
 3. Clean, minimalist look consistent across all pages.  
 
 If this sounds straightforward for you, let’s get it launched.</description></item>
-<item><title>Property Listings Integration on NestSeekers Australia</title><link>https://www.freelancer.com/projects/api-developmet/Property-Listings-Integration</link><guid isPermaLink="false">freelancer:40732431</guid><pubDate>Fri, 25 Sep 2026 05:45:24 GMT</pubDate><description>250-750 USD | NestSeekers Australia — Property Listings Integration
-
-Site: nestseekersaustralia.com.au (WordPress + Elementor)
-
-Objective
-
-Build a custom property listings feature on the site that:
-
-Pulls live listing data from the MantisProperty CRM via their API (reference: MantisPropertyAPI_XMLSpec.pdf).
-Displays listings styled to match the existing site design (not MantisProperty's default UI).
-Gives each listing its own real, crawlable WordPress URL on the site's own domain — not an iframe, not a JavaScript-only overlay.
-Shows a featured-properties carousel on the homepage.
-Captures buyer enquiries reliably.
-Scope of work
-Data sync
-Connect to the MantisProperty API using account credentials (to be provided).
-Pull listing data on a scheduled basis (e.g. WP-Cron) — address, price/status, bedrooms/bathrooms/car spaces, description, photos, agent details, listing status (For Sale / Under Offer / Sold, etc.).
-Store each listing as a native WordPress entry (custom post type) — not just cached data rendered on the fly — so each listing gets a real, indexable URL.
-Status must always be a single source of truth per listing — a listing must never be able to display two conflicting statuses (e.g. "Sold" and "For Sale") at once.
-Handle image imports cleanly: full-resolution photos, no stretching/cropping artefacts. Confirm whether the API serves clean images or images with a watermark baked in; if the latter, flag before proceeding further.
-Property listing page template
-One template, used for every property, styled to match the existing Elementor site (typography, colours, header/footer, layout language).
-Each listing has its own unique URL.
-Include: photo gallery, address, price/status, bed/bath/car, description, enquiry form.
-Page title and meta description generated per listing from the listing data.
-Featured properties carousel
-Use Elementor Pro's native Loop Carousel widget, pulling from the custom post type above.
-Placement: homepage, reusable elsewhere if needed.
-Enquiry capture
-Enquiry form on each property page.
-Submissions should post back into MantisProperty via the API so they land in the MantisProperty CRM inbox. If this isn't feasible via the API, flag it and fall back to direct email delivery.
-Enquiry submissions must not fail silently — confirm handling if the API is unreachable at submission time.
-Explicitly out of scope
-Trust accounting, tenant/owner portals, maintenance requests.
-Printable brochures/stock lists.
-Any MantisProperty-branded UI element appearing on the site.
-Multi-agent/staff directory features.
-Acceptance criteria
- A live listing, a sold listing, and an under-offer listing each display one single, correct status — no contradictions.
- Every listing has its own URL that loads directly and is crawlable (listing content present in raw page source, not only loaded via JavaScript).
- Carousel and listing pages visually match the rest of the site.
- A test enquiry submitted on a sample listing is confirmed to arrive at its intended destination.
- Tested on mobile and desktop.
- A status change made in MantisProperty (e.g. marking a test listing "Under Offer") is reflected on the site within the sync window.
-Reference materials
-MantisProperty API spec: MantisPropertyAPI_XMLSpec.pdf
-Live site for design/brand reference: nestseekersaustralia.com.au</description></item>
 <item><title>WordPress Property-Manager Portal Development</title><link>https://www.freelancer.com/projects/web-development/WordPress-Property-Manager-Portal</link><guid isPermaLink="false">freelancer:40732214</guid><pubDate>Fri, 25 Sep 2026 03:01:42 GMT</pubDate><description>250-750 AUD | I am looking for a WordPress developer to build a secure property-manager portal within my existing Mako Property Care website.
 
 The aim is to provide real estate/property managers with a simple online portal where they can manage their properties and request maintenance services from Mako.
@@ -1002,6 +955,7 @@ The finished site should be mobile-first, SEO-friendly and ready to go live on m
 • As soon as an item flags low, automatically create a ready-to-send purchase order tab or PDF using the stored supplier details and the predefined reorder quantity.
 
 I don’t need elaborate dashboards—just reliable automation, clean formulas, and lightweight Apps Script so anyone on the team can follow what’s happening. Please build directly in my Google Workspace, comment the scripts, and include a brief setup guide so I can add new SKUs or suppliers later without touching code. If you’ve connected WooCommerce to Sheets before via the REST API or add-ons like API Connector or Sheetgo, that experience will help us move fast.</description></item>
+<item><title>Modern Redesign of Swimming School Website</title><link>https://www.freelancer.com/projects/database-management/Custom-Built-Website-Development</link><guid isPermaLink="false">freelancer:40726953</guid><pubDate>Tue, 22 Sep 2026 11:58:48 GMT</pubDate><description>250-750 GBP | I’m seeking an experienced web designer to redesign my custom-built website for my swimming school. The goal is to modernize the design while keeping it professional and simple, with a focus on providing clear information about our operations. Key features include a dedicated staff section and a layout that aligns with our blue and yellow branding. Payment or booking systems are not required. Completion is expected by mid-November, with a budget around £500.</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
