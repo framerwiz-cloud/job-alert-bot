@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fluent Forms Request Builder</title><link>https://www.freelancer.com/projects/Fluent-Forms-Request-Builder-fix</link><guid isPermaLink="false">freelancer:40733378</guid><pubDate>Fri, 25 Sep 2026 15:54:03 GMT</pubDate><description>250-750 USD | I need a polished, mobile-friendly services request form built with Fluent Forms on my WordPress site. The form must guide visitors smoothly through several steps, using conditional logic so they only see questions that matter to them.  
+
+Information we must capture includes:  
+• Personal details (name, email, phone)  
+• Service details (type of service, brief description)  
+• Preferred contact method and time  
+
+Once submitted, the data should flow straight into our existing CRM so our team can act on it immediately. Please set up automated confirmation emails for customers and internal notifications for staff.
+
+You’ll have my business requirements and full admin access; I’m happy to discuss the best layout, field grouping, and any WPManageNinja add-ons that will improve the workflow. Past experience with advanced Fluent Forms builds and CRM integrations is essential—share links or screenshots of similar multi-step, logic-driven forms you have shipped.
+
+Deliverable: a fully tested, live form that looks great on desktop and mobile, routes data correctly to the CRM, triggers the right emails, and can be easily updated from the WordPress dashboard.</description></item>
 <item><title>WordPress User Activity Dashboard</title><link>https://www.freelancer.com/projects/looker-studio/WordPress-User-Activity-Dashboard</link><guid isPermaLink="false">freelancer:40733226</guid><pubDate>Fri, 25 Sep 2026 14:23:28 GMT</pubDate><description>25-50 CAD/hr | I want to see at a glance how people actually use my WordPress site, so I need a Looker Studio (formerly Google Data Studio) dashboard that pulls real-time user activity directly from the WordPress database or an appropriate plugin/API.  
 
 The focus is on three metrics:
@@ -971,22 +983,6 @@ Acceptance criteria
 If you have hands-on experience with TutorBird, Wix, Stripe or similar payment integrations, and email automation tools (TutorBird’s native system), I’d love to hear how you would tackle this migration and the estimated timeline and cost (as I am on a budget as a small business and sole trader in my first year- budget of £0-400). I also use lessonspace to deliver my lessons and would like this to be integrated.
 
 My current website is: www.knowmadictutoring.com (the class booking system is still being built but I have a html of the draft which is attached to this brief)</description></item>
-<item><title>Creative WordPress Site Revamp</title><link>https://www.freelancer.com/projects/woocommerce/Creative-WordPress-Site-Revamp</link><guid isPermaLink="false">freelancer:40727569</guid><pubDate>Tue, 22 Sep 2026 18:05:36 GMT</pubDate><description>400-500 GBP | I’m moving my existing Squarespace website to WordPress and want to use the opportunity to give it a fresh, more creative and artistic feel. The site’s content and structure are already in place, but the look, flow, and underlying platform need an upgrade.
-
-Here’s what I need:  
-• A full rebuild in WordPress, replicating the current pages while improving the layout so it feels imaginative rather than template-driven.  
-• Custom graphics and illustrations woven throughout the design to give the brand a distinctive personality.  
-• WooCommerce (or a comparable solution) set up for our small product line, complete with secure checkout and stock management.  
-• A blog section that is easy for me to post to, with categories and tags mirrored from the current site.  
-• A clean contact form that routes inquiries to my email.  
-• Mobile-first responsiveness and solid on-page SEO so I don’t lose existing search traction.  
-• Launch support: migrating DNS, checking all links, and making sure performance, security, and backups are in place.
-
-I’ll supply the present Squarespace URLs, copy, and any brand assets you need. You’ll handle theme selection or custom theme creation, plug-in configuration, and all graphic work.  
-
-Once the site is live, a short hand-off session (video or written guide) will help me understand how to update products, post blogs, and manage orders.  
-
-If you enjoy pushing pixels in a playful way while still delivering a robust, professional WordPress build, I’d love to hear how you’d approach this project and see samples of similar creative sites you’ve produced.</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
