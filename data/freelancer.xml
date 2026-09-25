@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Musician Site Usability Revamp</title><link>https://www.freelancer.com/projects/web-design/Musician-Site-Usability-Revamp</link><guid isPermaLink="false">freelancer:40733131</guid><pubDate>Fri, 25 Sep 2026 13:17:15 GMT</pubDate><description>250-750 USD | This is a job for my client/friend. His Wix website is the hub for fans to discover his music, buy records and keep up with shows, yet it currently feels clunky. This refresh is all about usability—first and foremost I need the navigation and the overall look-and-feel simplified so visitors can find music, merch and tour dates in as few clicks as possible.
+
+Visual priorities  
+The layout design needs a rethink: clearer content hierarchy, balanced white space and a modern grid that adapts gracefully from desktop down to phone screens. I’m happy to discuss colour or type tweaks later, but the structure must come first.
+
+Scope &amp; key deliverables  
+• An intuitive navigation map and wireframes that highlight primary fan actions (play, buy, subscribe).  
+• High-fidelity mock-ups showing the redesigned layout on desktop, tablet and mobile.  
+• Front-end build or theme implementation that keeps load times snappy and carries through the approved design.  
+• Handoff documentation so future updates stay consistent with the new style.
+
+Acceptance criteria  
+Finished pages should load in under three seconds on 4G, the main CTA must be visible without scrolling on mobile, and all core journeys—stream a track, purchase a record, join the mailing list—should complete in three steps or fewer.
+
+Share any relevant case studies or live sites where you’ve streamlined navigation for artists, and let’s create a site that feels as good to explore as the music sounds.</description></item>
 <item><title>Bold MedTech Website &amp; Landing Design</title><link>https://www.freelancer.com/projects/web-design/Bold-MedTech-Website-Landing-Design</link><guid isPermaLink="false">freelancer:40733038</guid><pubDate>Fri, 25 Sep 2026 12:04:16 GMT</pubDate><description>15-25 USD/hr | I’m bringing a disruptive Class II orthopedic device for hip and knee replacement to market and already have the core assets in hand—brand guidelines, high-resolution photography, polished messaging, and all the technical copy. What I’m missing is a designer who can translate those ingredients into a modern, high-impact web presence that feels like a fast-moving startup, not a conservative healthcare conglomerate.  
 
 The visual language needs to be bold and dynamic, backed by a crystal-clear hierarchy that guides surgeons, hospital buyers, and potential partners straight to the information that matters most: our product benefits and the measurable value they deliver in the OR. Every screen should move visitors efficiently toward conversion, whether that’s downloading a spec sheet or initiating a deeper conversation with our team.  
@@ -975,14 +990,6 @@ Please include in your proposal:
 • Examples of past property or booking sites you have produced
 
 The finished site should be mobile-first, SEO-friendly and ready to go live on my domain once we sign off.</description></item>
-<item><title>Google Sheets WooCommerce Stock Control</title><link>https://www.freelancer.com/projects/google-sheets/Google-Sheets-WooCommerce-Stock-Control</link><guid isPermaLink="false">freelancer:40727243</guid><pubDate>Tue, 22 Sep 2026 14:34:06 GMT</pubDate><description>250-750 GBP | I run two WooCommerce stores and I’m looking for a straightforward stock-control spreadsheet that lives in Google Sheets. The goals are simple:
-
-• Pull the current inventory for every SKU from both WooCommerce sites into one sheet and keep it fresh throughout the day (hourly sync is fine).
-• Hold a minimum stock level and a preferred reorder quantity for each item.  
-• Trigger a clear low-stock alert in the sheet (conditional colour change or email/SMS via Apps Script—whichever is quickest to maintain) whenever the on-hand figure dips below the minimum.  
-• As soon as an item flags low, automatically create a ready-to-send purchase order tab or PDF using the stored supplier details and the predefined reorder quantity.
-
-I don’t need elaborate dashboards—just reliable automation, clean formulas, and lightweight Apps Script so anyone on the team can follow what’s happening. Please build directly in my Google Workspace, comment the scripts, and include a brief setup guide so I can add new SKUs or suppliers later without touching code. If you’ve connected WooCommerce to Sheets before via the REST API or add-ons like API Connector or Sheetgo, that experience will help us move fast.</description></item>
 <item><title>WordPress Presentation Section Development -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Presentation-Section</link><guid isPermaLink="false">freelancer:40726843</guid><pubDate>Tue, 22 Sep 2026 11:07:42 GMT</pubDate><description>8-15 USD/hr | Our company currently has two projects that require the development of corresponding WordPress websites. I have used ChatGPT to generate several mockups. I think they look quite good. I need to develop based on my design drawings and convert them into WordPress websites. Currently, I have a pet supplies website and another website for children's outdoor trampolines. I have the design drawings for both, and they are not very complex. Moreover, I have prepared some supplementary detailed documents to guide you through the correct development steps. My time frame is 5 days. I am not considering involving in the payment gateway at the moment because I only want to create a showcase site to test the target market. Therefore, I am looking for a front-end developer. No backend functions are required. It is necessary to be extremely proficient in WordPress websites, and upon completion, deliver a complete administrator credentials and must work full-time. If you have other tasks at hand, please do not contact me. Thank you.</description></item>
 <item><title>Finish Framer Website</title><link>https://www.freelancer.com/projects/framer/Finish-Framer-Website</link><guid isPermaLink="false">freelancer:40726652</guid><pubDate>Tue, 22 Sep 2026 09:28:34 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled developer to finalize my framer website. There are small elements that aren't working yet and require minor design adjustments. 
 
