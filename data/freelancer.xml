@@ -3,6 +3,58 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress/PHP Expert Needed – Fix Changes Reverting, REST/API &amp; Admin Issues</title><link>https://www.freelancer.com/projects/web-development/WordPress-PHP-Expert-Needed-Fix</link><guid isPermaLink="false">freelancer:40734957</guid><pubDate>Sat, 26 Sep 2026 15:18:27 GMT</pubDate><description>36+ GBP/hr | I’m battling an aggravating situation on my WordPress/Divi site: changes I make in the builder, plugin updates and some dashboard settings appear to save and then quietly roll back. Activating or deactivating plugins can also fail.
+
+The live website is also reporting an error, and I have had an issue with the cookie banner disappearing, so I would like the overall WordPress installation checked rather than treating this as only a Divi problem.
+
+SiteGround has investigated and found application-level 403 responses involving Divi and Jetpack. ModSecurity was checked and was not identified as the cause, and Cloudflare Development Mode made no difference.
+
+What you’ll encounter
+Divi changes that don’t persist
+Plugin updates and settings that revert
+Plugin activation/deactivation failures, sometimes returning “The link you followed has expired”
+REST/API-related 403 responses
+An error reported on the live website
+Cookie banner/functionality issues
+Several caching layers: Cloudflare, SiteGround Optimiser and Divi CSS caching
+
+A useful controlled test on staging: I added TEST124 in Divi. The Divi sync-to-server request returned 200 OK, contained TEST124 in the payload, and returned save_verification: true. After reloading, TEST124 had disappeared.
+
+Scope of work
+Replicate the problems and identify the underlying cause, including database, filesystem, permissions, REST/API, authentication/nonces and caching.
+Audit all installed plugins for duplicates, obsolete or unnecessary plugins and conflicts. Nothing should be removed until the site is stable.
+Review WordPress, Divi, Wordfence, Jetpack, SiteGround Optimiser, Cloudflare and REST/security settings.
+Check and correctly configure the different caching layers so they work together rather than interfering with WordPress writes.
+Check the live-site error and investigate why the cookie banner/functionality has disappeared.
+Once stable, safely remove genuinely unnecessary plugins.
+Provide a short handover explaining what was fixed, what was removed and the final configuration.
+Acceptance criteria
+Divi edits persist after repeated save/reload tests.
+Plugin updates and activation/deactivation work normally.
+WordPress dashboard settings remain changed.
+The live-site error is resolved.
+The cookie banner/functionality is working correctly.
+No relevant new 403/500 or permission errors appear in the logs.
+Cloudflare, SiteGround Optimiser and Divi caching are correctly configured.
+Any removed plugins have a clear justification.
+
+I can provide administrator access and, if genuinely required, SSH access. 
+Creating a new administrator has also caused problems. The administrator invitation/confirmation email was received successfully, but the new administrator was then blocked at the 2FA stage.
+
+Before starting substantial work, please confirm your estimated hours/cost and let me know before exceeding the agreed amount.</description></item>
+<item><title>WordPress On-Page SEO Overhaul</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Page-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40734960</guid><pubDate>Sat, 26 Sep 2026 15:17:39 GMT</pubDate><description>8-15 USD/hr | My WordPress site is ready for a sharp on-page SEO upgrade. I already have a curated keyword list; your role is to weave those terms naturally throughout my pages, craft compelling meta titles and descriptions, and tighten up the on-page content so every post and product page speaks clearly to both users and search engines.
+
+Scope of work  
+• Audit each live page and post, noting gaps in keyword placement, headings, alt text, internal links, and overall readability.  
+• Rewrite or adjust meta titles and meta descriptions so they align with best-practice character limits and entice clicks.  
+• Integrate my target keywords into body copy, sub-headings, and image attributes without over-stuffing, ensuring a smooth, natural flow.  
+• Refine page content for clarity, structure, and engagement, using Yoast SEO or Rank Math inside the WordPress dashboard so I can track improvements right away.  
+• Supply a short before-and-after report highlighting key changes and any quick-win recommendations for future content updates.
+
+Acceptance  
+A page passes when its Yoast SEO or Rank Math score is green, meta data remains within ideal pixel limits, the primary keyword appears in the first 100 words, and readability sits at or above grade 8. Once these benchmarks are met across all pages, the job is complete.
+
+If you’ve done hands-on keyword implementation and meta optimisation in WordPress before, let’s get started.</description></item>
 <item><title>OSRS Game Update Writer</title><link>https://www.freelancer.com/projects/blog-writing/OSRS-Game-Update-Writer</link><guid isPermaLink="false">freelancer:40734892</guid><pubDate>Sat, 26 Sep 2026 14:26:45 GMT</pubDate><description>250-750 USD | I’m looking for someone who lives and breathes Old School RuneScape and can turn each fresh game update into an engaging, readable news piece my audience will actually look forward to. Whenever Jagex drops patch notes, balance tweaks, or a brand-new quest, I want a quick turnaround article that captures the essentials while still sounding like it was written by a fellow adventurer, not a corporate press bot.
 
 Here’s what matters most:  
