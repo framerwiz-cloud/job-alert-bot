@@ -236,6 +236,53 @@ Acceptance will be based on:
 3. Clean, minimalist look consistent across all pages.  
 
 If this sounds straightforward for you, let’s get it launched.</description></item>
+<item><title>Property Listings Integration on NestSeekers Australia</title><link>https://www.freelancer.com/projects/api-developmet/Property-Listings-Integration</link><guid isPermaLink="false">freelancer:40732431</guid><pubDate>Fri, 25 Sep 2026 05:45:24 GMT</pubDate><description>250-750 USD | NestSeekers Australia — Property Listings Integration
+
+Site: nestseekersaustralia.com.au (WordPress + Elementor)
+
+Objective
+
+Build a custom property listings feature on the site that:
+
+Pulls live listing data from the MantisProperty CRM via their API (reference: MantisPropertyAPI_XMLSpec.pdf).
+Displays listings styled to match the existing site design (not MantisProperty's default UI).
+Gives each listing its own real, crawlable WordPress URL on the site's own domain — not an iframe, not a JavaScript-only overlay.
+Shows a featured-properties carousel on the homepage.
+Captures buyer enquiries reliably.
+Scope of work
+Data sync
+Connect to the MantisProperty API using account credentials (to be provided).
+Pull listing data on a scheduled basis (e.g. WP-Cron) — address, price/status, bedrooms/bathrooms/car spaces, description, photos, agent details, listing status (For Sale / Under Offer / Sold, etc.).
+Store each listing as a native WordPress entry (custom post type) — not just cached data rendered on the fly — so each listing gets a real, indexable URL.
+Status must always be a single source of truth per listing — a listing must never be able to display two conflicting statuses (e.g. "Sold" and "For Sale") at once.
+Handle image imports cleanly: full-resolution photos, no stretching/cropping artefacts. Confirm whether the API serves clean images or images with a watermark baked in; if the latter, flag before proceeding further.
+Property listing page template
+One template, used for every property, styled to match the existing Elementor site (typography, colours, header/footer, layout language).
+Each listing has its own unique URL.
+Include: photo gallery, address, price/status, bed/bath/car, description, enquiry form.
+Page title and meta description generated per listing from the listing data.
+Featured properties carousel
+Use Elementor Pro's native Loop Carousel widget, pulling from the custom post type above.
+Placement: homepage, reusable elsewhere if needed.
+Enquiry capture
+Enquiry form on each property page.
+Submissions should post back into MantisProperty via the API so they land in the MantisProperty CRM inbox. If this isn't feasible via the API, flag it and fall back to direct email delivery.
+Enquiry submissions must not fail silently — confirm handling if the API is unreachable at submission time.
+Explicitly out of scope
+Trust accounting, tenant/owner portals, maintenance requests.
+Printable brochures/stock lists.
+Any MantisProperty-branded UI element appearing on the site.
+Multi-agent/staff directory features.
+Acceptance criteria
+ A live listing, a sold listing, and an under-offer listing each display one single, correct status — no contradictions.
+ Every listing has its own URL that loads directly and is crawlable (listing content present in raw page source, not only loaded via JavaScript).
+ Carousel and listing pages visually match the rest of the site.
+ A test enquiry submitted on a sample listing is confirmed to arrive at its intended destination.
+ Tested on mobile and desktop.
+ A status change made in MantisProperty (e.g. marking a test listing "Under Offer") is reflected on the site within the sync window.
+Reference materials
+MantisProperty API spec: MantisPropertyAPI_XMLSpec.pdf
+Live site for design/brand reference: nestseekersaustralia.com.au</description></item>
 <item><title>WordPress Property-Manager Portal Development</title><link>https://www.freelancer.com/projects/web-development/WordPress-Property-Manager-Portal</link><guid isPermaLink="false">freelancer:40732214</guid><pubDate>Fri, 25 Sep 2026 03:01:42 GMT</pubDate><description>250-750 AUD | I am looking for a WordPress developer to build a secure property-manager portal within my existing Mako Property Care website.
 
 The aim is to provide real estate/property managers with a simple online portal where they can manage their properties and request maintenance services from Mako.
@@ -1022,20 +1069,6 @@ Please specify your experience with Wix SEO/GEO tools and your approach to struc
 *** Start your proposal with the word SW2026WIN or it will be auto-deleted ***
 
 There may be the opportunity for further tasks or ongoing work if you are the right fit for our business. Thank you for the time.</description></item>
-<item><title>SoDak Sweettique Website &amp; Logo</title><link>https://www.freelancer.com/projects/web-development/SoDak-Sweettique-Website-Logo</link><guid isPermaLink="false">freelancer:40728142</guid><pubDate>Wed, 23 Sep 2026 02:45:26 GMT</pubDate><description>250-750 USD | I’m launching an online candy shop and need a complete brand presence built from scratch. The project breaks down into two connected parts: a playful, memorable logo that captures the joy of candy, and a fully-functional e-commerce website where customers can browse, review, and buy sweets with ease.
-
-For the site itself, I’ll need three core pages—Home, Product Catalog, and Contact—each responsive and consistent with the logo’s look and feel. Essential functionality includes a smooth shopping cart and checkout flow plus a section where buyers can leave user reviews and ratings.  
-
-You’re free to develop in the stack you know best—Shopify, WooCommerce, custom WordPress, or a React storefront—as long as the final product is fast, mobile-friendly, and easy for me to update. Clean code, SEO-ready structure, and basic on-page optimisation are expected.
-
-The logo should be delivered in vector format (AI, SVG, EPS) alongside web-ready PNGs, with colour and monochrome versions. The site hand-off should include source files, any theme or plugin licences, and a brief guide showing me how to add new products and moderate reviews.
-
-Once live, I’ll run a quick pass to confirm:  
-• Visual consistency between logo and site  
-• Checkout completes without errors on both desktop and mobile  
-• Reviews can be submitted and displayed correctly  
-
-If that sounds clear, let’s get started—I’m excited to see your sweetest ideas.</description></item>
 <item><title>Ongoing WordPress &amp; WooCommerce Updates</title><link>https://www.freelancer.com/projects/web-development/Ongoing-WordPress-WooCommerce-Updates</link><guid isPermaLink="false">freelancer:40727884</guid><pubDate>Tue, 22 Sep 2026 22:55:01 GMT</pubDate><description>15-25 USD/hr | PLEASE READ
 
 Looking for someone to help with our WordPress website and WooCommerce shop. I would like to work with someone by the hour.  Please give me an hourly price.</description></item>
