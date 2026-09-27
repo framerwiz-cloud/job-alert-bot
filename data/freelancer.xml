@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Power Platform Enterprise HR Portal</title><link>https://www.freelancer.com/projects/graphic-design/Power-Platform-Enterprise-Portal</link><guid isPermaLink="false">freelancer:40736727</guid><pubDate>Sun, 27 Sep 2026 17:15:54 GMT</pubDate><description>25-50 USD/hr | I need an experienced Microsoft Power Platform professional to architect and build a web-based HR portal with Power Pages at its core. The first release must handle HR and applicant tracking, onboarding with employee self-service, plus PTO and benefits management, all surfaced through clean, role-based pages for HR managers, supervisors, and employees.
+
+The new site has to live comfortably inside our Microsoft 365 environment and connect, through standard or custom connectors, to three critical back-end systems—our ERP, payroll solution, and existing document-management repository—so data flows bidirectionally without manual touch points. Think of the experience as a light-weight alternative to Arcoro, but fully aligned with our internal processes and security model.
+
+Scope highlights
+• Design the overall information architecture, Dataverse schema, and security roles that map to HR managers, supervisors, and employee self-service.  
+• Build Power Pages sites for candidate application, onboarding tasks, time-off requests, and benefit elections, complete with approval workflows in Power Automate.  
+• Surface documents stored in our DMS, trigger e-signatures where required, and write key events back to ERP and payroll.  
+• Provide responsive layout and accessible design so staff can work comfortably on desktop and mobile browsers.  
+
+Acceptance
+A successful milestone demonstrates end-to-end creation of a position, posting to the external page, candidate submission, HR review, conversion to employee, and a completed PTO request that posts to payroll.
+
+If you have deep Power Pages and Dataverse experience and have integrated ERP or payroll systems before, I’m ready to discuss timelines, milestones, and any additional technical details you need.</description></item>
 <item><title>Web Developer Needed – Marketplace MVP</title><link>https://www.freelancer.com/projects/web-development/Web-Developer-Needed-Marketplace-MVP</link><guid isPermaLink="false">freelancer:40736675</guid><pubDate>Sun, 27 Sep 2026 16:39:33 GMT</pubDate><description>250-750 USD | I am looking for an experienced full-stack web developer to build the MVP for a new service marketplace platform.
 
 The platform will connect customers who need property-related services with qualified service providers. Customers will be able to submit a service request, schedule an appointment, make payment, and track the status of their order. Approved service providers will have a private mobile-friendly portal where they can view available jobs, accept assignments, complete jobs, upload required documents, and track payments.
