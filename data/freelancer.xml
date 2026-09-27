@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Boston Tourism Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Boston-Tourism-Website-Redesign</link><guid isPermaLink="false">freelancer:40736978</guid><pubDate>Sun, 27 Sep 2026 21:24:28 GMT</pubDate><description>750-1500 USD | I'm looking to recreate our existing website for a Boston tourism company in a new space. This will allow us to operate it more efficiently. The new site should include:
+
+- Easy content management
+- A robust booking system
+- Section for customer reviews
+
+The design should be fun and colorful, reflecting the vibrant spirit of Boston. 
+
+Ideal Skills &amp; Experience:
+- Proficiency in web development, with a focus on content management systems
+- Experience in integrating booking systems
+- Strong design skills to create a fun and colorful aesthetic
+- Previous work with tourism or similar industry websites is a plus
+
+Please provide samples of previous work and a brief outline of your approach to this project.</description></item>
 <item><title>Corporate Client Portal Website Build</title><link>https://www.freelancer.com/projects/web-development/Corporate-Client-Portal-Website-Build</link><guid isPermaLink="false">freelancer:40736941</guid><pubDate>Sun, 27 Sep 2026 20:43:56 GMT</pubDate><description>250-750 GBP | I’m building a fresh online presence that feels unmistakably corporate and professional while keeping client engagement front-and-centre.  
 
 Here’s the experience I’m after: visitors arrive on a polished landing page, learn what we do, then move into a secure portal that’s tailored to each of them. Inside that portal every client must be able to upload documents, check their own real-time sales totals and commissions, and open a message thread with our support team.  
@@ -966,124 +981,6 @@ Acceptance criteria
 Reference materials
 MantisProperty API spec: MantisPropertyAPI_XMLSpec.pdf
 Live site for design/brand reference: nestseekersaustralia.com.au</description></item>
-<item><title>WordPress Property-Manager Portal Development</title><link>https://www.freelancer.com/projects/web-development/WordPress-Property-Manager-Portal</link><guid isPermaLink="false">freelancer:40732214</guid><pubDate>Fri, 25 Sep 2026 03:01:42 GMT</pubDate><description>250-750 AUD | I am looking for a WordPress developer to build a secure property-manager portal within my existing Mako Property Care website.
-
-The aim is to provide real estate/property managers with a simple online portal where they can manage their properties and request maintenance services from Mako.
-
-Existing Technology
-
-The website is built on WordPress and I intend to use:
-
-Gutenberg
-Advanced Custom Fields (ACF)
-Forminator or similar forms
-A lightweight custom WordPress plugin where required
-I want to avoid Elementor or a separate custom application unless there is a strong technical reason.
-
-Core Portal Workflow
-
-The main workflow should be:
-
-Property Manager Login → My Properties → Select Property → Request a Job → Track Job → View Job Report/Photos/Documents
-
-Main Features Required
-
-1. Secure Property Manager Login
-
-Individual property-manager accounts
-Property managers cannot access WordPress administration
-Each manager can only see their own assigned properties
-2. My Properties
-
-Display properties assigned to the logged-in manager
-Property cards showing photo, address, property ID and status
-“View Property” and “Request a Job” buttons
-Must be dynamically filtered by the logged-in user
-3. Individual Property Page
-Each property should have:
-
-Property information
-Access instructions
-Special instructions
-Request a Job
-Current Jobs
-Job Reports
-Photos
-Documents
-4. Maintenance Request Form
-Using Forminator or similar:
-
-Property — automatically selected
-Service required
-Description
-Priority
-Preferred date
-Photo upload
-Additional information
-Services will initially include lawn mowing, gutter cleaning, pressure washing, window cleaning, house washing, roof cleaning and other external property maintenance.
-
-5. Jobs
-Property managers should be able to see:
-
-Job number
-Property
-Service
-Status
-Requested/scheduled/completed dates
-Job details
-6. Job Reports
-Mako staff should be able to upload reports containing:
-
-Work completed
-Before/after condition
-Recommendations
-Before/after photos
-PDF report
-Property managers should only see reports belonging to their properties.
-
-7. Documents
-Allow property-specific documents such as:
-
-Quotes
-Invoices
-Job reports
-Certificates
-Photos
-Other documents
-Security
-
-This is particularly important.
-
-A property manager must not be able to access another manager’s property, job, report or document by changing a URL or otherwise bypassing the portal.
-
-Access must be controlled at the server/WordPress level, not simply by hiding information from the screen.
-
-Future Integration
-
-The system should be designed so that we can later integrate with ServiceM8 or Formitize for job management, scheduling, reporting and other automation.
-
-I do not require that integration in the initial build.
-
-My Priority
-
-I want a professional but simple and affordable MVP that I can manage myself after development.
-
-I need to be able to:
-
-Add a property → assign it to a property manager → publish → property automatically appears in that manager’s portal.
-
-The portal must be mobile-friendly and work well on phones, tablets and desktop.
-
-Initial Quote Request
-
-Could you please provide:
-
-Estimated development cost
-Estimated timeframe
-What plugins/licences you would require
-What you would recommend changing or simplifying
-Ongoing maintenance costs, if any
-Whether you can build the system so it can later integrate with ServiceM8 or Formitize</description></item>
 <item><title>Online Typing Test Development</title><link>https://www.freelancer.com/projects/web-development/Online-Typing-Test-Development</link><guid isPermaLink="false">freelancer:40731795</guid><pubDate>Thu, 24 Sep 2026 19:26:43 GMT</pubDate><description>15-25 USD/hr | I'm seeking a developer to create an online interactive typing test tool for job applicants. The test should evaluate both typing speed and accuracy using predefined paragraphs.
 
 Key Requirements:
