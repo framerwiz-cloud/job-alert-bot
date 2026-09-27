@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title> Portfolio Website Design</title><link>https://www.freelancer.com/projects/web-design/Portfolio-Website-Design-40735770</link><guid isPermaLink="false">freelancer:40735770</guid><pubDate>Sun, 27 Sep 2026 08:14:56 GMT</pubDate><description>250-750 USD | I am looking for a highly creative and experienced web designer/developer to design and build a polished, modern personal website for a senior executive, international lawyer, geoeconomics strategist and former senior diplomat.
+
+The website should feel sophisticated, contemporary, understated and highly professional, with a strong international executive presence. It should be visually engaging without feeling corporate or overly formal.
+
+The site will showcase:
+• Professional profile and biography
+• Speaking engagements and topics
+• Articles, publications and thought leadership
+• Speeches and interviews
+• Board and advisory work
+• Selected photographs and a curated gallery
+• Professional services / areas of expertise
+• Contact and speaking enquiries
+
+I want someone with a strong eye for typography, layout, editorial design and premium personal branding. The website should be clean, elegant, highly responsive and easy for me to update myself.
+
+I am open to creative ideas on how to present the content and photography. Please share examples of sophisticated personal websites you have designed, particularly for senior executives, lawyers, academics, diplomats or thought leaders.
+
+I am looking for someone collaborative, responsive and able to take ownership of the design from concept through to launch.</description></item>
 <item><title>Freelance Pilates Instructor – Programme Creation (Remote, Task-Based)</title><link>https://www.freelancer.com/projects/fitness/Freelance-Pilates-Instructor-Programme</link><guid isPermaLink="false">freelancer:40735778</guid><pubDate>Sun, 27 Sep 2026 05:47:50 GMT</pubDate><description>10-15 GBP/hr | Overview:
 I’m looking for a freelance instructor to create structured, progressive Pilates programmes for clients enrolled in a long-term coaching package. This role is ideal for someone who enjoys the written and planning side of Pilates without any live teaching or client calls.
 
@@ -1093,21 +1112,6 @@ Before final acceptance, please demonstrate:
 - An overdue visit and guest checkout.
 - Accurate weekly reporting.
 - Data export and backup restoration.</description></item>
-<item><title>Kaspa Credential Verification MVP Build</title><link>https://www.freelancer.com/projects/blockchain/Kaspa-Credential-Verification-MVP-Build</link><guid isPermaLink="false">freelancer:40730321</guid><pubDate>Thu, 24 Sep 2026 03:59:29 GMT</pubDate><description>250-750 USD | I’m ready to move EduTrace from concept to a working MVP on the Kaspa blockchain and need a builder who can make that happen. The focus for this first milestone is a simple, web-based verification portal where anyone can drop in a credential hash and instantly confirm its authenticity on-chain.  
-
-Core scope  
-• Build Kaspa-powered anchoring logic that writes credential proofs (UTXOs) using SilverScript covenants.  
-• Support issuance and verification for educational diplomas, transcripts, and certificates right from day one.  
-• Design both institution and student workflows: schools must be able to issue and revoke, while graduates should download or share proofs for employers.  
-• Expose a clean front-end that shows status, timestamp, and tamper-proof evidence in seconds.  
-
-Acceptance criteria  
-• One-click issuance writes a verifiable Kaspa transaction; hash, timestamp, and metadata are queryable.  
-• Verification portal returns a validated / invalid / revoked state under three seconds.  
-• All three document types process end-to-end without manual intervention.  
-• Codebase and covenant scripts are handed over with clear README and setup instructions so I can redeploy independently.  
-
-If you already speak Kaspa and have experimented with SilverScript covenants, you’ll feel right at home. If you’re just eager to dive in and can prove past UTXO-based projects, that works too. After the MVP goes live, I plan to extend EduTrace into physical asset tokenization, so there’s plenty of room to grow the engagement. Let’s get this portal live.</description></item>
 <item><title>Complete Squarespace Store Build</title><link>https://www.freelancer.com/projects/squarespace/Complete-Squarespace-Store-Build</link><guid isPermaLink="false">freelancer:40729996</guid><pubDate>Wed, 23 Sep 2026 22:31:07 GMT</pubDate><description>15-25 USD/hr | I’m ready to start selling physical products online and have chosen Squarespace for its built-in commerce tools. The templates, payment gateway options, inventory controls, and review features are already there—I simply need an expert to turn them into a polished, fully functioning storefront.
 
 Here’s what I’m after:  
