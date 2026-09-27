@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Educational Blog Site Clone</title><link>https://www.freelancer.com/projects/blog-design/Educational-Blog-Site-Clone</link><guid isPermaLink="false">freelancer:40736843</guid><pubDate>Sun, 27 Sep 2026 18:57:10 GMT</pubDate><description>750-1500 USD | clone another page, I know the previous owner and I have permission. The page can be found at https://web.archive.org/web/20130113165435/http://www.understanding-islam.com/</description></item>
+<item><title>Create Affiliate Gift ECommerce Sites</title><link>https://www.freelancer.com/projects/wordpress/Create-Affiliate-Gift-ECommerce-Sites</link><guid isPermaLink="false">freelancer:40736842</guid><pubDate>Sun, 27 Sep 2026 18:56:27 GMT</pubDate><description>250-750 USD | I’m ready to breathe new life into two long-held domains—holidaygifts.com and giftfruit.com—and I want them both running on a clean, dependable stack that makes affiliate sales effortless.
+
+holidaygifts.com will be a festive-looking yet simple site where visitors can browse a searchable catalog of holiday merchandise. The flow should feel like a regular store until checkout, at which point the click carries shoppers seamlessly to the partner retailer’s page through my affiliate link. Speed, clarity, and a bright seasonal palette matter more to me than flashy effects; I want people to land, search, and go.
+
+giftfruit.com is similar in spirit but laser-focused on premium fruit gifts. Again, I need the same straightforward browsing experience—searchable listings that hand off orders to my chosen fruit-company affiliates so I collect commission without ever touching the packing line.
+
+Key deliverables  
+• Holidaygifts.com: festive UI, product catalog, on-site search, outbound affiliate click-throughs that preserve tracking.  
+• Giftfruit.com: fruit-themed variant of the above with its own catalog and search.  
+• A back-end dashboard (WordPress + WooCommerce “External/Affiliate” products, or a comparable solution) where I can add items, swap links, and track performance.  
+• Basic SEO setup and affiliate disclaimer placement.  
+• Clear instructions so I can maintain and expand the listings myself.
+
+If you’ve built affiliate catalogs before and can match a colorful holiday vibe with rock-solid simplicity, let’s talk about timelines and milestones.</description></item>
 <item><title>Comprehensive Client Portal Build </title><link>https://www.freelancer.com/projects/full-stack-development/Southwind-Guardian-Portal-Build</link><guid isPermaLink="false">freelancer:40736809</guid><pubDate>Sun, 27 Sep 2026 18:32:00 GMT</pubDate><description>1500-3000 USD | Full-Stack Developer or Development Team for Client Portal
 
 I own a marketing and communications company serving businesses, local governments and community organizations. I am looking for an experienced developer or small development team to build a working client and staff platform.
@@ -1055,23 +1070,6 @@ Ideal Skills and Experience:
 - Proficiency in web development
 - Experience with interactive tool design
 - Familiarity with typing test algorithms</description></item>
-<item><title>Members-Only WordPress Video Site</title><link>https://www.freelancer.com/projects/video-streaming/Members-Only-WordPress-Video-Site</link><guid isPermaLink="false">freelancer:40731760</guid><pubDate>Thu, 24 Sep 2026 19:11:30 GMT</pubDate><description>250-750 USD | I am putting together a WordPress-based content site that showcases HD videos (and some supporting photo sets) exclusively to paying members. Access must be locked behind a strict paywall with four subscription lengths—1, 3, 6 and 12 months—processed through CCBill. No part of the library should be viewable or streamable until a valid subscription is active.
-
-On top of streaming, I want visitors to be able to download each video either:
-• as a one-off single-purchase download, or  
-• as part of an enhanced “download included” subscription tier charged at a higher price point.  
-
-Both options need to run through CCBill so the billing workflow stays seamless.
-
-Key points you’ll tackle  
-• Build or configure a secure membership plugin that supports CCBill’s recurring billing and lets me create multiple plan durations with flexible pricing.  
-• Protect all media—videos and photos—so direct URLs can’t be shared. Cloud-friendly storage (e.g. Amazon S3 + expiring links) is preferred but I’m open to other proven methods.  
-• Implement the dual download model (single purchase vs. subscription-based) and ensure each transaction updates the member’s permissions instantly.  
-• Create a clean, mobile-first theme where browsing, streaming and purchasing feel friction-free.  
-
-Acceptance: A test account should confirm that (1) content is invisible when expired, (2) streaming works smoothly on desktop and mobile, (3) single-purchase files download only after payment, and (4) subscription upgrades/downgrades propagate correctly inside CCBill and on the site.
-
-If you’ve integrated CCBill with WordPress memberships before, tell me which plugins or custom code you used so I know we can hit the ground running.</description></item>
 <item><title>Brand Website With Contact Form</title><link>https://www.freelancer.com/projects/web-design/Brand-Website-With-Contact-Form</link><guid isPermaLink="false">freelancer:40731562</guid><pubDate>Thu, 24 Sep 2026 16:53:09 GMT</pubDate><description>25-50 USD/hr | I want a clean, desktop-first website that pulls my scattered online presence—Instagram, Facebook, and our Android/iPhone touchpoints—into one place. The assignment is design-only: I need layered source files (Figma, XD, or Sketch) that show how each screen looks and behaves.
 
 The site is intentionally focused on desktop, so you don’t need to worry about mobile responsiveness. What matters is a modern layout, clear typography, and a friction-free contact form that lets visitors send messages straight to my inbox. Social icons pointing to our Instagram locations and Facebook page should sit prominently in the header or footer to keep the brand connection obvious.
@@ -1090,135 +1088,6 @@ The site will not sell products or showcase a portfolio, it simply has to presen
 Please include links to past work that shows you’ve handled similar informational sites. I’ll use that to gauge your visual style and attention to detail. If we click, I’ll supply the copy, logo, and any imagery you need so you can jump straight into Figma, Adobe XD, or Sketch—whichever you’re most comfortable using.  
 
 Final deliverables are the editable design files, export-ready assets, and a brief style guide so a developer can implement your work without endless back-and-forth. If this sounds straightforward and exciting, I’d love to hear from you.</description></item>
-<item><title>Engaging Website Design for Hospitality Consultancy</title><link>https://www.freelancer.com/projects/web-design/Engaging-Website-Design-for-Hospitality</link><guid isPermaLink="false">freelancer:40731390</guid><pubDate>Thu, 24 Sep 2026 14:55:43 GMT</pubDate><description>250-750 GBP | I am launching The Menu Method, a specialist consultancy helping restaurants, pubs and hospitality businesses improve the profitability of their menus through menu engineering, data analysis and practical commercial insight.
-
-I have 10 years’ experience in hospitality marketing, working with businesses including PizzaExpress, Fuller, Smith &amp; Turner and independent hospitality groups.
-
-The website needs to establish The Menu Method as credible, knowledgeable and commercially focused, while still feeling approachable and personal.
-
-What I’m looking for:
-I am looking for an experienced web designer/developer to create a clean, professional and modern website using an existing high-quality template or theme.
-The budget for the initial website is approximately £750, so I am not looking for a fully bespoke website design.
-I would like the designer to recommend an appropriate template/platform and customise it effectively using my branding, content, imagery and colours.
-The finished site should feel polished and professional rather than obviously "off the shelf".
-The overall style should be:
-•	Sophisticated but not corporate
-•	Modern and visually engaging
-•	Clean and uncluttered
-•	Commercial and professional
-•	Approachable and personal
-•	Appropriate for the hospitality industry
-
-Website requirements:
-The initial website will be relatively small, with approximately 5–7 pages:
-•	Home
-•	About / Meet Anita
-•	What I Do / Services
-•	How It Works
-•	FAQs
-•	Insights / Blog
-•	Contact
-
-I will provide the majority of the written content.
-I would welcome some guidance on how the content should be structured within the chosen template.
-
-Key objective:
-The primary purpose of the website is to generate enquiries from restaurant, pub and hospitality operators.
-Visitors should quickly understand:
-•	What I do
-•	Who I help
-•	Why my experience makes me credible
-•	What they can expect from working with me
-•	How to get in touch
-The main message should be clear:
-I help hospitality businesses make more profit from their existing menus.
- 
-Design approach:
-I am happy to work from an existing premium template/theme rather than developing a completely bespoke design.
-I would like the designer to recommend a template that suits the business and then customise it appropriately.
-I'm particularly interested in:
-•	Strong typography
-•	High-quality food/hospitality imagery
-•	Plenty of white space
-•	A simple, sophisticated colour palette
-•	Clear calls to action
-•	Good visual hierarchy
-•	Subtle animations where they are already supported by the chosen template
-
-The site must work well on desktop, tablet and mobile.
-
-The priority is making a well-chosen template feel polished, cohesive and appropriate for The Menu Method, rather than creating a completely bespoke design.
-
-Functionality - 
-The website should include:
-•	Contact/enquiry form
-•	Clear calls-to-action
-•	Blog/Insights capability
-•	Basic SEO setup
-•	Google Analytics or equivalent tracking
-•	Mobile optimisation
-•	Fast-loading pages
-•	Easy-to-manage CMS
-•	Basic cookie/privacy functionality appropriate for a UK business
-
-No complex bespoke functionality or integrations are required at this stage.
-
-Branding:
-I have some initial ideas for The Menu Method's visual direction but do not currently require a full brand identity project.
-
-I would like the website to establish a simple and professional visual identity through:
-•	Typography
-•	Colour palette
-•	Image style
-•	Layout
-•	Consistent use of design elements
-
-I am happy to use a relatively simple visual identity initially and develop the branding further as the business grows.
-
-Platform / CMS
-I am open to recommendations but would prefer a straightforward platform that allows me to make basic content changes myself.
-
-Please explain which platform you would recommend and why.
-
-A suitable WordPress, Squarespace, Wix, Webflow or similar template-based solution would be considered.
-
-What I'm looking for in a freelancer:
-Please only apply if you have experience creating professional websites using existing templates/themes.
-
-I am particularly interested in someone who can:
-•	Select an appropriate template rather than simply use the first available theme
-•	Make a template feel polished and personalised
-•	Have a good eye for typography, imagery and layout
-•	Understand basic conversion principles
-•	Work efficiently within a fixed budget
-•	Communicate clearly and reliably
-•	Make sensible recommendations where something could be improved
-
-Hospitality, restaurant, food, lifestyle, consultancy or other premium service-sector experience would be useful but is not essential.
-
-Budget:
-The budget for the initial website is approximately £750.
-I am specifically looking for a template-based solution to keep the initial investment manageable.
-
-Please indicate clearly what is included within your price and identify any additional costs separately.
-
-I am open to using a paid premium template/theme if this is appropriate, although any additional licence cost should be identified before proceeding.
-Please include with your proposal
-
-Please provide:
-•	2–3 examples of relevant websites you have designed/built
-•	The platform/CMS you would recommend
-•	An example of the type of template/theme you might use
-•	A brief explanation of your approach
-•	Estimated timescale
-•	Fixed project price
-•	What is included in the price
-•	Any costs that I would need to pay separately
-•	Any ongoing hosting, software or licence costs
-
-Please don't send a generic proposal. I'd particularly like to understand how you would approach creating a polished £750 website for The Menu Method using a suitable template.
-
-There may be opportunities for further website, design and content work as the business develops, so I'm also interested in finding someone I can work with longer term.</description></item>
 <item><title>Complete Squarespace Store Build</title><link>https://www.freelancer.com/projects/squarespace/Complete-Squarespace-Store-Build</link><guid isPermaLink="false">freelancer:40729996</guid><pubDate>Wed, 23 Sep 2026 22:31:07 GMT</pubDate><description>15-25 USD/hr | I’m ready to start selling physical products online and have chosen Squarespace for its built-in commerce tools. The templates, payment gateway options, inventory controls, and review features are already there—I simply need an expert to turn them into a polished, fully functioning storefront.
 
 Here’s what I’m after:  
