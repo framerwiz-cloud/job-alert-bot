@@ -3,6 +3,146 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Comprehensive Client Portal Build </title><link>https://www.freelancer.com/projects/full-stack-development/Southwind-Guardian-Portal-Build</link><guid isPermaLink="false">freelancer:40736809</guid><pubDate>Sun, 27 Sep 2026 22:16:19 GMT</pubDate><description>1500-3000 USD | We are a marketing and communications company seeking an experienced developer or small team to build a branded client and staff platform.
+
+Our current service runs through account managers who handle website updates and support requests. The portal will let clients manage permitted website content, request assistance, collaborate on projects, approve work, access reports and manage social content.
+
+It must also serve clients hiring us for website builds, surveys, marketing campaigns or consulting, without requiring a connected website or CRM account.
+
+SOW AND EXISTING WORK
+
+The detailed SOW and downloaded GitHub ZIP are available here:
+https://drive.google.com/drive/folders/10tNkYhjd0IWnRud6oHX0ZTCOI9NusLi_?usp=sharing
+
+The existing work is unfinished and requires validation. Reuse is optional. Explain what you would retain, refactor or rebuild, including authentication, permissions, data, storage and workflows.
+
+Preferred stack: Next.js, TypeScript and PostgreSQL/Supabase. A separate backend framework is not mandatory; explain any proposed changes. Visual references and workflow requirements are available. Identify missing screens and include agreed UI completion in your quote.
+
+Please demonstrate experience with secure portals, WordPress/Elementor integrations, approval workflows and APIs.
+
+REQUIRED RELEASE
+
+WordPress Website Editing
+
+Connect our Cloudways-hosted WordPress sites to the portal. Our stack includes Elementor Pro and ACF; other plugins and content patterns vary by site.
+
+Clients must edit permitted text, images, links, documents, posts and approved page sections through a controlled portal interface. Include new pages from approved templates, drafts, previews, approval requests, publishing results and version recovery. Clients can also ask staff to make changes.
+
+Approval and publishing rights are separate. Authorized users can publish directly where enabled; other editors submit for approval. Protect layouts and global settings. Detect direct WordPress changes, prevent silent overwrites and publish the exact approved version when approval is required. Include necessary cache handling and verification of published changes.
+
+We will select a representative site and arrange authorized staging access. The detailed inventory is not complete. Validate supported templates, widgets, ACF fields, content types and editing actions. Identify limitations and preserve existing site functionality.
+
+The early demonstration must cover an Elementor page, a standard post and a new page from an approved template, including editing, preview, approval, publishing, conflict detection and recovery. Access to unrestricted WordPress administration does not satisfy this requirement.
+
+Client Portal
+
+Provide a branded home screen showing the account manager, active services, projects, deadlines, requests and outstanding approvals.
+
+Clients can communicate with staff, submit requests, upload assets, review deliverables, download reports and track progress. Show only their authorized services and actions.
+
+Core project and collaboration features must work without a connected website, Google account or GoHighLevel account.
+
+Staff and Contractor Workspace
+
+Manage clients, projects, milestones, tasks, tickets, recurring work, assignments, files and discussions. Staff can assign work to themselves, authorized colleagues or contractors and complete it themselves.
+
+Include work queues, overdue items, workload, onboarding progress, pending approvals, failed notifications and connection status.
+
+Contractors see only explicitly assigned work, necessary files and designated discussions. Assignment must not expose the entire client or project. Internal staff notes and administration remain private.
+
+Onboarding, Intake and Offboarding
+
+Include editable service-specific intake forms, asset collection, reusable project templates, recurring checklists, invitations, first-login guidance and reminders.
+
+Clients can save and resume forms. Staff can request corrections and track completion. Include service changes, work transfer, permitted exports and access removal.
+
+For connected GoHighLevel accounts, include opportunity-won onboarding with duplicate protection for clients, projects and invitations.
+
+Files, Reports and Approvals
+
+Staff can organize, update and share PDFs and supporting files against the correct client and project. Clients access shared reports; internal files remain private.
+
+Research reports will be prepared externally and uploaded manually. Direct Esri and Leadinfo integrations are not required.
+
+Approvals apply to a specific version. Include comments, requested changes, decision history, due dates, reminders and authorized reassignment. Revisions requiring approval return for review. Overdue approvals must never approve themselves automatically.
+
+Routine support tickets should not require unnecessary client sign-off. Include a searchable client help area maintained by staff.
+
+Social Management, Reporting and GoHighLevel
+
+Clients and staff can create, review, approve and schedule content, with a calendar and publication results. Include supported analytics, downloadable reports and agreed reputation actions such as viewing and replying to reviews.
+
+We already pay for GoHighLevel's full SaaS/white-label service and use its CRM, pipeline, automations and phone/messaging setup. Assess those existing capabilities first. Twilio operates through GoHighLevel; preserve existing numbers, routing and automations.
+
+Facebook, LinkedIn and Google Business Profile are the initial channels to assess. Connected profiles, API permissions, formats, metrics and supported actions still need verification. Identify capabilities that are tested, unverified or blocked, plus any additional applications, provider approvals, subscriptions or usage charges.
+
+Track publication separately for each destination, handle partial failures and prevent duplicate posts during retries. Review requests should use the approved existing GoHighLevel workflow without duplicate sending.
+
+Social management/reporting and agreed GoHighLevel onboarding are required. The customer inbox is a separate option below.
+
+Permissions, Branding and Security
+
+Support Agency Admin, Staff, Contractor, Client Admin, Client Member and Client Viewer roles, with separate viewing, editing, approval and publishing rights.
+
+Enforce agency, client, project and assignment boundaries through database RLS and server authorization across APIs, files, search, exports, notifications and background jobs.
+
+Include privileged-user MFA, private file access and audit history. Recheck authorization when queued actions execute. Removing an assignment must revoke access granted by it, including further access through previously shared portal links.
+
+Only one agency will be live initially. Support separate agencies in the architecture and use a second staging agency for isolation and revocation tests. Commercial reseller rollout and reseller-specific domains are outside this release.
+
+Keep agency branding separate from client identity. Include branded invitations, welcome/recovery emails and responsive client/staff screens.
+
+Website and Launch Records
+
+Provide a staff register for websites, domains, hosting, technical contacts, connection status and renewal responsibility.
+
+Include staging review, client launch approval, launch checklists and verification records. Domain, hosting, infrastructure and data ownership remain under our control.
+
+SEPARATELY PRICED OPTIONS
+
+Google/Facebook sign-in for convenience. Email/password login, invitations and recovery are required. Optional sign-in must not bypass permissions or MFA.
+
+Selection and sharing of existing Google Drive documents.
+
+Viewing and replying to customer SMS/email conversations inside the portal through GoHighLevel.
+
+Cloudways/Cloudflare status synchronization or authorized infrastructure controls beyond cache handling needed for publishing.
+
+DELIVERY EXPECTATIONS
+
+Include technical planning, code assessment and compatibility validation within the project. We are not purchasing a separate assessment.
+
+Develop and deploy in accounts we control, committing source code to our repository throughout. Your team handles technical setup; we provide business decisions, authorized access and owner consent.
+
+Include testing, daily off-site backups with at least 30-day retention, restore verification, documentation, staff training, handover and 90 days of post-launch defect fixes. Quote ongoing maintenance separately.
+
+Launch website/profile counts are not finalized. State how many client accounts, websites and social profiles your fixed price includes and the costs for additional connections or new compatibility patterns.
+
+There is no confirmed hard launch date. Propose a realistic schedule for the complete required release, including demonstrations, testing, training and deployment.
+
+YOUR PROPOSAL MUST INCLUDE
+
+Relevant working examples and your specific role.
+
+Your approach to Elementor editing, permissions, approvals and recovery.
+
+What you would reuse, refactor or rebuild.
+
+A fixed total for the complete required scope, milestone deliverables and acceptance criteria.
+
+Separately priced options.
+
+Schedule, dependencies, compatibility limits and exclusions.
+
+Recurring costs, distinguishing existing subscriptions from new expenses.
+
+Who performs development, design, testing and support.
+
+Whether your posted bid is the full-scope price or a preliminary amount.
+
+The SOW defines requirements and acceptance checks. Flag conflicts, assumptions and exclusions before agreement. Include contingency in the fixed price and schedule; changes require written agreement.
+
+https://drive.google.com/drive/folders/10tNkYhjd0IWnRud6oHX0ZTCOI9NusLi_?usp=sharing</description></item>
 <item><title>Boston Tourism Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Boston-Tourism-Website-Redesign</link><guid isPermaLink="false">freelancer:40736978</guid><pubDate>Sun, 27 Sep 2026 21:24:28 GMT</pubDate><description>750-1500 USD | I'm looking to recreate our existing website for a Boston tourism company in a new space. This will allow us to operate it more efficiently. The new site should include:
 
 - Easy content management
@@ -111,108 +251,6 @@ Key deliverables
 • Clear instructions so I can maintain and expand the listings myself.
 
 If you’ve built affiliate catalogs before and can match a colorful holiday vibe with rock-solid simplicity, let’s talk about timelines and milestones.</description></item>
-<item><title>Comprehensive Client Portal Build </title><link>https://www.freelancer.com/projects/full-stack-development/Southwind-Guardian-Portal-Build</link><guid isPermaLink="false">freelancer:40736809</guid><pubDate>Sun, 27 Sep 2026 18:32:00 GMT</pubDate><description>1500-3000 USD | Full-Stack Developer or Development Team for Client Portal
-
-I own a marketing and communications company serving businesses, local governments and community organizations. I am looking for an experienced developer or small development team to build a working client and staff platform.
-
-The platform currently exists as a service: clients send website content updates and support requests through their account manager. We want to expand that service with a branded portal where clients can manage permitted website content, request assistance, collaborate on projects, approve work, access reports and manage social content.
-
-The platform must also serve clients who do not purchase our website services. Someone hiring us for a website build, survey, marketing campaign or consulting project should be able to use the portal for communication, files, milestones and approvals.
-
-We have a detailed scope, visual references and an AI-assisted Next.js/TypeScript/PostgreSQL/Supabase codebase. This is not a finished production application. You may reuse suitable code or recommend a rebuild with a clear explanation.
-
-I am looking for someone with demonstrated experience in full-stack application development, WordPress/Elementor integrations, secure client portals, granular permissions, approval workflows and API integrations. You should be comfortable owning the technical implementation, testing and deployment.
-
-Required Platform
-
-1. WordPress Website Editing
-
-Connect our WordPress websites, currently hosted on Cloudways, to the portal. Most use Elementor.
-
-Clients must be able to edit permitted text, images, links, documents, posts and approved page sections through the portal. Include drafts, previews, approval requests, publishing results and version recovery. Authorized users can publish directly; other users submit changes for approval. Clients must also be able to request that staff make changes for them.
-
-Validate compatibility against our actual sites and identify supported templates, widgets, fields and actions. The solution must protect the website's layout and handle conflicting changes safely. Simply providing a link to unrestricted WordPress administration will not satisfy this requirement.
-
-2. Client Portal
-
-Provide a branded home screen showing the client's account manager, active services, projects, deadlines, outstanding requests and approvals.
-
-Clients should be able to communicate with staff, submit requests, upload assets, review deliverables, download reports and track progress. Display only the services and actions available to that client.
-
-The portal must work for clients without a connected website, Google account or external CRM account.
-
-3. Staff and Contractor Workspace
-
-Include management of clients, projects, milestones, tasks, tickets, recurring work, assignments, files and discussions.
-
-Staff must be able to assign work to themselves, other authorized staff or contractors and complete work themselves. Include work queues, overdue items, workload, onboarding progress, pending approvals, failed notifications and connection status.
-
-Contractors must see only explicitly assigned work, necessary files and designated discussions. Internal staff notes and administration must remain private.
-
-4. Onboarding, Intake and Offboarding
-
-Include editable service-specific intake forms, asset collection, reusable project templates, recurring checklists, invitations, first-login guidance and reminders.
-
-Clients should be able to save and resume intake forms. Staff should be able to request corrections and track completion.
-
-Include service changes and offboarding with work transfer, permitted exports and access removal. For connected CRM accounts, include opportunity-won onboarding with safeguards against duplicate clients, projects and invitations.
-
-5. Files, Reports and Approvals
-
-Staff must be able to organize, update and share PDFs and supporting files against the correct client and project. Clients can access shared reports; internal files remain private.
-
-Approvals must apply to a specific version of a deliverable. Include comments, requested changes, decision history, due dates, reminders and authorized reassignment. An overdue approval must never automatically approve itself.
-
-Include a searchable client help area that staff can maintain.
-
-6. Social Management and Reporting
-
-Clients and staff should be able to create content, review and approve it, schedule publication and view publishing results in a calendar.
-
-Include analytics, downloadable reports and agreed reputation workflows, such as viewing and replying to reviews. Verify the supported networks, post formats, metrics and account requirements before committing.
-
-Assess existing CRM/social platform connections first. Clearly identify any additional provider subscriptions, applications or approvals required.
-
-7. Permissions, Branding and Security
-
-Support agency administrators, ordinary staff, contractors and client users with different viewing, editing, approval and publishing permissions.
-
-Use database-level row security and server authorization to isolate agency, client, project and assigned-work data. Include privileged-user MFA, private file access, audit history and hosted isolation/revocation testing using a second test agency.
-
-The agency is the only live organization initially. Keep agency branding separate from each client's identity. Include branded invitations, welcome and recovery emails and responsive screens based on our approved designs.
-
-8. Website and Launch Records
-
-Include a staff register for websites, domains, hosting, technical contacts, connection status and renewal responsibility.
-
-Support staging review, client launch approval, launch checklists and verification records. Existing domain and hosting ownership must remain under our control.
-
-Separate Options
-
-The following should be quoted as separate options:
-
-Google and Facebook sign-in for convenience; ordinary email login is required.
-Selection and sharing of existing Google Drive documents.
-Viewing and replying to existing SMS/email conversations inside the connected CRM platform. Our messaging service runs through the CRM; existing numbers and routing must be preserved.
-Cloudflare status synchronization or authorized infrastructure controls.
-Delivery Expectations
-
-Technical review should be included in development, not sold as a separate assessment.
-
-Develop and deploy in accounts we control, with source code committed to our repository throughout the project.
-
-Include testing, backups and restore verification, documentation, staff training, handover and 90 days of post-launch defect support. Ongoing maintenance should be optional and quoted separately.
-
-Please Include in Your Proposal
-Relevant working examples and what you personally implemented.
-Your approach to Elementor editing and approval workflows.
-What you would reuse, refactor or rebuild.
-A fixed total for the required scope, with milestone deliverables and separately priced options.
-A realistic schedule with demonstrations, testing and launch.
-Recurring costs, dependencies, compatibility limits and exclusions.
-Who will perform development, design, testing and support.
-
-The attached SOW defines the detailed requirements and acceptance checks. Please quote against the complete required release and identify any proposed changes before agreement.</description></item>
 <item><title>SEO Copy Update and Page Addition</title><link>https://www.freelancer.com/projects/content-writing/SEO-Copy-Update-Page-Addition</link><guid isPermaLink="false">freelancer:40736780</guid><pubDate>Sun, 27 Sep 2026 18:04:27 GMT</pubDate><description>50+ USD/hr | I'm looking for an experienced SEO specialist to overhaul my website copy and add a few essential pages. The goal is to improve our SEO across the entire site to generate more leads and sales. 
 
 Key requirements:
