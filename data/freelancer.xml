@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Corporate Client Portal Website Build</title><link>https://www.freelancer.com/projects/web-development/Corporate-Client-Portal-Website-Build</link><guid isPermaLink="false">freelancer:40736941</guid><pubDate>Sun, 27 Sep 2026 20:43:56 GMT</pubDate><description>250-750 GBP | I’m building a fresh online presence that feels unmistakably corporate and professional while keeping client engagement front-and-centre.  
+
+Here’s the experience I’m after: visitors arrive on a polished landing page, learn what we do, then move into a secure portal that’s tailored to each of them. Inside that portal every client must be able to upload documents, check their own real-time sales totals and commissions, and open a message thread with our support team.  
+
+Alongside the portal I need a simple resources page—just clean hyperlinks pointing to a library of PDF files.  
+
+On the back end I’ll log into an admin dashboard that rolls up all management information: total sales by client, commissions by client, and overall performance statistics, with the option to export the data or view quick visual summaries.  
+
+Tech stack is flexible: WordPress with the right plugins, a Laravel or Django build, or a React/Node solution—whatever you’re most comfortable securing, scaling and handing over in a maintainable state. The finished site must be fully responsive, GDPR-compliant and easy for me to update without touching code.  
+
+Deliverables  
+• Responsive landing page, resources page and secure client portal  
+• Document upload, personal statistics display, and in-portal messaging functionality  
+• Admin dashboard for MI: sales per client, commission per client, export options  
+• Source code, deployment files and a brief hand-over guide  
+
+If this sounds like your wheelhouse, let’s talk through the timeline and milestones.</description></item>
 <item><title>Bilingual WordPress Elementor Build</title><link>https://www.freelancer.com/projects/elementor/Bilingual-WordPress-Elementor-Build</link><guid isPermaLink="false">freelancer:40736893</guid><pubDate>Sun, 27 Sep 2026 19:48:29 GMT</pubDate><description>350-400 USD | I already have every page laid out in Figma with final copy in both German and English; all typography, colours and spacing decisions are locked. What I need now is a developer who can translate those static designs into a live WordPress site built with Elementor, keep the build pixel-accurate, and make sure it looks just as good on phones and tablets as it does on a desktop monitor.
 
 Scope of work  
@@ -1067,34 +1084,6 @@ What plugins/licences you would require
 What you would recommend changing or simplifying
 Ongoing maintenance costs, if any
 Whether you can build the system so it can later integrate with ServiceM8 or Formitize</description></item>
-<item><title>CEO Dashboard &amp; WordPress Booking Revamp</title><link>https://www.freelancer.com/projects/zapier/CEO-Dashboard-WordPress-Booking-Revamp</link><guid isPermaLink="false">freelancer:40732017</guid><pubDate>Thu, 24 Sep 2026 23:36:13 GMT</pubDate><description>250-750 CAD | I need two tightly-connected pieces of work completed so I can run the business with better data and turn more site visitors into confirmed bookings.
-
-1) CEO Profit-and-Loss Dashboard  
-I want a single place where I can open my laptop each morning and see daily, weekly and monthly profit &amp; loss, broken down by the specific Chart of Accounts we already use. Data has to flow automatically through Zapier from Square, Canadian QuickBooks Online, Payworks and Jobber. The mapping between each system and the COA needs to be built once and then monitored so nothing falls out of sync. I’m open on the display layer—Google Looker Studio, Tableau, Power BI or even a well-structured Google Sheet—as long as it is live-updating, shareable and can be filtered quickly.
-
-Key needs  
-• Robust Zapier workflows (or direct API calls if you prefer) that pull sales, payroll and job data in near real time.  
-• Clear COA mapping tables I can adjust myself.  
-• Daily, weekly and monthly P&amp;L views plus a simple drill-down on major expense categories.  
-• A short Loom or Zoom walkthrough so I know how to maintain it.
-
-2) WordPress Website Update  
-The current WordPress site is staying, but it needs a refresh in design layout, functionality and content / SEO so more customers complete an online booking. I already use Jobber for service scheduling and Booqable for rentals; both widgets have to slot smoothly into the new pages, look native and work flawlessly on mobile.
-
-Primary goals  
-• Update the layout to modern, fast, mobile-first styling without breaking anything live.  
-• Improve the booking flow: clearer calls-to-action, fewer clicks to Jobber/Booqable checkout, and obvious trust signals.  
-• Rewrite or refine page copy, headings and meta so we rank better for local keywords.  
-• Optimise page speed and core vitals after the changes.
-
-Deliverables (acceptance criteria)  
-• Working Zapier scenarios with documented steps.  
-• Live dashboard link showing correct figures for at least the last 30 days.  
-• Staging then live WordPress theme/files with new design, Jobber &amp; Booqable embedded, and no layout issues on mobile, tablet or desktop.  
-• On-page SEO checks passed (titles, H1s, alt tags, schema where useful).  
-• A concise hand-off guide covering both the dashboard and the site.
-
-If you’ve built financial dashboards and tuned WordPress funnels before, this should be a smooth project. Let me know your proposed stack and timeline and we can get started right away.</description></item>
 <item><title>Online Typing Test Development</title><link>https://www.freelancer.com/projects/web-development/Online-Typing-Test-Development</link><guid isPermaLink="false">freelancer:40731795</guid><pubDate>Thu, 24 Sep 2026 19:26:43 GMT</pubDate><description>15-25 USD/hr | I'm seeking a developer to create an online interactive typing test tool for job applicants. The test should evaluate both typing speed and accuracy using predefined paragraphs.
 
 Key Requirements:
