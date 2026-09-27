@@ -3,17 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Complete WordPress Theme with USDT</title><link>https://www.freelancer.com/projects/web-design/Complete-WordPress-Theme-with-USDT</link><guid isPermaLink="false">freelancer:40737062</guid><pubDate>Sun, 27 Sep 2026 23:17:03 GMT</pubDate><description>5000-10000 USD | I already have a WordPress install exported through WP Migrate and roughly half of a custom theme in place for my small consulting site. What I still need is someone to finish the remaining templates and styling so everything lines up with the reference design I’ll share with you. It’s a straight-forward brochure site—no shop, no complicated membership logic—so the focus is on clean PHP, CSS and a bit of JavaScript to tighten the polish.
-
-One extra touch: the contact page must offer a “Pay with USDT” option. The theme contains a starter snippet for it, but the address field, auto-generated QR code and a simple “payment sent” confirmation still have to be wired up and tested. Once that works locally, we’ll package everything for deployment.
-
-Deliverables  
-• Custom theme fully aligned to my reference design  
-• Functional USDT payment block (address, QR, confirmation)  
-• Clear documentation of any plugins or custom code you add  
-• Final export ready to drop onto my production server  
-
-Timeline is fixed for sign-off before the end of October. My budget hovers around $517 and I’m happy to split it into logical milestones—theme completion first, USDT feature second. I pay in crypto, so once we tick the boxes, you’ll be paid just as smoothly as the site’s visitors.</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
@@ -1001,6 +990,53 @@ Acceptance will be based on:
 3. Clean, minimalist look consistent across all pages.  
 
 If this sounds straightforward for you, let’s get it launched.</description></item>
+<item><title>Property Listings Integration on NestSeekers Australia</title><link>https://www.freelancer.com/projects/api-developmet/Property-Listings-Integration</link><guid isPermaLink="false">freelancer:40732431</guid><pubDate>Fri, 25 Sep 2026 05:45:24 GMT</pubDate><description>250-750 USD | NestSeekers Australia — Property Listings Integration
+
+Site: nestseekersaustralia.com.au (WordPress + Elementor)
+
+Objective
+
+Build a custom property listings feature on the site that:
+
+Pulls live listing data from the MantisProperty CRM via their API (reference: MantisPropertyAPI_XMLSpec.pdf).
+Displays listings styled to match the existing site design (not MantisProperty's default UI).
+Gives each listing its own real, crawlable WordPress URL on the site's own domain — not an iframe, not a JavaScript-only overlay.
+Shows a featured-properties carousel on the homepage.
+Captures buyer enquiries reliably.
+Scope of work
+Data sync
+Connect to the MantisProperty API using account credentials (to be provided).
+Pull listing data on a scheduled basis (e.g. WP-Cron) — address, price/status, bedrooms/bathrooms/car spaces, description, photos, agent details, listing status (For Sale / Under Offer / Sold, etc.).
+Store each listing as a native WordPress entry (custom post type) — not just cached data rendered on the fly — so each listing gets a real, indexable URL.
+Status must always be a single source of truth per listing — a listing must never be able to display two conflicting statuses (e.g. "Sold" and "For Sale") at once.
+Handle image imports cleanly: full-resolution photos, no stretching/cropping artefacts. Confirm whether the API serves clean images or images with a watermark baked in; if the latter, flag before proceeding further.
+Property listing page template
+One template, used for every property, styled to match the existing Elementor site (typography, colours, header/footer, layout language).
+Each listing has its own unique URL.
+Include: photo gallery, address, price/status, bed/bath/car, description, enquiry form.
+Page title and meta description generated per listing from the listing data.
+Featured properties carousel
+Use Elementor Pro's native Loop Carousel widget, pulling from the custom post type above.
+Placement: homepage, reusable elsewhere if needed.
+Enquiry capture
+Enquiry form on each property page.
+Submissions should post back into MantisProperty via the API so they land in the MantisProperty CRM inbox. If this isn't feasible via the API, flag it and fall back to direct email delivery.
+Enquiry submissions must not fail silently — confirm handling if the API is unreachable at submission time.
+Explicitly out of scope
+Trust accounting, tenant/owner portals, maintenance requests.
+Printable brochures/stock lists.
+Any MantisProperty-branded UI element appearing on the site.
+Multi-agent/staff directory features.
+Acceptance criteria
+ A live listing, a sold listing, and an under-offer listing each display one single, correct status — no contradictions.
+ Every listing has its own URL that loads directly and is crawlable (listing content present in raw page source, not only loaded via JavaScript).
+ Carousel and listing pages visually match the rest of the site.
+ A test enquiry submitted on a sample listing is confirmed to arrive at its intended destination.
+ Tested on mobile and desktop.
+ A status change made in MantisProperty (e.g. marking a test listing "Under Offer") is reflected on the site within the sync window.
+Reference materials
+MantisProperty API spec: MantisPropertyAPI_XMLSpec.pdf
+Live site for design/brand reference: nestseekersaustralia.com.au</description></item>
 <item><title>Online Typing Test Development</title><link>https://www.freelancer.com/projects/web-development/Online-Typing-Test-Development</link><guid isPermaLink="false">freelancer:40731795</guid><pubDate>Thu, 24 Sep 2026 19:26:43 GMT</pubDate><description>15-25 USD/hr | I'm seeking a developer to create an online interactive typing test tool for job applicants. The test should evaluate both typing speed and accuracy using predefined paragraphs.
 
 Key Requirements:
