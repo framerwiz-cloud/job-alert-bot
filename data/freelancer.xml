@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Interactive Signable Modern eCard</title><link>https://www.freelancer.com/projects/css/Interactive-Signable-Modern-eCard</link><guid isPermaLink="false">freelancer:40735564</guid><pubDate>Sun, 27 Sep 2026 01:38:42 GMT</pubDate><description>15-25 USD/hr | I’m putting together a modern-looking eCard with a friendly, casual vibe that people can pass around, sign, and then share as a finished keepsake. Think sleek fonts, a fresh colour palette, and a layout that feels current—nothing stuffy or overly formal.
+
+Key details I need you to cover
+• Format: eCard only (no PDF or static social post)  
+• Tone: light, conversational messaging that fits birthday wishes, team celebrations or similar informal occasions  
+• Sharing flow: one link people can open on desktop or mobile, add their name and a short note, then hit “Done” so the next person sees every previous signature
+
+Deliverables
+1. Fully-designed eCard (HTML/CSS/JS or comparable web-based format) ready to host or embed
+2. Simple “Add your signature” interaction that appends each signer’s name/message in real time
+3. Final-export option so I can download the completed card as an image or PDF once everyone is finished
+4. Source files plus a quick setup/read-me so I can drop it onto my own hosting with minimal fuss
+
+Acceptance criteria
+• Modern visual style matches preview mock-up you’ll provide and I approve  
+• Works consistently on recent versions of Chrome, Safari and mobile browsers  
+• Signatures persist for at least 30 days without manual intervention  
+• Page size under 1 MB for quick loading
+
+If you’ve built interactive greeting cards, guestbooks, or digital invites before, this should feel familiar—let’s make something people will actually enjoy signing and sharing.</description></item>
 <item><title>Construction Company Lead Gen Website</title><link>https://www.freelancer.com/projects/web-development/Construction-Company-Lead-Gen-Website</link><guid isPermaLink="false">freelancer:40735491</guid><pubDate>Sat, 26 Sep 2026 23:20:46 GMT</pubDate><description>250-750 CAD | I need a website developed for my construction company aimed at generating leads and inquiries. The site must include an online quotation request feature.
 
 Requirements:
