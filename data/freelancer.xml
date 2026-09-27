@@ -3,35 +3,37 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Southwind Guardian Portal Build </title><link>https://www.freelancer.com/projects/full-stack-development/Southwind-Guardian-Portal-Build</link><guid isPermaLink="false">freelancer:40736809</guid><pubDate>Sun, 27 Sep 2026 18:32:42 GMT</pubDate><description>1500-3000 USD | Full-Stack Developer or Development Team for Client Portal
+<item><title>Comprehensive Client Portal Build </title><link>https://www.freelancer.com/projects/full-stack-development/Southwind-Guardian-Portal-Build</link><guid isPermaLink="false">freelancer:40736809</guid><pubDate>Sun, 27 Sep 2026 18:32:00 GMT</pubDate><description>1500-3000 USD | Full-Stack Developer or Development Team for Client Portal
 
-I own a marketing and communications company serving businesses, local governments and community organizations. I am looking for an experienced developer or small development team to build into a working client and staff platform.
+I own a marketing and communications company serving businesses, local governments and community organizations. I am looking for an experienced developer or small development team to build a working client and staff platform.
 
-We currently exist as a service: clients send website content updates and support requests through their account manager. We want to expand that service with a branded portal where clients can manage permitted website content, request assistance, collaborate on projects, approve work, access reports and manage social content.
+The platform currently exists as a service: clients send website content updates and support requests through their account manager. We want to expand that service with a branded portal where clients can manage permitted website content, request assistance, collaborate on projects, approve work, access reports and manage social content.
 
-The platform must also serve clients who do not purchase our website services. Someone hiring us for a website build, Civic Intelligence survey, site-selector marketing campaign or consulting project should be able to use Guardian for communication, files, milestones and approvals.
+The platform must also serve clients who do not purchase our website services. Someone hiring us for a website build, survey, marketing campaign or consulting project should be able to use the portal for communication, files, milestones and approvals.
 
 We have a detailed scope, visual references and an AI-assisted Next.js/TypeScript/PostgreSQL/Supabase codebase. This is not a finished production application. You may reuse suitable code or recommend a rebuild with a clear explanation.
 
 I am looking for someone with demonstrated experience in full-stack application development, WordPress/Elementor integrations, secure client portals, granular permissions, approval workflows and API integrations. You should be comfortable owning the technical implementation, testing and deployment.
 
-The required platform includes:
+Required Platform
 
-1. WordPress website editing
+1. WordPress Website Editing
 
-Connect our WordPress websites, currently hosted on Cloudways, to Guardian. Most use Elementor.
+Connect our WordPress websites, currently hosted on Cloudways, to the portal. Most use Elementor.
 
-Clients must be able to edit permitted text, images, links, documents, posts and approved page sections through Guardian. Include drafts, previews, approval requests, publishing results and version recovery. Authorized users can publish directly; other users submit changes for approval. Clients must also be able to request that Southwind staff make changes for them.
+Clients must be able to edit permitted text, images, links, documents, posts and approved page sections through the portal. Include drafts, previews, approval requests, publishing results and version recovery. Authorized users can publish directly; other users submit changes for approval. Clients must also be able to request that staff make changes for them.
 
-Validate compatibility against our actual sites and identify supported templates, widgets, fields and actions. The solution must protect the website’s layout and handle conflicting changes safely. Simply providing a link to unrestricted WordPress administration will not satisfy this requirement.
+Validate compatibility against our actual sites and identify supported templates, widgets, fields and actions. The solution must protect the website's layout and handle conflicting changes safely. Simply providing a link to unrestricted WordPress administration will not satisfy this requirement.
 
-2. Client portal
+2. Client Portal
 
-Provide a branded home screen showing the client’s account manager, active services, projects, deadlines, outstanding requests and approvals.
+Provide a branded home screen showing the client's account manager, active services, projects, deadlines, outstanding requests and approvals.
 
-Clients should be able to communicate with staff, submit requests, upload assets, review deliverables, download reports and track progress. Display only the services and actions available to that client. The portal must work for clients without a connected website, Google account or Southwind Connect account.
+Clients should be able to communicate with staff, submit requests, upload assets, review deliverables, download reports and track progress. Display only the services and actions available to that client.
 
-3. Staff and contractor workspace
+The portal must work for clients without a connected website, Google account or external CRM account.
+
+3. Staff and Contractor Workspace
 
 Include management of clients, projects, milestones, tasks, tickets, recurring work, assignments, files and discussions.
 
@@ -39,15 +41,15 @@ Staff must be able to assign work to themselves, other authorized staff or contr
 
 Contractors must see only explicitly assigned work, necessary files and designated discussions. Internal staff notes and administration must remain private.
 
-4. Onboarding, intake and offboarding
+4. Onboarding, Intake and Offboarding
 
 Include editable service-specific intake forms, asset collection, reusable project templates, recurring checklists, invitations, first-login guidance and reminders.
 
 Clients should be able to save and resume intake forms. Staff should be able to request corrections and track completion.
 
-Include service changes and offboarding with work transfer, permitted exports and access removal. For connected GoHighLevel accounts, include opportunity-Won onboarding with safeguards against duplicate clients, projects and invitations.
+Include service changes and offboarding with work transfer, permitted exports and access removal. For connected CRM accounts, include opportunity-won onboarding with safeguards against duplicate clients, projects and invitations.
 
-5. Files, reports and approvals
+5. Files, Reports and Approvals
 
 Staff must be able to organize, update and share PDFs and supporting files against the correct client and project. Clients can access shared reports; internal files remain private.
 
@@ -55,50 +57,52 @@ Approvals must apply to a specific version of a deliverable. Include comments, r
 
 Include a searchable client help area that staff can maintain.
 
-6. Social management and reporting
+6. Social Management and Reporting
 
 Clients and staff should be able to create content, review and approve it, schedule publication and view publishing results in a calendar.
 
 Include analytics, downloadable reports and agreed reputation workflows, such as viewing and replying to reviews. Verify the supported networks, post formats, metrics and account requirements before committing.
 
-Assess existing Southwind Connect/GoHighLevel connections first. Clearly identify any additional provider subscriptions, applications or approvals required.
+Assess existing CRM/social platform connections first. Clearly identify any additional provider subscriptions, applications or approvals required.
 
-7. Permissions, branding and security
+7. Permissions, Branding and Security
 
 Support agency administrators, ordinary staff, contractors and client users with different viewing, editing, approval and publishing permissions.
 
 Use database-level row security and server authorization to isolate agency, client, project and assigned-work data. Include privileged-user MFA, private file access, audit history and hosted isolation/revocation testing using a second test agency.
 
-Southwind is the only live agency initially. Keep Southwind branding separate from each client’s identity. Include branded invitations, welcome and recovery emails and responsive screens based on our approved designs.
+The agency is the only live organization initially. Keep agency branding separate from each client's identity. Include branded invitations, welcome and recovery emails and responsive screens based on our approved designs.
 
-8. Website and launch records
+8. Website and Launch Records
 
 Include a staff register for websites, domains, hosting, technical contacts, connection status and renewal responsibility.
 
 Support staging review, client launch approval, launch checklists and verification records. Existing domain and hosting ownership must remain under our control.
 
+Separate Options
+
 The following should be quoted as separate options:
 
-- Google and Facebook sign-in for convenience; ordinary email login is required.
-- Selection and sharing of existing Google Drive documents.
-- Viewing and replying to existing Connect SMS/email conversations inside Guardian. Our Twilio service runs through GoHighLevel; existing numbers and routing must be preserved.
-- Cloudflare status synchronization or authorized infrastructure controls.
+Google and Facebook sign-in for convenience; ordinary email login is required.
+Selection and sharing of existing Google Drive documents.
+Viewing and replying to existing SMS/email conversations inside the connected CRM platform. Our messaging service runs through the CRM; existing numbers and routing must be preserved.
+Cloudflare status synchronization or authorized infrastructure controls.
+Delivery Expectations
 
-Delivery expectations:
+Technical review should be included in development, not sold as a separate assessment.
 
-Technical review should be included in development, not sold as a separate assessment. Develop and deploy in accounts we control, with source code committed to our repository throughout the project.
+Develop and deploy in accounts we control, with source code committed to our repository throughout the project.
 
 Include testing, backups and restore verification, documentation, staff training, handover and 90 days of post-launch defect support. Ongoing maintenance should be optional and quoted separately.
 
-Please include in your proposal:
-
-- Relevant working examples and what you personally implemented.
-- Your approach to Elementor editing and approval workflows.
-- What you would reuse, refactor or rebuild.
-- A fixed total for the required scope, with milestone deliverables and separately priced options.
-- A realistic schedule with demonstrations, testing and launch.
-- Recurring costs, dependencies, compatibility limits and exclusions.
-- Who will perform development, design, testing and support.
+Please Include in Your Proposal
+Relevant working examples and what you personally implemented.
+Your approach to Elementor editing and approval workflows.
+What you would reuse, refactor or rebuild.
+A fixed total for the required scope, with milestone deliverables and separately priced options.
+A realistic schedule with demonstrations, testing and launch.
+Recurring costs, dependencies, compatibility limits and exclusions.
+Who will perform development, design, testing and support.
 
 The attached SOW defines the detailed requirements and acceptance checks. Please quote against the complete required release and identify any proposed changes before agreement.</description></item>
 <item><title>SEO Copy Update and Page Addition</title><link>https://www.freelancer.com/projects/content-writing/SEO-Copy-Update-Page-Addition</link><guid isPermaLink="false">freelancer:40736780</guid><pubDate>Sun, 27 Sep 2026 18:04:27 GMT</pubDate><description>50+ USD/hr | I'm looking for an experienced SEO specialist to overhaul my website copy and add a few essential pages. The goal is to improve our SEO across the entire site to generate more leads and sales. 
