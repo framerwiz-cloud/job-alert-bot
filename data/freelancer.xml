@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bilingual WordPress Elementor Build</title><link>https://www.freelancer.com/projects/elementor/Bilingual-WordPress-Elementor-Build</link><guid isPermaLink="false">freelancer:40736893</guid><pubDate>Sun, 27 Sep 2026 19:48:29 GMT</pubDate><description>350-400 USD | I already have every page laid out in Figma with final copy in both German and English; all typography, colours and spacing decisions are locked. What I need now is a developer who can translate those static designs into a live WordPress site built with Elementor, keep the build pixel-accurate, and make sure it looks just as good on phones and tablets as it does on a desktop monitor.
+
+Scope of work  
+• Spin up a clean WordPress install, add Elementor and configure WPML so users can switch seamlessly between German and English.  
+• Recreate the exact page structure provided (logistics services, Munich-based business services, legal pages, blog, etc.). No creative changes—implementation only.  
+• Add a basic contact form (Elementor Forms or similar) and wire it to the company email address.  
+• Install and configure Yoast for on-page optimisation, meta tags, XML sitemap and basic schema.  
+• Optimise images, enable caching and minification, and fine-tune Core Web Vitals so the finished site loads fast.  
+• Check everything thoroughly: responsive breakpoints, navigation, language switcher, form deliverability, 404s, redirects and final QA before launch.
+
+Deliverable  
+A fully responsive, bilingual website published on the provided hosting account, ready for public release, delivered within 30 days.
+
+Additional page designs and full English/German content will be provided to the selected freelancer.</description></item>
 <item><title>Complete &amp; Upgrade MERN Stack Website/App</title><link>https://www.freelancer.com/projects/mern/Complete-Upgrade-MERN-Stack-Website</link><guid isPermaLink="false">freelancer:40736887</guid><pubDate>Sun, 27 Sep 2026 19:42:02 GMT</pubDate><description>750-1500 EUR | We are looking for an experienced full-stack MERN developer with OpenAI, agentic development, React Native and UI design experience. Our website is approximately 97% complete. The existing code is already in GitHub, and you will work directly in our repository to finish the website. You will then redesign and upgrade our React Native app with the relevant website features.
 
 Main work
@@ -1081,19 +1095,6 @@ Deliverables (acceptance criteria)
 • A concise hand-off guide covering both the dashboard and the site.
 
 If you’ve built financial dashboards and tuned WordPress funnels before, this should be a smooth project. Let me know your proposed stack and timeline and we can get started right away.</description></item>
-<item><title>Thrive Architect Website Update</title><link>https://www.freelancer.com/projects/website-design/Thrive-Architect-Website-Update</link><guid isPermaLink="false">freelancer:40731955</guid><pubDate>Thu, 24 Sep 2026 22:32:47 GMT</pubDate><description>250-750 USD | I need updates and additions to my Thrive Architect website.
-
-Requirements:
-- Add new sections or content to the homepage
-- Add cities to my page, including a link and photo
-- Category-specific page additions 
-
-Ideal Skills and Experience:
-- Proficiency in Thrive Architect
-- Experience with WordPress and website content management
-- Strong design sense for seamless integration of new content
-The site ids built - I can do the page build and provide the pictures, so I just need the state added to the pages and a link to the page,
-I need to find someone I can call on the help in the future also to do more of these. I will be adding 11 new states on the Second Home side and 6-on the Land, Ranches side.</description></item>
 <item><title>Online Typing Test Development</title><link>https://www.freelancer.com/projects/web-development/Online-Typing-Test-Development</link><guid isPermaLink="false">freelancer:40731795</guid><pubDate>Thu, 24 Sep 2026 19:26:43 GMT</pubDate><description>15-25 USD/hr | I'm seeking a developer to create an online interactive typing test tool for job applicants. The test should evaluate both typing speed and accuracy using predefined paragraphs.
 
 Key Requirements:
