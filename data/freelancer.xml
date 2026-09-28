@@ -765,20 +765,6 @@ Here’s what matters most:
 Typical deliverable: a 400- to 800-word post formatted for WordPress (headings, short paragraphs, one in-line image suggestion). If you can also slip in a brief “what this means for meta” paragraph, even better.
 
 Drop a sample of any past RuneScape or MMO news you’ve covered, plus your turnaround availability. Let’s keep Gielinor informed!</description></item>
-<item><title>Expert WooCommerce Store Design</title><link>https://www.freelancer.com/projects/woocommerce/Expert-WooCommerce-Store-Design</link><guid isPermaLink="false">freelancer:40734651</guid><pubDate>Sat, 26 Sep 2026 11:29:00 GMT</pubDate><description>15-25 USD/hr | I’m ready to launch an online store and want it built on WooCommerce from the ground up. The core of the project is a clean, conversion-focused design that supports easy product search and filtering, lets shoppers leave ratings and reviews, and processes orders through a reliable, fully secure payment gateway.
-
-I will supply the product catalogue, branding assets, and copy; you’ll handle theme selection or custom theme development, plugin configuration, and any light custom coding required to make the shopping experience seamless on desktop and mobile.
-
-Before we wrap, I’d like a brief walk-through that covers how to update products, manage orders, and monitor basic analytics so I can keep the store running smoothly on my own.
-
-Deliverables:
-• Fully responsive WooCommerce site installed on my hosting
-• Search &amp; filter functionality operating across all product categories
-• Ratings/reviews section visible on each product page
-• Integrated, SSL-secured payment gateway tested in live mode
-• Admin guide or recorded video showing the key workflows
-
-If that scope aligns with your expertise and you have recent WooCommerce examples, I’d love to see them and discuss timelines.</description></item>
 <item><title>Student Portal Sync Test-2</title><link>https://www.freelancer.com/projects/data-entry/Student-Portal-Sync-Test-40734526</link><guid isPermaLink="false">freelancer:40734526</guid><pubDate>Sat, 26 Sep 2026 10:01:48 GMT</pubDate><description>750-1500 USD/hr | the student side is instantly recognised on our staff portal.
 
 The kinds of changes you will perform are:
@@ -815,21 +801,6 @@ Here is what I need:
 • Final hand-off should include exported assets (SVG/PNG), a style guide for fonts/colours, and clear notes for my developer so implementation is straightforward.
 
 The navigation, copy and page hierarchy will remain unchanged, so you can concentrate purely on visual design. If you have questions about the brand files or need staging access for screenshots, let me know and I’ll provide them right away. I’m ready to move forward as soon as I find the right designer.</description></item>
-<item><title>WordPress User Activity Dashboard</title><link>https://www.freelancer.com/projects/looker-studio/WordPress-User-Activity-Dashboard</link><guid isPermaLink="false">freelancer:40733226</guid><pubDate>Fri, 25 Sep 2026 14:23:28 GMT</pubDate><description>25-50 CAD/hr | I want to see at a glance how people actually use my WordPress site, so I need a Looker Studio (formerly Google Data Studio) dashboard that pulls real-time user activity directly from the WordPress database or an appropriate plugin/API.  
-
-The focus is on three metrics:
--  time duration per session that a user logs in (session start/end time). Or if not possible, then total amount of time that a user uses the site, across all times that they’ve logged in.
-- page view (yes/no) - this will allow us to see which module they got to, and how far within that module. 
-- file downloads  
-
-Please visualise the trends with simple bar or line charts and pair them with clean, sortable data tables for quick exporting. A date-range selector and user search filter should sit at the top so I can drill down without editing the report. Responsive layout is important because I will view it on both desktop and tablet.  
-
-Deliverables  
-1. Reliable data connection from WordPress to Looker Studio (native connector, BigQuery, or a lightweight middleware—whatever you recommend and set up).  
-2. One-page dashboard containing the charts and tables described above, styled to match my site colours.  
-3. Brief hand-over note explaining how to refresh data sources and add additional metrics later.  
-
-I will supply admin access to WordPress and a Google account for Looker Studio as soon as we agree on the approach.</description></item>
 <item><title>Shopify Store Setup &amp; Branding</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-Branding-40733158</link><guid isPermaLink="false">freelancer:40733158</guid><pubDate>Fri, 25 Sep 2026 13:31:48 GMT</pubDate><description>8-15 USD/hr | My goal is to turn a blank Shopify account into a polished, on-brand storefront that consistently reinforces who we are and why visitors should remember us. The primary focus is brand awareness, so every visual and functional decision—from theme selection to homepage layout—has to serve that objective.
 
 I haven’t settled on a theme yet and need guidance finding one that can be customised without sacrificing performance. Once the theme is chosen, I’ll rely on you to install it, tailor the colour palette, typography and imagery to match our style guide, and configure core pages (home, product, about, contact) so the narrative feels cohesive.
