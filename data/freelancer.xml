@@ -3,6 +3,7 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Consultancy Website Content Update</title><link>https://www.freelancer.com/projects/editing/Consultancy-Website-Content-Update</link><guid isPermaLink="false">freelancer:40738244</guid><pubDate>Mon, 28 Sep 2026 13:05:32 GMT</pubDate><description>250-750 GBP | I’m looking for a Framer designer to help me optimise the website I have started to develop for my consultancy offer.</description></item>
 <item><title>Real Estate &amp; Mortgage Duo</title><link>https://www.freelancer.com/projects/web-design/Real-Estate-Mortgage-Duo</link><guid isPermaLink="false">freelancer:40738222</guid><pubDate>Mon, 28 Sep 2026 12:51:23 GMT</pubDate><description>250-750 USD | My wife and I are looking to create a professional, modern website that brings our real estate and lending businesses together under one cohesive brand.
 
 I am a real estate agent specializing in residential properties, farm and ranch, land, and commercial real estate. My wife is a licensed mortgage loan originator who handles residential mortgages, construction loans, and commercial financing.
@@ -1048,29 +1049,6 @@ The system should maintain guest contact information and communication history s
 The overall guest experience should be extremely simple. Guests should be able to access the website, find all relevant wedding information, RSVP within a few minutes, and return later to view updated details.
 
 The final product should feel like a custom luxury wedding website rather than a standard wedding template, combining beautiful design with powerful RSVP, guest-management, and communication functionality.</description></item>
-<item><title>Web Designer Needed: HIPAA-Compliant Squarespace Site &amp; Acuity Scheduling Setup for Laboratory</title><link>https://www.freelancer.com/projects/website-design/Web-Designer-Needed-HIPAA-Compliant</link><guid isPermaLink="false">freelancer:40733704</guid><pubDate>Fri, 25 Sep 2026 19:36:14 GMT</pubDate><description>250-750 USD | Overview:
-
-I am seeking an experienced web designer to build out a clean, modern, and formal website for a clinical pathology laboratory. We have an existing domain and an inactive Squarespace account. The primary goal is to launch a professional web presence that features seamless, HIPAA-compliant patient scheduling.
-
-Scope of Work:
-
-Page Builds &amp; Design: Custom layout and configuration for a small site, including a Services page (detailing testing capabilities) and an About Us page (mission statement, team bios, and photos for 4 staff members).
-
-HIPAA-Compliant Scheduling Integration: Set up and embed Acuity Scheduling into the site. Must support a seamless booking flow that matches brand styling while ensuring all Protected Health Information (PHI) is safely captured within Acuity. (Note: Must be configured on an Acuity tier that supports a signed BAA).
-
-Design &amp; Responsiveness: Clean, uncluttered layout with modern healthcare typography and a restrained color palette. Fully responsive across desktop, tablet, and mobile browsers (Chrome, Safari, Edge).
-
-Deliverables:
-
-Fully configured and published Squarespace (or other) website.
-
-Integrated, end-to-end tested Acuity Scheduler meeting all HIPAA requirements.
-
-A brief hand-off guide (PDF or Doc) so internal staff can update copy, add services, and manage appointments moving forward.
-
-Client Support:
-
-Logo collaborator access to Squarespace/Acuity (if used) will be provided upon project kickoff.</description></item>
 <item><title>WordPress User Activity Dashboard</title><link>https://www.freelancer.com/projects/looker-studio/WordPress-User-Activity-Dashboard</link><guid isPermaLink="false">freelancer:40733226</guid><pubDate>Fri, 25 Sep 2026 14:23:28 GMT</pubDate><description>25-50 CAD/hr | I want to see at a glance how people actually use my WordPress site, so I need a Looker Studio (formerly Google Data Studio) dashboard that pulls real-time user activity directly from the WordPress database or an appropriate plugin/API.  
 
 The focus is on three metrics:
