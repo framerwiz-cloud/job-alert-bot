@@ -3,13 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Complete Modern Colorful Wix Site -- 2</title><link>https://www.freelancer.com/projects/wix/Complete-Modern-Colorful-Wix-Site</link><guid isPermaLink="false">freelancer:40740546</guid><pubDate>Tue, 29 Sep 2026 14:47:59 GMT</pubDate><description>250-750 CAD | I need help finishing my Wix site. 
+
+The site should have a modern and colorful design. 
+
+Tasks include:  
+- Improve design and layout to achieve a modern and colorful aesthetic  
+- Add text, articles, and videos  
+
+Ideal skills and experience:  
+- Proficiency in Wix  
+- Strong design skills for modern, colorful websites  
+- Experience in content integration, especially videos</description></item>
 <item><title>WordPress Google Ads Pixel Setup</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/WordPress-Google-Ads-Pixel-Setup</link><guid isPermaLink="false">freelancer:40740527</guid><pubDate>Tue, 29 Sep 2026 14:30:46 GMT</pubDate><description>250-750 USD | My WordPress store sells physical goods and I need reliable sales-conversion data flowing into Google Ads. Please install and configure the Google Ads conversion pixel so every completed purchase is recorded accurately.
 
 Here’s the current state:  
 • WordPress is running the latest stable version, with WooCommerce handling checkout.  
-• Google Ads is already active; I will share the conversion ID and label as soon as we start.
+• Google Ads is already active; I will share the conversion ID and label as soon as we start.  
+• I have a GA account, Google Ads account, and a Google Merchant account with about 200 products, but they are not properly connected. A plugin called Pixel Manager for WooCommerce was recently added to integrate these programs, but it is not functioning as expected.
 
-Your task is to place the global site tag (or manage it via Google Tag Manager if that’s cleaner), fire the purchase event only after successful payment, pass the order value, and verify that the tag appears in the Google Tag Assistant preview as well as in the Ads “Status: Recorded” column. A quick sandbox purchase to prove the event fires correctly will be enough for validation. Also connect Google merchant center and Google ads together
+Your task is to place the global site tag (or manage it via Google Tag Manager if that’s cleaner), fire the purchase event only after successful payment, pass the order value, and verify that the tag appears in the Google Tag Assistant preview as well as in the Ads “Status: Recorded” column. A quick sandbox purchase to prove the event fires correctly will be enough for validation. Also connect Google Merchant Center and Google Ads together.
 
 Deliverables  
 1. Fully implemented conversion pixel on the live site  
@@ -871,7 +884,6 @@ Deliverables
 - Eight months of post-launch bug-fix support.
 
 To apply, please share links to relevant MERN, e-commerce, React Native and OpenAI projects. Describe any Stripe, Wise or PayPal integrations and agentic applications you have built. Explain how you would assess the existing codebase and customer migration before providing a timeline and quote, and confirm that you can provide eight months of post-launch support</description></item>
-<item><title>Educational Blog Site Clone</title><link>https://www.freelancer.com/projects/blog-design/Educational-Blog-Site-Clone</link><guid isPermaLink="false">freelancer:40736843</guid><pubDate>Sun, 27 Sep 2026 18:57:10 GMT</pubDate><description>750-1500 USD | clone another page, I know the previous owner and I have permission. The page can be found at https://web.archive.org/web/20130113165435/http://www.understanding-islam.com/</description></item>
 <item><title>SEO Copy Update and Page Addition</title><link>https://www.freelancer.com/projects/content-writing/SEO-Copy-Update-Page-Addition</link><guid isPermaLink="false">freelancer:40736780</guid><pubDate>Sun, 27 Sep 2026 18:04:27 GMT</pubDate><description>50+ USD/hr | I'm looking for an experienced SEO specialist to overhaul my website copy and add a few essential pages. The goal is to improve our SEO across the entire site to generate more leads and sales. 
 
 Key requirements:
