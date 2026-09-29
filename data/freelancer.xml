@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Catalog Audit &amp; Improvement</title><link>https://www.freelancer.com/projects/google-website-optimizer/WooCommerce-Catalog-Audit-Improvement</link><guid isPermaLink="false">freelancer:40740366</guid><pubDate>Tue, 29 Sep 2026 12:52:53 GMT</pubDate><description>25-50 USD/hr | I run a WordPress store powered by WooCommerce and feel the e-commerce layer—especially the way our product catalog is organised—could work far better for both customers and staff. I’d like you to step in, study the current build, and tell me exactly where the catalogue structure, attributes, variations, category hierarchy, search, filtering and bulk-editing workflows can be streamlined.
+
+Your audit should look at:
+
+• How products are stored, queried and cached  
+• Theme or plugin conflicts that may slow catalogue pages or the admin panel  
+• UX friction that stops shoppers discovering items quickly (filters, sorting, breadcrumbs, etc.)  
+• Opportunities to replace or configure plugins, custom taxonomies, import/export tools or REST-API endpoints more efficiently
+
+Once you’ve mapped the pain points, outline clear, prioritised recommendations I can action in phases. If you spot any quick wins—mis-configured settings, redundant plugins, bad permalink structures—go ahead and fix them within the agreed hours.
+
+Deliverables  
+1. Concise audit report (PDF or Google Doc) with screenshots and code references where useful  
+2. A task list ranked by impact vs. effort  
+3. Optional: immediate fixes applied and documented in a changelog
+
+Please describe similar catalogue optimisation work you’ve completed and the tools (e.g. WP-CLI, Query Monitor, Debug Bar) you normally rely on, so I can gauge fit before we kick off.</description></item>
 <item><title>WordPress Developer with Experience in German (.de) Websites -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Developer-with-Experience-40740294</link><guid isPermaLink="false">freelancer:40740294</guid><pubDate>Tue, 29 Sep 2026 11:59:14 GMT</pubDate><description>250-750 USD | We are looking for an experienced WordPress developer who has previously built websites for German clients and can provide live .de website examples.
 
 Requirements:
