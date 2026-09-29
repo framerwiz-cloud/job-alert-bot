@@ -3,6 +3,89 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Kaspa Credential Verification Blockchain MVP Build</title><link>https://www.freelancer.com/projects/blockchain/Kaspa-Credential-Verification-MVP-Build</link><guid isPermaLink="false">freelancer:40730321</guid><pubDate>Tue, 29 Sep 2026 05:10:01 GMT</pubDate><description>250-750 USD | What are we building?
+
+A programmable lifecycle infrastructure layer for physical assets, built on Kaspa.
+
+The goal is to give physical assets a digital identity and verifiable lifecycle, while allowing predefined rules to control how the asset can move from one state to another.
+
+How it works
+
+Physical Asset
+↓
+Digital Identity
+↓
+Lifecycle States
+↓
+Authorized Transitions
+↓
+Kaspa
+
+For example:
+
+Manufactured → Certified → Sold → Shipped → Delivered → Serviced → Resold → Retired
+
+A business could connect its existing ERP/API and map its existing events to these lifecycle states.
+
+What problem does it solve?
+
+Today, asset information is often fragmented across manufacturers, distributors, logistics companies, service providers and customers.
+
+This can create problems with:
+
+* Authenticity
+* Ownership verification
+* Supply-chain visibility
+* Warranty/service history
+* Asset transfers
+* Duplicate records
+* End-of-life tracking
+
+The platform would create a shared, verifiable lifecycle layer without requiring companies to replace their existing systems.
+
+Why Kaspa?
+
+Kaspa’s UTXO architecture and covenant capabilities can potentially allow important asset-state transitions to become programmable and enforceable, rather than simply being entries in a centralized database.
+
+First MVP
+
+Build one working asset lifecycle to prove the concept:
+
+Create → Certify → Transfer → Deliver → Verify
+
+The MVP would include:
+
+* Digital asset identity
+* Lifecycle/state engine
+* Authorized transitions
+* Kaspa integration
+* Basic covenant implementation
+* API integration
+* Public verification
+* Simple dashboard
+
+Long-term potential
+
+The same infrastructure could eventually support:
+ Manufacturing
+Diamonds &amp; jewellery
+Supply chain
+Invoice/asset financing
+Batteries
+Energy assets
+Credentials
+
+The vision:
+
+Don’t just record what happened.
+
+Make the next state programmable.
+
+Community initiative
+
+The idea is to build the MVP with the Kaspa community — developers, builders, testers and supporters — using voluntary community donations to fund development.
+
+Development milestones, progress and spending would be made transparent to the community.</description></item>
 <item><title>Upgrade Website for Audiovisual Production Co.</title><link>https://www.freelancer.com/projects/web-design/Upgrade-Website-for-Audiovisual</link><guid isPermaLink="false">freelancer:40739549</guid><pubDate>Tue, 29 Sep 2026 04:49:02 GMT</pubDate><description>250-750 USD | Hi! I’m looking for a creative web designer/developer to help redesign and improve the existing website for OneShot Enterprise LLC, an audiovisual production company based in Oregon.
 
 Our company has grown significantly, and I feel our current website no longer represents the quality, variety and level of the work we are producing today.
@@ -821,24 +904,6 @@ Ownership is non-negotiable: all source code, GitHub repositories, hosting/cloud
 I already have a more detailed development SOP available for qualified candidates.
 
 When applying, please include examples of marketplace, booking, dispatch, payment, or similar platforms you have built, your recommended technology stack, estimated development timeline, fixed-price or milestone-based cost, and who will actually be performing the development work.</description></item>
-<item><title>Informative Cleaning Service Website Design https://www.maid4condos.com/</title><link>https://www.freelancer.com/projects/seo/Informative-Cleaning-Service-Website</link><guid isPermaLink="false">freelancer:40736617</guid><pubDate>Sun, 27 Sep 2026 16:01:11 GMT</pubDate><description>250-750 CAD | I need a modern, conversion-friendly website modeled closely on https://www.maid4condos.com/. The core objective is to provide clear, persuasive information about each of my cleaning services so visitors instantly understand what I offer and why they should choose me.
-
-Page flow I have in mind:
-• A visually engaging home page that highlights our value proposition with crisp copy, strong hero imagery, and trust-building badges.  
-• A services section where every package gets its own well-structured block: overview, key features, and an obvious “Get a Quote” or “Book Now” button that routes to a simple contact form.  
-• Supporting pages for About, FAQs, and Testimonials to reinforce credibility.  
-• Contact page with an embedded map, quick-fill enquiry form, and clickable phone/email links.
-
-Design &amp; functionality essentials:
-• Clean, mobile-first layout with fast load times.  
-• Easy in-house editing via WordPress, Webflow, or a similarly intuitive CMS (whichever you recommend).  
-• SEO-friendly build: proper headings, alt tags, and schema ready.  
-• Google Analytics and basic on-page SEO set up so I can track performance from day one.  
-• No live availability calendar is required right now; the site’s primary job is to inform and capture leads.
-
-I will supply brand colours, logo, and initial copy. You’ll refine the layout, source or suggest royalty-free images if needed, and hand over a fully tested site plus a short walkthrough video so I can update content myself later.
-
-If you have relevant cleaning-industry portfolio pieces, include links when you respond. I’m ready to get started this week and appreciate an outline of your build timeline and milestones.</description></item>
 <item><title>Freelance Pilates Instructor – Programme Creation (Remote, Task-Based)</title><link>https://www.freelancer.com/projects/fitness/Freelance-Pilates-Instructor-Programme</link><guid isPermaLink="false">freelancer:40735778</guid><pubDate>Sun, 27 Sep 2026 05:47:50 GMT</pubDate><description>10-15 GBP/hr | Overview:
 I’m looking for a freelance instructor to create structured, progressive Pilates programmes for clients enrolled in a long-term coaching package. This role is ideal for someone who enjoys the written and planning side of Pilates without any live teaching or client calls.
 
