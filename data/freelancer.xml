@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Advance AI Direct Sales Platform Development (based in Dubai, UAE)</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Advance-Direct-Sales-Platform</link><guid isPermaLink="false">freelancer:40739602</guid><pubDate>Tue, 29 Sep 2026 05:24:11 GMT</pubDate><description>3000-5000 USD | Debrok, an AI-powered direct sales platform for property developers
+
+Debrok gives real estate developers in the UAE a direct-to-buyer sales channel that runs alongside their existing broker network. An AI layer qualifies buyers and investors, hands warm leads to the developer's own sales team, then independently tracks each lead through to close. Buyers use it free of charge. Developers pay.
+
+What we need built:
+
+1. Three portals: Buyer, Developer and Admin.
+
+2. Property data engine. Developers manually enter and maintain projects and units (price, location, unit type and size, payment plan milestones, handover date, availability status). Data is stored in structured fields and queried live by the AI during conversations.
+
+3. AI voice and chat qualification. The AI answers buyer questions using live property data and captures budget, purchase intent (investor vs. end-use), timeline and preferred unit type. Every call is recorded and transcribed, and each conversation produces a structured lead summary. Arabic and English support is required.
+
+4. Handoff. Qualified leads pass to the developer's sales team with the transcript and summary attached.
+
+5. Post-handoff follow-up. The AI keeps checking in with the buyer after handoff, independently of what the developer reports, to confirm deal status. Cadence is tiered by deal value: higher-value leads get longer, more persistent follow-up and milestone questions (agreement signed, deposit paid). Lower-value leads lapse to "unresponsive" faster. Stalled or evasive high-value leads escalate to a human.
+
+6. Developer reporting. Detailed periodic reports covering leads, conversion and commission statements, plus regional benchmarking that shows each developer how they rank against others on the platform, with the underlying data anonymised.
+
+7. Billing engine. Billing works either/or per month. In a month with no closed deal, the developer pays a flat monthly fee. In a month with a closed deal, the fee is replaced by a 2% commission on the unit value. There must be admin controls for waivers and fee adjustments to support an onboarding phase.
+
+8. Admin portal covering developer management, AI conversation oversight, billing, disputes and platform-wide reporting.
+
+We are asking for a quote based on the above, plus a proposed technical architecture (stack, hosting, voice AI vendor and LLM approach), a phased delivery plan, and a rough estimate of ongoing per-call AI costs.</description></item>
 <item><title>Kaspa Credential Verification Blockchain MVP Build</title><link>https://www.freelancer.com/projects/blockchain/Kaspa-Credential-Verification-MVP-Build</link><guid isPermaLink="false">freelancer:40730321</guid><pubDate>Tue, 29 Sep 2026 05:10:01 GMT</pubDate><description>250-750 USD | What are we building?
 
 A programmable lifecycle infrastructure layer for physical assets, built on Kaspa.
@@ -861,49 +884,6 @@ Acceptance criteria
 3. A brief hand-off document summarising performance and next steps.
 
 If email is your playground and you’re confident you can hit that first $1K fast, let’s get started.</description></item>
-<item><title>Web Developer Needed – Marketplace MVP</title><link>https://www.freelancer.com/projects/web-development/Web-Developer-Needed-Marketplace-MVP</link><guid isPermaLink="false">freelancer:40736675</guid><pubDate>Sun, 27 Sep 2026 16:39:33 GMT</pubDate><description>250-750 USD | I am looking for an experienced full-stack web developer to build the MVP for a new service marketplace platform.
-
-The platform will connect customers who need property-related services with qualified service providers. Customers will be able to submit a service request, schedule an appointment, make payment, and track the status of their order. Approved service providers will have a private mobile-friendly portal where they can view available jobs, accept assignments, complete jobs, upload required documents, and track payments.
-
-The platform will also require an admin dashboard to manage customers, providers, jobs, payments, assignments, documents, and exceptions.
-
-Key Requirements
-
-Clean, modern, extremely easy-to-use website
-
-Mobile-first responsive design
-
-Customer booking and checkout system
-
-Secure customer and provider accounts
-
-Provider onboarding/verification
-
-Available-job marketplace
-
-Real-time job acceptance/assignment
-
-SMS and email notifications
-
-Payment processing and provider payouts
-
-Document/report upload
-
-Admin dashboard
-
-Secure database and user authentication
-
-Architecture capable of expanding nationwide
-
-Strong focus on reliability, speed, and simple user experience
-
-This is an MVP, so I want to keep Phase 1 focused on the essential functionality rather than overbuilding the product.
-
-Ownership is non-negotiable: all source code, GitHub repositories, hosting/cloud accounts, databases, domain accounts, payment accounts, APIs, credentials, and other project assets must remain under my/company control. The completed platform must be transferable to another developer without dependency on the original developer.
-
-I already have a more detailed development SOP available for qualified candidates.
-
-When applying, please include examples of marketplace, booking, dispatch, payment, or similar platforms you have built, your recommended technology stack, estimated development timeline, fixed-price or milestone-based cost, and who will actually be performing the development work.</description></item>
 <item><title>Freelance Pilates Instructor – Programme Creation (Remote, Task-Based)</title><link>https://www.freelancer.com/projects/fitness/Freelance-Pilates-Instructor-Programme</link><guid isPermaLink="false">freelancer:40735778</guid><pubDate>Sun, 27 Sep 2026 05:47:50 GMT</pubDate><description>10-15 GBP/hr | Overview:
 I’m looking for a freelance instructor to create structured, progressive Pilates programmes for clients enrolled in a long-term coaching package. This role is ideal for someone who enjoys the written and planning side of Pilates without any live teaching or client calls.
 
