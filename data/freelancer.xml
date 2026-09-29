@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Google Ads Pixel Setup</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/WordPress-Google-Ads-Pixel-Setup</link><guid isPermaLink="false">freelancer:40740527</guid><pubDate>Tue, 29 Sep 2026 14:30:46 GMT</pubDate><description>250-750 USD | My WordPress store sells physical goods and I need reliable sales-conversion data flowing into Google Ads. Please install and configure the Google Ads conversion pixel so every completed purchase is recorded accurately.
+
+Here’s the current state:  
+• WordPress is running the latest stable version, with WooCommerce handling checkout.  
+• Google Ads is already active; I will share the conversion ID and label as soon as we start.
+
+Your task is to place the global site tag (or manage it via Google Tag Manager if that’s cleaner), fire the purchase event only after successful payment, pass the order value, and verify that the tag appears in the Google Tag Assistant preview as well as in the Ads “Status: Recorded” column. A quick sandbox purchase to prove the event fires correctly will be enough for validation. Also connect Google merchant center and Google ads together
+
+Deliverables  
+1. Fully implemented conversion pixel on the live site  
+2. Screenshot or video proof of the tag firing with order value  
+3. Brief notes on where the code lives so I can maintain it later
+
+Once you confirm everything is tracking, the job is done.</description></item>
 <item><title>WordPress Developer with Experience in German (.de) Websites -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Developer-with-Experience-40740294</link><guid isPermaLink="false">freelancer:40740294</guid><pubDate>Tue, 29 Sep 2026 11:59:14 GMT</pubDate><description>250-750 USD | We are looking for an experienced WordPress developer who has previously built websites for German clients and can provide live .de website examples.
 
 Requirements:
@@ -646,22 +660,6 @@ Deliverables
 • Handover session with documentation on managing stock and promotions
 
 Once everything is live, I expect to be able to scan an item in-store, see the stock adjust online instantly, and offer customers a smooth buying experience from discovery to checkout. If you’ve tackled similar vape or high-SKU projects before and know your way around EPOS connectors, I’d love to hear how you’d approach this build and an estimated timeline for each milestone.</description></item>
-<item><title>Zoho CRM Layout &amp; Sign Conversion</title><link>https://www.freelancer.com/projects/crm/Zoho-CRM-Layout-Sign-Conversion</link><guid isPermaLink="false">freelancer:40737327</guid><pubDate>Mon, 28 Sep 2026 03:12:26 GMT</pubDate><description>250-750 USD | I run a young waste-management startup and I’m streamlining our customer journey inside Zoho. What I need right now is:
-
-• Two clean, intuitive layouts in Zoho CRM  
-  – Customer Profile: all contact, site and service details at a glance  
-  – Sales Pipeline: clear stage-to-stage view that feeds our forecasts
-
-• Document conversion templates in Zoho Sign  
-  – Contracts, agreements and our standard proposals must merge automatically with CRM data, route for e-signature, then file back to the correct record
-
-• Core CRM tweaks  
-  – Lead Management: custom fields, views and simple automation so new leads drop into the right pipeline stage  
-  – Reporting &amp; Analytics: dashboards that show lead source performance, deal velocity and revenue projections pulled straight from the new layouts
-
-Acceptance is straightforward: every layout loads without errors on web and mobile, each merged document reaches signers with the right data, and the new reports refresh in real time.
-
-If you’re comfortable working inside the Zoho ecosystem and can turn these requirements into a working setup, let’s get started.</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
