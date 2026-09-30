@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist WooCommerce Store Setup  II</title><link>https://www.freelancer.com/projects/website-design/Minimalist-WooCommerce-Store-Setup-40741553</link><guid isPermaLink="false">freelancer:40741553</guid><pubDate>Wed, 30 Sep 2026 03:16:34 GMT</pubDate><description>100-400 USD | I have WordPress already running on my server and now I need a clean, minimalistic WooCommerce store. The catalogue starts with five products, so the build should stay light and easy to maintain. I have a Divi subscription but it is not necessarily to be used
+
+Scope  
+• Design a responsive, minimal-style storefront
+• Configure WooCommerce on the existing WordPress.  
+• Add the first five products (images, descriptions and pricing supplied by me) and leave everything organized so I can upload new items myself later.  
+• Friction-free checkout that offers PayPal, Stripe and Google Pay side by side.  
+• Keep the plugin stack to the absolute essentials—ideally only WooCommerce, the official payment extensions and one lightweight security/performance tool.  
+• Optimize basic speed and security settings without pulling in heavy page builders or bloated add-ons.  
+
+Timeline  
+All work, testing and hand-over need to be wrapped up within one month.
+If your response is the one AI generated it will not be read.</description></item>
 <item><title>Part-Time AI &amp; Full-Stack Web Development</title><link>https://www.freelancer.com/projects/full-stack-development/Part-Time-Full-Stack-Web</link><guid isPermaLink="false">freelancer:40741529</guid><pubDate>Wed, 30 Sep 2026 02:55:07 GMT</pubDate><description>15-25 USD/hr | AI &amp; Full-Stack Web Developer — Part-Time
 
 We are looking for an experienced AI &amp; Full-Stack Web Developer to help build and improve a modern web application with AI capabilities.
@@ -879,20 +892,6 @@ Deliverables:
 • Embedded or linked confirmation numbers and contact details for every item  
 
 Once the draft is ready, I’ll review and send any tweaks; a quick turnaround on revisions would be appreciated so I can share the final file with travelling companions.</description></item>
-<item><title>WooCommerce Photo Review Upgrade</title><link>https://www.freelancer.com/projects/javascript/WooCommerce-Photo-Review-Upgrade</link><guid isPermaLink="false">freelancer:40738749</guid><pubDate>Mon, 28 Sep 2026 18:17:43 GMT</pubDate><description>3000-5000 USD | I want to overhaul the default WooCommerce review flow so it actually converts: customers must be able to attach a photo, see a “Verified purchase” badge, and leave feedback that is immediately useful to shoppers and to Google.
-
-Core work
-• Replace the plain-text comment box with an upload-enabled form that resizes images on the fly, accepts only safe formats (jpg, png, gif), and stores them securely.  
-• Tie reviews to order IDs so the “Verified purchase” badge shows automatically and, where a product has variations, assign the review to the correct colour/size.  
-• Build a moderation queue that filters obvious spam without swallowing real reviews; I will supply policy guidelines, you handle the logic and flagging rules.  
-• Trigger review-request emails only after tracking shows the parcel has been delivered.  
-• Add structured data so aggregate ratings and photo thumbnails surface correctly in Google rich results, following the current review markup spec.
-
-Technical context
-The shop runs on the latest WooCommerce and hooks straight into the native WordPress comment system. I need someone comfortable with those hooks, secure file-handling functions, image processing libraries (GD or Imagick), and schema.org/Google guidelines.
-
-Acceptance
-A staging site will be provided. Once I can submit a review with a photo, see it moderated, see badges and variation links display properly on the product page, receive the timed email, and validate structured data in Google’s Rich Results Test, the job is done.</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
