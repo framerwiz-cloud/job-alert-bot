@@ -3,19 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Shopify Store with Payment Integration</title><link>https://www.freelancer.com/projects/full-stack-development/Shopify-Store-with-Payment-Integration</link><guid isPermaLink="false">freelancer:40743263</guid><pubDate>Wed, 30 Sep 2026 21:30:31 GMT</pubDate><description>250-750 USD | I’m setting up a brand-new e-commerce presence on Shopify and need a full-stack developer who can take the store from blank theme to a polished, conversion-ready site. My immediate priority is a smooth, secure payment-gateway integration that supports major cards plus Apple Pay and Google Pay, so shoppers can check out without friction.
-
-Here’s what I’m expecting:
-
-• Configure a clean, responsive Shopify theme (you may suggest premium or custom themes if they suit the brand better).  
-• Set up core store architecture—collections, product templates, cart and checkout flow.  
-• Integrate and test the payment gateway end-to-end, including sandbox transactions and live launch.  
-• Optimise load times, SEO basics and mobile layout so the site is fast and discoverable.  
-• Provide hand-over documentation (or a brief Loom walkthrough) so my team can manage products and orders post-launch.
-
-If you have proven experience adding extras like product review widgets or real-time inventory sync, mention it; we may expand the scope once the payment pipeline is live.
-
-Please share one or two Shopify stores you’ve built that include custom gateway work, along with your estimated timeline for completing the tasks above.</description></item>
 <item><title>TikTok Shop Setup for Apparel</title><link>https://www.freelancer.com/projects/social-media-marketing/TikTok-Shop-Setup-for-Apparel</link><guid isPermaLink="false">freelancer:40743227</guid><pubDate>Wed, 30 Sep 2026 20:53:00 GMT</pubDate><description>250-750 USD | I need assistance setting up my established clothing and accessories brand on TikTok Shop. 
 
 Key tasks include:
@@ -775,6 +762,16 @@ TO APPLY (IMPORTANT)
 2. Confirm that you are willing to sign our standard 1-page Non-Disclosure Agreement (NDA) before reviewing detailed product files, brand assets, or Replit code.
 3. Share 2–3 links to live e-commerce stores you have built (preferably with active subscription models).
 Note: Generic proposals or messages without the keyword "MIZZY" will be archived immediately.</description></item>
+<item><title>Graphic Design Portfolio Website</title><link>https://www.freelancer.com/projects/web-design/Graphic-Design-Portfolio-Website-40740567</link><guid isPermaLink="false">freelancer:40740567</guid><pubDate>Tue, 29 Sep 2026 14:55:56 GMT</pubDate><description>250-750 CAD | I’m ready to launch a dedicated online portfolio that puts my graphic design work front and center. The site’s sole purpose is to showcase projects clearly, load quickly, and make it effortless for prospects to reach me.  
+
+Core sections I need built are:  
+• About Me  
+• Portfolio Gallery  
+• Contact Information  
+
+I’m open to WordPress, Webflow, or a lightweight custom build—whichever lets me update projects without touching code. Clean typography, responsive layouts, and subtle animation that enhances (not distracts from) the work are all important. Please optimise images, follow basic on-page SEO, and hand over source files with simple instructions so I can add new pieces later.  
+
+If this sounds like your wheelhouse, let’s get started and have a polished, easily maintainable portfolio live soon.</description></item>
 <item><title>Digital Product E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Digital-Product-Commerce-Website-40739745</link><guid isPermaLink="false">freelancer:40739745</guid><pubDate>Tue, 29 Sep 2026 06:46:31 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch an e-commerce site dedicated to selling digital products—think downloadable files, licenses, or resource packs—and I need a designer who can take it from concept to a polished, revenue-ready platform. The store has to feel clean and intuitive, work flawlessly on mobile, and, most importantly, feature a rock-solid secure payment gateway so my customers can pay with confidence. PayPal, Stripe, or a similarly trusted solution is fine as long as transactions remain fully encrypted and compliant.
 
 I already have the product files prepared, so I’ll supply those assets along with branding guidelines. What I need from you is the complete front-end and back-end setup: modern UI/UX, product pages that showcase each file clearly, a streamlined checkout, and an admin area where I can add new digital items without touching code. If you suggest an established CMS (Shopify, WooCommerce, or comparable), let me know why it’s the best fit; a custom build is also on the table if it stays lightweight and secure.
