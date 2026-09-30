@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SaaS Task Approval Dashboard Development</title><link>https://www.freelancer.com/projects/nextjs/SaaS-Task-Approval-Dashboard-Development</link><guid isPermaLink="false">freelancer:40741478</guid><pubDate>Wed, 30 Sep 2026 02:04:32 GMT</pubDate><description>750-1500 USD | UI/UX Designer + Frontend Developer Needed for SaaS Task Approval Dashboard
+I’m looking for a UI/UX Designer with strong frontend development skills to design and build a modern SaaS task approval dashboard.
+The application should allow users to create tasks, submit them for review, track approval status, and view task history. Managers should be able to review, approve, or reject tasks.
+The project includes both design and frontend implementation.
+Main responsibilities:
+- Create user flows and wireframes
+- Design polished responsive screens in Figma
+- Build reusable UI components and a small design system
+- Develop the frontend using React / Next.js / TypeScript / Tailwind CSS
+- Implement forms, tables, filters, status badges, modals, and notifications
+- Integrate with a mock or simple REST API
+- Handle loading, empty, success, and error states
+- Make the UI responsive and accessible
+Main screens:
+- Login
+- Dashboard
+- Task list
+- Create task
+- Task detail
+- Approval/review page
+Core workflow:
+Create task → Submit for review → Manager approves/rejects → Status updates → User sees result
+Preferred skills:
+- Figma
+- UI/UX Design
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Responsive design
+- REST API integration
+- Component-based frontend development
+Deliverables:
+- Figma design file
+- Responsive frontend
+- Reusable component structure
+- Source code
+- Basic documentation / setup instructions</description></item>
 <item><title>Multisite Product Sales Setup</title><link>https://www.freelancer.com/projects/ebay/Multisite-Product-Sales-Setup</link><guid isPermaLink="false">freelancer:40741411</guid><pubDate>Wed, 30 Sep 2026 01:14:58 GMT</pubDate><description>8-15 USD/hr | I'm looking to sell physical products on eBay, Etsy, Facebook, and Shopify. I need help setting up and managing these sales channels. 
 
 Key Requirements: 
@@ -802,18 +840,6 @@ Ideal skills and experience:
 - Knowledge of SEO and digital marketing to drive traffic
 
 Please provide a portfolio showcasing similar work.</description></item>
-<item><title>Minimalist Garage ADU Design</title><link>https://www.freelancer.com/projects/building-designer/Minimalist-Garage-ADU-Design</link><guid isPermaLink="false">freelancer:40738315</guid><pubDate>Mon, 28 Sep 2026 13:57:29 GMT</pubDate><description>250-750 USD | I need a garage ADU converted into a minimalist living space. The primary use will be as a living space. 
-
-Massachusetts oak bluffs 
-
-Requirements:
-- Must include a bedroom and bathroom
-- Design should be minimalist in style
-
-Ideal Skills and Experience:
-- Experience in ADU conversions
-- Strong design skills, especially in minimalist aesthetics
-- Knowledge of building codes and regulations</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
