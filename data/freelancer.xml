@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Stylish WordPress Site Redesign</title><link>https://www.freelancer.com/projects/web-design/Stylish-WordPress-Site-Redesign</link><guid isPermaLink="false">freelancer:40742788</guid><pubDate>Wed, 30 Sep 2026 16:06:53 GMT</pubDate><description>30-250 USD | My current WordPress site works fine but looks dated, so the mission here is simple: give it a fresh, contemporary look that feels 2024-ready across desktop and mobile. Modernizing the aesthetics is the clear priority—think updated layout, clean typography, an on-brand colour palette, and eye-catching imagery. If any tweaks you make also happen to streamline functionality or shave a second off page load times, that’s great, yet visual impact comes first.
+
+You’ll get full admin access to the existing install plus brand assets and a sitemap. Whether you prefer a custom theme, Elementor, Gutenberg blocks, or another approach, the end result must remain easy for me to maintain after hand-off.
+
+I need to move quickly, so please be ready to start right away and show first design concepts within days.
+
+When you submit your bid, link to past WordPress redesigns that highlight your design eye and craftsmanship—strong portfolios speak louder than long proposals.
+
+Key deliverables  
+• Fully redesigned WordPress site live on my domain  
+• Responsive layout verified on major browsers and devices  
+• Brief hand-off documentation or walkthrough so I can update content myself  
+
+I’ll provide fast feedback to keep momentum high—let’s make this site look amazing.</description></item>
 <item><title>Shopify Store for 5G SIMs</title><link>https://www.freelancer.com/projects/web-development/Shopify-Store-for-SIMs</link><guid isPermaLink="false">freelancer:40742492</guid><pubDate>Wed, 30 Sep 2026 15:53:13 GMT</pubDate><description>30-250 USD |  Before we start, I want to make sure we align on the exact customer journey, website, and mobile apps (iOS &amp; Android) flow for View:
 1.Plan Selection on Website: The customer visits the mobile-first website and chooses a 5G SIM plan
 .2. Data &amp; SEPA Payment: They fill out a personal info form and enter their IBAN for SEPA Direct Debit (monthly subscription via Stripe).
@@ -779,17 +793,6 @@ Your total project quote or estimated budget range
 Any information you would need from me before starting
 
 The successful freelancer will first be required to scrape/import a small sample of approximately 50–100 products for approval. Once the data structure, formatting, images, categories and product information have been confirmed, the remaining catalogue can be migrated.</description></item>
-<item><title>Clone SiteSwan &amp; CleverAI Platforms</title><link>https://www.freelancer.com/projects/web-development/Clone-SiteSwan-CleverAI-Platforms</link><guid isPermaLink="false">freelancer:40739938</guid><pubDate>Tue, 29 Sep 2026 08:32:37 GMT</pubDate><description>750-1500 USD | I need a full, like-for-like rebuild of both SiteSwan.com and CleverAI.ai, merged into a single, seamless web application. Every feature live on those platforms today—from the site-builder toolkit and white-label dashboard found on SiteSwan, to the AI content generation and chat-powered workflows on CleverAI—has to be reproduced so my users experience no functional difference between the originals and this new product.
-
-Function takes priority over aesthetics; the overall workflows, wizards, admin panels, subscription handling, and AI integrations must behave exactly as they do now. Once the core is in place I’ll review colour, typography, and other visual details with you, but usability, speed, and a friction-free interface come first.
-
-You’ll be responsible for:  
-• Front-end and back-end development that mirrors every public-facing and logged-in capability on both reference sites.  
-• Clean, well-documented code ready for future white-labelling.  
-• Responsive design that loads quickly on desktop, tablet, and mobile.  
-• Deployment to a staging server where I can test each module against the originals before sign-off.
-
-When you reply, outline the tech stack you’d use, any similar SaaS clones you’ve built, and an estimated timeline broken into milestones (site builder core, AI engine, payment gateway, final polish). Source code and a short implementation guide will be the final deliverables.</description></item>
 <item><title>Digital Product E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Digital-Product-Commerce-Website-40739745</link><guid isPermaLink="false">freelancer:40739745</guid><pubDate>Tue, 29 Sep 2026 06:46:31 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch an e-commerce site dedicated to selling digital products—think downloadable files, licenses, or resource packs—and I need a designer who can take it from concept to a polished, revenue-ready platform. The store has to feel clean and intuitive, work flawlessly on mobile, and, most importantly, feature a rock-solid secure payment gateway so my customers can pay with confidence. PayPal, Stripe, or a similarly trusted solution is fine as long as transactions remain fully encrypted and compliant.
 
 I already have the product files prepared, so I’ll supply those assets along with branding guidelines. What I need from you is the complete front-end and back-end setup: modern UI/UX, product pages that showcase each file clearly, a streamlined checkout, and an admin area where I can add new digital items without touching code. If you suggest an established CMS (Shopify, WooCommerce, or comparable), let me know why it’s the best fit; a custom build is also on the table if it stays lightweight and secure.
