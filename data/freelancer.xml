@@ -3,6 +3,46 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix to Wordpress replication -- 2</title><link>https://www.freelancer.com/projects/website-design/Wix-Wordpress-replication</link><guid isPermaLink="false">freelancer:40741506</guid><pubDate>Wed, 30 Sep 2026 02:32:59 GMT</pubDate><description>250-750 AUD | The task is to recreate my existing minimalist Wix website in WordPress. I'm reposting this as I'm finally read to move forward with the job.
+
+I am building and finalising the design myself in Wix first. The completed Wix site will be the visual source of truth. This is not a design or redesign job.
+
+The WordPress version should reproduce the Wix site as closely as technically possible, including:
+
+Fonts and typography
+Font weights and sizes
+Grid, layout and alignment
+Spacing and proportions
+Colours and hover states
+Navigation and page structure
+Images and other media
+Responsive desktop and mobile layouts
+
+The site is a relatively simple musician/producer portfolio site. There are no complex ecommerce or database requirements.
+
+I'm currently leaning towards a lightweight GeneratePress build for clean markup and performance, but I'm open to another approach if you have a good technical reason for it.
+
+Technical requirements:
+
+The site should remain fully responsive and follow basic technical SEO best practices:
+Semantic HTML5
+Correct heading hierarchy
+Page titles/meta
+Sitemap output
+No content or design changes are required.
+Acceptance criteria
+
+The finished WordPress site will be reviewed side-by-side against the Wix site on desktop and mobile.
+
+Anything visually noticeable should be refined until it closely matches the Wix version.
+
+When bidding, please include:
+
+How you would reproduce the existing Wix design accurately — particularly fonts, colours, spacing and layout.
+The WordPress tools/theme/builder you would use and why.
+One or two relevant examples where you have recreated an existing design or built a site requiring a high degree of visual fidelity.
+
+I will provide the completed Wix site, screen recording/reference material and WordPress access once we agree on the approach.</description></item>
 <item><title>SaaS Task Approval Dashboard Development</title><link>https://www.freelancer.com/projects/nextjs/SaaS-Task-Approval-Dashboard-Development</link><guid isPermaLink="false">freelancer:40741478</guid><pubDate>Wed, 30 Sep 2026 02:04:32 GMT</pubDate><description>750-1500 USD | UI/UX Designer + Frontend Developer Needed for SaaS Task Approval Dashboard
 I’m looking for a UI/UX Designer with strong frontend development skills to design and build a modern SaaS task approval dashboard.
 The application should allow users to create tasks, submit them for review, track approval status, and view task history. Managers should be able to review, approve, or reject tasks.
@@ -827,19 +867,6 @@ The shop runs on the latest WooCommerce and hooks straight into the native WordP
 
 Acceptance
 A staging site will be provided. Once I can submit a review with a photo, see it moderated, see badges and variation links display properly on the product page, receive the timed email, and validate structured data in Google’s Rich Results Test, the job is done.</description></item>
-<item><title>Visual Artist E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Visual-Artist-Commerce-Website</link><guid isPermaLink="false">freelancer:40738617</guid><pubDate>Mon, 28 Sep 2026 17:00:11 GMT</pubDate><description>250-750 GBP | I'm looking for a skilled web developer to create a comprehensive website for me as a visual artist. The primary goal of this site is to sell my original paintings. 
-
-Key features needed:
-- E-commerce functionality to facilitate artwork sales
-- An artist blog to engage with followers and share my creative journey
-- A contact form for inquiries and commissions
-
-Ideal skills and experience:
-- Strong background in e-commerce website development
-- Experience with artist portfolios and blogs
-- Knowledge of SEO and digital marketing to drive traffic
-
-Please provide a portfolio showcasing similar work.</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
