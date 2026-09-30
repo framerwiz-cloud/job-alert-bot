@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix DreamHost Landing Page</title><link>https://www.freelancer.com/projects/dns/Fix-DreamHost-Landing-Page</link><guid isPermaLink="false">freelancer:40743394</guid><pubDate>Wed, 30 Sep 2026 23:42:12 GMT</pubDate><description>30-250 USD | My static landing page is sitting inside my DreamHost account, but when I type my domain into a browser nothing loads—just a blank, unreachable page. I’m looking for someone who can quickly identify why the page isn’t resolving and get it displaying publicly.
+
+Here’s what I know so far:
+• The files are already uploaded to DreamHost.
+• The domain itself is registered with Namecheap and pointed to DreamHost, yet I have not verified the DNS settings and suspect that may be the culprit.
+• The core issue right now is “page not loading,” so I need both the hosting configuration and any DNS records (A, AAAA, or CNAME) double-checked and corrected.
+
+What I need from you:
+1. Inspect the DreamHost panel to confirm the site is mapped to the correct directory and that any .htaccess, index.html, or permission settings won’t block the page.
+2. Review the Namecheap DNS zone and set the right DreamHost nameservers or individual A/CNAME records so propagation completes successfully.
+3. Test end-to-end until the landing page renders over HTTPS at my domain.
+4. Provide a brief note on exactly what you changed so I have a record for future reference.
+
+If you can jump in, trace the problem, and leave me with a live, working landing page today, I’m ready to hire.</description></item>
 <item><title>TikTok Shop Setup for Apparel</title><link>https://www.freelancer.com/projects/social-media-marketing/TikTok-Shop-Setup-for-Apparel</link><guid isPermaLink="false">freelancer:40743227</guid><pubDate>Wed, 30 Sep 2026 20:53:00 GMT</pubDate><description>250-750 USD | I need assistance setting up my established clothing and accessories brand on TikTok Shop. 
 
 Key tasks include:
@@ -762,16 +776,6 @@ TO APPLY (IMPORTANT)
 2. Confirm that you are willing to sign our standard 1-page Non-Disclosure Agreement (NDA) before reviewing detailed product files, brand assets, or Replit code.
 3. Share 2–3 links to live e-commerce stores you have built (preferably with active subscription models).
 Note: Generic proposals or messages without the keyword "MIZZY" will be archived immediately.</description></item>
-<item><title>Graphic Design Portfolio Website</title><link>https://www.freelancer.com/projects/web-design/Graphic-Design-Portfolio-Website-40740567</link><guid isPermaLink="false">freelancer:40740567</guid><pubDate>Tue, 29 Sep 2026 14:55:56 GMT</pubDate><description>250-750 CAD | I’m ready to launch a dedicated online portfolio that puts my graphic design work front and center. The site’s sole purpose is to showcase projects clearly, load quickly, and make it effortless for prospects to reach me.  
-
-Core sections I need built are:  
-• About Me  
-• Portfolio Gallery  
-• Contact Information  
-
-I’m open to WordPress, Webflow, or a lightweight custom build—whichever lets me update projects without touching code. Clean typography, responsive layouts, and subtle animation that enhances (not distracts from) the work are all important. Please optimise images, follow basic on-page SEO, and hand over source files with simple instructions so I can add new pieces later.  
-
-If this sounds like your wheelhouse, let’s get started and have a polished, easily maintainable portfolio live soon.</description></item>
 <item><title>Digital Product E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Digital-Product-Commerce-Website-40739745</link><guid isPermaLink="false">freelancer:40739745</guid><pubDate>Tue, 29 Sep 2026 06:46:31 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch an e-commerce site dedicated to selling digital products—think downloadable files, licenses, or resource packs—and I need a designer who can take it from concept to a polished, revenue-ready platform. The store has to feel clean and intuitive, work flawlessly on mobile, and, most importantly, feature a rock-solid secure payment gateway so my customers can pay with confidence. PayPal, Stripe, or a similarly trusted solution is fine as long as transactions remain fully encrypted and compliant.
 
 I already have the product files prepared, so I’ll supply those assets along with branding guidelines. What I need from you is the complete front-end and back-end setup: modern UI/UX, product pages that showcase each file clearly, a streamlined checkout, and an admin area where I can add new digital items without touching code. If you suggest an established CMS (Shopify, WooCommerce, or comparable), let me know why it’s the best fit; a custom build is also on the table if it stays lightweight and secure.
