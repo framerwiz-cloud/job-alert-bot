@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Sellauth Payment Gateway Integration -- 2</title><link>https://www.freelancer.com/projects/php/Sellauth-Payment-Gateway-Integration</link><guid isPermaLink="false">freelancer:40743083</guid><pubDate>Wed, 30 Sep 2026 18:46:31 GMT</pubDate><description>250-750 CAD | My WordPress site is live and already handling sales, but I now want every transaction to flow through the Sellauth API. The goal is simple: when a customer chooses to pay—whether with a credit or debit card, PayPal, or even crypto—the request should be routed securely to Sellauth, authorised, and the result reflected instantly on my site.
+
+I will provide the API keys, existing checkout form, and staging access. You’ll connect the front-end fields to the Sellauth endpoints, handle tokenisation, callbacks/webhooks, and display clear success or error messages to the buyer. The work must slot cleanly into my current theme and plugins without breaking updates.
+
+Deliverables  
+• Fully functioning Sellauth integration supporting Credit/Debit Cards, PayPal, and Crypto  
+• Admin area settings for keys, sandbox/live switch, and transaction logs  
+• Webhook listener that updates order status automatically  
+• End-to-end testing on a staging clone, then migration to production
+
+If you have solid PHP, WordPress, and REST-API experience, I look forward to seeing how quickly you can get this live.</description></item>
 <item><title>Photobooth Website Redesign &amp; Lead Generation</title><link>https://www.freelancer.com/projects/web-design/Photobooth-Website-Redesign-Lead</link><guid isPermaLink="false">freelancer:40743035</guid><pubDate>Wed, 30 Sep 2026 18:23:34 GMT</pubDate><description>250-750 CAD | I’m ready to retire our dated photobooth site (https://www.ohsnapboothh.com/) and launch a fresh, high-impact version that turns visitors into inquiries. The main objective is simple: attract new customers. From birthday celebrations and corporate activations to full-scale weddings, our audience is broad, so the new design must instantly communicate that we serve individuals, companies, and event planners alike.
 
 Here’s what matters most to me:
@@ -744,25 +755,6 @@ Milestone 2 ($100): Targeted Paid Campaigns — Set up, manage, and optimize low
 Milestone 3 ($50): Niche SEO &amp; Directory Backlinks — Execute targeted adult directory submissions, top-list placements, and manual backlink building to boost organic search domain authority.
 
 If you have proven experience with adult ad network media buying, tube site traffic trading, ExoClick optimization, and NSFW SEO, please submit your proposal with examples or metrics from past adult site campaigns you've scaled</description></item>
-<item><title>WordPress Developer with Experience in German (.de) Websites -- 2</title><link>https://www.freelancer.com/projects/php/WordPress-Developer-with-Experience-40740294</link><guid isPermaLink="false">freelancer:40740294</guid><pubDate>Tue, 29 Sep 2026 11:59:14 GMT</pubDate><description>250-750 USD | We are looking for an experienced WordPress developer who has previously built websites for German clients and can provide live .de website examples.
-
-Requirements:
-
-Proven experience with WordPress (Elementor or custom themes)
-Portfolio including live German (.de) websites
-Ability to build clean, modern, responsive business websites
-Understanding of German market standards and expectations
-
-Project Scope:
-
-Build and deliver professional WordPress websites for German businesses
-Ensure responsive design and fast loading performance
-Implement basic SEO structure and standard business pages
-
-Budget:
-€400 – €1,000 per standard business website (3–5 pages), depending on quality and experience
-
-This is a long-term collaboration opportunity with multiple projects.</description></item>
 <item><title>Digital Product E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Digital-Product-Commerce-Website-40739745</link><guid isPermaLink="false">freelancer:40739745</guid><pubDate>Tue, 29 Sep 2026 06:46:31 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch an e-commerce site dedicated to selling digital products—think downloadable files, licenses, or resource packs—and I need a designer who can take it from concept to a polished, revenue-ready platform. The store has to feel clean and intuitive, work flawlessly on mobile, and, most importantly, feature a rock-solid secure payment gateway so my customers can pay with confidence. PayPal, Stripe, or a similarly trusted solution is fine as long as transactions remain fully encrypted and compliant.
 
 I already have the product files prepared, so I’ll supply those assets along with branding guidelines. What I need from you is the complete front-end and back-end setup: modern UI/UX, product pages that showcase each file clearly, a streamlined checkout, and an admin area where I can add new digital items without touching code. If you suggest an established CMS (Shopify, WooCommerce, or comparable), let me know why it’s the best fit; a custom build is also on the table if it stays lightweight and secure.
