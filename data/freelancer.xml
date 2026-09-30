@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Complete WordPress Revamp &amp; Security</title><link>https://www.freelancer.com/projects/web-design/Complete-WordPress-Revamp-Security</link><guid isPermaLink="false">freelancer:40741885</guid><pubDate>Wed, 30 Sep 2026 06:45:02 GMT</pubDate><description>250-750 AUD | My WordPress site has been online for many years without a proper refresh and the cracks are starting to show. I’m ready for a thorough overhaul that touches every layer—theme design, plugins, and content—while making the site genuinely hacker-proof.
+
+Here’s what I have in mind:
+
+• Full visual redesign that feels modern and responsive on all devices.  
+• Plugin audit and replacement where necessary so everything runs efficiently on the latest WordPress and PHP versions.  
+• Content restructure: migrate what still works, clean out what doesn’t, and set up easy-to-use blocks or page-builder sections for future updates.  
+• Security hardening as the top priority: firewall rules, malware scanning, secure login, backups, and any best-practice measures you recommend.  
+• Performance optimisation (caching, image compression, CDN setup if suitable) so the revamped site loads fast.  
+• A smooth migration plan that keeps the current site online until the new version is ready, then flips over with minimal downtime.  
+
+After launch I’d like the option of an affordable monthly retainer for monitoring, updates, and quick fixes, but we can scope that separately once the rebuild is complete.
+
+Please tell me:
+– Examples of WordPress sites you’ve rebuilt from the ground up.  
+– The security stack or plugins you prefer (e.g., Wordfence, Sucuri, iThemes, or a custom approach).  
+– Estimated timeline from kickoff to go-live.
+
+I’ll provide current site access, hosting credentials, and brand assets as soon as we agree on the plan. Let’s bring this site up to date and lock it down together.</description></item>
 <item><title>Instagram Portfolio Website</title><link>https://www.freelancer.com/projects/graphic-design/Instagram-Portfolio-Website</link><guid isPermaLink="false">freelancer:40741785</guid><pubDate>Wed, 30 Sep 2026 05:51:15 GMT</pubDate><description>250-750 AUD | I'm looking to create a portfolio website to showcase my Instagram content. The main goal of this site is to provide contact information.
 
 Key Requirements:
@@ -889,11 +908,6 @@ Acceptance criteria
 I’ll supply all copy, images and brand guidelines once we start. Please share a couple of Framer sites you’ve launched so I can get a feel for your style, and let me know how soon you can deliver a first draft.
 
 The template name on Framer is called "Fade".</description></item>
-<item><title>Elegant Photography Portfolio Website</title><link>https://www.freelancer.com/projects/web-design/Elegant-Photography-Portfolio-Website-40738918</link><guid isPermaLink="false">freelancer:40738918</guid><pubDate>Mon, 28 Sep 2026 20:08:40 GMT</pubDate><description>250-750 GBP | I need a small, visually refined site that presents my best photographs in a classic, elegant way. The project centres on creating a clean portfolio with intuitive navigation, fullscreen image galleries, and tasteful typography that lets the work speak for itself.  
-
-Key pages will include: a landing page with an impactful hero image, a gallery section organised by series, an about page, and a simple contact form. Smooth transitions, responsive layout and fast-loading image optimisation are essential so the site feels polished on desktop, tablet and mobile alike.  
-
-Feel free to suggest the framework or CMS you believe will deliver the most stable, future-proof result—WordPress, Webflow, or a lightweight custom build are all on the table as long as the final product is easy for me to update with new photos. Once the design is approved, I’ll supply high-resolution images and copy. Please package the finished files, clearly commented code or CMS login, and a concise hand-off guide so I can maintain the gallery myself.</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
