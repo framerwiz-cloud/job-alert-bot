@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Finalize Harbor E-commerce Deployment</title><link>https://www.freelancer.com/projects/typescript/Finalize-Harbor-commerce-Deployment</link><guid isPermaLink="false">freelancer:40742046</guid><pubDate>Wed, 30 Sep 2026 08:33:59 GMT</pubDate><description>5000-10000 USD | Harbor already does the basics—catalog, cart, mock payments, and a light merchant admin—but it is still a prototype. I’m looking for someone to take the existing React + TypeScript + Vite frontend and the Express + Prisma backend over the finish line so I can launch a real store.
+
+Stripe integration  
+Replace the temporary card stub with Stripe Checkout, wired through webhooks so orders are recorded the moment Stripe confirms payment. The current payment abstraction stays, you only adapt what’s needed.
+
+Robust product management  
+Inside the merchant admin I need full CRUD for products, inventory and images, plus publish / unpublish toggles. I also have a handful of extra data points to store with each product, so keep the UI and schema open to additional fields.
+
+Database &amp; migrations  
+Move from SQLite to Postgres, add proper Prisma migrations, and document every required environment variable for staging and prod.
+
+Order lifecycle  
+Extend the order model with fulfillment states, tracking numbers, and trigger confirmation / shipping emails.
+
+Production hardening  
+Session handling, input validation, rate limiting, centralized error handling, and secure config loading all need a second look.
+
+Deployment  
+Ship a repeatable path—Docker image and a template for Railway, Render, or Fly—with a short runbook that explains build, migrate, and roll-back steps.
+
+If this sounds like your wheelhouse, tell me how you’d approach each item and link to similar work you’ve shipped.</description></item>
 <item><title>Complete WordPress Revamp &amp; Security</title><link>https://www.freelancer.com/projects/web-design/Complete-WordPress-Revamp-Security</link><guid isPermaLink="false">freelancer:40741885</guid><pubDate>Wed, 30 Sep 2026 06:45:02 GMT</pubDate><description>250-750 AUD | My WordPress site has been online for many years without a proper refresh and the cracks are starting to show. I’m ready for a thorough overhaul that touches every layer—theme design, plugins, and content—while making the site genuinely hacker-proof.
 
 Here’s what I have in mind:
@@ -887,27 +908,6 @@ Ideal Skills and Experience:
 - Proven experience with Shopify
 - Strong attention to detail
 - Prior experience in inventory management</description></item>
-<item><title>Framer Portfolio Website Rebuild</title><link>https://www.freelancer.com/projects/framer/Framer-Portfolio-Website-Rebuild</link><guid isPermaLink="false">freelancer:40738917</guid><pubDate>Mon, 28 Sep 2026 20:10:53 GMT</pubDate><description>250-750 GBP | I recently bought a Framer template and now I want to turn it into a clean, fully-functional portfolio that showcases my professional work. The finished site needs four polished sections — About Me, Projects, Testimonials and Contact Me —each matching the visual language of the template while highlighting my experience and results.
-
-My current website is www.visioneditz.com. I've upgraded to Framer to make it look more professional and a better design. This should give you an idea of my current design.
-
-Here is what I need you to do:
-
-• Customise the template’s colours, fonts and layout so it feels uniquely mine without breaking Framer best practices
-• Build responsive versions of the About Me, Projects, Testimonials and Contact Me pages, ensuring they look perfect on desktop, tablet and mobile  
-• Set up a filterable Projects gallery that I can expand later inside Framer’s CMS  
-• Integrate a working contact form that delivers messages straight to my email  
-• Optimise load speed, basic on-page SEO and smooth scroll/transition effects already provided in the template  
-
-Acceptance criteria  
-– All four sections render correctly across modern browsers and major screen sizes  
-– Copy, images and links can be edited directly in Framer’s editor without code changes  
-– Contact form sends a confirmation to visitors and to my inbox  
-– Google PageSpeed score of 90+ on desktop and 80+ on mobile for the homepage  
-
-I’ll supply all copy, images and brand guidelines once we start. Please share a couple of Framer sites you’ve launched so I can get a feel for your style, and let me know how soon you can deliver a first draft.
-
-The template name on Framer is called "Fade".</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
