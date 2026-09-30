@@ -17,7 +17,7 @@ FEED_FILE = DATA_DIR / "freelancer.xml"
 SAVED_SEARCH_URL = (
     "https://www.freelancer.com/search/projects?types=hourly,fixed"
     "&clientCountries=gb,us,ca,au,de,sa,ae&projectSort=latest&projectLanguages=en"
-    "&projectFixedPriceMin=400&projectHourlyRateMin=10&projectSkills=17,69,482,2037,2825"
+    "&projectFixedPriceMin=100&projectHourlyRateMin=5&projectSkills=17,69,482,2037,2825"
 )
 BASE_PARAMS = {
     "jobs[]": [17, 69, 482, 2037, 2825],
@@ -29,8 +29,8 @@ BASE_PARAMS = {
 }
 # Fixed and hourly have different minimums, so each type is its own query.
 QUERIES = [
-    {"project_types[]": ["fixed"], "min_price": 400},
-    {"project_types[]": ["hourly"], "min_hourly_rate": 10},
+    {"project_types[]": ["fixed"], "min_price": 100},
+    {"project_types[]": ["hourly"], "min_hourly_rate": 5},
 ]
 # Dropped even if they slip past countries[]. The public API hides the client's own
 # country (owner fields come back null), so currency is the only client-side signal.

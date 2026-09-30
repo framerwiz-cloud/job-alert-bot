@@ -17,7 +17,7 @@
 
     <!-- Every 15 minutes. launchd runs a missed job on wake; cron does not. -->
     <key>StartInterval</key>
-    <integer>900</integer>
+    <integer>300</integer>
 
     <!-- Don't fire the moment it's loaded; let the first scheduled tick handle it. -->
     <key>RunAtLoad</key>
