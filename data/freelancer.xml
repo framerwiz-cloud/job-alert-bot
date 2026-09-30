@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>Freelancer.com saved search</title>
-<link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=400&amp;projectHourlyRateMin=10&amp;projectSkills=17,69,482,2037,2825</link>
+<link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Literacy Skills Website and Logo Design</title><link>https://www.freelancer.com/projects/web-design/Literacy-Skills-Website-Logo-Design</link><guid isPermaLink="false">freelancer:40742102</guid><pubDate>Wed, 30 Sep 2026 09:01:51 GMT</pubDate><description>20-250 GBP | I'm starting a small business to help teenagers improve their literacy skills, and I need a simple, informative website and a logo.
+
+Requirements:
+- Informational website
+- Friendly and approachable tone
+- Logo design
+
+Ideal Skills:
+- Web design experience
+- Graphic design experience
+- Ability to create user-friendly, engaging content
+
+Logo design similar to the one attached (though colours not decided) - contempoary and not childish</description></item>
+<item><title>Wix Cleaning Website With Booking</title><link>https://www.freelancer.com/projects/wix/Wix-Cleaning-Website-With-Booking</link><guid isPermaLink="false">freelancer:40741951</guid><pubDate>Wed, 30 Sep 2026 07:26:32 GMT</pubDate><description>30-250 AUD | I’m rebuilding my cleaning company’s web presence on Wix and I need it finished as soon as possible. The site must look professional, feel trustworthy, read clearly, and—above all—convert visitors into enquiries. Lead generation is my only measure of success, so every page needs strong calls-to-action that funnel prospects toward either a quote request or a simple appointment through Wix Bookings.
+
+Navigation is already mapped out: Home, About, Services ( subpages Residential Cleaning Sydney
+-Commercial Cleaning Sydney
+-Strata Cleaning Sydney
+-End of Lease Cleaning Sydney
+-Deep House Cleaning
+-Airbnb &amp; Short Stay Cleaning Sydney
+-Carpet and Upholstery Cleaning
+-Pressure Washing Sydney ), Pricing &amp; Quotes, Contact, and a standalone Book Online page. I’ll supply logo, palette, and any service copy you need; your job is to shape it into a clean, sales-focused layout, optimise it for mobile, and wire in the Wix booking widget for straightforward, single-visit appointments. A streamlined quote form should sit on the Pricing &amp; Quotes page so visitors can move from curiosity to conversion in one click.
+
+On-page SEO matters too. I expect keyword-targeted headings, meta titles &amp; descriptions, compressed images with alt tags, and logical internal linking that helps Google and users alike. Each service page should be indexed properly for “Cleaning Sydney” search intent, and the site speed needs to stay snappy once everything is live.
+
+Deliverables (acceptance criteria)  
+• Fully built Wix site reflecting the stated page structure and child pages  
+• Simple appointment booking flow via Wix Bookings, tested end-to-end  
+• Custom quote request form that emails submissions to me instantly  
+• On-page SEO applied across all pages (titles, metas, schema where relevant)  
+• Responsive design proofed on desktop, tablet, and mobile  
+• Handover with edit instructions so I can update text and pricing later
+
+If you’ve launched conversion-driven Wix sites before and can hit a rapid turnaround, let’s talk and get this live.</description></item>
 <item><title>Complete WordPress Revamp &amp; Security</title><link>https://www.freelancer.com/projects/web-design/Complete-WordPress-Revamp-Security</link><guid isPermaLink="false">freelancer:40741885</guid><pubDate>Wed, 30 Sep 2026 06:45:02 GMT</pubDate><description>250-750 AUD | My WordPress site has been online for many years without a proper refresh and the cracks are starting to show. I’m ready for a thorough overhaul that touches every layer—theme design, plugins, and content—while making the site genuinely hacker-proof.
 
 Here’s what I have in mind:
@@ -90,6 +125,16 @@ Work Arrangement
 Part-time
 Long-term opportunity for the right developer
 Please include relevant project examples or previous work samples with your proposal.</description></item>
+<item><title>Single-Page Business Website Design</title><link>https://www.freelancer.com/projects/web-design/Single-Page-Business-Website-Design</link><guid isPermaLink="false">freelancer:40741514</guid><pubDate>Wed, 30 Sep 2026 02:43:38 GMT</pubDate><description>20-250 GBP | I’m ready to launch a straightforward online presence for my company and need a clean, single-page site that does one thing very well: introduce the business and highlight our featured products and services. The page you build will act as both a first impression and a concise information hub, so visual clarity, intuitive navigation (even within a one-page layout), and responsive design are all important.  
+
+Please handle the full design and front-end build: layout, typography, colour palette, and any subtle interactions that make the content stand out on desktop and mobile alike. The hero section can be minimal; the real focus is a well-structured area that showcases what we offer, with room for short descriptions and eye-catching images or icons. If a lightweight CMS or drag-and-drop editor will make future edits easier, feel free to recommend it—otherwise a plain HTML/CSS/JS hand-off is fine.  
+
+Before we wrap up, I’ll need:  
+• the finished page files (or CMS access)  
+• any assets or fonts used, with clear usage rights  
+• a quick rundown of how to swap in new product details later.  
+
+Looking forward to seeing how you’d translate these essentials into an elegant, fast-loading one-pager.</description></item>
 <item><title>Wix to Wordpress replication -- 2</title><link>https://www.freelancer.com/projects/website-design/Wix-Wordpress-replication</link><guid isPermaLink="false">freelancer:40741506</guid><pubDate>Wed, 30 Sep 2026 02:32:59 GMT</pubDate><description>250-750 AUD | The task is to recreate my existing minimalist Wix website in WordPress. I'm reposting this as I'm finally read to move forward with the job.
 
 I am building and finalising the design myself in Wix first. The completed Wix site will be the visual source of truth. This is not a design or redesign job.
@@ -130,6 +175,64 @@ The WordPress tools/theme/builder you would use and why.
 One or two relevant examples where you have recreated an existing design or built a site requiring a high degree of visual fidelity.
 
 I will provide the completed Wix site, screen recording/reference material and WordPress access once we agree on the approach.</description></item>
+<item><title>Refine and Organize Odoo 19 Municipal Website</title><link>https://www.freelancer.com/projects/odoo/Enhance-Existing-Odoo-Municipal-Website</link><guid isPermaLink="false">freelancer:40741485</guid><pubDate>Wed, 30 Sep 2026 02:12:21 GMT</pubDate><description>30-250 USD | ## Project Title
+
+Refine and Professionally Organize an Existing Odoo 19 Municipal Website
+
+## Project Description
+
+Our company is seeking an experienced web designer/developer to refine and professionally organize our existing Odoo19 website.
+
+This is not a ground-up website design project. The website theme, page structure, graphic materials, most text content, and supporting screenshots are already prepared. The main responsibility is to improve, organize, and polish the existing material so the website looks professional, clear, consistent, and easy to navigate.
+
+Our company provides solutions for municipalities and counties, including:
+
+- Municipal ERP and CMS solutions
+- Accessible government websites
+- Accessibility tools and APIs
+- Website accessibility audits
+- Future digital-service and accessibility features
+
+## Scope of Work
+
+The freelancer will:
+1. Review the supplied Odoo 19 website materials and screenshots.
+2. Refine existing pages rather than redesigning the project unnecessarily.
+3. Improve spacing, typography, headings, layout, visual hierarchy, and readability.
+4. Ensure each page contains an appropriate amount of concise and meaningful content.
+5. Position supplied images and graphics in relevant locations with suitable sizes and proportions.
+6. Organize the Solutions menu so users can easily find:
+   - Websites for municipalities and counties
+   - Accessibility tools
+   - Accessibility APIs
+   - Accessibility audits
+   - ERP and CMS solutions
+   - Other relevant services and future offerings.
+7. Create dedicated pages for major solutions or clearly labeled in-page tabs/sections where appropriate.
+8. Preserve the existing visual identity and use the supplied theme and graphic materials consistently.
+9. Keep the structure flexible so additional features and services can be added later.
+
+## Materials We Will Provide
+We will provide:
+- The existing website theme.
+- Existing pages and page structure.
+- Most of the written content.
+- Screenshots showing the intended direction and current material.
+- Odoo 19 website materials and files.
+- Graphic files and other relevant design assets.
+The freelancer is expected to refine and implement the supplied materials, not replace them with an unrelated design or structure.
+Where text is missing or too short to complete a necessary section, Lorem Ipsum may be used occasionally as temporary placeholder text. Any placeholder must have a clear title indicating the intended purpose of the section. Placeholder text should not be used as a substitute for available or reasonably editable content.
+## Expected Deliverables:
+- A refined and professionally organized Odoo 19 website.
+- Clear and intuitive navigation.
+- An improved Solutions menu.
+- Dedicated or clearly accessible pages/sections for each major solution.
+- Better page spacing, typography, layout, and content presentation.
+- Correct placement and sizing of supplied graphics.
+- Responsive desktop, tablet, and mobile layouts.
+- Appropriate temporary placeholders where genuinely necessary.
+- Screenshots of progress daily or every other day showing meaningful updates on refined page layouts or navigation improvements (to ensure alignment).
+- Final work compatible with the supplied Odoo 19 materials.</description></item>
 <item><title>SaaS Task Approval Dashboard Development</title><link>https://www.freelancer.com/projects/nextjs/SaaS-Task-Approval-Dashboard-Development</link><guid isPermaLink="false">freelancer:40741478</guid><pubDate>Wed, 30 Sep 2026 02:04:32 GMT</pubDate><description>750-1500 USD | UI/UX Designer + Frontend Developer Needed for SaaS Task Approval Dashboard
 I’m looking for a UI/UX Designer with strong frontend development skills to design and build a modern SaaS task approval dashboard.
 The application should allow users to create tasks, submit them for review, track approval status, and view task history. Managers should be able to review, approve, or reject tasks.
@@ -181,6 +284,28 @@ Ideal Skills and Experience:
 - Experience with inventory management systems. 
 
 Looking forward to your proposals!</description></item>
+<item><title>Migrate Wix Portfolio to Hostinger -- 2</title><link>https://www.freelancer.com/projects/website-design/Migrate-Wix-Portfolio-Hostinger</link><guid isPermaLink="false">freelancer:40741328</guid><pubDate>Tue, 29 Sep 2026 23:55:46 GMT</pubDate><description>30-250 USD | I need my existing Wix-based portfolio moved over to my Hostinger account. While the core structure can stay, I’d like to refresh several content elements during the transfer so the finished site feels cleaner and more consistent with my current brand direction. The current site is www.drmichaelleslie.com
+
+The move should include:
+
+• Layout tweaks to streamline navigation and page flow  
+• A revised color scheme that matches my updated brand palette  
+• Replacing or adjusting images where necessary for sharper resolution and better cohesion  
+
+You’ll handle exporting what’s on Wix, rebuilding or importing it on Hostinger (WordPress, custom HTML, or another practical solution you recommend), and then applying the updates above. When the site is live on Hostinger, all pages must load quickly, display correctly on mobile and desktop, and preserve my portfolio pieces without broken links or missing media.
+
+Please outline your proposed approach, estimated timeframe, and any access details you’ll need from me so we can get started right away.</description></item>
+<item><title>Migrate Wix Portfolio to Hostinger</title><link>https://www.freelancer.com/projects/web-design/Migrate-Wix-Portfolio-Hostinger</link><guid isPermaLink="false">freelancer:40741123</guid><pubDate>Tue, 29 Sep 2026 23:52:54 GMT</pubDate><description>30-250 USD | I need my existing Wix-based portfolio moved over to my Hostinger account. While the core structure can stay, I’d like to refresh several content elements during the transfer so the finished site feels cleaner and more consistent with my current brand direction. The current site is www.drmichaelleslie.com
+
+The move should include:
+
+• Layout tweaks to streamline navigation and page flow  
+• A revised color scheme that matches my updated brand palette  
+• Replacing or adjusting images where necessary for sharper resolution and better cohesion  
+
+You’ll handle exporting what’s on Wix, rebuilding or importing it on Hostinger (WordPress, custom HTML, or another practical solution you recommend), and then applying the updates above. When the site is live on Hostinger, all pages must load quickly, display correctly on mobile and desktop, and preserve my portfolio pieces without broken links or missing media.
+
+Please outline your proposed approach, estimated timeframe, and any access details you’ll need from me so we can get started right away.</description></item>
 <item><title>Marketplace Classifieds With Messaging</title><link>https://www.freelancer.com/projects/web-development/Marketplace-Classifieds-With-Messaging</link><guid isPermaLink="false">freelancer:40741277</guid><pubDate>Tue, 29 Sep 2026 23:22:06 GMT</pubDate><description>250-750 USD | I need a full-featured classified website focused on straightforward buying and selling.  Visitors should be able to browse and post listings in three core categories—Electronics, Furniture and Clothing—then communicate and close the deal without ever leaving the platform.
 
 Core functions I must see live:
@@ -449,6 +574,13 @@ Deliverables will be considered complete when:
 4. You supply a succinct post-launch hand-off document outlining update procedures and rollback points.
 
 If you have questions about the existing codebase or need staging credentials, let me know and I’ll provide them right away.</description></item>
+<item><title>Executive Execution Scorecard</title><link>https://www.freelancer.com/projects/web-application/Executive-Execution-Scorecard</link><guid isPermaLink="false">freelancer:40740894</guid><pubDate>Tue, 29 Sep 2026 18:19:00 GMT</pubDate><description>30-250 USD | Website Assistance
+
+I need a website specialist to help me modify the “Free Tools” section of my website,. I want to post an Executive Execution Scorecard™ (i.e., Survey) into the free tools section of my website and capture the contact information from whomever visits this section and downloads the Executive Execution Scorecard™. 
+
+Specifically, I want to have a landing page or some other process associated with the Executive Execution Scorecard™ to capture the first and last name, company name, email address and telephone number of individuals who download the Executive Execution Scorecard™ so I can follow-up with them. Preferably, interested individuals would fill-out the landing page or other process to receive the Executive Execution Scorecard™.
+
+Timing to commence this work will begin by October 24 and must be completed by October 31, 2026.</description></item>
 <item><title>Earn First $1K: Shopify Emails</title><link>https://www.freelancer.com/projects/email-marketing/Earn-First-Shopify-Emails</link><guid isPermaLink="false">freelancer:40736756</guid><pubDate>Tue, 29 Sep 2026 17:49:52 GMT</pubDate><description>2-10 USD/hr | My Shopify dropshipping store is built, stocked, and sitting quietly—what it lacks is an email marketer who can turn subscribers into buyers. Your mission is simple: drive at least US $1,000 in verified store revenue strictly through email marketing. As soon as the dashboard shows that first $1,000, every cent of it is yours as payment. Note: The milestone payment will only be released after achieving this sales target as confirmed in Shopify analytics. If the target isn't met, a refund will be requested. After the milestone we can negotiate a longer-term arrangement if results stay strong.
 
 Scope of work
@@ -609,305 +741,57 @@ You’ll be responsible for:
 • Deployment to a staging server where I can test each module against the originals before sign-off.
 
 When you reply, outline the tech stack you’d use, any similar SaaS clones you’ve built, and an estimated timeline broken into milestones (site builder core, AI engine, payment gateway, final polish). Source code and a short implementation guide will be the final deliverables.</description></item>
-<item><title>Advance AI Direct Sales Platform Development (based in Dubai, UAE)</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Advance-Direct-Sales-Platform</link><guid isPermaLink="false">freelancer:40739602</guid><pubDate>Tue, 29 Sep 2026 05:24:11 GMT</pubDate><description>3000-5000 USD | Debrok, an AI-powered direct sales platform for property developers
+<item><title>Website Updates: New Industries, Locations &amp; Social Media Links</title><link>https://www.freelancer.com/projects/branding/Website-Updates-New-Industries-Locations</link><guid isPermaLink="false">freelancer:40739894</guid><pubDate>Tue, 29 Sep 2026 08:09:16 GMT</pubDate><description>30-250 EUR | Website updates: new industries, locations, and social media links
 
-Debrok gives real estate developers in the UAE a direct-to-buyer sales channel that runs alongside their existing broker network. An AI layer qualifies buyers and investors, hands warm leads to the developer's own sales team, then independently tracks each lead through to close. Buyers use it free of charge. Developers pay.
+We’re looking for a freelancer to make focused updates to our software company’s existing website. We want to speak to a few additional industries, give our locations more visibility, and make it easier for visitors to find and follow us on social media.
 
-What we need built:
+Scope of work
 
-1. Three portals: Buyer, Developer and Admin.
+Add or update content for the additional industries we serve, using the information we provide.
+Improve how our locations are presented and linked from relevant pages.
+Add clear, working links to our social media profiles in appropriate places on the site, with calls to action where useful.
+Update relevant page titles and meta descriptions for the new industry and location content.
+Keep the existing visual style and make sure the updates work well on desktop and mobile.
 
-2. Property data engine. Developers manually enter and maintain projects and units (price, location, unit type and size, payment plan milestones, handover date, availability status). Data is stored in structured fields and queried live by the AI during conversations.
+Please include implementation and a review of the finished changes in your proposal. We’ll provide the website URL, the industries and locations to feature, and our social media profile links before work begins.
 
-3. AI voice and chat qualification. The AI answers buyer questions using live property data and captures budget, purchase intent (investor vs. end-use), timeline and preferred unit type. Every call is recorded and transcribed, and each conversation produces a structured lead summary. Arabic and English support is required.
+What we’ll check before sign-off
 
-4. Handoff. Qualified leads pass to the developer's sales team with the transcript and summary attached.
+The new industry and location information is accurate, easy to find, and consistent with the rest of the site.
+All social media links lead to the correct profiles.
+The updated pages display correctly on desktop and mobile.
 
-5. Post-handoff follow-up. The AI keeps checking in with the buyer after handoff, independently of what the developer reports, to confirm deal status. Cadence is tiered by deal value: higher-value leads get longer, more persistent follow-up and milestone questions (agreement signed, deposit paid). Lower-value leads lapse to "unresponsive" faster. Stalled or evasive high-value leads escalate to a human.
+Please share examples of similar website updates, your estimated turnaround time, and what access or materials you’ll need from us.</description></item>
+<item><title>Digital Product E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Digital-Product-Commerce-Website-40739745</link><guid isPermaLink="false">freelancer:40739745</guid><pubDate>Tue, 29 Sep 2026 06:46:31 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch an e-commerce site dedicated to selling digital products—think downloadable files, licenses, or resource packs—and I need a designer who can take it from concept to a polished, revenue-ready platform. The store has to feel clean and intuitive, work flawlessly on mobile, and, most importantly, feature a rock-solid secure payment gateway so my customers can pay with confidence. PayPal, Stripe, or a similarly trusted solution is fine as long as transactions remain fully encrypted and compliant.
 
-6. Developer reporting. Detailed periodic reports covering leads, conversion and commission statements, plus regional benchmarking that shows each developer how they rank against others on the platform, with the underlying data anonymised.
+I already have the product files prepared, so I’ll supply those assets along with branding guidelines. What I need from you is the complete front-end and back-end setup: modern UI/UX, product pages that showcase each file clearly, a streamlined checkout, and an admin area where I can add new digital items without touching code. If you suggest an established CMS (Shopify, WooCommerce, or comparable), let me know why it’s the best fit; a custom build is also on the table if it stays lightweight and secure.
 
-7. Billing engine. Billing works either/or per month. In a month with no closed deal, the developer pays a flat monthly fee. In a month with a closed deal, the fee is replaced by a 2% commission on the unit value. There must be admin controls for waivers and fee adjustments to support an onboarding phase.
+Key deliverables:
+• Responsive e-commerce site tailored for digital downloads  
+• Integration of a secure payment gateway with full testing  
+• Admin dashboard for product, order, and download management  
+• Basic documentation so I can handle routine updates myself  
 
-8. Admin portal covering developer management, AI conversation oversight, billing, disputes and platform-wide reporting.
+Propose your preferred tech stack, estimated timeframe, and any similar live projects you’ve completed. I’m ready to get started as soon as I find the right match.</description></item>
+<item><title>PSD-to-WordPress Site Build</title><link>https://www.freelancer.com/projects/web-development/PSD-WordPress-Site-Build</link><guid isPermaLink="false">freelancer:40739708</guid><pubDate>Tue, 29 Sep 2026 06:29:43 GMT</pubDate><description>80-100 USD | I will provide completed home page psd and all copy for all pages. please see them here:
 
-We are asking for a quote based on the above, plus a proposed technical architecture (stack, hosting, voice AI vendor and LLM approach), a phased delivery plan, and a rough estimate of ongoing per-call AI costs.</description></item>
-<item><title>Kaspa Credential Verification Blockchain MVP Build</title><link>https://www.freelancer.com/projects/blockchain/Kaspa-Credential-Verification-MVP-Build</link><guid isPermaLink="false">freelancer:40730321</guid><pubDate>Tue, 29 Sep 2026 05:10:01 GMT</pubDate><description>250-750 USD | What are we building?
+https://drive.google.com/drive/folders/1U-qXkY_GcX4YGqd5uuQszTDFy3mDqc4l?usp=sharing
 
-A programmable lifecycle infrastructure layer for physical assets, built on Kaspa.
+ai use is welcome to speed things up
 
-The goal is to give physical assets a digital identity and verifiable lifecycle, while allowing predefined rules to control how the asset can move from one state to another.
+Need this completed quickly please</description></item>
+<item><title>WordPress &amp; GHL Virtual Assistant -- 2</title><link>https://www.freelancer.com/projects/data-entry/WordPress-GHL-Virtual-Assistant</link><guid isPermaLink="false">freelancer:40738950</guid><pubDate>Mon, 28 Sep 2026 20:32:41 GMT</pubDate><description>2-8 CAD/hr | I’m looking for a tech-savvy virtual assistant who can jump straight into my WordPress sites, work confidently inside Elementor, and keep everything running smoothly while we scale. Day-to-day you’ll handle content updates, design tweaks, plugin housekeeping, and spin up new landing pages as ideas go live.  
 
-How it works
+Beyond WordPress, you’ll also spend time inside GoHighLevel: maintaining CRM records, setting up marketing automations, and building or refining funnels so leads move seamlessly through the pipeline. Because I produce fresh campaigns regularly, you’ll both create new page and email content and keep existing assets current. Familiarity with Canva is a bonus—many of our graphics start there before heading to the site or funnel.  
 
-Physical Asset
-↓
-Digital Identity
-↓
-Lifecycle States
-↓
-Authorized Transitions
-↓
-Kaspa
+We’ll start part-time during onboarding and transition to full-time once you’re comfortable with the workflow. A short video interview will be required before we begin.  
 
-For example:
+When you send your proposal, please answer:  
+1. Do you have experience in Canva?  
+2. Have you used Elementor as a website builder?  
+3. Have you used GoHighLevel (GHL)?  
 
-Manufactured → Certified → Sold → Shipped → Delivered → Serviced → Resold → Retired
-
-A business could connect its existing ERP/API and map its existing events to these lifecycle states.
-
-What problem does it solve?
-
-Today, asset information is often fragmented across manufacturers, distributors, logistics companies, service providers and customers.
-
-This can create problems with:
-
-* Authenticity
-* Ownership verification
-* Supply-chain visibility
-* Warranty/service history
-* Asset transfers
-* Duplicate records
-* End-of-life tracking
-
-The platform would create a shared, verifiable lifecycle layer without requiring companies to replace their existing systems.
-
-Why Kaspa?
-
-Kaspa’s UTXO architecture and covenant capabilities can potentially allow important asset-state transitions to become programmable and enforceable, rather than simply being entries in a centralized database.
-
-First MVP
-
-Build one working asset lifecycle to prove the concept:
-
-Create → Certify → Transfer → Deliver → Verify
-
-The MVP would include:
-
-* Digital asset identity
-* Lifecycle/state engine
-* Authorized transitions
-* Kaspa integration
-* Basic covenant implementation
-* API integration
-* Public verification
-* Simple dashboard
-
-Long-term potential
-
-The same infrastructure could eventually support:
- Manufacturing
-Diamonds &amp; jewellery
-Supply chain
-Invoice/asset financing
-Batteries
-Energy assets
-Credentials
-
-The vision:
-
-Don’t just record what happened.
-
-Make the next state programmable.
-
-Community initiative
-
-The idea is to build the MVP with the Kaspa community — developers, builders, testers and supporters — using voluntary community donations to fund development.
-
-Development milestones, progress and spending would be made transparent to the community.</description></item>
-<item><title>Upgrade Website for Audiovisual Production Co.</title><link>https://www.freelancer.com/projects/web-design/Upgrade-Website-for-Audiovisual</link><guid isPermaLink="false">freelancer:40739549</guid><pubDate>Tue, 29 Sep 2026 04:49:02 GMT</pubDate><description>250-750 USD | Hi! I’m looking for a creative web designer/developer to help redesign and improve the existing website for OneShot Enterprise LLC, an audiovisual production company based in Oregon.
-
-Our company has grown significantly, and I feel our current website no longer represents the quality, variety and level of the work we are producing today.
-
-What we do
-
-OneShot Enterprise provides professional audiovisual production including:
-
-• Professional video production
-• Commercial and corporate video
-• Concert and live event production
-• Event and nightlife coverage
-• Professional photography
-• Interviews and media production
-• Documentary and nonprofit storytelling
-• Automotive productions and auto show coverage
-• Luxury brand content
-• Drone and aerial production
-• 360° video and immersive content
-• Social media content
-• Video editing and post-production
-
-Who we work with
-
-Our portfolio includes work for businesses and brands, nonprofit and community organizations, artists and live concerts, nightclubs and entertainment venues, automotive brands and major auto shows, public figures and political interviews, corporate clients and special events.
-
-We have worked on productions throughout Oregon and Washington, as well as automotive events and productions in major U.S. cities.
-
-What I’m looking for
-
-I want the website to feel dynamic, powerful, modern and cinematic. I don’t want a traditional or overly corporate website. Since we are a visual production company, our videos and photography should be an important part of the experience.
-
-I imagine something that immediately catches attention when someone enters the site — strong video, photography, motion and visual storytelling — while still being clean, professional, fast and easy to navigate.
-
-I would like potential clients to quickly understand the range and quality of our work, explore our portfolio and services, and easily contact us to start a project.
-
-The website already exists, so I’m looking for someone who can help improve the design, organization, portfolio presentation, mobile experience and overall visual identity, while keeping good SEO practices in mind.
-
-I’m very open to creative ideas. I would love to work with someone who can look at our existing website and portfolio and recommend the best way to take it to the next level based on our needs and budget.</description></item>
-<item><title>Comprehensive Online Marketing Setup for Cleaning Business</title><link>https://www.freelancer.com/projects/graphic-design/Professional-Website-Development-Google</link><guid isPermaLink="false">freelancer:40739331</guid><pubDate>Tue, 29 Sep 2026 01:54:42 GMT</pubDate><description>500-1000 CAD | I am looking to hire a freelancer to help grow my cleaning business, Fast and Perfect Ltd., in Edmonton, Alberta. The project includes:
-
-1. Professional Website Development:
-   - Modern, professional, mobile-friendly design.
-   - Pages for services (residential cleaning, commercial cleaning, carpet cleaning).
-   - Contact form and click-to-call button.
-   - Request-a-free-quote feature.
-   - Customer reviews/testimonials section.
-   - Gallery to showcase work.
-   - SEO optimization for better visibility on Google.
-   - Assistance with domain registration and business email setup (registered under my name or company for full ownership).
-
-2. Google Business Profile Setup:
-   - Create and optimize my Google Business Profile listing.
-   - Ensure visibility on Google Maps and local search results.
-
-3. Social Media Platforms:
-   - Facebook and Instagram business pages setup and optimization.
-   - TikTok business account setup and optimization.
-
-4. Advertising Campaigns:
-   - Meta Ads campaign setup targeting local customers in Edmonton and surrounding areas.
-   - Google Ads campaign setup targeting local customers in Edmonton and surrounding areas.
-   - Kijiji business profile and advertising setup to attract local customers.
-
-5. Local SEO Optimization:
-   - Improve online visibility for local searches in Edmonton and surrounding areas.
-
-6. Professional Social Media Content Creation:
-   - Develop promotional materials to generate customer inquiries, phone calls, quote requests, and bookings for Fast and Perfect Ltd.
-
-Requirements:
-- Full ownership of all accounts (website domain, hosting, Google Business Profile, social media accounts) upon project completion.
-- No mandatory monthly subscription; one-time payment preferred for the initial project.
-- Clear breakdown of any additional costs (e.g., hosting, domain registration, advertising budgets).
-
-Budget: $500–$1,000 CAD.</description></item>
-<item><title>AircraftPrices.com Content &amp; Design Revamp</title><link>https://www.freelancer.com/projects/content-writing/AircraftPrices-com-Content-Design-Revamp</link><guid isPermaLink="false">freelancer:40739252</guid><pubDate>Tue, 29 Sep 2026 00:48:10 GMT</pubDate><description>750-1500 USD | I’m ready to reposition AircraftPrices.com so visitors immediately see us as the very first step in any aircraft acquisition, then feel a clear, confident path toward a certified valuation and our AEROMAX buyer-protection service.  
-
-Here’s what I need: the copy on the home page, the service pages, and the pricing sections must be rewritten so the $400 piston valuation, the $600 turbine valuation, and the “see website for USPAP desktop appraisal” message stand out and naturally lead prospects to the next stage of the funnel. Tone should feel authoritative yet approachable, speaking to serious buyers who understand the value of an independent report.  
-
-While the words are being refined, the visual skin of the site must also come up to modern standards. I want a fresh, contemporary look, seamless mobile responsiveness, and an intuitive flow that makes it obvious where to click next—no hunting, no clutter. Think clean typography, faster load times, and UI/UX touches that make forms, comparison charts, and contact calls to action effortless on both phone and desktop. The existing platform can stay in place; front-end redesign in WordPress or a comparable framework is fine as long as load speed and security best practices are met.  
-
-Deliverables:
-• Revised copy for home, services, and pricing sections that highlights valuations and guides users toward AEROMAX.  
-• A fully responsive visual redesign implemented on the live site with all current pages intact.  
-• UI/UX improvements validated on major browsers and current iOS/Android devices.  
-• Handover of source files and any style guides so my team can keep everything consistent after launch.  
-
-Once the refreshed site is live I’ll test the new funnel with paid traffic; if engagement improves we can discuss phase two—adding interactive tools or client dashboards. For now, I just need the words and the look to match the premium nature of our reports.</description></item>
-<item><title>SEO Optimization &amp; Hosting for Pool Service Site</title><link>https://www.freelancer.com/projects/google-analytics/SEO-Optimization-Hosting-for-Pool</link><guid isPermaLink="false">freelancer:40739193</guid><pubDate>Mon, 28 Sep 2026 23:59:37 GMT</pubDate><description>250-750 USD | I’m looking for an experienced web professional to host and optimize my pool service company’s website for maximum visibility on Google and other major search engines.
-
-My business is AAAquatic Pool Services, based in Bradenton, Florida. We specialize in pool cleaning, repairs, leak detection, and green-to-clean services. I need someone who can not only provide reliable hosting but also make sure my website shows up when homeowners search for pool services in my area.
-
-Responsibilities:
-
-Provide secure, reliable website hosting (preferably with cPanel or similar)
-
-Migrate or set up my existing website on your hosting platform
-
-Perform a complete SEO audit and on-page optimization (titles, tags, keywords, image alt text, etc.)
-
-Improve page loading speed and mobile performance
-
-Set up and link Google Search Console, Google Analytics, and Google Business Profile
-
-Optimize for local SEO (Bradenton, Sarasota, and surrounding areas)
-
-Research and integrate target keywords like:
-
-pool cleaning Bradenton
-
-pool service near me
-
-pool repair &amp; leak detection
-
-green-to-clean pool service
-
-Optional: provide ongoing maintenance and SEO tracking reports
-
-Requirements:
-
-Proven experience with SEO and website hosting
-
-Skilled with WordPress or similar CMS
-
-Familiarity with local business SEO strategies
-
-Ability to show past results and communicate clearly
-
-Must be reliable and responsive
-
-Deliverables:
-
-Fully hosted, optimized, and mobile-friendly website
-SEO improvements reflected in Google rankings and site speed
-Local search visibility improvements (Google Maps, business listings, etc.)
-
-
-When Applying, Please Include:
-
-Hosting platform or server setup you recommend
-At least 2–3 examples of websites you’ve optimized
-A brief overview of your SEO strategy for a local service business</description></item>
-<item><title>Sell Virtual Fitting Room Solution</title><link>https://www.freelancer.com/projects/sales/Sell-Virtual-Fitting-Room-Solution</link><guid isPermaLink="false">freelancer:40739074</guid><pubDate>Mon, 28 Sep 2026 22:40:27 GMT</pubDate><description>750-1500 GBP | I need a results-driven closer who can place Viewra—our web-based virtual changing room—into the right hands and earn a generous commission on every deal secured.   
-
-What you’ll be offering  
-Viewra drops straight into any e-commerce fashion site, retail brand website or even a marketplace platform and lets shoppers try garments on their own photos before they buy. It works seamlessly on both desktop and mobile, so you can pitch it as a friction-free upgrade that lifts conversion and slashes returns. The current release focuses on ultra-fast user photo uploads with realistic draping; 3D rendering and sizing AI are on the roadmap, so early adopters get a future-proof tool.  
-
-Your mission  
-• Identify qualified merchants and decision-makers  
-• Demo Viewra, handle objections, and negotiate terms  
-• Close the contract—my team takes care of integration and support  
-
-Commission structure  
-This is a high-ticket SaaS licence with an attractive earning potential. You’ll receive a £50 monthly retainer for one year (£600 total) plus a 15-20% commission per sale, with commissions starting at £600 minimum per deal closed. If you already have a network in fashion tech, you’ll find the margins very rewarding.   
-
-What to include in your bid  
-• Your background selling B2B software, especially to fashion or retail  
-• Average deal size or conversion stats you’ve achieved  
-• How many qualified leads you can approach in the first 30 days  
-
-Once your first client goes live, the commission is released immediately; subsequent renewals pay out as well. I handle demos, onboarding guides and all technical questions you can’t answer—your focus stays on opening doors and closing deals. Let’s talk targets and kick off the first round of pitches.</description></item>
-<item><title>Shopify Catalogue Maintenance</title><link>https://www.freelancer.com/projects/inventory-management/Shopify-Catalogue-Maintenance</link><guid isPermaLink="false">freelancer:40739027</guid><pubDate>Mon, 28 Sep 2026 21:48:59 GMT</pubDate><description>250-750 CAD | I need a freelancer to set up and maintain my Shopify catalogue. 
-
-Key Tasks:
-- Product Listings: Add new products, update existing ones, and remove outdated products.
-- Inventory Management: Update stock levels, set up automated stock notifications, and categorize products.
-
-Ideal Skills and Experience:
-- Proven experience with Shopify
-- Strong attention to detail
-- Prior experience in inventory management</description></item>
-<item><title>Framer Portfolio Website Rebuild</title><link>https://www.freelancer.com/projects/framer/Framer-Portfolio-Website-Rebuild</link><guid isPermaLink="false">freelancer:40738917</guid><pubDate>Mon, 28 Sep 2026 20:10:53 GMT</pubDate><description>250-750 GBP | I recently bought a Framer template and now I want to turn it into a clean, fully-functional portfolio that showcases my professional work. The finished site needs four polished sections — About Me, Projects, Testimonials and Contact Me —each matching the visual language of the template while highlighting my experience and results.
-
-My current website is www.visioneditz.com. I've upgraded to Framer to make it look more professional and a better design. This should give you an idea of my current design.
-
-Here is what I need you to do:
-
-• Customise the template’s colours, fonts and layout so it feels uniquely mine without breaking Framer best practices
-• Build responsive versions of the About Me, Projects, Testimonials and Contact Me pages, ensuring they look perfect on desktop, tablet and mobile  
-• Set up a filterable Projects gallery that I can expand later inside Framer’s CMS  
-• Integrate a working contact form that delivers messages straight to my email  
-• Optimise load speed, basic on-page SEO and smooth scroll/transition effects already provided in the template  
-
-Acceptance criteria  
-– All four sections render correctly across modern browsers and major screen sizes  
-– Copy, images and links can be edited directly in Framer’s editor without code changes  
-– Contact form sends a confirmation to visitors and to my inbox  
-– Google PageSpeed score of 90+ on desktop and 80+ on mobile for the homepage  
-
-I’ll supply all copy, images and brand guidelines once we start. Please share a couple of Framer sites you’ve launched so I can get a feel for your style, and let me know how soon you can deliver a first draft.
-
-The template name on Framer is called "Fade".</description></item>
+If you thrive on organized systems, enjoy creative problem-solving in WordPress and GHL, and are ready to grow with a busy digital team, I’d love to hear from you.</description></item>
 <item><title>Website Optimisation for Digital Art Sales</title><link>https://www.freelancer.com/projects/api-integration/Website-Optimisation-for-Digital-Art</link><guid isPermaLink="false">freelancer:40737040</guid><pubDate>Sun, 27 Sep 2026 22:51:13 GMT</pubDate><description>15-25 USD/hr | I run an online store that offers downloadable abstract art prints. The site is live, theproducts are uploaded, yet the buying journey still feels unfinished and traffic remains modest. I need a hand turning the current setup into a polished, sales-ready experience.
 
 First, every print must be fully commerce-enabled. That means con firming product variants, pricing tiers and automatic delivery links, then wiring each item to a reliable checkout and shipping solution so a customer can buy, download or request physical fulfilment without friction.
