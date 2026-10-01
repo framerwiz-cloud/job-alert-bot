@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Integrate Sellauth API WordPress -- 2</title><link>https://www.freelancer.com/projects/php/Integrate-Sellauth-API-WordPress-40744056</link><guid isPermaLink="false">freelancer:40744056</guid><pubDate>Thu, 01 Oct 2026 08:28:38 GMT</pubDate><description>100-750 CAD | I already have a fully functional WordPress site and I’d like to connect it to the Sellauth.com API. My goal is to hook into the API’s endpoints so users can seamlessly interact with Sellauth without ever leaving my site. I’m open to guidance on which parts of the site should call the API first—login, checkout, dashboard, or any other template you feel is most efficient—but the final result must be cleanly coded, secure, and future-proof.
+
+You’ll be working in a standard LAMP-based WordPress environment (PHP 8, latest WP core, custom theme). I need:
+
+• End-to-end integration of Sellauth REST calls (authentication tokens, callbacks, error handling).  
+• All keys, secrets, and webhooks added through wp-config or a secure custom plugin, never hard-coded.  
+• Responsive front-end hooks so the user experience matches the site’s current styling.  
+• A short hand-off note or screen share that explains how to update or extend the integration.
+
+Please factor in best practices for WordPress hooks, nonces, and sanitization. If you’ve connected third-party APIs via wp_remote_request or custom cURL in a plugin, you’ll feel right at home.</description></item>
 <item><title>Elegant Installation Booking Website</title><link>https://www.freelancer.com/projects/web-development/Elegant-Installation-Booking-Website</link><guid isPermaLink="false">freelancer:40744009</guid><pubDate>Thu, 01 Oct 2026 07:53:05 GMT</pubDate><description>30-250 AUD | I’m building Instlld’s new online home and need a developer who can recreate the smooth, product-by-product booking experience you see on hipages, but wrapped in a classic, elegant design.
 
 Here’s the customer flow I have in mind: the visitor lands on a single-scroll homepage, drops in a postcode, selects a service area such as Home Furniture, Outdoor Equipment or BBQs, browses a price-tagged list of installable products, adds the chosen items to cart, locks in a calendar slot, pays, then receives an auto-generated email confirming date, time and receipt.
@@ -689,21 +699,6 @@ Acceptance criteria
 4. I receive the final source files and admin credentials.
 
 If you’ve built professional service websites before—especially in the security or safety sector—let’s talk.</description></item>
-<item><title>Wordpress Site Update on GoDaddy</title><link>https://www.freelancer.com/projects/web-design/Wordpress-Site-Update-GoDaddy</link><guid isPermaLink="false">freelancer:40741035</guid><pubDate>Tue, 29 Sep 2026 19:50:47 GMT</pubDate><description>250-750 USD | I'm looking for a skilled Wordpress developer to update my site hosted on GoDaddy. I want to keep the current design with minor tweaks.
-
-Requirements:
-- Update the design and layout
-- Add new pages
-- Update existing content
-- Replace images
-
-Ideal skills and experience:
-- Proficiency in Wordpress
-- Experience with GoDaddy hosting
-- Strong design skills for minor tweaks
-- Ability to manage content updates efficiently
-
-Please provide examples of previous work and a brief outline of your approach.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
