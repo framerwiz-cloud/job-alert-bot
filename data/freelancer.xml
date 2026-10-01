@@ -3,6 +3,69 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>White-Label TV Streaming Apps Development</title><link>https://www.freelancer.com/projects/app-development/White-Label-Streaming-Apps-Development</link><guid isPermaLink="false">freelancer:40744383</guid><pubDate>Thu, 01 Oct 2026 12:17:23 GMT</pubDate><description>750-1500 AUD | Title: TV App Developer – Roku, Fire TV, Apple TV, Google TV &amp; Web (White-Label Streaming Apps)
+
+About us
+Launch TV is a Brisbane-based Connected TV agency. We build custom-branded streaming channels for businesses, creators, churches and organisations. We're looking for an experienced developer or small team to build our TV and web apps, with ongoing work for the right people.
+
+What we're building
+A premium streaming app similar in look and feel to Red Bull TV (redbull.tv), built as a white-label template we can re-brand and deploy for each client with minimal code changes.
+
+Phase 1 – MVP (this project)
+
+Home screen with hero/featured banner and horizontal content rails
+Live channel and VOD playback
+Show/episode detail pages
+Content loaded from a JSON feed, so content updates don't need app updates
+Branding config file (logo, colours, app name, feed URL)
+Support through store certification and publishing
+
+Phase 2 – paid separately
+EPG/schedule view, search, continue watching, ad support (SSAI/CSAI) and subscriptions/TVOD.
+
+Video delivery
+We use StreamHoster as our CDN (HLS for live and VOD). Experience with HLS players and third-party CDNs is essential.
+
+Platforms &amp; budget (AUD)
+
+Roku App (BrightScript / SceneGraph): $500 – $700
+Fire TV App: $500 – $700
+Apple TV App (tvOS – Swift/SwiftUI): $800 – $1,200
+Google TV / Android TV App: $500 – $700
+Web App (responsive, browser-based): $300 – $500
+
+You can quote for one platform or several. Developers who can deliver multiple platforms will be prioritised.
+
+Deliverables
+
+Full source code for each platform, owned by Launch TV
+Re-branding config for new client channels
+Store submission support (Roku Channel Store, Amazon Appstore, App Store, Google Play)
+Basic documentation for deploying new client channels
+
+Required
+
+Published TV apps you've built (please include store links)
+Solid experience with at least two of the platforms above
+HLS streaming and adaptive bitrate playback
+Good English and regular communication overlapping the Brisbane time zone (AEST)
+
+Nice to have
+
+Experience with Zype, Brightcove, JW Player or similar OTT platforms
+Ad integration (Google IMA, Roku RAF)
+Samsung Tizen / LG webOS experience for future projects
+
+To apply, please tell us:
+
+Links to TV apps you've published, and on which platforms
+Which platforms you're quoting for, with price and timeframe for each
+Your approach to a single white-label codebase across multiple clients
+Whether you work solo or with a team
+
+Applications without store links to previous TV apps won't be considered.
+
+The full set comes to $2,600–$3,800. I've marked the budget as AUD; switch it to USD if that's what you intend.</description></item>
 <item><title>OpenCart Upgrade &amp; Migration</title><link>https://www.freelancer.com/projects/web-development/OpenCart-Upgrade-Migration</link><guid isPermaLink="false">freelancer:40744087</guid><pubDate>Thu, 01 Oct 2026 08:45:26 GMT</pubDate><description>250-750 GBP | My ecommerce store is still running on OpenCart 2.0.1.1 and the platform is now holding us back. I want the entire site migrated to the latest stable OpenCart release so we benefit from stronger security and faster performance without changing the overall look and feel. Only light design tweaks are needed—think fresher typography, tidier spacing and a modern banner layout—while keeping the familiar structure our customers know.
 
 Key objectives  
@@ -670,21 +733,6 @@ Acceptance criteria
 4. I receive the final source files and admin credentials.
 
 If you’ve built professional service websites before—especially in the security or safety sector—let’s talk.</description></item>
-<item><title>Wordpress Site Update on GoDaddy</title><link>https://www.freelancer.com/projects/web-design/Wordpress-Site-Update-GoDaddy</link><guid isPermaLink="false">freelancer:40741035</guid><pubDate>Tue, 29 Sep 2026 19:50:47 GMT</pubDate><description>250-750 USD | I'm looking for a skilled Wordpress developer to update my site hosted on GoDaddy. I want to keep the current design with minor tweaks.
-
-Requirements:
-- Update the design and layout
-- Add new pages
-- Update existing content
-- Replace images
-
-Ideal skills and experience:
-- Proficiency in Wordpress
-- Experience with GoDaddy hosting
-- Strong design skills for minor tweaks
-- Ability to manage content updates efficiently
-
-Please provide examples of previous work and a brief outline of your approach.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
