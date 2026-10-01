@@ -3,6 +3,58 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SaaS for Insurance Broker Commission Tracker</title><link>https://www.freelancer.com/projects/saas-development/SaaS-for-Insurance-Broker-Commission</link><guid isPermaLink="false">freelancer:40745011</guid><pubDate>Thu, 01 Oct 2026 19:30:58 GMT</pubDate><description>5000-10000 CAD | Insurance Broker SaaS Web App – Book of Business &amp; Commission Tracking
+
+I’m looking for an experienced SaaS developer or development team to build a simple, modern web application for individual insurance brokers/producers.
+
+The main purpose is to help brokers manage their personal book of business, expected commissions, actual commission payments, unpaid/partial commissions, and renewals—as a better alternative to Excel spreadsheets.
+
+Core Features
+
+* Broker signup/login with a 3-day free trial
+* Monthly and annual membership plans
+* Personal book of business
+* Client and policy management
+* Premium and commission tracking
+* Automatic expected commission calculation
+* Dashboard showing expected, paid, unpaid and partial commissions
+* Upload commission statements in Excel/CSV and supported PDF formats
+* Automatic matching of commission statements against the broker’s book
+* Identify paid, unpaid, partial and mismatched commissions
+* Manual review and correction of matches
+* Statement history and reconciliation records
+* Renewal tracking with upcoming renewal views
+* Basic reports and Excel/CSV export
+* Responsive design for mobile, tablet and desktop
+* Secure user data isolation
+* Admin panel for users, memberships, trial settings and website/pricing content
+
+Future-Ready Architecture
+
+The system should be designed so future features can be added without rebuilding the application, including:
+
+* Google/Gmail login
+* Email and push notifications
+* Client policy-change request forms
+* Optional client communication campaigns
+* Additional insurance carrier statement formats
+
+This is not intended to be a full brokerage AMS/CRM. The goal is a focused, easy-to-use productivity and commission reconciliation tool for individual brokers.
+
+I’m open to your recommended technology stack, but the solution should use a modern, scalable architecture and provide full source-code ownership and documentation.
+
+Please include in your proposal:
+
+* Your fixed project price
+* Estimated timeline
+* Recommended technology stack
+* Relevant SaaS/financial/reconciliation experience
+* Examples of similar projects
+* Development milestones
+* Hosting and third-party costs
+* Post-launch support/maintenance options
+
+I will provide the more detailed project specification to shortlisted developers.</description></item>
 <item><title>AI-Built Educational Site With Videos</title><link>https://www.freelancer.com/projects/ai-hw-sw/Built-Educational-Site-With-Videos</link><guid isPermaLink="false">freelancer:40744806</guid><pubDate>Thu, 01 Oct 2026 16:56:32 GMT</pubDate><description>250-750 USD | I’m putting together a straightforward informational website that will host educational resources supported by video tutorials. The plan is to lean on an AI-assisted builder (whether that’s Wix ADI, WordPress + an AI design plugin, Framer AI, or a similar tool) so the layout, colour palette, and typography come together quickly, but I still expect a polished, human-checked finish.
 
 Here’s what I need from you:
@@ -692,19 +744,6 @@ The completed website must be:
 
 **Please provide examples of websites you have designed and SEO-optimized, preferably for insurance, healthcare, financial, or other service businesses.**
 </description></item>
-<item><title>AI-Powered TikTok Shop Setup</title><link>https://www.freelancer.com/projects/video-editing/Powered-TikTok-Shop-Setup</link><guid isPermaLink="false">freelancer:40741203</guid><pubDate>Tue, 29 Sep 2026 22:13:45 GMT</pubDate><description>250-750 USD | I need an expert to jumpstart my TikTok shop for health and beauty products using AI.
-
-Requirements:
-- AI-generated videos on product tutorials, customer testimonials, and promotional offers.
-- Daily video posts.
-- Automated scheduling and posting.
-
-Ideal skills:
-- Experience with TikTok and AI tools.
-- Video creation and editing skills.
-- Knowledge of health and beauty industry trends.
-
-Looking for someone who can streamline this process and engage potential customers effectively.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
