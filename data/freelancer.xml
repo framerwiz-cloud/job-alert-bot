@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clean &amp; Restore Hacked WordPress Site</title><link>https://www.freelancer.com/projects/cpanel/Clean-Restore-Hacked-WordPress-Site</link><guid isPermaLink="false">freelancer:40743462</guid><pubDate>Thu, 01 Oct 2026 00:42:23 GMT</pubDate><description>30-250 AUD | My WordPress site was recently compromised and the pages are now visibly defaced. I can no longer show the original content to visitors and I am uncertain whether any usable backups exist. I need someone to scour the installation for injected code, rogue users, altered database entries, and any other artefacts the intruder may have left behind, then return everything to its pre-hack state.
+
+Here is what I expect:  
+• Complete malware and file-integrity scan, removal of malicious scripts, and verification that no backdoors remain.  
+• Restoration of the original theme, pages, media, and menus from working copies you locate or rebuild manually if backups prove unusable.  
+• Repair of database tables so the defaced content is fully replaced with authentic data.  
+• A concise report outlining what was found, the exact steps you took, and recommendations for ongoing security (updates, hardening, firewall or security plugin configuration, and routine backup strategy).
+
+You will receive full cPanel/FTP and wp-admin credentials to carry out the work in a staging environment before pushing the clean site live. Once clean and stable, please double-check that core, themes, and plugins are patched to current versions without breaking functionality.
+
+Successful delivery means the front end matches the original look and the admin area is free of suspicious code, with automated backups and basic security monitoring switched on.</description></item>
 <item><title>Fix DreamHost Landing Page</title><link>https://www.freelancer.com/projects/dns/Fix-DreamHost-Landing-Page</link><guid isPermaLink="false">freelancer:40743394</guid><pubDate>Wed, 30 Sep 2026 23:42:12 GMT</pubDate><description>30-250 USD | My static landing page is sitting inside my DreamHost account, but when I type my domain into a browser nothing loads—just a blank, unreachable page. I’m looking for someone who can quickly identify why the page isn’t resolving and get it displaying publicly.
 
 Here’s what I know so far:
@@ -759,23 +770,6 @@ I am specifically looking for someone with experience building service-business 
 Reference website: Maid4Condos.com
 
 Please include examples of similar websites or booking/quote systems you have built.</description></item>
-<item><title>WooCommerce Payment &amp; Review Setup</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Payment-Review-Setup</link><guid isPermaLink="false">freelancer:40740710</guid><pubDate>Tue, 29 Sep 2026 16:26:39 GMT</pubDate><description>750-1500 CAD | JOB POSTING: E-Commerce Web Builder Needed to Migrate Replit Prototype (NDA Required)
-
-Female developer based from US/Canada
-PROJECT OVERVIEW
-We are launching Meemee, an anti-oxidation razor caddy brand designed to extend blade life by preventing micro-rust. We currently have a working layout and prototype hosted on Replit, complete with high-res graphics, electron microscope proof, and brand mascot assets (Mizzy &amp; Razoman). 
-We need a skilled e-commerce developer to migrate our Replit prototype into a fully functioning Direct-to-Consumer (DTC) store (open to platform recommendations like WooCommerce or BigCommerce for low recurring overhead).
-SCOPE OF WORK
-• Replit Migration: Review our existing layout on Replit and reconstruct it into a polished, high-converting e-commerce store.• Subscription Integration: Configure a recurring billing system to handle auto-deliveries seamlessly.• Landing Page Setup: Build a dedicated launch page for our women's brand asset (Mizzy) featuring a "Free Caddy with Subscription" promotional offer.• Store Setup &amp; Checkout: Connect domain, configure checkout, set up payment gateways, and establish basic shipping rules.• Mobile Optimization: Ensure responsive, flawless design across mobile and desktop devices.
-REQUIRED QUALIFICATIONS
-• Proven experience building DTC e-commerce stores with active subscription models.
-• Ability to translate custom code/layouts from Replit into clean platform architecture.
-• Strong attention to mobile responsiveness, speed optimization, and secure billing management.
-TO APPLY (IMPORTANT)
-1. Start your response with the word MIZZY so we know you read this full posting.
-2. Confirm that you are willing to sign our standard 1-page Non-Disclosure Agreement (NDA) before reviewing detailed product files, brand assets, or Replit code.
-3. Share 2–3 links to live e-commerce stores you have built (preferably with active subscription models).
-Note: Generic proposals or messages without the keyword "MIZZY" will be archived immediately.</description></item>
 <item><title>Digital Product E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Digital-Product-Commerce-Website-40739745</link><guid isPermaLink="false">freelancer:40739745</guid><pubDate>Tue, 29 Sep 2026 06:46:31 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch an e-commerce site dedicated to selling digital products—think downloadable files, licenses, or resource packs—and I need a designer who can take it from concept to a polished, revenue-ready platform. The store has to feel clean and intuitive, work flawlessly on mobile, and, most importantly, feature a rock-solid secure payment gateway so my customers can pay with confidence. PayPal, Stripe, or a similarly trusted solution is fine as long as transactions remain fully encrypted and compliant.
 
 I already have the product files prepared, so I’ll supply those assets along with branding guidelines. What I need from you is the complete front-end and back-end setup: modern UI/UX, product pages that showcase each file clearly, a streamlined checkout, and an admin area where I can add new digital items without touching code. If you suggest an established CMS (Shopify, WooCommerce, or comparable), let me know why it’s the best fit; a custom build is also on the table if it stays lightweight and secure.
