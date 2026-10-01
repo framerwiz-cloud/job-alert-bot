@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>OpenCart Upgrade &amp; Migration</title><link>https://www.freelancer.com/projects/web-development/OpenCart-Upgrade-Migration</link><guid isPermaLink="false">freelancer:40744087</guid><pubDate>Thu, 01 Oct 2026 08:45:26 GMT</pubDate><description>250-750 GBP | My ecommerce store is still running on OpenCart 2.0.1.1 and the platform is now holding us back. I want the entire site migrated to the latest stable OpenCart release so we benefit from stronger security and faster performance without changing the overall look and feel. Only light design tweaks are needed—think fresher typography, tidier spacing and a modern banner layout—while keeping the familiar structure our customers know.
+
+Key objectives  
+• Preserve every product, customer record, order history, SEO-friendly URL and existing extension that is still compatible, migrating them safely to the new database schema.  
+• Optimise the new build for speed (caching, image compression, database cleanup) and lock down security with best-practice server and OpenCart hardening.  
+• Refine the checkout flow and shipping logic: fewer steps, clear error handling, automatic postcode validation and more transparent carriage options.  
+• Thorough cross-browser and mobile testing before go-live, followed by a smooth switchover that ensures zero downtime for customers.
+
+Deliverables  
+1. Development copy of the upgraded site on a staging server.  
+2. Full data migration scripts and documentation.  
+3. Updated theme files with the agreed minor design changes.  
+4. Configured checkout and shipping enhancements.  
+5. Post-deployment support window to catch any edge-case issues.
+
+Acceptance criteria: the new site must load noticeably faster than the current build (Core Web Vitals in the green), pass an external vulnerability scan, and complete a full test purchase—including shipping calculation—without error.
+
+I can provide SSH, cPanel and current admin access as soon as we kick off.
+
+ww.wroughtironcomponents.co.uk</description></item>
 <item><title>Sellauth API Integration to WordPress Site</title><link>https://www.freelancer.com/projects/api-integration/Sellauth-API-Integration-WordPress-Site</link><guid isPermaLink="false">freelancer:40744062</guid><pubDate>Thu, 01 Oct 2026 08:32:27 GMT</pubDate><description>50-1000 CAD | I already have a fully functional WordPress site and I’d like to connect it to the Sellauth.com API. My goal is to hook into the API’s endpoints so users can seamlessly interact with Sellauth without ever leaving my site. I’m open to guidance on which parts of the site should call the API first—login, checkout, dashboard, or any other template you feel is most efficient—but the final result must be cleanly coded, secure, and future-proof.
 
 You’ll be working in a standard LAMP-based WordPress environment (PHP 8, latest WP core, custom theme). I need:
@@ -679,26 +699,6 @@ The site should be clean, mobile-friendly, and built on a platform I can update 
 Strong visuals are important, so make sure the design showcases project photos prominently and loads quickly. Once complete, hand over: the full site files or CMS credentials, the logo source files, and brief instructions for routine edits (adding photos, changing text).  
 
 If you can deliver a polished, cohesive package that reflects craftsmanship and community focus, let’s get started.</description></item>
-<item><title>Security Company Website Development</title><link>https://www.freelancer.com/projects/web-development/Security-Company-Website-Development-40741054</link><guid isPermaLink="false">freelancer:40741054</guid><pubDate>Tue, 29 Sep 2026 20:06:08 GMT</pubDate><description>250-750 CAD | I run a physical-security firm and I’m ready to give our brand a solid online presence. The site’s main purpose is to reassure prospects, explain our services clearly, and make it effortless for visitors to reach out.
-
-Core features I need  
-• Service descriptions that outline each physical-security offering in plain, persuasive language  
-• A contact form that routes inquiries straight to my email and is protected by basic spam control  
-• Client testimonials displayed in a way that builds trust and social proof
-
-Style &amp; structure  
-The overall feel should be clean, modern, and authoritative—think strong visuals, concise copy, and intuitive navigation that works just as smoothly on mobile as on desktop. I’ll supply logos, brand colours, and any imagery you need.
-
-Tech &amp; hand-off  
-I’m comfortable with WordPress, Webflow, or a lightweight custom build—use whichever stack lets me update text and photos without coding. When we’re done, I want the live site deployed to my hosting and a quick walkthrough (screen share or doc) on how to edit content.
-
-Acceptance criteria  
-1. All three core features above are fully functional.  
-2. Pages load in under three seconds on 4G according to PageSpeed Insights.  
-3. Basic on-page SEO (titles, meta descriptions, alt text) is in place.  
-4. I receive the final source files and admin credentials.
-
-If you’ve built professional service websites before—especially in the security or safety sector—let’s talk.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
