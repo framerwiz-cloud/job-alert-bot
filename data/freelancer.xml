@@ -510,17 +510,6 @@ Deliverables
 • Clear instructions for updating text and RSVP email address  
 
 Once you send initial concepts, I’ll give quick feedback so we can lock the style before you move to full production.</description></item>
-<item><title>Clean &amp; Restore Hacked WordPress Site</title><link>https://www.freelancer.com/projects/cpanel/Clean-Restore-Hacked-WordPress-Site</link><guid isPermaLink="false">freelancer:40743462</guid><pubDate>Thu, 01 Oct 2026 00:42:23 GMT</pubDate><description>30-250 AUD | My WordPress site was recently compromised and the pages are now visibly defaced. I can no longer show the original content to visitors and I am uncertain whether any usable backups exist. I need someone to scour the installation for injected code, rogue users, altered database entries, and any other artefacts the intruder may have left behind, then return everything to its pre-hack state.
-
-Here is what I expect:  
-• Complete malware and file-integrity scan, removal of malicious scripts, and verification that no backdoors remain.  
-• Restoration of the original theme, pages, media, and menus from working copies you locate or rebuild manually if backups prove unusable.  
-• Repair of database tables so the defaced content is fully replaced with authentic data.  
-• A concise report outlining what was found, the exact steps you took, and recommendations for ongoing security (updates, hardening, firewall or security plugin configuration, and routine backup strategy).
-
-You will receive full cPanel/FTP and wp-admin credentials to carry out the work in a staging environment before pushing the clean site live. Once clean and stable, please double-check that core, themes, and plugins are patched to current versions without breaking functionality.
-
-Successful delivery means the front end matches the original look and the admin area is free of suspicious code, with automated backups and basic security monitoring switched on.</description></item>
 <item><title>TikTok Shop Setup for Apparel</title><link>https://www.freelancer.com/projects/social-media-marketing/TikTok-Shop-Setup-for-Apparel</link><guid isPermaLink="false">freelancer:40743227</guid><pubDate>Wed, 30 Sep 2026 20:53:00 GMT</pubDate><description>250-750 USD | I need assistance setting up my established clothing and accessories brand on TikTok Shop. 
 
 Key tasks include:
@@ -752,6 +741,46 @@ Deliverables
 • Admin dashboard walkthrough and short hand-off document  
 
 When you reply, please link to past work that shows live e-commerce sites you’ve built—fashion or apparel projects are a big plus.</description></item>
+<item><title>Wix to Wordpress replication -- 2</title><link>https://www.freelancer.com/projects/website-design/Wix-Wordpress-replication</link><guid isPermaLink="false">freelancer:40741506</guid><pubDate>Wed, 30 Sep 2026 02:32:59 GMT</pubDate><description>250-750 AUD | The task is to recreate my existing minimalist Wix website in WordPress. I'm reposting this as I'm finally read to move forward with the job.
+
+I am building and finalising the design myself in Wix first. The completed Wix site will be the visual source of truth. This is not a design or redesign job.
+
+The WordPress version should reproduce the Wix site as closely as technically possible, including:
+
+Fonts and typography
+Font weights and sizes
+Grid, layout and alignment
+Spacing and proportions
+Colours and hover states
+Navigation and page structure
+Images and other media
+Responsive desktop and mobile layouts
+
+The site is a relatively simple musician/producer portfolio site. There are no complex ecommerce or database requirements.
+
+I'm currently leaning towards a lightweight GeneratePress build for clean markup and performance, but I'm open to another approach if you have a good technical reason for it.
+
+Technical requirements:
+
+The site should remain fully responsive and follow basic technical SEO best practices:
+Semantic HTML5
+Correct heading hierarchy
+Page titles/meta
+Sitemap output
+No content or design changes are required.
+Acceptance criteria
+
+The finished WordPress site will be reviewed side-by-side against the Wix site on desktop and mobile.
+
+Anything visually noticeable should be refined until it closely matches the Wix version.
+
+When bidding, please include:
+
+How you would reproduce the existing Wix design accurately — particularly fonts, colours, spacing and layout.
+The WordPress tools/theme/builder you would use and why.
+One or two relevant examples where you have recreated an existing design or built a site requiring a high degree of visual fidelity.
+
+I will provide the completed Wix site, screen recording/reference material and WordPress access once we agree on the approach.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
