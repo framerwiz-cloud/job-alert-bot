@@ -3,6 +3,119 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build the "HospoHelper" Website</title><link>https://www.freelancer.com/projects/website-design/Build-the-HospoHelper-Website</link><guid isPermaLink="false">freelancer:40745506</guid><pubDate>Fri, 02 Oct 2026 04:03:55 GMT</pubDate><description>10-4000 AUD | WEB DEVELOPER WANTED — HOSPOHELPER
+
+I’m looking for a web developer interested in helping me turn an idea I’ve been working on into a functioning website.
+
+The idea: HospoHelper
+
+HospoHelper is a free website aimed at helping young and casual hospitality workers in Australia understand what they should actually be getting paid — and what they can do if something doesn’t look right.
+
+The idea comes from a pretty significant problem: underpayment remains widespread in Australia’s hospitality sector.
+
+The Fair Work Ombudsman identifies fast food, restaurants and cafés as a priority sector because of persistent and significant non-compliance. In 2024–25 alone, the regulator recovered $3.1 million for 1,814 underpaid workers in the sector.¹
+
+And individual compliance operations have found striking rates of non-compliance. Recent Fair Work investigations found:
+
+* 93% of investigated food businesses in a Perth operation had breached workplace laws, with more than $769,000 recovered for 379 workers.²
+* 81% of businesses investigated during a south-east Melbourne operation had breached workplace laws.³
+* In 2023–24, $5.6 million was recovered for 3,056 underpaid workers in fast food, restaurants and cafés nationally.⁴
+
+The problem is particularly relevant to younger workers. The Fair Work Ombudsman notes that the sector employs large numbers of young people, casual and part-time workers and visa holders, some of whom may be unaware of their workplace rights or reluctant to speak up when something seems wrong.¹
+
+At the same time, actually figuring out what you’re entitled to isn’t necessarily straightforward.
+
+Awards, classifications, casual loading, evening rates, weekend penalty rates, overtime, allowances and public holidays can all affect what someone should receive.
+
+For a university student working a few shifts at a pub, café or restaurant, answering one basic question can therefore become surprisingly complicated:
+
+“I worked these hours this week. How much should I have been paid?”
+
+That’s the question I want HospoHelper to make much easier to answer.
+
+How it would work
+
+The initial version of HospoHelper would centre around a simple, user-friendly wage calculator.
+
+A worker could enter information such as:
+
+* their age and employment type;
+* their role/classification;
+* the days and hours they worked;
+* breaks;
+* weekend/evening work;
+* whether a shift fell on a public holiday; and
+* what they were actually paid.
+
+HospoHelper would then provide an estimated amount they should have received, explain how that estimate was calculated, and allow them to compare it against their actual pay.
+
+For example:
+
+Estimated pay: $842.60
+Actual gross pay: $764.20
+Potential difference: $78.40
+
+But I don’t want the website to stop at identifying a possible discrepancy.
+
+“I think I’ve been underpaid. What now?”
+
+One feature I’d particularly like to explore is a guided underpayment pathway.
+
+If HospoHelper identifies a potential discrepancy, the user could be taken through a simple step-by-step process explaining what they can do next.
+
+This could include helping the user:
+
+1. Double-check their pay
+Understand their classification, applicable rates and exactly how the estimate was calculated.
+
+2. Check their payslip
+Know what information to look for and identify where a discrepancy might have occurred.
+
+3. Raise it with their employer
+HospoHelper could generate a simple, non-confrontational message that the worker can send to their manager asking them to check their pay.
+
+4. Keep the right records
+Explain the importance of retaining things like payslips, rosters, timesheets, employment documents and relevant messages.
+
+5. Know where to go next
+If the issue isn’t resolved, provide straightforward information about external assistance and direct users towards official resources such as the Fair Work Ombudsman.
+
+The aim isn’t for HospoHelper to replace professional or official advice or definitively determine that an employer has broken the law.
+
+It’s about giving workers an accessible starting point to check their pay, understand it, and know what they can do if something doesn’t seem right.
+
+Where it’s currently at
+
+This is an early-stage concept.
+
+I’ve purchased the domain and have the core idea, target audience and initial functionality in mind, but I’m looking for someone with the technical skills to help turn it into a working product.
+
+I’m also very open to ideas about additional functionality and how HospoHelper could develop beyond the initial MVP.
+
+Who I’m looking for
+
+I’m looking for someone with web development experience who could help take HospoHelper from concept to a functioning MVP.
+
+You don’t necessarily need years of professional experience. I’d be interested in speaking with university students, recent graduates, freelancers or experienced developers who like the idea and think they could build it.
+
+Experience with responsive web development, databases/APIs, UI/UX, web calculators or similar projects would obviously be useful.
+
+Most importantly, I’m looking for someone reliable who is interested in helping create something that could be genuinely useful for young Australian workers.
+
+Payment/budget: Open to discussion depending on the proposed approach and scope.
+
+If this sounds interesting, send me a message with a little about yourself, anything you’ve built previously, and how you think you’d approach the project.
+
+Happy to share more details and chat through the idea privately.
+
+⸻
+
+Sources
+
+1. Fair Work Ombudsman, Annual Report 2024–25.
+2. Fair Work Ombudsman, More than $760,000 recovered for Perth workers, 27 June 2024.
+3. Fair Work Ombudsman, $58,000 back-paid to Melbourne food staff, 1 August 2024.
+4. Fair Work Ombudsman, Fast Food, Restaurants &amp; Cafés compliance data, 2023–24.</description></item>
 <item><title>Website Content &amp; SEO Refresh</title><link>https://www.freelancer.com/projects/website-design/Website-Content-SEO-Refresh</link><guid isPermaLink="false">freelancer:40745411</guid><pubDate>Fri, 02 Oct 2026 02:31:41 GMT</pubDate><description>50-100 USD | My existing website is solid on the technical side but the content is dated and not doing me any favours in search. I need a content-focused overhaul that keeps the current design intact while making every page SEO friendly.
 
 Scope of work  
@@ -720,19 +833,6 @@ Deliverables
 5. Two weeks of post-launch support for minor tweaks or bug fixes.
 
 If this sounds like a project you can light up, tell me which platform you’d use and show a couple of modern e-commerce sites you’ve built.</description></item>
-<item><title>Detailing Business Website Build</title><link>https://www.freelancer.com/projects/web-design/Detailing-Business-Website-Build</link><guid isPermaLink="false">freelancer:40742536</guid><pubDate>Wed, 30 Sep 2026 13:43:14 GMT</pubDate><description>250-750 USD | I’m ready to get a clean, professional multi-page site online that clearly advertises the prices and packages for my auto-detailing business. The structure is straightforward:
-
-• Home – a strong first impression that quickly tells visitors who we are and why our detailing stands out.  
-• Services – individual sub-sections for each package with pricing tables that are easy to skim on mobile.  
-• Contact Us – simple form plus click-to-call and Google Maps embed so local customers can reach me fast.  
-• About Us – a short story of the business, crew photos, and trust badges.  
-• Gallery – before-and-after shots laid out in a responsive grid, light-box enabled.
-
-I’ll supply all copy, logos, and images; you bring modern design, WordPress (or a comparable CMS), basic on-page SEO, and the technical build. The finished site should load quickly, look great on phones, and be easy for me to update when prices change.
-
-Acceptance for hand-off: working site on my hosting, admin credentials, and a brief Loom walkthrough of how to edit content.
-
-If you’ve built service-based sites with clear pricing tables before, let’s get started.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
