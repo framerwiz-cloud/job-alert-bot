@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Integrated Car Auction Website  &amp; Marketing for the Car broker and dealership </title><link>https://www.freelancer.com/projects/web-development/Integrated-Car-Auction-Website-Marketing</link><guid isPermaLink="false">freelancer:40745643</guid><pubDate>Fri, 02 Oct 2026 05:36:22 GMT</pubDate><description>30-250 USD | The project combines a subscription-based car auction platform with an always-on marketing engine.  
+
+Website scope  
+• Feed integration from several auction sources so members can view inventory in real time.  
+• Live bidding functionality and detailed car pages are non-negotiable; the flow must feel as seamless as the original auction sites.  
+• A gated paywall: visitors browse freely, but bidding and “buy now” unlock once they purchase a subscription.  
+• A dedicated Marketing and promotional content section where fresh videos, posts and offers keep buyers engaged and improve SEO.  
+
+Marketing deliverables  
+I will need ongoing content for the dealership—short videos of new arrivals, written posts that demystify the buying process, and Google-focused website copy that funnels traffic straight to the auction feed. “Website, marketing and google” sum up the channels that matter most to me, but I’m open to repurposing pieces for social media when it makes sense.  
+
+Tech and creative preferences  
+Feel free to choose the stack—WordPress + custom plugins, Laravel, MERN, or any other proven route—as long as it supports real-time data pulls and secure payments. For the marketing side, native video editing tools, Canva, or Adobe Premiere are fine; accuracy and quick turnaround beat fancy effects.  
+
+Acceptance criteria  
+1. Responsive website deployed on my hosting, subscription checkout tested and working.  
+2. Auction feed updates automatically; at least two live test bids placed in a staging environment.  
+3. First month’s marketing package delivered: three short videos, three promotional posts, and homepage copy optimized for Google.  
+4. Clear hand-off documentation so my team can add cars and schedule content without developer help.</description></item>
 <item><title>Web Developer Needed: News and Magazine Website</title><link>https://www.freelancer.com/projects/web-development/Web-Developer-Needed-News-Magazine</link><guid isPermaLink="false">freelancer:40745619</guid><pubDate>Fri, 02 Oct 2026 05:26:10 GMT</pubDate><description>30-250 CAD | About the Project
 We are an independent, journalist-driven online newspaper with an international focus, launching our own website. We cover three core sections: Politics, Economy, and Culture. We want a polished, professional publication in the style of The Atlantic, with a membership model similar to Public Notice.
 
@@ -836,13 +855,6 @@ Ideal Skills and Experience:
 - Creative mindset to design engaging ad content
 
 Please include examples of previous successful campaigns in your bids.</description></item>
-<item><title>Shopify Store for 5G SIMs</title><link>https://www.freelancer.com/projects/web-development/Shopify-Store-for-SIMs</link><guid isPermaLink="false">freelancer:40742492</guid><pubDate>Wed, 30 Sep 2026 16:24:18 GMT</pubDate><description>30-250 USD | Hallo
- Before we start, I want to make sure we align on the exact customer journey, website, and mobile apps (iOS &amp; Android) flow for View:
-1.Plan Selection on Website: The customer visits the mobile-first website and chooses a 5G SIM plan
-.2. Data &amp; SEPA Payment: They fill out a personal info form and enter their IBAN for SEPA Direct Debit (monthly subscription via Stripe).
-3. Welcome Credentials: After checkout, they receive a welcome letter/email containing their username and password.
-4. App Login &amp; Verification: The customer logs into the iOS or Android app, registers their SIM card number, and uploads their passport/ID document for legal verification to activate the line.
-With respect </description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
