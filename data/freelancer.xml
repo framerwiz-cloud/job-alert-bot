@@ -3,6 +3,78 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Upload ABB &amp; Wix Redirects</title><link>https://www.freelancer.com/projects/wix/Upload-ABB-Wix-Redirects</link><guid isPermaLink="false">freelancer:40745782</guid><pubDate>Fri, 02 Oct 2026 06:47:22 GMT</pubDate><description>30-250 AUD | The project scope has been fully expanded to include the layout updates for your two existing live applications. The master Project Proposal &amp; Scope of Work (SOW) now spans a grand total of five (5) featured image listings alongside your master developer banner profile setup and the four (4) Wix routing engines.
+You can copy and paste this complete, finalized contract document straight into your [Freelancer.com](https://www.freelancer.com/) project panel.
+------------------------------
+##  Project Proposal &amp; Scope of Work (SOW)## 1. Project Summary
+Deployment of three (3) brand-new production Android application bundles (.aab files) to the client's Google Play Console, simultaneous storefront visual asset updates for two (2) existing live applications, master developer profile banner optimization, and custom programmatic front-end updates using Wix Velo to handle conditional role-based redirects for four (4) distinct membership tiers.
+------------------------------
+## 2. Detailed Task Breakdown &amp; Deliverables## Task 1: Google Play Console Deployment &amp; Storefront Updates (5 Apps Total + Profile Header)
+
+* Developer Profile Header Banner Update: Update the master Developer Page Profile Header banner graphic using the provided custom 4096 × 2304 pixel image (Opaque/Solid Background). Ensure text safe-zones render correctly without breaking layouts on both mobile and desktop viewports.
+* Storefront Image Updates for Existing Apps (2 Apps):
+* Access the storefront listings for the two (2) applications currently live on the Google Play Store.
+   * Remove the legacy background graphics and upload the updated custom 1024 × 500 pixel Feature Graphics provided by the client.
+* New App Asset Upload &amp; Configuration (3 New Apps): Set up, configure, and launch the store listing layouts using the provided production .aab bundles generated via WebToAPK.
+* Compliance Setup: Link the official corporate privacy policy page: gritz.id.
+* Mandatory Review Provision: Input active tester user credentials inside the "App Access" portal fields so Google's manual testing engineers can bypass the login walls to review page functionality.
+* Listing Graphics Management (Per New App Verification):
+* New App 1 (Gritz Grosir): Upload the 512x512 App Icon (with alpha transparency), the 1024x500 Feature Graphic, and a minimum of 2 to 8 mandatory 16:9/9:16 portrait phone screenshots. Tablet assets are completely excluded.
+   * New App 2 (Gritz Production): Upload the 512x512 App Icon (with alpha transparency), the 1024x500 Feature Graphic, and a minimum of 2 to 8 mandatory 16:9/9:16 portrait phone screenshots. Tablet assets are completely excluded.
+   * New App 3 (Gritz Food Delivery): Upload the 512x512 App Icon (with alpha transparency), the 1024x500 Feature Graphic, a minimum of 2 to 8 portrait phone screenshots, 2 to 8 landscape 7-inch tablet screenshots (1920x1200 pixels), and 2 to 8 landscape 10-inch tablet screenshots (1920x1200 pixels) to optimize algorithmic search indexes and tablet store formatting views.
+* Metadata &amp; Store Descriptions: Copy, paste, and publish the specific mixed-language text strings detailed below:
+
+## App 1: Gritz Grosir
+
+* App Title: Gritz Grosir
+* Short Description: Online ordering application for hotels and restaurant supplies.
+* Full Description: Gritz Grosir is an online ordering application for Hotels. Perlengkapan hotel, makanan &amp; perlengkapan restoran, produk kebersihan, dan banyak lagi—semuanya dari satu aplikasi
+
+## App 2: Gritz Production
+
+* App Title: Gritz Production
+* Short Description: Online ordering supply application for Gritz Restaurants and kitchens.
+* Full Description: Gritz Production is an online ordering application for Gritz Restaurants. Pesan makanan, minuman, kemasan, serta perlengkapan dapur dan kebersihan—semuanya dalam satu aplikasi.
+
+## App 3: Gritz Food Delivery
+
+* App Title: Gritz Food Delivery
+* Short Description: On-demand food delivery application for hotels and quick hospitality service.
+* Full Description: Gritz Food Delivery is an online ordering application for Gritz Restaurants. Pesan makanan, minuman, kemasan, serta perlengkapan dapur dan kebersihan—semuanya dalam satu aplikasi.
+
+## Google Play Data Safety Declaration Profile (Applies to all 3 new builds):
+
+* Nature of the Application: Native web-wrapper framing a secure online website portal supporting standard Google OAuth social logins.
+* Financial Details / In-App Payments: NO. The application features no integrated checkout engines, in-app purchases, or credit card collection forms.
+* Permissions Profile: NO phone camera usage, NO media storage permissions requested, and NO foreground/background GPS tracking mechanisms utilized inside these specific wrapper configurations.
+* User Account Security: Collects only fundamental account credentials (Username/Password/Email) strictly for system authentication. All data traffic is securely encrypted in transit.
+
+------------------------------
+## Task 2: Wix Velo Redirection Debugging &amp; Multi-Role Expansion
+
+* Role 1 Code Audit &amp; Fix (Automated Sign-up Tier):
+* Debug the pre-existing logic string tracking the case-sensitive dashboard role Menyewa Dan Mengoperasikan.
+   * Troubleshoot why this conditional loop currently fails to route users upon sign-up or landing.
+   * Correct the code path to firmly execute a redirect to the target URL layout: https://gritz.id
+* Role 2 Code Expansion (Manual Service Staff Tier):
+* Program a new intercept statement inside the primary routing array to isolate users assigned the role Service Staff.
+   * Force an instant transition to the specialized team dashboard upon portal entry: https://gritz.id
+* Role 3 Code Expansion (Manual Production Staff Tier):
+* Program an intercept statement inside the routing array to isolate users assigned the role Production Staff.
+   * Force an instant transition to the specialized production dashboard upon portal entry: https://gritz.id
+* Role 4 Code Expansion (Manual Delivery Staff Tier):
+* Program an intercept statement inside the routing array to isolate users assigned the role Delivery Staff.
+   * Force an instant transition to the specialized delivery dashboard upon portal entry: https://gritz.id
+* Web-Wrapper Execution Check: Ensure all Velo location statements (wixLocation.to) evaluate smoothly within a standard mobile web-wrapper environment (WebToAPK), implementing necessary viewport exceptions if required to completely prevent infinite page reload loops.
+
+------------------------------
+## 3. Project Milestones &amp; Release Conditions
+
+* Milestone 1 ($60.00 USD) — Wix Logic Completion: Released once all four (4) routing blocks are operational across desktop and mobile layouts, ensuring the existing bug is resolved and the three new roles map cleanly to their respective destination URLs.
+* Milestone 2 ($60.00 USD) — Google Play Store Submission: Released the moment all three (3) independent application packages clear pre-upload processing errors inside the console dashboard, the master profile header updates cleanly, both live apps display their new feature graphics, and all tracks transition into the official "Under Review" standing within production tracks.
+
+------------------------------
+Whenever your developer accepts the project and completes the code deployment tracks, let me know if you would like me to output the Wix Redirect Verification Script to test that the authentication logic loops are running correctly!</description></item>
 <item><title>Dessert Website Design with Gallery and Contact Features</title><link>https://www.freelancer.com/projects/web-design/Dessert-Website-Design-with-Gallery</link><guid isPermaLink="false">freelancer:40745768</guid><pubDate>Fri, 02 Oct 2026 06:37:39 GMT</pubDate><description>30-250 USD | I need a visually appealing and mobile-friendly dessert website designed to showcase my desserts, with the option to sell online in the future. I have existing branding (logo and materials) as well as content (photos and descriptions). I want an easy-to-update WordPress site that includes a gallery and contact form. Basic SEO setup is required to help the site rank in search engines. Ideal skills include WordPress design, gallery creation, responsive web design, and basic SEO knowledge. Creative input on style is welcome.</description></item>
 <item><title>Create Professional Mobile Welding Website</title><link>https://www.freelancer.com/projects/web-design/Create-Professional-Mobile-Welding</link><guid isPermaLink="false">freelancer:40745766</guid><pubDate>Fri, 02 Oct 2026 06:37:36 GMT</pubDate><description>30-250 CAD | I run Spark Metal Works Ltd., a mobile welding and metal-repair service that brings the shop to farms, job sites, and residential properties across Alberta. To present our brand online, I need a polished, professional, and clean website that instantly communicates convenience, reliability, and skill.
 
@@ -793,18 +865,6 @@ Ideal skills and experience:
 - E-commerce experience, particularly in the clothing and accessories sector
 - Graphic design skills for storefront aesthetics
 - Excellent communication skills for ongoing support</description></item>
-<item><title>Customized News Portal Development</title><link>https://www.freelancer.com/projects/full-stack-development/Customized-News-Portal-Development</link><guid isPermaLink="false">freelancer:40743217</guid><pubDate>Wed, 30 Sep 2026 20:40:09 GMT</pubDate><description>250-750 USD | I need a full-stack developer to craft a custom-built news portal that mirrors the structure and ease of use of Mongabay Brasil while adding dedicated spaces for News, Legislation, and Public Competitions. The stack is already defined: React on the front end and a Node.js back end.
-
-From the editor’s side everything must feel like a lightweight CMS—upload an article, assign it to the right section, hit publish, and see it go live instantly. Each new publication should trigger an automatic email to every subscriber on the list without any extra clicks from the editor. Theme styling should follow modern newsroom aesthetics but remain fully customizable, so future brand tweaks are painless.
-
-Key deliverables
-• Responsive React front end with three clearly separated content sections
-• Node.js (Express or similar) API, wired to a database you recommend for articles, users, and subscriptions
-• Simple, secure admin dashboard that lets an editor create, edit, schedule, and archive posts
-• Automated email alert system (SendGrid, Nodemailer or an equivalent you are comfortable with) fired on every new post
-• Deployment and basic documentation for hand-off so I can manage hosting, backups, and minor tweaks myself
-
-I’m looking for clean, well-commented code and a short walkthrough once everything is live. If you have previous newsroom or content-heavy site experience, that’s a plus—feel free to share links in your proposal.</description></item>
 <item><title>Startup Online Ads Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Startup-Online-Ads-Specialist</link><guid isPermaLink="false">freelancer:40743138</guid><pubDate>Wed, 30 Sep 2026 19:26:00 GMT</pubDate><description>100-350 GBP/hr | I'm looking for an experienced digital marketer to create and manage search engine ads to boost my startup's online presence. The primary platform will be Google, but I'm also interested in ads on ChatGPT and various social media channels. This could also be on a monthly hire basis  
 
 Key Tasks:
