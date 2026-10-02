@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Automated MCA Underwriting CRM Build</title><link>https://www.freelancer.com/projects/api/Automated-MCA-Underwriting-CRM-Build</link><guid isPermaLink="false">freelancer:40746957</guid><pubDate>Fri, 02 Oct 2026 20:49:33 GMT</pubDate><description>10000-20000 USD | I need a purpose-built CRM that streamlines the entire Merchant Cash Advance underwriting flow. The core of the project is true underwriting automation: the system must pull applicant data, run real-time risk assessment, verify uploaded documents for authenticity, and calculate credit scores that fit MCA criteria.
+
+Deliverables  
+• Fully functional web CRM with underwriting automation modules (risk assessment, document verification, credit scoring)  
+• Live integrations to agreed third-party data providers with fallback handling for API downtime  
+• Source code and technical documentation covering architecture, data flow, and deployment steps  
+• Brief onboarding guide for underwriters and an admin panel walkthrough  
+• Post-launch support to fix critical defects detected in the first 30 days
+
+Acceptance criteria  
+1. An uploaded application reaches an underwriting decision in one click, completing all three automation steps.  
+2. Each automated decision logs the raw data, rules triggered, and final score for audit review.  
+3. Switching any data provider requires no code changes beyond the integration layer.  
+4. System withstands a simulated 50 concurrent application load without noticeable delay (&lt;2 s per step).
+
+Suggest the stack you are strongest with—whether that’s Node.js + React, Laravel + Vue, or .NET—and outline your approach to security and data compliance when you place your bid.</description></item>
 <item><title>Integrate WooCommerce, n8n and Customer.io</title><link>https://www.freelancer.com/projects/n8n/Integrate-WooCommerce-Customer</link><guid isPermaLink="false">freelancer:40746884</guid><pubDate>Fri, 02 Oct 2026 19:40:50 GMT</pubDate><description>30-250 USD | ### WooCommerce → n8n → Customer.io Integration
 
 I’m looking for someone to set up a reliable integration between **WooCommerce, n8n, and Customer.io**.
@@ -887,72 +903,6 @@ Deliverables
 • Two rounds of revisions after the first working draft
 
 I will provide brand colors, copy, and images; you handle the rest—from layout and UI decisions to any necessary plug-ins or integrations. If you can demonstrate previous work where the primary goal was selling services, I’ll prioritize that.</description></item>
-<item><title>Expert Naturopathy Website Designer/Developer Needed</title><link>https://www.freelancer.com/projects/web-design/Expert-Naturopathy-Website-Designer</link><guid isPermaLink="false">freelancer:40745073</guid><pubDate>Thu, 01 Oct 2026 20:14:39 GMT</pubDate><description>250-750 AUD | **Website Designer/Developer Wanted – Naturopathy Practice**
-
-I’m looking for someone to create a **professional, modern and beautiful website** for my naturopathy practice.
-
-### The website
-
-* Approximately 5–7 pages
-* Clean, modern, warm and professional aesthetic
-* Focus on **naturopathy, fertility and women’s health**
-* Easy to navigate
-* Fully mobile-friendly
-* Professional without feeling too clinical
-* Fast and easy to use
-* Easy for me to edit and update myself
-* Own domain name
-* **Cliniko integration** for online bookings
-* Payment links
-* Contact/enquiry form
-* Social media links
-
-### SEO &amp; Google
-
-* Website set up correctly for **Google SEO**
-* Basic keyword research relevant to naturopathy, fertility and women’s health
-* SEO-friendly page titles, headings and descriptions
-* Google Search Console and Google Analytics setup
-* Advice on improving Google visibility and attracting new clients
-* Ideally, experience with websites that rank well in Google
-* Please provide examples if you have experience with SEO for health/wellness businesses
-
-### Advertising &amp; attracting clients
-
-* Experience with **Google Ads and/or Facebook/Instagram advertising** would be a bonus
-* I’d like advice on how the website can be used to attract new clients
-* Please indicate if you offer ongoing SEO or advertising services separately
-
-### I can provide
-
-* Logo/branding
-* Photos
-* Written content
-* Information about my services
-
-### I’m looking for someone who
-
-* Has a strong eye for design
-* Has experience creating health/wellness websites
-* Can recommend the best platform to use
-* Can create something polished and professional rather than a basic generic template
-* Understands SEO and online marketing
-* Will give me full access and ownership of the website once completed
-* Can explain things clearly and keep the process simple
-
-### Please include
-
-* Examples of websites you have created
-* Examples of similar health/wellness websites if available
-* Your recommended platform and why
-* **Fixed price** for the complete project
-* Estimated timeframe
-* What is included
-* Number of revisions included
-* Any ongoing costs I should be aware of
-* Whether you offer ongoing website/SEO support after launch
-
-I’m looking for a **beautiful, professional website that is easy for me to manage myself, ranks well on Google and helps me attract new clients.**</description></item>
 <item><title>Webflow UX Overhaul &amp; Integrations</title><link>https://www.freelancer.com/projects/webflow/Webflow-Overhaul-Integrations</link><guid isPermaLink="false">freelancer:40744629</guid><pubDate>Thu, 01 Oct 2026 14:57:29 GMT</pubDate><description>10-15 GBP/hr | I want to take my current Webflow site well beyond a simple template refresh. The primary objective is to improve user experience from the first fold to the checkout/contact point, while giving every page new, on-brand imagery and graphics that feel cohesive and modern.
 
 Here’s the scope:
