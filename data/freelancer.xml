@@ -3,6 +3,40 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Web Developer Needed: News and Magazine Website</title><link>https://www.freelancer.com/projects/web-development/Web-Developer-Needed-News-Magazine</link><guid isPermaLink="false">freelancer:40745619</guid><pubDate>Fri, 02 Oct 2026 05:26:10 GMT</pubDate><description>30-250 CAD | About the Project
+We are an independent, journalist-driven online newspaper with an international focus, launching our own website. We cover three core sections: Politics, Economy, and Culture. We want a polished, professional publication in the style of The Atlantic, with a membership model similar to Public Notice.
+
+Scope of Work
+- Set up and configure the site on a suitable platform. We are open to Ghost, WordPress, or another CMS you recommend, with a short explanation of why. Performance, security, and ease of future expansion are priorities.
+- Design a responsive, mobile-first layout with clear navigation between Politics, Economy, and Culture and a consistent look across the site.
+- Build a homepage with featured stories, section blocks, and a latest-news feed.
+- Set up a comment section under each article, with moderation tools.
+- Set up tiered memberships (free and paid) with Stripe or an equivalent payment provider, including paywalled or members-only content.
+- Add newsletter sign-up connected to the platform's built-in email tool or an email marketing service (e.g. Mailchimp), with CASL-compliant consent.
+- Configure SEO basics: Google Search Console, sitemap, Google News compatibility, social sharing previews, and analytics.
+- Set up an editor workflow with author and editor roles, drafts, scheduling, and publishing without touching code.
+- Apply our branding (we supply logo, colours, fonts, and initial copy).
+
+Deliverables
+- Fully functional, tested website on our domain
+- Admin and editor accounts set up for our team
+- Written documentation covering publishing, memberships, newsletters, and comment moderation
+- Transfer of all theme, plugin, and service licenses and accounts to our ownership
+- A walk-through call (about 1 hour) with our editors
+- 30 days of post-launch bug-fix support
+
+Requirements
+- Proven experience building news, magazine, or membership websites. Please include links to at least 2 live examples.
+- Experience with payment integration and email marketing integrations
+- Strong understanding of web performance, security, and accessibility
+- Clear communication and reliable timelines
+
+To Apply, Please Include
+1. Links to live news/magazine sites you have built
+2. The platform you recommend for this project and why
+3. Your estimated timeline and fixed-price quote
+4. Expected monthly running costs (hosting, plugins, services)
+5. Whether you offer ongoing maintenance after launch, and at what rate</description></item>
 <item><title>Multi-Platform Checkout Integration Website</title><link>https://www.freelancer.com/projects/api-integration/Multi-Platform-Checkout-Integration</link><guid isPermaLink="false">freelancer:40745554</guid><pubDate>Fri, 02 Oct 2026 04:30:40 GMT</pubDate><description>1500-3000 USD | I need a skilled developer to create a website that seamlessly connects multiple platforms with a robust checkout system. 
 
 Requirements:
@@ -809,20 +843,6 @@ Please include examples of previous successful campaigns in your bids.</descript
 3. Welcome Credentials: After checkout, they receive a welcome letter/email containing their username and password.
 4. App Login &amp; Verification: The customer logs into the iOS or Android app, registers their SIM card number, and uploads their passport/ID document for legal verification to activate the line.
 With respect </description></item>
-<item><title>Stylish WordPress Site Redesign</title><link>https://www.freelancer.com/projects/web-design/Stylish-WordPress-Site-Redesign</link><guid isPermaLink="false">freelancer:40742788</guid><pubDate>Wed, 30 Sep 2026 16:06:53 GMT</pubDate><description>30-250 USD | My current WordPress site works fine but looks dated, so the mission here is simple: give it a fresh, contemporary look that feels 2024-ready across desktop and mobile. Modernizing the aesthetics is the clear priority—think updated layout, clean typography, an on-brand colour palette, and eye-catching imagery. If any tweaks you make also happen to streamline functionality or shave a second off page load times, that’s great, yet visual impact comes first.
-
-You’ll get full admin access to the existing install plus brand assets and a sitemap. Whether you prefer a custom theme, Elementor, Gutenberg blocks, or another approach, the end result must remain easy for me to maintain after hand-off.
-
-I need to move quickly, so please be ready to start right away and show first design concepts within days.
-
-When you submit your bid, link to past WordPress redesigns that highlight your design eye and craftsmanship—strong portfolios speak louder than long proposals.
-
-Key deliverables  
-• Fully redesigned WordPress site live on my domain  
-• Responsive layout verified on major browsers and devices  
-• Brief hand-off documentation or walkthrough so I can update content myself  
-
-I’ll provide fast feedback to keep momentum high—let’s make this site look amazing.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
