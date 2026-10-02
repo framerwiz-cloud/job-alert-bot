@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Archive Site Cloning &amp; PayPal Cart</title><link>https://www.freelancer.com/projects/web-development/Archive-Site-Cloning-PayPal-Cart</link><guid isPermaLink="false">freelancer:40745372</guid><pubDate>Fri, 02 Oct 2026 01:56:09 GMT</pubDate><description>30-250 USD | My former e-commerce site only survives on the Wayback Machine. I need it revived as a clean, lightweight set of static HTML pages that I can upload anywhere.
+
+What matters most is that every word of copy and every image you see in the archive makes it across intact. The exact old layout is less critical; I’m happy with a fresh, responsive structure as long as the pages feel familiar and all content is present.
+
+After the pages are rebuilt, wire in a basic PayPal shopping cart—standard “Add to Cart” and “Checkout” buttons for each product are all I need. No discount codes, no multi-currency support, just reliable PayPal integration that works on desktop and mobile.
+
+Deliverables  
+• Fully functional static HTML/CSS/JS site with all archived text and images  
+• PayPal buttons integrated and tested on each product page  
+• A single zipped package of the site plus any asset folders  
+• Short deployment/read-me so I can drop it straight onto my host
+
+If you’ve migrated archive sites before and can turn this around quickly, let’s talk.</description></item>
 <item><title>AI-Written 4-Page SEO Website</title><link>https://www.freelancer.com/projects/ai-content-creation/Written-Page-SEO-Website</link><guid isPermaLink="false">freelancer:40745355</guid><pubDate>Fri, 02 Oct 2026 01:35:04 GMT</pubDate><description>100-150 USD | I’m looking for a freelancer who can put together a clean, modern site composed of four core pages—Home, About, Services and Contact—and handle everything from the build to the on-page optimisation.  
 
 All copy should be generated with AI and then lightly polished so it reads naturally while still being keyword-rich. The Services page focuses on Consulting; the other pages simply need concise, engaging text that introduces the brand and nudges visitors toward the contact form.
@@ -739,20 +752,6 @@ Please tell me:
 – Estimated timeline from kickoff to go-live.
 
 I’ll provide current site access, hosting credentials, and brand assets as soon as we agree on the plan. Let’s bring this site up to date and lock it down together.</description></item>
-<item><title>Online Fashion Store Development</title><link>https://www.freelancer.com/projects/web-development/Online-Fashion-Store-Development</link><guid isPermaLink="false">freelancer:40741751</guid><pubDate>Wed, 30 Sep 2026 05:32:47 GMT</pubDate><description>750-1500 USD | I’m ready to launch a full-featured e-commerce site that sells both men’s and women’s apparel. The focus is conversion: clean catalog pages, swift navigation, and a frictionless checkout that supports major cards and digital wallets.
-
-The build needs to include a responsive design that looks sharp on mobile, tablet, and desktop. I also need an easy-to-use admin area where I can add products, track inventory, run basic discounts, and pull sales reports. Integration with a reliable shipping calculator and automated order emails is essential so customers always know where their package is.
-
-For visuals, I have brand assets and product photography queued up; you’ll take care of layout, styling, and any light image optimization so pages load quickly. SEO-friendly URLs and schema markup should be in place from day one, as well as Google Analytics and a Facebook pixel for retargeting campaigns.
-
-Deliverables  
-• Fully deployed website on my hosting, SSL enabled  
-• Product catalog for men’s and women’s lines, complete with size/colour variants  
-• Secure payment gateway integration (Stripe or PayPal preferred)  
-• Shipping, tax, and order-confirmation workflows configured  
-• Admin dashboard walkthrough and short hand-off document  
-
-When you reply, please link to past work that shows live e-commerce sites you’ve built—fashion or apparel projects are a big plus.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
