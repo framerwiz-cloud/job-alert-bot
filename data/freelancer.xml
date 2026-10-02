@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Farm Website Revamp</title><link>https://www.freelancer.com/projects/php/Farm-Website-Revamp</link><guid isPermaLink="false">freelancer:40746715</guid><pubDate>Fri, 02 Oct 2026 17:31:15 GMT</pubDate><description>250-750 CAD | Our current wordpress site needs a revamp.
+
+We're looking for:
+- Light, organic design refresh to support usability.
+- Clean, responsive page templates on both mobile and desktop.
+- in-house staff can maintain/update changing information without breaking the experience you’ve created. 
+- 8 pages: 1. About, 2. Our Team, 3. Book a Visit, 4. Inherent Risk, 5. FAQ, 6. Teacher Resources, 7. Support Us, 8. Community of Practice [LOG IN blog page - already built log in]
+
+If you take this job I can send photos, the content page, the WP log in, and will be available during week days to answer any questions that might pop up. 
+
+Thanks!</description></item>
 <item><title>WooCommerce Store Setup</title><link>https://www.freelancer.com/projects/wordpress/WooCommerce-Store-Setup-40746668</link><guid isPermaLink="false">freelancer:40746668</guid><pubDate>Fri, 02 Oct 2026 17:01:55 GMT</pubDate><description>100-500 USD | I have WordPress already running on my server and now need a clean, minimalistic WooCommerce store. The catalogue starts with five products, so the build should stay light and easy to maintain.
 
 Scope  
@@ -904,58 +915,6 @@ I’m looking for someone to create a **professional, modern and beautiful websi
 * Whether you offer ongoing website/SEO support after launch
 
 I’m looking for a **beautiful, professional website that is easy for me to manage myself, ranks well on Google and helps me attract new clients.**</description></item>
-<item><title>SaaS for Insurance Broker Commission Tracker</title><link>https://www.freelancer.com/projects/saas-development/SaaS-for-Insurance-Broker-Commission</link><guid isPermaLink="false">freelancer:40745011</guid><pubDate>Thu, 01 Oct 2026 19:30:58 GMT</pubDate><description>5000-10000 CAD | Insurance Broker SaaS Web App – Book of Business &amp; Commission Tracking
-
-I’m looking for an experienced SaaS developer or development team to build a simple, modern web application for individual insurance brokers/producers.
-
-The main purpose is to help brokers manage their personal book of business, expected commissions, actual commission payments, unpaid/partial commissions, and renewals—as a better alternative to Excel spreadsheets.
-
-Core Features
-
-* Broker signup/login with a 3-day free trial
-* Monthly and annual membership plans
-* Personal book of business
-* Client and policy management
-* Premium and commission tracking
-* Automatic expected commission calculation
-* Dashboard showing expected, paid, unpaid and partial commissions
-* Upload commission statements in Excel/CSV and supported PDF formats
-* Automatic matching of commission statements against the broker’s book
-* Identify paid, unpaid, partial and mismatched commissions
-* Manual review and correction of matches
-* Statement history and reconciliation records
-* Renewal tracking with upcoming renewal views
-* Basic reports and Excel/CSV export
-* Responsive design for mobile, tablet and desktop
-* Secure user data isolation
-* Admin panel for users, memberships, trial settings and website/pricing content
-
-Future-Ready Architecture
-
-The system should be designed so future features can be added without rebuilding the application, including:
-
-* Google/Gmail login
-* Email and push notifications
-* Client policy-change request forms
-* Optional client communication campaigns
-* Additional insurance carrier statement formats
-
-This is not intended to be a full brokerage AMS/CRM. The goal is a focused, easy-to-use productivity and commission reconciliation tool for individual brokers.
-
-I’m open to your recommended technology stack, but the solution should use a modern, scalable architecture and provide full source-code ownership and documentation.
-
-Please include in your proposal:
-
-* Your fixed project price
-* Estimated timeline
-* Recommended technology stack
-* Relevant SaaS/financial/reconciliation experience
-* Examples of similar projects
-* Development milestones
-* Hosting and third-party costs
-* Post-launch support/maintenance options
-
-I will provide the more detailed project specification to shortlisted developers.</description></item>
 <item><title>Webflow UX Overhaul &amp; Integrations</title><link>https://www.freelancer.com/projects/webflow/Webflow-Overhaul-Integrations</link><guid isPermaLink="false">freelancer:40744629</guid><pubDate>Thu, 01 Oct 2026 14:57:29 GMT</pubDate><description>10-15 GBP/hr | I want to take my current Webflow site well beyond a simple template refresh. The primary objective is to improve user experience from the first fold to the checkout/contact point, while giving every page new, on-brand imagery and graphics that feel cohesive and modern.
 
 Here’s the scope:
