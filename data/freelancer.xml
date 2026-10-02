@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Content &amp; SEO Refresh</title><link>https://www.freelancer.com/projects/website-design/Website-Content-SEO-Refresh</link><guid isPermaLink="false">freelancer:40745411</guid><pubDate>Fri, 02 Oct 2026 02:31:41 GMT</pubDate><description>50-100 USD | My existing website is solid on the technical side but the content is dated and not doing me any favours in search. I need a content-focused overhaul that keeps the current design intact while making every page SEO friendly.
+
+Scope of work  
+• Adding new pages or sections: a Blog or Articles section for regular posts, a clean Contact Us page with an enquiry form, and a Services page that clearly outlines what I offer.  
+• Updating existing text so it reads naturally, matches my brand voice, and targets the right keywords.  
+• Replacing images or multimedia where they no longer fit, compressing them for speed, and writing descriptive alt text.  
+• On-page SEO across the whole site—meta titles and descriptions, headers, internal linking, image optimisation, and a quick schema markup + XML sitemap submission so Google can crawl everything quickly.
+
+Acceptance criteria  
+The new sections must appear in the main navigation, all revised pages should pass a basic SEO audit (90+ on Lighthouse for SEO), and every image must be compressed without visible quality loss.
+
+I will provide current copy, brand guidelines, and hosting access. You deliver the updated live site plus a short hand-over note so I can add future posts myself.</description></item>
 <item><title>Mailchimp Newsletter Setup &amp; Import</title><link>https://www.freelancer.com/projects/branding/Mailchimp-Newsletter-Setup-Import</link><guid isPermaLink="false">freelancer:40745392</guid><pubDate>Fri, 02 Oct 2026 02:12:56 GMT</pubDate><description>30-250 AUD | I need Mailchimp fully ready so I can start sending out branded company-news updates on my own. I will supply a clean contact list; it just has to be imported and properly mapped into a single audience (or segmented if you see clear benefits).  
 
 Once the contacts are in place, I’d like an attractive, mobile-responsive template that mirrors our current look and feel—logo, colours, fonts, a headline block for company news, room for images, and a clear call-to-action. I only need this initial design and set-up; ongoing scheduling and content insertion will be handled internally.
@@ -721,28 +733,6 @@ I’ll supply all copy, logos, and images; you bring modern design, WordPress (o
 Acceptance for hand-off: working site on my hosting, admin credentials, and a brief Loom walkthrough of how to edit content.
 
 If you’ve built service-based sites with clear pricing tables before, let’s get started.</description></item>
-<item><title>Wix Cleaning Website With Booking</title><link>https://www.freelancer.com/projects/wix/Wix-Cleaning-Website-With-Booking</link><guid isPermaLink="false">freelancer:40741951</guid><pubDate>Wed, 30 Sep 2026 07:26:32 GMT</pubDate><description>30-250 AUD | I’m rebuilding my cleaning company’s web presence on Wix and I need it finished as soon as possible. The site must look professional, feel trustworthy, read clearly, and—above all—convert visitors into enquiries. Lead generation is my only measure of success, so every page needs strong calls-to-action that funnel prospects toward either a quote request or a simple appointment through Wix Bookings.
-
-Navigation is already mapped out: Home, About, Services ( subpages Residential Cleaning Sydney
--Commercial Cleaning Sydney
--Strata Cleaning Sydney
--End of Lease Cleaning Sydney
--Deep House Cleaning
--Airbnb &amp; Short Stay Cleaning Sydney
--Carpet and Upholstery Cleaning
--Pressure Washing Sydney ), Pricing &amp; Quotes, Contact, and a standalone Book Online page. I’ll supply logo, palette, and any service copy you need; your job is to shape it into a clean, sales-focused layout, optimise it for mobile, and wire in the Wix booking widget for straightforward, single-visit appointments. A streamlined quote form should sit on the Pricing &amp; Quotes page so visitors can move from curiosity to conversion in one click.
-
-On-page SEO matters too. I expect keyword-targeted headings, meta titles &amp; descriptions, compressed images with alt tags, and logical internal linking that helps Google and users alike. Each service page should be indexed properly for “Cleaning Sydney” search intent, and the site speed needs to stay snappy once everything is live.
-
-Deliverables (acceptance criteria)  
-• Fully built Wix site reflecting the stated page structure and child pages  
-• Simple appointment booking flow via Wix Bookings, tested end-to-end  
-• Custom quote request form that emails submissions to me instantly  
-• On-page SEO applied across all pages (titles, metas, schema where relevant)  
-• Responsive design proofed on desktop, tablet, and mobile  
-• Handover with edit instructions so I can update text and pricing later
-
-If you’ve launched conversion-driven Wix sites before and can hit a rapid turnaround, let’s talk and get this live.</description></item>
 <item><title>Multisite Car Posting CRM Development</title><link>https://www.freelancer.com/projects/api-integration/Multisite-Car-Posting-CRM-Development</link><guid isPermaLink="false">freelancer:40740996</guid><pubDate>Tue, 29 Sep 2026 19:26:26 GMT</pubDate><description>5-10 GBP/hr | Create a CRM that will post cars for sale to multiple website at once, such as AutoTrader, eBay, GumTree, Facebook Marketplace, Friday Ad, Drive Mart for a car sales company.</description></item>
 <item><title>Modernize &amp; Maintain an E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Modernize-Maintain-Commerce-Site</link><guid isPermaLink="false">freelancer:40740929</guid><pubDate>Tue, 29 Sep 2026 18:39:39 GMT</pubDate><description>25-50 CAD/hr | My current online store has grown dated,  multiple plugins are obsolete and not functioning. I need it re-engineered into a clean, future-proof format and then kept running smoothly.
 
