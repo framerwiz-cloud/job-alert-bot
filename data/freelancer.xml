@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Swedish Real Estate Website Build</title><link>https://www.freelancer.com/projects/web-development/Swedish-Real-Estate-Website-Build</link><guid isPermaLink="false">freelancer:40746294</guid><pubDate>Fri, 02 Oct 2026 12:47:28 GMT</pubDate><description>250-750 USD | I have already uploaded the complete design and page-by-page layout for a modern, Swedish-style real-estate management site. Your task is to turn those files into a fully working, responsive website that exactly matches the look and feel supplied.
+
+Core scope  
+• Implement every screen in the design, keeping typography, spacing, and color usage pixel-accurate.  
+• Set up a straightforward property-listing structure so I can add, edit, and archive listings without touching code. A lightweight CMS, headless solution, or a custom admin panel is fine—choose whichever lets future staff manage content with minimal training.  
+• Add a clear, GDPR-compliant contact form on both the main “Contact” page and each property detail page. Submissions should arrive in our company mailbox with the property reference automatically included when relevant. No other third-party integrations are needed right now.  
+
+Technical notes  
+• Mobile-first, fully responsive, tested on the latest Chrome, Safari, Firefox, and Edge.  
+• Optimise images and code for fast loading; Lighthouse score above 90 for performance and accessibility.  
+• Clean, well-commented code or a documented theme structure so any in-house developer can continue work later.
+
+Deliverables  
+1. Deployed website on our hosting (credentials will be supplied).  
+2. Source code / theme package in a zipped folder.  
+3. Short hand-off guide covering how to add new properties and where the contact-form emails are routed.
+
+I’m happy to answer design questions quickly as you work; just reference the page name and layer from the uploaded file when you do.</description></item>
 <item><title>Update WordPress E-commerce Theme</title><link>https://www.freelancer.com/projects/woocommerce/Update-WordPress-commerce-Theme-40746291</link><guid isPermaLink="false">freelancer:40746291</guid><pubDate>Fri, 02 Oct 2026 12:40:50 GMT</pubDate><description>30-250 AUD | I need my WooCommerce site’s theme brought up to its latest stable version without interrupting sales. The live payment gateways must keep working throughout the process and be retested before we switch the new files to production.  
 
 We’ll review any custom CSS, layout tweaks, or plug-in hooks together so they survive the upgrade intact. Please outline the approach you usually follow—staging, testing, and go-live—plus how long each step tends to take and the level of post-update support you include.
@@ -821,26 +839,6 @@ Whether you work solo or with a team
 Applications without store links to previous TV apps won't be considered.
 
 The full set comes to $2,600–$3,800. I've marked the budget as AUD; switch it to USD if that's what you intend.</description></item>
-<item><title>OpenCart Upgrade &amp; Migration</title><link>https://www.freelancer.com/projects/web-development/OpenCart-Upgrade-Migration</link><guid isPermaLink="false">freelancer:40744087</guid><pubDate>Thu, 01 Oct 2026 08:45:26 GMT</pubDate><description>250-750 GBP | My ecommerce store is still running on OpenCart 2.0.1.1 and the platform is now holding us back. I want the entire site migrated to the latest stable OpenCart release so we benefit from stronger security and faster performance without changing the overall look and feel. Only light design tweaks are needed—think fresher typography, tidier spacing and a modern banner layout—while keeping the familiar structure our customers know.
-
-Key objectives  
-• Preserve every product, customer record, order history, SEO-friendly URL and existing extension that is still compatible, migrating them safely to the new database schema.  
-• Optimise the new build for speed (caching, image compression, database cleanup) and lock down security with best-practice server and OpenCart hardening.  
-• Refine the checkout flow and shipping logic: fewer steps, clear error handling, automatic postcode validation and more transparent carriage options.  
-• Thorough cross-browser and mobile testing before go-live, followed by a smooth switchover that ensures zero downtime for customers.
-
-Deliverables  
-1. Development copy of the upgraded site on a staging server.  
-2. Full data migration scripts and documentation.  
-3. Updated theme files with the agreed minor design changes.  
-4. Configured checkout and shipping enhancements.  
-5. Post-deployment support window to catch any edge-case issues.
-
-Acceptance criteria: the new site must load noticeably faster than the current build (Core Web Vitals in the green), pass an external vulnerability scan, and complete a full test purchase—including shipping calculation—without error.
-
-I can provide SSH, cPanel and current admin access as soon as we kick off.
-
-ww.wroughtironcomponents.co.uk</description></item>
 <item><title>Startup Online Ads Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Startup-Online-Ads-Specialist</link><guid isPermaLink="false">freelancer:40743138</guid><pubDate>Wed, 30 Sep 2026 19:26:00 GMT</pubDate><description>100-350 GBP/hr | I'm looking for an experienced digital marketer to create and manage search engine ads to boost my startup's online presence. The primary platform will be Google, but I'm also interested in ads on ChatGPT and various social media channels. This could also be on a monthly hire basis  
 
 Key Tasks:
