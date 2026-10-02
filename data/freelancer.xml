@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist Event Landing Page Design</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Event-Landing-Page-Design-40746043</link><guid isPermaLink="false">freelancer:40746043</guid><pubDate>Fri, 02 Oct 2026 09:38:15 GMT</pubDate><description>30-250 USD | I need a single-screen landing page for my upcoming event, built around a crisp, minimalistic aesthetic—plenty of white space, clear hierarchy, and typography doing most of the visual work. The page must include two core sections: 
+
+• About the Event – a concise block where I’ll drop copy outlining the purpose, location, and key highlights  
+• Schedule / Agenda – a clean timeline layout that quickly tells visitors what happens when
+
+No registration form is required right now; the goal is to inform and build interest rather than collect sign-ups. 
+
+Please deliver a responsive page coded in lightweight HTML/CSS (flexbox or grid is fine) with vanilla JavaScript only if you truly need it. I’d like the source files, any style sheet(s), and a brief read-me that shows me where to update text and swap images later on.
+
+Design must look equally sharp on desktop, tablet, and mobile, and load fast—optimize any assets you include. I’ll supply final copy once the framework is in place; filler text is fine during development.</description></item>
 <item><title>WordPress Site Visual Adjustments</title><link>https://www.freelancer.com/projects/php/WordPress-Site-Visual-Adjustments</link><guid isPermaLink="false">freelancer:40746017</guid><pubDate>Fri, 02 Oct 2026 09:22:00 GMT</pubDate><description>20-250 GBP | I am needing a little help with a few tweaks to my wordpress website, mainly just getting fonts to match on the homepage and a few other visual changes</description></item>
 <item><title>Mobile Car Wash Website Development</title><link>https://www.freelancer.com/projects/web-development/Mobile-Car-Wash-Website-Development</link><guid isPermaLink="false">freelancer:40745835</guid><pubDate>Fri, 02 Oct 2026 07:21:53 GMT</pubDate><description>10-250 CAD | I'm seeking an experienced web developer to create a professional multi-page website for my mobile car wash business. 
 
@@ -821,23 +831,6 @@ Acceptance criteria: the new site must load noticeably faster than the current b
 I can provide SSH, cPanel and current admin access as soon as we kick off.
 
 ww.wroughtironcomponents.co.uk</description></item>
-<item><title>Elegant Installation Booking Website</title><link>https://www.freelancer.com/projects/web-development/Elegant-Installation-Booking-Website</link><guid isPermaLink="false">freelancer:40744009</guid><pubDate>Thu, 01 Oct 2026 07:53:05 GMT</pubDate><description>30-250 AUD | I’m building Instlld’s new online home and need a developer who can recreate the smooth, product-by-product booking experience you see on hipages, but wrapped in a classic, elegant design.
-
-Here’s the customer flow I have in mind: the visitor lands on a single-scroll homepage, drops in a postcode, selects a service area such as Home Furniture, Outdoor Equipment or BBQs, browses a price-tagged list of installable products, adds the chosen items to cart, locks in a calendar slot, pays, then receives an auto-generated email confirming date, time and receipt.
-
-Behind the scenes I need a robust back end that lets my team load new categories, sub-categories, SKUs and pricing without touching code. Once payment clears, the order must push straight into the Job Mate API so our installers can pick it up instantly.
-
-I’m flexible on tech—custom build, WordPress, Shopify or any stack you trust—as long as it delivers a stable e-commerce engine, secure payments, and a clean CMS interface. Classic typography, balanced white space and intuitive navigation are essential to match our brand’s understated look.
-
-Deliverables:  
-• Responsive front-end replicating the flow above  
-• Admin dashboard for full catalogue and price management  
-• Secure checkout with calendar scheduling  
-• Automated email notifications (order confirmation, receipt, reminders)  
-• Job Mate API integration with successful POST on paid orders  
-• Testing, basic SEO set-up and hand-over documentation
-
-If that scope fits your skill set, let’s talk timelines and milestones.</description></item>
 <item><title>Startup Online Ads Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Startup-Online-Ads-Specialist</link><guid isPermaLink="false">freelancer:40743138</guid><pubDate>Wed, 30 Sep 2026 19:26:00 GMT</pubDate><description>100-350 GBP/hr | I'm looking for an experienced digital marketer to create and manage search engine ads to boost my startup's online presence. The primary platform will be Google, but I'm also interested in ads on ChatGPT and various social media channels. This could also be on a monthly hire basis  
 
 Key Tasks:
