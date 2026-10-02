@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clinic Digital Lead Generation Campaign</title><link>https://www.freelancer.com/projects/digital-marketing/Clinic-Digital-Lead-Generation-Campaign</link><guid isPermaLink="false">freelancer:40746311</guid><pubDate>Fri, 02 Oct 2026 12:56:54 GMT</pubDate><description>30-250 USD | I run a medical clinic and I’m ready to ramp up our online presence with one clear objective: bring in qualified patient leads. TikTok will be the hero channel, and I’d like to centre the content there around short, engaging educational videos that explain our treatments, answer common questions, and remove patient anxiety.  
+
+Alongside TikTok, I still want a coordinated push across Instagram, Snapchat, Twitter, Google Search, and our existing WordPress website so that every touchpoint drives people to book a consultation. Consistent messaging, tight targeting, and measurable conversions are key.
+
+What I need from you  
+• A performance-focused TikTok content calendar (educational, 15-60 sec formats) plus full scripting, filming guidance, and posting schedule.  
+• Paid media setup and optimisation in TikTok Ads Manager, Google Ads, Meta Business Suite, and Snapchat Ads—complete with audience research, ad copy, creative direction, and A/B tests.  
+• Conversion-optimised landing pages (or improvements to our current site) with tracking pixels, event tags, and clear calls to action.  
+• Weekly reporting that ties spend to booked appointments so we can see cost per lead in real time.
+
+Acceptance criteria  
+1. Lead capture forms and phone-call tracking fire correctly in Google Analytics 4.  
+2. At least three educational TikTok videos go live each week for the first month.  
+3. Paid campaigns achieve a cost per lead that meets or beats our historical average by week four.
+
+If you’ve previously turned social traffic into patient bookings, I’d love to see examples and hear how you’d approach the first 90 days.</description></item>
 <item><title>Swedish Real Estate Website Build</title><link>https://www.freelancer.com/projects/web-development/Swedish-Real-Estate-Website-Build</link><guid isPermaLink="false">freelancer:40746294</guid><pubDate>Fri, 02 Oct 2026 12:47:28 GMT</pubDate><description>250-750 USD | I have already uploaded the complete design and page-by-page layout for a modern, Swedish-style real-estate management site. Your task is to turn those files into a fully working, responsive website that exactly matches the look and feel supplied.
 
 Core scope  
@@ -776,69 +792,6 @@ Key deliverables
 Acceptance criteria will revolve around feature completeness, code quality, test coverage, and a successful end-to-end demo on a staging environment.
 
 If you’re comfortable owning the stack from database schema to front-end polish, let’s get started—I’m ready to review your approach and timeline.</description></item>
-<item><title>White-Label TV Streaming Apps Development</title><link>https://www.freelancer.com/projects/app-development/White-Label-Streaming-Apps-Development</link><guid isPermaLink="false">freelancer:40744383</guid><pubDate>Thu, 01 Oct 2026 12:17:23 GMT</pubDate><description>750-1500 AUD | Title: TV App Developer – Roku, Fire TV, Apple TV, Google TV &amp; Web (White-Label Streaming Apps)
-
-About us
-Launch TV is a Brisbane-based Connected TV agency. We build custom-branded streaming channels for businesses, creators, churches and organisations. We're looking for an experienced developer or small team to build our TV and web apps, with ongoing work for the right people.
-
-What we're building
-A premium streaming app similar in look and feel to Red Bull TV (redbull.tv), built as a white-label template we can re-brand and deploy for each client with minimal code changes.
-
-Phase 1 – MVP (this project)
-
-Home screen with hero/featured banner and horizontal content rails
-Live channel and VOD playback
-Show/episode detail pages
-Content loaded from a JSON feed, so content updates don't need app updates
-Branding config file (logo, colours, app name, feed URL)
-Support through store certification and publishing
-
-Phase 2 – paid separately
-EPG/schedule view, search, continue watching, ad support (SSAI/CSAI) and subscriptions/TVOD.
-
-Video delivery
-We use StreamHoster as our CDN (HLS for live and VOD). Experience with HLS players and third-party CDNs is essential.
-
-Platforms &amp; budget (AUD)
-
-Roku App (BrightScript / SceneGraph): $500 – $700
-Fire TV App: $500 – $700
-Apple TV App (tvOS – Swift/SwiftUI): $800 – $1,200
-Google TV / Android TV App: $500 – $700
-Web App (responsive, browser-based): $300 – $500
-
-You can quote for one platform or several. Developers who can deliver multiple platforms will be prioritised.
-
-Deliverables
-
-Full source code for each platform, owned by Launch TV
-Re-branding config for new client channels
-Store submission support (Roku Channel Store, Amazon Appstore, App Store, Google Play)
-Basic documentation for deploying new client channels
-
-Required
-
-Published TV apps you've built (please include store links)
-Solid experience with at least two of the platforms above
-HLS streaming and adaptive bitrate playback
-Good English and regular communication overlapping the Brisbane time zone (AEST)
-
-Nice to have
-
-Experience with Zype, Brightcove, JW Player or similar OTT platforms
-Ad integration (Google IMA, Roku RAF)
-Samsung Tizen / LG webOS experience for future projects
-
-To apply, please tell us:
-
-Links to TV apps you've published, and on which platforms
-Which platforms you're quoting for, with price and timeframe for each
-Your approach to a single white-label codebase across multiple clients
-Whether you work solo or with a team
-
-Applications without store links to previous TV apps won't be considered.
-
-The full set comes to $2,600–$3,800. I've marked the budget as AUD; switch it to USD if that's what you intend.</description></item>
 <item><title>Startup Online Ads Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Startup-Online-Ads-Specialist</link><guid isPermaLink="false">freelancer:40743138</guid><pubDate>Wed, 30 Sep 2026 19:26:00 GMT</pubDate><description>100-350 GBP/hr | I'm looking for an experienced digital marketer to create and manage search engine ads to boost my startup's online presence. The primary platform will be Google, but I'm also interested in ads on ChatGPT and various social media channels. This could also be on a monthly hire basis  
 
 Key Tasks:
