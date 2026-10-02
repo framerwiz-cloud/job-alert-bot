@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Multi-Company Project Management System</title><link>https://www.freelancer.com/projects/web-development/Multi-Company-Project-Management-System</link><guid isPermaLink="false">freelancer:40746328</guid><pubDate>Fri, 02 Oct 2026 13:11:23 GMT</pubDate><description>30-250 USD | I need a web-based platform that can oversee projects coming from several related companies from a single dashboard. The core focus is employee assignment and tracking: each incoming project should let a manager review available staff and manually assign the right people to every task while the system records hours and shows live progress.
+
+Beyond assignment, I still want the usual workflow tools—task creation, due dates, file attachments, comments—so our teams always have context. Every project also carries billing details. The system must generate invoices, record when they are sent, and allow us to mark payments as received or outstanding, then surface quick reports on what is still unpaid.
+
+Because multiple companies and departments will use the tool, role-based access control is essential. Administrators manage companies and users, managers handle task assignment and billing, and employees see only their own work and timesheets.
+
+Tech stack is open—Laravel, Django, Node, or even a solid low-code foundation—as long as the code is clean, well-documented, and easy to extend.
+
+Acceptance criteria:
+• Separate spaces for multiple companies, each with isolated data.  
+• Manual assignment interface that filters staff by skill or availability.  
+• Real-time dashboards for projects and individual workloads.  
+• Invoice generator with payment status tracking and summary reports.  
+• Robust role permissions: Admin, Manager, Employee.  
+• Responsive UI, source code in a private repo, and clear deployment steps.</description></item>
 <item><title>Clinic Digital Lead Generation Campaign</title><link>https://www.freelancer.com/projects/digital-marketing/Clinic-Digital-Lead-Generation-Campaign</link><guid isPermaLink="false">freelancer:40746311</guid><pubDate>Fri, 02 Oct 2026 12:56:54 GMT</pubDate><description>30-250 USD | I run a medical clinic and I’m ready to ramp up our online presence with one clear objective: bring in qualified patient leads. TikTok will be the hero channel, and I’d like to centre the content there around short, engaging educational videos that explain our treatments, answer common questions, and remove patient anxiety.  
 
 Alongside TikTok, I still want a coordinated push across Instagram, Snapchat, Twitter, Google Search, and our existing WordPress website so that every touchpoint drives people to book a consultation. Consistent messaging, tight targeting, and measurable conversions are key.
@@ -761,21 +776,6 @@ You have experience designing ecommerce-style product pages
 You design for conversion, not just aesthetics
 You work in Figma and deliver desktop and mobile designs
 Your work looks nothing like an AI generated it</description></item>
-<item><title>Wellness Business Website Development</title><link>https://www.freelancer.com/projects/web-development/Wellness-Business-Website-Development</link><guid isPermaLink="false">freelancer:40744428</guid><pubDate>Thu, 01 Oct 2026 12:49:39 GMT</pubDate><description>750-1500 USD | I'm looking for a skilled web developer to create a professional website for my coaching, retreat, workshops, and consulting business, tailored with a therapist's lens. The primary purpose of this website is to facilitate online bookings.
-
-Key Features:
-- Online Booking System: Must include calendar integration, automated confirmations, and client management capabilities.
-- Content Integration: The site should feature blog posts, success stories, and educational articles.
-
-Ideal Skills and Experience:
-- Proven experience in developing booking systems
-- Strong understanding of content management for blogs and articles
-- Ability to create a clean, professional, and user-friendly interface
-- Background or knowledge in therapy or wellness industries is a plus
-
-Please include examples of similar work in your bids.
-
-Disclaimer- I am seeking a wellness developer located in United States only preferably local - Washington, Oregon or California </description></item>
 <item><title>Multi-Vendor Marketplace Development</title><link>https://www.freelancer.com/projects/angular/Multi-Vendor-Marketplace-Development</link><guid isPermaLink="false">freelancer:40744417</guid><pubDate>Thu, 01 Oct 2026 12:35:50 GMT</pubDate><description>15-25 USD/hr | I’m launching a full-scale online marketplace where third-party sellers can register, create storefronts, and manage their own catalogue, while shoppers enjoy a smooth end-to-end buying experience. The frontend needs to be built in Angular or React, and I’d like the backend engineered with either Java (Spring Boot) or C# (ASP.NET Core)—whichever you feel will deliver the best performance, security, and maintainability.
 
 Core scope  
