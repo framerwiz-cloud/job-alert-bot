@@ -3,6 +3,68 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Integrate WooCommerce, n8n and Customer.io</title><link>https://www.freelancer.com/projects/n8n/Integrate-WooCommerce-Customer</link><guid isPermaLink="false">freelancer:40746884</guid><pubDate>Fri, 02 Oct 2026 19:40:50 GMT</pubDate><description>30-250 USD | ### WooCommerce → n8n → Customer.io Integration
+
+I’m looking for someone to set up a reliable integration between **WooCommerce, n8n, and Customer.io**.
+
+The main objective is to make **Customer.io receive complete and accurate customer + order data from WooCommerce**, so I can use that data later for segmentation, campaigns, and automated Journeys.
+
+Reference:
+[n8n WooCommerce + Customer.io integration](https://n8n.io/integrations/customerio/and/woocommerce/?utm_source=chatgpt.com)
+
+### Key Requirements
+
+**Customer Data**
+- New customer creation and updates
+- Name, email, phone, billing/shipping information where appropriate
+- Customer ID
+- Customer account/order history
+- Relevant WooCommerce customer fields and characteristics
+
+**Order Data**
+- Order ID
+- Order date
+- Order status
+- Order total
+- Products purchased
+- Product names/IDs/SKUs
+- Quantities
+- Product categories
+- Discounts/coupons
+- Shipping information where appropriate
+- Payment/order information where appropriate
+- Refunds/cancellations and relevant status changes
+
+### Customer.io Events / Attributes
+
+Please structure the integration so that Customer.io receives the data in a clean, usable format, with appropriate **customer attributes and order/purchase events**.
+
+I want to be able to create Customer.io segments and Journeys based on things such as:
+
+- Specific products purchased
+- Purchase history
+- Number of orders
+- Order value
+- Last purchase
+- Customer status
+- Product/category purchased
+- Repeat vs. first-time customers
+- Order status
+- Other useful WooCommerce characteristics
+
+### Reliability
+
+The integration should:
+- Avoid creating duplicate customers/events
+- Correctly handle customer and order updates
+- Properly handle relevant WooCommerce status changes
+- Include error handling/logging where appropriate
+- Be tested with real WooCommerce test orders
+- Be documented so I can understand how the workflows are structured and maintain them afterward
+
+**Important:** I am primarily looking for the **WooCommerce → n8n → Customer.io data infrastructure/linkage**. I do not need the freelancer to build all of my Customer.io marketing Journeys or email campaigns.
+
+Please explain your proposed workflow, what WooCommerce data you can pass into Customer.io, and your estimated completion time/cost.</description></item>
 <item><title>Modernize Site &amp; Social Media</title><link>https://www.freelancer.com/projects/web-design/Modernize-Site-Social-Media</link><guid isPermaLink="false">freelancer:40746771</guid><pubDate>Fri, 02 Oct 2026 18:16:14 GMT</pubDate><description>250-750 GBP | I run an established business site and it’s showing its age. I’m ready for a fresh, user-friendly redesign and a few powerful new features so customers can browse, order and pay without a single email back-and-forth.  
 
 The visual overhaul must cover the full layout, colour palette and typography while keeping brand recognition intact. I’m open to the platform you feel is best—WordPress, Shopify, custom PHP, or another stack—as long as it remains easy for me to update in-house once the project wraps.  
@@ -891,58 +953,6 @@ I’m looking for someone to create a **professional, modern and beautiful websi
 * Whether you offer ongoing website/SEO support after launch
 
 I’m looking for a **beautiful, professional website that is easy for me to manage myself, ranks well on Google and helps me attract new clients.**</description></item>
-<item><title>SaaS for Insurance Broker Commission Tracker</title><link>https://www.freelancer.com/projects/saas-development/SaaS-for-Insurance-Broker-Commission</link><guid isPermaLink="false">freelancer:40745011</guid><pubDate>Thu, 01 Oct 2026 19:30:58 GMT</pubDate><description>5000-10000 CAD | Insurance Broker SaaS Web App – Book of Business &amp; Commission Tracking
-
-I’m looking for an experienced SaaS developer or development team to build a simple, modern web application for individual insurance brokers/producers.
-
-The main purpose is to help brokers manage their personal book of business, expected commissions, actual commission payments, unpaid/partial commissions, and renewals—as a better alternative to Excel spreadsheets.
-
-Core Features
-
-* Broker signup/login with a 3-day free trial
-* Monthly and annual membership plans
-* Personal book of business
-* Client and policy management
-* Premium and commission tracking
-* Automatic expected commission calculation
-* Dashboard showing expected, paid, unpaid and partial commissions
-* Upload commission statements in Excel/CSV and supported PDF formats
-* Automatic matching of commission statements against the broker’s book
-* Identify paid, unpaid, partial and mismatched commissions
-* Manual review and correction of matches
-* Statement history and reconciliation records
-* Renewal tracking with upcoming renewal views
-* Basic reports and Excel/CSV export
-* Responsive design for mobile, tablet and desktop
-* Secure user data isolation
-* Admin panel for users, memberships, trial settings and website/pricing content
-
-Future-Ready Architecture
-
-The system should be designed so future features can be added without rebuilding the application, including:
-
-* Google/Gmail login
-* Email and push notifications
-* Client policy-change request forms
-* Optional client communication campaigns
-* Additional insurance carrier statement formats
-
-This is not intended to be a full brokerage AMS/CRM. The goal is a focused, easy-to-use productivity and commission reconciliation tool for individual brokers.
-
-I’m open to your recommended technology stack, but the solution should use a modern, scalable architecture and provide full source-code ownership and documentation.
-
-Please include in your proposal:
-
-* Your fixed project price
-* Estimated timeline
-* Recommended technology stack
-* Relevant SaaS/financial/reconciliation experience
-* Examples of similar projects
-* Development milestones
-* Hosting and third-party costs
-* Post-launch support/maintenance options
-
-I will provide the more detailed project specification to shortlisted developers.</description></item>
 <item><title>Webflow UX Overhaul &amp; Integrations</title><link>https://www.freelancer.com/projects/webflow/Webflow-Overhaul-Integrations</link><guid isPermaLink="false">freelancer:40744629</guid><pubDate>Thu, 01 Oct 2026 14:57:29 GMT</pubDate><description>10-15 GBP/hr | I want to take my current Webflow site well beyond a simple template refresh. The primary objective is to improve user experience from the first fold to the checkout/contact point, while giving every page new, on-brand imagery and graphics that feel cohesive and modern.
 
 Here’s the scope:
