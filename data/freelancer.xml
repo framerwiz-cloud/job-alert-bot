@@ -89,17 +89,6 @@ Deliverables
 • Clear before-and-after ranking or visibility snapshot so I can see the impact  
 
 Everything runs on WordPress, so please be comfortable with its back-end, popular SEO plugins and any light HTML/CSS tweaks that might be required. Let me know your approach, estimated timeline and any similar local projects you’ve handled.</description></item>
-<item><title>Implement Claude Landing Page Design</title><link>https://www.freelancer.com/projects/web-design/Implement-Claude-Landing-Page-Design</link><guid isPermaLink="false">freelancer:40746482</guid><pubDate>Fri, 02 Oct 2026 15:02:59 GMT</pubDate><description>30-250 USD | I already have a complete visual blueprint for a business landing page—the mock-ups, spacing specs, and type scales were prepared by Claude. What I now need is the hands-on build: a developer-designer who can translate those files into a fully responsive page that renders perfectly on desktop and mobile.
-
-The essentials you must replicate are:
-• the exact layout hierarchy and section flow  
-• the colour palette and font pairings defined by Claude and reinforced in my brand guide  
-
-Images and iconography can remain as temporary placeholders; I’ll swap in final assets later. Consistency with my existing brand guide is non-negotiable, so all colours, typography sizes, and button states have to match both the mock-up and the guide.
-
-Please deliver clean, well-commented HTML, CSS (or SCSS), and any lightweight JavaScript needed for interactive elements. Build tools such as Figma to code, Tailwind, or plain CSS are all acceptable—choose whichever lets you hit pixel-perfect accuracy quickest. The finished files should be ready for me to drop into a standard hosting environment.
-
-If this sounds straightforward to you, let me know your timeline and a quick note on how you ensure fidelity between design and code.</description></item>
 <item><title>Complete Website Design &amp; Development for Premium Australian Outdoor Living Brand – POD KING -- 2</title><link>https://www.freelancer.com/projects/seo/Complete-Website-Design-Development-for</link><guid isPermaLink="false">freelancer:40746435</guid><pubDate>Fri, 02 Oct 2026 14:30:53 GMT</pubDate><description>750-4000 AUD | We are looking for an experienced website designer/developer or small web design team to design and build a complete new website for POD KING, an Australian premium outdoor-living and modular product brand.
 Our three main product categories are:
 - Premium Outdoor Kitchen Pods
@@ -307,24 +296,6 @@ Acceptance criteria
 3. Paid campaigns achieve a cost per lead that meets or beats our historical average by week four.
 
 If you’ve previously turned social traffic into patient bookings, I’d love to see examples and hear how you’d approach the first 90 days.</description></item>
-<item><title>Swedish Real Estate Website Build</title><link>https://www.freelancer.com/projects/web-development/Swedish-Real-Estate-Website-Build</link><guid isPermaLink="false">freelancer:40746294</guid><pubDate>Fri, 02 Oct 2026 12:47:28 GMT</pubDate><description>250-750 USD | I have already uploaded the complete design and page-by-page layout for a modern, Swedish-style real-estate management site. Your task is to turn those files into a fully working, responsive website that exactly matches the look and feel supplied.
-
-Core scope  
-• Implement every screen in the design, keeping typography, spacing, and color usage pixel-accurate.  
-• Set up a straightforward property-listing structure so I can add, edit, and archive listings without touching code. A lightweight CMS, headless solution, or a custom admin panel is fine—choose whichever lets future staff manage content with minimal training.  
-• Add a clear, GDPR-compliant contact form on both the main “Contact” page and each property detail page. Submissions should arrive in our company mailbox with the property reference automatically included when relevant. No other third-party integrations are needed right now.  
-
-Technical notes  
-• Mobile-first, fully responsive, tested on the latest Chrome, Safari, Firefox, and Edge.  
-• Optimise images and code for fast loading; Lighthouse score above 90 for performance and accessibility.  
-• Clean, well-commented code or a documented theme structure so any in-house developer can continue work later.
-
-Deliverables  
-1. Deployed website on our hosting (credentials will be supplied).  
-2. Source code / theme package in a zipped folder.  
-3. Short hand-off guide covering how to add new properties and where the contact-form emails are routed.
-
-I’m happy to answer design questions quickly as you work; just reference the page name and layer from the uploaded file when you do.</description></item>
 <item><title>Update WordPress E-commerce Theme</title><link>https://www.freelancer.com/projects/woocommerce/Update-WordPress-commerce-Theme-40746291</link><guid isPermaLink="false">freelancer:40746291</guid><pubDate>Fri, 02 Oct 2026 12:40:50 GMT</pubDate><description>30-250 AUD | I need my WooCommerce site’s theme brought up to its latest stable version without interrupting sales. The live payment gateways must keep working throughout the process and be retested before we switch the new files to production.  
 
 We’ll review any custom CSS, layout tweaks, or plug-in hooks together so they survive the upgrade intact. Please outline the approach you usually follow—staging, testing, and go-live—plus how long each step tends to take and the level of post-update support you include.
@@ -921,6 +892,58 @@ I’m looking for someone to create a **professional, modern and beautiful websi
 * Whether you offer ongoing website/SEO support after launch
 
 I’m looking for a **beautiful, professional website that is easy for me to manage myself, ranks well on Google and helps me attract new clients.**</description></item>
+<item><title>SaaS for Insurance Broker Commission Tracker</title><link>https://www.freelancer.com/projects/saas-development/SaaS-for-Insurance-Broker-Commission</link><guid isPermaLink="false">freelancer:40745011</guid><pubDate>Thu, 01 Oct 2026 19:30:58 GMT</pubDate><description>5000-10000 CAD | Insurance Broker SaaS Web App – Book of Business &amp; Commission Tracking
+
+I’m looking for an experienced SaaS developer or development team to build a simple, modern web application for individual insurance brokers/producers.
+
+The main purpose is to help brokers manage their personal book of business, expected commissions, actual commission payments, unpaid/partial commissions, and renewals—as a better alternative to Excel spreadsheets.
+
+Core Features
+
+* Broker signup/login with a 3-day free trial
+* Monthly and annual membership plans
+* Personal book of business
+* Client and policy management
+* Premium and commission tracking
+* Automatic expected commission calculation
+* Dashboard showing expected, paid, unpaid and partial commissions
+* Upload commission statements in Excel/CSV and supported PDF formats
+* Automatic matching of commission statements against the broker’s book
+* Identify paid, unpaid, partial and mismatched commissions
+* Manual review and correction of matches
+* Statement history and reconciliation records
+* Renewal tracking with upcoming renewal views
+* Basic reports and Excel/CSV export
+* Responsive design for mobile, tablet and desktop
+* Secure user data isolation
+* Admin panel for users, memberships, trial settings and website/pricing content
+
+Future-Ready Architecture
+
+The system should be designed so future features can be added without rebuilding the application, including:
+
+* Google/Gmail login
+* Email and push notifications
+* Client policy-change request forms
+* Optional client communication campaigns
+* Additional insurance carrier statement formats
+
+This is not intended to be a full brokerage AMS/CRM. The goal is a focused, easy-to-use productivity and commission reconciliation tool for individual brokers.
+
+I’m open to your recommended technology stack, but the solution should use a modern, scalable architecture and provide full source-code ownership and documentation.
+
+Please include in your proposal:
+
+* Your fixed project price
+* Estimated timeline
+* Recommended technology stack
+* Relevant SaaS/financial/reconciliation experience
+* Examples of similar projects
+* Development milestones
+* Hosting and third-party costs
+* Post-launch support/maintenance options
+
+I will provide the more detailed project specification to shortlisted developers.</description></item>
 <item><title>Webflow UX Overhaul &amp; Integrations</title><link>https://www.freelancer.com/projects/webflow/Webflow-Overhaul-Integrations</link><guid isPermaLink="false">freelancer:40744629</guid><pubDate>Thu, 01 Oct 2026 14:57:29 GMT</pubDate><description>10-15 GBP/hr | I want to take my current Webflow site well beyond a simple template refresh. The primary objective is to improve user experience from the first fold to the checkout/contact point, while giving every page new, on-brand imagery and graphics that feel cohesive and modern.
 
 Here’s the scope:
