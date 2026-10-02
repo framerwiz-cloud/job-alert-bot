@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce E-commerce Site Build</title><link>https://www.freelancer.com/projects/payment-gateway-integration/WooCommerce-commerce-Site-Build</link><guid isPermaLink="false">freelancer:40747026</guid><pubDate>Fri, 02 Oct 2026 22:12:17 GMT</pubDate><description>15-25 AUD/hr | I’m setting up a full-featured online store and have already settled on WordPress with WooCommerce as the core platform. The build has three must-have components:  
+
+• Robust product search that can handle filters by category, price, and keywords.  
+• Native user reviews and star ratings displayed on each product page.  
+• A fully configured payment gateway (Stripe or PayPal—whichever you’re most comfortable integrating) that processes cards securely and shows order confirmations in real time.  
+
+The theme, layout, and any recommended plugins are open for discussion as long as performance stays fast and the checkout flow remains frictionless on both desktop and mobile. Once the core features are in place I’ll need a quick walkthrough of the admin area so I can manage products, coupons, and basic reports myself.
+
+Please outline your proposed timeline, the plugins or custom code you’d lean on for these three features, and any recent WooCommerce stores you’ve launched that showcase similar functionality.</description></item>
 <item><title>Automated MCA Underwriting CRM Build</title><link>https://www.freelancer.com/projects/api/Automated-MCA-Underwriting-CRM-Build</link><guid isPermaLink="false">freelancer:40746957</guid><pubDate>Fri, 02 Oct 2026 20:49:33 GMT</pubDate><description>10000-20000 USD | I need a purpose-built CRM that streamlines the entire Merchant Cash Advance underwriting flow. The core of the project is true underwriting automation: the system must pull applicant data, run real-time risk assessment, verify uploaded documents for authenticity, and calculate credit scores that fit MCA criteria.
 
 Deliverables  
