@@ -3,6 +3,34 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern WordPress Restaurant Reservations</title><link>https://www.freelancer.com/projects/html/Modern-WordPress-Restaurant-Reservations</link><guid isPermaLink="false">freelancer:40747827</guid><pubDate>Sat, 03 Oct 2026 11:44:11 GMT</pubDate><description>250-750 USD | I’m ready to launch a modern, sleek WordPress website that lets guests book a table with zero friction. The entire build should focus on online reservations as the core journey.
+
+Key reservation flow
+• Interactive date &amp; time picker that blocks out unavailable slots in real-time  
+• Visual table selection so diners choose where they sit  
+• A “Special requests” field captured with each booking and stored in the back-end
+
+Look &amp; feel
+Clean lines, bold imagery, subtle animations—think contemporary rather than rustic or classic. The site must be fully responsive and load quickly on mobile, as most bookings come through phones.
+
+Pages &amp; functionality
+– Landing page with enticing hero section, short story of the restaurant, and a prominent “Reserve Now” CTA.  
+– Dedicated reservation page implementing the features above, preferably with a well-supported WordPress booking plugin (e.g., OpenTable widget, Bookly, or your recommended alternative).  
+– Simple menu and events sections are nice to have later, but the launch version can defer them; the reservation funnel must be flawless first.  
+– Contact/Map footer plus basic GDPR-friendly cookie notice.
+
+Deliverables
+1. Complete WordPress site installed on my hosting, SSL ready.  
+2. Custom-styled reservation form matching the brand palette.  
+3. Admin guide (PDF or short Loom video) showing how I can change availability, tables, and view special requests.  
+4. One round of revisions after initial hand-off to fine-tune UX.
+
+Acceptance criteria
+• A test reservation from homepage to confirmation email works end-to-end on desktop and mobile.  
+• Table layout, date &amp; time picker, and special requests field all save correctly in WordPress.  
+• PageSpeed Insight mobile score ≥ 85.
+
+If this brief matches your expertise, please share a link to at least one live restaurant or hospitality site you’ve built with similar booking functionality.</description></item>
 <item><title>Squarespace site completion</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-site-completion</link><guid isPermaLink="false">freelancer:40747758</guid><pubDate>Sat, 03 Oct 2026 10:32:46 GMT</pubDate><description>30-250 AUD | I’m almost ready to launch my Squarespace site and just need a professional eye to make everything feel cohesive. The main menu, footer menu, and side menu are built, but spacing, alignment, hover states, and overall flow still need those finishing touches so visitors can move around effortlessly.
 
 Across the entire site I want all typography to be consistent. I’m still unsure whether a serif, sans-serif, or monospace family fits best, so I’d value your guidance on pairing a clean, legible font stack with the design that’s already in place.
@@ -1019,119 +1047,6 @@ Ideal Skills:
 - Familiarity with security protocols for online transactions
 
 Please provide examples of previous similar work and your approach to this project.</description></item>
-<item><title>Build the "HospoHelper" Website</title><link>https://www.freelancer.com/projects/website-design/Build-the-HospoHelper-Website</link><guid isPermaLink="false">freelancer:40745506</guid><pubDate>Fri, 02 Oct 2026 04:03:55 GMT</pubDate><description>10-4000 AUD | WEB DEVELOPER WANTED — HOSPOHELPER
-
-I’m looking for a web developer interested in helping me turn an idea I’ve been working on into a functioning website.
-
-The idea: HospoHelper
-
-HospoHelper is a free website aimed at helping young and casual hospitality workers in Australia understand what they should actually be getting paid — and what they can do if something doesn’t look right.
-
-The idea comes from a pretty significant problem: underpayment remains widespread in Australia’s hospitality sector.
-
-The Fair Work Ombudsman identifies fast food, restaurants and cafés as a priority sector because of persistent and significant non-compliance. In 2024–25 alone, the regulator recovered $3.1 million for 1,814 underpaid workers in the sector.¹
-
-And individual compliance operations have found striking rates of non-compliance. Recent Fair Work investigations found:
-
-* 93% of investigated food businesses in a Perth operation had breached workplace laws, with more than $769,000 recovered for 379 workers.²
-* 81% of businesses investigated during a south-east Melbourne operation had breached workplace laws.³
-* In 2023–24, $5.6 million was recovered for 3,056 underpaid workers in fast food, restaurants and cafés nationally.⁴
-
-The problem is particularly relevant to younger workers. The Fair Work Ombudsman notes that the sector employs large numbers of young people, casual and part-time workers and visa holders, some of whom may be unaware of their workplace rights or reluctant to speak up when something seems wrong.¹
-
-At the same time, actually figuring out what you’re entitled to isn’t necessarily straightforward.
-
-Awards, classifications, casual loading, evening rates, weekend penalty rates, overtime, allowances and public holidays can all affect what someone should receive.
-
-For a university student working a few shifts at a pub, café or restaurant, answering one basic question can therefore become surprisingly complicated:
-
-“I worked these hours this week. How much should I have been paid?”
-
-That’s the question I want HospoHelper to make much easier to answer.
-
-How it would work
-
-The initial version of HospoHelper would centre around a simple, user-friendly wage calculator.
-
-A worker could enter information such as:
-
-* their age and employment type;
-* their role/classification;
-* the days and hours they worked;
-* breaks;
-* weekend/evening work;
-* whether a shift fell on a public holiday; and
-* what they were actually paid.
-
-HospoHelper would then provide an estimated amount they should have received, explain how that estimate was calculated, and allow them to compare it against their actual pay.
-
-For example:
-
-Estimated pay: $842.60
-Actual gross pay: $764.20
-Potential difference: $78.40
-
-But I don’t want the website to stop at identifying a possible discrepancy.
-
-“I think I’ve been underpaid. What now?”
-
-One feature I’d particularly like to explore is a guided underpayment pathway.
-
-If HospoHelper identifies a potential discrepancy, the user could be taken through a simple step-by-step process explaining what they can do next.
-
-This could include helping the user:
-
-1. Double-check their pay
-Understand their classification, applicable rates and exactly how the estimate was calculated.
-
-2. Check their payslip
-Know what information to look for and identify where a discrepancy might have occurred.
-
-3. Raise it with their employer
-HospoHelper could generate a simple, non-confrontational message that the worker can send to their manager asking them to check their pay.
-
-4. Keep the right records
-Explain the importance of retaining things like payslips, rosters, timesheets, employment documents and relevant messages.
-
-5. Know where to go next
-If the issue isn’t resolved, provide straightforward information about external assistance and direct users towards official resources such as the Fair Work Ombudsman.
-
-The aim isn’t for HospoHelper to replace professional or official advice or definitively determine that an employer has broken the law.
-
-It’s about giving workers an accessible starting point to check their pay, understand it, and know what they can do if something doesn’t seem right.
-
-Where it’s currently at
-
-This is an early-stage concept.
-
-I’ve purchased the domain and have the core idea, target audience and initial functionality in mind, but I’m looking for someone with the technical skills to help turn it into a working product.
-
-I’m also very open to ideas about additional functionality and how HospoHelper could develop beyond the initial MVP.
-
-Who I’m looking for
-
-I’m looking for someone with web development experience who could help take HospoHelper from concept to a functioning MVP.
-
-You don’t necessarily need years of professional experience. I’d be interested in speaking with university students, recent graduates, freelancers or experienced developers who like the idea and think they could build it.
-
-Experience with responsive web development, databases/APIs, UI/UX, web calculators or similar projects would obviously be useful.
-
-Most importantly, I’m looking for someone reliable who is interested in helping create something that could be genuinely useful for young Australian workers.
-
-Payment/budget: Open to discussion depending on the proposed approach and scope.
-
-If this sounds interesting, send me a message with a little about yourself, anything you’ve built previously, and how you think you’d approach the project.
-
-Happy to share more details and chat through the idea privately.
-
-⸻
-
-Sources
-
-1. Fair Work Ombudsman, Annual Report 2024–25.
-2. Fair Work Ombudsman, More than $760,000 recovered for Perth workers, 27 June 2024.
-3. Fair Work Ombudsman, $58,000 back-paid to Melbourne food staff, 1 August 2024.
-4. Fair Work Ombudsman, Fast Food, Restaurants &amp; Cafés compliance data, 2023–24.</description></item>
 <item><title>Professional Service Sales Website Build</title><link>https://www.freelancer.com/projects/web-design/Professional-Service-Sales-Website-Build</link><guid isPermaLink="false">freelancer:40745068</guid><pubDate>Thu, 01 Oct 2026 20:55:38 GMT</pubDate><description>8-15 USD/hr | I need a clean, responsive website whose main job is to sell my services online. The look should be modern and trustworthy, but kept simple so visitors can find what they need and move smoothly by browsing
 
 Core pages will include a homepage that introduces, an about section with images, and a contact page. No need for online booking or payment.
