@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix Non-Profit Membership Website</title><link>https://www.freelancer.com/projects/wix/Wix-Non-Profit-Membership-Website</link><guid isPermaLink="false">freelancer:40747886</guid><pubDate>Sat, 03 Oct 2026 12:21:46 GMT</pubDate><description>250-750 USD | I run a small, volunteer-led non-profit and we’re ready for a modern website that helps us serve members, share information, and accept payments without adding technical overhead. The entire build must live on Wix so that our team can safely handle routine edits once the project wraps up.
+
+Core functions  
+• Membership management – secure registration, individual log-in, and profile editing.  
+• Member directory – searchable for logged-in members only.  
+• Member communication tools – broadcast emails and in-dashboard notices that route through our existing domain’s email service.  
+• Fundraising and fee collection – seamless checkout powered by Zeffy’s payment widgets, visible both to members (dues) and the public (donations or event tickets).  
+• Informational pages – clear sections for our mission, events, resources, and a news/blog area we can update ourselves.
+
+Integration requirements  
+The Zeffy payment flow, domain-based email management, and all Wix-native CRM features must work together smoothly. Please configure DNS, SSL, and any necessary Wix Marketplace apps so everything functions from day one.
+
+Deliverables  
+1. Fully designed, responsive Wix site with the features above, ready for launch.  
+2. Step-by-step admin guide (text or short screencasts) showing how our volunteers can edit pages, approve new members, and pull email lists.  
+3. One live walkthrough call to verify every element—registration, directory search, Zeffy checkout, and email sends—operates as intended.
+
+Success is a launch-ready site we can confidently maintain ourselves, with no coding knowledge required. If you have previous Wix builds that include member portals or Zeffy integrations, those examples will help me choose quickly.</description></item>
 <item><title>Modern WordPress Restaurant Reservations</title><link>https://www.freelancer.com/projects/html/Modern-WordPress-Restaurant-Reservations</link><guid isPermaLink="false">freelancer:40747827</guid><pubDate>Sat, 03 Oct 2026 11:44:11 GMT</pubDate><description>250-750 USD | I’m ready to launch a modern, sleek WordPress website that lets guests book a table with zero friction. The entire build should focus on online reservations as the core journey.
 
 Key reservation flow
@@ -1034,19 +1052,6 @@ To Apply, Please Include
 3. Your estimated timeline and fixed-price quote
 4. Expected monthly running costs (hosting, plugins, services)
 5. Whether you offer ongoing maintenance after launch, and at what rate</description></item>
-<item><title>Multi-Platform Checkout Integration Website</title><link>https://www.freelancer.com/projects/api-integration/Multi-Platform-Checkout-Integration</link><guid isPermaLink="false">freelancer:40745554</guid><pubDate>Fri, 02 Oct 2026 04:30:40 GMT</pubDate><description>1500-3000 USD | I need a skilled developer to create a website that seamlessly connects multiple platforms with a robust checkout system. 
-
-Requirements:
-- Integration with various social media platforms, online marketplaces, and payment gateways.
-- User-friendly interface and secure checkout process
-
-Ideal Skills:
-- Strong experience in e-commerce website development
-- Proficiency in API integration
-- Knowledge of UI/UX design principles
-- Familiarity with security protocols for online transactions
-
-Please provide examples of previous similar work and your approach to this project.</description></item>
 <item><title>Professional Service Sales Website Build</title><link>https://www.freelancer.com/projects/web-design/Professional-Service-Sales-Website-Build</link><guid isPermaLink="false">freelancer:40745068</guid><pubDate>Thu, 01 Oct 2026 20:55:38 GMT</pubDate><description>8-15 USD/hr | I need a clean, responsive website whose main job is to sell my services online. The look should be modern and trustworthy, but kept simple so visitors can find what they need and move smoothly by browsing
 
 Core pages will include a homepage that introduces, an about section with images, and a contact page. No need for online booking or payment.
