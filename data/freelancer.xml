@@ -3,6 +3,110 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Building Pharma Supply Chain Web Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Building-Pharma-Supply-Chain-Web</link><guid isPermaLink="false">freelancer:40747512</guid><pubDate>Sat, 03 Oct 2026 07:24:44 GMT</pubDate><description>25-50 USD/hr | # Pharmaceutical Supply Chain &amp; Traceability Web Platform
+
+## Project Overview
+
+We are looking for an experienced full-stack developer or small development team to build a modern, secure, and responsive web platform for pharmaceutical supply chain management and product traceability.
+
+The platform will provide end-to-end visibility of medicines as they move through the supply chain, from manufacturers to pharmacies and ultimately to consumers. The system will support product identification, ownership transfers, verification, audit history, and regulatory workflows.
+
+This is intended to be a long-term product development engagement, with an initial MVP estimated at approximately 4–6 months.
+
+## MVP Requirements
+
+The initial version should include:
+
+* User authentication and role-based access
+* Government/regulatory authority management
+* Drug registration and licensing
+* Medicine registration and unique identification
+* End-to-end product traceability
+* Ownership/custody transfer management
+* Manufacturer and pharmacy workflows
+* Audit trails and activity history
+* Medicine authenticity verification
+* Public verification portal
+* Responsive dashboards and interfaces
+* Backend APIs and database
+* Security and access controls
+
+## Technical Requirements
+
+Candidates should have strong experience with:
+
+* Full-stack web application development
+* React, Vue, or similar modern frontend frameworks
+* TypeScript / JavaScript
+* Node.js, Go, or similar backend technologies
+* PostgreSQL or comparable relational databases
+* REST API development
+* Authentication and authorization
+* Cloud infrastructure and deployment
+* CI/CD and DevOps
+* Automated testing and QA
+* Secure application development
+
+Experience with healthcare, pharmaceutical, supply-chain, inventory, traceability, or regulatory software is a strong advantage.
+
+## Integrations &amp; Future Scalability
+
+The architecture should be designed to support future integrations with external systems used by manufacturers, pharmacies, wholesalers, and other supply-chain participants.
+
+Experience with ERP/WMS integrations, EDI, GS1, EPCIS, healthcare APIs, or other enterprise integrations is valuable.
+
+## UI/UX
+
+The platform should have a clean, modern, responsive interface that works well across desktop, tablet, and mobile devices.
+
+Different user roles will require different dashboards and workflows, while the public verification portal should remain simple and easy to use.
+
+## Blockchain
+
+Blockchain is not required for the MVP. We are open to the development partner's technical recommendations regarding whether it would provide meaningful value for any future component.
+
+## Expected Deliverables
+
+The selected partner will be responsible for:
+
+* UI/UX implementation
+* Frontend development
+* Backend development
+* Database implementation
+* API development
+* Authentication and authorization
+* Testing and QA
+* Cloud deployment
+* Technical documentation
+* Source-code delivery and repository handover
+* Initial post-launch support
+
+## Timeline
+
+The initial MVP is expected to take approximately 4–6 months.
+
+We welcome candidates who can provide a detailed development schedule with milestones and deliverables.
+
+## Ideal Candidate
+
+We are looking for a developer or team that can act as a technology partner, not simply execute isolated development tasks.
+
+Please include:
+
+1. Relevant project experience
+2. Examples of similar platforms you have built
+3. Proposed technology stack
+4. Team composition
+5. Estimated timeline
+6. Estimated project cost
+7. Availability for a 4–6 month engagement
+8. Experience with API/enterprise integrations
+9. Approach to security and QA
+10. Post-MVP support availability
+
+Detailed project documentation will be provided to qualified candidates during the evaluation process.
+
+We are particularly interested in partners who can contribute technical expertise, architectural guidance, and practical recommendations throughout the development process.</description></item>
 <item><title>Pharmaceutical Supply Chain Web Platform</title><link>https://www.freelancer.com/projects/web-application/Pharmaceutical-Supply-Chain-Web-Platform</link><guid isPermaLink="false">freelancer:40747382</guid><pubDate>Sat, 03 Oct 2026 05:56:01 GMT</pubDate><description>25-50 USD/hr | # Medical Supply Chain Management &amp; Pharmaceutical Traceability Platform
 
 ## Project Overview
@@ -1206,18 +1310,6 @@ Acceptance
 A page passes when its Yoast SEO or Rank Math score is green, meta data remains within ideal pixel limits, the primary keyword appears in the first 100 words, and readability sits at or above grade 8. Once these benchmarks are met across all pages, the job is complete.
 
 If you’ve done hands-on keyword implementation and meta optimisation in WordPress before, let’s get started.</description></item>
-<item><title>Instagram &amp; Website Management for Travel</title><link>https://www.freelancer.com/projects/content-creation/Instagram-Website-Management-for-Travel</link><guid isPermaLink="false">freelancer:40734255</guid><pubDate>Sat, 26 Sep 2026 06:45:44 GMT</pubDate><description>8-15 USD/hr | I run a growing travel agency and I’m ready to hand over day-to-day control of both my Instagram presence and the website so they can finally work together as a single conversion engine.
-
-Instagram comes first. I need steady growth in followers and overall brand awareness, so every post, reel, story, or live session has to feel inspiring, on-brand, share-worthy, and focused on building a strong brand identity. You’ll plan a content calendar, write captions, select hashtags, respond to comments, and track insights so we can see what moves the needle.i have a lot of content, and strong sense of aesthetic, so everything needs to be approved by me. 
-
-The site already exists; what’s missing is consistent upkeep: refreshing destination pages, adding newns.Making it more selling and convincing, we don’t need a booking system, just bring traffic. 
-
-Deliverables I’ll look for each month:  
-• A scheduled, approved Instagram calendar covering posts, reels, stories, and planned lives  
-• Analytics summary highlighting follower growth, reach, engagement rates, and traffic improvements  
-• Updated website content plus a quick audit of the booking journey with fixes implemented or flagged  
-
-If you live and breathe travel content with a strong focus on aesthetics and growth strategies for brand identity development; know Meta Business Suite/Creator Studio; and can tweak WordPress (or similar CMS) without breaking the reservation plug-in—let’s talk about timelines and an initial content sprint to see how we work together.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
