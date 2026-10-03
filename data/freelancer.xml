@@ -618,18 +618,6 @@ Key deliverables
 
 If you can combine solid web development skills with creative social content, I’d like to hear how you would approach the build, what tech stack you recommend and a realistic timeline for each milestone. The problem is, that I am not particularly tech savvy, I just want to create art and teach art. You can see what i do if you look at the current site
 My website is ginnyhelsen.co.uk</description></item>
-<item><title>WooCommerce Store Setup</title><link>https://www.freelancer.com/projects/wordpress/WooCommerce-Store-Setup-40746668</link><guid isPermaLink="false">freelancer:40746668</guid><pubDate>Fri, 02 Oct 2026 17:01:55 GMT</pubDate><description>100-500 USD | I have WordPress already running on my server and now need a clean, minimalistic WooCommerce store. The catalogue starts with five products, so the build should stay light and easy to maintain.
-
-Scope  
-• Design a responsive, minimal-style storefront that reflects my brand colours and logo.  
-• Configure WooCommerce on the existing WordPress.  
-• Add the first five products (images, descriptions and pricing supplied by me) and leave everything organised so I can upload new items myself later.  
-• Set up and sandbox-test a friction-free checkout that offers PayPal, Stripe and Google Pay side by side.  
-• Keep the plugin stack to the absolute essentials—ideally only WooCommerce, the official payment extensions and one lightweight security/performance tool.  
-• Optimise basic speed and security settings without pulling in heavy page builders or bloated add-ons.  
-
-Timeline  
-All work, testing and hand-over need to be wrapped up within one month.</description></item>
 <item><title>WordPress setup SEO on aireagua.mx — fixed job.</title><link>https://www.freelancer.com/projects/seo-writing/WordPress-setup-SEO-aireagua-fixed</link><guid isPermaLink="false">freelancer:40746594</guid><pubDate>Fri, 02 Oct 2026 16:19:14 GMT</pubDate><description>250-750 USD | I need someone who already edits WordPress, Elementor, and Polylang, and who knows Rank Math and Google Search Console. The site is built. No redesign. No blog. No paid links.
 
 Aire Agua sells two atmospheric water generators in Mexico. Spanish is the primary language. English lives under /en/. 
@@ -1039,6 +1027,25 @@ Core pages will include **Home, About, Individual Therapy, REGULATE (my DBT grou
 The finished website should feel **high-end, elegant and distinctive while remaining appropriate for an Australian clinical psychology practice**. It should also be easy to expand as the practice and REGULATE program grow.
 
 Please share the platform you would recommend, what is included in your quote, expected timeframe, and links to 2–3 professional service, healthcare, psychology or similarly premium websites you have designed.</description></item>
+<item><title>Integrated Car Auction Website  &amp; Marketing for the Car broker and dealership </title><link>https://www.freelancer.com/projects/web-development/Integrated-Car-Auction-Website-Marketing</link><guid isPermaLink="false">freelancer:40745643</guid><pubDate>Fri, 02 Oct 2026 05:36:22 GMT</pubDate><description>30-250 USD | The project combines a subscription-based car auction platform with an always-on marketing engine.  
+
+Website scope  
+• Feed integration from several auction sources so members can view inventory in real time.  
+• Live bidding functionality and detailed car pages are non-negotiable; the flow must feel as seamless as the original auction sites.  
+• A gated paywall: visitors browse freely, but bidding and “buy now” unlock once they purchase a subscription.  
+• A dedicated Marketing and promotional content section where fresh videos, posts and offers keep buyers engaged and improve SEO.  
+
+Marketing deliverables  
+I will need ongoing content for the dealership—short videos of new arrivals, written posts that demystify the buying process, and Google-focused website copy that funnels traffic straight to the auction feed. “Website, marketing and google” sum up the channels that matter most to me, but I’m open to repurposing pieces for social media when it makes sense.  
+
+Tech and creative preferences  
+Feel free to choose the stack—WordPress + custom plugins, Laravel, MERN, or any other proven route—as long as it supports real-time data pulls and secure payments. For the marketing side, native video editing tools, Canva, or Adobe Premiere are fine; accuracy and quick turnaround beat fancy effects.  
+
+Acceptance criteria  
+1. Responsive website deployed on my hosting, subscription checkout tested and working.  
+2. Auction feed updates automatically; at least two live test bids placed in a staging environment.  
+3. First month’s marketing package delivered: three short videos, three promotional posts, and homepage copy optimized for Google.  
+4. Clear hand-off documentation so my team can add cars and schedule content without developer help.</description></item>
 <item><title>Professional Service Sales Website Build</title><link>https://www.freelancer.com/projects/web-design/Professional-Service-Sales-Website-Build</link><guid isPermaLink="false">freelancer:40745068</guid><pubDate>Thu, 01 Oct 2026 20:55:38 GMT</pubDate><description>8-15 USD/hr | I need a clean, responsive website whose main job is to sell my services online. The look should be modern and trustworthy, but kept simple so visitors can find what they need and move smoothly by browsing
 
 Core pages will include a homepage that introduces, an about section with images, and a contact page. No need for online booking or payment.
