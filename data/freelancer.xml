@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Document Mangomint-Inspired Platform Features</title><link>https://www.freelancer.com/projects/saas-development/Document-Mangomint-Inspired-Platform</link><guid isPermaLink="false">freelancer:40748395</guid><pubDate>Sat, 03 Oct 2026 19:33:11 GMT</pubDate><description>250-750 USD | I’m preparing to build a salon-focused SaaS product that mirrors the experience of Mangomint, and I need a meticulous functional blueprint before a single line of code is written. Your job is to deep-dive into every corner of https://www.mangomint.com/—from public pages to the trial flow—and translate what you see into a clear, developer-ready specification.
+
+The scope centers on three pillars that Mangomint excels at and that I must replicate for salons and spas: appointment scheduling, billing &amp; invoicing, and customer management. I want to know how each screen, click, and data element supports those pillars and how they tie together in real-world salon workflows (client booking, service tickets, tip handling, product upsells, memberships, etc.).
+
+Deliverables  
+• A structured Feature Catalog capturing objectives, users, actions, and acceptance criteria for every discovered function.  
+• End-to-end user flows and annotated wireframes (low-fidelity is fine) showing screens, states, and edge cases.  
+• Data &amp; API blueprint: entities, attributes, relationships, and essential endpoints covering scheduling, payments, and customer profiles.  
+• Integration notes for payment processors, SMS/email reminders, and calendar sync.  
+• Gap analysis highlighting anything Mangomint overlooks that could give us an edge.  
+• A concise executive summary that a non-technical stakeholder can digest in five minutes.
+
+Acceptance Criteria  
+The document must let a competent engineering team (human or AI) estimate, plan, and start implementation with no major open questions about core flows. All diagrams should be exportable (PDF/SVG) and all text delivered in an editable format (Google Docs or Markdown).
+
+If you’re skilled at product teardown, UX mapping, and technical writing—and you can explain SaaS salon ops in plain language—let’s talk.</description></item>
 <item><title>Google Workspace &amp; Wix Setup</title><link>https://www.freelancer.com/projects/wix/Google-Workspace-Wix-Setup</link><guid isPermaLink="false">freelancer:40748322</guid><pubDate>Sat, 03 Oct 2026 18:18:08 GMT</pubDate><description>250-750 USD | I'm seeking a freelancer to set up Google Workspace and design my Wix website. 
 
 Google Workspace:
@@ -939,24 +955,6 @@ Deliverables
 3. Two rounds of post-launch tweaks for polish and bug fixes.
 
 If you have recent examples of service-based websites—especially trade or field-service industries—please share them so I can see your style. I’m aiming to award quickly and move straight into design.</description></item>
-<item><title>Consulting Service Website Development</title><link>https://www.freelancer.com/projects/web-development/Consulting-Service-Website-Development</link><guid isPermaLink="false">freelancer:40745684</guid><pubDate>Fri, 02 Oct 2026 06:03:01 GMT</pubDate><description>250-750 AUD | My psychology practice, **Psyche Clinical Psychology**, needs a clean, sophisticated and service-oriented website that clearly communicates who I am, the psychological services I provide, and my approach to therapy. The primary purpose is to establish a professional online presence and encourage prospective clients to enquire, rather than e-commerce or direct public booking.
-
-I want a contemporary, premium and mobile-responsive design that feels **warm, calm, trustworthy and clinically professional**, rather than overly corporate or medical. The branding is centred around deep navy, gold and light neutral tones, with an elegant, minimal aesthetic. I already have my logo, branding direction and most website copy prepared.
-
-Core pages will include **Home, About, Individual Therapy, REGULATE (my DBT group program), Fees &amp; FAQs, and Contact**. Individual Therapy should direct prospective clients to an enquiry form rather than displaying my booking calendar publicly. Clear navigation, tasteful calls-to-action, fast performance and basic on-page SEO are essential.
-
-**Deliverables**  
-• Fully responsive multi-page website built on WordPress, Webflow or another mainstream CMS that allows me to edit content myself  
-• Professional implementation of my existing branding, copy and photography  
-• Individual Therapy, REGULATE and general enquiry/contact forms with spam protection  
-• Clean, fast and mobile-friendly design  
-• Search-engine-friendly structure with basic SEO, page titles, meta descriptions and image alt tags  
-• Integration capability with my practice-management/booking system where required  
-• Full website ownership and handover, including instructions on how to update content
-
-The finished website should feel **high-end, elegant and distinctive while remaining appropriate for an Australian clinical psychology practice**. It should also be easy to expand as the practice and REGULATE program grow.
-
-Please share the platform you would recommend, what is included in your quote, expected timeframe, and links to 2–3 professional service, healthcare, psychology or similarly premium websites you have designed.</description></item>
 <item><title>Professional Service Sales Website Build</title><link>https://www.freelancer.com/projects/web-design/Professional-Service-Sales-Website-Build</link><guid isPermaLink="false">freelancer:40745068</guid><pubDate>Thu, 01 Oct 2026 20:55:38 GMT</pubDate><description>8-15 USD/hr | I need a clean, responsive website whose main job is to sell my services online. The look should be modern and trustworthy, but kept simple so visitors can find what they need and move smoothly by browsing
 
 Core pages will include a homepage that introduces, an about section with images, and a contact page. No need for online booking or payment.
