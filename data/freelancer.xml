@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Recruitment Platform Development</title><link>https://www.freelancer.com/projects/ai-chatbot/Recruitment-Platform-Development</link><guid isPermaLink="false">freelancer:40747635</guid><pubDate>Sat, 03 Oct 2026 08:51:14 GMT</pubDate><description>30-250 USD | I’m launching a corporate-style, AI-driven recruitment platform and need an end-to-end build that cleanly separates two web dashboards:
+
+• Candidate dashboard – must provide personalised job recommendations and real-time application-status tracking from an AI-optimised ATS. (A résumé builder is something I may add later, so please keep the architecture flexible.)
+
+• Recruiter dashboard – needs powerful candidate search &amp; filter tools, calendar-integrated interview scheduling, and clear analytics / reporting on pipeline health, sourcing channels, time-to-hire and similar KPIs.
+
+Core features I already have in mind include an applicant-tracking system, an NLP chatbot for first-round screening and FAQs, a browsable job board, and an interview module (video or in-person scheduling). Everything should follow a clean, professional “Corporate” UI, be mobile-responsive, and support role-based access so recruiters, hiring managers and admins see only what they need.
+
+I’m happy to discuss tech stack, although familiarity with modern frameworks (React / Vue / Angular for the front end, Node / Django / Laravel or comparable on the back end) and experience integrating AI services (OpenAI, Azure Cognitive, or similar) will be important. Clean API design, secure authentication, GDPR-aware data handling and room for future feature extensions are critical acceptance points.
+
+If you’ve built SaaS platforms with comparable complexity, please outline your approach, relevant demos, and an indicative timeline so we can map out milestones together.</description></item>
 <item><title>Elementor Site Revamp</title><link>https://www.freelancer.com/projects/elementor/Elementor-Site-Revamp</link><guid isPermaLink="false">freelancer:40747567</guid><pubDate>Sat, 03 Oct 2026 08:00:40 GMT</pubDate><description>20-250 GBP | I need a professional to update my outdated Elementor website. Updating plugins currently breaks the site. 
 
 Requirements:
@@ -1113,16 +1124,6 @@ Acceptance criteria
 The new sections must appear in the main navigation, all revised pages should pass a basic SEO audit (90+ on Lighthouse for SEO), and every image must be compressed without visible quality loss.
 
 I will provide current copy, brand guidelines, and hosting access. You deliver the updated live site plus a short hand-over note so I can add future posts myself.</description></item>
-<item><title>Mailchimp Newsletter Setup &amp; Import</title><link>https://www.freelancer.com/projects/branding/Mailchimp-Newsletter-Setup-Import</link><guid isPermaLink="false">freelancer:40745392</guid><pubDate>Fri, 02 Oct 2026 02:12:56 GMT</pubDate><description>30-250 AUD | I need Mailchimp fully ready so I can start sending out branded company-news updates on my own. I will supply a clean contact list; it just has to be imported and properly mapped into a single audience (or segmented if you see clear benefits).  
-
-Once the contacts are in place, I’d like an attractive, mobile-responsive template that mirrors our current look and feel—logo, colours, fonts, a headline block for company news, room for images, and a clear call-to-action. I only need this initial design and set-up; ongoing scheduling and content insertion will be handled internally.
-
-Key deliverables:
-• Audience created and contacts imported without duplication  
-• Branded template saved in Mailchimp, tested across major email clients  
-• Brief hand-off notes (or quick Loom video) showing me how to duplicate the template and send future campaigns
-
-Please build everything directly inside my Mailchimp account, keeping best-practice settings for tracking, footer compliance and unsubscribe links. A smooth, same-day handover would be ideal so I can start communicating with our subscribers right away.</description></item>
 <item><title>Professional Service Sales Website Build</title><link>https://www.freelancer.com/projects/web-design/Professional-Service-Sales-Website-Build</link><guid isPermaLink="false">freelancer:40745068</guid><pubDate>Thu, 01 Oct 2026 20:55:38 GMT</pubDate><description>8-15 USD/hr | I need a clean, responsive website whose main job is to sell my services online. The look should be modern and trustworthy, but kept simple so visitors can find what they need and move smoothly by browsing
 
 Core pages will include a homepage that introduces, an about section with images, and a contact page. No need for online booking or payment.
