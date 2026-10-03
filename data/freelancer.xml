@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Restaurant Online Ordering Website</title><link>https://www.freelancer.com/projects/web-development/Restaurant-Online-Ordering-Website-40747655</link><guid isPermaLink="false">freelancer:40747655</guid><pubDate>Sat, 03 Oct 2026 09:06:26 GMT</pubDate><description>250-750 USD | I need a clean, mobile-friendly website that lets my customers browse the menu and place orders directly from their phones or desktop. The ordering flow should feel effortless: select items, customise options, add to cart, then pay securely through PayPal.  
+
+I want the site to offer both pathways—a quick guest checkout for one-time visitors and a full account system for regulars who prefer to log in, track past orders, and save their details. Once an order is confirmed, I should receive an instant notification (email or SMS) so the kitchen can start right away.
+
+On the back end I’ll need an easy dashboard where I can:  
+• Add or edit menu items, photos, and prices  
+• Set availability or “sold out” flags in real time  
+• View, filter, and print incoming orders  
+
+Design-wise, the site should highlight our dishes with high-quality photos and work seamlessly on all devices. If you’re comfortable building this in WordPress with WooCommerce, Laravel, or another modern stack, I’m open to your recommendation as long as PayPal integration stays smooth.
+
+Deliverables I expect:
+• Fully functional, responsive website live on my hosting  
+• Integrated PayPal checkout tested with sandbox and live transactions  
+• User account / guest checkout toggle working correctly  
+• Short admin guide or screen-share walkthrough so I can manage menu and orders myself  
+
+Please share a brief outline of your approach, the tech you’d use, and a realistic timeline for getting us ready to serve online orders.</description></item>
 <item><title>AI Recruitment Platform Development</title><link>https://www.freelancer.com/projects/ai-chatbot/Recruitment-Platform-Development</link><guid isPermaLink="false">freelancer:40747635</guid><pubDate>Sat, 03 Oct 2026 08:51:14 GMT</pubDate><description>30-250 USD | I’m launching a corporate-style, AI-driven recruitment platform and need an end-to-end build that cleanly separates two web dashboards:
 
 • Candidate dashboard – must provide personalised job recommendations and real-time application-status tracking from an AI-optimised ATS. (A résumé builder is something I may add later, so please keep the architecture flexible.)
@@ -14,21 +32,6 @@ Core features I already have in mind include an applicant-tracking system, an NL
 I’m happy to discuss tech stack, although familiarity with modern frameworks (React / Vue / Angular for the front end, Node / Django / Laravel or comparable on the back end) and experience integrating AI services (OpenAI, Azure Cognitive, or similar) will be important. Clean API design, secure authentication, GDPR-aware data handling and room for future feature extensions are critical acceptance points.
 
 If you’ve built SaaS platforms with comparable complexity, please outline your approach, relevant demos, and an indicative timeline so we can map out milestones together.</description></item>
-<item><title>Elementor Site Revamp</title><link>https://www.freelancer.com/projects/elementor/Elementor-Site-Revamp</link><guid isPermaLink="false">freelancer:40747567</guid><pubDate>Sat, 03 Oct 2026 08:00:40 GMT</pubDate><description>20-250 GBP | I need a professional to update my outdated Elementor website. Updating plugins currently breaks the site. 
-
-Requirements:
-- Create an up-to-date version of the site
-- Redesign layout for a fresh look
-- Optimize speed for better performance
-- Implement functionality improvements as needed
-
-Ideal skills and experience:
-- Expertise in Elementor and WordPress
-- Experience with site speed optimization
-- Strong design skills for layout redesign
-- Ability to troubleshoot and fix broken elements
-
-Please provide a portfolio showcasing similar projects.</description></item>
 <item><title>Building Pharma Supply Chain Web Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Building-Pharma-Supply-Chain-Web</link><guid isPermaLink="false">freelancer:40747512</guid><pubDate>Sat, 03 Oct 2026 07:24:44 GMT</pubDate><description>25-50 USD/hr | # Pharmaceutical Supply Chain &amp; Traceability Web Platform
 
 ## Project Overview
