@@ -180,18 +180,6 @@ Deliverables:
 • Brief hand-over guide or video showing how to update content
 
 I’ll provide branding assets, copy and imagery; you handle design, development, and launch. Looking forward to seeing your approach and timeline.</description></item>
-<item><title>Health &amp; Wellness Product Review Writer</title><link>https://www.freelancer.com/projects/seo/Health-Wellness-Product-Review-Writer</link><guid isPermaLink="false">freelancer:40748469</guid><pubDate>Sat, 03 Oct 2026 20:51:00 GMT</pubDate><description>250-750 USD | I’m launching a health and wellness blog that will focus exclusively on product reviews. I already have a curated list of supplements, fitness gadgets, and self-care items I want covered; you’ll work from that list and expand it only after we discuss new additions.
-
-Your job is to research each item thoroughly, test or investigate user experiences where possible, and craft clear, engaging review posts that balance evidence-based insight with an approachable tone. Readers should finish each article knowing exactly what the product does, who it’s best for, any pros or cons, and whether it’s worth their money.
-
-The writing needs to be original, SEO-friendly (keywords provided per product), and formatted for easy reading on WordPress. Please include sources for claims, disclose any potential biases, and suggest photos or diagrams when useful.
-
-When you bid, let me know:
-• How many review articles you can deliver per week
-• A sample of previous health or product review work
-• Your preferred structure for a review post
-
-I’ll share the full product list and style guide once we agree to proceed.</description></item>
 <item><title>High converting landing page &amp; digital promotion for workshop in London</title><link>https://www.freelancer.com/projects/digital-marketing/High-converting-landing-page-digital</link><guid isPermaLink="false">freelancer:40748467</guid><pubDate>Sat, 03 Oct 2026 20:45:54 GMT</pubDate><description>30-250 USD | I need a premium, high-converting landing page and a short burst of digital promotion for my upcoming one-day workshop in London. The page’s sole purpose is to promote the event and turn visitors into paid attendees, so every design and copy choice should drive that outcome.
 All creative assets must reflect precision and luxury positioning to attract high-performing professionals.
 
@@ -1003,6 +991,21 @@ Deliverables:
 • A concise change log summarizing what was updated and where
 
 If you’re comfortable taking a mildly chaotic site and turning it into a tidy, current, and user-friendly experience, I’d love to hear how you’d approach it and see a timeline for completion.</description></item>
+<item><title>Multi-Company Project Management System</title><link>https://www.freelancer.com/projects/web-development/Multi-Company-Project-Management-System</link><guid isPermaLink="false">freelancer:40746328</guid><pubDate>Fri, 02 Oct 2026 13:11:23 GMT</pubDate><description>30-250 USD | I need a web-based platform that can oversee projects coming from several related companies from a single dashboard. The core focus is employee assignment and tracking: each incoming project should let a manager review available staff and manually assign the right people to every task while the system records hours and shows live progress.
+
+Beyond assignment, I still want the usual workflow tools—task creation, due dates, file attachments, comments—so our teams always have context. Every project also carries billing details. The system must generate invoices, record when they are sent, and allow us to mark payments as received or outstanding, then surface quick reports on what is still unpaid.
+
+Because multiple companies and departments will use the tool, role-based access control is essential. Administrators manage companies and users, managers handle task assignment and billing, and employees see only their own work and timesheets.
+
+Tech stack is open—Laravel, Django, Node, or even a solid low-code foundation—as long as the code is clean, well-documented, and easy to extend.
+
+Acceptance criteria:
+• Separate spaces for multiple companies, each with isolated data.  
+• Manual assignment interface that filters staff by skill or availability.  
+• Real-time dashboards for projects and individual workloads.  
+• Invoice generator with payment status tracking and summary reports.  
+• Robust role permissions: Admin, Manager, Employee.  
+• Responsive UI, source code in a private repo, and clear deployment steps.</description></item>
 <item><title>Revival Cigar Company - Shopify Cigar Store Setup</title><link>https://www.freelancer.com/projects/shopify-site/Revival-Cigar-Company-Shopify-Cigar</link><guid isPermaLink="false">freelancer:40746231</guid><pubDate>Fri, 02 Oct 2026 11:57:36 GMT</pubDate><description>25-50 USD/hr | I already have a Shopify account and a couple of premium cigars ready to list—I now need someone to transform that blank canvas into a modern, clean online store that works flawlessly from the first click to the final payment.
 
 Here’s what I’m aiming for:
