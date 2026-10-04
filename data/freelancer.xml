@@ -3,6 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Indian WordPress-AI Integration</title><link>https://www.freelancer.com/projects/rest-api/Indian-WordPress-Integration</link><guid isPermaLink="false">freelancer:40748668</guid><pubDate>Sun, 04 Oct 2026 02:24:23 GMT</pubDate><description>250-750 USD | I need a WordPress developer based in India to assist me on a small but important AI-training assignment. The core site already runs on WordPress; what I am missing is someone who can jump in, spin up a local environment quickly, and wire in the AI-related components I have prepared (Python micro-services and a REST endpoint) so the training workflow moves smoothly through the dashboard.
+
+For acceptance I will check:  
+1. The admin screens load with no PHP notices or console errors.  
+2. Training files upload successfully and reach the Python service (I will supply the API).  
+3. A short README explains setup steps and any composer/npm commands.  
+
+If you have prior experience working with wp_remote_post, custom post types, or have ever connected a WordPress site to machine-learning backends, mention it when you respond—it will speed up selection. I’m available on IST business hours for quick stand-ups and can share additional documentation once we agree on milestones.</description></item>
 <item><title>Beauty Salon Website Build</title><link>https://www.freelancer.com/projects/web-development/Beauty-Salon-Website-Build</link><guid isPermaLink="false">freelancer:40748608</guid><pubDate>Sun, 04 Oct 2026 00:27:21 GMT</pubDate><description>250-750 USD | I’m launching a new beauty-salon website and need a developer who can take it from concept to live, polished site. The project centres on a modern, mobile-friendly design that reflects the salon’s brand, while giving visitors an effortless way to book appointments online.
 
 Core functionality must include an integrated online booking system that syncs instantly with our calendar, a clearly laid-out service menu that I can update myself, and a photo gallery where high-resolution images showcase our work. I also want customers to leave publicly visible reviews, chat with staff in real-time through a live-chat widget, and browse current promotions or special offers.
@@ -883,23 +891,6 @@ Here’s what I’m aiming for:
 
 Once complete, I should be able to add new cigars or limited editions myself without breaking the layout, so please document any custom sections or settings you create. Let’s keep the site lightweight, compliant with Shopify’s latest theme standards, and mobile-optimized so cigar lovers on any device can browse, add to cart, and check out without friction.</description></item>
 <item><title>WordPress Site Visual Adjustments</title><link>https://www.freelancer.com/projects/php/WordPress-Site-Visual-Adjustments</link><guid isPermaLink="false">freelancer:40746017</guid><pubDate>Fri, 02 Oct 2026 09:22:00 GMT</pubDate><description>20-250 GBP | I am needing a little help with a few tweaks to my wordpress website, mainly just getting fonts to match on the homepage and a few other visual changes</description></item>
-<item><title>Mobile Car Wash Website Development</title><link>https://www.freelancer.com/projects/web-development/Mobile-Car-Wash-Website-Development</link><guid isPermaLink="false">freelancer:40745835</guid><pubDate>Fri, 02 Oct 2026 07:21:53 GMT</pubDate><description>10-250 CAD | I'm seeking an experienced web developer to create a professional multi-page website for my mobile car wash business. 
-
-The website should include the following pages:
-- Home Page
-- Services Page
-- Contact Page
-- About Us Page
-
-Additionally, I would like to incorporate a WhatsApp contact button for easy customer interaction.
-
-Ideal Skills and Experience:
-- Proficiency in website development, particularly for multi-page sites.
-- Experience in creating user-friendly and responsive layouts.
-- Knowledge of integrating WhatsApp contact buttons.
-- Strong design skills to ensure a professional and attractive appearance.
-
-Please provide examples of similar work done. Thank you!</description></item>
 <item><title>Professional Service Sales Website Build</title><link>https://www.freelancer.com/projects/web-design/Professional-Service-Sales-Website-Build</link><guid isPermaLink="false">freelancer:40745068</guid><pubDate>Thu, 01 Oct 2026 20:55:38 GMT</pubDate><description>8-15 USD/hr | I need a clean, responsive website whose main job is to sell my services online. The look should be modern and trustworthy, but kept simple so visitors can find what they need and move smoothly by browsing
 
 Core pages will include a homepage that introduces, an about section with images, and a contact page. No need for online booking or payment.
