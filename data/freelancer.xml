@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI-Powered Budgeting Tool Development</title><link>https://www.freelancer.com/projects/ai-automation/Powered-Budgeting-Tool-Development</link><guid isPermaLink="false">freelancer:40749852</guid><pubDate>Sun, 04 Oct 2026 19:32:23 GMT</pubDate><description>250-750 CAD | I'm looking for a skilled developer to create a web-based financial planning application. The app should cater to freelancers, gig workers, students, or new grads, featuring:
+
+  - Bank account syncing 
+  - Smart budgeting 
+  - Overdraft prevention 
+  - Automated savings 
+
+User authentication should be via email and password. 
+
+The ideal candidate will have experience in:
+
+  - Web application development
+  - Secure user authentication implementation
+  - Bank integration, preferably with both read-only and full access capabilities
+
+Experience in AI financial tools is a plus.</description></item>
 <item><title>Vibrant Portfolio Website for Hairstylist</title><link>https://www.freelancer.com/projects/web-design/Vibrant-Portfolio-Website-for</link><guid isPermaLink="false">freelancer:40749811</guid><pubDate>Sun, 04 Oct 2026 18:45:15 GMT</pubDate><description>15-25 USD/hr | I'm looking for a creative web developer to design a vibrant and colorful portfolio website for my hairstyling business. The main purpose of the website is to showcase my portfolio and attract potential clients.
 
 Key Features:
@@ -1066,21 +1082,6 @@ Deliverables:
 • A concise change log summarizing what was updated and where
 
 If you’re comfortable taking a mildly chaotic site and turning it into a tidy, current, and user-friendly experience, I’d love to hear how you’d approach it and see a timeline for completion.</description></item>
-<item><title>Multi-Company Project Management System</title><link>https://www.freelancer.com/projects/web-development/Multi-Company-Project-Management-System</link><guid isPermaLink="false">freelancer:40746328</guid><pubDate>Fri, 02 Oct 2026 13:11:23 GMT</pubDate><description>30-250 USD | I need a web-based platform that can oversee projects coming from several related companies from a single dashboard. The core focus is employee assignment and tracking: each incoming project should let a manager review available staff and manually assign the right people to every task while the system records hours and shows live progress.
-
-Beyond assignment, I still want the usual workflow tools—task creation, due dates, file attachments, comments—so our teams always have context. Every project also carries billing details. The system must generate invoices, record when they are sent, and allow us to mark payments as received or outstanding, then surface quick reports on what is still unpaid.
-
-Because multiple companies and departments will use the tool, role-based access control is essential. Administrators manage companies and users, managers handle task assignment and billing, and employees see only their own work and timesheets.
-
-Tech stack is open—Laravel, Django, Node, or even a solid low-code foundation—as long as the code is clean, well-documented, and easy to extend.
-
-Acceptance criteria:
-• Separate spaces for multiple companies, each with isolated data.  
-• Manual assignment interface that filters staff by skill or availability.  
-• Real-time dashboards for projects and individual workloads.  
-• Invoice generator with payment status tracking and summary reports.  
-• Robust role permissions: Admin, Manager, Employee.  
-• Responsive UI, source code in a private repo, and clear deployment steps.</description></item>
 <item><title>Revival Cigar Company - Shopify Cigar Store Setup</title><link>https://www.freelancer.com/projects/shopify-site/Revival-Cigar-Company-Shopify-Cigar</link><guid isPermaLink="false">freelancer:40746231</guid><pubDate>Fri, 02 Oct 2026 11:57:36 GMT</pubDate><description>25-50 USD/hr | I already have a Shopify account and a couple of premium cigars ready to list—I now need someone to transform that blank canvas into a modern, clean online store that works flawlessly from the first click to the final payment.
 
 Here’s what I’m aiming for:
