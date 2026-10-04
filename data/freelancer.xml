@@ -3,6 +3,12 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Squarespace Mobile Navigation Usability</title><link>https://www.freelancer.com/projects/squarespace/Fix-Squarespace-Mobile-Navigation</link><guid isPermaLink="false">freelancer:40749698</guid><pubDate>Sun, 04 Oct 2026 17:00:46 GMT</pubDate><description>250-750 USD | Greetings,
+I am building a photography portfolio website using Squarespace to showcase my photographs. The site is fairly simple—there is no e-commerce, blogging, or event functionality—and I am satisfied with how the desktop version looks.
+Where I have been struggling is with the mobile version, Mobile-responsive design. It does not display as well as I would like across different screen orientations, there is quite a bit of unnecessary empty space on some pages, and the overall mobile experience does not feel as polished or user-friendly as the desktop version. I would also like to improve how visitors can view and interact with the photographs on mobile devices, including landscape and portrait viewing and, if possible, better image zooming or expansion.
+I am looking for a quote for focused assistance with the mobile version rather than a complete website redesign. Photography is a personal hobby rather than a business for me, so I am trying to keep the scope and cost reasonable, but I am certainly willing to pay for professional help to get the site looking and functioning the way it should.
+If this is something you work with, I would be happy to provide a link to the site and any additional information you would need to estimate the work.
+Thank you,</description></item>
 <item><title>Vanilla JS, HTML, CSS Website Development</title><link>https://www.freelancer.com/projects/frontend-development/Vanilla-HTML-CSS-Website-Development</link><guid isPermaLink="false">freelancer:40749679</guid><pubDate>Sun, 04 Oct 2026 16:47:44 GMT</pubDate><description>250-750 USD | Project Title: Build a Fast, Responsive Website Using HTML, CSS and Vanilla JavaScript
 
 I’m looking for a frontend developer to build a small, polished website using HTML, CSS and vanilla JavaScript. The finished site should be fast, responsive and easy to maintain, with no external frameworks, libraries or build tools required.
@@ -1005,21 +1011,6 @@ Deliverables:
 • A concise change log summarizing what was updated and where
 
 If you’re comfortable taking a mildly chaotic site and turning it into a tidy, current, and user-friendly experience, I’d love to hear how you’d approach it and see a timeline for completion.</description></item>
-<item><title>Multi-Company Project Management System</title><link>https://www.freelancer.com/projects/web-development/Multi-Company-Project-Management-System</link><guid isPermaLink="false">freelancer:40746328</guid><pubDate>Fri, 02 Oct 2026 13:11:23 GMT</pubDate><description>30-250 USD | I need a web-based platform that can oversee projects coming from several related companies from a single dashboard. The core focus is employee assignment and tracking: each incoming project should let a manager review available staff and manually assign the right people to every task while the system records hours and shows live progress.
-
-Beyond assignment, I still want the usual workflow tools—task creation, due dates, file attachments, comments—so our teams always have context. Every project also carries billing details. The system must generate invoices, record when they are sent, and allow us to mark payments as received or outstanding, then surface quick reports on what is still unpaid.
-
-Because multiple companies and departments will use the tool, role-based access control is essential. Administrators manage companies and users, managers handle task assignment and billing, and employees see only their own work and timesheets.
-
-Tech stack is open—Laravel, Django, Node, or even a solid low-code foundation—as long as the code is clean, well-documented, and easy to extend.
-
-Acceptance criteria:
-• Separate spaces for multiple companies, each with isolated data.  
-• Manual assignment interface that filters staff by skill or availability.  
-• Real-time dashboards for projects and individual workloads.  
-• Invoice generator with payment status tracking and summary reports.  
-• Robust role permissions: Admin, Manager, Employee.  
-• Responsive UI, source code in a private repo, and clear deployment steps.</description></item>
 <item><title>Revival Cigar Company - Shopify Cigar Store Setup</title><link>https://www.freelancer.com/projects/shopify-site/Revival-Cigar-Company-Shopify-Cigar</link><guid isPermaLink="false">freelancer:40746231</guid><pubDate>Fri, 02 Oct 2026 11:57:36 GMT</pubDate><description>25-50 USD/hr | I already have a Shopify account and a couple of premium cigars ready to list—I now need someone to transform that blank canvas into a modern, clean online store that works flawlessly from the first click to the final payment.
 
 Here’s what I’m aiming for:
