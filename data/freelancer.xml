@@ -3,37 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Responsive Portfolio Microsite Build</title><link>https://www.freelancer.com/projects/seo/Responsive-Portfolio-Microsite-Build</link><guid isPermaLink="false">freelancer:40749704</guid><pubDate>Sun, 04 Oct 2026 17:08:57 GMT</pubDate><description>250-750 USD | I need a lightweight, hand-coded portfolio site (1–3 pages) built with plain HTML5, external CSS3, and vanilla JavaScript. The design must be clean and professional, adapt smoothly to phones, tablets, and desktops, and keep page weight low for fast loading.
+
+Key points I want you to observe:
+• Separate, well-commented CSS and JS files only—no frameworks or third-party libraries.  
+• Graceful degradation: core content should remain fully readable even if JavaScript is disabled.  
+• Basic on-page SEO (title tags, meta description/keywords, semantic headings, alt text) and a favicon.  
+• Accessibility best practices (proper landmarks, contrast, ARIA labels where appropriate).  
+• Cross-browser consistency in the latest versions of Chrome, Firefox, Safari, and Edge.  
+• A touch of subtle, tasteful effects—think hover states or small fade-ins where they genuinely add polish without bloating the code.
+
+Deliverables
+1. Complete, well-structured source files (HTML, CSS, JS, images, favicon).  
+2. A concise, plain-language guide (PDF or Markdown) showing me where to edit text/images and how to upload the site.  
+
+When you reply, please link to two or three small, responsive portfolio/gallery sites you coded in pure HTML/CSS/JS, let me know your timeframe, and give me your fixed price for the job.  
+
+I’m ready to get started as soon as I find the right match—thanks for your interest!</description></item>
 <item><title>Fix Squarespace Mobile Navigation Usability</title><link>https://www.freelancer.com/projects/squarespace/Fix-Squarespace-Mobile-Navigation</link><guid isPermaLink="false">freelancer:40749698</guid><pubDate>Sun, 04 Oct 2026 17:00:46 GMT</pubDate><description>250-750 USD | Greetings,
 I am building a photography portfolio website using Squarespace to showcase my photographs. The site is fairly simple—there is no e-commerce, blogging, or event functionality—and I am satisfied with how the desktop version looks.
 Where I have been struggling is with the mobile version, Mobile-responsive design. It does not display as well as I would like across different screen orientations, there is quite a bit of unnecessary empty space on some pages, and the overall mobile experience does not feel as polished or user-friendly as the desktop version. I would also like to improve how visitors can view and interact with the photographs on mobile devices, including landscape and portrait viewing and, if possible, better image zooming or expansion.
 I am looking for a quote for focused assistance with the mobile version rather than a complete website redesign. Photography is a personal hobby rather than a business for me, so I am trying to keep the scope and cost reasonable, but I am certainly willing to pay for professional help to get the site looking and functioning the way it should.
 If this is something you work with, I would be happy to provide a link to the site and any additional information you would need to estimate the work.
 Thank you,</description></item>
-<item><title>Vanilla JS, HTML, CSS Website Development</title><link>https://www.freelancer.com/projects/frontend-development/Vanilla-HTML-CSS-Website-Development</link><guid isPermaLink="false">freelancer:40749679</guid><pubDate>Sun, 04 Oct 2026 16:47:44 GMT</pubDate><description>250-750 USD | Project Title: Build a Fast, Responsive Website Using HTML, CSS and Vanilla JavaScript
-
-I’m looking for a frontend developer to build a small, polished website using HTML, CSS and vanilla JavaScript. The finished site should be fast, responsive and easy to maintain, with no external frameworks, libraries or build tools required.
-
-Project requirements
-
-A consistent, professional layout across desktop, tablet and mobile screens.
-Clean, semantic HTML and well-organized code, with useful comments.
-Separate CSS and JavaScript files—no inline styles or scripts.
-Compatibility with current versions of Chrome, Firefox, Safari and Edge.
-Basic on-page SEO, including page titles, meta descriptions, a favicon and Open Graph tags.
-Lightweight interactions where appropriate, such as hover effects, subtle animations, tabs or modals.
-Accessible navigation and controls, with essential content usable if JavaScript is disabled.
-
-Deliverables
-
-A ZIP containing all HTML, CSS, JavaScript and asset files, ready to upload directly to my hosting.
-A short README explaining the folder structure and how to update content, styles or add pages.
-A summary of the browsers and screen sizes tested.
-
-Please include in your proposal
-
-One or two examples of similar websites you’ve built without frameworks.
-Your estimated timeline and total price.
-Any questions or information you need to confirm the scope before starting.</description></item>
 <item><title>Shopify Store Development with Website Integration</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Development-with-Website</link><guid isPermaLink="false">freelancer:40749535</guid><pubDate>Sun, 04 Oct 2026 14:55:00 GMT</pubDate><description>250-750 GBP | I need help developing a Shopify online shop for selling physical products. I have some design ideas but need guidance.
 
 Key requirements:
