@@ -3,6 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Mobile Layout Optimization for WooCommerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Mobile-Layout-Optimization-for</link><guid isPermaLink="false">freelancer:40749992</guid><pubDate>Sun, 04 Oct 2026 22:19:39 GMT</pubDate><description>30-250 USD | revivifybeautysalon.com
+
+Project Overview
+
+1.Mobile Layout Optimization (Desktop View with Enhanced Menu)
+We are looking for an experienced WordPress and WooCommerce developer to optimize our website's mobile layout. Currently, when viewing the site on a mobile device, we prefer the structure, scaling, and proportions of the native desktop layout (similar to how a phone renders a site when a user manually checks "Request Desktop Site").
+The goal of this project is to make the website display this full desktop layout by default for all mobile visitors, while ensuring that the navigation menu, buttons, and links are dynamically adjusted so they do not appear too tiny or difficult to interact with.
+Key Scope &amp; Deliverables
+
+Desktop Layout Replication on Mobile: Modify the mobile responsiveness configuration so the site renders the complete desktop wireframe, structure, and alignment on smaller screens instead of collapsing into a traditional vertical stacked mobile template.
+Menu Optimization: Ensure that the header navigation, drop-down menus, and text links remain large, proportional, and fully optimized for touch targets. The menu must be easily readable and clickable without requiring the user to pinch-to-zoom.
+
+Fluid Element Adjustments: Optimize main action buttons, product filters, and essential links across the shop pages so they scale smoothly without overlapping or breaking out of the container layout.
+
+Clean Code Integration: All modifications must be executed using efficient, properly structured CSS overrides within the child theme or designated custom code areas. Do not install unnecessary layout or code injection plugins that could cause conflicts or slow down site performance.
+
+CSS
+2.Widen Website Footer Layout on Desktop
+
+3.Troubleshooting:  Fix Website Caching and Content Refresh Issues
+
+4.Add "Sale" Badge Button to Shop Page Items
+
+5.Fix Global Product Button Conflict on the Shop &amp; Product Page (Add to Cart - Options - Shop Now)
+
+6.Fix Mobile Page-Jumping Bug on Product Pages
+
+7.Update Heading Typography Across Shop and Product Pages
+
+8.WooCommerce Custom Product Box Layout design
+
+9.WordPress JavaScript Developer: Floating and Draggable Mobile Mini-Cart Implementation
+
+10.WordPress Frontend Developer: Fix Layout Stability and Prevent Element Overlapping on Browser Zoom
+
+11.Keep Product Variation Descriptions Always Visible by Default and make it wide screen</description></item>
 <item><title>Professional Digital Portfolio Creation</title><link>https://www.freelancer.com/projects/wix/Professional-Digital-Portfolio-Creation</link><guid isPermaLink="false">freelancer:40749983</guid><pubDate>Sun, 04 Oct 2026 22:02:07 GMT</pubDate><description>250-750 USD | I need a digital portfolio to enhance my job search.
 
 Requirements:
@@ -783,68 +819,6 @@ Acceptance criteria
 4. System withstands a simulated 50 concurrent application load without noticeable delay (&lt;2 s per step).
 
 Suggest the stack you are strongest with—whether that’s Node.js + React, Laravel + Vue, or .NET—and outline your approach to security and data compliance when you place your bid.</description></item>
-<item><title>Integrate WooCommerce, n8n and Customer.io</title><link>https://www.freelancer.com/projects/n8n/Integrate-WooCommerce-Customer</link><guid isPermaLink="false">freelancer:40746884</guid><pubDate>Fri, 02 Oct 2026 19:40:50 GMT</pubDate><description>30-250 USD | ### WooCommerce → n8n → Customer.io Integration
-
-I’m looking for someone to set up a reliable integration between **WooCommerce, n8n, and Customer.io**.
-
-The main objective is to make **Customer.io receive complete and accurate customer + order data from WooCommerce**, so I can use that data later for segmentation, campaigns, and automated Journeys.
-
-Reference:
-[n8n WooCommerce + Customer.io integration](https://n8n.io/integrations/customerio/and/woocommerce/?utm_source=chatgpt.com)
-
-### Key Requirements
-
-**Customer Data**
-- New customer creation and updates
-- Name, email, phone, billing/shipping information where appropriate
-- Customer ID
-- Customer account/order history
-- Relevant WooCommerce customer fields and characteristics
-
-**Order Data**
-- Order ID
-- Order date
-- Order status
-- Order total
-- Products purchased
-- Product names/IDs/SKUs
-- Quantities
-- Product categories
-- Discounts/coupons
-- Shipping information where appropriate
-- Payment/order information where appropriate
-- Refunds/cancellations and relevant status changes
-
-### Customer.io Events / Attributes
-
-Please structure the integration so that Customer.io receives the data in a clean, usable format, with appropriate **customer attributes and order/purchase events**.
-
-I want to be able to create Customer.io segments and Journeys based on things such as:
-
-- Specific products purchased
-- Purchase history
-- Number of orders
-- Order value
-- Last purchase
-- Customer status
-- Product/category purchased
-- Repeat vs. first-time customers
-- Order status
-- Other useful WooCommerce characteristics
-
-### Reliability
-
-The integration should:
-- Avoid creating duplicate customers/events
-- Correctly handle customer and order updates
-- Properly handle relevant WooCommerce status changes
-- Include error handling/logging where appropriate
-- Be tested with real WooCommerce test orders
-- Be documented so I can understand how the workflows are structured and maintain them afterward
-
-**Important:** I am primarily looking for the **WooCommerce → n8n → Customer.io data infrastructure/linkage**. I do not need the freelancer to build all of my Customer.io marketing Journeys or email campaigns.
-
-Please explain your proposed workflow, what WooCommerce data you can pass into Customer.io, and your estimated completion time/cost.</description></item>
 <item><title>Website Refinement and Content Development</title><link>https://www.freelancer.com/projects/content-development/Website-Refinement-Content-Development</link><guid isPermaLink="false">freelancer:40746570</guid><pubDate>Fri, 02 Oct 2026 16:05:04 GMT</pubDate><description>15-25 USD/hr | Website is already online (But needs minor(major) adjustments related to consistency .  Site consists of about  5 pages.  Each page consist of buttons directing site to personal stories of my past experiences 
 
 Also would like for me to develop  new stories/events  .  Send to you to update  site.  Uploads will be ready for inserting  after your creating the responsive layouts
