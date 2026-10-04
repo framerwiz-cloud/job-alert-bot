@@ -81,62 +81,6 @@ Ideal Skills and Experience:
 
 - I need set-up and the ability to answer question through email or text about the ongoing project.
 - I already have a logo, however you would need to recrate it with a zip file to use for all my products, signage, stickers and clothing.  Color scheme is Navy blue back ground and gold logo.</description></item>
-<item><title>Enhancing Website: Functionality &amp; Content Upgrade</title><link>https://www.freelancer.com/projects/web-development/Enhancing-Website-Functionality-Content</link><guid isPermaLink="false">freelancer:40749961</guid><pubDate>Sun, 04 Oct 2026 21:39:44 GMT</pubDate><description>250-750 USD | Website Functionality &amp; Content Updates
-I’m looking for an experienced web developer to improve my existing website by implementing new functionality and updating content where needed.
-
-What I Need
-Functionality Updates: Build, integrate, or modify features based on the requirements I provide.
-
-Content Updates: Add and format new copy in the appropriate sections while preserving the existing design and layout.
-
-Responsive Development: Ensure all changes work smoothly across desktop, tablet, and mobile devices.
-
-Cross-Browser Compatibility: Test the updated website thoroughly on modern browsers.
-
-Clean Code: Keep the implementation well-structured, maintainable, and consistent with the existing codebase.
-
-Quality Assurance: Identify and fix any issues introduced during development before final delivery.
-
-What I’ll Provide
-Once the project begins, I’ll provide:
-
-Website/access credentials
-
-A detailed list of required features and functionality
-
-Finalized text/content to be added
-
-Any additional information needed to complete the work
-
-Deliverables
-Fully updated website with all requested functionality implemented
-
-Updated source files
-
-Any custom scripts, integrations, or plugins added
-
-Responsive and cross-browser-tested implementation
-
-Short hand-off note summarizing the changes and indicating where updates were made
-
-Ideal Freelancer
-I’m looking for someone who:
-
-Has solid experience with website development and feature implementation
-
-Can work confidently within an existing codebase
-
-Understands responsive web design and cross-browser compatibility
-
-Writes clean, reliable, maintainable code
-
-Pays close attention to existing layouts and functionality
-
-Thoroughly tests their work before delivery
-
-Communicates clearly and can follow detailed requirements
-
-Please include a brief overview of your relevant experience, examples of similar website projects you’ve completed, and your estimated timeline when applying.</description></item>
 <item><title>Wholesale Order Website Development</title><link>https://www.freelancer.com/projects/web-development/Wholesale-Order-Website-Development</link><guid isPermaLink="false">freelancer:40749910</guid><pubDate>Sun, 04 Oct 2026 20:23:28 GMT</pubDate><description>30-250 USD | I'm looking to build a secure website for Marhaba Wholesale. The site should feature a comprehensive catalog of our products—food, beverages, merchandise, tobacco, and vapes—along with a private order sheet.
 
 Key requirements include:
@@ -833,6 +777,68 @@ Acceptance criteria
 4. System withstands a simulated 50 concurrent application load without noticeable delay (&lt;2 s per step).
 
 Suggest the stack you are strongest with—whether that’s Node.js + React, Laravel + Vue, or .NET—and outline your approach to security and data compliance when you place your bid.</description></item>
+<item><title>Integrate WooCommerce, n8n and Customer.io</title><link>https://www.freelancer.com/projects/n8n/Integrate-WooCommerce-Customer</link><guid isPermaLink="false">freelancer:40746884</guid><pubDate>Fri, 02 Oct 2026 19:40:50 GMT</pubDate><description>30-250 USD | ### WooCommerce → n8n → Customer.io Integration
+
+I’m looking for someone to set up a reliable integration between **WooCommerce, n8n, and Customer.io**.
+
+The main objective is to make **Customer.io receive complete and accurate customer + order data from WooCommerce**, so I can use that data later for segmentation, campaigns, and automated Journeys.
+
+Reference:
+[n8n WooCommerce + Customer.io integration](https://n8n.io/integrations/customerio/and/woocommerce/?utm_source=chatgpt.com)
+
+### Key Requirements
+
+**Customer Data**
+- New customer creation and updates
+- Name, email, phone, billing/shipping information where appropriate
+- Customer ID
+- Customer account/order history
+- Relevant WooCommerce customer fields and characteristics
+
+**Order Data**
+- Order ID
+- Order date
+- Order status
+- Order total
+- Products purchased
+- Product names/IDs/SKUs
+- Quantities
+- Product categories
+- Discounts/coupons
+- Shipping information where appropriate
+- Payment/order information where appropriate
+- Refunds/cancellations and relevant status changes
+
+### Customer.io Events / Attributes
+
+Please structure the integration so that Customer.io receives the data in a clean, usable format, with appropriate **customer attributes and order/purchase events**.
+
+I want to be able to create Customer.io segments and Journeys based on things such as:
+
+- Specific products purchased
+- Purchase history
+- Number of orders
+- Order value
+- Last purchase
+- Customer status
+- Product/category purchased
+- Repeat vs. first-time customers
+- Order status
+- Other useful WooCommerce characteristics
+
+### Reliability
+
+The integration should:
+- Avoid creating duplicate customers/events
+- Correctly handle customer and order updates
+- Properly handle relevant WooCommerce status changes
+- Include error handling/logging where appropriate
+- Be tested with real WooCommerce test orders
+- Be documented so I can understand how the workflows are structured and maintain them afterward
+
+**Important:** I am primarily looking for the **WooCommerce → n8n → Customer.io data infrastructure/linkage**. I do not need the freelancer to build all of my Customer.io marketing Journeys or email campaigns.
+
+Please explain your proposed workflow, what WooCommerce data you can pass into Customer.io, and your estimated completion time/cost.</description></item>
 <item><title>Website Refinement and Content Development</title><link>https://www.freelancer.com/projects/content-development/Website-Refinement-Content-Development</link><guid isPermaLink="false">freelancer:40746570</guid><pubDate>Fri, 02 Oct 2026 16:05:04 GMT</pubDate><description>15-25 USD/hr | Website is already online (But needs minor(major) adjustments related to consistency .  Site consists of about  5 pages.  Each page consist of buttons directing site to personal stories of my past experiences 
 
 Also would like for me to develop  new stories/events  .  Send to you to update  site.  Uploads will be ready for inserting  after your creating the responsive layouts
