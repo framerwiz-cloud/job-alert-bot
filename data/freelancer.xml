@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Car Company Website Development</title><link>https://www.freelancer.com/projects/web-development/Car-Company-Website-Development</link><guid isPermaLink="false">freelancer:40751068</guid><pubDate>Mon, 05 Oct 2026 12:19:10 GMT</pubDate><description>750-1500 EUR | please check  Doc File G54  for design....I’m ready to establish a polished online presence for my car company and need a full website built from the ground up. The site has to be clean, fast, and responsive, with a design that reflects an automotive brand—bold hero imagery, clear typography, and subtle, performance-friendly animations.
+
+Core structure I have in mind:
+• Home page introducing the brand story
+• Range page showcasing each model with specs, galleries, and downloadable brochures
+• After-sales section covering maintenance, trade-in, and financing information
+• Contact page with an enquiry form, embedded map, and clear calls-to-action
+
+I want a CMS that lets my team add new models, update prices, images, and copy without touching code. If you favour WordPress, use a lightweight theme or starter framework; if you recommend another stack, explain the maintenance needs. Whichever route we take, configure HTTPS, basic on-page SEO (semantic markup, meta tags, sitemap), and Google Analytics before hand-off.
+
+Deliverables:
+• Fully responsive website ready to launch on my domain
+• CMS login with short documentation for content updates
+• Optimised images, editable design assets, and licences for any premium resources
+• Deployment assistance to my hosting account
+
+Acceptance criteria:
+– Every page loads in under 3 seconds on a 4G connection  
+– Proper rendering on the latest Chrome, Safari, Edge, and Firefox—desktop and mobile  
+– Accessibility meets WCAG 2.1 AA for colour contrast and alt text  
+– No console errors; enquiry form sends successfully to my email address
+
+Let me know your proposed tech stack and timeline along with any clarifying questions.</description></item>
 <item><title>Custom Website Development with Local SEO</title><link>https://www.freelancer.com/projects/web-development/Custom-Website-Development-with-Local</link><guid isPermaLink="false">freelancer:40751062</guid><pubDate>Mon, 05 Oct 2026 12:13:16 GMT</pubDate><description>250-750 USD | I need a web developer to build a website ranging from a single page to a 5+ custom page site, including Home, Services, About, Portfolio, Blog/News, Contact, and Bookings. The site should include a built-in CMS for easy content updates, an advanced portfolio system with categorized galleries, and booking or calendar integration for client appointments. I also need local SEO setup for service pages targeting nearby areas to improve Google Maps and search visibility.</description></item>
 <item><title>Finalize Business Trade Website</title><link>https://www.freelancer.com/projects/frontend-development/Finalize-Business-Trade-Website</link><guid isPermaLink="false">freelancer:40750801</guid><pubDate>Mon, 05 Oct 2026 09:26:54 GMT</pubDate><description>250-750 GBP | The core of the site is already in place, but it still needs that final polish and a coherent design framework to bring everything together. I need someone to step in, tidy up what’s there, and wrap it all inside a responsive, modern UI—whether you prefer Bootstrap, Tailwind, or another solid front-end toolkit is up to you as long as the result is lean and fast.
 
@@ -709,52 +732,6 @@ Core features I already have in mind include an applicant-tracking system, an NL
 I’m happy to discuss tech stack, although familiarity with modern frameworks (React / Vue / Angular for the front end, Node / Django / Laravel or comparable on the back end) and experience integrating AI services (OpenAI, Azure Cognitive, or similar) will be important. Clean API design, secure authentication, GDPR-aware data handling and room for future feature extensions are critical acceptance points.
 
 If you’ve built SaaS platforms with comparable complexity, please outline your approach, relevant demos, and an indicative timeline so we can map out milestones together.</description></item>
-<item><title>Elementor Expert Needed: Single-Page WordPress Website for Real Estate Business</title><link>https://www.freelancer.com/projects/elementor/Elementor-Expert-Needed-Single-Page</link><guid isPermaLink="false">freelancer:40747375</guid><pubDate>Sat, 03 Oct 2026 05:52:42 GMT</pubDate><description>100-150 USD | I run a real estate business and need a clean, professional one-page website built on WordPress using Elementor.
-
-What I need:
-
-A single-page, scrolling website with these sections:
-Hero section with a strong headline and call-to-action button
-About Us / company introduction
-Services (buying, selling, renting, property management, etc.)
-Featured properties (gallery or grid with photos, price, and location)
-Testimonials / client reviews
-Contact section with an inquiry form
-Footer with address, phone, email, and social media links
-Fully mobile responsive (looks great on phones and tablets)
-Fast loading speed and clean, modern design
-Click-to-call and WhatsApp button
-Contact form connected to my email
-Google Maps embed showing my office location
-Basic SEO setup (page title, meta description, image optimization)
-Smooth scrolling navigation menu that jumps to each section
-
-What I will provide:
-
-Logo, brand colors, and business details
-Property photos and text content (or I can discuss content help)
-Domain and hosting access (or help me set this up if needed)
-
-Requirements:
-
-Proven experience with WordPress and Elementor (Elementor Pro is a plus)
-Portfolio of real estate or business websites
-Good communication and ability to meet deadlines
-Clean, professional design sense
-
-Deliverables:
-
-Complete one-page website, live and ready to use
-Short tutorial or video on how to edit the content myself
-1 week of free support after delivery for bug fixes
-
-To apply, please include:
-
-Links to 2-3 similar websites you've built
-Your estimated timeline
-Your price for the full project
-
-Please start your bid with the word "Elementor" so I know you've read this carefully.</description></item>
 <item><title>Business Website Design Needed</title><link>https://www.freelancer.com/projects/web-design/Business-Website-Design-Needed-40747165</link><guid isPermaLink="false">freelancer:40747165</guid><pubDate>Sat, 03 Oct 2026 01:49:27 GMT</pubDate><description>15-25 USD/hr | I’m ready to refresh my company’s online presence and need a talented web designer to create a clean, modern business site. The scope is focused purely on design—no coding required.
 
 What I’m after  
