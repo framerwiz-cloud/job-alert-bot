@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Repair Quote &amp; Lead Tracker Creation</title><link>https://www.freelancer.com/projects/wordpress-plugin/WordPress-Repair-Quote-Lead-Tracker</link><guid isPermaLink="false">freelancer:40750104</guid><pubDate>Mon, 05 Oct 2026 00:31:04 GMT</pubDate><description>30-250 AUD | Repair quote and lead tracking tool for WordPress site (phones and tablets)
+What we need
+A quote tool where customers choose their device brand, model and issue, then receive an estimated price. We're open to either of these approaches:
+
+Plug in a reputable existing WordPress plugin 
+Build a simple, lightweight tool.
+
+Please tell us which you recommend and why, and keep it cost effective.
+
+Must have
+
+Easy pricing control: We can add a new model and update prices ourselves, with CSV import for bulk changes.
+Quote emailed after details: The customer enters name, mobile and email and the quote is emailed to them. Prices are GST inclusive and marked as estimates.
+Lead tracking: Every submission (contact details, device, issue, quote, date) is saved and synced to a Google Sheet, and we get an instant email alert so we can follow up.
+Mobile-friendly and spam-protected.
+
+Terms
+
+Fixed price with milestone payments, built on a staging copy.
+Short video walkthrough and 30 days of bug fixes included.
+We own all logins and files.
+
+To apply
+Send your recommended approach, a fixed quote with timeframe, and two live examples of price calculators or multi-step forms you've built on WordPress</description></item>
 <item><title>FC27 Boosting Discord Build</title><link>https://www.freelancer.com/projects/discord-api/Boosting-Discord-Build</link><guid isPermaLink="false">freelancer:40750082</guid><pubDate>Mon, 05 Oct 2026 00:15:09 GMT</pubDate><description>250-750 GBP | I’m setting up a dedicated Discord hub for our FC27 Pro Clubs boosting business and need the entire server planned, configured, and automated from day one. Customers must be able to join, pay, and track their boost without staff micromanagement, while boosters see exactly what they need to do.
 
 Core requirements  
@@ -780,22 +804,6 @@ Acceptance criteria
 The theme, layout, and any recommended plugins are open for discussion as long as performance stays fast and the checkout flow remains frictionless on both desktop and mobile. Once the core features are in place I’ll need a quick walkthrough of the admin area so I can manage products, coupons, and basic reports myself.
 
 Please outline your proposed timeline, the plugins or custom code you’d lean on for these three features, and any recent WooCommerce stores you’ve launched that showcase similar functionality.</description></item>
-<item><title>Automated MCA Underwriting CRM Build</title><link>https://www.freelancer.com/projects/api/Automated-MCA-Underwriting-CRM-Build</link><guid isPermaLink="false">freelancer:40746957</guid><pubDate>Fri, 02 Oct 2026 20:49:33 GMT</pubDate><description>10000-20000 USD | I need a purpose-built CRM that streamlines the entire Merchant Cash Advance underwriting flow. The core of the project is true underwriting automation: the system must pull applicant data, run real-time risk assessment, verify uploaded documents for authenticity, and calculate credit scores that fit MCA criteria.
-
-Deliverables  
-• Fully functional web CRM with underwriting automation modules (risk assessment, document verification, credit scoring)  
-• Live integrations to agreed third-party data providers with fallback handling for API downtime  
-• Source code and technical documentation covering architecture, data flow, and deployment steps  
-• Brief onboarding guide for underwriters and an admin panel walkthrough  
-• Post-launch support to fix critical defects detected in the first 30 days
-
-Acceptance criteria  
-1. An uploaded application reaches an underwriting decision in one click, completing all three automation steps.  
-2. Each automated decision logs the raw data, rules triggered, and final score for audit review.  
-3. Switching any data provider requires no code changes beyond the integration layer.  
-4. System withstands a simulated 50 concurrent application load without noticeable delay (&lt;2 s per step).
-
-Suggest the stack you are strongest with—whether that’s Node.js + React, Laravel + Vue, or .NET—and outline your approach to security and data compliance when you place your bid.</description></item>
 <item><title>Website Refinement and Content Development</title><link>https://www.freelancer.com/projects/content-development/Website-Refinement-Content-Development</link><guid isPermaLink="false">freelancer:40746570</guid><pubDate>Fri, 02 Oct 2026 16:05:04 GMT</pubDate><description>15-25 USD/hr | Website is already online (But needs minor(major) adjustments related to consistency .  Site consists of about  5 pages.  Each page consist of buttons directing site to personal stories of my past experiences 
 
 Also would like for me to develop  new stories/events  .  Send to you to update  site.  Uploads will be ready for inserting  after your creating the responsive layouts
