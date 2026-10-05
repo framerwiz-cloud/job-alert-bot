@@ -519,6 +519,22 @@ Project approach
 We expect the successful technical team to contribute across:
 Discovery → requirements → architecture → UX/UI → development → integrations → testing → accessibility → security → deployment → handover → maintenance/support.
 We already have project/business management capability and previous digital-project experience. We are looking to add exceptional technical specialists with a proven track record to the delivery team.</description></item>
+<item><title>Document Mangomint-Inspired Platform Features</title><link>https://www.freelancer.com/projects/saas-development/Document-Mangomint-Inspired-Platform</link><guid isPermaLink="false">freelancer:40748395</guid><pubDate>Sat, 03 Oct 2026 19:33:11 GMT</pubDate><description>250-750 USD | I’m preparing to build a salon-focused SaaS product that mirrors the experience of Mangomint, and I need a meticulous functional blueprint before a single line of code is written. Your job is to deep-dive into every corner of https://www.mangomint.com/—from public pages to the trial flow—and translate what you see into a clear, developer-ready specification.
+
+The scope centers on three pillars that Mangomint excels at and that I must replicate for salons and spas: appointment scheduling, billing &amp; invoicing, and customer management. I want to know how each screen, click, and data element supports those pillars and how they tie together in real-world salon workflows (client booking, service tickets, tip handling, product upsells, memberships, etc.).
+
+Deliverables  
+• A structured Feature Catalog capturing objectives, users, actions, and acceptance criteria for every discovered function.  
+• End-to-end user flows and annotated wireframes (low-fidelity is fine) showing screens, states, and edge cases.  
+• Data &amp; API blueprint: entities, attributes, relationships, and essential endpoints covering scheduling, payments, and customer profiles.  
+• Integration notes for payment processors, SMS/email reminders, and calendar sync.  
+• Gap analysis highlighting anything Mangomint overlooks that could give us an edge.  
+• A concise executive summary that a non-technical stakeholder can digest in five minutes.
+
+Acceptance Criteria  
+The document must let a competent engineering team (human or AI) estimate, plan, and start implementation with no major open questions about core flows. All diagrams should be exportable (PDF/SVG) and all text delivered in an editable format (Google Docs or Markdown).
+
+If you’re skilled at product teardown, UX mapping, and technical writing—and you can explain SaaS salon ops in plain language—let’s talk.</description></item>
 <item><title>Google Workspace &amp; Wix Setup</title><link>https://www.freelancer.com/projects/wix/Google-Workspace-Wix-Setup</link><guid isPermaLink="false">freelancer:40748322</guid><pubDate>Sat, 03 Oct 2026 18:18:08 GMT</pubDate><description>250-750 USD | I'm seeking a freelancer to set up Google Workspace and design my Wix website. 
 
 Google Workspace:
@@ -757,17 +773,6 @@ Acceptance criteria
 • All text remains editable; no flattened copy
 
 If you’ve crafted business sites before and can translate brand goals into a visually engaging experience, I’d love to see a couple of links or screenshots from your portfolio along with your estimated timeline.</description></item>
-<item><title>ERP Product Branding &amp; Content Setup</title><link>https://www.freelancer.com/projects/branding/ERP-Product-Branding-Content-Setup</link><guid isPermaLink="false">freelancer:40747129</guid><pubDate>Sat, 03 Oct 2026 00:33:51 GMT</pubDate><description>30-250 USD | I’m launching a new ERP solution focused on streamlining financial processes and I need a strategist who can pull every brand and content thread together so the product arrives on the market with a clear, confident voice.
-
-Here’s what I already know I need: solid brand strategy and smart content placement across the site. Website design is largely mapped out, but I’m happy to refine layouts if it helps the story flow. What I don’t have yet—and what you will create—are the brand foundations and the words that sell.
-
-Deliverables I’m expecting:  
-• A concise brand positioning guide (name, narrative, tone, visual direction)  
-• A website content architecture that shows where each message lives  
-• Two cornerstone informational articles that establish expertise in financial-process optimisation  
-• Complete product descriptions for every ERP module, written for clarity and conversion  
-
-I’ll provide market research, feature lists, and any technical input you need. You’ll translate that into a cohesive brand experience, ensuring copy, placement, and design work in harmony. If this sounds like the sort of holistic build-out you enjoy, let’s talk timing and next steps.</description></item>
 <item><title>TikTok Launch with Client Webpage -- 2</title><link>https://www.freelancer.com/projects/php/TikTok-Launch-with-Client-Webpage</link><guid isPermaLink="false">freelancer:40747111</guid><pubDate>Sat, 03 Oct 2026 00:03:28 GMT</pubDate><description>15-25 USD/hr | I need a TikTok account launched to generate sales and leads. The TikTok videos will be user-generated content. Additionally, I need a webpage to showcase these TikTok videos.
 
 Key Requirements:
