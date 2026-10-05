@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Finalize Business Trade Website</title><link>https://www.freelancer.com/projects/frontend-development/Finalize-Business-Trade-Website</link><guid isPermaLink="false">freelancer:40750801</guid><pubDate>Mon, 05 Oct 2026 09:26:54 GMT</pubDate><description>250-750 GBP | The core of the site is already in place, but it still needs that final polish and a coherent design framework to bring everything together. I need someone to step in, tidy up what’s there, and wrap it all inside a responsive, modern UI—whether you prefer Bootstrap, Tailwind, or another solid front-end toolkit is up to you as long as the result is lean and fast.
+
+Key functionality still to complete:
+• User registration , 
+• Product catalog that supports multiple categories and easy search/filter options  
+• News / blog section styled to match the rest of the site  
+• CRM integration so enquiries and orders drop straight into the pipeline  
+
+The existing codebase is fairly clean, built with standard HTML, CSS, and a lightweight PHP back-end, and it’s already hosted. You’ll have full Git access to review what’s been done and push updates.  
+
+Acceptance criteria will be:
+1. Consistent styling across every page using the chosen framework  
+2. All listed features fully operational on both desktop and mobile  
+3. No critical console or server errors on launch  
+4. Clear hand-off notes and a brief walkthrough of any custom components you add  
+5, crm and forms. Email automatic replies
+
+If you can move quickly while keeping code readable and simple. The first website is a wix design . But require more site for another business we have</description></item>
 <item><title>Beauty Salon Website &amp; Social Media Revamp</title><link>https://www.freelancer.com/projects/web-design/Beauty-Salon-Website-Social-Media</link><guid isPermaLink="false">freelancer:40750613</guid><pubDate>Mon, 05 Oct 2026 07:42:17 GMT</pubDate><description>8-15 AUD/hr | I'm looking for an experienced web designer and social media manager to update my established beauty salon website and schedule posts on our social media platforms.
 
 Website Update:
@@ -761,19 +779,6 @@ Ideal Skills and Experience:
 - Experience with TikTok for business
 - Video editing and content creation skills
 - Web development for creating engaging, user-friendly pages</description></item>
-<item><title>Facebook Business Page Setup</title><link>https://www.freelancer.com/projects/facebook-marketing/Facebook-Business-Page-Setup-40747068</link><guid isPermaLink="false">freelancer:40747068</guid><pubDate>Fri, 02 Oct 2026 23:04:59 GMT</pubDate><description>30-250 USD | I need a complete Facebook Business Page created from scratch and polished so it is ready to showcase and sell my products and services. I already own the brand’s domain, and I want the page to feel seamlessly connected to that web presence.
-
-Key tasks include:  
-• Setting up the page with the correct business category, contact details, website link, and call-to-action button that drives users toward purchasing or enquiring about our offerings.  
-• Crafting a professional, clean cover photo that aligns with my existing brand style. I will supply logos, color codes, and any reference imagery you need.  
-• Adding a profile picture (I’ll provide the file), completing the About section, and configuring basic messaging and notification settings so I can respond quickly to prospects.
-
-Deliverable is a fully configured page that goes live with:  
-1. Optimized page info and settings.  
-2. A high-resolution, professionally designed cover image in both desktop and mobile-safe formats.  
-3. A brief hand-off note explaining where key settings live, so I can manage the page confidently.
-
-Please use Facebook’s latest Business Suite interface throughout the build so nothing breaks during future updates.</description></item>
 <item><title>WooCommerce E-commerce Site Build</title><link>https://www.freelancer.com/projects/payment-gateway-integration/WooCommerce-commerce-Site-Build</link><guid isPermaLink="false">freelancer:40747026</guid><pubDate>Fri, 02 Oct 2026 22:12:17 GMT</pubDate><description>15-25 AUD/hr | I’m setting up a full-featured online store and have already settled on WordPress with WooCommerce as the core platform. The build has three must-have components:  
 
 • Robust product search that can handle filters by category, price, and keywords.  
