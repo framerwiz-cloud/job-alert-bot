@@ -172,42 +172,6 @@ Acceptance criteria
 • Training records and certificates kept fully up to date and audit-ready.
 
 All SOPs, templates, and system access will be provided on award. Average weekly workload is 5–10 hours, with flexibility during hiring peaks.</description></item>
-<item><title>Mobile Layout Optimization for WooCommerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Mobile-Layout-Optimization-for</link><guid isPermaLink="false">freelancer:40749992</guid><pubDate>Sun, 04 Oct 2026 22:19:39 GMT</pubDate><description>30-250 USD | revivifybeautysalon.com
-
-Project Overview
-
-1.Mobile Layout Optimization (Desktop View with Enhanced Menu)
-We are looking for an experienced WordPress and WooCommerce developer to optimize our website's mobile layout. Currently, when viewing the site on a mobile device, we prefer the structure, scaling, and proportions of the native desktop layout (similar to how a phone renders a site when a user manually checks "Request Desktop Site").
-The goal of this project is to make the website display this full desktop layout by default for all mobile visitors, while ensuring that the navigation menu, buttons, and links are dynamically adjusted so they do not appear too tiny or difficult to interact with.
-Key Scope &amp; Deliverables
-
-Desktop Layout Replication on Mobile: Modify the mobile responsiveness configuration so the site renders the complete desktop wireframe, structure, and alignment on smaller screens instead of collapsing into a traditional vertical stacked mobile template.
-Menu Optimization: Ensure that the header navigation, drop-down menus, and text links remain large, proportional, and fully optimized for touch targets. The menu must be easily readable and clickable without requiring the user to pinch-to-zoom.
-
-Fluid Element Adjustments: Optimize main action buttons, product filters, and essential links across the shop pages so they scale smoothly without overlapping or breaking out of the container layout.
-
-Clean Code Integration: All modifications must be executed using efficient, properly structured CSS overrides within the child theme or designated custom code areas. Do not install unnecessary layout or code injection plugins that could cause conflicts or slow down site performance.
-
-CSS
-2.Widen Website Footer Layout on Desktop
-
-3.Troubleshooting:  Fix Website Caching and Content Refresh Issues
-
-4.Add "Sale" Badge Button to Shop Page Items
-
-5.Fix Global Product Button Conflict on the Shop &amp; Product Page (Add to Cart - Options - Shop Now)
-
-6.Fix Mobile Page-Jumping Bug on Product Pages
-
-7.Update Heading Typography Across Shop and Product Pages
-
-8.WooCommerce Custom Product Box Layout design
-
-9.WordPress JavaScript Developer: Floating and Draggable Mobile Mini-Cart Implementation
-
-10.WordPress Frontend Developer: Fix Layout Stability and Prevent Element Overlapping on Browser Zoom
-
-11.Keep Product Variation Descriptions Always Visible by Default and make it wide screen</description></item>
 <item><title>Professional Digital Portfolio Creation</title><link>https://www.freelancer.com/projects/wix/Professional-Digital-Portfolio-Creation</link><guid isPermaLink="false">freelancer:40749983</guid><pubDate>Sun, 04 Oct 2026 22:02:07 GMT</pubDate><description>250-750 USD | I need a digital portfolio to enhance my job search.
 
 Requirements:
@@ -711,6 +675,24 @@ If you’re comfortable tweaking style settings in Squarespace’s design panel,
 WordPress is non-negotiable, but I am open to whether you build the ordering engine with WooCommerce, a purpose-built food-ordering plug-in, or a custom solution—so long as it is stable, secure, and simple for my staff to update. Please factor in responsive design, basic SEO set-up, and loading-speed best practices.
 
 To be considered, send a detailed project proposal that walks me through your recommended tech stack, timeline, milestones, and any similar restaurant sites you have launched. I will shortlist based on clarity of approach and how well you address the order-tracking requirement.</description></item>
+<item><title>Restaurant Online Ordering Website</title><link>https://www.freelancer.com/projects/web-development/Restaurant-Online-Ordering-Website-40747655</link><guid isPermaLink="false">freelancer:40747655</guid><pubDate>Sat, 03 Oct 2026 09:06:26 GMT</pubDate><description>250-750 USD | I need a clean, mobile-friendly website that lets my customers browse the menu and place orders directly from their phones or desktop. The ordering flow should feel effortless: select items, customise options, add to cart, then pay securely through PayPal.  
+
+I want the site to offer both pathways—a quick guest checkout for one-time visitors and a full account system for regulars who prefer to log in, track past orders, and save their details. Once an order is confirmed, I should receive an instant notification (email or SMS) so the kitchen can start right away.
+
+On the back end I’ll need an easy dashboard where I can:  
+• Add or edit menu items, photos, and prices  
+• Set availability or “sold out” flags in real time  
+• View, filter, and print incoming orders  
+
+Design-wise, the site should highlight our dishes with high-quality photos and work seamlessly on all devices. If you’re comfortable building this in WordPress with WooCommerce, Laravel, or another modern stack, I’m open to your recommendation as long as PayPal integration stays smooth.
+
+Deliverables I expect:
+• Fully functional, responsive website live on my hosting  
+• Integrated PayPal checkout tested with sandbox and live transactions  
+• User account / guest checkout toggle working correctly  
+• Short admin guide or screen-share walkthrough so I can manage menu and orders myself  
+
+Please share a brief outline of your approach, the tech you’d use, and a realistic timeline for getting us ready to serve online orders.</description></item>
 <item><title>Business Website Design Needed</title><link>https://www.freelancer.com/projects/web-design/Business-Website-Design-Needed-40747165</link><guid isPermaLink="false">freelancer:40747165</guid><pubDate>Sat, 03 Oct 2026 01:49:27 GMT</pubDate><description>15-25 USD/hr | I’m ready to refresh my company’s online presence and need a talented web designer to create a clean, modern business site. The scope is focused purely on design—no coding required.
 
 What I’m after  
