@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Secure Drupal CMS Website Build</title><link>https://www.freelancer.com/projects/web-development/Secure-Drupal-CMS-Website-Build</link><guid isPermaLink="false">freelancer:40751743</guid><pubDate>Mon, 05 Oct 2026 18:40:31 GMT</pubDate><description>30-250 USD | I already have the basic layout, images, and some starter code ready to go; what I need now is a Drupal specialist to turn it into a fully-functioning, modern-looking site. The overall aesthetic should stay modern and clean, matching the mock-ups I’m providing.
+
+Core requirements  
+• Drupal is the chosen platform—please keep the build native to Drupal (latest stable release).  
+• The entire site (front end and back end) must be protected by a login wall.  
+• If a visitor is an active user, the login form will ask only for their registered e-mail address; the system then emails a one-time code they must enter before gaining access.  
+• A “COS” section exists that should remain visible to admins only. Regular users must never see or guess its path.  
+• Every element on the front end—including hero images, text blocks, menus, and even newly created pages—must be editable from the admin dashboard without touching code.  
+• Content type: an “Investment” type is required so I can publish, edit, and archive investment items as easily as I would blog posts. Please set up fields (title, summary, body, attachments, etc.) accordingly.
+
+Deliverables  
+– Theme integration: apply the supplied HTML/CSS/images and keep the modern-clean feel.  
+– Custom modules or configuration for the e-mail code (OTP) login workflow.  
+– Role &amp; permission setup that ensures only admins reach COS while authenticated users reach the standard front end.  
+– Flexible page builder or layout builder configuration so I can add pages later.  
+– Final testing on all common browsers and devices; no broken links, console errors, or permission leaks.  
+– Deployment instructions or a short hand-off call so I can maintain the site confidently.
+
+Acceptance criteria  
+1. Logging in via e-mail + OTP works end-to-end with real e-mails (no dummy data).  
+2. Non-admin users cannot access /cos or any of its children URLs.  
+3. I can create, edit, and delete Investment items and see changes immediately on the front end.  
+4. All text and media shown on the mock-ups are editable from the admin UI.  
+5. No PHP notices, Drupal warnings, or console errors appear after a fresh cache rebuild.
+
+If anything is unclear, tell me early so we can keep the project moving smoothly.</description></item>
 <item><title>Corporate Security WordPress Website</title><link>https://www.freelancer.com/projects/web-design/Corporate-Security-WordPress-Website</link><guid isPermaLink="false">freelancer:40751582</guid><pubDate>Mon, 05 Oct 2026 16:59:01 GMT</pubDate><description>250-750 USD | I need a polished, responsive WordPress site that will present our U.S.-based guard services with real corporate credibility. The build will cover 10–15 pages—company overview, services, industries served, gallery for photos and videos, plus two contact touch-points: a straightforward “Get in Touch” form and a quote request form.
 
 I will supply all copy, brand guidelines, imagery, and video assets. Your role is to recommend a suitable theme (I’m open to any that fits a clean, modern aesthetic), set it up on WordPress, and arrange the material so the navigation feels intuitive on desktop, tablet, and mobile.
@@ -725,34 +751,6 @@ Deliverables
 3. One live walkthrough call to verify every element—registration, directory search, Zeffy checkout, and email sends—operates as intended.
 
 Success is a launch-ready site we can confidently maintain ourselves, with no coding knowledge required. If you have previous Wix builds that include member portals or Zeffy integrations, those examples will help me choose quickly.</description></item>
-<item><title>Modern WordPress Restaurant Reservations</title><link>https://www.freelancer.com/projects/html/Modern-WordPress-Restaurant-Reservations</link><guid isPermaLink="false">freelancer:40747827</guid><pubDate>Sat, 03 Oct 2026 11:44:11 GMT</pubDate><description>250-750 USD | I’m ready to launch a modern, sleek WordPress website that lets guests book a table with zero friction. The entire build should focus on online reservations as the core journey.
-
-Key reservation flow
-• Interactive date &amp; time picker that blocks out unavailable slots in real-time  
-• Visual table selection so diners choose where they sit  
-• A “Special requests” field captured with each booking and stored in the back-end
-
-Look &amp; feel
-Clean lines, bold imagery, subtle animations—think contemporary rather than rustic or classic. The site must be fully responsive and load quickly on mobile, as most bookings come through phones.
-
-Pages &amp; functionality
-– Landing page with enticing hero section, short story of the restaurant, and a prominent “Reserve Now” CTA.  
-– Dedicated reservation page implementing the features above, preferably with a well-supported WordPress booking plugin (e.g., OpenTable widget, Bookly, or your recommended alternative).  
-– Simple menu and events sections are nice to have later, but the launch version can defer them; the reservation funnel must be flawless first.  
-– Contact/Map footer plus basic GDPR-friendly cookie notice.
-
-Deliverables
-1. Complete WordPress site installed on my hosting, SSL ready.  
-2. Custom-styled reservation form matching the brand palette.  
-3. Admin guide (PDF or short Loom video) showing how I can change availability, tables, and view special requests.  
-4. One round of revisions after initial hand-off to fine-tune UX.
-
-Acceptance criteria
-• A test reservation from homepage to confirmation email works end-to-end on desktop and mobile.  
-• Table layout, date &amp; time picker, and special requests field all save correctly in WordPress.  
-• PageSpeed Insight mobile score ≥ 85.
-
-If this brief matches your expertise, please share a link to at least one live restaurant or hospitality site you’ve built with similar booking functionality.</description></item>
 <item><title>WordPress Restaurant Ordering Site - 03/10/2026 06:02 EDT</title><link>https://www.freelancer.com/projects/website-design/WordPress-Restaurant-Ordering-Site-EDT</link><guid isPermaLink="false">freelancer:40747719</guid><pubDate>Sat, 03 Oct 2026 10:16:23 GMT</pubDate><description>25-50 USD/hr | I need a WordPress-based website whose core job is taking food orders for delivery or pickup and letting customers track their order status in real time. The menu should be easy to browse on mobile, the checkout flow must be streamlined, and once the order is placed the customer should see clear, step-by-step updates until it reaches their door or is ready for collection.
 
 WordPress is non-negotiable, but I am open to whether you build the ordering engine with WooCommerce, a purpose-built food-ordering plug-in, or a custom solution—so long as it is stable, secure, and simple for my staff to update. Please factor in responsive design, basic SEO set-up, and loading-speed best practices.
