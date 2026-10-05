@@ -3,6 +3,31 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress SEO Plugin Rescue</title><link>https://www.freelancer.com/projects/seo/WordPress-SEO-Plugin-Rescue</link><guid isPermaLink="false">freelancer:40751900</guid><pubDate>Mon, 05 Oct 2026 21:03:44 GMT</pubDate><description>15-25 USD/hr | My WordPress site on SiteGround ran smoothly until the SEO-optimization plugin began triggering slow load times and occasional crashes. I need an experienced WordPress technician to investigate the root cause, then advise whether repairing the current plugin or swapping it for a more stable alternative makes the most sense.  
+
+What I expect:  
+• A quick diagnostic session to pinpoint why the SEO plugin is misbehaving and how it is impacting performance.  
+• Clear guidance on repair vs replace, with pros, cons, and any licence or data-migration considerations.  
+• Implementation of the chosen fix, followed by testing to confirm page-speed and stability are back to normal.  
+• A concise summary of the steps you took so I can reference it later.
+
+Looking ahead, I’d like this to be the start of an ongoing relationship—someone I can message whenever WordPress core, theme, or plugin updates create new headaches. If you’re comfortable with routine maintenance on SiteGround-hosted WordPress sites, let’s talk.</description></item>
+<item><title>Elegant Portfolio WordPress Website</title><link>https://www.freelancer.com/projects/web-design/Elegant-Portfolio-WordPress-Website</link><guid isPermaLink="false">freelancer:40751895</guid><pubDate>Mon, 05 Oct 2026 20:56:08 GMT</pubDate><description>5000-10000 CAD | We’re looking for a talented and experienced web designer to create a modern, high-end 10-12 page WordPress website for a creative fabrication and décor company. The website will be highly visual and primarily portfolio-focused, showcasing our projects alongside the various services and capabilities we offer. We’re looking for a clean, contemporary design with strong use of photography, typography, layouts, and subtle animations.
+
+We are looking for someone with a strong creative eye, not just a WordPress developer who relies on standard templates. When applying, please send us 3-5 of the absolute best websites you have personally designed, preferably for creative agencies, architecture, interior design, experiential, fabrication, or other highly visual businesses. Please also include your estimated timeline and briefly explain your WordPress design/development process.</description></item>
+<item><title>E-commerce Site Overhaul</title><link>https://www.freelancer.com/projects/ecommerce/commerce-Site-Overhaul-40751881</link><guid isPermaLink="false">freelancer:40751881</guid><pubDate>Mon, 05 Oct 2026 20:49:04 GMT</pubDate><description>10-15 GBP/hr | I need an experienced web developer to help transition my e-commerce site from Java to HTML. 
+
+Key Requirements:
+
+- Rework one page for better usability.
+- Add Google reviews on the restoration page.
+- Fix non-functioning PayPal links.
+
+Ideal Skills and Experience:
+- Proficient in Java and HTML
+- Strong background in e-commerce websites
+- Experience with integrating Google reviews
+- Familiarity with PayPal payment systems</description></item>
 <item><title>Secure Drupal CMS Website Build</title><link>https://www.freelancer.com/projects/web-development/Secure-Drupal-CMS-Website-Build</link><guid isPermaLink="false">freelancer:40751743</guid><pubDate>Mon, 05 Oct 2026 18:40:31 GMT</pubDate><description>30-250 USD | I already have the basic layout, images, and some starter code ready to go; what I need now is a Drupal specialist to turn it into a fully-functioning, modern-looking site. The overall aesthetic should stay modern and clean, matching the mock-ups I’m providing.
 
 Core requirements  
@@ -733,24 +758,6 @@ Acceptance criteria
 • Final hand-off includes full source code, database scripts, documentation, and a one-command local setup.
 
 Propose a phased timeline with milestone reviews (framework scaffold, data layer, role management, final polish). I prefer to collaborate via Jira or Trello and meet on Zoom twice a week. If anything in the page 3 references is unclear, let’s clarify before development begins.</description></item>
-<item><title>Wix Non-Profit Membership Website</title><link>https://www.freelancer.com/projects/wix/Wix-Non-Profit-Membership-Website</link><guid isPermaLink="false">freelancer:40747886</guid><pubDate>Sat, 03 Oct 2026 12:21:46 GMT</pubDate><description>250-750 USD | I run a small, volunteer-led non-profit and we’re ready for a modern website that helps us serve members, share information, and accept payments without adding technical overhead. The entire build must live on Wix so that our team can safely handle routine edits once the project wraps up.
-
-Core functions  
-• Membership management – secure registration, individual log-in, and profile editing.  
-• Member directory – searchable for logged-in members only.  
-• Member communication tools – broadcast emails and in-dashboard notices that route through our existing domain’s email service.  
-• Fundraising and fee collection – seamless checkout powered by Zeffy’s payment widgets, visible both to members (dues) and the public (donations or event tickets).  
-• Informational pages – clear sections for our mission, events, resources, and a news/blog area we can update ourselves.
-
-Integration requirements  
-The Zeffy payment flow, domain-based email management, and all Wix-native CRM features must work together smoothly. Please configure DNS, SSL, and any necessary Wix Marketplace apps so everything functions from day one.
-
-Deliverables  
-1. Fully designed, responsive Wix site with the features above, ready for launch.  
-2. Step-by-step admin guide (text or short screencasts) showing how our volunteers can edit pages, approve new members, and pull email lists.  
-3. One live walkthrough call to verify every element—registration, directory search, Zeffy checkout, and email sends—operates as intended.
-
-Success is a launch-ready site we can confidently maintain ourselves, with no coding knowledge required. If you have previous Wix builds that include member portals or Zeffy integrations, those examples will help me choose quickly.</description></item>
 <item><title>WordPress Restaurant Ordering Site - 03/10/2026 06:02 EDT</title><link>https://www.freelancer.com/projects/website-design/WordPress-Restaurant-Ordering-Site-EDT</link><guid isPermaLink="false">freelancer:40747719</guid><pubDate>Sat, 03 Oct 2026 10:16:23 GMT</pubDate><description>25-50 USD/hr | I need a WordPress-based website whose core job is taking food orders for delivery or pickup and letting customers track their order status in real time. The menu should be easy to browse on mobile, the checkout flow must be streamlined, and once the order is placed the customer should see clear, step-by-step updates until it reaches their door or is ready for collection.
 
 WordPress is non-negotiable, but I am open to whether you build the ordering engine with WooCommerce, a purpose-built food-ordering plug-in, or a custom solution—so long as it is stable, secure, and simple for my staff to update. Please factor in responsive design, basic SEO set-up, and loading-speed best practices.
