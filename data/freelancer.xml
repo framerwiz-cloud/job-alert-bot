@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Quick WordPress job needed; independent clean-restoration test</title><link>https://www.freelancer.com/projects/website-development/Quick-WordPress-job-needed-independent</link><guid isPermaLink="false">freelancer:40751969</guid><pubDate>Mon, 05 Oct 2026 22:18:04 GMT</pubDate><description>30-250 CAD | I need an independent clean-restoration test of a new WordPress website system. I need you to take the complete delivered files and databases and restore them from scratch into a clean/empty test environment, without relying on the existing running installation, and confirm that both the main website and the Master Blueprint restore and function correctly.
+I need this done urgently—today if possible, and absolutely completed by the end of tomorrow at the latest; Tuesday Oct. 06, 2026 
+
+If yes, tell me how soon you can begin how soon you can finish it, and how much 
+
+Proof will be demanded 
+
+
+&gt;&gt; I do not answer "What's your budget" questions, and deal with people who give me straight answers</description></item>
 <item><title>WordPress SEO Plugin Rescue</title><link>https://www.freelancer.com/projects/seo/WordPress-SEO-Plugin-Rescue</link><guid isPermaLink="false">freelancer:40751900</guid><pubDate>Mon, 05 Oct 2026 21:03:44 GMT</pubDate><description>15-25 USD/hr | My WordPress site on SiteGround ran smoothly until the SEO-optimization plugin began triggering slow load times and occasional crashes. I need an experienced WordPress technician to investigate the root cause, then advise whether repairing the current plugin or swapping it for a more stable alternative makes the most sense.  
 
 What I expect:  
@@ -735,29 +744,6 @@ Key goals and site features:
 
 Thanks you! 
 Cam</description></item>
-<item><title>Shopping Mall Management System</title><link>https://www.freelancer.com/projects/web-development/Shopping-Mall-Management-System-40748065</link><guid isPermaLink="false">freelancer:40748065</guid><pubDate>Sat, 03 Oct 2026 14:51:14 GMT</pubDate><description>250-750 AUD | I am ready to commission a complete, web-based management suite for a multi-store shopping mall. The project must cover two distinct areas:  
-
-1. A mall-level administration panel that tracks tenants, leases, foot-traffic analytics, promotions, and finance.  
-2. A store-level back office where each retailer can handle day-to-day tasks such as product catalogues, inventory, staff rosters, and sales reporting.  
-
-Every screen has already been drafted; page 3 of the attachment contains the reference mock-ups that must be followed pixel-for-pixel while remaining fully responsive for desktop and large-tablet browsers.
-
-Key scope elements  
-• Build a single-page web application that communicates with a secure REST (or GraphQL) API.  
-• Design and implement the database schema, access layer, and business logic for tenants, POS feeds, billing, workforce management, and alerting.  
-• Role-based access for mall management, individual store owners, and store staff, each with tailored permissions.  
-• Real-time dashboards for inventory levels, sales analytics, and lease renewals, plus a content area so administrators can publish news and digital-signage playlists without touching code.  
-
-Technology expectations  
-I am open to popular stacks such as React or Vue with Node.js, Laravel, or ASP.NET Core—as long as the code is modular, clearly commented, and delivered through Git. Please list any third-party libraries you intend to integrate (charts, authentication, UI kits).
-
-Acceptance criteria  
-• All pages replicate the supplied design guide exactly.  
-• Initial load time &lt;2 seconds on standard broadband.  
-• Unit and integration tests for critical flows.  
-• Final hand-off includes full source code, database scripts, documentation, and a one-command local setup.
-
-Propose a phased timeline with milestone reviews (framework scaffold, data layer, role management, final polish). I prefer to collaborate via Jira or Trello and meet on Zoom twice a week. If anything in the page 3 references is unclear, let’s clarify before development begins.</description></item>
 <item><title>WordPress Restaurant Ordering Site - 03/10/2026 06:02 EDT</title><link>https://www.freelancer.com/projects/website-design/WordPress-Restaurant-Ordering-Site-EDT</link><guid isPermaLink="false">freelancer:40747719</guid><pubDate>Sat, 03 Oct 2026 10:16:23 GMT</pubDate><description>25-50 USD/hr | I need a WordPress-based website whose core job is taking food orders for delivery or pickup and letting customers track their order status in real time. The menu should be easy to browse on mobile, the checkout flow must be streamlined, and once the order is placed the customer should see clear, step-by-step updates until it reaches their door or is ready for collection.
 
 WordPress is non-negotiable, but I am open to whether you build the ordering engine with WooCommerce, a purpose-built food-ordering plug-in, or a custom solution—so long as it is stable, secure, and simple for my staff to update. Please factor in responsive design, basic SEO set-up, and loading-speed best practices.
