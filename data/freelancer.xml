@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist Business Website Build</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Business-Website-Build-40750081</link><guid isPermaLink="false">freelancer:40750081</guid><pubDate>Mon, 05 Oct 2026 00:13:45 GMT</pubDate><description>250-750 AUD | I need a clean, minimalist business website that showcases my services and lets visitors book directly through my existing Square booking link. I will supply all imagery, so the main job is to lay everything out in an uncluttered, visually balanced way that feels modern and loads quickly on both desktop and mobile.  
+
+The structure is straightforward:  
+• Home (landing focus)  
+• About Us  
+• Services  
+• Contact Us  
+
+Please embed the Square booking link so it’s prominently visible on every page—ideally in both the hero section and the main navigation—without disrupting the minimalist look.  
+
+Any lightweight, standards-based solution is fine (HTML/CSS, WordPress, Webflow, etc.) as long as it stays fast, responsive, and easy for me to update later. Basic on-page SEO and image optimisation are expected so the site performs well right out of the gate.  
+
+Acceptance criteria:  
+• All pages render correctly on mobile, tablet, and desktop  
+• Square booking link opens seamlessly in-page or a clean modal without external branding clutter  
+• My supplied images are optimised and display crisply without slowing load times  
+• Navigation is intuitive and matches the minimalist style throughout  
+• Final hand-off includes source files and brief instructions for future edits  
+
+If anything above needs clarification, let me know—otherwise I’m ready to get started as soon as you are.</description></item>
 <item><title>HR Administrator: Onboarding &amp; Training</title><link>https://www.freelancer.com/projects/employee-training/Administrator-Onboarding-Training</link><guid isPermaLink="false">freelancer:40750000</guid><pubDate>Sun, 04 Oct 2026 22:25:39 GMT</pubDate><description>15-25 AUD/hr | My business is scaling and the people function now calls for dedicated ownership of three core areas: employee onboarding, structured induction programs, and ongoing training coordination. The position requires mid-level experience—you should already know the rhythm of HR operations and feel comfortable inside a modern cloud HR platform. I use a specific software (BrightHR), so the ability to pick up new software quickly and work inside predefined workflows is essential.
 
 Scope of work  
@@ -777,68 +797,6 @@ Acceptance criteria
 4. System withstands a simulated 50 concurrent application load without noticeable delay (&lt;2 s per step).
 
 Suggest the stack you are strongest with—whether that’s Node.js + React, Laravel + Vue, or .NET—and outline your approach to security and data compliance when you place your bid.</description></item>
-<item><title>Integrate WooCommerce, n8n and Customer.io</title><link>https://www.freelancer.com/projects/n8n/Integrate-WooCommerce-Customer</link><guid isPermaLink="false">freelancer:40746884</guid><pubDate>Fri, 02 Oct 2026 19:40:50 GMT</pubDate><description>30-250 USD | ### WooCommerce → n8n → Customer.io Integration
-
-I’m looking for someone to set up a reliable integration between **WooCommerce, n8n, and Customer.io**.
-
-The main objective is to make **Customer.io receive complete and accurate customer + order data from WooCommerce**, so I can use that data later for segmentation, campaigns, and automated Journeys.
-
-Reference:
-[n8n WooCommerce + Customer.io integration](https://n8n.io/integrations/customerio/and/woocommerce/?utm_source=chatgpt.com)
-
-### Key Requirements
-
-**Customer Data**
-- New customer creation and updates
-- Name, email, phone, billing/shipping information where appropriate
-- Customer ID
-- Customer account/order history
-- Relevant WooCommerce customer fields and characteristics
-
-**Order Data**
-- Order ID
-- Order date
-- Order status
-- Order total
-- Products purchased
-- Product names/IDs/SKUs
-- Quantities
-- Product categories
-- Discounts/coupons
-- Shipping information where appropriate
-- Payment/order information where appropriate
-- Refunds/cancellations and relevant status changes
-
-### Customer.io Events / Attributes
-
-Please structure the integration so that Customer.io receives the data in a clean, usable format, with appropriate **customer attributes and order/purchase events**.
-
-I want to be able to create Customer.io segments and Journeys based on things such as:
-
-- Specific products purchased
-- Purchase history
-- Number of orders
-- Order value
-- Last purchase
-- Customer status
-- Product/category purchased
-- Repeat vs. first-time customers
-- Order status
-- Other useful WooCommerce characteristics
-
-### Reliability
-
-The integration should:
-- Avoid creating duplicate customers/events
-- Correctly handle customer and order updates
-- Properly handle relevant WooCommerce status changes
-- Include error handling/logging where appropriate
-- Be tested with real WooCommerce test orders
-- Be documented so I can understand how the workflows are structured and maintain them afterward
-
-**Important:** I am primarily looking for the **WooCommerce → n8n → Customer.io data infrastructure/linkage**. I do not need the freelancer to build all of my Customer.io marketing Journeys or email campaigns.
-
-Please explain your proposed workflow, what WooCommerce data you can pass into Customer.io, and your estimated completion time/cost.</description></item>
 <item><title>Website Refinement and Content Development</title><link>https://www.freelancer.com/projects/content-development/Website-Refinement-Content-Development</link><guid isPermaLink="false">freelancer:40746570</guid><pubDate>Fri, 02 Oct 2026 16:05:04 GMT</pubDate><description>15-25 USD/hr | Website is already online (But needs minor(major) adjustments related to consistency .  Site consists of about  5 pages.  Each page consist of buttons directing site to personal stories of my past experiences 
 
 Also would like for me to develop  new stories/events  .  Send to you to update  site.  Uploads will be ready for inserting  after your creating the responsive layouts
