@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Finalize AI Membership Platform</title><link>https://www.freelancer.com/projects/ai-chatbot/Finalize-Membership-Platform</link><guid isPermaLink="false">freelancer:40750137</guid><pubDate>Mon, 05 Oct 2026 01:06:46 GMT</pubDate><description>250-750 USD | I have three in-house management products nearing completion, but the Membership Management System is the one I want finished first. The repository sits at roughly 75 % completeness: core modules, database schema, and the ChatGPT-driven “Claw Bot” conversational layer are all in place, yet several gaps and rough edges are stopping us from moving to production.
+
+Here is the current state, and where I need your help:
+
+• Code quality &amp; stability – conduct a full review, refactor where necessary, and eliminate lingering bugs or performance bottlenecks.  
+• Feature wrap-up – identify unfinished components (user onboarding, subscription logic, dashboards, etc.) and bring them to a fully functional state while keeping the existing architecture intact.  
+• ChatGPT / Claw Bot integration – verify the API hand-offs, improve error handling, and ensure chat flows trigger the correct membership actions.  
+• Production readiness – add the last mile tasks: environment config, security hardening, automated tests, CI/CD and a repeatable deployment script so we can push to our live servers with confidence.
+
+Acceptance criteria  
+1. All membership workflows complete end-to-end with no critical bugs.  
+2. Conversational automation reliably performs the mapped actions.  
+3. Clean, documented code that passes the agreed test suite.  
+4. One-click (or single command) deployment to staging and production.
+
+The stack is documented in the repo’s README; you’ll receive full access and a brief walkthrough the moment we start. If this first milestone goes smoothly, the CRM and Project Management platforms will follow.
+
+Let me know your relevant experience with similar SaaS builds and AI integrations, plus an estimated timeline to reach production-ready status.</description></item>
 <item><title>Haircut Business Website Development</title><link>https://www.freelancer.com/projects/web-development/Haircut-Business-Website-Development</link><guid isPermaLink="false">freelancer:40750116</guid><pubDate>Mon, 05 Oct 2026 00:47:45 GMT</pubDate><description>250-750 AUD | I'm looking for an experienced web developer to assist in finalizing my haircutting business website. I've started designing the site, but I need help setting up the online booking system and related forms.
 
 Requirements:
@@ -779,19 +797,6 @@ Ideal Skills and Experience:
 - Experience with TikTok for business
 - Video editing and content creation skills
 - Web development for creating engaging, user-friendly pages</description></item>
-<item><title>Facebook Business Page Setup</title><link>https://www.freelancer.com/projects/facebook-marketing/Facebook-Business-Page-Setup-40747068</link><guid isPermaLink="false">freelancer:40747068</guid><pubDate>Fri, 02 Oct 2026 23:04:59 GMT</pubDate><description>30-250 USD | I need a complete Facebook Business Page created from scratch and polished so it is ready to showcase and sell my products and services. I already own the brand’s domain, and I want the page to feel seamlessly connected to that web presence.
-
-Key tasks include:  
-• Setting up the page with the correct business category, contact details, website link, and call-to-action button that drives users toward purchasing or enquiring about our offerings.  
-• Crafting a professional, clean cover photo that aligns with my existing brand style. I will supply logos, color codes, and any reference imagery you need.  
-• Adding a profile picture (I’ll provide the file), completing the About section, and configuring basic messaging and notification settings so I can respond quickly to prospects.
-
-Deliverable is a fully configured page that goes live with:  
-1. Optimized page info and settings.  
-2. A high-resolution, professionally designed cover image in both desktop and mobile-safe formats.  
-3. A brief hand-off note explaining where key settings live, so I can manage the page confidently.
-
-Please use Facebook’s latest Business Suite interface throughout the build so nothing breaks during future updates.</description></item>
 <item><title>WooCommerce E-commerce Site Build</title><link>https://www.freelancer.com/projects/payment-gateway-integration/WooCommerce-commerce-Site-Build</link><guid isPermaLink="false">freelancer:40747026</guid><pubDate>Fri, 02 Oct 2026 22:12:17 GMT</pubDate><description>15-25 AUD/hr | I’m setting up a full-featured online store and have already settled on WordPress with WooCommerce as the core platform. The build has three must-have components:  
 
 • Robust product search that can handle filters by category, price, and keywords.  
