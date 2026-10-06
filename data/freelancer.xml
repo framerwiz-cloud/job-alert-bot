@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full-Stack Developer for CRM SaaS Platform- REplit</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Developer-for-CRM</link><guid isPermaLink="false">freelancer:40752115</guid><pubDate>Tue, 06 Oct 2026 00:31:29 GMT</pubDate><description>250-750 AUD | We are looking for an experienced Full-Stack Developer to assist with the development, optimisation, and completion of a CRM SaaS platform currently being built on Replit.
+
+The platform is a multi-tenant SaaS CRM designed to manage customers, bookings/jobs, users, workflows, reporting, integrations, and operational processes.
+
+The existing application has already been substantially developed, so this is not a project starting from scratch. We need a developer who can review the current codebase, understand the existing architecture, improve performance, fix bugs, develop new features, and ensure the platform is scalable and secure.
+
+Key responsibilities will include:
+- Integration 
+- Review and improve the existing Replit codebase
+- Full-stack frontend and backend development
+- Improve application speed, performance, and code quality
+- Build and maintain multi-tenant SaaS architecture
+- Ensure proper tenant data separation and security
+- Develop Super Admin and tenant administration functionality
+- Build new CRM modules and workflows
+- Work with databases, APIs, webhooks, and third-party integrations
+- Implement user roles and permissions
+- Troubleshoot bugs and improve system reliability
+- Assist with deployment, testing, and future scaling
+
+Experience with technologies commonly used in Replit projects such as JavaScript/TypeScript, React, Node.js, PostgreSQL and modern API development would be highly regarded.
+
+Experience building CRM, SaaS, ERP, booking, dispatch, inventory, or workflow management systems is strongly preferred.
+
+We are looking for someone who can work with an existing system without unnecessarily rebuilding or changing the current UI and functionality.
+
+This may become an ongoing development role as the SaaS platform continues to grow.
+
+When applying, please provide examples of SaaS or CRM applications you have developed and briefly explain your experience working with existing codebases and multi-tenant systems.</description></item>
 <item><title>Honeybee WordPress Site Development</title><link>https://www.freelancer.com/projects/web-development/Honeybee-WordPress-Site-Development</link><guid isPermaLink="false">freelancer:40752099</guid><pubDate>Tue, 06 Oct 2026 00:20:01 GMT</pubDate><description>250-750 USD | I need a clean, fast WordPress website that puts my honeybee business front-and-center. The main goal is simple: showcase what we do, why we care about bees, and entice visitors to explore (and eventually buy) our range of honey and hive-related products.
 
 Core pages and sections  
@@ -1226,16 +1255,6 @@ Key deliverables:
 • Source files for artwork and site, plus clear hand-over instructions  
 
 If you love playful cartoon art, know your way around web builds and can think about storytelling across multiple channels, let’s talk timelines and see your portfolio.</description></item>
-<item><title>Microsoft Store Subscription Setup</title><link>https://www.freelancer.com/projects/microsoft/Microsoft-Store-Subscription-Setup</link><guid isPermaLink="false">freelancer:40748160</guid><pubDate>Sat, 03 Oct 2026 16:02:32 GMT</pubDate><description>30-250 CAD | I need help collecting subscription-based payments for my app on the Microsoft Store. 
-
-Requirements:
-- Setup for monthly subscription payments
-- Ability to collect payments for AI tool use credits
-
-Ideal Skills:
-- Experience with Microsoft Store app integration
-- Familiarity with subscription payment systems
-- Knowledge of AI tools and app monetization</description></item>
 <item><title>WordPress Restaurant Ordering Site - 03/10/2026 06:02 EDT</title><link>https://www.freelancer.com/projects/website-design/WordPress-Restaurant-Ordering-Site-EDT</link><guid isPermaLink="false">freelancer:40747719</guid><pubDate>Sat, 03 Oct 2026 10:16:23 GMT</pubDate><description>25-50 USD/hr | I need a WordPress-based website whose core job is taking food orders for delivery or pickup and letting customers track their order status in real time. The menu should be easy to browse on mobile, the checkout flow must be streamlined, and once the order is placed the customer should see clear, step-by-step updates until it reaches their door or is ready for collection.
 
 WordPress is non-negotiable, but I am open to whether you build the ordering engine with WooCommerce, a purpose-built food-ordering plug-in, or a custom solution—so long as it is stable, secure, and simple for my staff to update. Please factor in responsive design, basic SEO set-up, and loading-speed best practices.
