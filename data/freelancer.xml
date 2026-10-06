@@ -23,17 +23,6 @@ Deliverables
 4. One short recorded walkthrough so I can see the admin flow in real time.
 
 I’ll supply branding, product spreadsheets, and any API keys you recommend for payments or inventory sync the moment we start. If you have prior experience building heavy-catalog e-commerce on Wix or Squarespace, please mention it along with links to live examples.</description></item>
-<item><title>Replicate Site to New Host</title><link>https://www.freelancer.com/projects/web-development/Replicate-Site-New-Host</link><guid isPermaLink="false">freelancer:40753938</guid><pubDate>Tue, 06 Oct 2026 20:19:50 GMT</pubDate><description>250-750 USD | I need our existing company website moved to a new hosting account, but I no longer have the source files. You’ll scrape the live site (URL supplied after award) and rebuild it so it looks and behaves exactly the same—same layout, navigation, imagery, and overall feel. The site is brochure-style with no ecommerce or database-driven features, so the job is straightforward.
-
-During the copy I’d like a few small text tweaks—nothing more than updating contact details and polishing a paragraph or two. Otherwise everything stays as-is. Feel free to use WordPress, a static-site generator, or plain HTML/CSS; whichever route you choose, make sure future edits will be simple and the pages load quickly.
-
-Deliverables:
-• Fully cloned site with minor text updates applied  
-• Clean, well-organised source files or CMS export  
-• Installation and testing on my new cPanel-based host  
-• Brief hand-off notes covering edit steps and any login credentials  
-
-Acceptance criteria: the new site must match the current one pixel-for-pixel in desktop and mobile views, all links must work, and load speed should be on par with—or better than—the original. Once everything checks out, you’ll help point the domain to its new home and we’ll call it done.</description></item>
 <item><title>Bluehost to Squarespace Migration</title><link>https://www.freelancer.com/projects/squarespace/Bluehost-Squarespace-Migration</link><guid isPermaLink="false">freelancer:40753889</guid><pubDate>Tue, 06 Oct 2026 19:49:33 GMT</pubDate><description>30-250 USD | I’m ready to move my current site off Bluehost and rebuild it on Squarespace without losing anything that matters. The site includes a growing blog and an active e-commerce section, and members log in for gated content, so these three elements—blog posts, product catalog with orders, and user-login functionality—must be fully reproduced and tested on the new platform.
 
 Here’s what I expect by the end of the project:
