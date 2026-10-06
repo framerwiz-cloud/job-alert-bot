@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Next.js Vercel Cloudflare Cost Optimization</title><link>https://www.freelancer.com/projects/nextjs/Next-Vercel-Cloudflare-Cost-Optimization</link><guid isPermaLink="false">freelancer:40753215</guid><pubDate>Tue, 06 Oct 2026 13:09:26 GMT</pubDate><description>30-250 USD | Our production platform runs on a Next.js monorepo, deploys through Vercel, and relies on Cloudflare for both CDN and image manipulation. Traffic has grown, and so have the bills—far beyond what the team or our investors consider reasonable. I need someone who already knows the quirks of these three services working together and can turn that knowledge into immediate savings without sacrificing user experience.
+
+What I expect from you:
+
+• An end-to-end audit of the current setup, including build settings, edge functions, cache rules, image resizing/polish policies, and any over-provisioned Vercel plans or Cloudflare add-ons.
+
+• Clear, written recommendations with cost projections before we flip any switches, so I can see the trade-offs.
+
+• Hands-on implementation: adjusting Next.js config, tweaking Vercel project settings (functions, regions, build output), rewriting Cloudflare rules, and introducing smarter caching where it makes sense.
+
+• A concise hand-off document that explains every change, making it simple for our in-house developers to maintain the new, lean configuration.
+
+If you have case studies or metrics from similar optimizations, include them in your proposal. My priority is measurable reduction in monthly spend while keeping TTFB low and image quality intact.</description></item>
 <item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 12:29:11 GMT</pubDate><description>5-10 GBP/hr | Looking to build a multipurpose Ai. Using self server hertzer open ai API keys, a Web user interface add multiple ai agents
 small project. Add n8n as a tool eco system or use n8n interface</description></item>
 <item><title>Mobile-Friendly Party Rental Booking Website</title><link>https://www.freelancer.com/projects/booking-system-development/Party-Rental-Booking-Website</link><guid isPermaLink="false">freelancer:40753091</guid><pubDate>Tue, 06 Oct 2026 11:41:51 GMT</pubDate><description>50+ USD/hr | I run a party rental business and need a polished, conversion-focused website that lets customers browse my inventory, check real-time availability, reserve items, pay on the spot, and leave feedback once their event is over. I would like this built on Squarespace so I can handle routine updates myself, but if you have a compelling reason to propose another modern, easy-to-maintain platform I’m open to hearing it.
@@ -1105,19 +1118,6 @@ Ideal Skills and Experience:
 
 - I need set-up and the ability to answer question through email or text about the ongoing project.
 - I already have a logo, however you would need to recrate it with a zip file to use for all my products, signage, stickers and clothing.  Color scheme is Navy blue back ground and gold logo.</description></item>
-<item><title>Wholesale Order Website Development</title><link>https://www.freelancer.com/projects/web-development/Wholesale-Order-Website-Development</link><guid isPermaLink="false">freelancer:40749910</guid><pubDate>Sun, 04 Oct 2026 20:23:28 GMT</pubDate><description>30-250 USD | I'm looking to build a secure website for Marhaba Wholesale. The site should feature a comprehensive catalog of our products—food, beverages, merchandise, tobacco, and vapes—along with a private order sheet.
-
-Key requirements include:
-- Product catalog with no pricing or totals visible
-- Private login for users to access order sheets
-- Automated generation of an Excel PDF of orders to be sent to me upon submission
-
-Ideal skills and experience:
-- Strong web development background
-- Experience with secure login systems
-- Proficiency in generating and sending automated PDFs
-
-Please provide examples of similar work done.</description></item>
 <item><title>GoHighLevel System Setup for Wedding Venue</title><link>https://www.freelancer.com/projects/crm/GoHighLevel-System-Setup-for-Wedding</link><guid isPermaLink="false">freelancer:40749897</guid><pubDate>Sun, 04 Oct 2026 20:09:08 GMT</pubDate><description>15-25 USD/hr | I'm looking for an experienced GoHighLevel specialist to set up a comprehensive system for my wedding venue business. The system should streamline lead generation, customer relationship management, and marketing automation.
 
 Key Requirements:
