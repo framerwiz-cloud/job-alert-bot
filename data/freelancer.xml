@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Separate Firebird Database from Web App</title><link>https://www.freelancer.com/projects/database-management/Separate-Firebird-Database-from-Web</link><guid isPermaLink="false">freelancer:40753547</guid><pubDate>Tue, 06 Oct 2026 16:33:17 GMT</pubDate><description>250-750 CAD | I need my web application, which provides company-related information and is currently integrated with a Firebird database, to be restructured. The database is embedded within the site code and needs to be separated so I can host the main site externally.
+
+Key Requirements:
+- De-link Firebird database from the existing web application.
+- Ensure the web application remains functional and accessible after separation.
+- Provide documentation on the new setup for future reference.
+
+Ideal Skills and Experience:
+- Strong experience with Firebird databases.
+- Proficiency in web application development and restructuring.
+- Familiarity with documentation and providing post-project support.</description></item>
 <item><title>File-Tab Navigation Hover Effect</title><link>https://www.freelancer.com/projects/web-design/File-Tab-Navigation-Hover-Effect</link><guid isPermaLink="false">freelancer:40753577</guid><pubDate>Tue, 06 Oct 2026 16:22:00 GMT</pubDate><description>30-250 USD | I need the hover state on the main navigation of my corporate WordPress site to mimic the look of a classic file-folder tab, exactly like the screenshot I’ve attached. The menu is already built and styled; the only piece missing is that distinctive tab-style hover that makes the current item look as if its “folder” is pulled forward above the rest.
 
 Here’s what I’m after:
@@ -1153,17 +1164,6 @@ Acceptance criteria
 • Training records and certificates kept fully up to date and audit-ready.
 
 All SOPs, templates, and system access will be provided on award. Average weekly workload is 5–10 hours, with flexibility during hiring peaks.</description></item>
-<item><title>Professional Digital Portfolio Creation</title><link>https://www.freelancer.com/projects/wix/Professional-Digital-Portfolio-Creation</link><guid isPermaLink="false">freelancer:40749983</guid><pubDate>Sun, 04 Oct 2026 22:02:07 GMT</pubDate><description>250-750 USD | I need a digital portfolio to enhance my job search.
-
-Requirements:
-- Include resume and work samples
-- Built on any platform (WordPress, Wix, or Custom HTML/CSS)
-- Design should be professional 
-
-Ideal Skills and Experience:
-- Portfolio development expertise
-- Proficiency in WordPress, Wix, or HTML/CSS
-- Strong design skills for professional aesthetics</description></item>
 <item><title>GoHighLevel System Setup for Wedding Venue</title><link>https://www.freelancer.com/projects/crm/GoHighLevel-System-Setup-for-Wedding</link><guid isPermaLink="false">freelancer:40749897</guid><pubDate>Sun, 04 Oct 2026 20:09:08 GMT</pubDate><description>15-25 USD/hr | I'm looking for an experienced GoHighLevel specialist to set up a comprehensive system for my wedding venue business. The system should streamline lead generation, customer relationship management, and marketing automation.
 
 Key Requirements:
