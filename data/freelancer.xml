@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Party Rental Booking Website</title><link>https://www.freelancer.com/projects/booking-system-development/Party-Rental-Booking-Website</link><guid isPermaLink="false">freelancer:40753091</guid><pubDate>Tue, 06 Oct 2026 11:41:51 GMT</pubDate><description>50+ USD/hr | I run a party rental business and need a polished, conversion-focused website that lets customers browse my inventory, check real-time availability, reserve items, pay on the spot, and leave feedback once their event is over. I would like this built on Squarespace so I can handle routine updates myself, but if you have a compelling reason to propose another modern, easy-to-maintain platform I’m open to hearing it.
+
+Core requirements  
+• Booking &amp; reservation flow that feels effortless on desktop and mobile  
+• Availability calendar visible on every product so clients instantly know what’s free  
+• Secure online payment processing (Stripe and/or PayPal preferred) with automated email confirmations and invoicing  
+• Customer review section tied to each item and overall service rating  
+• Clear inventory categories and search so clients can find linens, tables, inflatables, etc. fast  
+• Responsive design, optimized images, basic on-page SEO, and Google Analytics connected  
+• Short video or PDF hand-over guide showing me how to add new products, adjust pricing, and export bookings
+
+I’ll supply branding assets, high-resolution product photos, and copy; you handle layout, integrations, and any light code tweaks Squarespace allows. Launch timeline is flexible but I’d like to go live within four weeks. If this all sounds straightforward to you, please tell me about similar booking sites you’ve shipped and the plugins or code snippets you’d rely on here.</description></item>
 <item><title>Bold Miami-Themed MMA Fight Shorts</title><link>https://www.freelancer.com/projects/product-design/Bold-Miami-Themed-MMA-Fight</link><guid isPermaLink="false">freelancer:40753068</guid><pubDate>Tue, 06 Oct 2026 11:31:31 GMT</pubDate><description>30-250 USD | I'm looking for a designer to create bold and flashy MMA fight shorts. The design should be modern and sleek, incorporating the vibrant Miami color way. 
 
 Requirements:
@@ -1372,18 +1384,4 @@ Deliverables will be considered complete when:
 4. You supply a succinct post-launch hand-off document outlining update procedures and rollback points.
 
 If you have questions about the existing codebase or need staging credentials, let me know and I’ll provide them right away.</description></item>
-<item><title>Earn First $1K: Shopify Emails</title><link>https://www.freelancer.com/projects/email-marketing/Earn-First-Shopify-Emails</link><guid isPermaLink="false">freelancer:40736756</guid><pubDate>Tue, 29 Sep 2026 17:49:52 GMT</pubDate><description>2-10 USD/hr | My Shopify dropshipping store is built, stocked, and sitting quietly—what it lacks is an email marketer who can turn subscribers into buyers. Your mission is simple: drive at least US $1,000 in verified store revenue strictly through email marketing. As soon as the dashboard shows that first $1,000, every cent of it is yours as payment. Note: The milestone payment will only be released after achieving this sales target as confirmed in Shopify analytics. If the target isn't met, a refund will be requested. After the milestone we can negotiate a longer-term arrangement if results stay strong.
-
-Scope of work
-• Audit the store, connect your preferred platform (Klaviyo, Mailchimp, etc.), and be sure tracking is airtight.
-• Implement high-converting opt-ins so we grow the list quickly.
-• Build and launch three automated flows—Abandoned Cart, Welcome/Promo, and New-Product Announcements—complete with compelling copy, segmentation logic, and responsive design.
-• Tweak, A/B test, and refine until the $1K target shows up in Shopify analytics.
-
-Acceptance criteria
-1. All flows live and fully automated.
-2. Revenue attribution inside Shopify (and the email dashboard) clearly shows at least US $1,000 generated from your campaigns.
-3. A brief hand-off document summarising performance and next steps.
-
-If email is your playground and you’re confident you can hit that first $1K fast, let’s get started.</description></item>
 </channel></rss>
