@@ -3,6 +3,75 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 18:24:52 GMT</pubDate><description>5-10 GBP/hr | # Developer Needed for Multipurpose AI Agent — OpenAI, Mistral, n8n
+
+### Job Description
+
+I am looking for an experienced AI developer to complete the setup and integration of a multipurpose AI agent using existing infrastructure.
+
+**Existing Infrastructure**
+
+* Hetzner VPS running Ubuntu.
+* Docker environment.
+* Self-hosted n8n automation platform.
+* Existing web interface.
+* GitHub account.
+* OpenAI API access.
+
+### Project Requirements
+
+**1. AI Models**
+
+* Integrate OpenAI models through the API.
+* Integrate Mistral AI models.
+* Configure the system to use appropriate models for different tasks.
+* Allow additional models to be integrated in the future.
+
+**2. AI Agent and Interface**
+
+* Configure the multipurpose AI agent.
+* Connect the agent to n8n for workflow execution.
+* Enable the agent to use authorised tools and external APIs.
+* Integrate with the existing web interface.
+
+**3. Business Integrations**
+
+Initial integrations will include:
+
+* Shopify e-commerce store.
+* Easyship shipping and fulfilment.
+* Supplier APIs and additional business tools as required.
+
+**4. Technical Requirements**
+
+* Work with the existing infrastructure rather than rebuilding it.
+* Configure secure API connections and credentials.
+* Ensure reliable workflow execution, error handling and logging.
+* Provide documentation and a complete handover.
+
+### Developer Requirements
+
+Experience required in:
+
+* OpenAI API and Mistral AI.
+* n8n and AI agent development.
+* REST APIs, webhooks and integrations.
+* Docker, Ubuntu and self-hosted applications.
+* Shopify API integration.
+
+### Application Questions
+
+Please provide:
+
+1. Examples of AI agents you have developed using n8n.
+2. Your experience integrating OpenAI and Mistral models.
+3. Your proposed implementation approach.
+4. Estimated cost, delivery time and any additional running costs.
+
+**Important:** The core infrastructure already exists. I am looking for a developer to configure, integrate and complete the system cost-effectively without introducing unnecessary platforms or rebuilding existing components.
+
+The project will be completed in stages, beginning with an assessment of the current installation.
+</description></item>
 <item><title>Industry Website with News Section -- 2</title><link>https://www.freelancer.com/projects/web-development/Industry-Website-with-News-Section</link><guid isPermaLink="false">freelancer:40753724</guid><pubDate>Tue, 06 Oct 2026 17:58:54 GMT</pubDate><description>15-25 USD/hr | I’m setting up a professional-facing website and need a developer who can take it from concept to launch. The audience will be industry professionals, so the look and feel must be clean, trustworthy, and performance-driven.  
 
 The heart of the site is a regularly updated blog/news section that I can manage myself. Whether you prefer WordPress, a headless CMS, or another modern stack, I’m open—as long as updating content is straightforward and the finished product loads quickly on all devices.  
@@ -118,8 +187,6 @@ To amplify the rebrand and new site launch, I want coordinated campaigns across:
 • Content marketing (blog articles, thought-leadership posts, downloadable guides)  
 
 I’ll provide existing analytics, brand history and any collateral you need. Please share relevant portfolio pieces, outline your proposed timeline, and let me know which tools you prefer for project management, design and SEO reporting.</description></item>
-<item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 12:29:11 GMT</pubDate><description>5-10 GBP/hr | Looking to build a multipurpose Ai. Using self server hertzer open ai API keys, a Web user interface add multiple ai agents
-small project. Add n8n as a tool eco system or use n8n interface</description></item>
 <item><title>Bold Miami-Themed MMA Fight Shorts</title><link>https://www.freelancer.com/projects/product-design/Bold-Miami-Themed-MMA-Fight</link><guid isPermaLink="false">freelancer:40753068</guid><pubDate>Tue, 06 Oct 2026 11:31:31 GMT</pubDate><description>30-250 USD | I'm looking for a designer to create bold and flashy MMA fight shorts. The design should be modern and sleek, incorporating the vibrant Miami color way. 
 
 Requirements:
@@ -1400,18 +1467,21 @@ Deliverables will be considered complete when:
 4. You supply a succinct post-launch hand-off document outlining update procedures and rollback points.
 
 If you have questions about the existing codebase or need staging credentials, let me know and I’ll provide them right away.</description></item>
-<item><title>Earn First $1K: Shopify Emails</title><link>https://www.freelancer.com/projects/email-marketing/Earn-First-Shopify-Emails</link><guid isPermaLink="false">freelancer:40736756</guid><pubDate>Tue, 29 Sep 2026 17:49:52 GMT</pubDate><description>2-10 USD/hr | My Shopify dropshipping store is built, stocked, and sitting quietly—what it lacks is an email marketer who can turn subscribers into buyers. Your mission is simple: drive at least US $1,000 in verified store revenue strictly through email marketing. As soon as the dashboard shows that first $1,000, every cent of it is yours as payment. Note: The milestone payment will only be released after achieving this sales target as confirmed in Shopify analytics. If the target isn't met, a refund will be requested. After the milestone we can negotiate a longer-term arrangement if results stay strong.
+<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
-Scope of work
-• Audit the store, connect your preferred platform (Klaviyo, Mailchimp, etc.), and be sure tracking is airtight.
-• Implement high-converting opt-ins so we grow the list quickly.
-• Build and launch three automated flows—Abandoned Cart, Welcome/Promo, and New-Product Announcements—complete with compelling copy, segmentation logic, and responsive design.
-• Tweak, A/B test, and refine until the $1K target shows up in Shopify analytics.
+Requirements:
+- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
+- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
+- Inventory management: Efficient tracking and management of stock levels.
+- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
 
-Acceptance criteria
-1. All flows live and fully automated.
-2. Revenue attribution inside Shopify (and the email dashboard) clearly shows at least US $1,000 generated from your campaigns.
-3. A brief hand-off document summarising performance and next steps.
+Ideal Skills:
+- Proven experience in e-commerce, particularly on Amazon
+- Strong background in marketing and promotions
+- Excellent inventory management skills
+- Customer service expertise
+- Proven positive track record with end to end Amazon store management.
+- Experience with Printful to Amazon integrations (Not required but useful)
 
-If email is your playground and you’re confident you can hit that first $1K fast, let’s get started.</description></item>
+We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
