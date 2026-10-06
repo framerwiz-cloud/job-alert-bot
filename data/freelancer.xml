@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Replicate Site to New Host</title><link>https://www.freelancer.com/projects/web-development/Replicate-Site-New-Host</link><guid isPermaLink="false">freelancer:40753938</guid><pubDate>Tue, 06 Oct 2026 20:19:50 GMT</pubDate><description>250-750 USD | I need our existing company website moved to a new hosting account, but I no longer have the source files. You’ll scrape the live site (URL supplied after award) and rebuild it so it looks and behaves exactly the same—same layout, navigation, imagery, and overall feel. The site is brochure-style with no ecommerce or database-driven features, so the job is straightforward.
+
+During the copy I’d like a few small text tweaks—nothing more than updating contact details and polishing a paragraph or two. Otherwise everything stays as-is. Feel free to use WordPress, a static-site generator, or plain HTML/CSS; whichever route you choose, make sure future edits will be simple and the pages load quickly.
+
+Deliverables:
+• Fully cloned site with minor text updates applied  
+• Clean, well-organised source files or CMS export  
+• Installation and testing on my new cPanel-based host  
+• Brief hand-off notes covering edit steps and any login credentials  
+
+Acceptance criteria: the new site must match the current one pixel-for-pixel in desktop and mobile views, all links must work, and load speed should be on par with—or better than—the original. Once everything checks out, you’ll help point the domain to its new home and we’ll call it done.</description></item>
 <item><title>Bluehost to Squarespace Migration</title><link>https://www.freelancer.com/projects/squarespace/Bluehost-Squarespace-Migration</link><guid isPermaLink="false">freelancer:40753889</guid><pubDate>Tue, 06 Oct 2026 19:49:33 GMT</pubDate><description>30-250 USD | I’m ready to move my current site off Bluehost and rebuild it on Squarespace without losing anything that matters. The site includes a growing blog and an active e-commerce section, and members log in for gated content, so these three elements—blog posts, product catalog with orders, and user-login functionality—must be fully reproduced and tested on the new platform.
 
 Here’s what I expect by the end of the project:
@@ -1331,29 +1342,6 @@ TO APPLY, PLEASE SEND
 4. Start your reply with the word "NEARLY" so I know you've read this.
 
 I'll provide: the 4 PNG mockups, page copy, MailerLite embed code, Stripe and Calendly links, and Lovable access.</description></item>
-<item><title>Car Company Website Development</title><link>https://www.freelancer.com/projects/web-development/Car-Company-Website-Development</link><guid isPermaLink="false">freelancer:40751068</guid><pubDate>Mon, 05 Oct 2026 12:19:10 GMT</pubDate><description>750-1500 EUR | please check  Doc File G54  for design....I’m ready to establish a polished online presence for my car company and need a full website built from the ground up. The site has to be clean, fast, and responsive, with a design that reflects an automotive brand—bold hero imagery, clear typography, and subtle, performance-friendly animations.
-
-Core structure I have in mind:
-• Home page introducing the brand story
-• Range page showcasing each model with specs, galleries, and downloadable brochures
-• After-sales section covering maintenance, trade-in, and financing information
-• Contact page with an enquiry form, embedded map, and clear calls-to-action
-
-I want a CMS that lets my team add new models, update prices, images, and copy without touching code. If you favour WordPress, use a lightweight theme or starter framework; if you recommend another stack, explain the maintenance needs. Whichever route we take, configure HTTPS, basic on-page SEO (semantic markup, meta tags, sitemap), and Google Analytics before hand-off.
-
-Deliverables:
-• Fully responsive website ready to launch on my domain
-• CMS login with short documentation for content updates
-• Optimised images, editable design assets, and licences for any premium resources
-• Deployment assistance to my hosting account
-
-Acceptance criteria:
-– Every page loads in under 3 seconds on a 4G connection  
-– Proper rendering on the latest Chrome, Safari, Edge, and Firefox—desktop and mobile  
-– Accessibility meets WCAG 2.1 AA for colour contrast and alt text  
-– No console errors; enquiry form sends successfully to my email address
-
-Let me know your proposed tech stack and timeline along with any clarifying questions.</description></item>
 <item><title>Beauty Salon Website &amp; Social Media Revamp</title><link>https://www.freelancer.com/projects/web-design/Beauty-Salon-Website-Social-Media</link><guid isPermaLink="false">freelancer:40750613</guid><pubDate>Mon, 05 Oct 2026 07:42:17 GMT</pubDate><description>8-15 AUD/hr | I'm looking for an experienced web designer and social media manager to update my established beauty salon website and schedule posts on our social media platforms.
 
 Website Update:
