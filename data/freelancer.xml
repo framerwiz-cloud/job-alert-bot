@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Payment Gateway Integration Upgrade</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Payment-Gateway-Integration</link><guid isPermaLink="false">freelancer:40754034</guid><pubDate>Tue, 06 Oct 2026 21:46:48 GMT</pubDate><description>1500-3000 USD | My WordPress site already looks the way I want, but the functionality is lagging behind: customers still have to call or email to complete a purchase. I’m ready to change that by adding full-scale e-commerce capability, starting with a rock-solid payment gateway integration.
+
+Here’s what I need: configure and embed a modern gateway (Stripe, PayPal, or a comparable solution we agree on), connect it to an intuitive checkout flow, and be sure that every order reliably shows up in the dashboard for easy management. Security, PCI-compliant handling of card data, and clear customer confirmation emails are non-negotiable. If a lightweight cart or WooCommerce setup is the simplest path, I’m happy to go that route; just keep the existing design intact and the site fast.
+
+Deliverables
+• Install/activate required e-commerce plugin or custom code  
+• Integrate chosen payment gateway with live and sandbox keys  
+• Build or adapt the checkout page to match the current theme  
+• Test end-to-end transactions and provide a short hand-off guide  
+
+I’ll supply hosting access, SSL is already in place, and I’m available for quick feedback so we can wrap this efficiently. Let’s get my customers checking out with a single click and no hassles.</description></item>
 <item><title>Elevated X CMS Expert Needed</title><link>https://www.freelancer.com/projects/web-development/Elevated-CMS-Expert-Needed</link><guid isPermaLink="false">freelancer:40753989</guid><pubDate>Tue, 06 Oct 2026 21:12:02 GMT</pubDate><description>50+ USD/hr | Elevated X / ELX Core &amp; Nexus Developer — Ongoing Freelance Work
 
 We operate an established subscription-based adult entertainment website using the Elevated X CMS platform.
@@ -1375,29 +1386,6 @@ TO APPLY, PLEASE SEND
 4. Start your reply with the word "NEARLY" so I know you've read this.
 
 I'll provide: the 4 PNG mockups, page copy, MailerLite embed code, Stripe and Calendly links, and Lovable access.</description></item>
-<item><title>Car Company Website Development</title><link>https://www.freelancer.com/projects/web-development/Car-Company-Website-Development</link><guid isPermaLink="false">freelancer:40751068</guid><pubDate>Mon, 05 Oct 2026 12:19:10 GMT</pubDate><description>750-1500 EUR | please check  Doc File G54  for design....I’m ready to establish a polished online presence for my car company and need a full website built from the ground up. The site has to be clean, fast, and responsive, with a design that reflects an automotive brand—bold hero imagery, clear typography, and subtle, performance-friendly animations.
-
-Core structure I have in mind:
-• Home page introducing the brand story
-• Range page showcasing each model with specs, galleries, and downloadable brochures
-• After-sales section covering maintenance, trade-in, and financing information
-• Contact page with an enquiry form, embedded map, and clear calls-to-action
-
-I want a CMS that lets my team add new models, update prices, images, and copy without touching code. If you favour WordPress, use a lightweight theme or starter framework; if you recommend another stack, explain the maintenance needs. Whichever route we take, configure HTTPS, basic on-page SEO (semantic markup, meta tags, sitemap), and Google Analytics before hand-off.
-
-Deliverables:
-• Fully responsive website ready to launch on my domain
-• CMS login with short documentation for content updates
-• Optimised images, editable design assets, and licences for any premium resources
-• Deployment assistance to my hosting account
-
-Acceptance criteria:
-– Every page loads in under 3 seconds on a 4G connection  
-– Proper rendering on the latest Chrome, Safari, Edge, and Firefox—desktop and mobile  
-– Accessibility meets WCAG 2.1 AA for colour contrast and alt text  
-– No console errors; enquiry form sends successfully to my email address
-
-Let me know your proposed tech stack and timeline along with any clarifying questions.</description></item>
 <item><title>Beauty Salon Website &amp; Social Media Revamp</title><link>https://www.freelancer.com/projects/web-design/Beauty-Salon-Website-Social-Media</link><guid isPermaLink="false">freelancer:40750613</guid><pubDate>Mon, 05 Oct 2026 07:42:17 GMT</pubDate><description>8-15 AUD/hr | I'm looking for an experienced web designer and social media manager to update my established beauty salon website and schedule posts on our social media platforms.
 
 Website Update:
