@@ -18,17 +18,6 @@ Deliverables
 
 Acceptance criteria: pages load in under 3 seconds on 4G, bookings reach our email and calendar without error, questionnaire stores results to a simple dashboard or sends them by email, and the product cart stays hidden until a visitor has viewed service content.</description></item>
 <item><title>Backend API Integration Development -- 3</title><link>https://www.freelancer.com/projects/api-developmet/Backend-API-Integration-Development</link><guid isPermaLink="false">freelancer:40754134</guid><pubDate>Tue, 06 Oct 2026 23:30:15 GMT</pubDate><description>30-250 USD | Needed for ongoing small milestones: connecting existing pages to the backend, API integrations, payment gateways, and Google tracking setup.</description></item>
-<item><title>Finish Website &amp; Upload Content</title><link>https://www.freelancer.com/projects/web-design/Finish-Website-Upload-Content</link><guid isPermaLink="false">freelancer:40754133</guid><pubDate>Tue, 06 Oct 2026 23:29:05 GMT</pubDate><description>30-250 AUD | My Wordpress site is roughly 60- 70 % built and I have moved into the content-uploading stage. The structure, theme, and core pages are already in place; what’s holding the launch back is polishing the remaining pages and placing the final text and video assets so everything feels complete and consistent.
-
-Here’s what I still need:  
-• Upload and format the last batches of written copy (a mix of short blurbs and a few longer sections).  
-• Embed several provided videos so they stream smoothly on desktop and mobile, with clean thumbnails and captions.  
-• Tidy up any layout glitches you notice while inserting the content and make sure spacing, fonts, and colours stay on brand.  
-• Run a quick pass across all pages for broken links, placeholder text, and obvious responsiveness issues before we go live.
-
-I’ll supply the copy, brand guidelines, and access to the site builder as soon as we start. If you spot minor tweaks that will improve load time or user flow, feel free to flag them—quick wins are welcome.
-
-The goal: a professional launch-ready website that looks finished, reads well, and plays video flawlessly.</description></item>
 <item><title>Optics Practice Management Web Application</title><link>https://www.freelancer.com/projects/web-application/Optics-Practice-Management-Web</link><guid isPermaLink="false">freelancer:40754040</guid><pubDate>Tue, 06 Oct 2026 21:50:54 GMT</pubDate><description>10-15 GBP/hr | I need a secure, web-based application that streamlines every key workflow in my optics practice. The core of the platform is an electronic patient record that stores medical history, insurance information, and prescription records in one place, searchable at any time from any modern browser.
 
 A dual-mode recall engine must be built in: it should send automated SMS and email reminders while still allowing staff to step in and schedule manual follow-ups whenever needed. The same messaging layer will power day-to-day email and text communication with patients.
@@ -1332,6 +1321,19 @@ Acceptance criteria
 5. No PHP notices, Drupal warnings, or console errors appear after a fresh cache rebuild.
 
 If anything is unclear, tell me early so we can keep the project moving smoothly.</description></item>
+<item><title>Corporate Security WordPress Website</title><link>https://www.freelancer.com/projects/web-design/Corporate-Security-WordPress-Website</link><guid isPermaLink="false">freelancer:40751582</guid><pubDate>Mon, 05 Oct 2026 16:59:01 GMT</pubDate><description>250-750 USD | I need a polished, responsive WordPress site that will present our U.S.-based guard services with real corporate credibility. The build will cover 10–15 pages—company overview, services, industries served, gallery for photos and videos, plus two contact touch-points: a straightforward “Get in Touch” form and a quote request form.
+
+I will supply all copy, brand guidelines, imagery, and video assets. Your role is to recommend a suitable theme (I’m open to any that fits a clean, modern aesthetic), set it up on WordPress, and arrange the material so the navigation feels intuitive on desktop, tablet, and mobile.
+
+Please handle:
+• Theme selection and installation  
+• Page setup and styling in line with the brand guidelines  
+• Embedding and optimizing the provided photos and videos  
+• Configuration of the simple contact form and the quote request form  
+• Basic on-page SEO structure (titles, meta descriptions, alt tags)  
+• Performance and security best practices before hand-off
+
+When finished, the site should load quickly, look consistent across browsers, and be easy for our in-house team to update. Point the completed build to a staging URL so I can review everything before we push it live.</description></item>
 <item><title>Experienced Moodle LMS Developer Needed</title><link>https://www.freelancer.com/projects/css/Experienced-Moodle-LMS-Developer-Needed</link><guid isPermaLink="false">freelancer:40751551</guid><pubDate>Mon, 05 Oct 2026 16:41:41 GMT</pubDate><description>2-8 CAD/hr | Job Type: Full-Time, Long-Term  
 Work Location: Remote  
 Schedule: 7–8 hours per day, 5 days per week  
