@@ -3,6 +3,117 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bluehost to Squarespace Migration</title><link>https://www.freelancer.com/projects/squarespace/Bluehost-Squarespace-Migration</link><guid isPermaLink="false">freelancer:40753889</guid><pubDate>Tue, 06 Oct 2026 19:49:33 GMT</pubDate><description>30-250 USD | I’m ready to move my current site off Bluehost and rebuild it on Squarespace without losing anything that matters. The site includes a growing blog and an active e-commerce section, and members log in for gated content, so these three elements—blog posts, product catalog with orders, and user-login functionality—must be fully reproduced and tested on the new platform.
+
+Here’s what I expect by the end of the project:
+
+• All existing pages, posts, products, and media migrated and formatted to match (or improve on) the current look.  
+• Squarespace’s built-in Member Areas configured so current users can sign in seamlessly after launch.  
+• DNS cut-over handled, along with SSL and email routing checks.  
+• SEO settings (titles, meta descriptions, slugs, 301 redirects) carried across so rankings stay intact.  
+• A quick walkthrough so I can manage future content on my own.
+
+I’ll supply Bluehost credentials, the current site export, and access to my Squarespace account as soon as we start. Let me know your estimated timeline and any similar migrations you’ve carried out—especially those involving user logins or online stores—so I can hit the ground running with the right partner.</description></item>
+<item><title>Custom Real Estate Operating System &amp; CRM</title><link>https://www.freelancer.com/projects/crm/Custom-Real-Estate-Operating-System</link><guid isPermaLink="false">freelancer:40753873</guid><pubDate>Tue, 06 Oct 2026 19:41:01 GMT</pubDate><description>750-1500 USD | We are looking for an experienced developer or small development team to build a custom operating system and CRM for a real estate/property management business.
+
+The platform will support:
+- Short-term rentals
+- Long-term rentals
+- Property sales
+- Property management
+- Owners and clients
+- Guests and tenants
+- Vendors and cleaners
+- Maintenance
+- Leads and sales
+- Property onboarding
+- Client/vendor/team onboarding
+- Documents and contracts
+- Tasks, workflows, reporting, and dashboards
+
+We are open to using existing platforms, frameworks, APIs, and third-party tools where appropriate, but the final system should be customized around our operations.
+
+Key integrations may include: 
+- Hostaway
+- PriceLabs
+- Airbnb / VRBO
+- Gmail / Google Drive / Google Calendar
+- Slack
+- Dialpad
+- QuickBooks
+- Stripe
+- DocuSign
+- Ring
+- Schlage
+- NoiseAware
+- Forewarn
+- Zillow / HAR / MLS
+- Other APIs as needed
+
+The system should include strong workflow automation. Examples:
+- Reservation confirmed → create operational tasks
+- Checkout → create cleaning workflow
+- Cleaner completes task → trigger inspection/validation
+- Maintenance issue → assign vendor and track status
+- New property → start onboarding workflow
+- New client/vendor → start onboarding workflow
+- New lead → create follow-up tasks
+
+We also want AI features such as:
+- Internal AI assistant
+- AI search across company data
+- Email/SMS drafting
+- Conversation summaries
+- Email and issue classification
+- Automated task creation
+- Maintenance issue analysis
+- Vendor recommendations
+- Lead qualification
+- Owner reporting
+- AI agents that can perform approved actions
+
+The platform should support role-based access for:
+- Management
+- Property managers
+- VAs/staff
+- Cleaners
+- Vendors
+- Owners/clients
+- Sales/realtor staff
+- Accounting
+- Admins
+
+We also want the architecture to support external portals such as:
+- Owner portal
+- Vendor portal
+- Cleaner portal
+- Tenant portal
+- Guest portal
+
+The system should work well on desktop and mobile. A responsive web app is acceptable initially, but the architecture should support mobile apps later.
+
+We are not requiring a specific technology stack. You may recommend the best approach. Experience with technologies such as React, Next.js, PostgreSQL, Supabase, APIs, webhooks, automation platforms, OpenAI, Claude, or similar tools is a plus.
+
+What matters most to us:
+- Strong UI/UX
+- Ability to understand business operations and translate them into software
+- Workflow automation experience
+- API/integration experience
+- Clean, scalable, maintainable development
+
+Property management experience is helpful but not required if you are technically strong.
+When applying, please include:
+- Short introduction
+- Portfolio/examples of CRM, SaaS, automation, or AI systems you have built
+- Relevant experience
+- Technologies you work with
+- Availability
+- Whether you are an individual, team, or agency
+- Estimated pricing structure or rate
+- Your recommended technical approach for this project
+
+Please start your proposal with PROPERTY OS so we know you read the full description.
+We are open to project-based, or ongoing arrangements. Budget will be discussed with qualified candidates.</description></item>
 <item><title>Elegant Restaurant Website Development</title><link>https://www.freelancer.com/projects/web-design/Elegant-Restaurant-Website-Development</link><guid isPermaLink="false">freelancer:40753872</guid><pubDate>Tue, 06 Oct 2026 19:37:14 GMT</pubDate><description>250-750 CAD | I need a classic and elegant restaurant website. The site should include:
 
 - About Us
@@ -1243,25 +1354,6 @@ Acceptance criteria:
 – No console errors; enquiry form sends successfully to my email address
 
 Let me know your proposed tech stack and timeline along with any clarifying questions.</description></item>
-<item><title>Custom Website Development with Local SEO</title><link>https://www.freelancer.com/projects/web-development/Custom-Website-Development-with-Local</link><guid isPermaLink="false">freelancer:40751062</guid><pubDate>Mon, 05 Oct 2026 12:13:16 GMT</pubDate><description>250-750 USD | I need a web developer to build a website ranging from a single page to a 5+ custom page site, including Home, Services, About, Portfolio, Blog/News, Contact, and Bookings. The site should include a built-in CMS for easy content updates, an advanced portfolio system with categorized galleries, and booking or calendar integration for client appointments. I also need local SEO setup for service pages targeting nearby areas to improve Google Maps and search visibility.</description></item>
-<item><title>Finalize Business Trade Website</title><link>https://www.freelancer.com/projects/frontend-development/Finalize-Business-Trade-Website</link><guid isPermaLink="false">freelancer:40750801</guid><pubDate>Mon, 05 Oct 2026 09:26:54 GMT</pubDate><description>250-750 GBP | The core of the site is already in place, but it still needs that final polish and a coherent design framework to bring everything together. I need someone to step in, tidy up what’s there, and wrap it all inside a responsive, modern UI—whether you prefer Bootstrap, Tailwind, or another solid front-end toolkit is up to you as long as the result is lean and fast.
-
-Key functionality still to complete:
-• User registration , 
-• Product catalog that supports multiple categories and easy search/filter options  
-• News / blog section styled to match the rest of the site  
-• CRM integration so enquiries and orders drop straight into the pipeline  
-
-The existing codebase is fairly clean, built with standard HTML, CSS, and a lightweight PHP back-end, and it’s already hosted. You’ll have full Git access to review what’s been done and push updates.  
-
-Acceptance criteria will be:
-1. Consistent styling across every page using the chosen framework  
-2. All listed features fully operational on both desktop and mobile  
-3. No critical console or server errors on launch  
-4. Clear hand-off notes and a brief walkthrough of any custom components you add  
-5, crm and forms. Email automatic replies
-
-If you can move quickly while keeping code readable and simple. The first website is a wix design . But require more site for another business we have</description></item>
 <item><title>Beauty Salon Website &amp; Social Media Revamp</title><link>https://www.freelancer.com/projects/web-design/Beauty-Salon-Website-Social-Media</link><guid isPermaLink="false">freelancer:40750613</guid><pubDate>Mon, 05 Oct 2026 07:42:17 GMT</pubDate><description>8-15 AUD/hr | I'm looking for an experienced web designer and social media manager to update my established beauty salon website and schedule posts on our social media platforms.
 
 Website Update:
