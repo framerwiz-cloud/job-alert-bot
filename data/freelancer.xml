@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Development of a Premium, Automated Practice Management System (Notion Template &amp; Google Sheets Ecosystem) for Independent Clinicians</title><link>https://www.freelancer.com/projects/notion/Development-Premium-Automated-Practice</link><guid isPermaLink="false">freelancer:40752266</guid><pubDate>Tue, 06 Oct 2026 03:15:37 GMT</pubDate><description>250-750 USD | Project Overview:
+We are seeking an expert Notion Creator and Google Sheets Developer to build a comprehensive, high-value Practice Management System designed for independent therapists and private practitioners. The goal is to create a seamless, professional digital ecosystem that replaces expensive monthly SaaS subscriptions. This product will be delivered as a premium digital download bundle ready for commercial resale.
+Scope of Work &amp; Technical Specifications:
+Module 1: Premium Notion Practice System
+• Client Database: Robust tracking with linked relational records for sessions, notes, and invoicing.
+• Session Notes &amp; Attendance: Integrated tracking matrix with reusable client page templates for smooth note-taking.
+• Goals &amp; Progress Tracker: Relational database mapping client milestones, progress reviews, and clinical outcomes.
+• Administrative Dashboard: Centralized view for clean tracking of invoices, payments, cancellations, and supervisor check-ins.
+• UX/UI Optimization: Highly intuitive, clean dashboard with filtered database views tailored for active daily practice.
+Module 2: Advanced Google Sheets Practice System
+• Metrics Dashboard: A high-level visual summary showing active client counts, running balances, and practice revenue.
+• Client Log &amp; Validation: Structured database utilizing strict data validation dropdowns to keep inputs error-free.
+• Automated Progress Tracker: Clean formulas mapping progress scores over consecutive sessions.
+• Financial &amp; Invoice Tracker: Advanced cross-sheet formulas to handle running client balances, tracking paid versus outstanding invoices.
+• Conditional Formatting: Visual alerts highlighting overdue payments, low progress scores, or high cancellation rates.
+• Structure: Must utilize clean named ranges, protected sheets/formulas, and a dedicated, user-friendly instructions tab.
+Module 3: Final QA, Testing &amp; Delivery Packaging
+• Rigorous Testing: Full formula validation, cross-sheet reference checks, and database performance testing.
+• Resale-Ready Delivery: Fully tested template links, locked spreadsheet cells, and clear customer onboarding documentation ready for immediate digital delivery.</description></item>
 <item><title>Dog Breeding and Products Website Design</title><link>https://www.freelancer.com/projects/web-design/Dog-Breeding-Products-Website-Design</link><guid isPermaLink="false">freelancer:40752202</guid><pubDate>Tue, 06 Oct 2026 02:02:29 GMT</pubDate><description>25-50 USD/hr | I'm looking for a skilled web developer to create a website dedicated to selling dogs and dog-related products, specifically dog food, treats, toys, and accessories. 
 
 Key Requirements:
@@ -1187,73 +1206,6 @@ Acceptance Criteria
 2. Cross-Platform Rendering: The countdown timer, booking widget, and agenda layout must render flawlessly on Chrome, Safari, and Edge across both desktop and mobile viewports.
 3. Asset Delivery: All social media graphics, ad variants, and email copies must be delivered as clean, editable source files, accompanied by a simple launch sheet outlining recommended deployment dates, spend brackets, and key KPIs to monitor.
 4. Timeline: This system must be fully built, tested, and ready to go live within 5 days of award.</description></item>
-<item><title>Senior Lead for WordPress Business Platform</title><link>https://www.freelancer.com/projects/wordpress/Senior-Lead-for-WordPress-Business</link><guid isPermaLink="false">freelancer:40748419</guid><pubDate>Sat, 03 Oct 2026 19:55:26 GMT</pubDate><description>5000-10000 GBP | Yes. I’d advertise this as a senior delivery-team / technical lead opportunity, not a cheap generic WordPress job. You want applicants who can demonstrate they have already delivered this type of platform and understand the entire lifecycle from discovery through launch and support.
-You can paste this directly into Freelancer:
-Title
-Senior WordPress Development Team / Technical Lead – Complex Public-Sector Business Support Platform
-Job description
-We are seeking a highly experienced Senior WordPress Developer / Web Development Team to work with our UK company on the design and delivery of a substantial business-support website.
-This is not a basic WordPress or template website project. We are looking for professionals who can take responsibility for the technical delivery of a high-quality, production-ready platform from discovery and technical architecture through development, integrations, testing, deployment and ongoing support.
-The required solution includes:
-- Custom, professionally engineered WordPress website
-- Responsive UX/UI across desktop, tablet and mobile
-- Flexible, reusable page templates and content modules that non-technical staff can manage
-- HubSpot CRM integration
-- Event management, including event registration/attendance integration
-- Advanced site-wide search
-- Categories, tags, filters, sorting and relevance
-- User accounts and personalisation functionality
-- Architecture capable of supporting future AI-powered search, recommendations and personalisation
-- API-friendly/scalable architecture
-- WCAG 2.2 AA accessibility
-- Excellent website performance and Core Web Vitals
-- Strong cybersecurity and secure development practices
-- Appropriate user authentication and permissions
-- Backup, disaster recovery and resilience
-- QA, browser/device testing and accessibility testing
-- Deployment to production
-- Technical documentation and handover
-- Ongoing maintenance, updates, monitoring and technical support
-We want applicants who understand that this is an end-to-end digital platform project, not simply a website build.
-Who we are looking for
-We particularly want to hear from Senior/Lead WordPress Developers, Technical Architects or established development teams who have previously delivered complex websites or digital platforms.
-Strong applicants should have demonstrable experience in several of the following:
-WordPress development • custom themes/plugins • PHP • JavaScript • REST APIs • HubSpot integrations • CRM integrations • advanced search • user accounts • accessibility/WCAG • cybersecurity • performance optimisation • cloud/managed hosting • automated backups • Git/version control • staging/production environments • QA/testing.
-Experience delivering websites for government, local authorities, public-sector organisations, business-support organisations, universities, membership organisations or other large organisations would be particularly valuable.
-VERY IMPORTANT – your application
-Please do not send a generic proposal.
-We are selecting the proposed technical team partly on the strength of their previous experience. Therefore, your application must provide evidence of work you personally/your team have delivered.
-Please include:
-1. Your name, location and role.
-2. Years of professional web-development experience.
-3. Whether you are an individual developer or an established team/company.
-4. Five of the strongest websites/platforms you have personally worked on, with live links where possible.
-5. For EACH example, clearly explain exactly what you personally did on the project.
-6. Examples of complex/custom WordPress development.
-7. Details of your HubSpot integration experience.
-8. Examples of CRM/API integrations you have developed.
-9. Your experience achieving WCAG 2.2 AA or equivalent accessibility standards.
-10. Your experience implementing advanced website search/filtering.
-11. Your approach to website security, backups, resilience and disaster recovery.
-12. Any government/public-sector/large-organisation projects you have worked on.
-13. Your experience building user accounts/personalisation.
-14. Your experience with AI/search/recommendation functionality, if applicable.
-15. Your proposed role on this project.
-16. Other developers/designers/QA specialists available within your team.
-17. Your hourly/day rate and indicative availability from October/November 2026 to March 2027, with potential ongoing support through March 2028.
-18. LinkedIn profile, GitHub, portfolio and/or company website where available.
-19. Relevant qualifications/certifications.
-20. Two previous clients/references who may be contacted to verify your work.
-All experience must be genuine and verifiable. Please clearly distinguish between projects completed by your company/team and projects you personally worked on while employed or subcontracted elsewhere.
-Data security
-The successful team will be expected to work within strict UK data-protection and information-security requirements.
-Development may involve international/remote team members, but access to live personal data will be restricted and developers may be required to work with synthetic/test data unless appropriate authorisation and safeguards are in place.
-Successful applicants will also be required to agree to appropriate:
-Confidentiality / NDA • intellectual-property assignment • data-protection requirements • secure development requirements • availability and delivery commitments.
-Project approach
-We expect the successful technical team to contribute across:
-Discovery → requirements → architecture → UX/UI → development → integrations → testing → accessibility → security → deployment → handover → maintenance/support.
-We already have project/business management capability and previous digital-project experience. We are looking to add exceptional technical specialists with a proven track record to the delivery team.</description></item>
 <item><title>Cartoon Graphic Novel With Website</title><link>https://www.freelancer.com/projects/animation/Cartoon-Graphic-Novel-With-Website</link><guid isPermaLink="false">freelancer:40748257</guid><pubDate>Sat, 03 Oct 2026 17:22:21 GMT</pubDate><description>25-50 USD/hr | I’m scripting a light-hearted, cartoonish graphic novel and want a creative partner to bring the visuals and the companion website to life. You’ll handle the artwork—working with me and any AI tools you like—while I supply the finished dialogue and scene directions.  
 
 The comic will be released chapter by chapter, but I also need each strip exported as standalone, social-media-ready images for Instagram, Facebook and Twitter, so aspect ratios and file sizes must follow best practices for those three platforms.
