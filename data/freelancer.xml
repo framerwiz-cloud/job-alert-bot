@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Optics Practice Management Web Application</title><link>https://www.freelancer.com/projects/web-application/Optics-Practice-Management-Web</link><guid isPermaLink="false">freelancer:40754040</guid><pubDate>Tue, 06 Oct 2026 21:50:54 GMT</pubDate><description>10-15 GBP/hr | I need a secure, web-based application that streamlines every key workflow in my optics practice. The core of the platform is an electronic patient record that stores medical history, insurance information, and prescription records in one place, searchable at any time from any modern browser.
+
+A dual-mode recall engine must be built in: it should send automated SMS and email reminders while still allowing staff to step in and schedule manual follow-ups whenever needed. The same messaging layer will power day-to-day email and text communication with patients.
+
+To keep the team organised, the system also requires an integrated to-do list where tasks can be created, assigned, and tracked through completion.
+
+Deliverables
+• Responsive web interface with role-based access
+• Database and API for patient data (medical history, insurance, prescriptions)
+• Automated + manual recall scheduler tied to SMS/email gateways
+• Dashboard-style to-do list with real-time updates
+• Setup guide and clean, commented source code ready for deployment</description></item>
+<item><title>Creative 4-Page Website Build</title><link>https://www.freelancer.com/projects/web-design/Creative-Page-Website-Build</link><guid isPermaLink="false">freelancer:40754039</guid><pubDate>Tue, 06 Oct 2026 21:50:43 GMT</pubDate><description>250-750 USD | I already have my domain and hosting set up on Pork Bun and now I’m ready to launch a small, polished website. The site should feel creative and modern—light on clutter, big on visual impact—while remaining fast and easy to maintain. I already have a logo &amp; visual brand guide (which can be tweaked if needed)
+
+Scope of work  
+• Design and build four responsive pages:  
+ 1. Landing / home  
+ 2. About me  
+ 3. Services  
+ 4. Contact (with an embedded contact form and visible social-media icons that I can easily update)  
+
+I’ll supply copy and any images you need once the layout is approved, so you can focus on structuring clean HTML/CSS (or a lightweight WordPress theme, if that’s quicker) and adding subtle interactions that give the site personality without slowing it down. Deployment must be handled through my Pork Bun account; if you’re comfortable pushing via their cPanel or connecting Git, even better.
+
+What will make the hand-off seamless: well-commented code, clear instructions on how I can tweak text or swap images later, and testing across the latest versions of Chrome, Safari, Firefox, Edge, plus mobile.
+
+If this sounds like your kind of build, let’s talk timing and get the design started right away.</description></item>
 <item><title>WordPress Payment Gateway Integration Upgrade</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Payment-Gateway-Integration</link><guid isPermaLink="false">freelancer:40754034</guid><pubDate>Tue, 06 Oct 2026 21:46:48 GMT</pubDate><description>1500-3000 USD | My WordPress site already looks the way I want, but the functionality is lagging behind: customers still have to call or email to complete a purchase. I’m ready to change that by adding full-scale e-commerce capability, starting with a rock-solid payment gateway integration.
 
 Here’s what I need: configure and embed a modern gateway (Stripe, PayPal, or a comparable solution we agree on), connect it to an intuitive checkout flow, and be sure that every order reliably shows up in the dashboard for easy management. Security, PCI-compliant handling of card data, and clear customer confirmation emails are non-negotiable. If a lightweight cart or WooCommerce setup is the simplest path, I’m happy to go that route; just keep the existing design intact and the site fast.
