@@ -3,22 +3,69 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Modern Minimalist Service Website Design</title><link>https://www.freelancer.com/projects/web-design/Modern-Minimalist-Service-Website-Design</link><guid isPermaLink="false">freelancer:40753711</guid><pubDate>Tue, 06 Oct 2026 17:52:49 GMT</pubDate><description>250-750 USD | I need a fresh, modern design for my service-based business website that feels professional yet effortless to navigate. The overall look should lean minimalist—clean lines, lots of white space, and a restrained color palette that keeps the focus on our content.
+<item><title>Industry Website with News Section -- 2</title><link>https://www.freelancer.com/projects/web-development/Industry-Website-with-News-Section</link><guid isPermaLink="false">freelancer:40753724</guid><pubDate>Tue, 06 Oct 2026 17:58:54 GMT</pubDate><description>15-25 USD/hr | I’m setting up a professional-facing website and need a developer who can take it from concept to launch. The audience will be industry professionals, so the look and feel must be clean, trustworthy, and performance-driven.  
 
-Core requirement  
-• A clear “product catalog and search” experience, adapted to services rather than physical goods. Visitors must be able to browse our service categories, filter or search quickly, and jump straight to a concise detail page with calls-to-action.
+The heart of the site is a regularly updated blog/news section that I can manage myself. Whether you prefer WordPress, a headless CMS, or another modern stack, I’m open—as long as updating content is straightforward and the finished product loads quickly on all devices.  
 
-What I’ll supply  
-• Brand guidelines (logo, colors, typography)  
-• Basic page outline and copy draft
+Key deliverables:  
+• Responsive, production-ready website tailored to industry professionals  
+• Integrated blog/news module with an easy-to-use editor  
+• Basic on-page SEO and analytics setup  
+• Handover of source files, credentials, and a brief walkthrough of the CMS  
 
-What I expect back  
-• High-fidelity desktop and mobile mock-ups (Figma, Sketch, or Adobe XD—whichever you prefer)  
-• Style guide covering fonts, colors, button states, and iconography  
-• Clickable prototype to demonstrate user flow through the catalog/search and key pages  
-• Handoff-ready assets and notes for developers
+Please include a quick outline of your proposed tech stack, a timeline, and examples of similar projects you’ve completed.</description></item>
+<item><title>Rapid Mystical UFO Homepage Build</title><link>https://www.freelancer.com/projects/graphic-design/Rapid-Mystical-UFO-Homepage-Build</link><guid isPermaLink="false">freelancer:40753730</guid><pubDate>Tue, 06 Oct 2026 17:57:57 GMT</pubDate><description>30-250 USD | The site at https://weblogoservices.com/experienceufo/ is stalled halfway, yet the vision is clear: a bold, bright-coloured portal where witnesses of UFO or alien encounters can instantly share their stories. I need a brand-new homepage pushed live fast—no detours, no excuses.
 
-I’m open to suggestions on subtle animations, modern UI components, or lightweight frameworks that preserve the minimalist ethos. If this sounds like your wheelhouse, let’s create something elegant and user-centric together.</description></item>
+Core elements to deliver:
+• An eye-catching introduction that sets a mystical, intriguing tone while keeping the colours vivid and high-contrast.  
+• Three friction-free submission options—text, photo, and video—feeding directly into the back-end I will specify.  
+• A clean, expandable section for the incident categories I’ll provide once the build starts.  
+• A lightweight animation that draws visitors into the theme without slowing the page.  
+• An interactive world UFO map embedded from https://oxben.com.tr/ufo/; I dont already hold the API key.  you must provide one.
+
+Security and transparency are critical after previous setbacks. Please be ready to work in a staging environment, document every change, and keep code tidy and traceable. Once the homepage is approved, hand off all source files, credentials created during the build, and a brief “how-to” so I can manage future tweaks. I want to be able to easily add pages categories and myself.
+
+Show me you can move quickly, communicate clearly, and stay on the project until everything above works flawlessly across desktop and mobile. 
+
+PAGES LAYOUT
+All boxes should look like this example directly as attached boxes image, we need a good animation initially. Then just:
+
+No1. Concentrate Soley on the HOMEPAGE for now. This needs to be our priority.
+No 2. Animation should be gripping, nothing cartoony.
+No 3. Map can be found at: https://oxben.com.tr/ufo/, Please note you may need to sign-up for an API key.
+No 4. Black for the header and footer with white text as, so throughout the site the header and footer should imitate each other’s colors.
+No 5. Background text all pages is to be green shades color codes as below, broken up by photos, map, links, animations. text color is to be white. Over green backgrounds should be easily readable white.
+No 6. new page button for the category main title page, fly-outs off the Categories page will be sent to you. All pages must have an add new page button and each page must have a next/previous button with page numbers in between.
+
+Visitor just needs to click a box to jump to that category or page.
+
+WEBSITE COLORS
+
+Colors for pages are given in both RGB and HEX for you, HEADER/FOOTER Green with white text.
+
+Color Codes:
+red 4
+Green 60
+Blue 36
+Hex #043C24
+r13 
+g29
+b18
+Hex #0DFF12
+r3
+g62
+b34
+HOMEPAGE r177
+g203
+b195
+These colors can make up the background of the page and the header/footer is green with white text, the green background should look a different shade from the page green text to make header/footer stand out.
+
+MAIN CATEGORY MENU – SUB DROPDOWN MENUS = abductions and incidents
+abductions
+MAIN TITLE – ABDUCTIONS: THESE FLYOUT PAGES come off  THE CATEGORY HOMEPAGE, fly-outs are for instance – ABDUCTIONS (I will provide all text and images for these pages) these will CONSIST OF REAL ALIEN ABDUCTION CASES AROUND THE WORLD SUCH AS: BETTY AND BARNEY HILL, PC ALAN GODFREY, TRAVIS WALTON, BOB LAZAR, WHITLEY STREIBER, BILLY, BUD HOPKINS, JOHN EDWARD MACK, TESLA, AND MANY OTHERS YET TO BE ADDED BY ME.
+
+Incidents are an important Category on the homepage, however, the “MOST” important category is the “EXPERIENCERS” page which entices visitors to divulge their experience, The visitors to this page will be encouraged and invited to tell their experience with text, photos and videos.
+INCIDENTS - FLYOUT PAGES come off THE CATEGORY HOMEPAGE, fly-outs for instance, (I will provide all text and images for these pages). THESE PAGES CONSIST OF INCIDENTS SUCH AS SHAG HARBOUR, BENTWATERS AIR FORCE BASE, RICHARD EDWARD BIRD, CAPTAIN THOMAS F. MANTELL, CATTLE MUTILATIONS, MCMINNVILLE, WESTALL, AERIEL SCHOOL, VAGINHA, AND MANY OTHERS YET TO BE ADDED BY ME.</description></item>
 <item><title>CMS-Powered Blog Development Needed</title><link>https://www.freelancer.com/projects/cms/CMS-Powered-Blog-Development-Needed</link><guid isPermaLink="false">freelancer:40753622</guid><pubDate>Tue, 06 Oct 2026 17:24:03 GMT</pubDate><description>250-750 USD | I want to launch a clean, modern blog that I can update on my own through a user-friendly content management system. The site must include a native commenting system so readers can engage with each post, along with prominent social-media-sharing buttons to help the content travel.
 
 Here is what I have in mind:  
@@ -1367,21 +1414,4 @@ Acceptance criteria
 3. A brief hand-off document summarising performance and next steps.
 
 If email is your playground and you’re confident you can hit that first $1K fast, let’s get started.</description></item>
-<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
-
-Requirements:
-- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
-- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
-- Inventory management: Efficient tracking and management of stock levels.
-- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
-
-Ideal Skills:
-- Proven experience in e-commerce, particularly on Amazon
-- Strong background in marketing and promotions
-- Excellent inventory management skills
-- Customer service expertise
-- Proven positive track record with end to end Amazon store management.
-- Experience with Printful to Amazon integrations (Not required but useful)
-
-We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
