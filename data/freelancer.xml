@@ -3,6 +3,9 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Stripe Integration for Business Website</title><link>https://www.freelancer.com/projects/stripe/Stripe-Integration-for-Business-Website</link><guid isPermaLink="false">freelancer:40752427</guid><pubDate>Tue, 06 Oct 2026 05:13:11 GMT</pubDate><description>30-250 USD | My business site already has a payment module in place, but it was set up incorrectly and transactions fail to process. I need someone to cleanly integrate Stripe as the sole gateway so we can start taking payments without hiccups. We will be accepting Credit/Debit Cards and Bank Transfers through Stripe, and I also need the recurring billing features enabled for subscription products.  Your job is to remove or repair the faulty configuration, connect the new Stripe credentials, and confirm that the checkout flow is smooth on both desktop and mobile. A successful outcome means customers can complete one-time purchases and enroll in subscriptions without errors, and all transactions report properly in the Stripe dashboard and in our site’s order records.  Deliverables:  • Fully functional Stripe integration supporting card and bank-transfer payments  • Recurring billing / subscription capability activated and tested  • End-to-end test transactions with proof (screenshots or screencast)  • Brief hand-off notes summarizing what was changed and how to update keys in the future  I’m ready to provide current site access and Stripe API keys as soon as we agree on the approach.
+
+PS.  I previously posted and paid for this project but it still has errors so please only respond if you truly know how to do this.</description></item>
 <item><title>Development of a Premium, Automated Practice Management System (Notion Template &amp; Google Sheets Ecosystem) for Independent Clinicians</title><link>https://www.freelancer.com/projects/notion/Development-Premium-Automated-Practice</link><guid isPermaLink="false">freelancer:40752266</guid><pubDate>Tue, 06 Oct 2026 03:15:37 GMT</pubDate><description>250-750 USD | Project Overview:
 We are seeking an expert Notion Creator and Google Sheets Developer to build a comprehensive, high-value Practice Management System designed for independent therapists and private practitioners. The goal is to create a seamless, professional digital ecosystem that replaces expensive monthly SaaS subscriptions. This product will be delivered as a premium digital download bundle ready for commercial resale.
 Scope of Work &amp; Technical Specifications:
@@ -1183,29 +1186,6 @@ Deliverables:
 • Brief hand-over guide or video showing how to update content
 
 I’ll provide branding assets, copy and imagery; you handle design, development, and launch. Looking forward to seeing your approach and timeline.</description></item>
-<item><title>High converting landing page &amp; digital promotion for workshop in London</title><link>https://www.freelancer.com/projects/digital-marketing/High-converting-landing-page-digital</link><guid isPermaLink="false">freelancer:40748467</guid><pubDate>Sat, 03 Oct 2026 20:45:54 GMT</pubDate><description>30-250 USD | I need a premium, high-converting landing page and a short burst of digital promotion for my upcoming one-day workshop in London. The page’s sole purpose is to promote the event and turn visitors into paid attendees, so every design and copy choice should drive that outcome.
-All creative assets must reflect precision and luxury positioning to attract high-performing professionals.
-
-Core page requirements 
-• A fast-loading, highly responsive mobile-first build on WordPress.
-• Clear, persuasive copy that highlights the value of the day, reinforced by a real-time countdown timer to build urgency  
-• A succinct workshop agenda section so prospects instantly see what they’ll learn  
-• A seamless registration flow securely connected to our payment processor and integrated with an automated email platform.
-• Complete meta tags, open-graph images, and optimized on-page SEO so the page displays beautifully across social sharing platforms.
-
-Digital Promotion &amp; Campaign Burst
-Drive traffic through two core channels, and provide complete creative and technical setup:
-
-* Social Media Track (LinkedIn, Instagram, Facebook): You will deliver high-end campaign artwork that matches the landing page aesthetic (sophisticated corporate palette: navy, slate grey, charcoal) along with ad copy variations.
-* Automated Email Track: You will write and set up the automated email drip sequence mapping out the full consumer journey: Initial Interest ➔ Urgency Reminders ➔ Registration Confirmation ➔ Pre-Participation Logistics ➔ Post-Event Follow-up.
-* Strategic Launch Advisory: Clear, actionable advice on audience targeting parameters, scheduling, and custom lookalike sets so the campaign can be launched without guesswork.
-
-Acceptance Criteria
-
-1. Speed Baseline: The WordPress landing page must load in under 2 seconds on mobile devices, achieving a Google Lighthouse performance score of ≥ 90.
-2. Cross-Platform Rendering: The countdown timer, booking widget, and agenda layout must render flawlessly on Chrome, Safari, and Edge across both desktop and mobile viewports.
-3. Asset Delivery: All social media graphics, ad variants, and email copies must be delivered as clean, editable source files, accompanied by a simple launch sheet outlining recommended deployment dates, spend brackets, and key KPIs to monitor.
-4. Timeline: This system must be fully built, tested, and ready to go live within 5 days of award.</description></item>
 <item><title>Cartoon Graphic Novel With Website</title><link>https://www.freelancer.com/projects/animation/Cartoon-Graphic-Novel-With-Website</link><guid isPermaLink="false">freelancer:40748257</guid><pubDate>Sat, 03 Oct 2026 17:22:21 GMT</pubDate><description>25-50 USD/hr | I’m scripting a light-hearted, cartoonish graphic novel and want a creative partner to bring the visuals and the companion website to life. You’ll handle the artwork—working with me and any AI tools you like—while I supply the finished dialogue and scene directions.  
 
 The comic will be released chapter by chapter, but I also need each strip exported as standalone, social-media-ready images for Instagram, Facebook and Twitter, so aspect ratios and file sizes must follow best practices for those three platforms.
