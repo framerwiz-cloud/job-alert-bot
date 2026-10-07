@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Intermittent Resource Spikes</title><link>https://www.freelancer.com/projects/performance-tuning/Fix-Intermittent-Resource-Spikes</link><guid isPermaLink="false">freelancer:40754171</guid><pubDate>Wed, 07 Oct 2026 00:11:50 GMT</pubDate><description>15-25 USD/hr | My site runs fine most of the time, yet I’m seeing unexplained performance drops on a handful of pages. The pattern is intermittent and, when it happens, the server shows noticeably high resource usage. I need you to track down the root cause, correct it without breaking any existing functionality, and verify that the resource spikes are gone.
+
+You will:  
+• Isolate the exact reason behind the high-usage episodes on those pages.  
+• Implement a clean, minimal fix so every other feature continues to work exactly as before.  
+• Run post-fix tests and share before/after metrics or logs proving the improvement.  
+• Send me a short, plain-language summary of what you changed and why.
+
+Let me know your relevant experience with performance debugging (profiling tools, database tuning, code optimisation, etc.) and how long you think the whole process will take you once you have access to the site.</description></item>
 <item><title>Elegant Herbal Salon Website Build</title><link>https://www.freelancer.com/projects/web-development/Elegant-Herbal-Salon-Website-Build</link><guid isPermaLink="false">freelancer:40754146</guid><pubDate>Tue, 06 Oct 2026 23:43:55 GMT</pubDate><description>1500-3000 USD | I need an elegant, sophisticated website that immediately tells visitors they have found a purely herbal, chemical-free salon and spa. The first job of the site is to inform: every treatment and ritual we offer must be showcased through detailed service descriptions, complemented by real customer testimonials and a short, friendly questionnaire that helps guests understand their body, hair or skin situation before they ever step through our doors.  
 
 Once visitors feel confident in what we do, they should be able to book an appointment right there—desktop or mobile—through a friction-free calendar that syncs with our in-house schedule. Only after that primary flow should they see the option to purchase our take-home herbal products; a lightweight shop module or plug-in is fine as long as it never overshadows the service information.  
