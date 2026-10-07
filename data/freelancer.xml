@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>إعادة تصميم واجهة منصة back office </title><link>https://www.freelancer.com/projects/figma/back-office</link><guid isPermaLink="false">freelancer:40755960</guid><pubDate>Wed, 07 Oct 2026 19:36:53 GMT</pubDate><description>250-750 USD | أعمل حالياً على منصة لإدارة الحجوزات بين العملاء ومزوّدي الخدمات وقد أصبحت وظائفها مكتملة، لكن واجهتها لم تعد تلبّي احتياجات سهولة الاستخدام التي نسعى إليها. أريد إعادة تصميم شاملة لكل الأقسام — من إدارة العملاء والموردين والمستخدمين وصولاً إلى الحجوزات، النزاعات، الإلغاءات، الخصومات، الشات، العمولات والتسويات، والقسم المالي — مع مراعاة هوية لونية موحّدة سأزوّدك بها لاحقاً.  
+
+الأولوية القصوى هي جعل تجربة المستخدم بسيطة وسَلِسَة باللغتين العربية والإنجليزية، مع بنية معلومات منظَّمة للغاية تعالج كثرة الخيارات الحالية دون إرباك. أتوقع واجهة متجاوبة تعمل بسلاسة على الكمبيوتر والجوال مع نمط تصميم حديث يركّز على الوضوح أكثر من الزينة.
+
+أحتاجك أن تسلّم:  
+• ملفات التصميم الكاملة (يفضَّل Figma) مرتبة حسب الصفحات والمكوّنات  
+• دليلاً مبسطاً لنظام الألوان والخطوط والحالات المختلفة (UI Kit)  
+• مخططات تدفّق توضح منطق انتقال المستخدم بين الأقسام الرئيسة  
+• نماذج تفاعلية جاهزة للاختبار مع فريق التطوير
+
+الموعد المطلوب للتسليم في أقرب وقت ممكن، لذا أرجو أن ترفق في عرضك مقترحاً تفصيلياً يشمل مراحل العمل والجدول الزمني.</description></item>
 <item><title>Personal company  Website with all the functions needed and similar to other sample sites i will provide.</title><link>https://www.freelancer.com/projects/wordpress/Personal-company-Website-with-all</link><guid isPermaLink="false">freelancer:40755907</guid><pubDate>Wed, 07 Oct 2026 18:59:27 GMT</pubDate><description>250-750 USD | I need a single-page site that mirrors the look and feel of our existing main website while focusing entirely on today’s interest-rate offering. The page must be laid out in a clear, corporate-professional style and load quickly on all modern browsers and mobile devices.
 
 I want to mimic these sites:
@@ -1141,17 +1152,6 @@ Here is what I have in mind:
 • Basic performance and security setup (caching, SSL, and standard hardening).
 
 Once everything is live, a quick walkthrough on how to create posts, approve comments, and update pages will wrap things up. If you have previous blog builds you are proud of, please include links so I can see your style.</description></item>
-<item><title>Separate Firebird Database from Web App</title><link>https://www.freelancer.com/projects/database-management/Separate-Firebird-Database-from-Web</link><guid isPermaLink="false">freelancer:40753547</guid><pubDate>Tue, 06 Oct 2026 16:33:17 GMT</pubDate><description>250-750 CAD | I need my web application, which provides company-related information and is currently integrated with a Firebird database, to be restructured. The database is embedded within the site code and needs to be separated so I can host the main site externally.
-
-Key Requirements:
-- De-link Firebird database from the existing web application.
-- Ensure the web application remains functional and accessible after separation.
-- Provide documentation on the new setup for future reference.
-
-Ideal Skills and Experience:
-- Strong experience with Firebird databases.
-- Proficiency in web application development and restructuring.
-- Familiarity with documentation and providing post-project support.</description></item>
 <item><title>Website Improvement via AI Recommendations</title><link>https://www.freelancer.com/projects/seo/Website-Improvement-via-Recommendations</link><guid isPermaLink="false">freelancer:40752778</guid><pubDate>Tue, 06 Oct 2026 08:41:25 GMT</pubDate><description>8-15 USD/hr | I have recently used AI to analyse my website, www.kidspartymagic.com.au, and have identified a number of areas where improvements could be made. I am now looking for an experienced individual freelancer to help me implement some of these recommended changes.
 
 The website is built on WordPress, so you should have strong WordPress skills, as well as excellent English language and communication skills.
