@@ -3,25 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Social Media Business Locator App</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:23:24 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
+<item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
 - Social Media Integration:
-  - Pull in search results from Facebook, Instagram, TikTok, Google, and WhatsApp.
+  - Pull in search results from Facebook, Instagram, TikTok, Google, and WhatsApp using real-time APIs.
+  - Open to developer suggestions for additional APIs or cost-effective integration methods.
 - Business Mapping:
   - Pin businesses on an interactive map.
-  - Provide detailed search results based on social media data.
+  - Provide detailed search results displayed via cards with relevant information from social media.
 - Comprehensive Business Listings:
   - Include all types of businesses (restaurants, retail stores, service providers, etc.)
 
-Ideal Skills and Experience:
-- Proficiency in web and mobile app development
-- Experience with social media API integration
-- Strong UI/UX design skills
-- Familiarity with mapping technologies and interactive maps
-- Ability to manage and display large datasets in a user-friendly manner
-
-Please provide examples of similar work done. Looking forward to your bids!</description></item>
+Additional Details:
+- I already have a concept designed and some APIs set up but need a developer to finalize the design and tie up loose ends.
+- The project will be completed in a two-week sprint. Based on satisfaction with the work, there is potential for future sprints.</description></item>
 <item><title>Fix Intermittent Resource Spikes</title><link>https://www.freelancer.com/projects/performance-tuning/Fix-Intermittent-Resource-Spikes</link><guid isPermaLink="false">freelancer:40754171</guid><pubDate>Wed, 07 Oct 2026 00:11:50 GMT</pubDate><description>15-25 USD/hr | My site runs fine most of the time, yet I’m seeing unexplained performance drops on a handful of pages. The pattern is intermittent and, when it happens, the server shows noticeably high resource usage. I need you to track down the root cause, correct it without breaking any existing functionality, and verify that the resource spikes are gone.
 
 You will:  
