@@ -3,6 +3,39 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Set Up Managed WooCommerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Set-Managed-WooCommerce-Site</link><guid isPermaLink="false">freelancer:40754255</guid><pubDate>Wed, 07 Oct 2026 01:28:18 GMT</pubDate><description>30-250 USD | I need a fresh WordPress installation deployed on managed WordPress hosting while my current GoDaddy-hosted domain and legacy site stay untouched for now. Once the new environment is live, I’ll point the DNS myself, so there is no migration work—just a clean build.
+
+Here’s how I see the engagement:
+
+• Provision and configure a managed WordPress hosting account.  
+• Spin up the new WordPress instance, harden security, and apply basic performance tweaks.  
+• Install and activate WooCommerce, confirming that the store pages are generated correctly.  
+• Apply the specific theme I will supply (I don’t recall the exact name yet; I’ll forward the ZIP or license key as soon as I locate it). If there are child-theme or demo-content steps, handle those as well.  
+• Create one Administrator account for my team so we have full backend access.  
+• Leave everything on the existing GoDaddy domain exactly as is—no changes to its files, database, or DNS settings.
+
+Success for me is simple: the new site loads on its temporary URL, WooCommerce opens without errors, and I can sign in as Administrator. If any plugins or settings are required to meet those goals, please include them.
+
+Let me know your estimated timeline and anything you’ll need from me beyond the hosting credentials and theme files.</description></item>
+<item><title>Personal Portfolio Website Design</title><link>https://www.freelancer.com/projects/web-design/Personal-Portfolio-Website-Design-40754254</link><guid isPermaLink="false">freelancer:40754254</guid><pubDate>Wed, 07 Oct 2026 01:27:27 GMT</pubDate><description>15-25 USD/hr | I’m ready to roll out a focused online portfolio that does one thing extremely well: present my Resume / CV in a clean, professional way. No e-commerce bells and whistles, and I’m not adding an About or contact form for now—just a streamlined site that gives visitors a clear snapshot of my professional story.
+
+What I need  
+• A modern, responsive layout that looks sharp on desktop, tablet and mobile.  
+• A dedicated Resume / CV section that’s easy for me to update later.  
+• Lightweight code or a CMS setup of your choice—static HTML, WordPress, or another reliable option—as long as maintenance is simple.  
+• Solid fundamentals: accessible markup, quick load times, and basic on-page SEO baked in.
+
+Deliverables  
+1. Wireframe or mock-up for sign-off.  
+2. Final build with all source files.  
+3. Short hand-off guide showing how to revise the Resume / CV.
+
+Acceptance criteria  
+• Resume / CV page displays consistently across major browsers and breakpoints.  
+• No console errors or broken links.  
+• Page loads in under three seconds on a standard connection.
+
+If this sounds like your kind of project, I’d love to see your approach and a few samples of similar work.</description></item>
 <item><title>Adult Webmaster / Media Buyer Needed: Scale Traffic &amp; Monetization for Hentai Tube Site -- 3</title><link>https://www.freelancer.com/projects/wordpress/Adult-Webmaster-Media-Buyer-Needed-40754236</link><guid isPermaLink="false">freelancer:40754236</guid><pubDate>Wed, 07 Oct 2026 01:15:21 GMT</pubDate><description>30-250 USD | Looking for an experienced Adult Traffic Manager / Media Buyer / SEO Specialist to drive real, targeted human traffic and scale revenue for an automated Hentai tube website (hentaipalace.tv). The site backend, video infrastructure, player settings, and ExoClick ad monetization tags are already fully integrated and active. We need an expert to execute high-ROI traffic acquisition strategies.
 
 Key Responsibilities:
@@ -1345,9 +1378,6 @@ What I expect:
 • A concise summary of the steps you took so I can reference it later.
 
 Looking ahead, I’d like this to be the start of an ongoing relationship—someone I can message whenever WordPress core, theme, or plugin updates create new headaches. If you’re comfortable with routine maintenance on SiteGround-hosted WordPress sites, let’s talk.</description></item>
-<item><title>Elegant Portfolio WordPress Website</title><link>https://www.freelancer.com/projects/web-design/Elegant-Portfolio-WordPress-Website</link><guid isPermaLink="false">freelancer:40751895</guid><pubDate>Mon, 05 Oct 2026 20:56:08 GMT</pubDate><description>5000-10000 CAD | We’re looking for a talented and experienced web designer to create a modern, high-end 10-12 page WordPress website for a creative fabrication and décor company. The website will be highly visual and primarily portfolio-focused, showcasing our projects alongside the various services and capabilities we offer. We’re looking for a clean, contemporary design with strong use of photography, typography, layouts, and subtle animations.
-
-We are looking for someone with a strong creative eye, not just a WordPress developer who relies on standard templates. When applying, please send us 3-5 of the absolute best websites you have personally designed, preferably for creative agencies, architecture, interior design, experiential, fabrication, or other highly visual businesses. Please also include your estimated timeline and briefly explain your WordPress design/development process.</description></item>
 <item><title>E-commerce Site Overhaul</title><link>https://www.freelancer.com/projects/ecommerce/commerce-Site-Overhaul-40751881</link><guid isPermaLink="false">freelancer:40751881</guid><pubDate>Mon, 05 Oct 2026 20:49:04 GMT</pubDate><description>10-15 GBP/hr | I need an experienced web developer to help transition my e-commerce site from Java to HTML. 
 
 Key Requirements:
@@ -1674,21 +1704,4 @@ Ideal Skills and Experience:
 - Creative mindset to design engaging ad content
 
 Please include examples of previous successful campaigns in your bids.</description></item>
-<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
-
-Requirements:
-- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
-- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
-- Inventory management: Efficient tracking and management of stock levels.
-- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
-
-Ideal Skills:
-- Proven experience in e-commerce, particularly on Amazon
-- Strong background in marketing and promotions
-- Excellent inventory management skills
-- Customer service expertise
-- Proven positive track record with end to end Amazon store management.
-- Experience with Printful to Amazon integrations (Not required but useful)
-
-We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
