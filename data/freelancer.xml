@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Social Media Business Locator App</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:23:24 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
+
+Key Features:
+- Social Media Integration:
+  - Pull in search results from Facebook, Instagram, TikTok, Google, and WhatsApp.
+- Business Mapping:
+  - Pin businesses on an interactive map.
+  - Provide detailed search results based on social media data.
+- Comprehensive Business Listings:
+  - Include all types of businesses (restaurants, retail stores, service providers, etc.)
+
+Ideal Skills and Experience:
+- Proficiency in web and mobile app development
+- Experience with social media API integration
+- Strong UI/UX design skills
+- Familiarity with mapping technologies and interactive maps
+- Ability to manage and display large datasets in a user-friendly manner
+
+Please provide examples of similar work done. Looking forward to your bids!</description></item>
 <item><title>Fix Intermittent Resource Spikes</title><link>https://www.freelancer.com/projects/performance-tuning/Fix-Intermittent-Resource-Spikes</link><guid isPermaLink="false">freelancer:40754171</guid><pubDate>Wed, 07 Oct 2026 00:11:50 GMT</pubDate><description>15-25 USD/hr | My site runs fine most of the time, yet I’m seeing unexplained performance drops on a handful of pages. The pattern is intermittent and, when it happens, the server shows noticeably high resource usage. I need you to track down the root cause, correct it without breaking any existing functionality, and verify that the resource spikes are gone.
 
 You will:  
@@ -1656,21 +1675,4 @@ Ideal Skills and Experience:
 - Creative mindset to design engaging ad content
 
 Please include examples of previous successful campaigns in your bids.</description></item>
-<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
-
-Requirements:
-- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
-- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
-- Inventory management: Efficient tracking and management of stock levels.
-- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
-
-Ideal Skills:
-- Proven experience in e-commerce, particularly on Amazon
-- Strong background in marketing and promotions
-- Excellent inventory management skills
-- Customer service expertise
-- Proven positive track record with end to end Amazon store management.
-- Experience with Printful to Amazon integrations (Not required but useful)
-
-We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
