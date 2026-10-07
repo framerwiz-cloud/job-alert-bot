@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Technical SEO &amp; WordPress/WooCommerce Specialist Needed</title><link>https://www.freelancer.com/projects/woocommerce/Technical-SEO-WordPress-WooCommerce</link><guid isPermaLink="false">freelancer:40754427</guid><pubDate>Wed, 07 Oct 2026 03:39:35 GMT</pubDate><description>30-250 USD | need a Technical SEO + WordPress/WooCommerce expert to implement a specific SEO action plan on two websites.
+I already have a detailed Word document with the exact work required. I am NOT looking for:
+blog writing
+backlinks
+a general SEO audit
+monthly SEO services
+I need someone who can actually make the technical changes.
+The work includes:
+WordPress / WooCommerce
+Google Search Console
+Screaming Frog
+Canonical URL fixes
+301 redirects
+Product titles and meta descriptions
+Schema / structured data
+Indexing and noindex settings
+XML sitemap cleanup
+Category structure fixes
+Final crawl and testing
+Estimated first-round work: approximately 14–23 hours.
+I will attach the full step-by-step Word document.
+When bidding, please tell me:
+Have you done technical SEO work on WooCommerce websites?
+Do you personally use Screaming Frog and Google Search Console?
+Can you fix canonicals, schema, redirects and indexing issues yourself?
+How many hours do you estimate after reading the attached document?
+What is your total price?
+When can you start?
+I want a before/after crawl and a list of all changes completed.</description></item>
 <item><title>Elegant Herbal Salon Website Build</title><link>https://www.freelancer.com/projects/web-development/Elegant-Herbal-Salon-Website-Build</link><guid isPermaLink="false">freelancer:40754146</guid><pubDate>Wed, 07 Oct 2026 01:58:36 GMT</pubDate><description>1500-3000 USD | I need an elegant, sophisticated website that immediately tells visitors they have found a purely herbal, chemical-free salon and spa. The first job of the site is to inform: every treatment and ritual we offer must be showcased through detailed service descriptions, complemented by real customer testimonials and a short, friendly questionnaire that helps guests understand their body, hair or skin situation before they ever step through our doors.  
 
 Once visitors feel confident in what we do, they should be able to book an appointment right there—desktop or mobile—through a friction-free calendar that syncs with our in-house schedule. Only after that primary flow should they see the option to purchase our take-home herbal products; a lightweight shop module or plug-in is fine as long as it never overshadows the service information.  
@@ -1352,32 +1381,6 @@ Ideal Skills and Experience:
 - Strong background in e-commerce websites
 - Experience with integrating Google reviews
 - Familiarity with PayPal payment systems</description></item>
-<item><title>Secure Drupal CMS Website Build</title><link>https://www.freelancer.com/projects/web-development/Secure-Drupal-CMS-Website-Build</link><guid isPermaLink="false">freelancer:40751743</guid><pubDate>Mon, 05 Oct 2026 18:40:31 GMT</pubDate><description>30-250 USD | I already have the basic layout, images, and some starter code ready to go; what I need now is a Drupal specialist to turn it into a fully-functioning, modern-looking site. The overall aesthetic should stay modern and clean, matching the mock-ups I’m providing.
-
-Core requirements  
-• Drupal is the chosen platform—please keep the build native to Drupal (latest stable release).  
-• The entire site (front end and back end) must be protected by a login wall.  
-• If a visitor is an active user, the login form will ask only for their registered e-mail address; the system then emails a one-time code they must enter before gaining access.  
-• A “COS” section exists that should remain visible to admins only. Regular users must never see or guess its path.  
-• Every element on the front end—including hero images, text blocks, menus, and even newly created pages—must be editable from the admin dashboard without touching code.  
-• Content type: an “Investment” type is required so I can publish, edit, and archive investment items as easily as I would blog posts. Please set up fields (title, summary, body, attachments, etc.) accordingly.
-
-Deliverables  
-– Theme integration: apply the supplied HTML/CSS/images and keep the modern-clean feel.  
-– Custom modules or configuration for the e-mail code (OTP) login workflow.  
-– Role &amp; permission setup that ensures only admins reach COS while authenticated users reach the standard front end.  
-– Flexible page builder or layout builder configuration so I can add pages later.  
-– Final testing on all common browsers and devices; no broken links, console errors, or permission leaks.  
-– Deployment instructions or a short hand-off call so I can maintain the site confidently.
-
-Acceptance criteria  
-1. Logging in via e-mail + OTP works end-to-end with real e-mails (no dummy data).  
-2. Non-admin users cannot access /cos or any of its children URLs.  
-3. I can create, edit, and delete Investment items and see changes immediately on the front end.  
-4. All text and media shown on the mock-ups are editable from the admin UI.  
-5. No PHP notices, Drupal warnings, or console errors appear after a fresh cache rebuild.
-
-If anything is unclear, tell me early so we can keep the project moving smoothly.</description></item>
 <item><title>Experienced Moodle LMS Developer Needed</title><link>https://www.freelancer.com/projects/css/Experienced-Moodle-LMS-Developer-Needed</link><guid isPermaLink="false">freelancer:40751551</guid><pubDate>Mon, 05 Oct 2026 16:41:41 GMT</pubDate><description>2-8 CAD/hr | Job Type: Full-Time, Long-Term  
 Work Location: Remote  
 Schedule: 7–8 hours per day, 5 days per week  
