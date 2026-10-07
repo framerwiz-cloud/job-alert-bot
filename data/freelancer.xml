@@ -832,9 +832,6 @@ Here’s what I need from you:
 • Final hand-over that leaves me able to add new hoodies or tweak copy on my own without touching code.
 
 If you’ve built Shopify stores with a classic, pared-back aesthetic before, I’d love to see examples. Let me know your estimated timeline and any questions you have so we can get this live quickly.</description></item>
-<item><title>Stripe Integration for Business Website</title><link>https://www.freelancer.com/projects/stripe/Stripe-Integration-for-Business-Website</link><guid isPermaLink="false">freelancer:40752427</guid><pubDate>Tue, 06 Oct 2026 05:13:11 GMT</pubDate><description>30-250 USD | My business site already has a payment module in place, but it was set up incorrectly and transactions fail to process. I need someone to cleanly integrate Stripe as the sole gateway so we can start taking payments without hiccups. We will be accepting Credit/Debit Cards and Bank Transfers through Stripe, and I also need the recurring billing features enabled for subscription products.  Your job is to remove or repair the faulty configuration, connect the new Stripe credentials, and confirm that the checkout flow is smooth on both desktop and mobile. A successful outcome means customers can complete one-time purchases and enroll in subscriptions without errors, and all transactions report properly in the Stripe dashboard and in our site’s order records.  Deliverables:  • Fully functional Stripe integration supporting card and bank-transfer payments  • Recurring billing / subscription capability activated and tested  • End-to-end test transactions with proof (screenshots or screencast)  • Brief hand-off notes summarizing what was changed and how to update keys in the future  I’m ready to provide current site access and Stripe API keys as soon as we agree on the approach.
-
-PS.  I previously posted and paid for this project but it still has errors so please only respond if you truly know how to do this.</description></item>
 <item><title>Development of a Premium, Automated Practice Management System (Notion Template &amp; Google Sheets Ecosystem) for Independent Clinicians</title><link>https://www.freelancer.com/projects/notion/Development-Premium-Automated-Practice</link><guid isPermaLink="false">freelancer:40752266</guid><pubDate>Tue, 06 Oct 2026 03:15:37 GMT</pubDate><description>250-750 USD | Project Overview:
 We are seeking an expert Notion Creator and Google Sheets Developer to build a comprehensive, high-value Practice Management System designed for independent therapists and private practitioners. The goal is to create a seamless, professional digital ecosystem that replaces expensive monthly SaaS subscriptions. This product will be delivered as a premium digital download bundle ready for commercial resale.
 Scope of Work &amp; Technical Specifications:
@@ -909,6 +906,27 @@ We are looking for someone who can work with an existing system without unnecess
 This may become an ongoing development role as the SaaS platform continues to grow.
 
 When applying, please provide examples of SaaS or CRM applications you have developed and briefly explain your experience working with existing codebases and multi-tenant systems.</description></item>
+<item><title>Honeybee WordPress Site Development</title><link>https://www.freelancer.com/projects/web-development/Honeybee-WordPress-Site-Development</link><guid isPermaLink="false">freelancer:40752099</guid><pubDate>Tue, 06 Oct 2026 00:20:01 GMT</pubDate><description>250-750 USD | I need a clean, fast WordPress website that puts my honeybee business front-and-center. The main goal is simple: showcase what we do, why we care about bees, and entice visitors to explore (and eventually buy) our range of honey and hive-related products.
+
+Core pages and sections  
+• Home page that instantly communicates our brand story with striking hero imagery of our apiaries  
+• Product area where each jar, comb, or candle is presented with crisp photos and engaging descriptions  
+• Beekeeping blog—an easy-to-update section where I can share tips, behind-the-scenes hive news, and seasonal updates  
+• About/Contact page with an embedded form so customers can reach out for bulk orders or farm visits
+
+What matters most  
+– Built on standard WordPress so I can handle routine edits myself  
+– Mobile-first layout, quick page loads, and solid on-page SEO foundations  
+– Straightforward admin workflow for adding new products or blog posts without touching code
+
+If you normally work with Elementor, Gutenberg blocks, or a similar visual builder, let me know—ease of use for future updates is a priority. I will supply brand colours, logo files, and initial photography as soon as the project kicks off.
+
+Hand-over items  
+1. Fully configured WordPress site on my chosen host  
+2. All theme files, child theme (if used), and plugins documented  
+3. Brief video or written guide showing how to add a new product and a new blog post
+
+I’m ready to start as soon as I find the right developer. Show me examples of recent WordPress sites you’ve launched—especially any that combine product showcases with a blog—and let’s get the hive buzzing online.</description></item>
 <item><title>Monday.com Setup Expert</title><link>https://www.freelancer.com/projects/monday-com/Monday-com-Setup-Expert</link><guid isPermaLink="false">freelancer:40752089</guid><pubDate>Tue, 06 Oct 2026 00:15:53 GMT</pubDate><description>15-25 USD/hr | I'm seeking an expert to set up Monday.com tailored to my needs. 
 
 Essential Requirements:
