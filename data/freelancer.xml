@@ -767,26 +767,6 @@ Ideal Skills:
 - Familiarity with pet industry trends is a plus. 
 
 Please provide a portfolio with relevant work.</description></item>
-<item><title>District Community Content Creator Website</title><link>https://www.freelancer.com/projects/web-development/District-Community-Content-Creator</link><guid isPermaLink="false">freelancer:40752157</guid><pubDate>Tue, 06 Oct 2026 01:13:55 GMT</pubDate><description>1500-3000 USD | I'm looking to build a dynamic website for a content creator that serves as a virtual district. The site should feature a variety of engaging content and activities, including:
-
-- Videos
-- Articles
-- Interactive Games
-- Book Club
-- Music
-- Merchant Center
-- Live Performances
-
-The theme should reflect a vibrant district community. 
-
-Ideal Skills and Experience:
-- Web development expertise, especially in creating interactive and multimedia-rich sites.
-- Experience in designing community-oriented platforms.
-- Proficiency in integrating various content types (videos, articles, games).
-- Strong UI/UX design skills to ensure an engaging user experience.
-- Familiarity with e-commerce setup for the Merchant Center section.
-
-Please provide samples of similar work done.</description></item>
 <item><title>Luxury Brand Solana Token Development</title><link>https://www.freelancer.com/projects/blockchain/Luxury-Brand-Solana-Token-Development</link><guid isPermaLink="false">freelancer:40752127</guid><pubDate>Tue, 06 Oct 2026 00:43:54 GMT</pubDate><description>250-750 USD | I'm looking to develop a Solana token centered around luxury fashion and accessories. The token will not only serve as a currency for purchasing high-end items but will also offer holders discounts and special offers.
 
 Key Requirements:
@@ -1372,6 +1352,32 @@ Ideal Skills and Experience:
 - Strong background in e-commerce websites
 - Experience with integrating Google reviews
 - Familiarity with PayPal payment systems</description></item>
+<item><title>Secure Drupal CMS Website Build</title><link>https://www.freelancer.com/projects/web-development/Secure-Drupal-CMS-Website-Build</link><guid isPermaLink="false">freelancer:40751743</guid><pubDate>Mon, 05 Oct 2026 18:40:31 GMT</pubDate><description>30-250 USD | I already have the basic layout, images, and some starter code ready to go; what I need now is a Drupal specialist to turn it into a fully-functioning, modern-looking site. The overall aesthetic should stay modern and clean, matching the mock-ups I’m providing.
+
+Core requirements  
+• Drupal is the chosen platform—please keep the build native to Drupal (latest stable release).  
+• The entire site (front end and back end) must be protected by a login wall.  
+• If a visitor is an active user, the login form will ask only for their registered e-mail address; the system then emails a one-time code they must enter before gaining access.  
+• A “COS” section exists that should remain visible to admins only. Regular users must never see or guess its path.  
+• Every element on the front end—including hero images, text blocks, menus, and even newly created pages—must be editable from the admin dashboard without touching code.  
+• Content type: an “Investment” type is required so I can publish, edit, and archive investment items as easily as I would blog posts. Please set up fields (title, summary, body, attachments, etc.) accordingly.
+
+Deliverables  
+– Theme integration: apply the supplied HTML/CSS/images and keep the modern-clean feel.  
+– Custom modules or configuration for the e-mail code (OTP) login workflow.  
+– Role &amp; permission setup that ensures only admins reach COS while authenticated users reach the standard front end.  
+– Flexible page builder or layout builder configuration so I can add pages later.  
+– Final testing on all common browsers and devices; no broken links, console errors, or permission leaks.  
+– Deployment instructions or a short hand-off call so I can maintain the site confidently.
+
+Acceptance criteria  
+1. Logging in via e-mail + OTP works end-to-end with real e-mails (no dummy data).  
+2. Non-admin users cannot access /cos or any of its children URLs.  
+3. I can create, edit, and delete Investment items and see changes immediately on the front end.  
+4. All text and media shown on the mock-ups are editable from the admin UI.  
+5. No PHP notices, Drupal warnings, or console errors appear after a fresh cache rebuild.
+
+If anything is unclear, tell me early so we can keep the project moving smoothly.</description></item>
 <item><title>Experienced Moodle LMS Developer Needed</title><link>https://www.freelancer.com/projects/css/Experienced-Moodle-LMS-Developer-Needed</link><guid isPermaLink="false">freelancer:40751551</guid><pubDate>Mon, 05 Oct 2026 16:41:41 GMT</pubDate><description>2-8 CAD/hr | Job Type: Full-Time, Long-Term  
 Work Location: Remote  
 Schedule: 7–8 hours per day, 5 days per week  
