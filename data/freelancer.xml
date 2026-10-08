@@ -818,18 +818,6 @@ Please let me know your price, how long it would take, what is included in your 
 Thank you!
 
 Muse Club London</description></item>
-<item><title>Optics Practice Management Web Application</title><link>https://www.freelancer.com/projects/web-application/Optics-Practice-Management-Web</link><guid isPermaLink="false">freelancer:40754040</guid><pubDate>Tue, 06 Oct 2026 21:50:54 GMT</pubDate><description>10-15 GBP/hr | I need a secure, web-based application that streamlines every key workflow in my optics practice. The core of the platform is an electronic patient record that stores medical history, insurance information, and prescription records in one place, searchable at any time from any modern browser.
-
-A dual-mode recall engine must be built in: it should send automated SMS and email reminders while still allowing staff to step in and schedule manual follow-ups whenever needed. The same messaging layer will power day-to-day email and text communication with patients.
-
-To keep the team organised, the system also requires an integrated to-do list where tasks can be created, assigned, and tracked through completion.
-
-Deliverables
-• Responsive web interface with role-based access
-• Database and API for patient data (medical history, insurance, prescriptions)
-• Automated + manual recall scheduler tied to SMS/email gateways
-• Dashboard-style to-do list with real-time updates
-• Setup guide and clean, commented source code ready for deployment</description></item>
 <item><title>Creative 4-Page Website Build</title><link>https://www.freelancer.com/projects/web-design/Creative-Page-Website-Build</link><guid isPermaLink="false">freelancer:40754039</guid><pubDate>Tue, 06 Oct 2026 21:50:43 GMT</pubDate><description>250-750 USD | I already have my domain and hosting set up on Pork Bun and now I’m ready to launch a small, polished website. The site should feel creative and modern—light on clutter, big on visual impact—while remaining fast and easy to maintain. I already have a logo &amp; visual brand guide (which can be tweaked if needed)
 
 Scope of work  
@@ -1333,4 +1321,17 @@ Key deliverables
 Acceptance criteria will revolve around feature completeness, code quality, test coverage, and a successful end-to-end demo on a staging environment.
 
 If you’re comfortable owning the stack from database schema to front-end polish, let’s get started—I’m ready to review your approach and timeline.</description></item>
+<item><title>Database and Accounting System Development</title><link>https://www.freelancer.com/projects/accounting/Database-Accounting-System-Development</link><guid isPermaLink="false">freelancer:40696442</guid><pubDate>Mon, 07 Sep 2026 13:27:00 GMT</pubDate><description>10-15 GBP/hr | I need a freelancer to build a database and accounting system.
+
+Key Requirements:
+- Store customer information
+- Invoice processing functionality
+- Integration with existing CRM system
+
+Ideal Skills and Experience:
+- Experience in database development
+- Proficiency in creating accounting systems
+- Familiarity with CRM integration
+
+Please provide examples of similar work done and your approach to this project.</description></item>
 </channel></rss>
