@@ -3,6 +3,64 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI-Powered Services Marketplace Development</title><link>https://www.freelancer.com/projects/full-stack-development/Powered-Services-Marketplace-Development</link><guid isPermaLink="false">freelancer:40757991</guid><pubDate>Thu, 08 Oct 2026 19:33:06 GMT</pubDate><description>250-750 USD | # Developer Needed – Build an AI-Powered Services Marketplace (Similar to Airtasker &amp; Shiply)
+
+Hi,
+
+I'm looking for an experienced full-stack developer to build a professional services marketplace platform, similar to **Airtasker, Shiply and TaskRabbit**, but with our own unique branding, design and additional AI features.
+
+The goal is to create a platform where customers can post jobs they need completed, service providers can submit competitive quotations, and the platform earns a commission from each successful transaction.
+
+**How the platform should work:**
+
+1. **Customer accounts:** Customers can register, post jobs, upload photos, specify locations, set budgets and review quotations.
+2. **Service provider accounts:** Workers and businesses can create profiles, select their services, browse available jobs and submit quotations.
+3. **Bidding system:** Multiple providers can compete for the same job, and customers can compare prices, ratings and profiles before choosing someone.
+4. **Payments and commission:** Customers pay securely through the platform. The system automatically deducts our commission (initially 15%) and manages payments to service providers using Stripe Connect or another suitable marketplace payment solution.
+5. **Messaging:** Built-in private messaging between customers and service providers.
+6. **Reviews and ratings:** Customers can leave reviews after completed jobs.
+7. **Admin dashboard:** Full control over users, jobs, transactions, commissions, disputes and platform settings.
+8. **AI features:** AI-assisted job descriptions, automatic job categorisation, intelligent matching of suitable providers and recommendations.
+
+**Service categories:**
+
+The platform should support multiple categories, including handyman services, home renovations, cleaning, gardening, furniture assembly, transport, removals, deliveries and other professional services.
+
+New categories should be easy to add without major development.
+
+**Technical requirements:**
+
+- Modern, professional and responsive website for desktop and mobile.
+- Secure backend, database and user authentication.
+- Scalable architecture that can support future growth.
+- Secure marketplace payment integration.
+- Automated notifications.
+- Appropriate security and data protection measures.
+- Original design inspired by established marketplaces, not a direct copy.
+- Full ownership of the source code and project files.
+- Ability to develop native iOS and Android apps in the future.
+
+**Development approach:**
+
+I'm open to using modern development frameworks and AI-assisted development tools such as Emergent AI or Lovable, provided the final product is reliable, secure, maintainable and fully functional.
+
+I would prefer to start with a working MVP and then expand the platform with additional features.
+
+**Please provide:**
+
+1. Your estimated total development cost, including a breakdown by milestones.
+2. How long the project would take to complete.
+3. Which technologies you recommend and why.
+4. Examples of marketplaces or bidding platforms you have previously developed.
+5. Whether Stripe Connect marketplace payments and commission splitting are included.
+6. Whether the price includes deployment, testing, bug fixes and post-launch support.
+7. Confirmation that I will own the complete source code, database and platform.
+
+I'm looking for someone reliable who can potentially work with me long-term as the platform grows.
+
+Please provide a detailed proposal and realistic quotation.
+
+Thank you.</description></item>
 <item><title>Healthcare Cleaning Website Update</title><link>https://www.freelancer.com/projects/web-design/Healthcare-Cleaning-Website-Update</link><guid isPermaLink="false">freelancer:40757970</guid><pubDate>Thu, 08 Oct 2026 19:14:59 GMT</pubDate><description>30-250 USD | My current site, www.knightcleanent.com, still feels like a small local janitorial page. I need it transformed into a modern, clean-styled platform that immediately tells hospital and multi-site facility buyers we are a national, healthcare-grade partner operating in 20 states.
 
 Core story to weave throughout:
@@ -823,18 +881,6 @@ Acceptance criteria:
 3. All assets and design files are provided upon completion, organised and labelled for easy development.
 
 If you can combine clean aesthetics with practical UX thinking, I’d love to see your proposal and a few relevant samples.</description></item>
-<item><title>Web-Based Project Management Software Development</title><link>https://www.freelancer.com/projects/web-development/Web-Based-Project-Management-Software</link><guid isPermaLink="false">freelancer:40755289</guid><pubDate>Wed, 07 Oct 2026 12:23:13 GMT</pubDate><description>750-1500 GBP | Looking for an experienced AI / full-stack software developer.
-* Development of a construction-industry AI web application.
-* AI integration for document and drawing analysis.
-* PDF upload, viewing and processing.
-* AI-assisted generation of technical/compliance outputs.
-* Project/user dashboard and secure document storage.
-* Modern, professional SaaS-style interface.
-* Experience with OpenAI/LLMs, React/Next.js, cloud databases and PDF processing preferred.
-* Construction/CAD/BIM software experience advantageous.
-* Initial MVP/V1 development, with significant ongoing development potential.
-* Full source code and IP ownership to transfer to us.
-* Detailed functionality and concept provided to shortlisted developers under NDA.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
