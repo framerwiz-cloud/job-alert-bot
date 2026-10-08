@@ -711,42 +711,6 @@ Here’s how I see the engagement:
 Success for me is simple: the new site loads on its temporary URL, WooCommerce opens without errors, and I can sign in as Administrator. If any plugins or settings are required to meet those goals, please include them.
 
 Let me know your estimated timeline and anything you’ll need from me beyond the hosting credentials and theme files.</description></item>
-<item><title>Adult Webmaster / Media Buyer Needed: Scale Traffic &amp; Monetization for Hentai Tube Site -- 3</title><link>https://www.freelancer.com/projects/wordpress/Adult-Webmaster-Media-Buyer-Needed-40754236</link><guid isPermaLink="false">freelancer:40754236</guid><pubDate>Wed, 07 Oct 2026 01:15:21 GMT</pubDate><description>30-250 USD | Looking for an experienced Adult Traffic Manager / Media Buyer / SEO Specialist to drive real, targeted human traffic and scale revenue for an automated Hentai tube website (hentaipalace.tv). The site backend, video infrastructure, player settings, and ExoClick ad monetization tags are already fully integrated and active. We need an expert to execute high-ROI traffic acquisition strategies.
-
-Key Responsibilities:
-
-Traffic Trading &amp; Webmaster Outreach: Build 1:1 traffic exchange partnerships, thumbnail swaps, and footer link trades with niche Hentai/Anime adult webmasters.
-
-Paid Campaign Management: Set up and optimize low-cost, high-conversion micro-campaigns on adult ad networks (PlugRush, TrafficForce, ExoClick) targeting Hentai/Anime demographics.
-
-SEO &amp; Backlink Strategy: Build high-quality niche backlinks, adult directory listings, and top-list submissions to build domain authority.
-
-Ad Optimization: Monitor ExoClick ad zone performance (In-Stream VAST, Popunders, Display) to maximize overall eCPM and CTR.
-
-Requirements:
-
-Proven experience growing adult/tube websites (must provide past examples or strategy proof).
-
-Deep understanding of adult ad networks, traffic exchange scripts/trade ratios, and NSFW SEO.
-
-No cheap bot traffic packages (SEOClerks/Fiverr bot sellers will be immediately rejected)—we strictly require real human traffic and legitimate webmaster techniques.
-
-Project Type: Fixed Price (Open to Retainer for the right candidate based on performance results).
-
-Category: Digital Marketing, Search Engine Optimization (SEO) / Internet Marketing / Media Buying.
-
-Skills Needed: Adult Marketing, Media Buying, SEO, Traffic Generation, ExoClick, WordPress
-
-
-This project will be structured into clear, milestone-based deliverables within a total budget of $200:
-
-Milestone 1 ($50): Setup &amp; Traffic Trade Integration — Audit ExoClick ad zones (VAST &amp; Popunders), configure partner trade widgets/scripts, and initiate 1:1 webmaster link &amp; thumbnail swap outreach.
-
-Milestone 2 ($100): Targeted Paid Campaigns — Set up, manage, and optimize low-cost, high-converting test campaigns on PlugRush/TrafficForce targeting Hentai/Anime demographics.
-
-Milestone 3 ($50): Niche SEO &amp; Directory Backlinks — Execute targeted adult directory submissions, top-list placements, and manual backlink building to boost organic search domain authority.
-
-If you have proven experience with adult ad network media buying, tube site traffic trading, ExoClick optimization, and NSFW SEO, please submit your proposal with examples or metrics from past adult site campaigns you've scaled</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
@@ -874,6 +838,106 @@ Here’s what I expect by the end of the project:
 • A quick walkthrough so I can manage future content on my own.
 
 I’ll supply Bluehost credentials, the current site export, and access to my Squarespace account as soon as we start. Let me know your estimated timeline and any similar migrations you’ve carried out—especially those involving user logins or online stores—so I can hit the ground running with the right partner.</description></item>
+<item><title>Custom Real Estate Operating System &amp; CRM</title><link>https://www.freelancer.com/projects/crm/Custom-Real-Estate-Operating-System</link><guid isPermaLink="false">freelancer:40753873</guid><pubDate>Tue, 06 Oct 2026 19:41:01 GMT</pubDate><description>750-1500 USD | We are looking for an experienced developer or small development team to build a custom operating system and CRM for a real estate/property management business.
+
+The platform will support:
+- Short-term rentals
+- Long-term rentals
+- Property sales
+- Property management
+- Owners and clients
+- Guests and tenants
+- Vendors and cleaners
+- Maintenance
+- Leads and sales
+- Property onboarding
+- Client/vendor/team onboarding
+- Documents and contracts
+- Tasks, workflows, reporting, and dashboards
+
+We are open to using existing platforms, frameworks, APIs, and third-party tools where appropriate, but the final system should be customized around our operations.
+
+Key integrations may include: 
+- Hostaway
+- PriceLabs
+- Airbnb / VRBO
+- Gmail / Google Drive / Google Calendar
+- Slack
+- Dialpad
+- QuickBooks
+- Stripe
+- DocuSign
+- Ring
+- Schlage
+- NoiseAware
+- Forewarn
+- Zillow / HAR / MLS
+- Other APIs as needed
+
+The system should include strong workflow automation. Examples:
+- Reservation confirmed → create operational tasks
+- Checkout → create cleaning workflow
+- Cleaner completes task → trigger inspection/validation
+- Maintenance issue → assign vendor and track status
+- New property → start onboarding workflow
+- New client/vendor → start onboarding workflow
+- New lead → create follow-up tasks
+
+We also want AI features such as:
+- Internal AI assistant
+- AI search across company data
+- Email/SMS drafting
+- Conversation summaries
+- Email and issue classification
+- Automated task creation
+- Maintenance issue analysis
+- Vendor recommendations
+- Lead qualification
+- Owner reporting
+- AI agents that can perform approved actions
+
+The platform should support role-based access for:
+- Management
+- Property managers
+- VAs/staff
+- Cleaners
+- Vendors
+- Owners/clients
+- Sales/realtor staff
+- Accounting
+- Admins
+
+We also want the architecture to support external portals such as:
+- Owner portal
+- Vendor portal
+- Cleaner portal
+- Tenant portal
+- Guest portal
+
+The system should work well on desktop and mobile. A responsive web app is acceptable initially, but the architecture should support mobile apps later.
+
+We are not requiring a specific technology stack. You may recommend the best approach. Experience with technologies such as React, Next.js, PostgreSQL, Supabase, APIs, webhooks, automation platforms, OpenAI, Claude, or similar tools is a plus.
+
+What matters most to us:
+- Strong UI/UX
+- Ability to understand business operations and translate them into software
+- Workflow automation experience
+- API/integration experience
+- Clean, scalable, maintainable development
+
+Property management experience is helpful but not required if you are technically strong.
+When applying, please include:
+- Short introduction
+- Portfolio/examples of CRM, SaaS, automation, or AI systems you have built
+- Relevant experience
+- Technologies you work with
+- Availability
+- Whether you are an individual, team, or agency
+- Estimated pricing structure or rate
+- Your recommended technical approach for this project
+
+Please start your proposal with PROPERTY OS so we know you read the full description.
+We are open to project-based, or ongoing arrangements. Budget will be discussed with qualified candidates.</description></item>
 <item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 18:24:52 GMT</pubDate><description>5-10 GBP/hr | # Developer Needed for Multipurpose AI Agent — OpenAI, Mistral, n8n
 
 ### Job Description
