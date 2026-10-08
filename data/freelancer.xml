@@ -3,6 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SEO Audit for Multilingual Travel Site (WordPress, Search Console, GA4, GTM)</title><link>https://www.freelancer.com/projects/Website-Audit/SEO-Audit-for-Multilingual-Travel</link><guid isPermaLink="false">freelancer:40758112</guid><pubDate>Thu, 08 Oct 2026 21:41:36 GMT</pubDate><description>250-750 EUR | We are Frankenbridge, a small travel company near Frankfurt, Germany. Our website, frankenbridge.com, sells small-group local tours to travelers from the US, Canada and Latin America. It runs on WordPress, Elementor and TranslatePress (5 languages). Bookings run through Bókun, a third-party booking widget.
+
+THE PROBLEM
+Google shows too few of our pages. Search Console, Oct 7, 2026:
+- 1,680 pages indexed, 914 not indexed
+- About 485 are the real problem: 278 "discovered, not indexed", 117 "duplicate, different canonical", 90 "crawled, not indexed"
+- Known pages grew from about 500 to 2,600 after we added language versions
+- 509 clicks in 3 months, almost all from people who already search our brand name
+We want travelers to find us by searching for tours, not for our name.
+
+Second problem: purchase events from the Bókun checkout (an iframe) do not reach GA4, so we cannot measure bookings.
+
+WHAT WE WANT
+Phase 1 (this project): a paid audit. No changes to the live site. You deliver a written report with a ranked fix list and a time estimate for each fix.
+Phase 2 (later, same person if the audit is good): fix indexing, hreflang, canonicals, titles and descriptions, and GSC / GA4 / GTM tracking.
+Phase 3: keywords, Google Business Profile, content and social media.
+
+YOU MUST HAVE
+- Technical SEO on WordPress (indexing, canonicals, hreflang, sitemaps)
+- Google Search Console, GA4 and Google Tag Manager
+- Experience with multilingual sites (TranslatePress or similar)
+- Clear written English
+
+HOW WE WORK
+- Freelancer.com milestones only. No payments, chats or call links (Teams, Zoom) outside the platform.
+- Google tools by email invitation. We never share passwords.
+- WordPress at Editor level. Administrator only for one task, with an end date, after a backup.
+- Backup first. Written reports.
+
+HOW TO APPLY
+We read every bid. Bids that skip these steps are ignored.
+Start your bid with the word FRANKFURT. Then answer:
+1. List the top 3 causes of "crawled, not indexed" and how you would check each one.
+2. How would you get purchase events from a third-party booking iframe into GA4?
+3. Link one site whose search traffic you grew, and tell us what you did.
+4. Give your fixed price for the Phase 1 audit and how many days it takes.</description></item>
 <item><title>WordPress Informational Site Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-Informational-Site-Build</link><guid isPermaLink="false">freelancer:40758005</guid><pubDate>Thu, 08 Oct 2026 19:45:15 GMT</pubDate><description>8-15 CAD/hr | I want to launch a clean, fast, and fully responsive informational website on WordPress where I’ll be publishing regular articles and blog-style posts. Your job starts with setting up the CMS, choosing or creating a theme that matches my brand, and configuring the essential plugins for speed, security, backups, and on-page SEO.  
 
 Once the site is live, I’ll need ongoing maintenance so the platform, theme, and plugins remain up to date and trouble-free. That includes monitoring uptime, fixing occasional bugs, and adding small feature tweaks or new pages when required. Because the core content will be text-based articles, an intuitive editor experience and well-structured category/tag system are important.  
@@ -897,209 +933,6 @@ If you can combine clean aesthetics with practical UX thinking, I’d love to se
 * Initial MVP/V1 development, with significant ongoing development potential.
 * Full source code and IP ownership to transfer to us.
 * Detailed functionality and concept provided to shortlisted developers under NDA.</description></item>
-<item><title>Children’s Book Website Design &amp; Development</title><link>https://www.freelancer.com/projects/website-design/Children-Book-Website-Design-Development</link><guid isPermaLink="false">freelancer:40755246</guid><pubDate>Wed, 07 Oct 2026 11:51:16 GMT</pubDate><description>20-250 GBP | Website Designer/Developer Wanted – Interactive Children’s Author Website
-
-Hi, I’m Lianne James, creator and author of Teddy’s Travels, a children’s picture-book series following Teddy, an apricot cockapoo, on different adventures.
-
-I have already developed the overall look, artwork, characters, page ideas and much of the layout for the website. I am looking for someone who can take my existing designs and turn them into a professional, fully working, interactive website that works beautifully on both desktop and mobile.
-
-What I already have
-
-I already have:
-
-My Teddy’s Travels branding and logo
-Character artwork for Teddy, Mabel and other characters
-Backgrounds and illustrations
-Designs/mock-ups showing how I would like many of the pages to look
-Buttons and other graphical elements
-Book covers
-Ideas for the structure and navigation
-My domain name: teddystravels.uk
-
-I therefore don't need someone to create the whole concept from scratch. I need someone who can take what I have created and professionally build it into a working website.
-
-The main website
-
-I would like a colourful, welcoming homepage introducing Teddy’s Travels, with sections for parents and children.
-
-The website should include information about the books, the author, Teddy and the other characters, along with links/buttons to purchase the books.
-
-Interactive children's area
-
-A very important part of the website is an interactive Explore Teddy’s World area.
-
-Children should be able to choose one of Teddy's adventures, such as:
-
-The Train
-Seaside
-Bluebell Woods
-Farmyard
-Big City Park
-London
-Zoo
-Starry Night
-
-Each adventure will have its own themed area. I also already have the illistrations for these.
-
-For example, the Seaside section could include:
-
-Discover the Story
-
-Seaside Fun, including activities such as:
-
-Beach Treasure Hunt
-
-Build a Sandcastle – ideally an interactive drag-and-drop activity where children can use different shapes/items to create their own sandcastle
-
-Rock Pool Explore
-
-Spot the Difference
-
-Maze
-
-Matching Shells
-
-Fun Facts
-
-Teddy's Journey, where children can explore different stops from the story, such as:
-
-Cliff Tops
-
-Beach Exploration
-
-Rock Pools
-
-Sandcastle Fun
-
-Ice-Cream Stop
-
-Harbour Boats
-
-Sunset Views
-
-Meet the Characters
-
-Earn Your Badge
-
-I would eventually like a similar structure for each of Teddy's adventures.
-
-Rewards and badges
-
-I would like children to be able to earn a different digital badge for completing activities/sections.
-
-There should ideally be a My Rewards / See All My Badges area where children can see the badges they have collected across Teddy's different adventures.
-
-I would like to discuss the best way of remembering a child's progress without requiring unnecessary personal information from children.
-
-Sound and interaction
-
-Where practical, I would like the website to feel playful and interactive, with things such as:
-
-Button animations
-
-Small character movements
-
-Sound effects/chimes when an activity or badge is completed
-
-Optional background music
-
-A simple sound on/off control
-
-I don't want the site to feel like a standard corporate website. It should feel like children are entering Teddy's world.
-
-Mobile version
-
-This is extremely important.
-
-The website needs to be properly responsive, rather than simply shrinking the desktop version.
-
-It should look and work well on:
-
-Desktop computers
-
-Tablets
-
-Android phones
-
-iPhones
-
-Buttons and activities need to be easy for children to use on touchscreens.
-
-If possible, I would also like the website to work well enough on mobile that it could eventually be developed into, or used like, a simple web app/PWA.
-
-Parent/Grown-Ups area
-
-I would also like a separate area for adults containing things such as:
-
-About the author
-
-About Teddy’s Travels
-
-The book collection
-
-Where to buy the books
-
-New releases
-
-Contact information
-
-Email newsletter sign-up
-
-Possibly downloadable activities/resources in the future
-
-Book sales
-
-I would like clear Buy the Book sections throughout the site.
-
-Initially these may link to external retailers, but I would like the website built in a way that gives me the option of selling books or merchandise directly in the future.
-
-Important requirements
-
-I am looking for someone who:
-
-Has experience creating responsive websites
-
-Is comfortable building interactive elements, not just static pages
-
-Can work from artwork and designs I provide
-
-Can recreate my designs accurately
-
-Understands mobile-first/responsive design
-
-Can optimise images so the website remains fast
-
-Can advise me on the best platform/technology for the project
-
-Can make the website easy for me to update myself afterwards
-
-Has experience with children's/family websites or interactive websites if possible
-
-Understands the importance of privacy and safeguarding when creating online experiences aimed at children
-
-What I would like from you
-
-When replying, please let me know:
-
-What platform/technology you would recommend for this project and why.
-
-Whether you can build interactive activities such as drag-and-drop games, matching games, mazes and badge/reward systems.
-
-Examples of similar interactive or children's websites you have built.
-
-Whether the finished website would be easy for me to update myself.
-
-Your estimated price.
-
-What would be included in that price.
-
-Your estimated timescale.
-
-Whether ongoing support/maintenance is available and what that would cost.
-
-I already have a strong idea of exactly how I want Teddy’s Travels to look and can provide my existing designs and artwork to the successful freelancer.
-
-My aim is to create something that is more than an author website – I want children to be able to explore the stories, play, learn, collect badges and feel as though they have stepped into Teddy's adventures.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
