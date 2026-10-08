@@ -3,6 +3,33 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bright Children’s Home Website</title><link>https://www.freelancer.com/projects/cms/Bright-Children-Home-Website</link><guid isPermaLink="false">freelancer:40757582</guid><pubDate>Thu, 08 Oct 2026 14:44:57 GMT</pubDate><description>250-750 GBP | I need a small, information-driven website that instantly tells visitors who we are as a children’s home. The site must feel welcoming, so think bright, colorful visuals, warm imagery, and easy-to-read copy.  
+
+Core content to weave into the layout:  
+• Our mission and vision—clear, inspiring and up front on the homepage.  
+• A dedicated “Meet the Team” area with photos and short bios so families can see the staff and management that care for the children.  
+
+I picture a simple page structure (Home, About, Our Team, Contact), but I’m open to your suggestions for flow or extra sections that improve clarity. The build needs to be responsive, quick to load, and simple for us to update later—WordPress, Webflow, or another user-friendly CMS is fine as long as editing text and images is straightforward.  
+
+Please deliver:  
+1. Fully coded, live site or exportable project files.  
+2. Basic style guide covering fonts, colour palette and image guidelines so we can stay consistent.  
+3. Short walkthrough (video or screens) showing how to update content.  
+
+Once the draft is in place, I’ll supply the final copy and photos for polishing, then we can do one round of revisions to tidy up. Looking forward to seeing how you bring a bright, cheerful feel to our story.</description></item>
+<item><title>Modern WordPress Peptide Sales Site</title><link>https://www.freelancer.com/projects/web-design/Modern-WordPress-Peptide-Sales-Site</link><guid isPermaLink="false">freelancer:40757574</guid><pubDate>Thu, 08 Oct 2026 14:41:44 GMT</pubDate><description>750-1500 GBP | I'm seeking an experienced WordPress developer to create a modern-styled website for selling peptides. The site must include a payment portal integrated with Stripe.
+
+Requirements:
+- Essential Pages: Home, Contact Us, Products
+- Modern design aesthetic
+
+Ideal Skills and Experience:
+- Proficiency in WordPress development
+- Strong design skills for modern websites
+- Experience with Stripe integration
+- E-commerce setup knowledge
+
+Please provide a portfolio showcasing similar projects.</description></item>
 <item><title>Automations For Google Ads &amp; Wordpress</title><link>https://www.freelancer.com/projects/google-ads/Automations-For-Google-Ads-Wordpress</link><guid isPermaLink="false">freelancer:40757554</guid><pubDate>Thu, 08 Oct 2026 14:31:07 GMT</pubDate><description>15-25 CAD/hr | Basic automations linking Google ads, and Wordpress websites to a Google sheet.</description></item>
 <item><title>React E-commerce to WordPress Conversion</title><link>https://www.freelancer.com/projects/woocommerce/React-commerce-WordPress-Conversion</link><guid isPermaLink="false">freelancer:40757536</guid><pubDate>Thu, 08 Oct 2026 14:21:31 GMT</pubDate><description>250-750 USD | My current website is a hybrid: WordPress in the back-end with several React components powering the storefront and checkout. The job is to rebuild the entire site inside WordPress only, preserve all design and functionality, and keep everything fast, mobile-friendly, and easy to manage from the WP admin.
 
@@ -963,20 +990,6 @@ Deliverables
 • Admin panel walk-through and 30-day post-launch support  
 
 Acceptance criteria: pages load in under 3 seconds on 4G, bookings reach our email and calendar without error, questionnaire stores results to a simple dashboard or sends them by email, product cart stays hidden until a visitor has viewed service content, and Square API integration functions flawlessly.</description></item>
-<item><title>Set Up Managed WooCommerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Set-Managed-WooCommerce-Site</link><guid isPermaLink="false">freelancer:40754255</guid><pubDate>Wed, 07 Oct 2026 01:28:18 GMT</pubDate><description>30-250 USD | I need a fresh WordPress installation deployed on managed WordPress hosting while my current GoDaddy-hosted domain and legacy site stay untouched for now. Once the new environment is live, I’ll point the DNS myself, so there is no migration work—just a clean build.
-
-Here’s how I see the engagement:
-
-• Provision and configure a managed WordPress hosting account.  
-• Spin up the new WordPress instance, harden security, and apply basic performance tweaks.  
-• Install and activate WooCommerce, confirming that the store pages are generated correctly.  
-• Apply the specific theme I will supply (I don’t recall the exact name yet; I’ll forward the ZIP or license key as soon as I locate it). If there are child-theme or demo-content steps, handle those as well.  
-• Create one Administrator account for my team so we have full backend access.  
-• Leave everything on the existing GoDaddy domain exactly as is—no changes to its files, database, or DNS settings.
-
-Success for me is simple: the new site loads on its temporary URL, WooCommerce opens without errors, and I can sign in as Administrator. If any plugins or settings are required to meet those goals, please include them.
-
-Let me know your estimated timeline and anything you’ll need from me beyond the hosting credentials and theme files.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
@@ -992,7 +1005,6 @@ Key Features:
 Additional Details:
 - I already have a concept designed and some APIs set up but need a developer to finalize the design and tie up loose ends.
 - The project will be completed in a two-week sprint. Based on satisfaction with the work, there is potential for future sprints.</description></item>
-<item><title>Backend API Integration Development -- 3</title><link>https://www.freelancer.com/projects/api-developmet/Backend-API-Integration-Development</link><guid isPermaLink="false">freelancer:40754134</guid><pubDate>Tue, 06 Oct 2026 23:30:15 GMT</pubDate><description>30-250 USD | Needed for ongoing small milestones: connecting existing pages to the backend, API integrations, payment gateways, and Google tracking setup.</description></item>
 <item><title>Shopify Website Development for Muse Club London</title><link>https://www.freelancer.com/projects/shopify-site/Shopify-Website-Development-for-Muse</link><guid isPermaLink="false">freelancer:40754047</guid><pubDate>Tue, 06 Oct 2026 22:09:53 GMT</pubDate><description>2-8 USD/hr | Hi! I’m looking for a freelancer to design and build a complete Shopify website for my new brand, Muse Club London.
 
 I will send you a reference website. I really like its overall aesthetic, layout and shopping experience, and I would like you to use it as inspiration for my website while creating an original identity for Muse Club London.
