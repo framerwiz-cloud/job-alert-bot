@@ -3,6 +3,31 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bilingual Medical SaaS Web Design</title><link>https://www.freelancer.com/projects/web-design/Bilingual-Medical-SaaS-Web-Design</link><guid isPermaLink="false">freelancer:40756363</guid><pubDate>Thu, 08 Oct 2026 01:57:21 GMT</pubDate><description>30-250 USD | I need a complete redesign of my medical-focused B2B SaaS site inside Framer, delivered in both English and Arabic. The current draft (produced with ChatGPT) covers the core copy and basic structure; I can share that file the moment we start so you don’t have to work from scratch.
+
+Primary objective  
+The site must persuade healthcare-related companies to adopt our platform, so every section should speak to decision makers at hospitals, clinics, suppliers and other corporate stakeholders. Clarity, trust and a clean medical aesthetic are essential.
+
+Multilingual requirements  
+Arabic is as important as English. I’m counting on you to handle right-to-left layout, mirrored UI elements, and consistent typography so both versions feel native rather than “translated.”
+
+Why Framer  
+We’re committed to Framer for its speed and built-in animation options, so all pages, components and breakpoints need to be created directly in that environment. Responsive behaviour across desktop, tablet and mobile is non-negotiable.
+
+Deliverables  
+• Fully built Framer project file with language toggle  
+• All copy placed and styled (I’ll provide final text)  
+• Branded colour palette, iconography and imagery suited to the medical sector  
+• Page-load performance optimised and basic on-page SEO (meta tags, alt text, structured headings)  
+• Handover walkthrough or short loom video explaining the project structure  
+
+Acceptance criteria  
+1. Both language versions render perfectly on Chrome, Safari and Edge.  
+2. RTL alignment in Arabic has zero visual glitches.  
+3. No console errors and a Lighthouse performance score of 90+.  
+4. Every link, button and form is functional inside the Framer preview.
+
+If you are comfortable refining an existing concept, working in Framer, and handling bilingual UX without plugins, I’d love to see examples of similar projects you’ve shipped.</description></item>
 <item><title>Nonprofit Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Nonprofit-Website-Redesign</link><guid isPermaLink="false">freelancer:40756327</guid><pubDate>Thu, 08 Oct 2026 01:15:08 GMT</pubDate><description>750-1500 USD | I'm seeking a skilled web designer to update our nonprofit organization's website with a modern and sleek design.
 
 Key Requirements:
@@ -877,106 +902,6 @@ Here’s what I expect by the end of the project:
 • A quick walkthrough so I can manage future content on my own.
 
 I’ll supply Bluehost credentials, the current site export, and access to my Squarespace account as soon as we start. Let me know your estimated timeline and any similar migrations you’ve carried out—especially those involving user logins or online stores—so I can hit the ground running with the right partner.</description></item>
-<item><title>Custom Real Estate Operating System &amp; CRM</title><link>https://www.freelancer.com/projects/crm/Custom-Real-Estate-Operating-System</link><guid isPermaLink="false">freelancer:40753873</guid><pubDate>Tue, 06 Oct 2026 19:41:01 GMT</pubDate><description>750-1500 USD | We are looking for an experienced developer or small development team to build a custom operating system and CRM for a real estate/property management business.
-
-The platform will support:
-- Short-term rentals
-- Long-term rentals
-- Property sales
-- Property management
-- Owners and clients
-- Guests and tenants
-- Vendors and cleaners
-- Maintenance
-- Leads and sales
-- Property onboarding
-- Client/vendor/team onboarding
-- Documents and contracts
-- Tasks, workflows, reporting, and dashboards
-
-We are open to using existing platforms, frameworks, APIs, and third-party tools where appropriate, but the final system should be customized around our operations.
-
-Key integrations may include: 
-- Hostaway
-- PriceLabs
-- Airbnb / VRBO
-- Gmail / Google Drive / Google Calendar
-- Slack
-- Dialpad
-- QuickBooks
-- Stripe
-- DocuSign
-- Ring
-- Schlage
-- NoiseAware
-- Forewarn
-- Zillow / HAR / MLS
-- Other APIs as needed
-
-The system should include strong workflow automation. Examples:
-- Reservation confirmed → create operational tasks
-- Checkout → create cleaning workflow
-- Cleaner completes task → trigger inspection/validation
-- Maintenance issue → assign vendor and track status
-- New property → start onboarding workflow
-- New client/vendor → start onboarding workflow
-- New lead → create follow-up tasks
-
-We also want AI features such as:
-- Internal AI assistant
-- AI search across company data
-- Email/SMS drafting
-- Conversation summaries
-- Email and issue classification
-- Automated task creation
-- Maintenance issue analysis
-- Vendor recommendations
-- Lead qualification
-- Owner reporting
-- AI agents that can perform approved actions
-
-The platform should support role-based access for:
-- Management
-- Property managers
-- VAs/staff
-- Cleaners
-- Vendors
-- Owners/clients
-- Sales/realtor staff
-- Accounting
-- Admins
-
-We also want the architecture to support external portals such as:
-- Owner portal
-- Vendor portal
-- Cleaner portal
-- Tenant portal
-- Guest portal
-
-The system should work well on desktop and mobile. A responsive web app is acceptable initially, but the architecture should support mobile apps later.
-
-We are not requiring a specific technology stack. You may recommend the best approach. Experience with technologies such as React, Next.js, PostgreSQL, Supabase, APIs, webhooks, automation platforms, OpenAI, Claude, or similar tools is a plus.
-
-What matters most to us:
-- Strong UI/UX
-- Ability to understand business operations and translate them into software
-- Workflow automation experience
-- API/integration experience
-- Clean, scalable, maintainable development
-
-Property management experience is helpful but not required if you are technically strong.
-When applying, please include:
-- Short introduction
-- Portfolio/examples of CRM, SaaS, automation, or AI systems you have built
-- Relevant experience
-- Technologies you work with
-- Availability
-- Whether you are an individual, team, or agency
-- Estimated pricing structure or rate
-- Your recommended technical approach for this project
-
-Please start your proposal with PROPERTY OS so we know you read the full description.
-We are open to project-based, or ongoing arrangements. Budget will be discussed with qualified candidates.</description></item>
 <item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 18:24:52 GMT</pubDate><description>5-10 GBP/hr | # Developer Needed for Multipurpose AI Agent — OpenAI, Mistral, n8n
 
 ### Job Description
