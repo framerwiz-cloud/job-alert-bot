@@ -1467,20 +1467,17 @@ Your day-to-day work will revolve around keeping the storefront accurate, respon
 Success here is simple: the catalogue stays current, orders flow without delay, and customers get clear, timely answers. If you’ve previously managed or assisted a BigCommerce shop—especially in electronics or energy storage—you’ll ramp up quickly. Familiarity with LiFePO₄ terminology, watt-hour calculations, or shipping regulations for batteries is a definite plus.
 
 Let me know about your BigCommerce experience, any battery-related projects you’ve handled, and how soon you could start keeping our store in top shape.</description></item>
-<item><title>Multi-Vendor Marketplace Development</title><link>https://www.freelancer.com/projects/angular/Multi-Vendor-Marketplace-Development</link><guid isPermaLink="false">freelancer:40744417</guid><pubDate>Thu, 01 Oct 2026 12:35:50 GMT</pubDate><description>15-25 USD/hr | I’m launching a full-scale online marketplace where third-party sellers can register, create storefronts, and manage their own catalogue, while shoppers enjoy a smooth end-to-end buying experience. The frontend needs to be built in Angular or React, and I’d like the backend engineered with either Java (Spring Boot) or C# (ASP.NET Core)—whichever you feel will deliver the best performance, security, and maintainability.
+<item><title>Database and Accounting System Development</title><link>https://www.freelancer.com/projects/accounting/Database-Accounting-System-Development</link><guid isPermaLink="false">freelancer:40696442</guid><pubDate>Mon, 07 Sep 2026 13:27:00 GMT</pubDate><description>10-15 GBP/hr | I need a freelancer to build a database and accounting system.
 
-Core scope  
-The project covers everything from architecture to deployment: account creation for vendors and customers, product and inventory management, search and filtering, shopping cart, order life-cycle tracking, and a flexible payment module. I have not settled on a specific gateway yet, so I’m open to your recommendation and subsequent integration. Clean RESTful APIs, solid unit and integration testing, and CI/CD pipelines are expected as part of the workflow.
+Key Requirements:
+- Store customer information
+- Invoice processing functionality
+- Integration with existing CRM system
 
-Key deliverables  
-• React single-page application with responsive design  
-• Secure authentication &amp; role-based access (vendor, buyer, admin)  
-• Backend services in Java or C#, fully documented  
-• Payment gateway integration of our agreed choice  
-• Postman or Swagger documentation for every endpoint  
-• Deployment scripts/Docker files for cloud readiness  
+Ideal Skills and Experience:
+- Experience in database development
+- Proficiency in creating accounting systems
+- Familiarity with CRM integration
 
-Acceptance criteria will revolve around feature completeness, code quality, test coverage, and a successful end-to-end demo on a staging environment.
-
-If you’re comfortable owning the stack from database schema to front-end polish, let’s get started—I’m ready to review your approach and timeline.</description></item>
+Please provide examples of similar work done and your approach to this project.</description></item>
 </channel></rss>
