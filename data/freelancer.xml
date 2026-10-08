@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify E-commerce Manager Needed</title><link>https://www.freelancer.com/projects/digital-marketing/Shopify-commerce-Manager-Needed-40756530</link><guid isPermaLink="false">freelancer:40756530</guid><pubDate>Thu, 08 Oct 2026 03:49:28 GMT</pubDate><description>25-50 USD/hr | We are looking for an experienced Shopify E-commerce Manager with a proven track record in managing online stores and driving sales growth.
+
+The ideal candidate should have hands-on experience with Shopify, e-commerce operations, product research, and paid advertising. We are looking for someone who understands how to test products, analyze campaign performance, optimize a store, and turn data into practical actions.
+
+Our main focus is preparing and growing the store for the upcoming Halloween and holiday shopping season, with the potential for a long-term working relationship.
+
+Responsibilities
+Manage and optimize the Shopify store
+Research profitable products and seasonal trends
+Analyze competitors, pricing, offers, and customer demand
+Plan, launch, and optimize paid advertising campaigns
+Test products, audiences, creatives, and offers
+Monitor sales and advertising performance
+Analyze CPA, CPC, CTR, ROAS, conversion rate, and profitability
+Optimize product pages and customer experience
+Develop promotional strategies for Halloween and the holiday season
+Provide regular performance reports and actionable recommendations
+Requirements
+2+ years of hands-on e-commerce experience preferred
+Proven experience managing Shopify stores
+Previous experience running and optimizing paid advertising campaigns
+Demonstrated experience growing online sales
+Strong product research and market research skills
+Comfortable working with advertising and sales data
+Experience targeting the US market is highly preferred
+Able to work independently and take responsibility for results
+Good English communication and reporting skills
+
+Bonus: Experience with Google Ads, TikTok Ads, Canva, Shopify customization, or dropshipping.</description></item>
 <item><title>Bilingual Medical SaaS Web Design</title><link>https://www.freelancer.com/projects/web-design/Bilingual-Medical-SaaS-Web-Design</link><guid isPermaLink="false">freelancer:40756363</guid><pubDate>Thu, 08 Oct 2026 01:57:21 GMT</pubDate><description>30-250 USD | I need a complete redesign of my medical-focused B2B SaaS site inside Framer, delivered in both English and Arabic. The current draft (produced with ChatGPT) covers the core copy and basic structure; I can share that file the moment we start so you don’t have to work from scratch.
 
 Primary objective  
@@ -1315,20 +1344,4 @@ Your day-to-day work will revolve around keeping the storefront accurate, respon
 Success here is simple: the catalogue stays current, orders flow without delay, and customers get clear, timely answers. If you’ve previously managed or assisted a BigCommerce shop—especially in electronics or energy storage—you’ll ramp up quickly. Familiarity with LiFePO₄ terminology, watt-hour calculations, or shipping regulations for batteries is a definite plus.
 
 Let me know about your BigCommerce experience, any battery-related projects you’ve handled, and how soon you could start keeping our store in top shape.</description></item>
-<item><title>Multi-Vendor Marketplace Development</title><link>https://www.freelancer.com/projects/angular/Multi-Vendor-Marketplace-Development</link><guid isPermaLink="false">freelancer:40744417</guid><pubDate>Thu, 01 Oct 2026 12:35:50 GMT</pubDate><description>15-25 USD/hr | I’m launching a full-scale online marketplace where third-party sellers can register, create storefronts, and manage their own catalogue, while shoppers enjoy a smooth end-to-end buying experience. The frontend needs to be built in Angular or React, and I’d like the backend engineered with either Java (Spring Boot) or C# (ASP.NET Core)—whichever you feel will deliver the best performance, security, and maintainability.
-
-Core scope  
-The project covers everything from architecture to deployment: account creation for vendors and customers, product and inventory management, search and filtering, shopping cart, order life-cycle tracking, and a flexible payment module. I have not settled on a specific gateway yet, so I’m open to your recommendation and subsequent integration. Clean RESTful APIs, solid unit and integration testing, and CI/CD pipelines are expected as part of the workflow.
-
-Key deliverables  
-• React single-page application with responsive design  
-• Secure authentication &amp; role-based access (vendor, buyer, admin)  
-• Backend services in Java or C#, fully documented  
-• Payment gateway integration of our agreed choice  
-• Postman or Swagger documentation for every endpoint  
-• Deployment scripts/Docker files for cloud readiness  
-
-Acceptance criteria will revolve around feature completeness, code quality, test coverage, and a successful end-to-end demo on a staging environment.
-
-If you’re comfortable owning the stack from database schema to front-end polish, let’s get started—I’m ready to review your approach and timeline.</description></item>
 </channel></rss>
