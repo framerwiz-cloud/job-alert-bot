@@ -3,17 +3,33 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Minimalist Coffee Club Subscription Page</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/Minimalist-Coffee-Club-Subscription-Page</link><guid isPermaLink="false">freelancer:40756306</guid><pubDate>Thu, 08 Oct 2026 00:49:59 GMT</pubDate><description>250-750 USD | I'm looking for a freelancer to create a minimalist landing page aimed at collecting subscriptions for our Coffee Club. The design should be clean and straightforward, with an emphasis on easy navigation and a seamless subscription process.
+<item><title>E-commerce Site Security Upgrade</title><link>https://www.freelancer.com/projects/security/commerce-Site-Security-Upgrade</link><guid isPermaLink="false">freelancer:40756310</guid><pubDate>Thu, 08 Oct 2026 00:56:31 GMT</pubDate><description>15-25 AUD/hr | I'm looking to enhance the security of my e-commerce website. 
+
+Key tasks include:
+- Improve login security (e.g., 2FA, CAPTCHA)
+- Secure email communications
+
+Ideal skills and experience:
+- Proven experience in securing e-commerce platforms
+- Strong knowledge of authentication protocols
+- Familiarity with email security measures
+- Relevant certifications (e.g., CISSP, CEH) are a plus
+
+Please provide examples of similar projects completed.</description></item>
+<item><title>Minimalist Coffee Club Subscription Page</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/Minimalist-Coffee-Club-Subscription-Page</link><guid isPermaLink="false">freelancer:40756306</guid><pubDate>Thu, 08 Oct 2026 00:49:59 GMT</pubDate><description>250-750 USD | I'm looking for a freelancer to create a minimalist landing page aimed at collecting subscriptions for our Coffee Club. The design should be clean and straightforward, with an emphasis on easy navigation and a seamless subscription process. This will be a standalone, integrated Coffee Club subscription page within my Shopify store. It should allow users to choose their preferred roast type, quantity of coffee, delivery frequency, and complete payment—all from a single page.
 
 Key Requirements:
-- Primarily text-based content. 
+- Primarily text-based content.
 - Minimalist design style.
+- Integration with Shopify.
+- User-friendly interface for selecting options and completing subscriptions.
 
 Ideal Skills and Experience:
 - Experience in creating landing pages, particularly for subscription services.
 - Strong ability to write clear, compelling text descriptions.
 - Expertise in minimalist design principles.
 - Familiarity with conversion rate optimization techniques.
+- Proficiency in Shopify integration.
 
 Please share relevant work samples. Thank you!</description></item>
 <item><title>Website Performance and Accessibility Enhancement</title><link>https://www.freelancer.com/projects/google-website-optimizer/Website-Performance-Accessibility</link><guid isPermaLink="false">freelancer:40756262</guid><pubDate>Thu, 08 Oct 2026 00:21:53 GMT</pubDate><description>250-750 AUD | Performance (get LCP from 12.1s to under 2.5s)
@@ -1401,20 +1417,4 @@ Your day-to-day work will revolve around keeping the storefront accurate, respon
 Success here is simple: the catalogue stays current, orders flow without delay, and customers get clear, timely answers. If you’ve previously managed or assisted a BigCommerce shop—especially in electronics or energy storage—you’ll ramp up quickly. Familiarity with LiFePO₄ terminology, watt-hour calculations, or shipping regulations for batteries is a definite plus.
 
 Let me know about your BigCommerce experience, any battery-related projects you’ve handled, and how soon you could start keeping our store in top shape.</description></item>
-<item><title>Multi-Vendor Marketplace Development</title><link>https://www.freelancer.com/projects/angular/Multi-Vendor-Marketplace-Development</link><guid isPermaLink="false">freelancer:40744417</guid><pubDate>Thu, 01 Oct 2026 12:35:50 GMT</pubDate><description>15-25 USD/hr | I’m launching a full-scale online marketplace where third-party sellers can register, create storefronts, and manage their own catalogue, while shoppers enjoy a smooth end-to-end buying experience. The frontend needs to be built in Angular or React, and I’d like the backend engineered with either Java (Spring Boot) or C# (ASP.NET Core)—whichever you feel will deliver the best performance, security, and maintainability.
-
-Core scope  
-The project covers everything from architecture to deployment: account creation for vendors and customers, product and inventory management, search and filtering, shopping cart, order life-cycle tracking, and a flexible payment module. I have not settled on a specific gateway yet, so I’m open to your recommendation and subsequent integration. Clean RESTful APIs, solid unit and integration testing, and CI/CD pipelines are expected as part of the workflow.
-
-Key deliverables  
-• React single-page application with responsive design  
-• Secure authentication &amp; role-based access (vendor, buyer, admin)  
-• Backend services in Java or C#, fully documented  
-• Payment gateway integration of our agreed choice  
-• Postman or Swagger documentation for every endpoint  
-• Deployment scripts/Docker files for cloud readiness  
-
-Acceptance criteria will revolve around feature completeness, code quality, test coverage, and a successful end-to-end demo on a staging environment.
-
-If you’re comfortable owning the stack from database schema to front-end polish, let’s get started—I’m ready to review your approach and timeline.</description></item>
 </channel></rss>
