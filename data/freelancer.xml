@@ -3,6 +3,50 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>10-15 Page Informational Website</title><link>https://www.freelancer.com/projects/web-development/Page-Informational-Website</link><guid isPermaLink="false">freelancer:40757906</guid><pubDate>Thu, 08 Oct 2026 18:27:21 GMT</pubDate><description>250-750 USD | I need a clean, fast-loading informational website built from the ground up, spanning roughly 10 to 15 pages. The site’s sole purpose is to present well-structured content in a way that is easy for visitors to read, search, and share.  
+
+Here’s what I expect:  
+
+• Complete front-end and back-end development, including mobile-responsive layouts and intuitive navigation.  
+• A modern visual style that aligns with typical corporate/educational info sites—since I don’t have existing design assets, you’ll handle the look and feel from wireframes to final UI.  
+• A straightforward CMS setup (WordPress, Webflow, or a similarly user-friendly platform) so I can update text and images myself after launch.  
+• Basic on-page SEO: clean code, proper heading hierarchy, meta tags, and alt text.  
+• Security essentials—SSL configuration and anti-spam/contact-form hardening.  
+• Final hand-off package: editable source files, documented theme/plugins, and a quick Loom or Zoom walkthrough showing me how to update content.
+
+Once the site is migrated to my hosting and everything passes a quick usability check on desktop, tablet, and mobile, we’re done. Let me know which CMS you prefer, share 2–3 relevant portfolio links, and give me your estimated timeline to reach a polished, ready-to-launch site.</description></item>
+<item><title>Website Designer Needed (WordPress + Namecheap Experience)</title><link>https://www.freelancer.com/projects/web-development/Website-Designer-Needed-WordPress</link><guid isPermaLink="false">freelancer:40757901</guid><pubDate>Thu, 08 Oct 2026 18:26:34 GMT</pubDate><description>250-750 USD | I'm looking for a creative and reliable website designer to design and build my business website using WordPress, hosted on Namecheap.
+
+
+WHAT I'M LOOKING FOR
+1. Strong website design skills with a creative eye for layout, branding, and user experience
+2. Experience working with WordPress
+3. Comfortable navigating and managing websites hosted on Namecheap
+4. Ability to work independently with minimal supervision
+5. Self-motivated and capable of taking ownership of tasks, identifying solutions, and moving the project forward without constant direction
+6. Collaborative and easy to work with
+7. Strong command of English, as the website content and all communication will be in English
+8. Able to provide ideas, recommendations, and creative input rather than simply follow instructions
+9. Understanding of responsive design for desktop and mobile devices
+
+
+PROJECT SCOPE
+1. Design and develop a professional business website
+2. Set up and manage the website through Namecheap and WordPress
+3. Help define the website structure, layout, and user experience
+4. Recommend improvements and best practices where appropriate
+5. Work collaboratively while being able to independently manage assigned tasks
+
+
+TO APPLY
+Please provide:
+1. Links to websites you have designed
+2. Your experience with WordPress and Namecheap
+3. Your estimated timeline
+4. Your proposed fee
+
+
+If you're someone who is creative, proactive, communicative, and capable of working independently while collaborating effectively, I'd love to hear from you.</description></item>
 <item><title>Editable 5-Page Car Ads Website</title><link>https://www.freelancer.com/projects/css/Editable-Page-Car-Ads-Website</link><guid isPermaLink="false">freelancer:40757785</guid><pubDate>Thu, 08 Oct 2026 16:53:48 GMT</pubDate><description>20-250 GBP | I’m building a small, modern-looking site where visitors can browse bite-sized ads for new and used cars and where I, as the sole admin, can update every piece of content from a clean dashboard.
 
 The structure is straightforward:
@@ -978,44 +1022,6 @@ Ideal Skills and Experience:
 - Strong portfolio with modern and sleek design examples
 - Excellent communication skills
 - Ability to create a user-friendly and mobile-responsive site</description></item>
-<item><title>Mobile Subscription Site with Telegram Integration: Irish League Edge</title><link>https://www.freelancer.com/projects/android/Mobile-Subscription-Site-with-Telegram</link><guid isPermaLink="false">freelancer:40755088</guid><pubDate>Wed, 07 Oct 2026 10:08:10 GMT</pubDate><description>350-780 GBP | I’m bringing Irish League Edge (ILE) online and need someone to put every moving part in place for a seamless, mobile-first subscription business. The core of the project is subscription services and, above all, automated member access. Once a fan joins ILE+ and the payment processes, they should receive instant access to our private paid Telegram channel, while also keeping the open, free channel available to everyone. On expiry or cancellation, their paid-channel privileges must be revoked automatically—no manual workarounds.
-
-Here’s the full picture of what I expect you to deliver:
-
-• Mobile-optimised website built from the ground up, ready for high traffic.  
-• Secure, recurring payment flow (monthly and annual plans) that talks directly to Telegram to grant or remove access without delay.  
-• Dual Telegram setup: public free channel plus invitation-only paid channel, both managed through the site’s back-end.  
-• Self-serve customer dashboard so subscribers can upgrade, downgrade, pause or cancel at will.  
-• Complete hosting and domain configuration, SSL, basic hardening and ongoing analytics so I can track growth and churn.  
-• Admin panel with role permissions, content management and detailed subscription reporting.  
-• Automated emails/notifications for sign-up, renewal, failed payment and cancellation events.  
-• End-to-end testing, security checks and clear hand-off of all source code and documentation.
-
-I’m happy to hear your preferred tech stack—whether you lean toward WordPress + Woo/Stripe plugins, a Laravel build, or a JAMstack approach—as long as it meets the requirements above, is future-proof and easy for a non-technical editor to operate.
-
-Acceptance criteria:  
-1. A new user can subscribe, pay, and see themselves added to the paid Telegram channel in under two minutes.  
-2. Cancelling or an expired card removes them from that channel within five minutes.  
-3. Admin area shows real-time subscriber counts and revenue.  
-4. Site scores 90+ on Google Lighthouse mobile performance.  
-5. All credentials, repos and walkthrough docs are transferred before final sign-off.
-
-If this sounds straightforward to you and you have past examples of similar payment-to-Telegram automations, let’s talk timelines and milestones.</description></item>
-<item><title>Education Range Brochure, Corporate Range Brochure &amp; PowerPoint Presentation </title><link>https://www.freelancer.com/projects/adobe-creative-suite/Brochure-Presentation-Website-Design</link><guid isPermaLink="false">freelancer:40754206</guid><pubDate>Wed, 07 Oct 2026 06:11:00 GMT</pubDate><description>500-700 AUD | I need a suite of fresh promotional materials that clearly position our product line for business &amp; education clients. The immediate priorities are:
-
-• A print-ready and digital brochure that spotlights key product benefits in a concise, visually engaging format suitable for sales meetings and email outreach.  
-• A dynamic PowerPoint deck that mirrors the brochure’s look and feel, enriched with smooth animations, tasteful transitions, and crisp high-quality images. Charts and graphs can be added later if they enhance clarity, but the core narrative should already feel compelling without them.  
-
-Once those two pieces are approved, I may move on to a full website refresh so that the online experience aligns with the new collateral. Additionally, depending on the quality of work delivered for the Education Range Brochure and PowerPoint deck, there may be an opportunity to assist with a Corporate Range Brochure as well.
-
-Acceptance criteria  
-1. Consistent visual identity across brochure and PowerPoint.  
-2. Final brochure supplied in print PDF (300 dpi, CMYK) and web PDF.  
-3. PowerPoint delivered in editable .pptx with all media embedded.  
-4. All stock images licensed for commercial use.  
-5. Source files handed over upon completion.
-
-Please outline your creative process, typical turnaround time, and any relevant portfolio pieces featuring product-focused, B2B designs.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
