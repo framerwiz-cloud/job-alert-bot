@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Big Commerce Shipping Issues</title><link>https://www.freelancer.com/projects/api-integration/Fix-Big-Commerce-Shipping-Issues</link><guid isPermaLink="false">freelancer:40757641</guid><pubDate>Thu, 08 Oct 2026 15:22:20 GMT</pubDate><description>250-750 USD | I'm experiencing multiple shipping-related problems on my Big Commerce store that need urgent resolution. The issues include:
+
+- Incorrect Shipping Rates: Rates during checkout are too high in some cases and inconsistent. 
+- Carrier Integration Problems: Some locations cannot be shipped to at all.
+- Checkout Process Errors: Overall, the checkout process is error-prone due to the above issues.
+
+Ideal skills and experience for this job:
+- Proven expertise in Big Commerce
+- Strong understanding of shipping integrations and rate calculations
+- Experience troubleshooting checkout process errors
+- Attention to detail and problem-solving skills
+
+Please provide examples of similar work done. Looking forward to your bids!</description></item>
 <item><title>Figma Prototype to Live Website</title><link>https://www.freelancer.com/projects/css/Figma-Prototype-Live-Website</link><guid isPermaLink="false">freelancer:40757585</guid><pubDate>Thu, 08 Oct 2026 14:46:18 GMT</pubDate><description>20-250 GBP | I already have high-fidelity Figma files and a working animated HTML prototype; now I need these translated into a production-ready website that looks and feels identical. My form response shows “Figma” as the preferred framework, which really means I am flexible—choose the stack you feel will deliver the best performance and maintainability, whether that’s React, Vue.js, or something leaner, provided the end result is fast and clean.
 
 The live build must replicate every layout detail and keep the basic transitions currently in the prototype running smoothly on desktop and mobile. On top of the existing pages, please add a fully functional, spam-protected contact form that sends submissions directly to my email.
@@ -960,35 +973,6 @@ Please include in your bid:
 5. Number of revisions included
 6. 3 examples of similar websites you have personally built
 7. Confirmation that we will have full ownership/admin access</description></item>
-<item><title>Technical SEO &amp; WordPress/WooCommerce Specialist Needed</title><link>https://www.freelancer.com/projects/woocommerce/Technical-SEO-WordPress-WooCommerce</link><guid isPermaLink="false">freelancer:40754427</guid><pubDate>Wed, 07 Oct 2026 03:39:35 GMT</pubDate><description>30-250 USD | need a Technical SEO + WordPress/WooCommerce expert to implement a specific SEO action plan on two websites.
-I already have a detailed Word document with the exact work required. I am NOT looking for:
-blog writing
-backlinks
-a general SEO audit
-monthly SEO services
-I need someone who can actually make the technical changes.
-The work includes:
-WordPress / WooCommerce
-Google Search Console
-Screaming Frog
-Canonical URL fixes
-301 redirects
-Product titles and meta descriptions
-Schema / structured data
-Indexing and noindex settings
-XML sitemap cleanup
-Category structure fixes
-Final crawl and testing
-Estimated first-round work: approximately 14–23 hours.
-I will attach the full step-by-step Word document.
-When bidding, please tell me:
-Have you done technical SEO work on WooCommerce websites?
-Do you personally use Screaming Frog and Google Search Console?
-Can you fix canonicals, schema, redirects and indexing issues yourself?
-How many hours do you estimate after reading the attached document?
-What is your total price?
-When can you start?
-I want a before/after crawl and a list of all changes completed.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
@@ -1456,23 +1440,6 @@ Deliverables
 • Two rounds of revisions after the first working draft
 
 I will provide brand colors, copy, and images; you handle the rest—from layout and UI decisions to any necessary plug-ins or integrations. If you can demonstrate previous work where the primary goal was selling services, I’ll prioritize that.</description></item>
-<item><title>Webflow UX Overhaul &amp; Integrations</title><link>https://www.freelancer.com/projects/webflow/Webflow-Overhaul-Integrations</link><guid isPermaLink="false">freelancer:40744629</guid><pubDate>Thu, 01 Oct 2026 14:57:29 GMT</pubDate><description>10-15 GBP/hr | I want to take my current Webflow site well beyond a simple template refresh. The primary objective is to improve user experience from the first fold to the checkout/contact point, while giving every page new, on-brand imagery and graphics that feel cohesive and modern.
-
-Here’s the scope:
-
-• Complete visual redesign directly in Webflow, including new graphic assets that match our updated look and feel.  
-• Custom interactive elements—think subtle micro-animations, scroll-triggered reveals, and dynamic content blocks—that keep visitors engaged without slowing the site.  
-• Seamless third-party integrations (CRM, marketing automation, analytics, payment or booking tools as needed) using Webflow’s embed capabilities or custom JavaScript when Webflow’s native options fall short.  
-• Clean, maintainable code injections (HTML, CSS, JavaScript) documented so the in-house team can tweak things later.  
-• Responsive optimisation and cross-browser checks to ensure the new experience is flawless on mobile, tablet, and desktop.  
-
-Acceptance will be based on:  
-1. Observable UX improvements validated through a brief pre-/post-launch usability test.  
-2. All graphics delivered in WebP/SVG where appropriate and compressed for performance.  
-3. Interactive components functioning smoothly in the published Webflow environment with no console errors.  
-4. Third-party integrations authenticated and passing data correctly.  
-
-I’ll provide full access to the current project, brand guidelines, and any API keys you need. Looking forward to a polished, lightning-fast site that feels intuitive and visually striking.</description></item>
 <item><title>Database and Accounting System Development</title><link>https://www.freelancer.com/projects/accounting/Database-Accounting-System-Development</link><guid isPermaLink="false">freelancer:40696442</guid><pubDate>Mon, 07 Sep 2026 13:27:00 GMT</pubDate><description>10-15 GBP/hr | I need a freelancer to build a database and accounting system.
 
 Key Requirements:
@@ -1486,4 +1453,21 @@ Ideal Skills and Experience:
 - Familiarity with CRM integration
 
 Please provide examples of similar work done and your approach to this project.</description></item>
+<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
+
+Requirements:
+- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
+- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
+- Inventory management: Efficient tracking and management of stock levels.
+- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
+
+Ideal Skills:
+- Proven experience in e-commerce, particularly on Amazon
+- Strong background in marketing and promotions
+- Excellent inventory management skills
+- Customer service expertise
+- Proven positive track record with end to end Amazon store management.
+- Experience with Printful to Amazon integrations (Not required but useful)
+
+We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
