@@ -3,21 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Corporate WordPress Site &amp; SEO</title><link>https://www.freelancer.com/projects/seo/Corporate-WordPress-Site-SEO</link><guid isPermaLink="false">freelancer:40757371</guid><pubDate>Thu, 08 Oct 2026 12:39:14 GMT</pubDate><description>8-15 AUD/hr | I need a seasoned WordPress developer who can build a polished corporate website that feels professional and traditional from the first click. The site will serve as our online headquarters, presenting our brand with classic, trustworthy styling rather than trendy minimalism or flashy creativity.  
-
-The build itself should be lean and maintainable: clean code, a well-structured theme or child theme, responsive layouts that look sharp on desktop and mobile, and fast loading times. WordPress best-practice security, backups, and an intuitive admin area are a must so my in-house team can handle minor updates later.  
-
-For launch, the only critical interior page is a detailed Services page that clearly outlines what we do; the homepage, header, footer, and any supporting sections should funnel visitors there. (Additional pages like About or Contact may follow, so keep the structure flexible.)  
-
-SEO is equally important. Alongside the development you’ll handle on-page optimisation—keyword research, title and meta descriptions, clean URL slugs, alt tags, internal linking, and an XML sitemap—so we start ranking the moment the site goes live. I’m open to recommended SEO plug-ins such as Yoast or Rank Math as long as they’re configured properly and don’t bloat performance.  
-
-Deliverables  
-• Fully responsive WordPress corporate site with a professional, traditional design  
-• Customised Services page laid out for maximum clarity and conversion  
-• Core SEO setup implemented and tested  
-• Documentation or quick video walkthrough so my team can edit content confidently  
-
-If you have a portfolio of similar corporate builds and proven SEO wins, let’s talk timelines and get started.</description></item>
 <item><title>Pokémon TCG Marketplace Development</title><link>https://www.freelancer.com/projects/ui-design/Pok-mon-TCG-Marketplace-Development</link><guid isPermaLink="false">freelancer:40757247</guid><pubDate>Thu, 08 Oct 2026 11:19:11 GMT</pubDate><description>30-250 AUD | I'm looking to develop a comprehensive platform for buying, selling, and trading Pokémon TCG cards. The platform should also allow users to showcase their card collections. 
 
 Key functionalities include:
@@ -1482,4 +1467,20 @@ Your day-to-day work will revolve around keeping the storefront accurate, respon
 Success here is simple: the catalogue stays current, orders flow without delay, and customers get clear, timely answers. If you’ve previously managed or assisted a BigCommerce shop—especially in electronics or energy storage—you’ll ramp up quickly. Familiarity with LiFePO₄ terminology, watt-hour calculations, or shipping regulations for batteries is a definite plus.
 
 Let me know about your BigCommerce experience, any battery-related projects you’ve handled, and how soon you could start keeping our store in top shape.</description></item>
+<item><title>Multi-Vendor Marketplace Development</title><link>https://www.freelancer.com/projects/angular/Multi-Vendor-Marketplace-Development</link><guid isPermaLink="false">freelancer:40744417</guid><pubDate>Thu, 01 Oct 2026 12:35:50 GMT</pubDate><description>15-25 USD/hr | I’m launching a full-scale online marketplace where third-party sellers can register, create storefronts, and manage their own catalogue, while shoppers enjoy a smooth end-to-end buying experience. The frontend needs to be built in Angular or React, and I’d like the backend engineered with either Java (Spring Boot) or C# (ASP.NET Core)—whichever you feel will deliver the best performance, security, and maintainability.
+
+Core scope  
+The project covers everything from architecture to deployment: account creation for vendors and customers, product and inventory management, search and filtering, shopping cart, order life-cycle tracking, and a flexible payment module. I have not settled on a specific gateway yet, so I’m open to your recommendation and subsequent integration. Clean RESTful APIs, solid unit and integration testing, and CI/CD pipelines are expected as part of the workflow.
+
+Key deliverables  
+• React single-page application with responsive design  
+• Secure authentication &amp; role-based access (vendor, buyer, admin)  
+• Backend services in Java or C#, fully documented  
+• Payment gateway integration of our agreed choice  
+• Postman or Swagger documentation for every endpoint  
+• Deployment scripts/Docker files for cloud readiness  
+
+Acceptance criteria will revolve around feature completeness, code quality, test coverage, and a successful end-to-end demo on a staging environment.
+
+If you’re comfortable owning the stack from database schema to front-end polish, let’s get started—I’m ready to review your approach and timeline.</description></item>
 </channel></rss>
