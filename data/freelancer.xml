@@ -3,24 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Budget Medical Courier Website Build</title><link>https://www.freelancer.com/projects/web-design/Budget-Medical-Courier-Website-Build</link><guid isPermaLink="false">freelancer:40756762</guid><pubDate>Thu, 08 Oct 2026 06:30:43 GMT</pubDate><description>30-250 CAD | I need a clean, professional website that introduces my new medical courier service without blowing the roughly $75 budget I have set aside for the launch. The site’s main goal is to outline what I deliver—Prescription delivery, Lab specimen transport, and Medical equipment delivery—while giving potential clients an easy way to learn about the company and get in touch.
+<item><title>Transport Company Website</title><link>https://www.freelancer.com/projects/web-design/Transport-Company-Website</link><guid isPermaLink="false">freelancer:40756802</guid><pubDate>Thu, 08 Oct 2026 06:57:14 GMT</pubDate><description>250-750 AUD | I’m ready to launch a modern, sleek online presence for a transport provider of general and specialised freight, that showcases exactly who we are and what we do. The site is strictly informational, so instead of carts and checkouts the focus is on storytelling, credibility and clear calls to action.
 
-Scope of work  
-• Three core pages: About Us, Services, Contact Us  
-• Mobile-friendly layout with fast load times  
-• Service page that highlights the three transport options clearly  
-• Contact page with a simple enquiry form and click-to-call phone link (no payment gateway or live tracking required right now)
+CTA:
+Generating clicks on a 'contact us' style form for new perspective businesses
 
-Design preferences  
-Clean medical look, light colours, legible fonts, and a professional but approachable feel. WordPress, Wix, or a lightweight hand-coded solution is fine—as long as future edits for text and images are straightforward.
+Content &amp; structure  
+• Company values/value propersition– a narrative page that explains our values and value propersitions.  
+- numbers that back up some of our promisses/what its like to work with us type
+• Services offered – concise sections for each logistics solution, supported by imagery or simple icons.  
+• About us – photos, short bios and LinkedIn links 
+• Contact page, enquiry form and click-to-call numbers, CTA 
+
+Look &amp; feel  
+Think contemporary: clean lines, bold typography, ample white space and a colour palette that aligns with our existing branding. Subtle scroll animations and micro-interactions are welcome.
+
+Tech &amp; maintenance  
+WordPress 
+
+Deliverables  
+• High-fidelity mock-ups for approval  
+• Fully responsive website (desktop, tablet, mobile)  
+• Brief hand-over guide or video walk-through
 
 Acceptance criteria  
-1. All pages render correctly on desktop and mobile.  
-2. Content for each service is displayed as separate sections on the Services page.  
-3. Contact form sends enquiries to my email with a confirmation message to the user.  
-4. Final site handed over with instructions for basic text/image updates.
+• Pages load in under 3 seconds on GTmetrix  
+• Layout and functionality pass cross-browser testing (Chrome, Safari, Edge, Firefox)  
+• All text and images editable via the CMS  
+• Final site mirrors approved mock-ups pixel-perfectly
 
-Please let me know your proposed platform and timeframe so we can get started right away.</description></item>
+If this sounds like your wheelhouse, let’s talk timelines and milestones so we can get this transport company online and looking sharp.</description></item>
 <item><title>Slot Machine E-commerce shop</title><link>https://www.freelancer.com/projects/php/Slot-Machine-commerce-shop</link><guid isPermaLink="false">freelancer:40756743</guid><pubDate>Thu, 08 Oct 2026 06:16:47 GMT</pubDate><description>250-750 AUD | I need a complete online store where customers can browse and buy our  slot machines and parts with zero friction. The catalogue must be easy to expand and organised by clear categories, so powerful search and filter capabilities are essential. Because we ship to several regions, I also require built-in multilingual support—English to start, with the ability to add more languages later without a full rebuild.
 
 Taking high-value payments online is critical, so I want a secure, PCI-compliant gateway (Stripe, Authorize.Net or a comparable solution) integrated and fully tested. Responsive design, fast load times and an intuitive checkout flow are must-haves so our buyers, many of whom are using tablets on the casino floor, can complete a purchase effortlessly.
