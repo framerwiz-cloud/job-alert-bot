@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Budget Medical Courier Website Build</title><link>https://www.freelancer.com/projects/web-design/Budget-Medical-Courier-Website-Build</link><guid isPermaLink="false">freelancer:40756762</guid><pubDate>Thu, 08 Oct 2026 06:30:43 GMT</pubDate><description>30-250 CAD | I need a clean, professional website that introduces my new medical courier service without blowing the roughly $75 budget I have set aside for the launch. The site’s main goal is to outline what I deliver—Prescription delivery, Lab specimen transport, and Medical equipment delivery—while giving potential clients an easy way to learn about the company and get in touch.
+
+Scope of work  
+• Three core pages: About Us, Services, Contact Us  
+• Mobile-friendly layout with fast load times  
+• Service page that highlights the three transport options clearly  
+• Contact page with a simple enquiry form and click-to-call phone link (no payment gateway or live tracking required right now)
+
+Design preferences  
+Clean medical look, light colours, legible fonts, and a professional but approachable feel. WordPress, Wix, or a lightweight hand-coded solution is fine—as long as future edits for text and images are straightforward.
+
+Acceptance criteria  
+1. All pages render correctly on desktop and mobile.  
+2. Content for each service is displayed as separate sections on the Services page.  
+3. Contact form sends enquiries to my email with a confirmation message to the user.  
+4. Final site handed over with instructions for basic text/image updates.
+
+Please let me know your proposed platform and timeframe so we can get started right away.</description></item>
 <item><title>Slot Machine E-commerce shop</title><link>https://www.freelancer.com/projects/php/Slot-Machine-commerce-shop</link><guid isPermaLink="false">freelancer:40756743</guid><pubDate>Thu, 08 Oct 2026 06:16:47 GMT</pubDate><description>250-750 AUD | I need a complete online store where customers can browse and buy our  slot machines and parts with zero friction. The catalogue must be easy to expand and organised by clear categories, so powerful search and filter capabilities are essential. Because we ship to several regions, I also require built-in multilingual support—English to start, with the ability to add more languages later without a full rebuild.
 
 Taking high-value payments online is critical, so I want a secure, PCI-compliant gateway (Stripe, Authorize.Net or a comparable solution) integrated and fully tested. Responsive design, fast load times and an intuitive checkout flow are must-haves so our buyers, many of whom are using tablets on the casino floor, can complete a purchase effortlessly.
@@ -228,50 +246,6 @@ Acceptance criteria
 4. A brief hand-off document outlining next steps for optimisation and budget allocation.
 
 I already have the Shopify subscription and a fresh Facebook Business Manager account ready to connect. If you’re confident with Shopify, Oberlo/DSers, Meta Ads Manager, and the usual analytics tools, your expertise would be invaluable. Let’s get this store earning.</description></item>
-<item><title>WordPress to Squarespace Migration</title><link>https://www.freelancer.com/projects/squarespace/WordPress-Squarespace-Migration-40755815</link><guid isPermaLink="false">freelancer:40755815</guid><pubDate>Wed, 07 Oct 2026 17:38:16 GMT</pubDate><description>250-750 USD | We are a Dubai-based luxury interiors and fit-out company moving our existing website to Squarespace, and we are looking for someone experienced to rebuild it for us.
-
-This is a faithful rebuild, not a redesign. We want the same site we have now, recreated cleanly on Squarespace. We are not looking for new design ideas, new copy, or new images. Everything is provided and the current site is live for you to see exactly what to match.
-
-Current site to copy: https://fdc-interiors.com
-
-Scope: 18 pages in total.
-
-	•	6 main pages: Home, Our Story, Expertise, Portfolio, Media, Contact
-	•	12 portfolio galleries (Cartier, Tiffany, Dior, Delvaux, Jimmy Choo, Vacheron, Piaget, Louis Vuitton, Chloe, Balmain, Burma, Special Projects)
-	•	A shared navigation menu and footer on every page, matching the current site
-
-What you will receive from us:
-
-	•	129 images, the full-quality originals, already cleaned and numbered and grouped by page
-	•	An index spreadsheet showing exactly where each numbered image goes
-	•	All page text, which is on the live site to copy
-	•	A written one-page guidelines document
-	•	Editor (contributor) access to our Squarespace account
-
-What we need you to do:
-
-	•	Recreate all 18 pages on Squarespace to closely match the current layout, sections, structure and overall look
-	•	Make it mobile responsive, which Squarespace handles by default
-	•	Build the galleries as clean image galleries, photos only
-	•	Use the images and text we provide, placed as per our index
-
-A few practical notes:
-
-	•	The work is done entirely inside Squarespace. You will not need, and will not be given, any WordPress, hosting, or domain logins.
-	•	You will be added as a contributor to our account. We own the account.
-	•	We will handle connecting the domain ourselves at the end, so there is nothing sensitive for you to touch.
-	•	Please do not worry about SEO migration, e-commerce, or custom code. This is a straightforward brochure site.
-
-Because the content is all supplied and the design is a direct copy, this is mostly careful assembly work rather than creative design, so it should be quick for someone who knows Squarespace well.
-
-Please reply with:
-
-	•	A fixed price for the complete job
-	•	Your delivery timeline
-	•	One or two examples of Squarespace sites you have built
-	•	Confirmation that you have read this and can start soon
-
-Thank you, and I look forward to your quote.</description></item>
 <item><title>WordPress to Squarespace Migration -- 2</title><link>https://www.freelancer.com/projects/squarespace/WordPress-Squarespace-Migration-40755818</link><guid isPermaLink="false">freelancer:40755818</guid><pubDate>Wed, 07 Oct 2026 17:38:13 GMT</pubDate><description>250-750 USD | We are a Dubai-based luxury interiors and fit-out company moving our existing website to Squarespace, and we are looking for someone experienced to rebuild it for us.
 
 This is a faithful rebuild, not a redesign. We want the same site we have now, recreated cleanly on Squarespace. We are not looking for new design ideas, new copy, or new images. Everything is provided and the current site is live for you to see exactly what to match.
