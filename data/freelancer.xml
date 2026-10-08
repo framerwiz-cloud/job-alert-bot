@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Performance and Accessibility Enhancement</title><link>https://www.freelancer.com/projects/google-website-optimizer/Website-Performance-Accessibility</link><guid isPermaLink="false">freelancer:40756262</guid><pubDate>Thu, 08 Oct 2026 00:21:53 GMT</pubDate><description>250-750 AUD | Performance (get LCP from 12.1s to under 2.5s)
+Hero media fix — loading="eager" + fetchpriority="high" on the first section's image, plus a &lt;link rel="preload"&gt; for it in theme.liquid; no lazy-loading on anything above the fold
+Defer/remove unused JavaScript (~383 KiB) — non-critical theme + third-party scripts get defer/async or removal
+Trim unused CSS (~116 KiB)
+Render-blocking requests — restructure how scripts/styles load in theme.liquid (~260ms)
+Explicit width/height on all image elements
+Delete dead app-block references in theme JSON (Pandectes leftovers)
+Remove orphaned scripts in theme.liquid from uninstalled apps (search: blocky, mida, teemdrop, cwill)
+Accessibility (get from 70 to 90+)
+Alt text on every content image
+Colour contrast on text/buttons to 4.5:1
+Named links/buttons — no empty &lt;a&gt; icon links, proper aria-labels
+Heading order — single H1, no skipped levels
+Form labels — visible labels or aria-label on inputs (search, newsletter)
+Terms for the job
+Work on a duplicated theme first; publish only after review
+Payment on results: mobile LCP &lt; 2.5s, Performance 85+, Accessibility 90+, median of 3 PageSpeed runs, and add-to-cart/cart/reviews/chat all still working</description></item>
 <item><title>Advanced Helmet Customizer Development</title><link>https://www.freelancer.com/projects/3d-modelling/Advanced-Helmet-Customizer-Development</link><guid isPermaLink="false">freelancer:40756257</guid><pubDate>Thu, 08 Oct 2026 00:19:50 GMT</pubDate><description>1500-3000 GBP | HELMET CONFIGURATOR
 
 References: https://web.archive.org/web/20231021111903/https://www.helmade.com/de/helme/motorsport/ and customhelmetskdesigns.com. We want this type of journey taken much further and integrated into WordPress/WooCommerce.
@@ -959,19 +976,6 @@ Key expectations
 • Final check: load-speed, clean navigation, and error-free display on the latest versions of Chrome, Safari, Edge and Firefox.
 
 Once the twelve pages meet the brief, we’ll move to sign-off.</description></item>
-<item><title>WordPress Affiliate Blog Setup</title><link>https://www.freelancer.com/projects/web-development/WordPress-Affiliate-Blog-Setup</link><guid isPermaLink="false">freelancer:40753827</guid><pubDate>Tue, 06 Oct 2026 19:06:04 GMT</pubDate><description>20-250 GBP | I need a new WordPress site built specifically for product-endorsement blogging so I can start earning through affiliate links right away. I already have hosting ready; you will install and configure WordPress, choose or customise a modern, mobile-first theme, and set up the core pages (Home, Blog, About, Contact).
-
-The look and feel must be clean and contemporary—think generous white space, crisp typography, bold feature images, and intuitive navigation. A visible search bar at the top of every page is essential, and each post must display share buttons that let readers push content straight to the major social platforms. I might add a newsletter later, so please keep that possibility in mind when selecting plugins or building the layout.
-
-Deliverables  
-• Fully configured WordPress installation on my host  
-• Modern responsive theme installed and customised to match the brief  
-• Search bar positioned prominently site-wide  
-• Social media integration on posts and pages (share buttons + open-graph tags)  
-• Basic SEO and performance plugins installed and configured  
-• Clear hand-off notes so I can add content, insert affiliate links, and extend features such as a newsletter without breaking anything
-
-I will need logos, colour preferences, and affiliate programmes once we start. Let me know your estimated timeframe and what theme or page-builder (if any) you plan to use.</description></item>
 <item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 18:24:52 GMT</pubDate><description>5-10 GBP/hr | # Developer Needed for Multipurpose AI Agent — OpenAI, Mistral, n8n
 
 ### Job Description
