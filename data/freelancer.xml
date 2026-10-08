@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Slot Machine E-commerce shop</title><link>https://www.freelancer.com/projects/php/Slot-Machine-commerce-shop</link><guid isPermaLink="false">freelancer:40756743</guid><pubDate>Thu, 08 Oct 2026 06:16:47 GMT</pubDate><description>250-750 AUD | I need a complete online store where customers can browse and buy our  slot machines and parts with zero friction. The catalogue must be easy to expand and organised by clear categories, so powerful search and filter capabilities are essential. Because we ship to several regions, I also require built-in multilingual support—English to start, with the ability to add more languages later without a full rebuild.
+
+Taking high-value payments online is critical, so I want a secure, PCI-compliant gateway (Stripe, Authorize.Net or a comparable solution) integrated and fully tested. Responsive design, fast load times and an intuitive checkout flow are must-haves so our buyers, many of whom are using tablets on the casino floor, can complete a purchase effortlessly.
+
+Please deliver:  
+• A fully developed, production-ready e-commerce site (Shopify, WooCommerce, Magento or a custom Laravel/React build—whichever you recommend for long-term scalability).  
+• Admin dashboard where I can add new machines, update inventory and manage orders without touching code.  
+• Language management feature that lets me plug in additional translations.  
+• End-to-end QA demonstrating secure payment processing and functional search/filter logic.  
+• Deployment to my hosting environment and a brief hand-off walkthrough or video so I can manage the store confidently.
+
+this is the website layout I'm currently looking for https://themoderncave.com.au
+a simple e commerce layout and user friendly</description></item>
 <item><title>Shopify E-commerce Manager Needed</title><link>https://www.freelancer.com/projects/digital-marketing/Shopify-commerce-Manager-Needed-40756530</link><guid isPermaLink="false">freelancer:40756530</guid><pubDate>Thu, 08 Oct 2026 03:49:28 GMT</pubDate><description>25-50 USD/hr | We are looking for an experienced Shopify E-commerce Manager with a proven track record in managing online stores and driving sales growth.
 
 The ideal candidate should have hands-on experience with Shopify, e-commerce operations, product research, and paid advertising. We are looking for someone who understands how to test products, analyze campaign performance, optimize a store, and turn data into practical actions.
@@ -920,17 +933,6 @@ Deliverables
 4. One short recorded walkthrough so I can see the admin flow in real time.
 
 I’ll supply branding, product spreadsheets, and any API keys you recommend for payments or inventory sync the moment we start. If you have prior experience building heavy-catalog e-commerce on Wix or Squarespace, please mention it along with links to live examples.</description></item>
-<item><title>Bluehost to Squarespace Migration</title><link>https://www.freelancer.com/projects/squarespace/Bluehost-Squarespace-Migration</link><guid isPermaLink="false">freelancer:40753889</guid><pubDate>Tue, 06 Oct 2026 19:49:33 GMT</pubDate><description>30-250 USD | I’m ready to move my current site off Bluehost and rebuild it on Squarespace without losing anything that matters. The site includes a growing blog and an active e-commerce section, and members log in for gated content, so these three elements—blog posts, product catalog with orders, and user-login functionality—must be fully reproduced and tested on the new platform.
-
-Here’s what I expect by the end of the project:
-
-• All existing pages, posts, products, and media migrated and formatted to match (or improve on) the current look.  
-• Squarespace’s built-in Member Areas configured so current users can sign in seamlessly after launch.  
-• DNS cut-over handled, along with SSL and email routing checks.  
-• SEO settings (titles, meta descriptions, slugs, 301 redirects) carried across so rankings stay intact.  
-• A quick walkthrough so I can manage future content on my own.
-
-I’ll supply Bluehost credentials, the current site export, and access to my Squarespace account as soon as we start. Let me know your estimated timeline and any similar migrations you’ve carried out—especially those involving user logins or online stores—so I can hit the ground running with the right partner.</description></item>
 <item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 18:24:52 GMT</pubDate><description>5-10 GBP/hr | # Developer Needed for Multipurpose AI Agent — OpenAI, Mistral, n8n
 
 ### Job Description
