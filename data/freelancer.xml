@@ -99,15 +99,6 @@ Acceptance criteria:
 • CMS training hand-off and documentation delivered.
 
 Please share links to two or three healthcare or B2B service sites you’ve overhauled, outline the CMS you recommend, and note your timeline to first interactive prototype once assets are supplied.</description></item>
-<item><title>Custom Medium Header Design</title><link>https://www.freelancer.com/projects/web-design/Custom-Medium-Header-Design</link><guid isPermaLink="false">freelancer:40757969</guid><pubDate>Thu, 08 Oct 2026 19:13:07 GMT</pubDate><description>30-250 USD | I’m refreshing my Medium profile and need a header that mirrors the look and feel of my existing landing page. The page already establishes the palette and overall mood, so the new header simply has to follow suit—no need to reinvent colors or typography.  
-
-Key points to incorporate:  
-• Include my brand’s tagline prominently.  
-• Add clear navigation links that match the style of my site (exact labels and URL targets will be supplied).  
-
-All other visual cues—shades, accent colors, possible font pairings—can be lifted directly from the landing page; I’ll provide the URL as soon as we start. I’ve also completed my “About” section on Medium and uploaded a profile photo, so the header just needs to flow naturally with those elements.  
-
-Final deliverable should be a ready-to-upload header (PNG/SVG plus the source file) sized correctly for Medium’s layout, with any code snippet or embed instructions if necessary. Once delivered, I’ll do a quick cross-device check; as long as the tagline and links render crisply on desktop and mobile, the project is done.</description></item>
 <item><title>API Integration for Travel Marketplace</title><link>https://www.freelancer.com/projects/api-integration/API-Integration-for-Travel-Marketplace</link><guid isPermaLink="false">freelancer:40757968</guid><pubDate>Thu, 08 Oct 2026 19:13:00 GMT</pubDate><description>12-18 EUR/hr | I run a travel marketplace (frankenbridge.com) with a working Cloudflare Worker that proxies the Bókun API into a React tour-browser app on WordPress. I want to add many more external tour and activity suppliers, but I don’t know which booking system each one uses. Some may be OCTO/Ventrata, Rezdy, FareHarbor, TourCMS or Checkfront, and others may have a custom API, an XML feed or none at all. I need an expert who has integrated many of these systems. First, identify what each supplier uses and the best way to connect it, and tell me honestly when an integration isn’t worth building. Then build the integrations so tours, availability and prices appear in one unified grid and bookings reach the right supplier. Keep supplier keys server-side and document everything. You work on staging with sandbox credentials only; I never share production keys. I’m starting with a paid audit of my first few suppliers, then we agree the build step by step. Please propose your own audit fee and hourly rate.    
 
 
@@ -931,6 +922,18 @@ Acceptance criteria:
 3. All assets and design files are provided upon completion, organised and labelled for easy development.
 
 If you can combine clean aesthetics with practical UX thinking, I’d love to see your proposal and a few relevant samples.</description></item>
+<item><title>Web-Based Project Management Software Development</title><link>https://www.freelancer.com/projects/web-development/Web-Based-Project-Management-Software</link><guid isPermaLink="false">freelancer:40755289</guid><pubDate>Wed, 07 Oct 2026 12:23:13 GMT</pubDate><description>750-1500 GBP | Looking for an experienced AI / full-stack software developer.
+* Development of a construction-industry AI web application.
+* AI integration for document and drawing analysis.
+* PDF upload, viewing and processing.
+* AI-assisted generation of technical/compliance outputs.
+* Project/user dashboard and secure document storage.
+* Modern, professional SaaS-style interface.
+* Experience with OpenAI/LLMs, React/Next.js, cloud databases and PDF processing preferred.
+* Construction/CAD/BIM software experience advantageous.
+* Initial MVP/V1 development, with significant ongoing development potential.
+* Full source code and IP ownership to transfer to us.
+* Detailed functionality and concept provided to shortlisted developers under NDA.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
