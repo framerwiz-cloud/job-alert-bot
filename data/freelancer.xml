@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Editable 5-Page Car Ads Website</title><link>https://www.freelancer.com/projects/css/Editable-Page-Car-Ads-Website</link><guid isPermaLink="false">freelancer:40757785</guid><pubDate>Thu, 08 Oct 2026 16:53:48 GMT</pubDate><description>20-250 GBP | I’m building a small, modern-looking site where visitors can browse bite-sized ads for new and used cars and where I, as the sole admin, can update every piece of content from a clean dashboard.
+
+The structure is straightforward:
+
+• Homepage – shows a live stream of “mini-ads” pulled from my database. These posts mix petrol, hybrid, and electric cars in one feed.  
+• Pages 2, 3, and 4 – each repeats the same mini-ad layout but filters the feed so only Petrol, Hybrid, or Electric cars appear respectively. Every ad slot needs an upload/edit panel in the dashboard where I can enter Make, Model, Version, Price, Mileage (for used vehicles), one photo, and a short caption.  
+• Page 5 – a simple form with 20 fields (16 checkboxes, 4 text inputs). On submit, it must send all data to a single Gmail address and show a short success message.
+
+Key requirements I need you to follow:
+
+• Look &amp; feel: modern, minimalist, fully responsive.  
+• Tech stack: plain custom HTML, CSS, and vanilla JS on the front end. I’m fine with any lightweight backend language you prefer for the upload logic and mail function, as long as the final code stays framework-free on the front end.  
+• Dashboard: one secure admin login only. I should be able to add, edit, reorder, or delete mini-ads without touching code.  
+• Email: no third-party form services—just a direct server-side send to my Gmail account.  
+
+Acceptance criteria: the site loads fast, all five pages render correctly on mobile and desktop, the admin panel works without console errors, form submissions arrive in my inbox, and I receive a concise hand-off guide so I can manage future edits alone.
+
+If this sounds clear and feasible, let’s get started.</description></item>
 <item><title>Full-Stack Ecommerce Website Development | Cutieland</title><link>https://www.freelancer.com/projects/wordpress/Full-Stack-Ecommerce-Website-Development</link><guid isPermaLink="false">freelancer:40757739</guid><pubDate>Thu, 08 Oct 2026 16:21:59 GMT</pubDate><description>400-500 USD | Full-Stack Ecommerce Website Development &amp; Launch | Cutieland
 
 I’m looking for an experienced ecommerce developer to build, configure, test, and launch a complete online store for my business, Cutieland.
@@ -998,33 +1016,6 @@ Acceptance criteria
 5. Source files handed over upon completion.
 
 Please outline your creative process, typical turnaround time, and any relevant portfolio pieces featuring product-focused, B2B designs.</description></item>
-<item><title>Website + SEO + CRM Setup for Early Learning Centre</title><link>https://www.freelancer.com/projects/web-development/Website-SEO-CRM-Setup-for</link><guid isPermaLink="false">freelancer:40754571</guid><pubDate>Wed, 07 Oct 2026 05:27:34 GMT</pubDate><description>750-3000 AUD | We are looking for an experienced freelancer to create a professional, modern website for an early learning/childcare centre in Sydney.
-
-The project includes:
-
-* Custom, mobile-friendly website
-* Approx. 8 pages including Home, About/Centre Story, Learning Approach, Programs, Team, FAQs, Contact and Tour/Enquiry
-* “Request a Tour” and “Send an Enquiry” forms
-* CRM setup to manage parent enquiries, tour requests, follow-up status and notes
-* Basic automated email follow-up
-* Local SEO setup
-* AEO/AI search optimisation
-* Google Business Profile optimisation
-* Google Search Console setup
-* Fast loading, secure and easy for us to update ourselves
-* Full admin/ownership access at completion
-
-Preferred style: warm, premium, natural and family-focused, using olive/green, beige and neutral tones.
-
-Please include in your bid:
-
-1. Total fixed price
-2. Platform you recommend
-3. CRM you recommend and any ongoing costs
-4. Estimated completion time
-5. Number of revisions included
-6. 3 examples of similar websites you have personally built
-7. Confirmation that we will have full ownership/admin access</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
