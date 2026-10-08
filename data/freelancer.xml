@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>React E-commerce to WordPress Conversion</title><link>https://www.freelancer.com/projects/woocommerce/React-commerce-WordPress-Conversion</link><guid isPermaLink="false">freelancer:40757536</guid><pubDate>Thu, 08 Oct 2026 14:21:31 GMT</pubDate><description>250-750 USD | My current website is a hybrid: WordPress in the back-end with several React components powering the storefront and checkout. The job is to rebuild the entire site inside WordPress only, preserve all design and functionality, and keep everything fast, mobile-friendly, and easy to manage from the WP admin.
+
+Core work
+• Re-create every page template, product archive, and single-product view as native WordPress (Gutenberg blocks, lightweight custom theme, or child theme—whatever keeps code lean).  
+• Replace each React element with an equivalent solution in vanilla JS or custom WP so the user experience remains unchanged.
+
+Payment gateway integration
+Once the site is 100 % WordPress, needs to run a seamless checkout flow with PayPal, Stripe, and Square. I have sandbox credentials ready; live keys will follow after testing.
+
+Data &amp; SEO continuity
+Products, customers, orders, SEO settings, and URL structure must stay intact. I’ll provide a full codebase download, database dump, and staging server so you can work safely before going live.
+
+Deliverables
+• New WordPress theme or child theme replicating the existing design  
+• Fully configured store  
+• Secure, tested PayPal, Stripe, and Square integrations (sandbox + live)  
+• Migration of all products, users, and orders with zero data loss  
+• Deployment to production after my approval  
+• Short handover document explaining theme structure, key plugins, and update steps
+
+Acceptance criteria
+1. Site renders and functions identically to the current version across modern browsers and mobile.  
+2. Checkout completes successfully with each gateway in live mode.  
+3. Google Lighthouse performance score ≥ 90 on desktop.
+
+If you have solid  migration experience and can outline a realistic timeline, I’m ready to get started.</description></item>
 <item><title>Create UK Business Info Site</title><link>https://www.freelancer.com/projects/cms/Create-Business-Info-Site</link><guid isPermaLink="false">freelancer:40757493</guid><pubDate>Thu, 08 Oct 2026 13:49:51 GMT</pubDate><description>20-250 GBP | I need an informational website for my UK business that gives visitors our company details and a clear overview of the services we offer—no e-commerce or complex portals, just clean, straightforward information. The site must include three core pages: About Us, Services and Contact Us. Each page should follow our brand style, load quickly, and display perfectly on desktop, tablet and phone.
 
 A user-friendly CMS such as WordPress, Webflow or a comparable platform is preferred so my team can update text and images in-house. Please build with standard best practices for security, accessibility and on-page SEO (titles, meta descriptions, alt tags).
@@ -989,20 +1015,6 @@ Please let me know your price, how long it would take, what is included in your 
 Thank you!
 
 Muse Club London</description></item>
-<item><title>Creative 4-Page Website Build</title><link>https://www.freelancer.com/projects/web-design/Creative-Page-Website-Build</link><guid isPermaLink="false">freelancer:40754039</guid><pubDate>Tue, 06 Oct 2026 21:50:43 GMT</pubDate><description>250-750 USD | I already have my domain and hosting set up on Pork Bun and now I’m ready to launch a small, polished website. The site should feel creative and modern—light on clutter, big on visual impact—while remaining fast and easy to maintain. I already have a logo &amp; visual brand guide (which can be tweaked if needed)
-
-Scope of work  
-• Design and build four responsive pages:  
- 1. Landing / home  
- 2. About me  
- 3. Services  
- 4. Contact (with an embedded contact form and visible social-media icons that I can easily update)  
-
-I’ll supply copy and any images you need once the layout is approved, so you can focus on structuring clean HTML/CSS (or a lightweight WordPress theme, if that’s quicker) and adding subtle interactions that give the site personality without slowing it down. Deployment must be handled through my Pork Bun account; if you’re comfortable pushing via their cPanel or connecting Git, even better.
-
-What will make the hand-off seamless: well-commented code, clear instructions on how I can tweak text or swap images later, and testing across the latest versions of Chrome, Safari, Firefox, Edge, plus mobile.
-
-If this sounds like your kind of build, let’s talk timing and get the design started right away.</description></item>
 <item><title>Elevated X CMS Expert Needed</title><link>https://www.freelancer.com/projects/web-development/Elevated-CMS-Expert-Needed</link><guid isPermaLink="false">freelancer:40753989</guid><pubDate>Tue, 06 Oct 2026 21:12:00 GMT</pubDate><description>50+ USD/hr | Elevated X / ELX Core &amp; Nexus Developer — Ongoing Freelance Work
 
 We operate an established subscription-based adult entertainment website using the Elevated X CMS platform.
@@ -1449,13 +1461,6 @@ Acceptance will be based on:
 4. Third-party integrations authenticated and passing data correctly.  
 
 I’ll provide full access to the current project, brand guidelines, and any API keys you need. Looking forward to a polished, lightning-fast site that feels intuitive and visually striking.</description></item>
-<item><title>E-Commerce Assistant for Batteries</title><link>https://www.freelancer.com/projects/bigcommerce/Commerce-Assistant-for-Batteries</link><guid isPermaLink="false">freelancer:40744496</guid><pubDate>Thu, 01 Oct 2026 13:27:10 GMT</pubDate><description>15-25 USD/hr | I run a BigCommerce store that specializes in lithium iron phosphate (LiFePO₄) batteries, along with complementary battery accessories and a growing line of portable solar panels. I’m now looking for a detail-oriented assistant who already feels at home inside BigCommerce and understands the nuances of selling technical, safety-critical products online.
-
-Your day-to-day work will revolve around keeping the storefront accurate, responsive, and conversion-ready. That means staying on top of product data, inventory status, basic order processing, and first-touch customer queries so nothing falls through the cracks. Because our catalog contains batteries and related gear, accuracy in specifications and shipping compliance is essential.
-
-Success here is simple: the catalogue stays current, orders flow without delay, and customers get clear, timely answers. If you’ve previously managed or assisted a BigCommerce shop—especially in electronics or energy storage—you’ll ramp up quickly. Familiarity with LiFePO₄ terminology, watt-hour calculations, or shipping regulations for batteries is a definite plus.
-
-Let me know about your BigCommerce experience, any battery-related projects you’ve handled, and how soon you could start keeping our store in top shape.</description></item>
 <item><title>Database and Accounting System Development</title><link>https://www.freelancer.com/projects/accounting/Database-Accounting-System-Development</link><guid isPermaLink="false">freelancer:40696442</guid><pubDate>Mon, 07 Sep 2026 13:27:00 GMT</pubDate><description>10-15 GBP/hr | I need a freelancer to build a database and accounting system.
 
 Key Requirements:
@@ -1469,4 +1474,21 @@ Ideal Skills and Experience:
 - Familiarity with CRM integration
 
 Please provide examples of similar work done and your approach to this project.</description></item>
+<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
+
+Requirements:
+- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
+- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
+- Inventory management: Efficient tracking and management of stock levels.
+- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
+
+Ideal Skills:
+- Proven experience in e-commerce, particularly on Amazon
+- Strong background in marketing and promotions
+- Excellent inventory management skills
+- Customer service expertise
+- Proven positive track record with end to end Amazon store management.
+- Experience with Printful to Amazon integrations (Not required but useful)
+
+We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
