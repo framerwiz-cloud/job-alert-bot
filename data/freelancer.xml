@@ -3,6 +3,73 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full-Stack Ecommerce Website Development | Cutieland</title><link>https://www.freelancer.com/projects/wordpress/Full-Stack-Ecommerce-Website-Development</link><guid isPermaLink="false">freelancer:40757739</guid><pubDate>Thu, 08 Oct 2026 16:21:59 GMT</pubDate><description>400-500 USD | Full-Stack Ecommerce Website Development &amp; Launch | Cutieland
+
+I’m looking for an experienced ecommerce developer to build, configure, test, and launch a complete online store for my business, Cutieland.
+
+I already own my domain, cutieland.shop, and want to move away from Shopify. I need an independent, professional website that I fully own and can manage without programming knowledge.
+
+Required Features:
+
+Storefront &amp; Shopping
+
+* Modern, attractive, mobile-friendly website
+* Product listings, categories, search, and filters
+* Product variations, bundles, and discounts
+* Shopping cart and secure checkout
+* Customer accounts, order history, and guest checkout
+
+Payments &amp; Financial Management
+
+* Payment gateway integration (credit/debit cards and supported digital wallets)
+* Payment processing and bank payout setup
+* Refund and cancellation management
+* Automatic sales tax calculations and tax reports
+* Revenue tracking and sales analytics
+
+Orders, Inventory &amp; Shipping
+
+* Complete administrative order management dashboard
+* Automatic inventory deductions after purchases
+* Bundle inventory synchronization
+* Order status management
+* Shipping rates and fulfillment management
+* Pirate Ship integration or a practical compatible workflow
+* Shipping label generation
+* Tracking numbers and customer tracking pages
+* Automated order confirmation, shipping, and tracking emails
+
+Technical Requirements
+
+* Secure hosting configuration and SSL
+* Domain connection and website deployment
+* Database and website backups
+* Basic SEO and performance optimization
+* Full administrative access and ownership of website files, hosting, and data
+* Easy-to-use dashboard for managing products, customers, orders, and inventory
+
+Platform Preferences:
+
+I’m open to WordPress/WooCommerce or another suitable self-hosted solution. AI-assisted development is welcome to reduce costs and development time.
+
+I do not want to rely on Shopify.
+
+Budget: $400-$600 maximum, open to offers.
+
+Please provide:
+
+1. Examples of ecommerce websites you’ve built.
+2. Your proposed platform and development approach.
+3. A complete list of features included within my budget.
+4. Your estimated completion timeline.
+5. Any recurring hosting, software, integration, or maintenance costs.
+6. Confirmation that you can support the intended product categories through an appropriate payment provider.
+
+Final Deliverable:
+
+A fully tested, live ecommerce website with working checkout, payments, inventory, orders, shipping, tracking, and administrator access. I also require a walkthrough explaining how to manage the store independently.
+
+I’m looking for someone who can handle the project from setup through launch, not someone who only provides a design or unfinished template.</description></item>
 <item><title>Fix Big Commerce Shipping Issues</title><link>https://www.freelancer.com/projects/api-integration/Fix-Big-Commerce-Shipping-Issues</link><guid isPermaLink="false">freelancer:40757641</guid><pubDate>Thu, 08 Oct 2026 15:22:20 GMT</pubDate><description>250-750 USD | I'm experiencing multiple shipping-related problems on my Big Commerce store that need urgent resolution. The issues include:
 
 - Incorrect Shipping Rates: Rates during checkout are too high in some cases and inconsistent. 
@@ -958,35 +1025,6 @@ Please include in your bid:
 5. Number of revisions included
 6. 3 examples of similar websites you have personally built
 7. Confirmation that we will have full ownership/admin access</description></item>
-<item><title>Technical SEO &amp; WordPress/WooCommerce Specialist Needed</title><link>https://www.freelancer.com/projects/woocommerce/Technical-SEO-WordPress-WooCommerce</link><guid isPermaLink="false">freelancer:40754427</guid><pubDate>Wed, 07 Oct 2026 03:39:35 GMT</pubDate><description>30-250 USD | need a Technical SEO + WordPress/WooCommerce expert to implement a specific SEO action plan on two websites.
-I already have a detailed Word document with the exact work required. I am NOT looking for:
-blog writing
-backlinks
-a general SEO audit
-monthly SEO services
-I need someone who can actually make the technical changes.
-The work includes:
-WordPress / WooCommerce
-Google Search Console
-Screaming Frog
-Canonical URL fixes
-301 redirects
-Product titles and meta descriptions
-Schema / structured data
-Indexing and noindex settings
-XML sitemap cleanup
-Category structure fixes
-Final crawl and testing
-Estimated first-round work: approximately 14–23 hours.
-I will attach the full step-by-step Word document.
-When bidding, please tell me:
-Have you done technical SEO work on WooCommerce websites?
-Do you personally use Screaming Frog and Google Search Console?
-Can you fix canonicals, schema, redirects and indexing issues yourself?
-How many hours do you estimate after reading the attached document?
-What is your total price?
-When can you start?
-I want a before/after crawl and a list of all changes completed.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
