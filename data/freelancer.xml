@@ -3,24 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Shopify E-commerce Store Build</title><link>https://www.freelancer.com/projects/web-development/Shopify-commerce-Store-Build-40758769</link><guid isPermaLink="false">freelancer:40758769</guid><pubDate>Fri, 09 Oct 2026 07:32:32 GMT</pubDate><description>250-750 USD | I’m ready to sell my physical products online and have chosen Shopify as the platform. What I need now is a fully-functional, conversion-focused storefront that looks great on every device and is simple for me to maintain once it’s live.
-
-Scope of work  
-• Set up a new Shopify account (or optimise an existing one) and configure the core settings: currency, taxes, payments, and shipping rates for both domestic and international orders.  
-• Design a clean, modern theme that matches my brand colours and typography, including customised product pages, collection pages, cart, and checkout.  
-• Create logical navigation and add example products so I can see how best to structure titles, descriptions, images, and variants.  
-• Integrate essential apps or native features for inventory tracking, discount codes, abandoned-cart recovery, and email capture.  
-• Apply on-page SEO basics—meta titles, descriptions, alt text—so the store is search-ready from day one.  
-• Connect the domain, set up SSL, and test the entire purchase flow end-to-end to be sure transactions process smoothly.  
-• Record a quick walkthrough (screen share or written guide) showing me how to add new products, fulfil orders, and run simple promotions.
-
-Acceptance criteria  
-✓ Store passes Shopify’s pre-launch checklist with no critical warnings  
-✓ Desktop, tablet, and mobile views display correctly in current versions of Chrome, Safari, and Edge  
-✓ Test order processes from cart to confirmation email without errors  
-✓ Handover includes theme files, brand assets used, and the management guide
-
-If you have a portfolio of previous Shopify builds—especially those focused on physical goods—share the links so I can see your approach to product presentation and user flow. Let’s create a store that feels professional from its very first visitor and gives me the confidence to manage it independently going forward.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
@@ -1212,6 +1194,29 @@ Looking for someone who can tailor Asana to our specific requirements and improv
 • نماذج تفاعلية جاهزة للاختبار مع فريق التطوير
 
 الموعد المطلوب للتسليم في أقرب وقت ممكن، لذا أرجو أن ترفق في عرضك مقترحاً تفصيلياً يشمل مراحل العمل والجدول الزمني.</description></item>
+<item><title>Personal company  Website with all the functions needed and similar to other sample sites i will provide.</title><link>https://www.freelancer.com/projects/wordpress/Personal-company-Website-with-all</link><guid isPermaLink="false">freelancer:40755907</guid><pubDate>Wed, 07 Oct 2026 18:59:27 GMT</pubDate><description>250-750 USD | I need a single-page site that mirrors the look and feel of our existing main website while focusing entirely on today’s interest-rate offering. The page must be laid out in a clear, corporate-professional style and load quickly on all modern browsers and mobile devices.
+
+I want to mimic these sites:
+https://origna8.com/
+and 
+https://sinocruzmortgage.com/
+
+Core elements
+• Dynamic table or module that lets me update interest rates easily (manually through the CMS or via a simple CSV/JSON feed—open to your advice).  
+• Highly visible buttons that point to our online application and to a downloadable PDF version.  
+• Native contact form (name, email, phone, message) that delivers submissions to my company inbox and logs them in the site’s back-end.  
+• Short testimonial carousel—logo, quote, name/title—for added credibility.
+
+Visual direction
+Think clean blues and greys, balanced white space, typography consistent with our primary site, and plenty of room for rate tables to breathe. I will provide brand guidelines, fonts, logos, and a staging link to the main site for reference.
+
+Tech &amp; hand-off
+Please build in WordPress (Elementor or Gutenberg blocks are fine) or lightweight HTML/CSS with a simple script for the rate table—whichever you feel keeps maintenance low and performance high. When finished, hand over:  
+1. Fully responsive, production-ready files / or WordPress export  
+2. Instructions for updating rates and testimonials  
+3. Any custom code commented and documented
+
+Timeline is flexible but I’d like an initial draft within a week once assets are shared.</description></item>
 <item><title>Divi WordPress E-Commerce Developer Needed</title><link>https://www.freelancer.com/projects/woocommerce/Divi-WordPress-Commerce-Developer-Needed</link><guid isPermaLink="false">freelancer:40755741</guid><pubDate>Wed, 07 Oct 2026 16:42:31 GMT</pubDate><description>8-15 USD/hr | I’m looking for a WordPress developer who already feels at home inside the Divi Builder.  The immediate priorities on my site are to introduce full e-commerce capability, tighten up on-page SEO, and build a couple of bespoke forms/plugins that tie everything together.
 
 E-commerce scope  
