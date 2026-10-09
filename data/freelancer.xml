@@ -3,10 +3,7 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Retro Game Challenge Website</title><link>https://www.freelancer.com/projects/web-development/Retro-Game-Challenge-Website</link><guid isPermaLink="false">freelancer:40759342</guid><pubDate>Fri, 09 Oct 2026 14:44:32 GMT</pubDate><description>250-750 USD | I’m building a site that lets players post and track video-game challenges the way speedrun.com tracks record times. The job covers three connected pieces of work:
-
-• Website design and build  
-The site must be clean, fast and fully responsive. Core screens include the public challenge listings, individual challenge pages with leaderboards, and a community hub. Accounts will feature user profiles that display earned badges, plus discussion boards and real-time chat so players can trade tips while runs are in progress.
+<item><title>Retro Game Challenge Website</title><link>https://www.freelancer.com/projects/web-development/Retro-Game-Challenge-Website</link><guid isPermaLink="false">freelancer:40759342</guid><pubDate>Fri, 09 Oct 2026 14:47:23 GMT</pubDate><description>250-750 USD | I’m building a site that lets players post and track video-game challenges the way speedrun.com tracks record times. The job covers three connected pieces of work:
 
 • Badge system  
 Every challenge will award a bespoke badge. I need a simple back-office tool (even a JSON/CSV-driven script is fine) that lets me create and upload new badge graphics, set unlock conditions and have them appear automatically in user profiles.
