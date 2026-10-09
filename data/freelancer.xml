@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>3-Product Responsive Shopify Store</title><link>https://www.freelancer.com/projects/ecommerce/Product-Responsive-Shopify-Store</link><guid isPermaLink="false">freelancer:40759508</guid><pubDate>Fri, 09 Oct 2026 16:27:19 GMT</pubDate><description>250-750 USD | I need a Shopify storefront built around three physical products. Everything must look and feel seamless on both desktop and mobile, with fast load times and a checkout flow that keeps buyers focused on completing their purchase. Some development work has been done see drsdiet.myshopify.com
+
+Theme &amp; design  
+I’m open to any theme you think best suits a lean catalogue—feel free to recommend a premium or free template as long as it stays lightweight, modern and conversion-oriented. Colours, fonts and imagery should align with a clean, trustworthy brand aesthetic.
+
+Core requirement: AI-driven SEO  
+The site has to launch with solid on-page SEO already in place. Please configure or suggest an AI SEO app (e.g., SEO Booster, Tapita, etc.) that can auto-generate meta tags, product descriptions and ongoing optimisation prompts so I’m set up for organic traffic from day one.
+
+General scope  
+• Upload and configure the three products with high-quality photos, variants (if any), prices and inventory tracking.  
+• Set up payments, shipping zones and automated tax settings suitable for physical goods.  
+• Implement customer-friendly policies (refunds, shipping, privacy) and link them in the footer.  
+• Add any standard sections such as About, Contact and a simple blog that the AI SEO tool can leverage for content suggestions. 
+cookie collection disclaimer pop-up
+• Test all views—desktop, tablet and mobile—to guarantee responsiveness and no layout breaks.
+
+Acceptance criteria  
+1. All pages pass Shopify’s speed and mobile usability tests.  
+2. AI SEO tool installed, configured and showing no critical errors.  
+3. Checkout works end-to-end with a test order.  
+4. You hand over theme files, app list and a short walkthrough video so I can manage updates myself.
+
+If this sounds straightforward for you, let’s discuss your preferred theme choice and timeline so we can get the store live quickly.</description></item>
 <item><title>Clone &amp; Redesign Carbus24 Website</title><link>https://www.freelancer.com/projects/web-development/Clone-Redesign-Carbus-Website</link><guid isPermaLink="false">freelancer:40759495</guid><pubDate>Fri, 09 Oct 2026 16:22:39 GMT</pubDate><description>100000-300000 USD | I want an exact functional replica of www.carbus24.com built from the ground up, then taken a step further with a major visual overhaul. The structure, pages, search/filter logic, vehicle-listing features, and enquiry forms must all behave exactly as on the original site, but the finished product has to look and feel fresh through a completely new colour palette and modern typography.
 
 I am open to the stack you choose—WordPress, custom PHP/Laravel, React, or another framework—as long as the code is clean, responsive, SEO-friendly, and easy for me to maintain afterward. You will handle everything from cloning the front- and back-end functionality to implementing the redesigned styles, migrating sample data for testing, and deploying the site to my hosting.
@@ -328,53 +351,6 @@ Nice to have:
 - UI/UX copy review
 - Technical/software background
 - Experience with localization QA tools</description></item>
-<item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website -- 2</title><link>https://www.freelancer.com/projects/php/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758894</guid><pubDate>Fri, 09 Oct 2026 08:40:21 GMT</pubDate><description>15-25 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
-
-The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
-
-The developer will need to inspect the existing codebase, identify the root causes of the reported issues, implement appropriate fixes, and thoroughly test the changes without negatively affecting existing website functionality.
-
-Scope of Work
-
-1. Sign-In Functionality
-
-Investigate and fix issues preventing users from signing in successfully.
-Verify email and password authentication.
-Ensure appropriate handling of invalid credentials and authentication failures.
-Fix issues with form submission, button actions, and loading states.
-Verify that users are redirected to the correct page after successful login.
-Check session handling and ensure authenticated users remain signed in as expected.
-Investigate and fix Google sign-in if it is affected or not functioning correctly.
-
-2. Sign-Up and User Registration
-
-Investigate and fix issues with new user registration.
-Ensure users can complete the registration process successfully.
-Validate required fields, email formats, and password requirements.
-Display clear and helpful validation messages when information is missing or invalid.
-Prevent duplicate submissions and handle existing accounts appropriately.
-Verify that newly registered users are processed correctly by the backend and database.
-Fix any issues with registration confirmation or email verification, if applicable.
-
-3. UI Fixes and Improvements
-
-Identify and fix visual issues on the sign-in and sign-up pages.
-Correct alignment, spacing, padding, margins, and element sizing.
-Improve the layout and consistency of input fields, buttons, labels, links, and form containers.
-Ensure input fields and buttons display correctly in their default, focused, disabled, loading, and error states.
-Fix overlapping elements, broken layouts, inconsistent typography, and other visual defects.
-
-Ideal Candidate
-
-The ideal developer has experience debugging existing web applications, fixing authentication issues, improving frontend UI, and troubleshooting frontend/backend integration.
-
-Please review the existing website before submitting your proposal. In your bid, briefly describe your relevant experience, how you would investigate these issues, your estimated completion time, and any information you would need to get started.
-
-The priority is to fix the underlying problems efficiently while preserving the website's existing functionality and visual identity.
-
-Skills Required
-
-Web Development, JavaScript, Typescript, Node.js, Next.js, Postgresql, API Integration, Web Security, Software Testing</description></item>
 <item><title>Creative Multi-Section Blog and Shop - 09/10/2026 04:24 EDT</title><link>https://www.freelancer.com/projects/blog-design/Creative-Multi-Section-Blog-Shop</link><guid isPermaLink="false">freelancer:40758860</guid><pubDate>Fri, 09 Oct 2026 08:25:28 GMT</pubDate><description>750-1500 GBP | I'm looking for a small website where I can blog and post my creative written content and pictures. The site should also include a small shop to enable sales of PDF versions of my work.
 
 The website should include the following sections:
@@ -1094,19 +1070,6 @@ Final Deliverable:
 A fully tested, live ecommerce website with working checkout, payments, inventory, orders, shipping, tracking, and administrator access. I also require a walkthrough explaining how to manage the store independently.
 
 I’m looking for someone who can handle the project from setup through launch, not someone who only provides a design or unfinished template.</description></item>
-<item><title>Fix Big Commerce Shipping Issues</title><link>https://www.freelancer.com/projects/api-integration/Fix-Big-Commerce-Shipping-Issues</link><guid isPermaLink="false">freelancer:40757641</guid><pubDate>Thu, 08 Oct 2026 15:22:20 GMT</pubDate><description>250-750 USD | I'm experiencing multiple shipping-related problems on my Big Commerce store that need urgent resolution. The issues include:
-
-- Incorrect Shipping Rates: Rates during checkout are too high in some cases and inconsistent. 
-- Carrier Integration Problems: Some locations cannot be shipped to at all.
-- Checkout Process Errors: Overall, the checkout process is error-prone due to the above issues.
-
-Ideal skills and experience for this job:
-- Proven expertise in Big Commerce
-- Strong understanding of shipping integrations and rate calculations
-- Experience troubleshooting checkout process errors
-- Attention to detail and problem-solving skills
-
-Please provide examples of similar work done. Looking forward to your bids!</description></item>
 <item><title>Automations For Google Ads &amp; Wordpress</title><link>https://www.freelancer.com/projects/google-ads/Automations-For-Google-Ads-Wordpress</link><guid isPermaLink="false">freelancer:40757554</guid><pubDate>Thu, 08 Oct 2026 14:31:07 GMT</pubDate><description>15-25 CAD/hr | Basic automations linking Google ads, and Wordpress websites to a Google sheet.</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
@@ -1623,4 +1586,21 @@ Ideal Skills and Experience:
 - Familiarity with CRM integration
 
 Please provide examples of similar work done and your approach to this project.</description></item>
+<item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
+
+Requirements:
+- Store setup and product listing: We need an appealing and optimized store, with all products listed professionally from the get-go.
+- Product sourcing: We expect high-quality, trendy clothing that's competitively priced.
+- Inventory management: Efficient tracking and management of stock levels.
+- Customer service and returns: Excellent customer service to handle inquiries and returns promptly and professionally.
+
+Ideal Skills:
+- Proven experience in e-commerce, particularly on Amazon
+- Strong background in marketing and promotions
+- Excellent inventory management skills
+- Customer service expertise
+- Proven positive track record with end to end Amazon store management.
+- Experience with Printful to Amazon integrations (Not required but useful)
+
+We will be using Printful as our print-on-demand and dropshipping service. It integrates with Amazon. Please familiarize yourself with that platform.</description></item>
 </channel></rss>
