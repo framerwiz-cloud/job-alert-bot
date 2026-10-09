@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Secure Wix Credentialing Dashboard</title><link>https://www.freelancer.com/projects/wix/Secure-Wix-Credentialing-Dashboard</link><guid isPermaLink="false">freelancer:40759367</guid><pubDate>Fri, 09 Oct 2026 14:59:28 GMT</pubDate><description>1500-3000 USD | I need a credentialing dashboard added to my existing Wix site. The new dashboard will sit behind a fresh navigation tab and require users to sign in, then route them to the correct view based on their role—Admin or End User.
+
+What I need built  
+• A protected Members area (Wix Members / Velo) with role-based routing  
+• Admin view where I can quickly search users and update their status in our credentialing database—nothing else is required for now.  
+• End-User view that shows only their current status, pulled live from the same data collection.  
+
+Core expectations  
+• Clean, intuitive interface that matches my site’s styling.  
+• Secure handling of log-in credentials and database permissions.  
+• Clear documentation so I can add/remove users or tweak fields later without touching code.  
+
+Acceptance criteria  
+1. I can log in as Admin, locate any user, and change their status; the change appears immediately in that user’s view.  
+2. An End User sees only their own status and cannot reach Admin tools via URL manipulation.  
+3. The new navigation tab is visible but redirects to the log-in screen if a visitor is not authenticated.  
+
+Please use native Wix tools and Velo code where needed; no external plugins that carry extra fees. Once complete, hand over the site revision link and a brief video or doc walking me through the workflow.</description></item>
 <item><title>Retro Game Challenge Website</title><link>https://www.freelancer.com/projects/web-development/Retro-Game-Challenge-Website</link><guid isPermaLink="false">freelancer:40759342</guid><pubDate>Fri, 09 Oct 2026 14:47:23 GMT</pubDate><description>250-750 USD | I’m building a site that lets players post and track video-game challenges the way speedrun.com tracks record times. The job covers three connected pieces of work:
 
 • Badge system  
@@ -1029,207 +1047,6 @@ Ideal skills and experience:
 - Ability to implement rating and review systems
 
 Please provide examples of previous work and relevant experience.</description></item>
-<item><title>WordPress Gas/Electricity Bill Comparison System</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Gas-Electricity-Bill</link><guid isPermaLink="false">freelancer:40757041</guid><pubDate>Thu, 08 Oct 2026 09:18:49 GMT</pubDate><description>30-250 AUD | Job Title  
-WordPress Developer – Electricity &amp; Gas Bill Comparison System
-
-We are looking for an experienced WordPress/PHP developer to build a custom electricity and gas comparison system for our website.
-
-Project Overview
-
-Customers will upload their electricity or gas bill as a PDF. The system will automatically read the bill, extract key information, compare it against energy plans stored in our database, and recommend the cheapest or best-value plans.
-
-The system should be built as a custom WordPress plugin.
-
-Main Features
-
-- PDF electricity/gas bill upload
-- AI/PDF bill data extraction
-- Customer confirmation of extracted bill details
-- Electricity plan comparison
-- Gas plan comparison
-- Estimated annual cost and savings
-- Top recommended plans displayed clearly
-- Customer lead capture
-- WordPress admin dashboard
-- Retailer and tariff management
-- Mobile responsive design
-
-Bill Information to Extract
-
-The system should identify:
-
-- Electricity or gas
-- Current retailer
-- Plan name
-- NMI / MIRN
-- Postcode
-- Billing period
-- Billing days
-- Electricity usage in kWh
-- Gas usage in MJ
-- Peak / shoulder / off-peak usage
-- Controlled load
-- Solar export
-- Supply charge
-- Usage rates
-- Solar feed-in tariff
-- Demand charges
-- Total bill amount
-
-If the AI cannot identify a value confidently, it should not guess. The customer should be able to review and edit the extracted information before comparison.
-
-Electricity Comparison
-
-The calculator should support:
-
-- Single-rate tariffs
-- Time-of-use
-- Peak, shoulder and off-peak
-- Controlled load
-- Solar feed-in tariffs
-- Demand charges
-- Daily supply charge
-- Discounts
-- Credits
-- Fees
-
-The AI should only extract bill information. The actual price comparison must use a proper mathematical calculation engine.
-
-Gas Comparison
-
-Support:
-
-- Daily supply charge
-- Gas usage in MJ
-- Flat usage rates
-- Block rates
-- Discounts
-- Credits
-
-Results Page
-
-Show plans ranked from cheapest to most expensive.
-
-Example:
-
-| Retailer | Plan | Annual Cost | Saving |
-
-| Retailer A | Saver Plan | $1,650 | $480/year |
-| Retailer B | Value Plan | $1,720 | $410/year |
-
-Customers should be able to click:
-
-- Choose This Plan
-- Request a Callback
-- Email Comparison
-
-WordPress Admin
-
-Admin users should be able to add, edit and deactivate:
-
-- Retailers
-- Electricity plans
-- Gas plans
-- Supply charges
-- Usage rates
-- Time-of-use rates
-- Demand rates
-- Controlled-load rates
-- Solar feed-in tariffs
-- Discounts
-- Credits
-- Plan expiry dates
-
-Admin should also be able to view:
-
-- Uploaded bills
-- Comparisons
-- Customer leads
-- Selected plans
-
-CRM
-
-Preferably integrate with HubSpot CRM so customer details and comparison results can automatically create or update a lead.
-
-This can be completed as a later milestone if required.
-
-Preferred Technology
-
-- WordPress
-- Custom WordPress plugin
-- PHP
-- MySQL
-- JavaScript
-- WordPress REST API
-- OpenAI API or similar AI service
-- PDF extraction technology
-
-Security
-
-The system must include:
-
-- Secure PDF uploads
-- File-type and file-size validation
-- Input sanitisation
-- Secure API keys
-- Protection against malicious uploads
-- Secure bill storage
-- Ability to automatically delete uploaded bills if required
-
-Deliverables
-
-The successful freelancer will provide:
-
-- Complete WordPress plugin
-- Full source code
-- Database structure
-- Bill upload system
-- AI bill extraction
-- Electricity calculator
-- Gas calculator
-- Admin dashboard
-- Comparison results page
-- Lead management
-- Installation on our website
-- Testing
-- Basic documentation
-
-Suggested Milestones
-
-Milestone 1: WordPress plugin, database and admin dashboard  
-Milestone 2: Electricity comparison calculator  
-Milestone 3: PDF/AI bill extraction  
-Milestone 4: Gas comparison calculator  
-Milestone 5: Lead management and HubSpot integration  
-Milestone 6: Testing, security and deployment
-
-Freelancer Requirements
-
-Please apply if you have experience with:
-
-- Custom WordPress plugin development
-- PHP/MySQL
-- JavaScript
-- REST APIs
-- PDF processing
-- AI/OpenAI integrations
-- Calculation systems
-- WordPress security
-
-Energy industry experience would be an advantage.
-
-When Applying
-
-Please provide:
-
-- Examples of similar WordPress projects
-- Experience with PDF extraction
-- Experience with AI/API integrations
-- Estimated completion time
-- Fixed-price or milestone quote
-- Support offered after completion
-
-Important: We require a proper calculation engine. The AI should not simply guess which electricity or gas plan is cheapest.</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
 We run a party-planning business in London and need an experienced tech VA or CRM specialist to set up our entire booking, invoicing, and client communication operations from scratch.
