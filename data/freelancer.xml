@@ -71,17 +71,6 @@ Acceptance Criteria
 The site must match the original’s behaviour page-for-page while passing Google Lighthouse scores of 85+ for Performance and Accessibility, and all redesigned visual elements must align with the approved colour and typography mock-ups.
 
 If this fits your skill set, let’s get started.</description></item>
-<item><title>Modern Portfolio Website Build</title><link>https://www.freelancer.com/projects/web-design/Modern-Portfolio-Website-Build-40759480</link><guid isPermaLink="false">freelancer:40759480</guid><pubDate>Fri, 09 Oct 2026 16:14:57 GMT</pubDate><description>750-1500 USD | I want a clean, modern-minimalist portfolio site that presents my work clearly and loads fast on every device. The core of the site will be:  
-
-• An image gallery that can expand to full-screen and stay sharp on retina displays  
-• Individual project pages with room for detailed descriptions, tech stacks, and links  
-• A contact form that routes messages straight to my email and is protected against spam  
-
-The overall look should lean on ample white space, restrained color, and crisp typography—no clutter, no heavy animations, just subtle transitions that keep the experience smooth. Responsive behaviour is non-negotiable; the layout must adjust seamlessly from phone to desktop.
-
-Tech stack is your call—React, Vue, Next.js, static HTML/CSS, or a lightweight CMS—as long as page speed stays top-tier and future content updates are straightforward. Hand over complete source files, build instructions, and a brief guide for making simple edits after launch.
-
-Show me two or three links to similar minimalist portfolios you’ve built, outline your timeline, and note any questions you have about hosting or assets. I’m ready to begin as soon as I find the right fit.</description></item>
 <item><title>Remote Full-Time Designer Needed</title><link>https://www.freelancer.com/projects/ui-design/Remote-Full-Time-Designer-Needed</link><guid isPermaLink="false">freelancer:40759457</guid><pubDate>Fri, 09 Oct 2026 16:03:36 GMT</pubDate><description>750-1500 USD | Seeking a highly experienced, dependable, and technically skilled Full-Time Webmaster / Web Developer / SEO Specialist to manage, maintain, improve, and expand our network of approximately 110 websites.
 This is a permanent, full-time position for an individual who can handle website development, technical maintenance, search engine optimization, email marketing campaigns, and the everyday responsibilities of managing a large commercial website portfolio.
 We are not looking for someone who simply updates websites occasionally. We need a dedicated professional who takes ownership of our entire online operation, works a consistent 40-hour week, and produces measurable results.
@@ -1015,6 +1004,24 @@ Here’s what I expect:
 • Final hand-off package: editable source files, documented theme/plugins, and a quick Loom or Zoom walkthrough showing me how to update content.
 
 Once the site is migrated to my hosting and everything passes a quick usability check on desktop, tablet, and mobile, we’re done. Let me know which CMS you prefer, share 2–3 relevant portfolio links, and give me your estimated timeline to reach a polished, ready-to-launch site.</description></item>
+<item><title>Editable 5-Page Car Ads Website</title><link>https://www.freelancer.com/projects/css/Editable-Page-Car-Ads-Website</link><guid isPermaLink="false">freelancer:40757785</guid><pubDate>Thu, 08 Oct 2026 16:53:48 GMT</pubDate><description>20-250 GBP | I’m building a small, modern-looking site where visitors can browse bite-sized ads for new and used cars and where I, as the sole admin, can update every piece of content from a clean dashboard.
+
+The structure is straightforward:
+
+• Homepage – shows a live stream of “mini-ads” pulled from my database. These posts mix petrol, hybrid, and electric cars in one feed.  
+• Pages 2, 3, and 4 – each repeats the same mini-ad layout but filters the feed so only Petrol, Hybrid, or Electric cars appear respectively. Every ad slot needs an upload/edit panel in the dashboard where I can enter Make, Model, Version, Price, Mileage (for used vehicles), one photo, and a short caption.  
+• Page 5 – a simple form with 20 fields (16 checkboxes, 4 text inputs). On submit, it must send all data to a single Gmail address and show a short success message.
+
+Key requirements I need you to follow:
+
+• Look &amp; feel: modern, minimalist, fully responsive.  
+• Tech stack: plain custom HTML, CSS, and vanilla JS on the front end. I’m fine with any lightweight backend language you prefer for the upload logic and mail function, as long as the final code stays framework-free on the front end.  
+• Dashboard: one secure admin login only. I should be able to add, edit, reorder, or delete mini-ads without touching code.  
+• Email: no third-party form services—just a direct server-side send to my Gmail account.  
+
+Acceptance criteria: the site loads fast, all five pages render correctly on mobile and desktop, the admin panel works without console errors, form submissions arrive in my inbox, and I receive a concise hand-off guide so I can manage future edits alone.
+
+If this sounds clear and feasible, let’s get started.</description></item>
 <item><title>Automations For Google Ads &amp; Wordpress</title><link>https://www.freelancer.com/projects/google-ads/Automations-For-Google-Ads-Wordpress</link><guid isPermaLink="false">freelancer:40757554</guid><pubDate>Thu, 08 Oct 2026 14:31:07 GMT</pubDate><description>15-25 CAD/hr | Basic automations linking Google ads, and Wordpress websites to a Google sheet.</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
