@@ -3,6 +3,45 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-Commerce Site Revamp &amp; Upkeep</title><link>https://www.freelancer.com/projects/web-design/Commerce-Site-Revamp-Upkeep</link><guid isPermaLink="false">freelancer:40758721</guid><pubDate>Fri, 09 Oct 2026 06:53:39 GMT</pubDate><description>20-250 GBP | I run an e-commerce store that needs a visual refresh as well as ongoing care to keep everything looking sharp. The priority is the overall look and appeal rather than deep technical tweaks; I’m happy with the platform’s speed and security for now.  
+
+Here is what I need from you:  
+• Redesign the homepage layout so it instantly conveys our brand and nudges visitors toward key products.  
+• Update all product pages—imagery, typography, and section hierarchy—so each item feels engaging and conversion-ready.  
+• Rework the navigation menus to make browsing intuitive on both desktop and mobile.  
+
+Once the new design is in place, I’d like light, recurring maintenance to ensure the visuals stay consistent when new products or seasonal banners are added. If you’re comfortable working in common e-commerce builders (Shopify, WooCommerce, or similar) and know your way around modern front-end tools—HTML5, CSS3, JavaScript frameworks—let’s talk.  
+
+Please share a few live e-commerce examples you personally designed or maintain, and outline how you’d approach keeping the site’s “look and appeal” fresh month after month.</description></item>
+<item><title>Estonian Linguistic Reviewer for Web Content -- 2</title><link>https://www.freelancer.com/projects/copywriting/Estonian-Linguistic-Reviewer-for-Web</link><guid isPermaLink="false">freelancer:40758719</guid><pubDate>Fri, 09 Oct 2026 06:53:02 GMT</pubDate><description>30-250 USD | I’m looking for a native or near-native Estonian speaker to help review English → Estonian web content that has been initially translated using AI/machine translation.
+The work is mainly human linguistic review and post-editing, not translation from scratch.
+Responsibilities may include:
+- Review Estonian text for grammar, spelling, punctuation and natural wording
+- Check that the Estonian accurately reflects the English source
+- Fix awkward or overly literal AI/MT translations
+- Improve tone, readability and consistency
+- Check terminology and repeated UI/web phrases
+- Review buttons, headings, navigation labels, banners and short web copy
+- Flag content that does not make sense in the Estonian context
+- Perform final QA before content is considered ready
+Some assignments may also involve web/CMS content review, so familiarity with CMS platforms such as Adobe Experience Manager (AEM), Magnolia, WordPress, Drupal or similar systems is a plus.
+This is potentially ongoing/project-based work. Workload may arrive in batches, so availability can vary from day to day.
+
+Requirements
+- Native or excellent Estonian
+- Strong English comprehension
+- Excellent Estonian grammar and writing ability
+- Experience with proofreading, localization, MTPE, translation QA or web-content editing
+- Comfortable reviewing AI-generated/machine-translated text
+- Strong attention to detail
+- Able to work within turnaround times
+- Reliable communication
+Nice to have:
+- Experience with AEM or another CMS
+- Website localization experience
+- UI/UX copy review
+- Technical/software background
+- Experience with localization QA tools</description></item>
 <item><title>Private Shopify Custom App: AI-Assisted Hardware Diagnostics Pipeline</title><link>https://www.freelancer.com/projects/shopify-development/Private-Shopify-Custom-App-Assisted</link><guid isPermaLink="false">freelancer:40758508</guid><pubDate>Fri, 09 Oct 2026 04:17:04 GMT</pubDate><description>250-750 USD | We are launching a high-ticket consumer appliance sales and mechanical repair service business in the United States. We are utilizing a standard Shopify platform to manage hardware sales, parts inventory, and recurring care service memberships.
 We require an experienced full-stack developer to build a private, custom Shopify application to streamline our mechanical repair diagnostics pipeline. The app will act as a training copilot to help bench technicians troubleshoot and execute repairs with high speed and precision.
 To minimize development hours and keep our budget tight, the internal technician dashboard must be built using an embedded low-code framework (such as Retool or Bubble) integrated directly within our Shopify Admin panel via a secure app proxy or iframe.
@@ -1131,36 +1170,6 @@ Please build in WordPress (Elementor or Gutenberg blocks are fine) or lightweigh
 3. Any custom code commented and documented
 
 Timeline is flexible but I’d like an initial draft within a week once assets are shared.</description></item>
-<item><title>Elegant Fragrance Review Site</title><link>https://www.freelancer.com/projects/web-design/Elegant-Fragrance-Review-Site</link><guid isPermaLink="false">freelancer:40755909</guid><pubDate>Wed, 07 Oct 2026 18:58:45 GMT</pubDate><description>250-750 GBP | I'm looking for a skilled WordPress developer to create a classic and elegant magazine-style site dedicated to men's fragrances.
-
-Key Requirements:
-- Regular posts for fragrance reviews and purchasing guides
-- "Top Fragrances" section on the homepage
-- Mailing list signup for special offers via affiliate links
-- Dark-toned color scheme
-
-Ideal Skills:
-- WordPress expertise
-- Strong design skills for a classic, elegant aesthetic
-- Experience with mailing list integrations and affiliate marketing setups
-- Knowledge of SEO and content management</description></item>
-<item><title>Shopify Store Setup &amp; Ads</title><link>https://www.freelancer.com/projects/facebook-ads/Shopify-Store-Setup-Ads</link><guid isPermaLink="false">freelancer:40755844</guid><pubDate>Wed, 07 Oct 2026 17:54:38 GMT</pubDate><description>250-750 CAD | I have an empty Shopify storefront that I’m eager to turn into a real business, but I’m stuck on four fronts: product selection, overall store design, setting-up reliable payment methods, and—most critically—launching profitable Facebook ads.  
-
-What I need from you is an end-to-end push:
-
-• Research and present a shortlist of truly winning products (I don’t have any in mind yet) with clear reasoning on margins, demand, and competition.  
-• Import those products into my Shopify dashboard, write or refine the copy, optimise the images, and make sure variants, pricing, and shipping rules are correct.  
-• Give the theme a clean, conversion-focused look—homepage, product pages, upsell sections, trust badges—so everything feels cohesive and professional.  
-• Configure payment gateways so customers can actually check out without friction.  
-• Build the first round of Facebook ad campaigns: audience research, pixel setup, creative (image or short-form video), ad copy, campaign structure, and a simple scaling plan I can follow.
-
-Acceptance criteria  
-1. Minimum of five vetted products each showing a realistic profit margin of 30 % or more.  
-2. Store passes a test purchase from product page through to payment confirmation.  
-3. At least two ad creatives and two copy variations per product loaded into Facebook Ads Manager with the pixel firing correctly.  
-4. A brief hand-off document outlining next steps for optimisation and budget allocation.
-
-I already have the Shopify subscription and a fresh Facebook Business Manager account ready to connect. If you’re confident with Shopify, Oberlo/DSers, Meta Ads Manager, and the usual analytics tools, your expertise would be invaluable. Let’s get this store earning.</description></item>
 <item><title>Divi WordPress E-Commerce Developer Needed</title><link>https://www.freelancer.com/projects/woocommerce/Divi-WordPress-Commerce-Developer-Needed</link><guid isPermaLink="false">freelancer:40755741</guid><pubDate>Wed, 07 Oct 2026 16:42:31 GMT</pubDate><description>8-15 USD/hr | I’m looking for a WordPress developer who already feels at home inside the Divi Builder.  The immediate priorities on my site are to introduce full e-commerce capability, tighten up on-page SEO, and build a couple of bespoke forms/plugins that tie everything together.
 
 E-commerce scope  
