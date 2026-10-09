@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bilingual Framer Website Design</title><link>https://www.freelancer.com/projects/framer/Bilingual-Framer-Website-Design</link><guid isPermaLink="false">freelancer:40759445</guid><pubDate>Fri, 09 Oct 2026 15:54:51 GMT</pubDate><description>30-250 USD | I need a premium, contemporary website built in Framer that fluidly toggles between English and Arabic. The company champions accessibility and inclusion across Saudi Arabia, so every design choice must echo that mission while strictly following our established brand palette, typography, and logo usage.
+
+Scope of the build  
+– Six core pages: Home, About Us, Contact Us, Why Accessibility, What We Do, and Solutions.  
+– Modern aesthetic throughout—clean layouts, confident white space, subtle motion, and crisp micro-interactions that feel high-end yet welcoming.  
+– Full bilingual structure: mirrored layouts, RTL optimisation, consistent typographic rhythm, and language-aware navigation.  
+– Accessibility baked in: semantic HTML, keyboard navigation, colour-contrast compliance, descriptive alt text, and clear focus states.  
+– Framer CMS setup so our team can update copy in both languages without touching code.  
+– Mobile-first responsiveness and performance optimisation (lazy loading, compressed assets, SEO-friendly meta in each language).  
+
+Deliverables  
+1. Framer project file with all pages, components, and CMS collections.  
+2. Live, hosted Framer site ready to launch on a custom domain.  
+3. Handoff guide outlining language-switch logic, CMS fields, and basic editing steps.  
+
+Completion is accepted when each page passes a WCAG AA audit, copy is switchable in one click, and the visual style matches our existing brand guidelines pixel-perfectly on desktop, tablet, and mobile.</description></item>
 <item><title>Secure Wix Credentialing Dashboard</title><link>https://www.freelancer.com/projects/wix/Secure-Wix-Credentialing-Dashboard</link><guid isPermaLink="false">freelancer:40759367</guid><pubDate>Fri, 09 Oct 2026 14:59:28 GMT</pubDate><description>1500-3000 USD | I need a credentialing dashboard added to my existing Wix site. The new dashboard will sit behind a fresh navigation tab and require users to sign in, then route them to the correct view based on their role—Admin or End User.
 
 What I need built  
@@ -1023,15 +1039,6 @@ Acceptance criteria
 3. Google Lighthouse performance score ≥ 90 on desktop.
 
 If you have solid  migration experience and can outline a realistic timeline, I’m ready to get started.</description></item>
-<item><title>Create UK Business Info Site</title><link>https://www.freelancer.com/projects/cms/Create-Business-Info-Site</link><guid isPermaLink="false">freelancer:40757493</guid><pubDate>Thu, 08 Oct 2026 13:49:51 GMT</pubDate><description>20-250 GBP | I need an informational website for my UK business that gives visitors our company details and a clear overview of the services we offer—no e-commerce or complex portals, just clean, straightforward information. The site must include three core pages: About Us, Services and Contact Us. Each page should follow our brand style, load quickly, and display perfectly on desktop, tablet and phone.
-
-A user-friendly CMS such as WordPress, Webflow or a comparable platform is preferred so my team can update text and images in-house. Please build with standard best practices for security, accessibility and on-page SEO (titles, meta descriptions, alt tags).
-
-Deliverables  
-• Live, responsive website with About Us, Services and Contact Us pages  
-• CMS login with clear instructions for edits  
-• Basic on-page SEO applied site-wide  
-• One round of post-launch tweaks to resolve any</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
 We run a party-planning business in London and need an experienced tech VA or CRM specialist to set up our entire booking, invoicing, and client communication operations from scratch.
