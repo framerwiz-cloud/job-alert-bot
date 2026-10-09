@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Retro Game Challenge Website</title><link>https://www.freelancer.com/projects/web-development/Retro-Game-Challenge-Website</link><guid isPermaLink="false">freelancer:40759342</guid><pubDate>Fri, 09 Oct 2026 14:44:32 GMT</pubDate><description>250-750 USD | I’m building a site that lets players post and track video-game challenges the way speedrun.com tracks record times. The job covers three connected pieces of work:
+
+• Website design and build  
+The site must be clean, fast and fully responsive. Core screens include the public challenge listings, individual challenge pages with leaderboards, and a community hub. Accounts will feature user profiles that display earned badges, plus discussion boards and real-time chat so players can trade tips while runs are in progress.
+
+• Badge system  
+Every challenge will award a bespoke badge. I need a simple back-office tool (even a JSON/CSV-driven script is fine) that lets me create and upload new badge graphics, set unlock conditions and have them appear automatically in user profiles.
+
+• Brand identity  
+A retro-gaming logo—think bright pixel art or 16-bit arcade flair—should headline the site. Final files must include scalable vectors and a favicon that ties into the badge style.
+
+Deliverables  
+– Fully functioning badge creation workflow integrated with user accounts  
+– Retro gaming-style, clean simple logo in SVG, PNG and favicon sizes  
+– All source files, style guide and brief hand-off notes  
+
+Acceptance  
+Smooth registration, badge unlocks reflected instantly on profiles, chat loads without refresh, and pages score 90+ on Google Lighthouse.
+
+Stack is flexible—React, Vue, Laravel, WordPress with custom plugins, whichever you prefer—so long as it meets the above criteria and is easy for me to update later. Let’s create a home for gamers to prove their skills and show off their hard-earned badges.</description></item>
 <item><title>Food Truck Website with Online Ordering</title><link>https://www.freelancer.com/projects/web-development/Food-Truck-Website-with-Online</link><guid isPermaLink="false">freelancer:40759328</guid><pubDate>Fri, 09 Oct 2026 14:34:48 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to create a functional website for my food truck business. The site needs to facilitate online ordering and allow me to manage and update catering specials, and schedule events.
 
 Key functionalities should include:
@@ -1227,36 +1247,6 @@ We run a party-planning business in London and need an experienced tech VA or CR
 ​Please reply with examples of similar workflow or CRM setups you have done.
 
 Require the Freelancer to be available on Whatsapp for consistent updates and communication in UK time zone for my client and Teams meetings. My client is also looking for around 80 hours in the first month, then going forward it will be ad hoc hours as needed (but much less)</description></item>
-<item><title>Transport Company Website</title><link>https://www.freelancer.com/projects/web-design/Transport-Company-Website</link><guid isPermaLink="false">freelancer:40756802</guid><pubDate>Thu, 08 Oct 2026 06:57:14 GMT</pubDate><description>250-750 AUD | I’m ready to launch a modern, sleek online presence for a transport provider of general and specialised freight, that showcases exactly who we are and what we do. The site is strictly informational, so instead of carts and checkouts the focus is on storytelling, credibility and clear calls to action.
-
-CTA:
-Generating clicks on a 'contact us' style form for new perspective businesses
-
-Content &amp; structure  
-• Company values/value propersition– a narrative page that explains our values and value propersitions.  
-- numbers that back up some of our promisses/what its like to work with us type
-• Services offered – concise sections for each logistics solution, supported by imagery or simple icons.  
-• About us – photos, short bios and LinkedIn links 
-• Contact page, enquiry form and click-to-call numbers, CTA 
-
-Look &amp; feel  
-Think contemporary: clean lines, bold typography, ample white space and a colour palette that aligns with our existing branding. Subtle scroll animations and micro-interactions are welcome.
-
-Tech &amp; maintenance  
-WordPress 
-
-Deliverables  
-• High-fidelity mock-ups for approval  
-• Fully responsive website (desktop, tablet, mobile)  
-• Brief hand-over guide or video walk-through
-
-Acceptance criteria  
-• Pages load in under 3 seconds on GTmetrix  
-• Layout and functionality pass cross-browser testing (Chrome, Safari, Edge, Firefox)  
-• All text and images editable via the CMS  
-• Final site mirrors approved mock-ups pixel-perfectly
-
-If this sounds like your wheelhouse, let’s talk timelines and milestones so we can get this transport company online and looking sharp.</description></item>
 <item><title>Shopify E-commerce Manager Needed</title><link>https://www.freelancer.com/projects/digital-marketing/Shopify-commerce-Manager-Needed-40756530</link><guid isPermaLink="false">freelancer:40756530</guid><pubDate>Thu, 08 Oct 2026 03:49:28 GMT</pubDate><description>25-50 USD/hr | We are looking for an experienced Shopify E-commerce Manager with a proven track record in managing online stores and driving sales growth.
 
 The ideal candidate should have hands-on experience with Shopify, e-commerce operations, product research, and paid advertising. We are looking for someone who understands how to test products, analyze campaign performance, optimize a store, and turn data into practical actions.
