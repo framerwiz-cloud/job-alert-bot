@@ -36,29 +36,6 @@ Ideal Skills and Experience:
 - Strong communication skills for effective collaboration  
 
 Please include examples of similar projects in your bids.</description></item>
-<item><title>3-Product Responsive Shopify Store</title><link>https://www.freelancer.com/projects/ecommerce/Product-Responsive-Shopify-Store</link><guid isPermaLink="false">freelancer:40759508</guid><pubDate>Fri, 09 Oct 2026 16:27:19 GMT</pubDate><description>250-750 USD | I need a Shopify storefront built around three physical products. Everything must look and feel seamless on both desktop and mobile, with fast load times and a checkout flow that keeps buyers focused on completing their purchase. Some development work has been done see drsdiet.myshopify.com
-
-Theme &amp; design  
-I’m open to any theme you think best suits a lean catalogue—feel free to recommend a premium or free template as long as it stays lightweight, modern and conversion-oriented. Colours, fonts and imagery should align with a clean, trustworthy brand aesthetic.
-
-Core requirement: AI-driven SEO  
-The site has to launch with solid on-page SEO already in place. Please configure or suggest an AI SEO app (e.g., SEO Booster, Tapita, etc.) that can auto-generate meta tags, product descriptions and ongoing optimisation prompts so I’m set up for organic traffic from day one.
-
-General scope  
-• Upload and configure the three products with high-quality photos, variants (if any), prices and inventory tracking.  
-• Set up payments, shipping zones and automated tax settings suitable for physical goods.  
-• Implement customer-friendly policies (refunds, shipping, privacy) and link them in the footer.  
-• Add any standard sections such as About, Contact and a simple blog that the AI SEO tool can leverage for content suggestions. 
-cookie collection disclaimer pop-up
-• Test all views—desktop, tablet and mobile—to guarantee responsiveness and no layout breaks.
-
-Acceptance criteria  
-1. All pages pass Shopify’s speed and mobile usability tests.  
-2. AI SEO tool installed, configured and showing no critical errors.  
-3. Checkout works end-to-end with a test order.  
-4. You hand over theme files, app list and a short walkthrough video so I can manage updates myself.
-
-If this sounds straightforward for you, let’s discuss your preferred theme choice and timeline so we can get the store live quickly.</description></item>
 <item><title>Clone &amp; Redesign Carbus24 Website</title><link>https://www.freelancer.com/projects/web-development/Clone-Redesign-Carbus-Website</link><guid isPermaLink="false">freelancer:40759495</guid><pubDate>Fri, 09 Oct 2026 16:22:39 GMT</pubDate><description>100000-300000 USD | I want an exact functional replica of www.carbus24.com built from the ground up, then taken a step further with a major visual overhaul. The structure, pages, search/filter logic, vehicle-listing features, and enquiry forms must all behave exactly as on the original site, but the finished product has to look and feel fresh through a completely new colour palette and modern typography.
 
 I am open to the stack you choose—WordPress, custom PHP/Laravel, React, or another framework—as long as the code is clean, responsive, SEO-friendly, and easy for me to maintain afterward. You will handle everything from cloning the front- and back-end functionality to implementing the redesigned styles, migrating sample data for testing, and deploying the site to my hosting.
@@ -1025,6 +1002,73 @@ Key requirements I need you to follow:
 Acceptance criteria: the site loads fast, all five pages render correctly on mobile and desktop, the admin panel works without console errors, form submissions arrive in my inbox, and I receive a concise hand-off guide so I can manage future edits alone.
 
 If this sounds clear and feasible, let’s get started.</description></item>
+<item><title>Full-Stack Ecommerce Website Development | Cutieland</title><link>https://www.freelancer.com/projects/wordpress/Full-Stack-Ecommerce-Website-Development</link><guid isPermaLink="false">freelancer:40757739</guid><pubDate>Thu, 08 Oct 2026 16:21:59 GMT</pubDate><description>400-500 USD | Full-Stack Ecommerce Website Development &amp; Launch | Cutieland
+
+I’m looking for an experienced ecommerce developer to build, configure, test, and launch a complete online store for my business, Cutieland.
+
+I already own my domain, cutieland.shop, and want to move away from Shopify. I need an independent, professional website that I fully own and can manage without programming knowledge.
+
+Required Features:
+
+Storefront &amp; Shopping
+
+* Modern, attractive, mobile-friendly website
+* Product listings, categories, search, and filters
+* Product variations, bundles, and discounts
+* Shopping cart and secure checkout
+* Customer accounts, order history, and guest checkout
+
+Payments &amp; Financial Management
+
+* Payment gateway integration (credit/debit cards and supported digital wallets)
+* Payment processing and bank payout setup
+* Refund and cancellation management
+* Automatic sales tax calculations and tax reports
+* Revenue tracking and sales analytics
+
+Orders, Inventory &amp; Shipping
+
+* Complete administrative order management dashboard
+* Automatic inventory deductions after purchases
+* Bundle inventory synchronization
+* Order status management
+* Shipping rates and fulfillment management
+* Pirate Ship integration or a practical compatible workflow
+* Shipping label generation
+* Tracking numbers and customer tracking pages
+* Automated order confirmation, shipping, and tracking emails
+
+Technical Requirements
+
+* Secure hosting configuration and SSL
+* Domain connection and website deployment
+* Database and website backups
+* Basic SEO and performance optimization
+* Full administrative access and ownership of website files, hosting, and data
+* Easy-to-use dashboard for managing products, customers, orders, and inventory
+
+Platform Preferences:
+
+I’m open to WordPress/WooCommerce or another suitable self-hosted solution. AI-assisted development is welcome to reduce costs and development time.
+
+I do not want to rely on Shopify.
+
+Budget: $400-$600 maximum, open to offers.
+
+Please provide:
+
+1. Examples of ecommerce websites you’ve built.
+2. Your proposed platform and development approach.
+3. A complete list of features included within my budget.
+4. Your estimated completion timeline.
+5. Any recurring hosting, software, integration, or maintenance costs.
+6. Confirmation that you can support the intended product categories through an appropriate payment provider.
+
+Final Deliverable:
+
+A fully tested, live ecommerce website with working checkout, payments, inventory, orders, shipping, tracking, and administrator access. I also require a walkthrough explaining how to manage the store independently.
+
+I’m looking for someone who can handle the project from setup through launch, not someone who only provides a design or unfinished template.</description></item>
 <item><title>Automations For Google Ads &amp; Wordpress</title><link>https://www.freelancer.com/projects/google-ads/Automations-For-Google-Ads-Wordpress</link><guid isPermaLink="false">freelancer:40757554</guid><pubDate>Thu, 08 Oct 2026 14:31:07 GMT</pubDate><description>15-25 CAD/hr | Basic automations linking Google ads, and Wordpress websites to a Google sheet.</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
