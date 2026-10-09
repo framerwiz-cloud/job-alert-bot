@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Seamless WordPress Host Migration</title><link>https://www.freelancer.com/projects/cpanel/Seamless-WordPress-Host-Migration-40759609</link><guid isPermaLink="false">freelancer:40759609</guid><pubDate>Fri, 09 Oct 2026 17:43:14 GMT</pubDate><description>20-250 GBP | I’m moving an established WordPress site off its current server and over to Hostinger. I have full control-panel access on the old host and will give you whatever credentials you need for both ends of the move.  
+
+Here’s what I expect from the engagement:
+
+• Complete copy of every file, database table, plugin, theme, and media asset  
+• Clean import into the new Hostinger account (hPanel or cPanel—happy to follow your recommendation)  
+• Accurate DNS updates so A, CNAME, and MX records resolve to the new environment with minimal downtime  
+• Valid SSL running on the new server, whether that means transferring the existing certificate or issuing Let’s Encrypt  
+• Thorough post-migration QA: page loads, forms, links, checkout, and mobile responsiveness must match the live site exactly  
+
+Please share a brief note on similar WordPress migrations you’ve handled, highlight any Hostinger experience, and let me know how long you’ll need once credentials are in hand. Clarity, care with data, and smooth propagation are the priorities.</description></item>
 <item><title>Legal Consultancy Website Development</title><link>https://www.freelancer.com/projects/web-development/Legal-Consultancy-Website-Development</link><guid isPermaLink="false">freelancer:40759544</guid><pubDate>Fri, 09 Oct 2026 16:51:57 GMT</pubDate><description>1500-3000 GBP | I'm seeking an experienced web developer to create an informative website for my legal consultancy company. The site should include the following sections:  
 
 - About Us  
@@ -1004,24 +1015,6 @@ Here’s what I expect:
 • Final hand-off package: editable source files, documented theme/plugins, and a quick Loom or Zoom walkthrough showing me how to update content.
 
 Once the site is migrated to my hosting and everything passes a quick usability check on desktop, tablet, and mobile, we’re done. Let me know which CMS you prefer, share 2–3 relevant portfolio links, and give me your estimated timeline to reach a polished, ready-to-launch site.</description></item>
-<item><title>Editable 5-Page Car Ads Website</title><link>https://www.freelancer.com/projects/css/Editable-Page-Car-Ads-Website</link><guid isPermaLink="false">freelancer:40757785</guid><pubDate>Thu, 08 Oct 2026 16:53:48 GMT</pubDate><description>20-250 GBP | I’m building a small, modern-looking site where visitors can browse bite-sized ads for new and used cars and where I, as the sole admin, can update every piece of content from a clean dashboard.
-
-The structure is straightforward:
-
-• Homepage – shows a live stream of “mini-ads” pulled from my database. These posts mix petrol, hybrid, and electric cars in one feed.  
-• Pages 2, 3, and 4 – each repeats the same mini-ad layout but filters the feed so only Petrol, Hybrid, or Electric cars appear respectively. Every ad slot needs an upload/edit panel in the dashboard where I can enter Make, Model, Version, Price, Mileage (for used vehicles), one photo, and a short caption.  
-• Page 5 – a simple form with 20 fields (16 checkboxes, 4 text inputs). On submit, it must send all data to a single Gmail address and show a short success message.
-
-Key requirements I need you to follow:
-
-• Look &amp; feel: modern, minimalist, fully responsive.  
-• Tech stack: plain custom HTML, CSS, and vanilla JS on the front end. I’m fine with any lightweight backend language you prefer for the upload logic and mail function, as long as the final code stays framework-free on the front end.  
-• Dashboard: one secure admin login only. I should be able to add, edit, reorder, or delete mini-ads without touching code.  
-• Email: no third-party form services—just a direct server-side send to my Gmail account.  
-
-Acceptance criteria: the site loads fast, all five pages render correctly on mobile and desktop, the admin panel works without console errors, form submissions arrive in my inbox, and I receive a concise hand-off guide so I can manage future edits alone.
-
-If this sounds clear and feasible, let’s get started.</description></item>
 <item><title>Automations For Google Ads &amp; Wordpress</title><link>https://www.freelancer.com/projects/google-ads/Automations-For-Google-Ads-Wordpress</link><guid isPermaLink="false">freelancer:40757554</guid><pubDate>Thu, 08 Oct 2026 14:31:07 GMT</pubDate><description>15-25 CAD/hr | Basic automations linking Google ads, and Wordpress websites to a Google sheet.</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
