@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Toast POS Integration Specialist</title><link>https://www.freelancer.com/projects/api-integration/Toast-POS-Integration-Specialist</link><guid isPermaLink="false">freelancer:40759903</guid><pubDate>Fri, 09 Oct 2026 22:27:28 GMT</pubDate><description>30-250 USD | I need an experienced developer to integrate my existing online ordering system (for both website and mobile app) with Toast POS. 
+
+Requirements:
+- Expertise in Toast POS and its integration capabilities
+- Experience with both website and mobile app online ordering systems
+- Strong problem-solving skills to ensure seamless integration with my existing system
+- Ability to handle any technical issues that may arise during the integration process
+
+Ideal Skills and Experience:
+- Proven track record of similar integrations
+- Familiarity with the technical requirements and limitations of Toast POS
+- Strong communication skills to keep me updated on progress and any challenges
+
+Please provide examples of previous work and a timeline for completion.</description></item>
 <item><title>Landing Page Refresh &amp; Social Media Integration</title><link>https://www.freelancer.com/projects/content-management-system/Landing-Page-Refresh-Social-Media</link><guid isPermaLink="false">freelancer:40759839</guid><pubDate>Fri, 09 Oct 2026 21:02:29 GMT</pubDate><description>15-25 USD/hr | Data Entry 
 
 My landing page needs a solid content overhaul: new copy that reflects our current offers, updated images that match the brand palette, and refreshed SEO titles, meta-descriptions, and alt tags so the page finally ranks where it should. All content is ready in draft form; I simply need it placed, formatted cleanly, and optimised before going live.
@@ -987,32 +1001,6 @@ I'm looking for someone reliable who can potentially work with me long-term as t
 Please provide a detailed proposal and realistic quotation.
 
 Thank you.</description></item>
-<item><title>Healthcare Cleaning Website Update</title><link>https://www.freelancer.com/projects/web-design/Healthcare-Cleaning-Website-Update</link><guid isPermaLink="false">freelancer:40757970</guid><pubDate>Thu, 08 Oct 2026 19:14:59 GMT</pubDate><description>30-250 USD | My current site, www.knightcleanent.com, still feels like a small local janitorial page. I need it transformed into a modern, clean-styled platform that immediately tells hospital and multi-site facility buyers we are a national, healthcare-grade partner operating in 20 states.
-
-Core story to weave throughout:
-• 16+ years delivering verified, specialized cleaning
-• ATP testing, audits and documented QA at every location
-• A named site supervisor and consistent reporting across all facilities
-• Healthcare as the flagship vertical, with sector pages (retail, labs, commercial offices, etc.) showing identical standards
-• Single, clear call-to-action on every page: Request a Facility Risk Assessment
-
-Homepage focus must be on our healthcare-grade services; nationwide reach and credentials can follow naturally in scrolling sections. I will lean on you for recommendations on visual content—whether that’s fresh photography, infographics, or testimonial case studies—to support the proof points above.
-
-Scope I’m expecting:
-1. Brand-aligned UX strategy and wireframes that guide users straight to the risk-assessment form.
-2. Copy refresh (headlines, sector page messaging, supervisor bios, case-study intros) written in a confident, national-provider voice.
-3. Responsive, fast front-end build on a mainstream CMS so my team can make updates later.
-4. SEO-ready structure, schema where sensible, and basic on-page optimisation.
-5. Analytics and form tracking setup so we can measure CTA conversion.
-
-Acceptance criteria:
-• Design matches the requested modern, clean aesthetic.
-• Healthcare-grade positioning and proof elements are unmissable above the fold.
-• Every page ends with the assessment request.
-• Page speed scores in the green on PageSpeed Insights.
-• CMS training hand-off and documentation delivered.
-
-Please share links to two or three healthcare or B2B service sites you’ve overhauled, outline the CMS you recommend, and note your timeline to first interactive prototype once assets are supplied.</description></item>
 <item><title>API Integration for Travel Marketplace</title><link>https://www.freelancer.com/projects/api-integration/API-Integration-for-Travel-Marketplace</link><guid isPermaLink="false">freelancer:40757968</guid><pubDate>Thu, 08 Oct 2026 19:13:00 GMT</pubDate><description>12-18 EUR/hr | I run a travel marketplace (frankenbridge.com) with a working Cloudflare Worker that proxies the Bókun API into a React tour-browser app on WordPress. I want to add many more external tour and activity suppliers, but I don’t know which booking system each one uses. Some may be OCTO/Ventrata, Rezdy, FareHarbor, TourCMS or Checkfront, and others may have a custom API, an XML feed or none at all. I need an expert who has integrated many of these systems. First, identify what each supplier uses and the best way to connect it, and tell me honestly when an integration isn’t worth building. Then build the integrations so tours, availability and prices appear in one unified grid and bookings reach the right supplier. Keep supplier keys server-side and document everything. You work on staging with sandbox credentials only; I never share production keys. I’m starting with a paid audit of my first few suppliers, then we agree the build step by step. Please propose your own audit fee and hourly rate.    
 
 
