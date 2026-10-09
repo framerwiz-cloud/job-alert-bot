@@ -3,6 +3,102 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Remote Full-Time Designer Needed</title><link>https://www.freelancer.com/projects/ui-design/Remote-Full-Time-Designer-Needed</link><guid isPermaLink="false">freelancer:40759457</guid><pubDate>Fri, 09 Oct 2026 16:03:36 GMT</pubDate><description>750-1500 USD | Seeking a highly experienced, dependable, and technically skilled Full-Time Webmaster / Web Developer / SEO Specialist to manage, maintain, improve, and expand our network of approximately 110 websites.
+This is a permanent, full-time position for an individual who can handle website development, technical maintenance, search engine optimization, email marketing campaigns, and the everyday responsibilities of managing a large commercial website portfolio.
+We are not looking for someone who simply updates websites occasionally. We need a dedicated professional who takes ownership of our entire online operation, works a consistent 40-hour week, and produces measurable results.
+
+Primary Responsibilities
+
+1. Website Management &amp; Development
+Manage, maintain, and update approximately 110 company websites.
+Develop new websites, landing pages, and marketing pages.
+Maintain WordPress websites, plugins, themes, and databases.
+Troubleshoot technical problems, broken links, and website errors.
+Ensure websites load quickly and display properly on mobile devices.
+Monitor hosting, SSL certificates, security, backups, and uptime.
+Improve website layouts, navigation, graphics, and functionality.
+Maintain consistent company branding across all websites.
+2. Search Engine Optimization (SEO)
+Perform on-page, off-page, and technical SEO.
+Optimize website content, titles, descriptions, keywords, and internal links.
+Improve Google search visibility and organic traffic.
+Identify and correct indexing, crawling, and performance issues.
+Manage Google Search Console and Google Analytics.
+Research relevant keywords and identify opportunities for growth.
+Improve existing pages and develop SEO-focused landing pages.
+Monitor search rankings and report measurable improvements.
+3. Email Marketing &amp; Campaign Management
+Create and send professional HTML email marketing campaigns.
+Design attractive promotional emails and newsletters.
+Manage email marketing platforms and subscriber lists.
+Set up and maintain email automation campaigns.
+Monitor email delivery, open rates, click rates, and conversions.
+Perform campaign testing and improve marketing performance.
+Maintain email authentication and deliverability standards.
+Follow applicable email marketing and unsubscribe requirements.
+4. Data Card Publishing &amp; Video Marketing
+Publish and update mailing list data cards on NextMark and company websites.
+Maintain accurate descriptions, categories, pricing, and related information.
+Create short promotional videos of approximately 30 seconds for newly published data cards.
+Upload promotional videos to the appropriate data cards and company YouTube channels.
+Optimize video titles, descriptions, and keywords.
+Keep product information consistent across all marketing platforms.
+5. General Webmaster Responsibilities
+Monitor website performance and resolve problems promptly.
+Review websites for outdated content, broken images, and display problems.
+Maintain website security and perform routine updates.
+Improve conversion rates and lead generation.
+Create promotional banners, graphics, and marketing materials.
+Coordinate website improvements and new development projects.
+Recommend practical improvements that increase traffic, inquiries, and sales.
+Handle other technical and digital marketing responsibilities associated with a professional webmaster position.
+
+Required Qualifications
+
+Minimum 3–5 years of professional webmaster or web development experience.
+Advanced WordPress administration and development skills.
+Strong working knowledge of HTML, CSS, JavaScript, and PHP.
+Proven experience with technical SEO and Google search optimization.
+Experience managing multiple commercial websites simultaneously.
+Experience creating and distributing HTML email campaigns.
+Familiarity with Google Analytics, Search Console, and SEO software.
+Ability to troubleshoot hosting, DNS, SSL, and website performance issues.
+Basic graphic design and video editing capabilities.
+Strong written English and communication skills.
+Excellent organizational skills and attention to detail.
+Ability to work independently without constant supervision.
+
+Work Schedule &amp; Accountability
+
+This is a dedicated, full-time position requiring 40 actual working hours per week.
+The successful candidate must:
+Maintain a consistent, agreed-upon work schedule.
+Provide a daily work report detailing completed assignments.
+Maintain a weekly task schedule with priorities and deadlines.
+Demonstrate measurable progress on assigned projects.
+Communicate regularly and respond promptly during working hours.
+Prioritize high-traffic and revenue-producing websites.
+Be available for scheduled meetings and project reviews.
+We expect productivity, accountability, and completed assignments — not simply hours logged.
+
+Compensation
+
+Monthly Salary: $1,000–$1,500 USD
+Compensation will depend on experience, technical qualifications, and demonstrated ability.
+This is a long-term opportunity with the potential for increased compensation based on performance and results.
+
+How to Apply
+
+Please provide the following information with your application:
+Your professional experience managing WordPress websites.
+Examples of websites you have personally developed or maintained.
+Your experience managing large portfolios of websites.
+Examples of successful SEO improvements you have achieved.
+Your experience with HTML email marketing campaigns.
+Your knowledge of video editing and YouTube publishing.
+Your expected monthly salary.
+Confirmation that you can dedicate 40 hours per week to this position.
+Important: Applications that do not address these questions may not be considered.</description></item>
 <item><title>Bilingual Framer Website Design</title><link>https://www.freelancer.com/projects/framer/Bilingual-Framer-Website-Design</link><guid isPermaLink="false">freelancer:40759445</guid><pubDate>Fri, 09 Oct 2026 15:54:51 GMT</pubDate><description>30-250 USD | I need a premium, contemporary website built in Framer that fluidly toggles between English and Arabic. The company champions accessibility and inclusion across Saudi Arabia, so every design choice must echo that mission while strictly following our established brand palette, typography, and logo usage.
 
 Scope of the build  
@@ -1013,32 +1109,6 @@ Ideal Skills and Experience:
 
 Please provide a portfolio showcasing similar projects.</description></item>
 <item><title>Automations For Google Ads &amp; Wordpress</title><link>https://www.freelancer.com/projects/google-ads/Automations-For-Google-Ads-Wordpress</link><guid isPermaLink="false">freelancer:40757554</guid><pubDate>Thu, 08 Oct 2026 14:31:07 GMT</pubDate><description>15-25 CAD/hr | Basic automations linking Google ads, and Wordpress websites to a Google sheet.</description></item>
-<item><title>React E-commerce to WordPress Conversion</title><link>https://www.freelancer.com/projects/woocommerce/React-commerce-WordPress-Conversion</link><guid isPermaLink="false">freelancer:40757536</guid><pubDate>Thu, 08 Oct 2026 14:21:31 GMT</pubDate><description>250-750 USD | My current website is a hybrid: WordPress in the back-end with several React components powering the storefront and checkout. The job is to rebuild the entire site inside WordPress only, preserve all design and functionality, and keep everything fast, mobile-friendly, and easy to manage from the WP admin.
-
-Core work
-• Re-create every page template, product archive, and single-product view as native WordPress (Gutenberg blocks, lightweight custom theme, or child theme—whatever keeps code lean).  
-• Replace each React element with an equivalent solution in vanilla JS or custom WP so the user experience remains unchanged.
-
-Payment gateway integration
-Once the site is 100 % WordPress, needs to run a seamless checkout flow with PayPal, Stripe, and Square. I have sandbox credentials ready; live keys will follow after testing.
-
-Data &amp; SEO continuity
-Products, customers, orders, SEO settings, and URL structure must stay intact. I’ll provide a full codebase download, database dump, and staging server so you can work safely before going live.
-
-Deliverables
-• New WordPress theme or child theme replicating the existing design  
-• Fully configured store  
-• Secure, tested PayPal, Stripe, and Square integrations (sandbox + live)  
-• Migration of all products, users, and orders with zero data loss  
-• Deployment to production after my approval  
-• Short handover document explaining theme structure, key plugins, and update steps
-
-Acceptance criteria
-1. Site renders and functions identically to the current version across modern browsers and mobile.  
-2. Checkout completes successfully with each gateway in live mode.  
-3. Google Lighthouse performance score ≥ 90 on desktop.
-
-If you have solid  migration experience and can outline a realistic timeline, I’m ready to get started.</description></item>
 <item><title>CRM System Setup for Party-Planning Business -- 2</title><link>https://www.freelancer.com/projects/invoicing/CRM-System-Setup-for-Party</link><guid isPermaLink="false">freelancer:40757010</guid><pubDate>Thu, 08 Oct 2026 09:04:16 GMT</pubDate><description>2-5 GBP/hr | Title: Tech Specialist Needed: Set up Party Booking, Invoicing &amp; Client Communication System (Bloom / Client Management)
 ​Project Description:
 We run a party-planning business in London and need an experienced tech VA or CRM specialist to set up our entire booking, invoicing, and client communication operations from scratch.
