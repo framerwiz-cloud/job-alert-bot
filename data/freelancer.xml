@@ -3,6 +3,116 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Expert Real Estate WordPress Developer Needed</title><link>https://www.freelancer.com/projects/api-integration/Expert-Real-Estate-WordPress-Developer</link><guid isPermaLink="false">freelancer:40758275</guid><pubDate>Fri, 09 Oct 2026 00:33:31 GMT</pubDate><description>250-750 USD | WordPress Real Estate Marketplace Developer – Houzez + Property Feed/API + SEO
+
+Our Financial Health (OFH) is seeking an experienced WordPress real estate developer to build an apartment-search marketplace connected to our existing website.
+
+We are looking for someone who has experience with Houzez, real-estate listing feeds/APIs, CSV/XML/JSON imports, and Google SEO.
+
+PROJECT GOAL
+
+We want to create an OFH-branded apartment marketplace where consumers can search thousands of available rental properties across multiple U.S. cities and states.
+
+We plan to obtain rental inventory through a licensed property-data provider such as HousingFeed.
+
+We DO NOT want someone to manually enter listings.
+
+The property feed must automatically:
+
+* Import new listings
+* Update existing listings
+* Remove unavailable listings
+* Import property photos
+* Import rent, bedrooms, bathrooms, addresses, descriptions, amenities, etc.
+* Preserve required property-manager/source attribution and outbound links
+
+PREFERRED SETUP
+
+We are currently considering:
+
+WordPress + Houzez + HousingFeed Display Feed
+
+We are open to another solution if you can demonstrate that it is better for scalability and SEO.
+
+WEBSITE FEATURES
+
+The marketplace should include:
+
+* Apartment search
+* City/ZIP search
+* Rent filters
+* Bedroom/bathroom filters
+* Property photos
+* Individual property pages
+* Maps/location information
+* Mobile-friendly design
+* Property-manager/source attribution
+* Lead capture
+* Links/CTAs to our Pathway to Homeownership program
+
+VERY IMPORTANT – GOOGLE SEO
+
+Our biggest objective is creating a website that can be properly crawled, indexed and ranked by Google.
+
+We want SEO-friendly URLs such as:
+
+/apartments/baltimore-md/
+
+/apartments/newark-nj/
+
+/apartments/philadelphia-pa/
+
+and individual property pages.
+
+We also want the ability to create optimized landing pages such as:
+
+* Apartments for Rent in Baltimore
+* 2 Bedroom Apartments in Baltimore
+* Apartments Under $2,000
+* Apartments in Newark, NJ
+* Apartments in Washington, DC
+* Neighborhood-specific searches
+
+Developer should understand:
+
+* Google Search Console
+* XML sitemaps
+* Schema/structured data
+* Canonical URLs
+* Technical SEO
+* Page speed/Core Web Vitals
+* Mobile optimization
+* Internal linking
+* Indexing large numbers of property pages
+* Avoiding duplicate/thin-content SEO problems
+
+IDEAL CANDIDATE
+
+Please apply if you have experience with several of the following:
+
+WordPress / Houzez / RealHomes / WP All Import / REST APIs / JSON / XML / CSV property feeds / automated listing synchronization / real-estate marketplaces / Google technical SEO.
+
+Experience building rental portals, property-search websites, MLS/IDX sites, or large directory websites is strongly preferred.
+
+WHEN APPLYING
+
+Please send:
+
+1. Examples of real-estate/property-search websites you have built.
+2. Your experience with Houzez or similar systems.
+3. Your experience integrating third-party property feeds/APIs.
+4. How you would automatically synchronize new, updated and removed HousingFeed listings.
+5. How you would structure the site so Google can crawl and index thousands of listings.
+6. Your estimated cost and development timeline.
+7. Whether you can provide ongoing maintenance after launch.
+
+IMPORTANT: Please do not apply if your experience is primarily basic WordPress page design. We specifically need someone experienced with property-data integrations, automation and technical SEO.
+
+About OFH
+
+Our Financial Health operates a Pathway to Homeownership program serving renters, working families, first-time homebuyers and eligible housing-assistance participants.
+
+Our goal is to build a housing marketplace that helps consumers find housing today while creating a pathway toward homeownership tomorrow.</description></item>
 <item><title>Estonian Linguistic Reviewer for Web Content</title><link>https://www.freelancer.com/projects/content-management-system/Estonian-Linguistic-Reviewer-for-Web</link><guid isPermaLink="false">freelancer:40758239</guid><pubDate>Thu, 08 Oct 2026 23:51:20 GMT</pubDate><description>30-250 USD | I’m looking for a native or near-native Estonian speaker to help review English → Estonian web content that has been initially translated using AI/machine translation.
 The work is mainly human linguistic review and post-editing, not translation from scratch.
 Responsibilities may include:
@@ -1011,23 +1121,6 @@ Deliverables I expect from you each Friday:
 3. An inbox summary noting messages you handled and anything still waiting on me.
 
 Strong written English, familiarity with WordPress, Canva (or similar), Buffer/Hootsuite and Google Analytics will help you shine in this role. If this sounds like a good fit, let me know your relevant experience and your earliest start date so we can get moving.</description></item>
-<item><title>Restaurant Website &amp; UK Email</title><link>https://www.freelancer.com/projects/web-development/Restaurant-Website-Email</link><guid isPermaLink="false">freelancer:40755425</guid><pubDate>Wed, 07 Oct 2026 13:20:31 GMT</pubDate><description>250-750 GBP | Project Title: Website Development &amp; Professional .co.uk Email Setup
-
-I am looking for an experienced freelancer to create a professional website for my business and set up a matching professional email account using a .co.uk domain.
-
-Requirements:
-Design and develop a modern, professional, mobile-friendly website.
-Register or set up a suitable .co.uk domain name.
-Set up professional business email accounts using the same domain 
-
-Configure email so it works reliably on Gmail, Outlook, mobile phones, and other email applications.
-Set up the necessary domain, hosting, DNS, and email records.
-Ensure the website is secure, fast, and easy to update.
-Provide basic guidance on how I can manage the website and email after completion.
-
-I would prefer someone with experience in UK-based .co.uk domains, website development, hosting, and business email setup.
-
-Please include examples of similar websites you have created, your estimated timeframe, and your total cost.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
