@@ -3,17 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Modern Portfolio Website Build -- 2</title><link>https://www.freelancer.com/projects/website-design/Modern-Portfolio-Website-Build</link><guid isPermaLink="false">freelancer:40759496</guid><pubDate>Fri, 09 Oct 2026 16:20:01 GMT</pubDate><description>750-1500 USD | I want a clean, modern-minimalist portfolio site that presents my work clearly and loads fast on every device. The core of the site will be:  
+<item><title>Clone &amp; Redesign Carbus24 Website</title><link>https://www.freelancer.com/projects/web-development/Clone-Redesign-Carbus-Website</link><guid isPermaLink="false">freelancer:40759495</guid><pubDate>Fri, 09 Oct 2026 16:22:39 GMT</pubDate><description>100000-300000 USD | I want an exact functional replica of www.carbus24.com built from the ground up, then taken a step further with a major visual overhaul. The structure, pages, search/filter logic, vehicle-listing features, and enquiry forms must all behave exactly as on the original site, but the finished product has to look and feel fresh through a completely new colour palette and modern typography.
 
-• An image gallery that can expand to full-screen and stay sharp on retina displays  
-• Individual project pages with room for detailed descriptions, tech stacks, and links  
-• A contact form that routes messages straight to my email and is protected against spam  
+I am open to the stack you choose—WordPress, custom PHP/Laravel, React, or another framework—as long as the code is clean, responsive, SEO-friendly, and easy for me to maintain afterward. You will handle everything from cloning the front- and back-end functionality to implementing the redesigned styles, migrating sample data for testing, and deploying the site to my hosting.
 
-The overall look should lean on ample white space, restrained color, and crisp typography—no clutter, no heavy animations, just subtle transitions that keep the experience smooth. Responsive behaviour is non-negotiable; the layout must adjust seamlessly from phone to desktop.
+Deliverables
+• Fully functional clone of carbus24.com with identical features  
+• New colour scheme and font family applied consistently across all pages  
+• Mobile-first responsive layout verified on major browsers and devices  
+• Source code, design assets, and step-by-step deployment/maintenance guide  
+• Two rounds of post-launch tweaks to iron out any issues  
 
-Tech stack is your call—React, Vue, Next.js, static HTML/CSS, or a lightweight CMS—as long as page speed stays top-tier and future content updates are straightforward. Hand over complete source files, build instructions, and a brief guide for making simple edits after launch.
+Acceptance Criteria
+The site must match the original’s behaviour page-for-page while passing Google Lighthouse scores of 85+ for Performance and Accessibility, and all redesigned visual elements must align with the approved colour and typography mock-ups.
 
-Show me two or three links to similar minimalist portfolios you’ve built, outline your timeline, and note any questions you have about hosting or assets. I’m ready to begin as soon as I find the right fit.</description></item>
+If this fits your skill set, let’s get started.</description></item>
 <item><title>Modern Portfolio Website Build</title><link>https://www.freelancer.com/projects/web-design/Modern-Portfolio-Website-Build-40759480</link><guid isPermaLink="false">freelancer:40759480</guid><pubDate>Fri, 09 Oct 2026 16:14:57 GMT</pubDate><description>750-1500 USD | I want a clean, modern-minimalist portfolio site that presents my work clearly and loads fast on every device. The core of the site will be:  
 
 • An image gallery that can expand to full-screen and stay sharp on retina displays  
