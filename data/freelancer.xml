@@ -3,6 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Store Setup for Clothing Line</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-for-Clothing</link><guid isPermaLink="false">freelancer:40759271</guid><pubDate>Fri, 09 Oct 2026 13:38:31 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Shopify developer to transfer a simple website (BABYINABAG.com)for baby sleep sacks to Shopify. 
+
+Ideal Skills:
+- Proficiency in Shopify
+- Experience with clothing and accessories stores
+- Strong design skills to work with existing themes
+
+Please share relevant portfolio work.</description></item>
 <item><title>Full-Stack Developer for AI-Driven SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Developer-for-Driven</link><guid isPermaLink="false">freelancer:40759256</guid><pubDate>Fri, 09 Oct 2026 13:27:01 GMT</pubDate><description>250-750 USD | Project Overview: Seeking a skilled full-stack developer to build and launch an AI-driven digital companion SaaS platform (featuring 12 distinct male persona archetypes, long-term memory, Stripe subscriptions, and automated e-commerce gifting hooks).
 Partnership Model: This is an equity/revenue-share partnership. To reward your heavy lifting, you receive a 60% to 80% majority split (depending on stack complexity), while I retain 40% to 20%.
 What I Bring (Zero Fluff for You): Complete product blueprints, user flows, database schemas, and system prompt behavior rules are already fully mapped out and ready to hand over. I also handle the marketing, promotion, and user acquisition.
@@ -1269,23 +1277,6 @@ Ideal Skills &amp; Experience:
 - Ability to work within basic brand guidelines
 
 Please share your portfolio and relevant experience.</description></item>
-<item><title>Website Performance and Accessibility Enhancement</title><link>https://www.freelancer.com/projects/google-website-optimizer/Website-Performance-Accessibility</link><guid isPermaLink="false">freelancer:40756262</guid><pubDate>Thu, 08 Oct 2026 00:21:53 GMT</pubDate><description>250-750 AUD | Performance (get LCP from 12.1s to under 2.5s)
-Hero media fix — loading="eager" + fetchpriority="high" on the first section's image, plus a &lt;link rel="preload"&gt; for it in theme.liquid; no lazy-loading on anything above the fold
-Defer/remove unused JavaScript (~383 KiB) — non-critical theme + third-party scripts get defer/async or removal
-Trim unused CSS (~116 KiB)
-Render-blocking requests — restructure how scripts/styles load in theme.liquid (~260ms)
-Explicit width/height on all image elements
-Delete dead app-block references in theme JSON (Pandectes leftovers)
-Remove orphaned scripts in theme.liquid from uninstalled apps (search: blocky, mida, teemdrop, cwill)
-Accessibility (get from 70 to 90+)
-Alt text on every content image
-Colour contrast on text/buttons to 4.5:1
-Named links/buttons — no empty &lt;a&gt; icon links, proper aria-labels
-Heading order — single H1, no skipped levels
-Form labels — visible labels or aria-label on inputs (search, newsletter)
-Terms for the job
-Work on a duplicated theme first; publish only after review
-Payment on results: mobile LCP &lt; 2.5s, Performance 85+, Accessibility 90+, median of 3 PageSpeed runs, and add-to-cart/cart/reviews/chat all still working</description></item>
 <item><title>Divi WordPress E-Commerce Developer Needed</title><link>https://www.freelancer.com/projects/woocommerce/Divi-WordPress-Commerce-Developer-Needed</link><guid isPermaLink="false">freelancer:40755741</guid><pubDate>Wed, 07 Oct 2026 16:42:31 GMT</pubDate><description>8-15 USD/hr | I’m looking for a WordPress developer who already feels at home inside the Divi Builder.  The immediate priorities on my site are to introduce full e-commerce capability, tighten up on-page SEO, and build a couple of bespoke forms/plugins that tie everything together.
 
 E-commerce scope  
