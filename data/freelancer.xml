@@ -3,6 +3,37 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Private Shopify Custom App: AI-Assisted Hardware Diagnostics Pipeline</title><link>https://www.freelancer.com/projects/shopify-development/Private-Shopify-Custom-App-Assisted</link><guid isPermaLink="false">freelancer:40758508</guid><pubDate>Fri, 09 Oct 2026 04:17:04 GMT</pubDate><description>250-750 USD | We are launching a high-ticket consumer appliance sales and mechanical repair service business in the United States. We are utilizing a standard Shopify platform to manage hardware sales, parts inventory, and recurring care service memberships.
+We require an experienced full-stack developer to build a private, custom Shopify application to streamline our mechanical repair diagnostics pipeline. The app will act as a training copilot to help bench technicians troubleshoot and execute repairs with high speed and precision.
+To minimize development hours and keep our budget tight, the internal technician dashboard must be built using an embedded low-code framework (such as Retool or Bubble) integrated directly within our Shopify Admin panel via a secure app proxy or iframe.
+
+Core Workflow &amp; High-Level Requirements
+
+
+1. Customer Front-End Intake (Liquid/Shopify UI)
+
+• A clean submission page embedded on our live Shopify storefront.
+• The customer inputs hardware metadata, describes the symptoms, and uploads a clear photo or short video snippet of the mechanical issue (up to 10MB).
+• Data Parameter: Data writes directly to a secure backend database (PostgreSQL/Supabase preferred) and links to their Shopify Customer Profile. No processing or automated data is shown to the end customer.
+
+2. Private Technician Bench Panel (Retool or Bubble Embedded)
+
+• A hidden dashboard embedded inside the Shopify Admin panel for our internal bench technicians.
+• Displays a queue of incoming open repair tickets. Clicking a ticket loads the customer's text/image metadata alongside an internal diagnostic workflow tool.
+• The AI Integration: Technicians trigger an internal action passing the context to a multimodal LLM API (gpt-4o or similar). The API references custom technical documentation files mapped in our database to return a structured troubleshooting guide onto the bench display.
+
+3. Technician Field Verification &amp; Conditional Logic Locks
+
+• Technicians must be able to upload a secondary "internal/exposed chassis" photo directly from the bench for secondary vision analysis.
+• The dashboard features a strict conditional step-locking mechanism. Technicians must perform manual tool measurements (e.g., logging electrical or pressure data) and check off mandatory safety criteria before the dashboard will allow the ticket to be closed or update Shopify inventory data.
+
+Technical Stack Expectations
+
+• Frontend: Shopify Liquid/JSON (Public), Retool or Bubble (Internal Admin)
+• Backend Database: Supabase / PostgreSQL + Secure cloud image storage bucket
+• AI Framework: Direct OpenAI API integration (gpt-4o) via minimal webhooks
+• E-Commerce Sync: Shopify Admin API (GraphQL preferred) to sync ticket history with Shopify Customer IDs
+Full technical specifications, detailed prompt architectures, and database schema mappings will be provided to qualified candidates upon execution of a standard mutual NDA.</description></item>
 <item><title>East Feast Asian Festival Website Creation</title><link>https://www.freelancer.com/projects/web-design/East-Feast-Asian-Festival-Website</link><guid isPermaLink="false">freelancer:40758473</guid><pubDate>Fri, 09 Oct 2026 03:56:01 GMT</pubDate><description>30-250 USD | I am building a new Asian Food &amp; Culture Festival called East Feast.
 (I would like to make similar website as : https://foodielandnm.com/
 and https://www.nightlightsevent.com/ )
@@ -1157,23 +1188,6 @@ Deliverables I expect from you each Friday:
 3. An inbox summary noting messages you handled and anything still waiting on me.
 
 Strong written English, familiarity with WordPress, Canva (or similar), Buffer/Hootsuite and Google Analytics will help you shine in this role. If this sounds like a good fit, let me know your relevant experience and your earliest start date so we can get moving.</description></item>
-<item><title>Restaurant Website &amp; UK Email</title><link>https://www.freelancer.com/projects/web-development/Restaurant-Website-Email</link><guid isPermaLink="false">freelancer:40755425</guid><pubDate>Wed, 07 Oct 2026 13:20:31 GMT</pubDate><description>250-750 GBP | Project Title: Website Development &amp; Professional .co.uk Email Setup
-
-I am looking for an experienced freelancer to create a professional website for my business and set up a matching professional email account using a .co.uk domain.
-
-Requirements:
-Design and develop a modern, professional, mobile-friendly website.
-Register or set up a suitable .co.uk domain name.
-Set up professional business email accounts using the same domain 
-
-Configure email so it works reliably on Gmail, Outlook, mobile phones, and other email applications.
-Set up the necessary domain, hosting, DNS, and email records.
-Ensure the website is secure, fast, and easy to update.
-Provide basic guidance on how I can manage the website and email after completion.
-
-I would prefer someone with experience in UK-based .co.uk domains, website development, hosting, and business email setup.
-
-Please include examples of similar websites you have created, your estimated timeframe, and your total cost.</description></item>
 <item><title>Interactive Social Media Business Locator App Development</title><link>https://www.freelancer.com/projects/web-development/Social-Media-Business-Locator-App</link><guid isPermaLink="false">freelancer:40754182</guid><pubDate>Wed, 07 Oct 2026 00:37:02 GMT</pubDate><description>25-50 USD/hr | I need a website and mobile app that integrates with multiple social media platforms to locate and display businesses on a map based on user search queries. 
 
 Key Features:
