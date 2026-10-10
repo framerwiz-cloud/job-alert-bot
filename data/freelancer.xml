@@ -3,6 +3,34 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Ebook Store Setup</title><link>https://www.freelancer.com/projects/web-development/WordPress-Ebook-Store-Setup</link><guid isPermaLink="false">freelancer:40760639</guid><pubDate>Sat, 10 Oct 2026 10:54:23 GMT</pubDate><description>750-1500 AUD | I’m moving my small ebook business, RealGuides.co, off Payhip and onto a self-hosted WordPress site (Australian server, domain at Porkbun). The new site will run Easy Digital Downloads with Stripe and PayPal in AUD and collect emails through MailerLite.
+
+Design &amp; layout  
+– Visually I’m after a modern, minimal look with a warm feel—clean lines, generous white space and friendly typography.  
+– The homepage should present category-based sections rather than a hero slider, so visitors can jump straight to what interests them.
+
+Store structure , Logo is charcoal and gold has been used stacked and side by side.
+Around 20 paid ebooks and 8 free guides need to be organised into six clear categories. Each free guide must trigger a MailerLite signup before download. Please migrate existing Payhip products, then set up 301 redirects so no old links break.
+
+Core pages &amp; blog  
+Standard pages (Home, Shop, About, Contact, Policies) plus a blog. On the blog I only need a search bar and related-posts suggestions beneath each article—no public comments. Make it simple for me to add new books, freebies and posts later without touching code.
+
+Marketing &amp; analytics  
+• Social sharing buttons on product and blog pages  
+• Embedded Instagram feed  
+• Meta Pixel and Pinterest Tag installed  
+• Clean product links I can drop into Instagram and TikTok bios or posts
+
+SEO, security &amp; maintenance  
+Configure Rank Math (or Yoast if you prefer) and Google Search Console, harden security, and set up automated off-site backups.
+
+Domain &amp; ownership  
+Connect my Porkbun domain, point DNS, and ensure every tool, licence, and account stays in my name—nothing locked to you.
+
+Handover  
+When it’s done, record a short walkthrough video showing how to add a new ebook, a freebie, and a blog post. We’ll structure payment by milestones: setup, migration, testing, handover.
+
+If this sounds like your kind of build, let’s chat timelines and get started.</description></item>
 <item><title>Custom Branded E-Commerce Website -- 2</title><link>https://www.freelancer.com/projects/web-development/Custom-Branded-Commerce-Website</link><guid isPermaLink="false">freelancer:40760574</guid><pubDate>Sat, 10 Oct 2026 09:59:27 GMT</pubDate><description>250-750 CAD | I need an e-commerce website built from the ground up for my own brand rather than on a hosted platform such as Shopify, WooCommerce or Magento. The site must present a clean product catalog, let customers place items in a shopping cart, leave user reviews and check out smoothly through secure payment methods.  
 
 Beyond the store itself, I also want a concise FAQ area and clear pages for all product and store policies so visitors can quickly find answers on shipping, returns and other terms. The finished site should be fully responsive, load quickly and include an intuitive admin panel where I can add or edit products, upload images, adjust prices and review customer feedback without touching code.  
@@ -767,116 +795,6 @@ Please let me know:
 2. Total cost
 3. Completion time
 4. Examples of similar event websites you have built in the past</description></item>
-<item><title>Expert Real Estate WordPress Developer Needed</title><link>https://www.freelancer.com/projects/api-integration/Expert-Real-Estate-WordPress-Developer</link><guid isPermaLink="false">freelancer:40758275</guid><pubDate>Fri, 09 Oct 2026 00:33:31 GMT</pubDate><description>250-750 USD | WordPress Real Estate Marketplace Developer – Houzez + Property Feed/API + SEO
-
-Our Financial Health (OFH) is seeking an experienced WordPress real estate developer to build an apartment-search marketplace connected to our existing website.
-
-We are looking for someone who has experience with Houzez, real-estate listing feeds/APIs, CSV/XML/JSON imports, and Google SEO.
-
-PROJECT GOAL
-
-We want to create an OFH-branded apartment marketplace where consumers can search thousands of available rental properties across multiple U.S. cities and states.
-
-We plan to obtain rental inventory through a licensed property-data provider such as HousingFeed.
-
-We DO NOT want someone to manually enter listings.
-
-The property feed must automatically:
-
-* Import new listings
-* Update existing listings
-* Remove unavailable listings
-* Import property photos
-* Import rent, bedrooms, bathrooms, addresses, descriptions, amenities, etc.
-* Preserve required property-manager/source attribution and outbound links
-
-PREFERRED SETUP
-
-We are currently considering:
-
-WordPress + Houzez + HousingFeed Display Feed
-
-We are open to another solution if you can demonstrate that it is better for scalability and SEO.
-
-WEBSITE FEATURES
-
-The marketplace should include:
-
-* Apartment search
-* City/ZIP search
-* Rent filters
-* Bedroom/bathroom filters
-* Property photos
-* Individual property pages
-* Maps/location information
-* Mobile-friendly design
-* Property-manager/source attribution
-* Lead capture
-* Links/CTAs to our Pathway to Homeownership program
-
-VERY IMPORTANT – GOOGLE SEO
-
-Our biggest objective is creating a website that can be properly crawled, indexed and ranked by Google.
-
-We want SEO-friendly URLs such as:
-
-/apartments/baltimore-md/
-
-/apartments/newark-nj/
-
-/apartments/philadelphia-pa/
-
-and individual property pages.
-
-We also want the ability to create optimized landing pages such as:
-
-* Apartments for Rent in Baltimore
-* 2 Bedroom Apartments in Baltimore
-* Apartments Under $2,000
-* Apartments in Newark, NJ
-* Apartments in Washington, DC
-* Neighborhood-specific searches
-
-Developer should understand:
-
-* Google Search Console
-* XML sitemaps
-* Schema/structured data
-* Canonical URLs
-* Technical SEO
-* Page speed/Core Web Vitals
-* Mobile optimization
-* Internal linking
-* Indexing large numbers of property pages
-* Avoiding duplicate/thin-content SEO problems
-
-IDEAL CANDIDATE
-
-Please apply if you have experience with several of the following:
-
-WordPress / Houzez / RealHomes / WP All Import / REST APIs / JSON / XML / CSV property feeds / automated listing synchronization / real-estate marketplaces / Google technical SEO.
-
-Experience building rental portals, property-search websites, MLS/IDX sites, or large directory websites is strongly preferred.
-
-WHEN APPLYING
-
-Please send:
-
-1. Examples of real-estate/property-search websites you have built.
-2. Your experience with Houzez or similar systems.
-3. Your experience integrating third-party property feeds/APIs.
-4. How you would automatically synchronize new, updated and removed HousingFeed listings.
-5. How you would structure the site so Google can crawl and index thousands of listings.
-6. Your estimated cost and development timeline.
-7. Whether you can provide ongoing maintenance after launch.
-
-IMPORTANT: Please do not apply if your experience is primarily basic WordPress page design. We specifically need someone experienced with property-data integrations, automation and technical SEO.
-
-About OFH
-
-Our Financial Health operates a Pathway to Homeownership program serving renters, working families, first-time homebuyers and eligible housing-assistance participants.
-
-Our goal is to build a housing marketplace that helps consumers find housing today while creating a pathway toward homeownership tomorrow.</description></item>
 <item><title>WordPress Informational Site Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-Informational-Site-Build</link><guid isPermaLink="false">freelancer:40758005</guid><pubDate>Thu, 08 Oct 2026 19:45:15 GMT</pubDate><description>8-15 CAD/hr | I want to launch a clean, fast, and fully responsive informational website on WordPress where I’ll be publishing regular articles and blog-style posts. Your job starts with setting up the CMS, choosing or creating a theme that matches my brand, and configuring the essential plugins for speed, security, backups, and on-page SEO.  
 
 Once the site is live, I’ll need ongoing maintenance so the platform, theme, and plugins remain up to date and trouble-free. That includes monitoring uptime, fixing occasional bugs, and adding small feature tweaks or new pages when required. Because the core content will be text-based articles, an intuitive editor experience and well-structured category/tag system are important.  
