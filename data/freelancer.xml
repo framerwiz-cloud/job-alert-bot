@@ -3,6 +3,38 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-Commerce Store Development for Medical Apparel</title><link>https://www.freelancer.com/projects/shopify-site/Commerce-Store-Development-for-Medical</link><guid isPermaLink="false">freelancer:40760928</guid><pubDate>Sat, 10 Oct 2026 15:40:02 GMT</pubDate><description>100-200 USD | Title: Build a Small E-Commerce Store for JACKS Premium Medical Apparel
+
+I’m seeking an experienced developer to build a professional, mobile-friendly online store for JACKS Premium Medical Apparel, a physician-founded medical apparel brand.
+
+Development budget: $100–$200 USD fixed price. Domain, hosting/platform subscription, and any approved paid tools will be budgeted separately.
+
+Please propose Shopify or WordPress + WooCommerce and explain your choice, including all ongoing costs.
+
+Initial scope:
+• Customize a free, supported theme using our logo, brand colors, photographs, and supplied text.
+• Create Home, Shop, About, Contact, Size Guide, and policy pages using supplied policy wording.
+• Set up up to 10 initial products with size and color options.
+• Configure pre-orders with clear availability and estimated shipping information.
+• Offer optional name/title embroidery with an additional charge and capture the exact text in the order.
+• Configure payments, shipping, and tax settings based on information I provide.
+• Add discount codes and links to Instagram, TikTok, and WhatsApp.
+• Configure order-confirmation emails and basic search-engine metadata.
+• Test the complete ordering process on mobile and desktop.
+• Provide a short video showing how to update products, prices, and orders.
+
+Please include in your bid:
+
+1. Your fixed development price and delivery timeline.
+2. Two or three stores you have built.
+3. All required paid apps, plugins, themes, and renewal costs.
+4. Whether pre-orders and embroidery require paid tools.
+5. Your revision allowance and at least 30 days of support for defects in the delivered work.
+6. Optional ongoing maintenance pricing.
+
+All accounts, the domain, licenses, and store administration must be registered under my ownership. Use properly licensed software.
+
+Please propose milestone payments for design approval, a functioning store, and final testing and handover.</description></item>
 <item><title>React Developer – Figma to Pixel-Perfect Marketing Site</title><link>https://www.freelancer.com/projects/react-js/React-Developer-Figma-Pixel-Perfect</link><guid isPermaLink="false">freelancer:40760728</guid><pubDate>Sat, 10 Oct 2026 11:59:13 GMT</pubDate><description>2-8 USD/hr | We have a fully designed marketing website in Figma and need an experienced frontend developer to translate it into production-quality React code. This is an implementation project — the design is finalized and we need precise, clean code that matches it exactly.
 
 Requirements:
@@ -65,16 +97,6 @@ Deliverables
 • Deployment to my hosting environment and brief hand-over documentation  
 
 Acceptance will be based on smooth checkout flow, error-free payment processing, and my ability to manage products independently from the admin panel.</description></item>
-<item><title>Elegant Website Refresh and Optimization</title><link>https://www.freelancer.com/projects/web-design/Elegant-Website-Refresh-Optimization</link><guid isPermaLink="false">freelancer:40760441</guid><pubDate>Sat, 10 Oct 2026 08:17:50 GMT</pubDate><description>5-10 GBP/hr | I’m ready to give my existing site a facelift that feels classic and elegant while also tightening up performance on every screen size. The immediate priorities are:   
-
-• Re-working page layouts and navigation so visitors can find key sections intuitively.  
-• Replacing dated imagery and copy with fresh, brand-aligned content that matches a timeless, refined aesthetic.  
-• Streamlining code, compressing assets, and implementing any caching or CDN tweaks necessary to bring loading times comfortably under two seconds.  
-• Ensuring the entire experience is fully responsive—no pinch-zooming, broken grids, or awkward menus on mobile or tablet.  
-
-I’ll provide the current site URL, brand guidelines, and updated copy deck. I’m looking for your recommendations on structure, typography, color palette, and any lightweight performance tools or techniques (e.g., lazy-loading, minification, WebP). A short staging link or live prototype will help us iterate quickly before pushing to production.  
-
-Acceptance is straightforward: all pages render consistently across modern browsers, score well on Google PageSpeed (desktop and mobile), and reflect the polished, classic feel outlined above. If this sounds like your kind of project, let’s talk timing and milestones.</description></item>
 <item><title>Upgrade 1CFOcenter 7 Service Pages</title><link>https://www.freelancer.com/projects/seo/Upgrade-CFOcenter-Service-Pages</link><guid isPermaLink="false">freelancer:40760159</guid><pubDate>Sat, 10 Oct 2026 04:25:25 GMT</pubDate><description>250-750 USD | My site, 1CFOcenter.com, is ready for a substantial refresh. I have finished copy and approved mock-ups for seven new Service Offering pages and now need them built and slotted smoothly into the existing site.
 
 Here’s what I need done:
@@ -752,71 +774,6 @@ Technical Stack Expectations
 • AI Framework: Direct OpenAI API integration (gpt-4o) via minimal webhooks
 • E-Commerce Sync: Shopify Admin API (GraphQL preferred) to sync ticket history with Shopify Customer IDs
 Full technical specifications, detailed prompt architectures, and database schema mappings will be provided to qualified candidates upon execution of a standard mutual NDA.</description></item>
-<item><title>East Feast Asian Festival Website Creation</title><link>https://www.freelancer.com/projects/web-design/East-Feast-Asian-Festival-Website</link><guid isPermaLink="false">freelancer:40758473</guid><pubDate>Fri, 09 Oct 2026 03:56:01 GMT</pubDate><description>30-250 USD | I am building a new Asian Food &amp; Culture Festival called East Feast.
-(I would like to make similar website as : https://foodielandnm.com/
-and https://www.nightlightsevent.com/ )
-
-I need a professional website that includes:
-
-Home Page
-
-* Festival branding and promotional video
-* Countdown timer
-* Festival information
-
-Ticket Sales
-
-* General Admission
-* VIP Tickets
-* Online payment processing
-* QR code ticketing
-
-Vendor Registration
-
-* Food Vendor Application
-* Merchandise Vendor Application
-* Upload documents and photos
-* Application review dashboard
-
-Performer Registration
-
-* Performer application form
-* Upload videos and social media links
-
-Sponsor Registration
-
-* Sponsor inquiry form
-* Sponsorship packages
-
-Event Information
-
-* Venue details
-* Parking information
-* FAQs
-* Contact page
-
-Vendor Directory
-
-* Featured vendors
-* Food categories
-* Vendor profiles
-
-Email Marketing
-
-* Newsletter signup
-* Automated email collection
-
-Mobile Friendly
-
-* Fast loading
-* Optimized for Instagram and social media traffic
-
-Please let me know:
-
-1. Recommended platform (WordPress or Wix)
-2. Total cost
-3. Completion time
-4. Examples of similar event websites you have built in the past</description></item>
 <item><title>WordPress Informational Site Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-Informational-Site-Build</link><guid isPermaLink="false">freelancer:40758005</guid><pubDate>Thu, 08 Oct 2026 19:45:15 GMT</pubDate><description>8-15 CAD/hr | I want to launch a clean, fast, and fully responsive informational website on WordPress where I’ll be publishing regular articles and blog-style posts. Your job starts with setting up the CMS, choosing or creating a theme that matches my brand, and configuring the essential plugins for speed, security, backups, and on-page SEO.  
 
 Once the site is live, I’ll need ongoing maintenance so the platform, theme, and plugins remain up to date and trouble-free. That includes monitoring uptime, fixing occasional bugs, and adding small feature tweaks or new pages when required. Because the core content will be text-based articles, an intuitive editor experience and well-structured category/tag system are important.  
