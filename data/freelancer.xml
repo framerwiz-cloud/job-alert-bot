@@ -3,6 +3,43 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>High-Speed Kmart SKU Checkout Automation – API Integration &amp; 5-Account Support</title><link>https://www.freelancer.com/projects/web-development/High-Speed-Kmart-SKU-Checkout</link><guid isPermaLink="false">freelancer:40759999</guid><pubDate>Sat, 10 Oct 2026 00:53:59 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build a high-performance e-commerce purchasing and inventory management application.
+
+Key Requirements:
+
+Fast SKU-based product lookup and selection.
+
+API integration for inventory, cart and checkout operations where supported.
+
+Real-time stock availability monitoring.
+
+Support for up to 5 separate user profiles.
+
+Independent login sessions and saved checkout preferences.
+
+Configurable product quantities.
+
+Secure shipping and payment information management.
+
+Optimised cart and checkout processing with minimal latency.
+
+Concurrent processing and efficient request handling.
+
+Reliable error handling, retries and session management.
+
+Simple dashboard to monitor product status and transaction progress.
+
+Compliance with platform rate limits and access controls.
+
+Preferred Skills:
+
+Python, JavaScript, Node.js, Playwright, REST APIs, API Integration, Async Programming, E-commerce Systems, Session Management, Database Management, Performance Optimisation.
+
+Project Goal:
+
+Develop a fast, reliable application that streamlines product selection, inventory monitoring and checkout workflows for time-sensitive product releases, using supported integrations.
+
+Prior experience with high-traffic e-commerce systems is preferred.</description></item>
 <item><title>Toast POS Integration Specialist</title><link>https://www.freelancer.com/projects/api-integration/Toast-POS-Integration-Specialist</link><guid isPermaLink="false">freelancer:40759903</guid><pubDate>Sat, 10 Oct 2026 00:35:54 GMT</pubDate><description>30-250 USD | I need an experienced developer to integrate my existing online ordering system (for both website and mobile app) with Toast POS. 
 
 USA-BASED AND FLUENT IN ENGLISH ONLY, PLEASE
@@ -945,64 +982,6 @@ Deliverables I’d like to see:
 • Three months of post-launch maintenance and updates  
 
 If you have experience building lean, content-driven WordPress sites and can commit to reliable maintenance afterwards, let’s discuss the timeline and any questions you have.</description></item>
-<item><title>AI-Powered Services Marketplace Development</title><link>https://www.freelancer.com/projects/full-stack-development/Powered-Services-Marketplace-Development</link><guid isPermaLink="false">freelancer:40757991</guid><pubDate>Thu, 08 Oct 2026 19:33:06 GMT</pubDate><description>250-750 USD | # Developer Needed – Build an AI-Powered Services Marketplace (Similar to Airtasker &amp; Shiply)
-
-Hi,
-
-I'm looking for an experienced full-stack developer to build a professional services marketplace platform, similar to **Airtasker, Shiply and TaskRabbit**, but with our own unique branding, design and additional AI features.
-
-The goal is to create a platform where customers can post jobs they need completed, service providers can submit competitive quotations, and the platform earns a commission from each successful transaction.
-
-**How the platform should work:**
-
-1. **Customer accounts:** Customers can register, post jobs, upload photos, specify locations, set budgets and review quotations.
-2. **Service provider accounts:** Workers and businesses can create profiles, select their services, browse available jobs and submit quotations.
-3. **Bidding system:** Multiple providers can compete for the same job, and customers can compare prices, ratings and profiles before choosing someone.
-4. **Payments and commission:** Customers pay securely through the platform. The system automatically deducts our commission (initially 15%) and manages payments to service providers using Stripe Connect or another suitable marketplace payment solution.
-5. **Messaging:** Built-in private messaging between customers and service providers.
-6. **Reviews and ratings:** Customers can leave reviews after completed jobs.
-7. **Admin dashboard:** Full control over users, jobs, transactions, commissions, disputes and platform settings.
-8. **AI features:** AI-assisted job descriptions, automatic job categorisation, intelligent matching of suitable providers and recommendations.
-
-**Service categories:**
-
-The platform should support multiple categories, including handyman services, home renovations, cleaning, gardening, furniture assembly, transport, removals, deliveries and other professional services.
-
-New categories should be easy to add without major development.
-
-**Technical requirements:**
-
-- Modern, professional and responsive website for desktop and mobile.
-- Secure backend, database and user authentication.
-- Scalable architecture that can support future growth.
-- Secure marketplace payment integration.
-- Automated notifications.
-- Appropriate security and data protection measures.
-- Original design inspired by established marketplaces, not a direct copy.
-- Full ownership of the source code and project files.
-- Ability to develop native iOS and Android apps in the future.
-
-**Development approach:**
-
-I'm open to using modern development frameworks and AI-assisted development tools such as Emergent AI or Lovable, provided the final product is reliable, secure, maintainable and fully functional.
-
-I would prefer to start with a working MVP and then expand the platform with additional features.
-
-**Please provide:**
-
-1. Your estimated total development cost, including a breakdown by milestones.
-2. How long the project would take to complete.
-3. Which technologies you recommend and why.
-4. Examples of marketplaces or bidding platforms you have previously developed.
-5. Whether Stripe Connect marketplace payments and commission splitting are included.
-6. Whether the price includes deployment, testing, bug fixes and post-launch support.
-7. Confirmation that I will own the complete source code, database and platform.
-
-I'm looking for someone reliable who can potentially work with me long-term as the platform grows.
-
-Please provide a detailed proposal and realistic quotation.
-
-Thank you.</description></item>
 <item><title>API Integration for Travel Marketplace</title><link>https://www.freelancer.com/projects/api-integration/API-Integration-for-Travel-Marketplace</link><guid isPermaLink="false">freelancer:40757968</guid><pubDate>Thu, 08 Oct 2026 19:13:00 GMT</pubDate><description>12-18 EUR/hr | I run a travel marketplace (frankenbridge.com) with a working Cloudflare Worker that proxies the Bókun API into a React tour-browser app on WordPress. I want to add many more external tour and activity suppliers, but I don’t know which booking system each one uses. Some may be OCTO/Ventrata, Rezdy, FareHarbor, TourCMS or Checkfront, and others may have a custom API, an XML feed or none at all. I need an expert who has integrated many of these systems. First, identify what each supplier uses and the best way to connect it, and tell me honestly when an integration isn’t worth building. Then build the integrations so tours, availability and prices appear in one unified grid and bookings reach the right supplier. Keep supplier keys server-side and document everything. You work on staging with sandbox credentials only; I never share production keys. I’m starting with a paid audit of my first few suppliers, then we agree the build step by step. Please propose your own audit fee and hourly rate.    
 
 
