@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
+
+Here’s what I need from you right now:  
+• Redesign the overall layout to look modern and executive while staying welcoming.  
+• Rewrite or refine page copy so the value of my programmes is crystal clear and SEO-friendly.  
+• Enhance functionality—streamlined booking, responsive design, faster load times and an intuitive blog area are must-haves.  
+
+I already have brand colours and a logo that work; you’re free to recommend subtle tweaks if they’ll strengthen the professional feel. Please build on WordPress (current host is SiteGround) so I can edit content myself later, and ensure any plug-ins are stable and lightweight.
+
+Once we nail the website, I plan to move on to social media management and updated marketing collateral, so a holistic eye for branding is appreciated—even if our first milestone stays firmly on the site itself.
+
+When you reply, briefly outline:  
+1. A similar corporate-style site you’ve completed.  
+2. Your proposed timeline for mock-ups, development, testing and launch.  
+3. How you’ll ensure fault-free migration with zero downtime.
+
+Looking forward to collaborating on a site that truly represents the calibre of my coaching practice.</description></item>
 <item><title>Harden WordPress Firewall &amp; Server</title><link>https://www.freelancer.com/projects/firewall/Harden-WordPress-Firewall-Server</link><guid isPermaLink="false">freelancer:40761277</guid><pubDate>Sat, 10 Oct 2026 22:01:35 GMT</pubDate><description>30-250 USD | My WordPress site is currently offline after malicious files were discovered on the server. I need it cleaned and brought back online, but more importantly I want to stop this from ever happening again. The immediate focus is firewall and server-side security; user authentication tweaks and data-at-rest encryption can follow once the house is no longer on fire.
 
 There are no security plugins installed yet, so you’ll be working from a clean slate. Feel free to recommend and configure the tools you trust most—Wordfence, Sucuri, ModSecurity, Fail2Ban, or a custom stack—as long as the final setup keeps attacks out and performance intact.
