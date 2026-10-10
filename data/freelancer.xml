@@ -3,6 +3,52 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Agent for Website Development &amp; Management</title><link>https://www.freelancer.com/projects/ai-development/Agent-for-Website-Development-Management</link><guid isPermaLink="false">freelancer:40760005</guid><pubDate>Sat, 10 Oct 2026 01:00:54 GMT</pubDate><description>30-250 USD | Hi,
+
+I’m planning to build a nationwide Nail Salon Directory website, and I want to use an AI Agent to handle website development and management.
+
+I will purchase a domain and hosting account with cPanel, public_html, PHP, and MySQL.
+
+What I need is your help setting up an AI coding agent on my personal laptop that can securely connect directly to my hosting server and MySQL database.
+
+My goal is to control the AI Agent using simple English instructions. For example, I want to tell it:
+
+* Create or modify PHP, HTML, CSS, and JavaScript files.
+* Build new website pages and features.
+* Create, update, and manage MySQL tables.
+* Import and update nail salon directory data.
+* Fix errors and troubleshoot website problems.
+* Improve website design and SEO.
+* Test changes and deploy approved updates to the live website.
+
+I want the AI Agent to be able to read and understand my existing website code and database structure, perform development tasks, and report the results back to me.
+
+What I need you to help me set up:
+
+1. Install and configure an AI coding agent on my laptop, such as OpenAI Codex or Claude Code.
+2. Connect the agent securely to my hosting account using SSH/SFTP.
+3. Configure controlled access to public_html and MySQL.
+4. Set up Git, automatic backups, and rollback protection.
+5. Create a staging environment so the AI can test changes before deploying them.
+6. Configure permissions so important production changes require my approval.
+7. Teach me how to operate the entire system independently.
+
+My main objective is not to hire someone to build the Nail Salon Directory manually.
+
+I want to build an AI-powered development environment that I can control from my laptop. Once everything is connected, I want to give the AI Agent instructions and have it perform the technical work.
+
+Eventually, I also want to use the same setup to manage my other websites.
+
+Please let me know:
+
+* Have you set up a similar AI Agent system before?
+* Which AI Agent and tools would you recommend?
+* Can you help me install, connect, configure, and test everything?
+* How much would you charge for the complete setup?
+
+I would like to start with one website as a test before connecting my other websites.
+
+Thank you!</description></item>
 <item><title>High-Speed Kmart SKU Checkout Automation – API Integration &amp; 5-Account Support</title><link>https://www.freelancer.com/projects/web-development/High-Speed-Kmart-SKU-Checkout</link><guid isPermaLink="false">freelancer:40759999</guid><pubDate>Sat, 10 Oct 2026 00:53:59 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build a high-performance e-commerce purchasing and inventory management application.
 
 Key Requirements:
@@ -934,42 +980,6 @@ Your fixed-price quote
 Confirmation that editable Figma/source files will be provided
 
 Please don't submit a generic portfolio. We are especially interested in designers who can create a cohesive digital asset system rather than one-off graphics.</description></item>
-<item><title>SEO Audit for Multilingual Travel Site (WordPress, Search Console, GA4, GTM)</title><link>https://www.freelancer.com/projects/Website-Audit/SEO-Audit-for-Multilingual-Travel</link><guid isPermaLink="false">freelancer:40758112</guid><pubDate>Thu, 08 Oct 2026 21:41:36 GMT</pubDate><description>250-750 EUR | We are Frankenbridge, a small travel company near Frankfurt, Germany. Our website, frankenbridge.com, sells small-group local tours to travelers from the US, Canada and Latin America. It runs on WordPress, Elementor and TranslatePress (5 languages). Bookings run through Bókun, a third-party booking widget.
-
-THE PROBLEM
-Google shows too few of our pages. Search Console, Oct 7, 2026:
-- 1,680 pages indexed, 914 not indexed
-- About 485 are the real problem: 278 "discovered, not indexed", 117 "duplicate, different canonical", 90 "crawled, not indexed"
-- Known pages grew from about 500 to 2,600 after we added language versions
-- 509 clicks in 3 months, almost all from people who already search our brand name
-We want travelers to find us by searching for tours, not for our name.
-
-Second problem: purchase events from the Bókun checkout (an iframe) do not reach GA4, so we cannot measure bookings.
-
-WHAT WE WANT
-Phase 1 (this project): a paid audit. No changes to the live site. You deliver a written report with a ranked fix list and a time estimate for each fix.
-Phase 2 (later, same person if the audit is good): fix indexing, hreflang, canonicals, titles and descriptions, and GSC / GA4 / GTM tracking.
-Phase 3: keywords, Google Business Profile, content and social media.
-
-YOU MUST HAVE
-- Technical SEO on WordPress (indexing, canonicals, hreflang, sitemaps)
-- Google Search Console, GA4 and Google Tag Manager
-- Experience with multilingual sites (TranslatePress or similar)
-- Clear written English
-
-HOW WE WORK
-- Freelancer.com milestones only. No payments, chats or call links (Teams, Zoom) outside the platform.
-- Google tools by email invitation. We never share passwords.
-- WordPress at Editor level. Administrator only for one task, with an end date, after a backup.
-- Backup first. Written reports.
-
-HOW TO APPLY
-We read every bid. Bids that skip these steps are ignored.
-Start your bid with the word FRANKFURT. Then answer:
-1. List the top 3 causes of "crawled, not indexed" and how you would check each one.
-2. How would you get purchase events from a third-party booking iframe into GA4?
-3. Link one site whose search traffic you grew, and tell us what you did.
-4. Give your fixed price for the Phase 1 audit and how many days it takes.</description></item>
 <item><title>WordPress Informational Site Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-Informational-Site-Build</link><guid isPermaLink="false">freelancer:40758005</guid><pubDate>Thu, 08 Oct 2026 19:45:15 GMT</pubDate><description>8-15 CAD/hr | I want to launch a clean, fast, and fully responsive informational website on WordPress where I’ll be publishing regular articles and blog-style posts. Your job starts with setting up the CMS, choosing or creating a theme that matches my brand, and configuring the essential plugins for speed, security, backups, and on-page SEO.  
 
 Once the site is live, I’ll need ongoing maintenance so the platform, theme, and plugins remain up to date and trouble-free. That includes monitoring uptime, fixing occasional bugs, and adding small feature tweaks or new pages when required. Because the core content will be text-based articles, an intuitive editor experience and well-structured category/tag system are important.  
