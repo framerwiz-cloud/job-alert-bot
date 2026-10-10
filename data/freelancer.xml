@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Harden WordPress Firewall &amp; Server</title><link>https://www.freelancer.com/projects/firewall/Harden-WordPress-Firewall-Server</link><guid isPermaLink="false">freelancer:40761277</guid><pubDate>Sat, 10 Oct 2026 22:01:35 GMT</pubDate><description>30-250 USD | My WordPress site is currently offline after malicious files were discovered on the server. I need it cleaned and brought back online, but more importantly I want to stop this from ever happening again. The immediate focus is firewall and server-side security; user authentication tweaks and data-at-rest encryption can follow once the house is no longer on fire.
+
+There are no security plugins installed yet, so you’ll be working from a clean slate. Feel free to recommend and configure the tools you trust most—Wordfence, Sucuri, ModSecurity, Fail2Ban, or a custom stack—as long as the final setup keeps attacks out and performance intact.
+
+Acceptance criteria  
+• Every malicious file and injected line of code is removed, with the site fully functional and reachable.  
+• A Web Application Firewall is in place, properly tuned for WordPress traffic.  
+• Server settings are hardened: correct file permissions, disabled risky PHP functions, sensible rate limits, automatic core/plugin updates, and secure backups.  
+• Ongoing monitoring reports suspicious activity to my email.  
+• A brief hand-off document explains what was fixed, which rules were applied, and any routine tasks I should perform.
+
+SSH/cPanel credentials and the latest backup will be ready the moment we start. If you have a solid track record cleaning hacked WordPress sites and tightening server security, I’m ready to move quickly.</description></item>
 <item><title>Corporate Wellness Meal Portal</title><link>https://www.freelancer.com/projects/web-development/Corporate-Wellness-Meal-Portal</link><guid isPermaLink="false">freelancer:40761233</guid><pubDate>Sat, 10 Oct 2026 20:59:16 GMT</pubDate><description>250-750 USD | I’m building an online hub that starts with a public-facing landing page and then moves into a secure member portal for employees. The core of the site is the meal-ordering system—everything else supports that experience.
 
 Here is the end-to-end flow I need developed:
@@ -792,26 +804,6 @@ Nice to have:
 - UI/UX copy review
 - Technical/software background
 - Experience with localization QA tools</description></item>
-<item><title>Creative Multi-Section Blog and Shop - 09/10/2026 04:24 EDT</title><link>https://www.freelancer.com/projects/blog-design/Creative-Multi-Section-Blog-Shop</link><guid isPermaLink="false">freelancer:40758860</guid><pubDate>Fri, 09 Oct 2026 08:25:28 GMT</pubDate><description>750-1500 GBP | I'm looking for a small website where I can blog and post my creative written content and pictures. The site should also include a small shop to enable sales of PDF versions of my work.
-
-The website should include the following sections:
-- Blog: Articles, short stories, poems, and artwork.
-- Shop: 
-  - Product categories
-  - Payment gateway
-
-Successful freelancers should provide: 
-- Past work
-- Experience
-- Detailed project proposals
-
-Ideal skills and experience:
-- Web development
-- E-commerce integration
-- Content management systems (CMS)
-- Graphic design
-
-Please include your portfolio and a detailed project proposal.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
