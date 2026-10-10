@@ -3,6 +3,33 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Corporate WordPress Redesign &amp; Development</title><link>https://www.freelancer.com/projects/Corporate-WordPress-Redesign-Development</link><guid isPermaLink="false">freelancer:40761056</guid><pubDate>Sat, 10 Oct 2026 17:48:13 GMT</pubDate><description>1500-3000 AUD | Our current WordPress site works, but it no longer reflects the polished, corporate image we project everywhere else. I want to give it a fresh, modern look and feel while keeping the content structure intact.
+
+Scope of the makeover
+The visual language should be clean, professional, and consistent with a corporate brand— user experience should always be the priority. The existing website is quite large with a lot of existing pages and blog content, we are wanting to limit the impact on our existing SEO as much as possible so internal linking etc needs to remain unchanged.
+
+Key areas to tackle
+• Homepage layout – a hero section that communicates our value proposition instantly, clearer content blocks, and stronger calls-to-action.  
+• Navigation menu – simplified information architecture, drop-downs that work seamlessly on desktop and mobile, and sticky behaviour only if it enhances usability.  
+• Footer design – well-organised links, concise contact details, social icons, and legal notices without clutter.
+
+Technical expectations
+The build must stay within WordPress, using either a lightweight premium theme or a custom child theme approach. Core Web Vitals should remain healthy after the redesign. Re-using existing plugins is fine as long as load speed and security are not compromised. Please ensure full responsiveness, cross-browser compatibility, and accessibility best practices (WCAG 2.1 AA).
+
+Hosting current already in place however, I am open to subscription services like 10web etc.
+
+Deliverables
+1. High-fidelity mock-ups for homepage, navigation states, and footer.  
+2. Fully developed WordPress pages implemented on a staging environment.  
+3. Final migration to the live server after my sign-off, including a short hand-over guide.
+
+Acceptance criteria
+• Visual style aligns with the agreed corporate mood board.  
+• All page templates render flawlessly on the latest versions of Chrome, Firefox, Safari, Edge, and mobile browsers.  
+• Google PageSpeed Insights scores remain within the “Good” range post-launch.  
+• No broken links or console errors in the inspector.
+
+Timeline is flexible within reason, but I would like to see first concepts within one week of project start. If you have similar corporate redesigns in your portfolio, please link them when you message me so I can gauge style compatibility.</description></item>
 <item><title>WooCommerce B2C Store Development</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Development-40761036</link><guid isPermaLink="false">freelancer:40761036</guid><pubDate>Sat, 10 Oct 2026 17:39:31 GMT</pubDate><description>15-25 USD/hr | I am looking for someone based in the USA. I need to upgrade and launch a B2C online store and to build it on WooCommerce to keep everything within the WordPress ecosystem I already know. I need a developer who can take the project.
 
 The build must include:  
@@ -782,37 +809,6 @@ Nice to have:
 - UI/UX copy review
 - Technical/software background
 - Experience with localization QA tools</description></item>
-<item><title>Private Shopify Custom App: AI-Assisted Hardware Diagnostics Pipeline</title><link>https://www.freelancer.com/projects/shopify-development/Private-Shopify-Custom-App-Assisted</link><guid isPermaLink="false">freelancer:40758508</guid><pubDate>Fri, 09 Oct 2026 04:17:04 GMT</pubDate><description>250-750 USD | We are launching a high-ticket consumer appliance sales and mechanical repair service business in the United States. We are utilizing a standard Shopify platform to manage hardware sales, parts inventory, and recurring care service memberships.
-We require an experienced full-stack developer to build a private, custom Shopify application to streamline our mechanical repair diagnostics pipeline. The app will act as a training copilot to help bench technicians troubleshoot and execute repairs with high speed and precision.
-To minimize development hours and keep our budget tight, the internal technician dashboard must be built using an embedded low-code framework (such as Retool or Bubble) integrated directly within our Shopify Admin panel via a secure app proxy or iframe.
-
-Core Workflow &amp; High-Level Requirements
-
-
-1. Customer Front-End Intake (Liquid/Shopify UI)
-
-• A clean submission page embedded on our live Shopify storefront.
-• The customer inputs hardware metadata, describes the symptoms, and uploads a clear photo or short video snippet of the mechanical issue (up to 10MB).
-• Data Parameter: Data writes directly to a secure backend database (PostgreSQL/Supabase preferred) and links to their Shopify Customer Profile. No processing or automated data is shown to the end customer.
-
-2. Private Technician Bench Panel (Retool or Bubble Embedded)
-
-• A hidden dashboard embedded inside the Shopify Admin panel for our internal bench technicians.
-• Displays a queue of incoming open repair tickets. Clicking a ticket loads the customer's text/image metadata alongside an internal diagnostic workflow tool.
-• The AI Integration: Technicians trigger an internal action passing the context to a multimodal LLM API (gpt-4o or similar). The API references custom technical documentation files mapped in our database to return a structured troubleshooting guide onto the bench display.
-
-3. Technician Field Verification &amp; Conditional Logic Locks
-
-• Technicians must be able to upload a secondary "internal/exposed chassis" photo directly from the bench for secondary vision analysis.
-• The dashboard features a strict conditional step-locking mechanism. Technicians must perform manual tool measurements (e.g., logging electrical or pressure data) and check off mandatory safety criteria before the dashboard will allow the ticket to be closed or update Shopify inventory data.
-
-Technical Stack Expectations
-
-• Frontend: Shopify Liquid/JSON (Public), Retool or Bubble (Internal Admin)
-• Backend Database: Supabase / PostgreSQL + Secure cloud image storage bucket
-• AI Framework: Direct OpenAI API integration (gpt-4o) via minimal webhooks
-• E-Commerce Sync: Shopify Admin API (GraphQL preferred) to sync ticket history with Shopify Customer IDs
-Full technical specifications, detailed prompt architectures, and database schema mappings will be provided to qualified candidates upon execution of a standard mutual NDA.</description></item>
 <item><title>WordPress Informational Site Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-Informational-Site-Build</link><guid isPermaLink="false">freelancer:40758005</guid><pubDate>Thu, 08 Oct 2026 19:45:15 GMT</pubDate><description>8-15 CAD/hr | I want to launch a clean, fast, and fully responsive informational website on WordPress where I’ll be publishing regular articles and blog-style posts. Your job starts with setting up the CMS, choosing or creating a theme that matches my brand, and configuring the essential plugins for speed, security, backups, and on-page SEO.  
 
 Once the site is live, I’ll need ongoing maintenance so the platform, theme, and plugins remain up to date and trouble-free. That includes monitoring uptime, fixing occasional bugs, and adding small feature tweaks or new pages when required. Because the core content will be text-based articles, an intuitive editor experience and well-structured category/tag system are important.  
