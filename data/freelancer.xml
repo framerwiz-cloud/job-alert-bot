@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Adult Toy Dropship Setup</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Adult-Toy-Dropship-Setup</link><guid isPermaLink="false">freelancer:40762595</guid><pubDate>Sun, 11 Oct 2026 20:14:23 GMT</pubDate><description>250-750 GBP | I’m ready to launch an online adult-toy boutique on Shopify and need your help turning the idea into a fully functioning store. My vision board pinpoints a modern, sleek, feminism-positive aesthetic—clean lines, confident imagery, and a welcoming palette that avoids anything cliché or tacky. All design choices, from typography to icon sets, should echo that vibe.
+
+Core tasks  
+• Build the Shopify storefront, applying the look and feel from my vision board.  
+• Connect 1on1 Wholesale Ltd as the exclusive dropshipping source, so products, stock counts, and order data flow automatically.  
+• Activate Wallidpay as the primary payment gateway; I’m intentionally steering clear of PayPal or Stripe unless a fallback is required.  
+• Configure essential pages (About, FAQ, Shipping &amp; Returns, Privacy, T&amp;C) and ensure age-verification on entry.  
+• Test end-to-end: visitor lands on site, adds to cart, pays through Wallidpay, and the order reaches 1on1 Wholesale without manual intervention.
+
+Acceptance  
+The project is complete when the site is live at my domain, passes a full test order, and mirrors the design language captured in my vision board across desktop and mobile. If you’re confident with Shopify themes, Liquid tweaks, and third-party app integrations, I’d love to collaborate.</description></item>
 <item><title>Elementor </title><link>https://www.freelancer.com/projects/elementor/Elementor-40762590</link><guid isPermaLink="false">freelancer:40762590</guid><pubDate>Sun, 11 Oct 2026 20:07:32 GMT</pubDate><description>30-250 USD | Elementor Pro is back online, yet the editor still loads as a blank white screen. The log pinpoints a PHP fatal error in elementor-pro/modules/display-conditions/module.php on line 212.  
 
 I’ve already re-installed plugins, rolled back backups, and re-activated Elementor Pro without success. The only recent change on the site was updating several plugins and the active theme, so the fault may lie in a compatibility clash, a corrupted display condition, or a PHP setting that now fails silently.
@@ -729,27 +740,6 @@ Requirements:
    • Handoff Package: They must commit to a clean transfer of site ownership directly to my Wix account and provide a quick training walkthrough video so I am never dependent on them for minor edits.
 
 Please share a portfolio of your recent work with professional service firms and provide a flat-rate quote to build and launch the site.</description></item>
-<item><title>Fix WooCommerce Analytics Tracking</title><link>https://www.freelancer.com/projects/woocommerce/Fix-WooCommerce-Analytics-Tracking</link><guid isPermaLink="false">freelancer:40759775</guid><pubDate>Fri, 09 Oct 2026 20:05:32 GMT</pubDate><description>30-250 EUR | Wordpress website - increased abnormal traffic- no sales.
-
-1. Anti bot fight + Cloudflare implemented 
-2. Cart validation custom function implemented.
-
-
-Google writes it identifies real traffic vs. bot traffic and bot traffic does not go into analytics.
-
-Burst statistics + Google analytics show the same - identifies Direct human visitors / Direct.
-
-
-Many visitors, many add to carts ----&gt; 0 sales
-
-
-
-1. Bot traffic 
-2. Something is broken in the website 
-3. Not converting sales
-
-
-All traffic : Direct</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
