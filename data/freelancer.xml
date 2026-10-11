@@ -181,27 +181,6 @@ How We Measure Success (KPIs)
 
 How To Apply
 Send: (1) a short intro, (2) links to 2–3 WordPress sites you have managed or built, (3) one example of SEO results you produced (traffic, rankings, or links — with dates), and (4) your expected monthly rate. Applicants who complete a short paid test task move to the front.</description></item>
-<item><title>Community-Focused Church Website Build</title><link>https://www.freelancer.com/projects/wordpress/Community-Focused-Church-Website-Build</link><guid isPermaLink="false">freelancer:40761551</guid><pubDate>Sun, 11 Oct 2026 05:11:52 GMT</pubDate><description>250-500 USD | I’m ready to launch a fresh church website whose main purpose is to bring our congregation—and the wider community—closer together online. The heart of the project is engagement, so every page, module, and integration should encourage interaction rather than simply broadcast information.
-
-Key engagement areas  
-• Event calendar: an easy-to-update schedule that lets visitors see upcoming services, study groups, and community events at a glance, with the option to add reminders to their own calendars.  
-• Volunteer opportunities: a section where members can view current needs, sign up, and receive confirmation emails automatically.
-
-Essential features  
-• Live streaming of services, embedded seamlessly so viewers never have to leave the site.  
-• Online sermon archives with search and filter capability (speaker, series, date).  
-• Prayer request submission form that notifies our pastoral team instantly and can post anonymised requests to a public prayer wall if approved.  
-• Prominent social-media links and share buttons to amplify reach on Facebook, X, tiktok, Instagram, and YouTube.
-
-Design &amp; tech notes  
-The look should feel warm and welcoming, reflect our branding, and be fully responsive. I’m open to WordPress, Squarespace, or a custom build—whichever achieves clean performance and is simple for staff to update. Please factor in basic SEO, secure donation-ready hosting, and ADA-aware accessibility practices.
-
-Deliverable acceptance  
-1. Staging link for review  
-2. Final responsive site with all features live and tested  
-3. Admin walkthrough (video or live call) plus written how-to guides  
-
-If your skill set covers modern web design, streaming integration, and a knack for community-centric UX, I’d love to see how you’d approach this build.</description></item>
 <item><title>GlossGenius Booking Site Setup</title><link>https://www.freelancer.com/projects/website-development/GlossGenius-Booking-Site-Setup</link><guid isPermaLink="false">freelancer:40761500</guid><pubDate>Sun, 11 Oct 2026 04:23:32 GMT</pubDate><description>30-250 USD | I need someone experienced with the GlossGenius platform to take my brand-new account from blank slate to live, client-ready booking site. The core task is straightforward: configure the site, populate an intuitive service menu, and make sure every visible section looks polished and on-brand.  
 
 I have all copy, prices, and imagery ready; what I lack is the time (and, frankly, the patience) to navigate the back-end settings and design options GlossGenius offers. Once you’ve arranged the services into clear categories, I want the overall layout harmonised with my colours and logo so the experience feels seamless from Instagram link-in-bio to final confirmation page.  
@@ -853,6 +832,23 @@ Acceptance criteria
 3. The new navigation tab is visible but redirects to the log-in screen if a visitor is not authenticated.  
 
 Please use native Wix tools and Velo code where needed; no external plugins that carry extra fees. Once complete, hand over the site revision link and a brief video or doc walking me through the workflow.</description></item>
+<item><title>Retro Game Challenge Website</title><link>https://www.freelancer.com/projects/web-development/Retro-Game-Challenge-Website</link><guid isPermaLink="false">freelancer:40759342</guid><pubDate>Fri, 09 Oct 2026 14:47:23 GMT</pubDate><description>250-750 USD | I’m building a site that lets players post and track video-game challenges the way speedrun.com tracks record times. The job covers three connected pieces of work:
+
+• Badge system  
+Every challenge will award a bespoke badge. I need a simple back-office tool (even a JSON/CSV-driven script is fine) that lets me create and upload new badge graphics, set unlock conditions and have them appear automatically in user profiles.
+
+• Brand identity  
+A retro-gaming logo—think bright pixel art or 16-bit arcade flair—should headline the site. Final files must include scalable vectors and a favicon that ties into the badge style.
+
+Deliverables  
+– Fully functioning badge creation workflow integrated with user accounts  
+– Retro gaming-style, clean simple logo in SVG, PNG and favicon sizes  
+– All source files, style guide and brief hand-off notes  
+
+Acceptance  
+Smooth registration, badge unlocks reflected instantly on profiles, chat loads without refresh, and pages score 90+ on Google Lighthouse.
+
+Stack is flexible—React, Vue, Laravel, WordPress with custom plugins, whichever you prefer—so long as it meets the above criteria and is easy for me to update later. Let’s create a home for gamers to prove their skills and show off their hard-earned badges.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
