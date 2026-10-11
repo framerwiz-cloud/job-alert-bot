@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom Site Inspired by Reference</title><link>https://www.freelancer.com/projects/web-design/Custom-Site-Inspired-Reference</link><guid isPermaLink="false">freelancer:40761812</guid><pubDate>Sun, 11 Oct 2026 08:28:31 GMT</pubDate><description>30-250 USD | I have a live website in mind that perfectly captures the structure, flow, and user experience I want. I’ll give you that URL so you can use it strictly as a roadmap; the finished product must feel fresh and unmistakably mine—no copy-and-paste cloning.  
+
+Here’s what I need you to do:  
+
+• Analyse the reference site’s layout, navigation, and key interactions, then redesign them with my branding, colours, and copy so everything is unique and copyright-safe.  
+• Build the pages to be fully responsive and fast-loading across desktop, tablet, and mobile.  
+• Set things up so I can edit text and images myself later (your call on the most suitable CMS or framework).  
+• Implement clean, on-page SEO foundations and connect Google Analytics so I can track performance from day one.  
+• Hand over all source files, login credentials, and a short video or written guide that shows me how to update content.  
+
+I’m open on tech stack—WordPress, Webflow, or a lightweight custom build would all work as long as maintenance stays simple. Let me know your preferred tools, estimated timeframe, and any past projects that show you can re-imagine an existing concept without losing originality.</description></item>
 <item><title>AutoDS Integration and Setup on Shopify</title><link>https://www.freelancer.com/projects/api-integration/AutoDS-Integration-Setup-Shopify</link><guid isPermaLink="false">freelancer:40761805</guid><pubDate>Sun, 11 Oct 2026 08:24:57 GMT</pubDate><description>50-100 USD | # Project Title
 **AutoDS Setup, Shopify Integration &amp; Product Synchronisation**
 
@@ -842,23 +853,6 @@ Acceptance criteria
 3. The new navigation tab is visible but redirects to the log-in screen if a visitor is not authenticated.  
 
 Please use native Wix tools and Velo code where needed; no external plugins that carry extra fees. Once complete, hand over the site revision link and a brief video or doc walking me through the workflow.</description></item>
-<item><title>Retro Game Challenge Website</title><link>https://www.freelancer.com/projects/web-development/Retro-Game-Challenge-Website</link><guid isPermaLink="false">freelancer:40759342</guid><pubDate>Fri, 09 Oct 2026 14:47:23 GMT</pubDate><description>250-750 USD | I’m building a site that lets players post and track video-game challenges the way speedrun.com tracks record times. The job covers three connected pieces of work:
-
-• Badge system  
-Every challenge will award a bespoke badge. I need a simple back-office tool (even a JSON/CSV-driven script is fine) that lets me create and upload new badge graphics, set unlock conditions and have them appear automatically in user profiles.
-
-• Brand identity  
-A retro-gaming logo—think bright pixel art or 16-bit arcade flair—should headline the site. Final files must include scalable vectors and a favicon that ties into the badge style.
-
-Deliverables  
-– Fully functioning badge creation workflow integrated with user accounts  
-– Retro gaming-style, clean simple logo in SVG, PNG and favicon sizes  
-– All source files, style guide and brief hand-off notes  
-
-Acceptance  
-Smooth registration, badge unlocks reflected instantly on profiles, chat loads without refresh, and pages score 90+ on Google Lighthouse.
-
-Stack is flexible—React, Vue, Laravel, WordPress with custom plugins, whichever you prefer—so long as it meets the above criteria and is easy for me to update later. Let’s create a home for gamers to prove their skills and show off their hard-earned badges.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
