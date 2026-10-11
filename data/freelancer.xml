@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Elegant Pet Consult Branding</title><link>https://www.freelancer.com/projects/branding/Elegant-Pet-Consult-Branding</link><guid isPermaLink="false">freelancer:40761459</guid><pubDate>Sun, 11 Oct 2026 03:44:18 GMT</pubDate><description>30-250 CAD | I’m creating my pet-consultation business and need a cohesive brand identity that feels classic and elegant that appeals to my target clientele.
+The heart of the project is an original logo that combines a refined illustration of my dog (who the business is named after) along with my business name. Think timeless typography, balanced proportions, and a palette that communicates trust, warmth, and professionalism without losing that gentle, animal-centric charm clients expect when they come to me for advice.
+
+Here’s what I’d like delivered:  
+• Primary logo in vector and web formats (SVG, PDF, PNG) featuring the dog illustration and business name  
+• Secondary lock-ups or sub-marks as needed for social media, stationery, and small-scale use  
+• A concise colour palette with hexadecimal, CMYK, and Pantone references  
+• Font recommendations that match the chosen style and licensing guidance if required  
+• A brief brand-usage sheet so I can apply the new look consistently across print and digital touchpoints  
+
+If you have experience illustrating animals with an upscale feel and translating that into a full visual system, I’d love to see your work and hear your approach. I've uploaded a picture of my dog as well in case that helps.</description></item>
 <item><title>AI Assistant for Jobber CRM &amp; iOS Integration</title><link>https://www.freelancer.com/projects/chatgpt/Assistant-for-Jobber-CRM-iOS</link><guid isPermaLink="false">freelancer:40761440</guid><pubDate>Sun, 11 Oct 2026 03:29:20 GMT</pubDate><description>30-250 USD | Job Title
 
 Developer Needed – Full ChatGPT Integration With Jobber CRM, iPhone Messages, Calendar &amp; Tasks
@@ -825,27 +836,6 @@ Nice to have:
 - UI/UX copy review
 - Technical/software background
 - Experience with localization QA tools</description></item>
-<item><title>Stripe Terminal Integration Specialist Needed</title><link>https://www.freelancer.com/projects/stripe/Stripe-Terminal-Integration-Specialist</link><guid isPermaLink="false">freelancer:40758966</guid><pubDate>Fri, 09 Oct 2026 09:49:56 GMT</pubDate><description>250-750 USD | Freelance Developer – Stripe Terminal Integration
-
-We are looking for an experienced freelance developer to implement in-person card payments using Stripe Terminal in our existing application (PWA).
-
-Scope of Work
-
-* Integrate Stripe Terminal with compatible hardware in Germany.
-* Allow staff to initiate card payments directly from our App.
-* Handle successful, declined, cancelled, and interrupted payments.
-* Update payment status reliably and prevent duplicate transactions.
-* Synchronize successful payments with our existing POS (Shore) integration.
-* Reuse the existing architecture and UI, including all UX/UI required for this feature.
-* Test the complete workflow and provide documentation.
-
-Requirements
-
-* Proven experience with Stripe Terminal and payment integrations.
-* Ability to work with an existing codebase.
-* No unnecessary architectural changes.
-
-Definition of Done: A card payment can be initiated from our PWA, processed through Stripe Terminal, confirmed reliably, and synchronized with Shore (POS) and the corresponding order.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
