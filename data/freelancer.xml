@@ -3,6 +3,11 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>GlossGenius Booking Site Setup</title><link>https://www.freelancer.com/projects/website-development/GlossGenius-Booking-Site-Setup</link><guid isPermaLink="false">freelancer:40761500</guid><pubDate>Sun, 11 Oct 2026 04:23:32 GMT</pubDate><description>30-250 USD | I need someone experienced with the GlossGenius platform to take my brand-new account from blank slate to live, client-ready booking site. The core task is straightforward: configure the site, populate an intuitive service menu, and make sure every visible section looks polished and on-brand.  
+
+I have all copy, prices, and imagery ready; what I lack is the time (and, frankly, the patience) to navigate the back-end settings and design options GlossGenius offers. Once you’ve arranged the services into clear categories, I want the overall layout harmonised with my colours and logo so the experience feels seamless from Instagram link-in-bio to final confirmation page.  
+
+Deliverable: a fully functional GlossGenius booking site with my service menu live, tested, and ready for clients to start booking immediately. If you’ve set up GlossGenius sites before, please let me know—speed and platform familiarity are a big plus.</description></item>
 <item><title>Elegant Pet Consult Branding</title><link>https://www.freelancer.com/projects/branding/Elegant-Pet-Consult-Branding</link><guid isPermaLink="false">freelancer:40761459</guid><pubDate>Sun, 11 Oct 2026 03:44:18 GMT</pubDate><description>30-250 CAD | I’m creating my pet-consultation business and need a cohesive brand identity that feels classic and elegant that appeals to my target clientele.
 The heart of the project is an original logo that combines a refined illustration of my dog (who the business is named after) along with my business name. Think timeless typography, balanced proportions, and a palette that communicates trust, warmth, and professionalism without losing that gentle, animal-centric charm clients expect when they come to me for advice.
 
@@ -768,27 +773,6 @@ Nice to have:
 - UI/UX copy review
 - Technical/software background
 - Experience with localization QA tools</description></item>
-<item><title>Stripe Terminal Integration Specialist Needed</title><link>https://www.freelancer.com/projects/stripe/Stripe-Terminal-Integration-Specialist</link><guid isPermaLink="false">freelancer:40758966</guid><pubDate>Fri, 09 Oct 2026 09:49:56 GMT</pubDate><description>250-750 USD | Freelance Developer – Stripe Terminal Integration
-
-We are looking for an experienced freelance developer to implement in-person card payments using Stripe Terminal in our existing application (PWA).
-
-Scope of Work
-
-* Integrate Stripe Terminal with compatible hardware in Germany.
-* Allow staff to initiate card payments directly from our App.
-* Handle successful, declined, cancelled, and interrupted payments.
-* Update payment status reliably and prevent duplicate transactions.
-* Synchronize successful payments with our existing POS (Shore) integration.
-* Reuse the existing architecture and UI, including all UX/UI required for this feature.
-* Test the complete workflow and provide documentation.
-
-Requirements
-
-* Proven experience with Stripe Terminal and payment integrations.
-* Ability to work with an existing codebase.
-* No unnecessary architectural changes.
-
-Definition of Done: A card payment can be initiated from our PWA, processed through Stripe Terminal, confirmed reliably, and synchronized with Shore (POS) and the corresponding order.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
