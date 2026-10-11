@@ -32,45 +32,6 @@ Acceptance criteria
 3. A test order flows from product purchase through payment completion without issues.
 
 You’ll have WordPress admin, cPanel/SSH, and access to current backups to get started.</description></item>
-<item><title>B2B Agri-Biotech WordPress SEO Expert Required</title><link>https://www.freelancer.com/projects/b2b-marketing/Agri-Biotech-WordPress-SEO-Expert</link><guid isPermaLink="false">freelancer:40762436</guid><pubDate>Sun, 11 Oct 2026 17:13:28 GMT</pubDate><description>30-250 CAD | # WordPress SEO Optimization – CAD $200 Fixed Budget
-
-**Website:** https://novotec.hallmarkqc.com  
-**Budget:** Maximum CAD $200 (fixed price)
-
-We are looking for an experienced WordPress SEO specialist to improve the SEO of our existing B2B agricultural biotechnology website.
-
-Our website uses **WordPress, Elementor, Rank Math, and LiteSpeed Cache**. Several SEO improvements have already been completed, including sitemap repairs, metadata updates, and indexing adjustments.
-
-**We need someone to verify the existing SEO setup and implement remaining improvements—not just provide another audit report.**
-
-### Scope of Work
-
-- Identify and fix remaining technical SEO issues (indexing, sitemap, redirects, canonical URLs, broken links).
-- Optimize keywords, titles, descriptions, headings, and internal links on existing pages.
-- Review Rank Math configuration and structured data.
-- Check mobile SEO, page speed, and image optimization.
-- Verify Google Search Console configuration.
-- Provide a brief before-and-after report documenting improvements.
-
-### Important Requirements
-
-- **Do not redesign the website or modify Elementor layouts.**
-- Preserve all existing content, forms, and functionality.
-- Take a backup before making changes.
-- Obtain approval before implementing changes that may affect website appearance or functionality.
-- Test the website on desktop and mobile after implementation.
-- No unnecessary plugins or black-hat SEO techniques.
-
-### Deliverables
-
-1. Brief assessment of remaining SEO issues and proposed fixes.
-2. Implementation of approved improvements within the agreed budget.
-3. Final report showing what was changed and the results.
-
-**Budget is strictly CAD $200 maximum.**
-*** All proposed changes must be approved before implementation. Do not modify the theme, Elementor layouts, existing CSS, or website appearance without explicit permission.***
-
-Please provide examples of similar WordPress SEO projects, your estimated completion time, and confirmation that your proposal includes implementation—not just an audit.</description></item>
 <item><title>Restaurant website </title><link>https://www.freelancer.com/projects/blog-install/Restaurant-website-40762266</link><guid isPermaLink="false">freelancer:40762266</guid><pubDate>Sun, 11 Oct 2026 14:52:56 GMT</pubDate><description>250-750 CAD | I need a new website. I already have a design, I just need you to build a website for my small business. </description></item>
 <item><title>Used Electronics Showcase Website Design</title><link>https://www.freelancer.com/projects/web-design/Used-Electronics-Showcase-Website-Design</link><guid isPermaLink="false">freelancer:40762160</guid><pubDate>Sun, 11 Oct 2026 13:50:53 GMT</pubDate><description>250-750 USD | I need a sleek, modern-looking website that simply showcases the pre-owned phones, laptops, and gadgets I carry in my physical store. For now the site only needs one well-structured Home page, but that page should do a lot of heavy lifting: highlight featured items with crisp photos, introduce my brand story, and make it easy for visitors to see what’s currently in stock and how to reach me offline.
 
@@ -740,6 +701,27 @@ Requirements:
    • Handoff Package: They must commit to a clean transfer of site ownership directly to my Wix account and provide a quick training walkthrough video so I am never dependent on them for minor edits.
 
 Please share a portfolio of your recent work with professional service firms and provide a flat-rate quote to build and launch the site.</description></item>
+<item><title>Fix WooCommerce Analytics Tracking</title><link>https://www.freelancer.com/projects/woocommerce/Fix-WooCommerce-Analytics-Tracking</link><guid isPermaLink="false">freelancer:40759775</guid><pubDate>Fri, 09 Oct 2026 20:05:32 GMT</pubDate><description>30-250 EUR | Wordpress website - increased abnormal traffic- no sales.
+
+1. Anti bot fight + Cloudflare implemented 
+2. Cart validation custom function implemented.
+
+
+Google writes it identifies real traffic vs. bot traffic and bot traffic does not go into analytics.
+
+Burst statistics + Google analytics show the same - identifies Direct human visitors / Direct.
+
+
+Many visitors, many add to carts ----&gt; 0 sales
+
+
+
+1. Bot traffic 
+2. Something is broken in the website 
+3. Not converting sales
+
+
+All traffic : Direct</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
