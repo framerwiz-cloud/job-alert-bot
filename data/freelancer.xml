@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Community-Focused Church Website Build</title><link>https://www.freelancer.com/projects/wordpress/Community-Focused-Church-Website-Build</link><guid isPermaLink="false">freelancer:40761551</guid><pubDate>Sun, 11 Oct 2026 05:11:52 GMT</pubDate><description>250-500 USD | I’m ready to launch a fresh church website whose main purpose is to bring our congregation—and the wider community—closer together online. The heart of the project is engagement, so every page, module, and integration should encourage interaction rather than simply broadcast information.
+
+Key engagement areas  
+• Event calendar: an easy-to-update schedule that lets visitors see upcoming services, study groups, and community events at a glance, with the option to add reminders to their own calendars.  
+• Volunteer opportunities: a section where members can view current needs, sign up, and receive confirmation emails automatically.
+
+Essential features  
+• Live streaming of services, embedded seamlessly so viewers never have to leave the site.  
+• Online sermon archives with search and filter capability (speaker, series, date).  
+• Prayer request submission form that notifies our pastoral team instantly and can post anonymised requests to a public prayer wall if approved.  
+• Prominent social-media links and share buttons to amplify reach on Facebook, X, tiktok, Instagram, and YouTube.
+
+Design &amp; tech notes  
+The look should feel warm and welcoming, reflect our branding, and be fully responsive. I’m open to WordPress, Squarespace, or a custom build—whichever achieves clean performance and is simple for staff to update. Please factor in basic SEO, secure donation-ready hosting, and ADA-aware accessibility practices.
+
+Deliverable acceptance  
+1. Staging link for review  
+2. Final responsive site with all features live and tested  
+3. Admin walkthrough (video or live call) plus written how-to guides  
+
+If your skill set covers modern web design, streaming integration, and a knack for community-centric UX, I’d love to see how you’d approach this build.</description></item>
 <item><title>GlossGenius Booking Site Setup</title><link>https://www.freelancer.com/projects/website-development/GlossGenius-Booking-Site-Setup</link><guid isPermaLink="false">freelancer:40761500</guid><pubDate>Sun, 11 Oct 2026 04:23:32 GMT</pubDate><description>30-250 USD | I need someone experienced with the GlossGenius platform to take my brand-new account from blank slate to live, client-ready booking site. The core task is straightforward: configure the site, populate an intuitive service menu, and make sure every visible section looks polished and on-brand.  
 
 I have all copy, prices, and imagery ready; what I lack is the time (and, frankly, the patience) to navigate the back-end settings and design options GlossGenius offers. Once you’ve arranged the services into clear categories, I want the overall layout harmonised with my colours and logo so the experience feels seamless from Instagram link-in-bio to final confirmation page.  
@@ -744,35 +765,6 @@ What I Bring (Zero Fluff for You): Complete product blueprints, user flows, data
 The Tech Stack (Lean &amp; Modern): Frontend on Next.js/React (Vercel), Backend/Database on Supabase (PostgreSQL &amp; Vector memory), LLM APIs (OpenAI/Anthropic), and Stripe for recurring billing.
 The Broader Ecosystem: This is project #1 from a vault of over 30 fully planned SaaS projects, offering long-term collaboration opportunities for the right builder.
 Requirements: Proven experience with React/Next.js, Supabase, Stripe webhooks, and integrating LLM APIs</description></item>
-<item><title>Estonian Linguistic Reviewer for Web Content -- 4</title><link>https://www.freelancer.com/projects/copywriting/Estonian-Linguistic-Reviewer-for-Web-40759076</link><guid isPermaLink="false">freelancer:40759076</guid><pubDate>Fri, 09 Oct 2026 11:14:23 GMT</pubDate><description>30-250 USD | I’m looking for a native or near-native Estonian speaker to help review English → Estonian web content that has been initially translated using AI/machine translation.
-The work is mainly human linguistic review and post-editing, not translation from scratch.
-Responsibilities may include:
-- Review Estonian text for grammar, spelling, punctuation and natural wording
-- Check that the Estonian accurately reflects the English source
-- Fix awkward or overly literal AI/MT translations
-- Improve tone, readability and consistency
-- Check terminology and repeated UI/web phrases
-- Review buttons, headings, navigation labels, banners and short web copy
-- Flag content that does not make sense in the Estonian context
-- Perform final QA before content is considered ready
-Some assignments may also involve web/CMS content review, so familiarity with CMS platforms such as Adobe Experience Manager (AEM), Magnolia, WordPress, Drupal or similar systems is a plus.
-This is potentially ongoing/project-based work. Workload may arrive in batches, so availability can vary from day to day.
-
-Requirements
-- Native or excellent Estonian
-- Strong English comprehension
-- Excellent Estonian grammar and writing ability
-- Experience with proofreading, localization, MTPE, translation QA or web-content editing
-- Comfortable reviewing AI-generated/machine-translated text
-- Strong attention to detail
-- Able to work within turnaround times
-- Reliable communication
-Nice to have:
-- Experience with AEM or another CMS
-- Website localization experience
-- UI/UX copy review
-- Technical/software background
-- Experience with localization QA tools</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
