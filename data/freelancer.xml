@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-Commerce Site Development Help</title><link>https://www.freelancer.com/projects/website-design/Commerce-Site-Development-Help</link><guid isPermaLink="false">freelancer:40762690</guid><pubDate>Sun, 11 Oct 2026 22:22:11 GMT</pubDate><description>30-250 AUD | I’m building an online store focused on selling digital products and want an experienced developer to move the project forward. The core storefront will sit on WordPress, yet I also expect custom functionality that may tap into standalone PHP or even .NET components, so a good grasp of all three will be useful.
+
+Here’s what I need:
+
+• Clean WordPress installation configured for e-commerce  
+• A lightweight theme tailored to digital downloads, fully responsive  
+• Payment gateway integration (credit cards and PayPal at minimum)  
+• Secure, automated delivery of purchased files with license-key support  
+• Clear admin workflows for adding new products, coupons, and reports  
+• Basic on-page SEO and performance tuning so pages load fast  
+• Documentation so I can maintain everything after hand-over
+
+Acceptance criteria: the site must process a test purchase end-to-end, email the buyer a protected download link, and store the order in the dashboard without errors.
+
+If you have experience blending WordPress with custom PHP or .NET pieces, please tell me which similar projects you’ve launched and how you secured digital assets. Let’s get this store live quickly and smoothly.</description></item>
 <item><title>Repair an existing UK Property Letting Agency website</title><link>https://www.freelancer.com/projects/web-design/Repair-existing-Property-Letting-Agency</link><guid isPermaLink="false">freelancer:40762648</guid><pubDate>Sun, 11 Oct 2026 21:25:51 GMT</pubDate><description>250-750 GBP | The Current Site (www.aberdeenlettings.co.uk) has been cloned from another website and whilst functional needs some work to remove errors and get all areas functional (menus working, google map added / links resolved, Property Hive plugin for listing of properties, testimonials able to be edited and changed).
 
 The colours and graphics are there along with most of the content. 
@@ -676,36 +691,6 @@ Ideal Skills and Experience:
 - Strong communication skills to keep me updated on progress and any challenges
 
 Please provide examples of previous work and a timeline for completion.</description></item>
-<item><title>Wix Website Development and TaxDome Integration</title><link>https://www.freelancer.com/projects/branding/Wix-Website-Development-TaxDome</link><guid isPermaLink="false">freelancer:40759765</guid><pubDate>Fri, 09 Oct 2026 20:11:34 GMT</pubDate><description>1500-3000 USD | PLEASE START YOUR PROPOSAL WITH THE WORDS "TAXDOMEROX" SO I KNOW YOU READ THIS ENTIRE POST. AUTOMATED BIDS WILL BE IGNORED.
-
-I need a professional website created completely from scratch on Wix Studio for my business, Account-Ability Bookkeeping &amp; Tax Solutions. I currently have a Wix account with hosting, but the current layout is a mess and I want a clean, fresh start.
-
-Brand &amp; Target Audience Strategy:
-• The Niche: My primary marketing target is wellness professionals (e.g., therapists, chiropractors, gym owners, massage therapists). The visual branding should feel calm, trustworthy, and welcoming to this industry.
-• The Catch-All: I still accept all general clients. The site layout needs a clean "Services Overview" that appeals broadly to any small business owner so non-wellness clients still feel comfortable hiring me.
-
-What I need done:
-• Complete Design &amp; Build: An inviting, modern layout tailored to small businesses, with visual accents that resonate with wellness industry entrepreneurs.
-• TaxDome Onboarding Integration (No Standard Forms Needed): All client intake and communication must run exclusively through TaxDome. I need two specific buttons integrated:
-	1. A prominent "Existing Client Login" button linking directly to my TaxDome portal.
-	2. A distinct, high-visibility "New Client Sign-Up / Get Started" button that sends prospective leads directly to my TaxDome registration/intake page to sign up.
-• Automated Legal Compliance Pages: I need clean placeholder pages set up and linked in the website footer for my Privacy Policy, Terms &amp; Conditions, and Financial Disclaimers. I will provide the automated embed scripts (e.g., via Termageddon or Termly), which need to be properly implemented to display seamlessly.
-• Mobile Optimization: Flawless responsive layout across desktop, tablet, and mobile devices.
-
-Requirements:
-1. Tech Stack Filters (Non-Negotiable):
-   • Platform Mastery: Must be highly proficient specifically in Wix Studio (not standard Wix). The layout responsiveness needs to be fluid.
-   • Integration Capability: Must have a history of linking external workflow systems. Specifically, they must know how to map external portal buttons (for your TaxDome onboarding links) and embed third-party script integrations into footers (for your automated privacy policies).
-
-2. Niche &amp; Audience Filters:
-   • Professional Services Experience: They must show at least two websites they have built for professional service firms (accountants, lawyers, consultants, or agencies). No e-commerce or personal blogging developers.
-   • Design Aesthetic Compatibility: They must have portfolios that showcase clean, minimalistic, soft, or modern styles. Since your primary target is wellness professionals, you need a designer who can pull off an inviting, therapeutic look rather than a harsh, aggressive corporate layout.
-
-3. Contract &amp; Deliverables Filter:
-   • Ownership &amp; IP: The freelancer must agree to sign Freelancer's IP Agreement so I have 100% legal ownership of the code and design.
-   • Handoff Package: They must commit to a clean transfer of site ownership directly to my Wix account and provide a quick training walkthrough video so I am never dependent on them for minor edits.
-
-Please share a portfolio of your recent work with professional service firms and provide a flat-rate quote to build and launch the site.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
