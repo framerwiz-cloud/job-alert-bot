@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Book Sales Site</title><link>https://www.freelancer.com/projects/email-marketing/WordPress-Book-Sales-Site</link><guid isPermaLink="false">freelancer:40761901</guid><pubDate>Sun, 11 Oct 2026 09:52:31 GMT</pubDate><description>250-750 AUD | I need a WordPress website to sell a physical book and an eBook. The site should include automated eBook delivery via email with a download link.
+
+Requirements:
+- Payment integration: Credit card and PayPal
+- Automated eBook delivery via email with download link
+
+Ideal Skills and Experience:
+- Proficiency in WordPress
+- Experience with payment integration
+- Familiarity with automated email systems
+- Strong attention to detail</description></item>
 <item><title>Complete Professional Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Complete-Professional-Website-Redesign</link><guid isPermaLink="false">freelancer:40761829</guid><pubDate>Sun, 11 Oct 2026 08:46:48 GMT</pubDate><description>2-8 USD/hr | My current site is live but no longer reflects the professional, modern image I need, so I want to rebuild it entirely—from blank canvas to launch-ready production site. I will supply domain and hosting access, brand assets, and any copy you require; you will guide me through choosing the right tech stack, craft a fresh design that feels polished on desktop and mobile, develop all pages, integrate any essential features we identify together (contact forms, CMS, analytics, SEO basics, speed optimisation), and migrate or redirect existing URLs so I keep my search footprint.
 
 I value clean code, intuitive navigation and a lightweight, responsive layout. Please outline your typical workflow, examples of comparable redesigns, and an estimated timeline from kickoff to go-live. Deliverables include working site deployed on my server, editable source files, and brief hand-over documentation so I can make routine updates without breaking anything.
@@ -800,26 +811,6 @@ Acceptance
 Smooth registration, badge unlocks reflected instantly on profiles, chat loads without refresh, and pages score 90+ on Google Lighthouse.
 
 Stack is flexible—React, Vue, Laravel, WordPress with custom plugins, whichever you prefer—so long as it meets the above criteria and is easy for me to update later. Let’s create a home for gamers to prove their skills and show off their hard-earned badges.</description></item>
-<item><title>Food Truck Website with Online Ordering</title><link>https://www.freelancer.com/projects/web-development/Food-Truck-Website-with-Online</link><guid isPermaLink="false">freelancer:40759328</guid><pubDate>Fri, 09 Oct 2026 14:34:48 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to create a functional website for my food truck business. The site needs to facilitate online ordering and allow me to manage and update catering specials, and schedule events.
-
-Key functionalities should include:
-- Online Ordering System:
-  - Choose pickup time and location
-  - Customizable menu options
-  - Order tracking
-
-- Event Management:
-  - Private catering events
-  - Public food truck locations
-  - Community events or partnerships
-
-Ideal skills and experience:
-- Strong experience in developing e-commerce websites, especially for food services.
-- Familiarity with POS integration.
-- Excellent UI/UX design skills to ensure a user-friendly experience.
-- Ability to create customizable menu options and robust order tracking features.
-
-Please provide samples of similar work done.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
