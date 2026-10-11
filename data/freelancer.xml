@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern Chauffeur Booking Website Build</title><link>https://www.freelancer.com/projects/web-development/Modern-Chauffeur-Booking-Website-Build</link><guid isPermaLink="false">freelancer:40762053</guid><pubDate>Sun, 11 Oct 2026 12:20:51 GMT</pubDate><description>30-250 AUD | I’m planning a compact, 4–5-page site that lets clients learn about my chauffeur services and secure a ride through a straightforward online booking form. The overall look should be modern and sleek—think clean lines, generous white space, and subtle motion or micro-interactions where they add polish without slowing the experience. I’m flexible on colours, so feel free to suggest a palette that reinforces a premium, trustworthy feel while staying accessible.
+
+Core pages I foresee:
+• Home / Landing  
+• Services (includes detailed vehicle &amp; chauffeur info)  
+• Book Now (interactive form that captures journey details, date, time, passenger count, contact, and auto-confirms via email)  
+• About / Contact  
+If an extra FAQ or testimonials section fits naturally, we can fold it in, but the key is keeping navigation simple.
+
+Build-wise, I’m open: WordPress + Elementor/Bricks, Webflow, or a lightweight custom stack—whichever lets me tweak copy and pricing without touching code. The finished site must be:
+• Fully responsive and fast-loading (Google Core Web Vitals in the green)  
+• SEO-ready with clean semantic markup and basic on-page optimisation  
+• Secure (HTTPS, spam-protected forms, no exposed API keys)  
+
+When you hand it over, please include:
+• All source files and assets (Figma or XD if mockups are used)  
+• Clear instructions for updating content and backing up the site  
+• A quick screen-share or Loom walkthrough of the booking workflow configuration  
+
+If this aligns with your skill set, let me know your suggested tech stack, timeline, and any live chauffeur or service-industry sites you’ve built that show a similar aesthetic.</description></item>
 <item><title>Affiliate Blog Setup on GoDaddy</title><link>https://www.freelancer.com/projects/affiliate-marketing/Affiliate-Blog-Setup-GoDaddy</link><guid isPermaLink="false">freelancer:40762012</guid><pubDate>Sun, 11 Oct 2026 11:56:19 GMT</pubDate><description>250-750 USD | I need a complete affiliate-focused blog built inside my GoDaddy account. The goal is a clean, responsive site that lets me publish posts quickly, add affiliate links without hassle, and start growing an email list from day one.
 
 You’ll work directly in GoDaddy’s Website Builder / Managed WordPress environment (whichever is best within my plan) rather than migrating to WordPress.org, Blogger, or Wix. Please handle all initial configuration related to setting up my affiliate accounts, adding the links to my website, and plug-ins or extensions required to:
@@ -792,22 +812,6 @@ Your knowledge of video editing and YouTube publishing.
 Your expected monthly salary.
 Confirmation that you can dedicate 40 hours per week to this position.
 Important: Applications that do not address these questions may not be considered.</description></item>
-<item><title>Bilingual Framer Website Design</title><link>https://www.freelancer.com/projects/framer/Bilingual-Framer-Website-Design</link><guid isPermaLink="false">freelancer:40759445</guid><pubDate>Fri, 09 Oct 2026 15:54:51 GMT</pubDate><description>30-250 USD | I need a premium, contemporary website built in Framer that fluidly toggles between English and Arabic. The company champions accessibility and inclusion across Saudi Arabia, so every design choice must echo that mission while strictly following our established brand palette, typography, and logo usage.
-
-Scope of the build  
-– Six core pages: Home, About Us, Contact Us, Why Accessibility, What We Do, and Solutions.  
-– Modern aesthetic throughout—clean layouts, confident white space, subtle motion, and crisp micro-interactions that feel high-end yet welcoming.  
-– Full bilingual structure: mirrored layouts, RTL optimisation, consistent typographic rhythm, and language-aware navigation.  
-– Accessibility baked in: semantic HTML, keyboard navigation, colour-contrast compliance, descriptive alt text, and clear focus states.  
-– Framer CMS setup so our team can update copy in both languages without touching code.  
-– Mobile-first responsiveness and performance optimisation (lazy loading, compressed assets, SEO-friendly meta in each language).  
-
-Deliverables  
-1. Framer project file with all pages, components, and CMS collections.  
-2. Live, hosted Framer site ready to launch on a custom domain.  
-3. Handoff guide outlining language-switch logic, CMS fields, and basic editing steps.  
-
-Completion is accepted when each page passes a WCAG AA audit, copy is switchable in one click, and the visual style matches our existing brand guidelines pixel-perfectly on desktop, tablet, and mobile.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
