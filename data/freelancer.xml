@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Elementor </title><link>https://www.freelancer.com/projects/elementor/Elementor-40762590</link><guid isPermaLink="false">freelancer:40762590</guid><pubDate>Sun, 11 Oct 2026 20:07:32 GMT</pubDate><description>30-250 USD | Elementor Pro is back online, yet the editor still loads as a blank white screen. The log pinpoints a PHP fatal error in elementor-pro/modules/display-conditions/module.php on line 212.  
+
+I’ve already re-installed plugins, rolled back backups, and re-activated Elementor Pro without success. The only recent change on the site was updating several plugins and the active theme, so the fault may lie in a compatibility clash, a corrupted display condition, or a PHP setting that now fails silently.
+
+Because the site is actively selling Dallas Salsa Congress tickets, WooCommerce orders, the payment gateway, and all ticketing data must remain untouched while you work.
+
+What I need from you  
+• Identify the exact root cause of the fatal error (plugin conflict, code corruption, or PHP mis-configuration).  
+• Apply a safe fix so the Elementor editor loads normally again.  
+• Verify that WooCommerce, existing orders, and payment flows are unaffected.  
+• Provide a brief summary of what you changed so I have a clean record for future updates.
+
+Acceptance criteria  
+1. Elementor opens without a white screen.  
+2. No new errors appear in wp-debug or server logs.  
+3. A test order flows from product purchase through payment completion without issues.
+
+You’ll have WordPress admin, cPanel/SSH, and access to current backups to get started.</description></item>
 <item><title>B2B Agri-Biotech WordPress SEO Expert Required</title><link>https://www.freelancer.com/projects/b2b-marketing/Agri-Biotech-WordPress-SEO-Expert</link><guid isPermaLink="false">freelancer:40762436</guid><pubDate>Sun, 11 Oct 2026 17:13:28 GMT</pubDate><description>30-250 CAD | # WordPress SEO Optimization – CAD $200 Fixed Budget
 
 **Website:** https://novotec.hallmarkqc.com  
@@ -732,20 +750,6 @@ Many visitors, many add to carts ----&gt; 0 sales
 
 
 All traffic : Direct</description></item>
-<item><title>Website Refresh &amp; Social Media Automation</title><link>https://www.freelancer.com/projects/seo/Website-Refresh-Social-Media-Automation</link><guid isPermaLink="false">freelancer:40759692</guid><pubDate>Fri, 09 Oct 2026 18:59:08 GMT</pubDate><description>20-250 GBP | My landing page needs a solid content overhaul: new copy that reflects our current offers, updated images that match the brand palette, and refreshed SEO titles, meta-descriptions, and alt tags so the page finally ranks where it should. All content is ready in draft form; I simply need it placed, formatted cleanly, and optimised before going live.
-
-Once the site is updated, I want the same messaging echoed across Instagram, Facebook, and TikTok. That includes preparing platform-specific visuals, writing captions, and scheduling the first batch of posts so they publish automatically. If you can connect the website CMS to these channels—using tools like Zapier, Meta Business Suite, or native API integrations—even better. I’d like basic automations set up for:
-
-• automatic posting when new blog articles go live  
-• collecting leads from the landing page directly into our CRM  
-• weekly performance reports sent to my inbox
-
-Deliverables I’ll review for acceptance:  
-• live landing page with updated text, media, and SEO-friendly metadata  
-• three launch-ready social media posts per platform (Instagram, Facebook, TikTok) scheduled for the coming week  
-• documented automation workflows with clear triggers, steps, and test proof
-
-Access to hosting, CMS, brand files, and social pages will be provided immediately after kickoff. If this scope matches your skill set, let’s bring the update online and free up some of my weekly marketing hours through smart automation.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
