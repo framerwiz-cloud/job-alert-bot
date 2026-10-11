@@ -3,6 +3,74 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Assistant for Jobber CRM &amp; iOS Integration</title><link>https://www.freelancer.com/projects/chatgpt/Assistant-for-Jobber-CRM-iOS</link><guid isPermaLink="false">freelancer:40761440</guid><pubDate>Sun, 11 Oct 2026 03:29:20 GMT</pubDate><description>30-250 USD | Job Title
+
+Developer Needed – Full ChatGPT Integration With Jobber CRM, iPhone Messages, Calendar &amp; Tasks
+
+Project Description
+
+I own Johnny Cuts LLC, a landscaping, lawn maintenance, and snow removal company. I’m looking for an experienced developer to build a comprehensive AI assistant that connects my existing ChatGPT app to both Jobber CRM and my iPhone.
+
+My goal is to manage my entire business and daily tasks by simply talking or typing to ChatGPT on my iPhone.
+
+1. Full Jobber CRM Integration
+
+* Create, edit, and reschedule jobs and appointments.
+* Manage customer information and job history.
+* Create, edit, and send quotes and invoices.
+* Assign employees and manage crew schedules.
+* Manage recurring services and daily routes.
+* Track payments, outstanding invoices, and revenue.
+* Send customer notifications and reminders.
+* Access all available Jobber functions directly through ChatGPT.
+
+2. iPhone Text Message Integration
+
+* Help read and organize customer text messages.
+* Draft and send text messages when authorized.
+* Identify customers who need responses.
+* Summarize conversations.
+* Create follow-up reminders from messages.
+* Connect customer conversations with Jobber records.
+* Support my existing iPhone number and Apple Messages wherever technically possible.
+
+3. iPhone Calendar &amp; Task Management
+
+* View, create, edit, and reschedule calendar events.
+* Manage reminders and to-do lists.
+* Schedule personal and business appointments.
+* Coordinate my iPhone calendar with Jobber.
+* Create reminders based on conversations.
+* Help organize daily activities and business priorities.
+
+4. Complete ChatGPT Voice &amp; Text Control
+
+I want to give commands such as:
+
+* “Move Mrs. Smith’s lawn service to Friday and text her.”
+* “Read my customer texts and tell me who needs a response.”
+* “Create a Jobber quote for $500 and send it to the customer.”
+* “Schedule a meeting tomorrow at 4 PM and add it to my calendar.”
+* “Show me tomorrow’s Jobber schedule and personal appointments.”
+* “Remind me to follow up with customers who haven’t responded.”
+
+Technical Requirements
+
+* Experience with Jobber GraphQL API.
+* Experience with OpenAI API, ChatGPT integrations, MCP, and custom GPT Actions.
+* Experience with Apple Shortcuts, iOS integrations, Apple Calendar, Reminders, and messaging systems.
+* Secure authentication and reliable synchronization.
+* Works directly through my existing ChatGPT experience on iPhone, wherever supported.
+* Clearly explain Apple and Jobber API limitations and propose alternatives.
+* Require my approval before sending customer messages or making sensitive changes.
+
+Expected Deliverables
+
+A fully working integration, testing, setup assistance, documentation, and ongoing technical support options.
+
+Please provide your experience, examples of similar projects, estimated cost, timeline, and what functionality is realistically achievable.
+
+I’m looking for a long-term developer to help turn ChatGPT into my personal and business AI assistant.</description></item>
 <item><title>Comprehensive Shopify Store Overhaul: everything to do with my website</title><link>https://www.freelancer.com/projects/shopify-site/Comprehensive-Shopify-Store-Overhaul</link><guid isPermaLink="false">freelancer:40761395</guid><pubDate>Sun, 11 Oct 2026 02:27:18 GMT</pubDate><description>30-250 USD | Here is the final, updated master brief with your payment condition added right at the top. This makes it crystal clear that the payment is contingent on the work being completed to your standards.
 Subject: Complete Project Brief &amp; Expectations for Shopify Store Overhaul
 Hi [Developer's Name],
@@ -778,35 +846,6 @@ Requirements
 * No unnecessary architectural changes.
 
 Definition of Done: A card payment can be initiated from our PWA, processed through Stripe Terminal, confirmed reliably, and synchronized with Shore (POS) and the corresponding order.</description></item>
-<item><title>Estonian Linguistic Reviewer for Web Content -- 3</title><link>https://www.freelancer.com/projects/copywriting/Estonian-Linguistic-Reviewer-for-Web-40758949</link><guid isPermaLink="false">freelancer:40758949</guid><pubDate>Fri, 09 Oct 2026 09:28:26 GMT</pubDate><description>250-750 USD | I’m looking for a native or near-native Estonian speaker to help review English → Estonian web content that has been initially translated using AI/machine translation.
-The work is mainly human linguistic review and post-editing, not translation from scratch.
-Responsibilities may include:
-- Review Estonian text for grammar, spelling, punctuation and natural wording
-- Check that the Estonian accurately reflects the English source
-- Fix awkward or overly literal AI/MT translations
-- Improve tone, readability and consistency
-- Check terminology and repeated UI/web phrases
-- Review buttons, headings, navigation labels, banners and short web copy
-- Flag content that does not make sense in the Estonian context
-- Perform final QA before content is considered ready
-Some assignments may also involve web/CMS content review, so familiarity with CMS platforms such as Adobe Experience Manager (AEM), Magnolia, WordPress, Drupal or similar systems is a plus.
-This is potentially ongoing/project-based work. Workload may arrive in batches, so availability can vary from day to day.
-
-Requirements
-- Native or excellent Estonian
-- Strong English comprehension
-- Excellent Estonian grammar and writing ability
-- Experience with proofreading, localization, MTPE, translation QA or web-content editing
-- Comfortable reviewing AI-generated/machine-translated text
-- Strong attention to detail
-- Able to work within turnaround times
-- Reliable communication
-Nice to have:
-- Experience with AEM or another CMS
-- Website localization experience
-- UI/UX copy review
-- Technical/software background
-- Experience with localization QA tools</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
