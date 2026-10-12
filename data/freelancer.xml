@@ -3,6 +3,11 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Coronation Tapestry Re-Creation</title><link>https://www.freelancer.com/projects/digital-art/Coronation-Tapestry-Creation</link><guid isPermaLink="false">freelancer:40763237</guid><pubDate>Mon, 12 Oct 2026 06:39:08 GMT</pubDate><description>250-750 USD | I have a photo of part of the interior of a catholic cathedral, that follows the idea of the coronation tapestry. I would like to turn the image I provide into a unique version of the coronation tapestry that is commonly used on liturgical vestments. A simple google search of coronation tapestry will show the one I'm referring to.
+
+I have attached the digital version (the image that has less color), and then you'll see the image that has color included. Additionally, you'll see an amateur job at showing you what I would like. In the third attachment, which is 3 of them put together.
+
+Please email me and we can arrange a time where this can be discussed further over the phone.</description></item>
 <item><title>Classic Wedding Venue Decor</title><link>https://www.freelancer.com/projects/event-management/Classic-Wedding-Venue-Decor</link><guid isPermaLink="false">freelancer:40763139</guid><pubDate>Mon, 12 Oct 2026 05:36:40 GMT</pubDate><description>30-250 AUD | I'm seeking assistance with setting up a classic-style wedding venue. 
 
 Total required time will be about an hour in Melbourne CBD.</description></item>
@@ -573,18 +578,6 @@ When you reply, briefly outline:
 3. How you’ll ensure fault-free migration with zero downtime.
 
 Looking forward to collaborating on a site that truly represents the calibre of my coaching practice.</description></item>
-<item><title>Harden WordPress Firewall &amp; Server</title><link>https://www.freelancer.com/projects/firewall/Harden-WordPress-Firewall-Server</link><guid isPermaLink="false">freelancer:40761277</guid><pubDate>Sat, 10 Oct 2026 22:01:35 GMT</pubDate><description>30-250 USD | My WordPress site is currently offline after malicious files were discovered on the server. I need it cleaned and brought back online, but more importantly I want to stop this from ever happening again. The immediate focus is firewall and server-side security; user authentication tweaks and data-at-rest encryption can follow once the house is no longer on fire.
-
-There are no security plugins installed yet, so you’ll be working from a clean slate. Feel free to recommend and configure the tools you trust most—Wordfence, Sucuri, ModSecurity, Fail2Ban, or a custom stack—as long as the final setup keeps attacks out and performance intact.
-
-Acceptance criteria  
-• Every malicious file and injected line of code is removed, with the site fully functional and reachable.  
-• A Web Application Firewall is in place, properly tuned for WordPress traffic.  
-• Server settings are hardened: correct file permissions, disabled risky PHP functions, sensible rate limits, automatic core/plugin updates, and secure backups.  
-• Ongoing monitoring reports suspicious activity to my email.  
-• A brief hand-off document explains what was fixed, which rules were applied, and any routine tasks I should perform.
-
-SSH/cPanel credentials and the latest backup will be ready the moment we start. If you have a solid track record cleaning hacked WordPress sites and tightening server security, I’m ready to move quickly.</description></item>
 <item><title>WooCommerce B2C Store Development</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Development-40761036</link><guid isPermaLink="false">freelancer:40761036</guid><pubDate>Sat, 10 Oct 2026 17:39:31 GMT</pubDate><description>15-25 USD/hr | I am looking for someone based in the USA. I need to upgrade and launch a B2C online store and to build it on WooCommerce to keep everything within the WordPress ecosystem I already know. I need a developer who can take the project.
 
 The build must include:  
