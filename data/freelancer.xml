@@ -3,6 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Website Design &amp; WooCommerce Setup</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Website-Design-WooCommerce</link><guid isPermaLink="false">freelancer:40762929</guid><pubDate>Mon, 12 Oct 2026 02:41:16 GMT</pubDate><description>30-250 USD | 1. Domain, DNS &amp; Technical Setup
+
+- Configure the Cloudflare DNS records to point madatease.com to your IONOS hosting.
+- Preserve the necessary records for your existing e mail configuration.
+- Configure and test SSL to ensure the website loads securely.
+- Review your Zoho Mail setup and verify the required records and routing for administrative and booking enquiries.
+
+2. WordPress Website Development
+
+- Install and configure WordPress on IONOS.
+- Build the seven core website pages based on your mockup and project requirements.
+- Create a professional, responsive design for desktop, tablet, and mobile.
+- Set up clear navigation, calls to action, and a consistent visual style throughout the website.
+
+3. WooCommerce &amp; Tour Pricing
+
+- Install and configure WooCommerce to support your tour offerings.
+- Create individual pages for all 12 tours, including descriptions, itineraries, and relevant images.
+- Present the Budget, Standard, and Premium pricing tiers clearly.
+- Set up straightforward booking request options for each tour.
+- Integrate your existing Stripe deposit links where required.
+
+the launch setup will focus on booking requests rather than instant checkout.
+
+4. Booking &amp; Driver Application Forms
+
+- Create booking request forms with date selection.
+- Configure booking enquiries to reach bookings at madatease.com.
+- Build a driver application form with document upload functionality.
+- Configure appropriate handling of uploaded paperwork to help prevent sensitive documents from being publicly accessible.
+
+5. Tour Content &amp; Website Organization
+
+- Help write and structure the descriptions for all 12 tours.
+- Organize the day-by-day itineraries so customers can easily understand each tour.
+- Present the three pricing options in a clear, customer-friendly format.!</description></item>
 <item><title>Populate Existing Website Content</title><link>https://www.freelancer.com/projects/squarespace/Populate-Existing-Website-Content</link><guid isPermaLink="false">freelancer:40762848</guid><pubDate>Mon, 12 Oct 2026 01:10:11 GMT</pubDate><description>30-250 AUD | Input content from GDrive into squarespace website. The website is built, just need to upload all the text and images.</description></item>
 <item><title>Build a Minimalist, Professional Dog-Training Website</title><link>https://www.freelancer.com/projects/web-design/Build-Minimalist-Professional-Dog</link><guid isPermaLink="false">freelancer:40762834</guid><pubDate>Mon, 12 Oct 2026 00:59:45 GMT</pubDate><description>250-750 AUD | Website Designer Needed – Professional, Minimalist Dog Training Website
 
@@ -623,19 +659,6 @@ How We Measure Success (KPIs)
 
 How To Apply
 Send: (1) a short intro, (2) links to 2–3 WordPress sites you have managed or built, (3) one example of SEO results you produced (traffic, rankings, or links — with dates), and (4) your expected monthly rate. Applicants who complete a short paid test task move to the front.</description></item>
-<item><title>WordPress SEO Traffic Boost</title><link>https://www.freelancer.com/projects/google-analytics/WordPress-SEO-Traffic-Boost</link><guid isPermaLink="false">freelancer:40761189</guid><pubDate>Sat, 10 Oct 2026 20:14:25 GMT</pubDate><description>30-250 USD | I’m looking to lift my WordPress site’s visibility and, above all, bring in more organic traffic from across the country. At the moment I’m unsure which content type—blog posts, product pages, or landing pages—should receive priority, so I’ll rely on your SEO expertise to guide that decision.
-
-Here’s what I need from you:  
-• A clear audit that highlights technical issues holding the site back.  
-• Keyword research focused on terms a national audience actually uses.  
-• Page-by-page on-site optimizations (titles, meta descriptions, internal links, schema, image alt tags, Core Web Vitals fixes).  
-• A practical content roadmap that tells me where to concentrate next (and why).  
-• Setup or refinement of Google Search Console, XML sitemaps, and any must-have SEO plugins.  
-• Concise tracking and reporting so I can see organic traffic gains over time.
-
-I work in WordPress daily, so please keep the workflow inside typical tools like Yoast/Rank Math, Google Analytics, and Search Console. If you see a faster route with another plugin, let me know.
-
-Once the optimization is complete and results are measurable, I’ll sign off. I’m ready to start as soon as you outline your approach and timeline.</description></item>
 <item><title>WooCommerce B2C Store Development</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Development-40761036</link><guid isPermaLink="false">freelancer:40761036</guid><pubDate>Sat, 10 Oct 2026 17:39:31 GMT</pubDate><description>15-25 USD/hr | I am looking for someone based in the USA. I need to upgrade and launch a B2C online store and to build it on WooCommerce to keep everything within the WordPress ecosystem I already know. I need a developer who can take the project.
 
 The build must include:  
