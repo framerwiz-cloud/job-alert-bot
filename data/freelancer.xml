@@ -3,6 +3,9 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Stripe Account Verification Recovery</title><link>https://www.freelancer.com/projects/compliance/Stripe-Account-Verification-Recovery</link><guid isPermaLink="false">freelancer:40764122</guid><pubDate>Mon, 12 Oct 2026 16:46:09 GMT</pubDate><description>250-750 USD | I am looking for a senior Stripe Compliance and Account Recovery Specialist to fix a critical issue with my US Stripe account under a US LLC 
+The account has been placed on "Pause" (Payouts and charges are restricted) due to a practical operational mistake on my end regarding how payments from Virtual Credit Cards (VCC) were processed.   Review the exact reason for the pause within the Stripe dashboard. Analyze the data mismatch, web integration, or risk alerts that caused the freeze.  Business Model: My business is registered in the US with a valid EIN and ITIN (I am a non-US resident, using my valid passport for verification).  We manage and collect payments from booking platforms like Expedia, Booking.com, and Trip.com. The Mistake: Stripe requires that the Statement Descriptor (the name the client/bank sees) exactly matches each specific hotel published. Due to a lack of technical knowledge, I made the mistake of processing several payments from different hotels under a single main account.  1. The Trigger: After realizing this was an error, I tried to rapidly create multiple sub-accounts within a single group to split the hotels. This sudden change and payment consolidation triggered Stripe's risk algorithms, resulting in an immediate pause on payouts and processing.
+Note: All legal documentation (EIN, ITIN, Passport, LLC registration) is 100% clean and legitimate. The issue is purely an operational/risk policy trigger. Reconfigure the account structure from scratch if needed. You will advise on how to handle multiple hotel payouts legally under Stripe’s architecture (e.g., proper use of Statement Descriptors or Stripe Connect if required) ensuring refund policies and payment flows meet 100% of Stripe’s guidelines.</description></item>
 <item><title>Supply Chain Software MVP Development</title><link>https://www.freelancer.com/projects/full-stack-development/Supply-Chain-Software-MVP-Development</link><guid isPermaLink="false">freelancer:40764086</guid><pubDate>Mon, 12 Oct 2026 16:18:16 GMT</pubDate><description>15-120 USD/hr | I'm looking for a skilled full stack developer to create a Minimum Viable Product (MVP) for a supply chain solutions company. This project is for starting a new enterprise and is crucial for our business launch.
 
 The software will have four user interfaces:
@@ -509,17 +512,6 @@ Here’s what I need from you:
 • Final hand-off with layered design files, style guide and a quick walkthrough video so I can maintain the site long-term.
 
 If this style resonates with you and you can turn it around efficiently, I’m ready to start right away.</description></item>
-<item><title>WordPress Book Sales Site</title><link>https://www.freelancer.com/projects/email-marketing/WordPress-Book-Sales-Site</link><guid isPermaLink="false">freelancer:40761901</guid><pubDate>Sun, 11 Oct 2026 09:52:31 GMT</pubDate><description>250-750 AUD | I need a WordPress website to sell a physical book and an eBook. The site should include automated eBook delivery via email with a download link.
-
-Requirements:
-- Payment integration: Credit card and PayPal
-- Automated eBook delivery via email with download link
-
-Ideal Skills and Experience:
-- Proficiency in WordPress
-- Experience with payment integration
-- Familiarity with automated email systems
-- Strong attention to detail</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
