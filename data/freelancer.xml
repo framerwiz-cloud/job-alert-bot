@@ -3,6 +3,84 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress developer to launch a finished business website (plugin, theme, setup and testing)</title><link>https://www.freelancer.com/projects/cloudflare/WordPress-developer-launch-finished</link><guid isPermaLink="false">freelancer:40764173</guid><pubDate>Mon, 12 Oct 2026 17:26:26 GMT</pubDate><description>250-750 USD | TITLE
+WordPress developer to launch a finished business website (plugin, theme, setup and testing)
+
+PROJECT DESCRIPTION
+
+I need an experienced WordPress developer to install, configure, test and launch a finished business website on a live domain. The site is already built as a custom WordPress plugin and a small companion theme. This is a setup and launch job. It is not a design or build job.
+
+The site has about 130 pages, 16 city pages, 8 lead forms, a chat widget, SEO tags and schema, and 18 videos. Its purpose is to generate leads, so email delivery, redirects, speed and form testing matter most.
+
+WHAT YOU WILL DO
+
+1. Before any changes, make a complete backup of the existing website: all files, the database, the media library, the list of installed plugins and themes, and the DNS records. Export all blog posts (Tools &gt; Export). Save everything as a downloadable archive and send it to me, with a short note on how to restore it. Confirm the backup opens or restores correctly. Do not delete or overwrite anything on the existing site until I confirm I have received it.
+2. Set up WordPress with HTTPS on my hosting, or recommend and set up managed WordPress hosting. Use the latest WordPress and PHP 8.2 or newer, and update all plugins. Create a staging copy.
+3. Install the plugin and theme, create and publish all pages from the plugin's Site Pages screen, and confirm the home page and permalinks are correct.
+4. Import the old blog posts and keep every post URL identical.
+5. Upload the video files and confirm they play.
+6. Enter the settings I provide: Google Tag Manager, Cloudflare Turnstile spam protection, booking link, reviews link, Google Place ID and Places API key, and lead notification email.
+7. Set up reliable email delivery with an SMTP service (Postmark, Amazon SES or Google Workspace). Install a caching plugin, daily offsite backups for the new site, and basic security with two factor login for admins.
+8. Crawl the old site and save the full list of its URLs, then set up 301 redirects from old URLs to the closest new pages. The plugin already includes 28 redirects. You add the rest.
+9. Test on staging, then again on the live site: every form, the chat widget, the file download, all menus, the vendor pages, the home page slideshow, mobile layout at 360 px, keyboard navigation, and page speed. Fix problems in your scope and report the rest.
+10. Go live. Verify the domain in Google Search Console and Bing Webmaster, submit the sitemap, confirm Google Tag Manager fires, and confirm a real test lead reaches my inbox and appears under Leads in WordPress.
+
+WHAT I WILL PROVIDE
+
+- The plugin and theme zip files, all video files, and a PDF download
+- A developer handoff document with exact steps, settings and a full test list
+- A setup guide, launch checklist and a static preview of the finished site to compare against
+- The keys and links for each setting, and quick answers to questions
+
+MUST HAVE
+
+- Proven WordPress experience (plugins, custom HTML pages, redirects, SMTP, caching, Cloudflare)
+- Comfortable reading PHP so you can fix small issues
+- Clear written English and a short update at least twice a week
+- Links to two WordPress launches you have completed
+
+RULES
+
+- Back up the existing website first and send me the backup before making any change.
+- Work on a staging copy first. I will review it before anything goes live.
+- Do not change page text, prices, legal pages or claims without my approval.
+- Do not install a second SEO plugin that outputs titles or schema. The plugin already does this.
+- I keep ownership of all accounts (domain, hosting, Google, Cloudflare). You will use a temporary admin login, which I will remove at the end. Never ask me to send passwords in chat.
+- Keep the existing site's backup safe and private. Delete your own copies when the job is finished.
+
+ACCEPTANCE (all required before final payment)
+
+1. The complete backup of the existing website, delivered to me and confirmed restorable.
+2. A screenshot of Settings &gt; Launch readiness with all checks green.
+3. A screen recording of all 8 forms and the chat creating leads, with the notification emails shown arriving in an inbox, not spam.
+4. A spreadsheet of old URLs and where each redirects, with no errors.
+5. A PageSpeed report for the home page, one vendor page and one city page.
+6. A screenshot of a backup of the new site running and a restore tested.
+7. Search Console verified with the sitemap accepted.
+
+DELIVERABLES
+
+- The backup archive of the existing website
+- The live website with all pages published
+- A short written summary of everything configured
+- A list of any problems found and how each was handled, or what remains
+- The test results
+
+TIMELINE
+5 to 7 days from start.
+
+BUDGET
+Fixed price. I will pay by milestone:
+1. 20%: backup of the existing site delivered and confirmed, staging site running
+2. 25%: all pages published, settings entered, email, redirects, backups, caching and security done
+3. 15%: test results and screen recording sent
+4. 40%: live on the real domain, Search Console verified, real test lead received
+
+SKILLS TO TAG
+WordPress, PHP, Website Testing, Web Hosting, SEO, Cloudflare
+
+QUESTION FOR BIDDERS
+Please answer in your bid: how will you back up the existing site and prove it can be restored, how will you confirm that form emails arrive in my inbox, and how will you handle redirects from the old site?</description></item>
 <item><title>Solo Practitioner Law Firm Website -- 2</title><link>https://www.freelancer.com/projects/php/Solo-Practitioner-Law-Firm-Website</link><guid isPermaLink="false">freelancer:40764151</guid><pubDate>Mon, 12 Oct 2026 17:11:19 GMT</pubDate><description>3000-5000 USD | Hello,
 
 I seek an experienced web designer/developer to build a professional corporate website for my law firm, targeting prospects in the European Union, United States and Latin America. The site will launch in English, with selected sections translated into Spanish later. WordPress.org is the preferred CMS. Scope covers sitemap and wireframes, responsive design, CMS implementation, intake, scheduling, payments, privacy/cookie controls, security, SEO, accessibility basics, testing, documentation, training and handover. I must own the accounts, files and credentials. Fully remote project; launch within a maximum of 10 weeks. Indicative launch budget: US$3,000–$5,000. Quote 12 months of maintenance and third-party costs separately.
@@ -492,23 +570,6 @@ You’ll work directly in GoDaddy’s Website Builder / Managed WordPress enviro
 • Provide a short video or written walk-through so I can add future articles and links myself
 
 Once the site is live and tested, send me the hand-over pack (admin credentials, style guide, and your tutorial). That will serve as the acceptance criteria for project completion. Basically I have already setup my website I just need help setting up my affiliate marketing part. Im wanting the best most consistent paying affiliates. This could become an hourly, ongoing task</description></item>
-<item><title>Minimalist Horsebox Marketplace Build</title><link>https://www.freelancer.com/projects/web-development/Minimalist-Horsebox-Marketplace-Build</link><guid isPermaLink="false">freelancer:40761973</guid><pubDate>Sun, 11 Oct 2026 11:11:47 GMT</pubDate><description>20-250 GBP | I need horseboxsale.com built from the ground up as a dedicated marketplace for buying and selling horseboxes. Think of the core flow of dragondriving.co.uk, but stripped back to a clean, minimalistic interface that feels noticeably more professional and purpose-built for this single niche.
-
-Key functionality I must have:  
-• A robust listing system so sellers can add, edit or remove horseboxes with photos, price, spec and location.  
-• Advanced, multi-criteria search filters (make, model, price range, regional radius, etc.) that return results quickly and cleanly.  
-• Secure user accounts with profile pages for both private and trade sellers.  
-
-For communication, every listing should offer an on-site messaging inbox while also letting the seller decide whether to show their phone number or email. All conversations need to stay tied to the user’s account so I can track and moderate as needed.
-
-Please build it fully responsive, load fast on mobile, and make administration simple: I want to approve or reject new listings, spotlight featured ads and see basic analytics from one dashboard.
-
-Deliverables I expect:  
-1. Design mock-ups confirming the minimalist look and feel.  
-2. Full website build (front-end + back-end) on a platform you recommend, deployed to my hosting.  
-3. Handover of source code, documentation and a quick call or video walkthrough showing me how to manage listings, users and messages.
-
-If you have recent marketplace examples—especially vehicle classifieds—share them so I can gauge fit. Let’s get this live quickly and cleanly.</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
