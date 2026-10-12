@@ -52,42 +52,6 @@ Deliverables
 Acceptance criteria will be a design that loads fast, places the form above the fold on mobile, and uses no more than three core colours from the existing palette unless a strong UX argument is made.
 
 When you reply, point me to past work that shows you can combine graphics and persuasive copy on a high-impact landing page. No need for lengthy proposals—your portfolio pieces will do the talking.</description></item>
-<item><title>WordPress Website Design &amp; WooCommerce Setup</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Website-Design-WooCommerce</link><guid isPermaLink="false">freelancer:40762929</guid><pubDate>Mon, 12 Oct 2026 02:41:16 GMT</pubDate><description>30-250 USD | 1. Domain, DNS &amp; Technical Setup
-
-- Configure the Cloudflare DNS records to point madatease.com to your IONOS hosting.
-- Preserve the necessary records for your existing e mail configuration.
-- Configure and test SSL to ensure the website loads securely.
-- Review your Zoho Mail setup and verify the required records and routing for administrative and booking enquiries.
-
-2. WordPress Website Development
-
-- Install and configure WordPress on IONOS.
-- Build the seven core website pages based on your mockup and project requirements.
-- Create a professional, responsive design for desktop, tablet, and mobile.
-- Set up clear navigation, calls to action, and a consistent visual style throughout the website.
-
-3. WooCommerce &amp; Tour Pricing
-
-- Install and configure WooCommerce to support your tour offerings.
-- Create individual pages for all 12 tours, including descriptions, itineraries, and relevant images.
-- Present the Budget, Standard, and Premium pricing tiers clearly.
-- Set up straightforward booking request options for each tour.
-- Integrate your existing Stripe deposit links where required.
-
-the launch setup will focus on booking requests rather than instant checkout.
-
-4. Booking &amp; Driver Application Forms
-
-- Create booking request forms with date selection.
-- Configure booking enquiries to reach bookings at madatease.com.
-- Build a driver application form with document upload functionality.
-- Configure appropriate handling of uploaded paperwork to help prevent sensitive documents from being publicly accessible.
-
-5. Tour Content &amp; Website Organization
-
-- Help write and structure the descriptions for all 12 tours.
-- Organize the day-by-day itineraries so customers can easily understand each tour.
-- Present the three pricing options in a clear, customer-friendly format.!</description></item>
 <item><title>Populate Existing Website Content</title><link>https://www.freelancer.com/projects/squarespace/Populate-Existing-Website-Content</link><guid isPermaLink="false">freelancer:40762848</guid><pubDate>Mon, 12 Oct 2026 01:10:11 GMT</pubDate><description>30-250 AUD | Input content from GDrive into squarespace website. The website is built, just need to upload all the text and images.</description></item>
 <item><title>Build a Minimalist, Professional Dog-Training Website</title><link>https://www.freelancer.com/projects/web-design/Build-Minimalist-Professional-Dog</link><guid isPermaLink="false">freelancer:40762834</guid><pubDate>Mon, 12 Oct 2026 00:59:45 GMT</pubDate><description>250-750 AUD | Website Designer Needed – Professional, Minimalist Dog Training Website
 
@@ -521,6 +485,42 @@ Here’s what I’d like delivered:
 • A brief brand-usage sheet so I can apply the new look consistently across print and digital touchpoints  
 
 If you have experience illustrating animals with an upscale feel and translating that into a full visual system, I’d love to see your work and hear your approach. I've uploaded a picture of my dog as well in case that helps.</description></item>
+<item><title>Comprehensive Shopify Store Overhaul: everything to do with my website</title><link>https://www.freelancer.com/projects/shopify-site/Comprehensive-Shopify-Store-Overhaul</link><guid isPermaLink="false">freelancer:40761395</guid><pubDate>Sun, 11 Oct 2026 02:27:18 GMT</pubDate><description>30-250 USD | Here is the final, updated master brief with your payment condition added right at the top. This makes it crystal clear that the payment is contingent on the work being completed to your standards.
+Subject: Complete Project Brief &amp; Expectations for Shopify Store Overhaul
+Hi [Developer's Name],
+I am ready to move forward with this project, with the strict understanding that the payment will be made only once the work is completed and I am fully happy with the results.
+Before we begin, I have compiled a comprehensive list of every requirement, boundary, and goal for this project. I need everything to run smoothly and be as close to perfection as possible. Please review the following carefully.
+1. Payment &amp; App Cost Rules (Strict)
+ * Payment Upon Satisfaction: As mentioned, the $100 payment will be released when the tasks below are completed to my satisfaction.
+ * No Paid Add-ons: Do not install any paid Shopify add-ons, plugins, or apps. I am tired of paying for extra things (I am even looking at cutting my QuickBooks subscription). If an app is absolutely necessary, we must discuss it first, and it must be very inexpensive.
+ * No Shopify Ads: I refuse to run ads on Shopify. I will only invest in Shopify ads once the site proves it can make me money organically.
+2. Site Structure, Homepage &amp; Layout
+ * Homepage Design: The front page needs to be a customized, retail-focused experience. Customer reviews must be prominently featured on this front page.
+ * About Us Section: Somewhere in the middle or toward the bottom of the homepage, I want our Mission statement (which is focused on our family legacy) and a picture of my husband, Cody, and me. Alternatively, we can use my logo (the alligator smoking a cigar in a crystal forest).
+ * Retail vs. Wholesale: I want an easy, clear setup with distinct Retail and Wholesale pages. Within those pages, products need to be broken down cleanly into categorized collections. I will rely on your design expertise for the best way to execute this.
+ * Spiritual Meanings Page: I am working on a separate page/listing that explains the spiritual meanings of my items for retail stores. I am not quite done with the content yet, but I want the framework built for this to be added.
+3. Product Catalog &amp; Pricing (Crucial Fixes)
+ * Absolute Accuracy on Pricing: Every single price on the website must be perfectly correct.
+ * No Duplicate Listings: There are currently multiple duplicate product listings. These must be completely removed. I expect a perfectly clean, consolidated catalog.
+4. Wholesale &amp; Faire Integration
+ * Faire Widget Fix: My Faire wholesale account is currently my only highly profitable platform (I spend $200/month on Faire ads because it actually makes me money). However, right now on Shopify, customers are being redirected to Faire, and I am losing my Faire Direct discount attribution. Fixing this widget/funnel is a top priority.
+ * Free B2B Verification: I want businesses to be verified for the wholesale page, but I refuse to pay for a premium B2B app. If we cannot do this for free natively on Shopify, we need to strictly rely on a perfectly functioning Faire widget.
+5. Omni-Channel &amp; Social Media Strategy
+ * My Ecosystem: Alongside Shopify, I use Faire, Etsy, and a new TikTok Shop.
+ * TikTok Constraints &amp; Needs: TikTok is strictly for my woodworking and jewelry. Absolutely no taxidermy can go on there. I have had 0 sales on TikTok and need help with SEO and free shipping issues on that platform.
+ * The TikTok Follower Issue: I occasionally go live on TikTok and Bigo to make products and run auctions. However, my main following is on my personal TikTok page, while my actual business/shop page has very low followers. I need your guidance on how to fix or navigate this.
+6. Communication &amp; Working Hours
+ * I work from home, so my sleep schedule can be irregular.
+ * If you have questions, please text me. Feel free to text me multiple times because I sometimes miss notifications. If I do not respond for a few hours, assume I am asleep, but I will answer as promptly as I can.
+7. Future Work &amp; Retainer Agreement
+ * My goal is simply to afford my bills and a few luxuries without bleeding money on subscriptions.
+ * The Goal: If these updates help my Shopify generate a healthy revenue of $500 over the next 30 days starting today, I will put aside $100/month to keep you on a monthly retainer for maintenance.
+ * Bonus Project: If you deliver on all of this and the site runs perfectly, I have a completely separate website for my mother's business that I will hire you to work on next.
+Let me know that you understand and agree to all of these points so we can get started!
+
+Pitreshandcrafted.faire.com
+Pitreshandcrafted.etsy.com
+Pitreshandcrafted.com</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
