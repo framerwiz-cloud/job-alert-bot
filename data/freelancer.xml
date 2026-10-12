@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Solo Practitioner Law Firm Website -- 2</title><link>https://www.freelancer.com/projects/php/Solo-Practitioner-Law-Firm-Website</link><guid isPermaLink="false">freelancer:40764151</guid><pubDate>Mon, 12 Oct 2026 17:11:19 GMT</pubDate><description>3000-5000 USD | Hello,
+
+I seek an experienced web designer/developer to build a professional corporate website for my law firm, targeting prospects in the European Union, United States and Latin America. The site will launch in English, with selected sections translated into Spanish later. WordPress.org is the preferred CMS. Scope covers sitemap and wireframes, responsive design, CMS implementation, intake, scheduling, payments, privacy/cookie controls, security, SEO, accessibility basics, testing, documentation, training and handover. I must own the accounts, files and credentials. Fully remote project; launch within a maximum of 10 weeks. Indicative launch budget: US$3,000–$5,000. Quote 12 months of maintenance and third-party costs separately.
+
+Important: could you share in your proposal the most relevant websites you have designed for law firms or solo practitioner attorneys. If you haven't designed such websites, *do not* bid.
+
+Please send your full proposal based on the 2 attached documents within 3 business days from Monday October 12, 2026.
+
+Thank you very much for bidding.</description></item>
 <item><title>Stripe Account Recovery and Compliance Fix</title><link>https://www.freelancer.com/projects/compliance/Stripe-Account-Verification-Recovery</link><guid isPermaLink="false">freelancer:40764122</guid><pubDate>Mon, 12 Oct 2026 16:46:09 GMT</pubDate><description>250-750 USD | I am looking for a senior Stripe Compliance and Account Recovery Specialist to fix a critical issue with my US Stripe account under a US LLC. The account has been placed on "Pause" (Payouts and charges are restricted) due to a practical operational mistake on my end regarding how payments from Virtual Credit Cards (VCC) were processed. Review the exact reason for the pause within the Stripe dashboard. Analyze the data mismatch, web integration, or risk alerts that caused the freeze. Business Model: My business is registered in the US with a valid EIN and ITIN (I am a non-US resident, using my valid passport for verification). We manage and collect payments from booking platforms like Expedia, Booking.com, and Trip.com. The Mistake: Stripe requires that the Statement Descriptor (the name the client/bank sees) exactly matches each specific hotel published. Due to a lack of technical knowledge, I made the mistake of processing several payments from different hotels under a single main account. 1. The Trigger: After realizing this was an error, I tried to rapidly create multiple sub-accounts within a single group to split the hotels. This sudden change and payment consolidation triggered Stripe's risk algorithms, resulting in an immediate pause on payouts and processing. Note: All legal documentation (EIN, ITIN, Passport, LLC registration) is 100% clean and legitimate. The issue is purely an operational/risk policy trigger. Reconfigure the account structure from scratch if needed within 7 days. You will advise on how to handle multiple hotel payouts legally under Stripe’s architecture (e.g., proper use of Statement Descriptors or Stripe Connect if required), ensuring refund policies and payment flows meet 100% of Stripe’s guidelines.</description></item>
 <item><title>Supply Chain Software MVP Development</title><link>https://www.freelancer.com/projects/full-stack-development/Supply-Chain-Software-MVP-Development</link><guid isPermaLink="false">freelancer:40764086</guid><pubDate>Mon, 12 Oct 2026 16:18:16 GMT</pubDate><description>15-120 USD/hr | I'm looking for a skilled full stack developer to create a Minimum Viable Product (MVP) for a supply chain solutions company. This project is for starting a new enterprise and is crucial for our business launch.
 
@@ -500,16 +509,6 @@ Deliverables I expect:
 3. Handover of source code, documentation and a quick call or video walkthrough showing me how to manage listings, users and messages.
 
 If you have recent marketplace examples—especially vehicle classifieds—share them so I can gauge fit. Let’s get this live quickly and cleanly.</description></item>
-<item><title>Minimalist Portfolio Website Design</title><link>https://www.freelancer.com/projects/seo/Minimalist-Portfolio-Website-Design</link><guid isPermaLink="false">freelancer:40761907</guid><pubDate>Sun, 11 Oct 2026 10:03:18 GMT</pubDate><description>250-750 AUD | I want a sleek, minimalistic portfolio site built from the ground up so my work samples take centre stage without distractions. The entire experience should feel calm, spacious and intuitive on any device, loading quickly and letting images and short project blurbs speak for themselves.
-
-Here’s what I need from you:  
-• A responsive, clean front-end layout that follows best practices for accessibility and SEO.  
-• Simple navigation—no more than three levels deep—so visitors move effortlessly between projects, an about section and a contact page.  
-• An easy-to-update back-end where I can add new pieces without touching code.  
-• Image optimisation and subtle micro-interactions that enhance rather than dominate the design.  
-• Final hand-off with layered design files, style guide and a quick walkthrough video so I can maintain the site long-term.
-
-If this style resonates with you and you can turn it around efficiently, I’m ready to start right away.</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
