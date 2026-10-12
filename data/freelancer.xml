@@ -236,24 +236,6 @@ Core tasks
 
 Acceptance  
 The project is complete when the site is live at my domain, passes a full test order, and mirrors the design language captured in my vision board across desktop and mobile. If you’re confident with Shopify themes, Liquid tweaks, and third-party app integrations, I’d love to collaborate.</description></item>
-<item><title>Elementor </title><link>https://www.freelancer.com/projects/elementor/Elementor-40762590</link><guid isPermaLink="false">freelancer:40762590</guid><pubDate>Sun, 11 Oct 2026 20:07:32 GMT</pubDate><description>30-250 USD | Elementor Pro is back online, yet the editor still loads as a blank white screen. The log pinpoints a PHP fatal error in elementor-pro/modules/display-conditions/module.php on line 212.  
-
-I’ve already re-installed plugins, rolled back backups, and re-activated Elementor Pro without success. The only recent change on the site was updating several plugins and the active theme, so the fault may lie in a compatibility clash, a corrupted display condition, or a PHP setting that now fails silently.
-
-Because the site is actively selling Dallas Salsa Congress tickets, WooCommerce orders, the payment gateway, and all ticketing data must remain untouched while you work.
-
-What I need from you  
-• Identify the exact root cause of the fatal error (plugin conflict, code corruption, or PHP mis-configuration).  
-• Apply a safe fix so the Elementor editor loads normally again.  
-• Verify that WooCommerce, existing orders, and payment flows are unaffected.  
-• Provide a brief summary of what you changed so I have a clean record for future updates.
-
-Acceptance criteria  
-1. Elementor opens without a white screen.  
-2. No new errors appear in wp-debug or server logs.  
-3. A test order flows from product purchase through payment completion without issues.
-
-You’ll have WordPress admin, cPanel/SSH, and access to current backups to get started.</description></item>
 <item><title>Restaurant website </title><link>https://www.freelancer.com/projects/blog-install/Restaurant-website-40762266</link><guid isPermaLink="false">freelancer:40762266</guid><pubDate>Sun, 11 Oct 2026 14:52:56 GMT</pubDate><description>250-750 CAD | I need a new website. I already have a design, I just need you to build a website for my small business. </description></item>
 <item><title>Used Electronics Showcase Website Design</title><link>https://www.freelancer.com/projects/web-design/Used-Electronics-Showcase-Website-Design</link><guid isPermaLink="false">freelancer:40762160</guid><pubDate>Sun, 11 Oct 2026 13:50:53 GMT</pubDate><description>250-750 USD | I need a sleek, modern-looking website that simply showcases the pre-owned phones, laptops, and gadgets I carry in my physical store. For now the site only needs one well-structured Home page, but that page should do a lot of heavy lifting: highlight featured items with crisp photos, introduce my brand story, and make it easy for visitors to see what’s currently in stock and how to reach me offline.
 
@@ -636,6 +618,33 @@ Here’s what I need from you:
 I work in WordPress daily, so please keep the workflow inside typical tools like Yoast/Rank Math, Google Analytics, and Search Console. If you see a faster route with another plugin, let me know.
 
 Once the optimization is complete and results are measurable, I’ll sign off. I’m ready to start as soon as you outline your approach and timeline.</description></item>
+<item><title>Corporate WordPress Redesign &amp; Development</title><link>https://www.freelancer.com/projects/Corporate-WordPress-Redesign-Development</link><guid isPermaLink="false">freelancer:40761056</guid><pubDate>Sat, 10 Oct 2026 17:48:13 GMT</pubDate><description>1500-3000 AUD | Our current WordPress site works, but it no longer reflects the polished, corporate image we project everywhere else. I want to give it a fresh, modern look and feel while keeping the content structure intact.
+
+Scope of the makeover
+The visual language should be clean, professional, and consistent with a corporate brand— user experience should always be the priority. The existing website is quite large with a lot of existing pages and blog content, we are wanting to limit the impact on our existing SEO as much as possible so internal linking etc needs to remain unchanged.
+
+Key areas to tackle
+• Homepage layout – a hero section that communicates our value proposition instantly, clearer content blocks, and stronger calls-to-action.  
+• Navigation menu – simplified information architecture, drop-downs that work seamlessly on desktop and mobile, and sticky behaviour only if it enhances usability.  
+• Footer design – well-organised links, concise contact details, social icons, and legal notices without clutter.
+
+Technical expectations
+The build must stay within WordPress, using either a lightweight premium theme or a custom child theme approach. Core Web Vitals should remain healthy after the redesign. Re-using existing plugins is fine as long as load speed and security are not compromised. Please ensure full responsiveness, cross-browser compatibility, and accessibility best practices (WCAG 2.1 AA).
+
+Hosting current already in place however, I am open to subscription services like 10web etc.
+
+Deliverables
+1. High-fidelity mock-ups for homepage, navigation states, and footer.  
+2. Fully developed WordPress pages implemented on a staging environment.  
+3. Final migration to the live server after my sign-off, including a short hand-over guide.
+
+Acceptance criteria
+• Visual style aligns with the agreed corporate mood board.  
+• All page templates render flawlessly on the latest versions of Chrome, Firefox, Safari, Edge, and mobile browsers.  
+• Google PageSpeed Insights scores remain within the “Good” range post-launch.  
+• No broken links or console errors in the inspector.
+
+Timeline is flexible within reason, but I would like to see first concepts within one week of project start. If you have similar corporate redesigns in your portfolio, please link them when you message me so I can gauge style compatibility.</description></item>
 <item><title>WooCommerce B2C Store Development</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Development-40761036</link><guid isPermaLink="false">freelancer:40761036</guid><pubDate>Sat, 10 Oct 2026 17:39:31 GMT</pubDate><description>15-25 USD/hr | I am looking for someone based in the USA. I need to upgrade and launch a B2C online store and to build it on WooCommerce to keep everything within the WordPress ecosystem I already know. I need a developer who can take the project.
 
 The build must include:  
