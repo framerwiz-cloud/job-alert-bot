@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Eco Laundry Site Revamp &amp; Ads</title><link>https://www.freelancer.com/projects/web-development/Eco-Laundry-Site-Revamp-Ads</link><guid isPermaLink="false">freelancer:40764394</guid><pubDate>Mon, 12 Oct 2026 20:54:32 GMT</pubDate><description>15-25 USD/hr | Blue Sky Eco Laundry needs the contact-and-ordering section of our website completely refreshed. The goal is to give customers a smooth, attractive multi-step checkout that lets them schedule pickups, choose wash-and-fold options, review pricing, and pay securely—then funnels the order straight into our backend for effortless processing.  
+
+Here’s what has to happen:  
+• Redesign the user interface of the contact and ordering module so it looks modern, loads fast on mobile, and guides users step-by-step.  
+• Rebuild the order-processing logic so incoming orders trigger the right email/SMS confirmations and appear in an easy-to-manage dashboard for staff.  
+• Integrate the new flow with Stripe or a similar gateway, keeping security and PCI compliance in mind.  
+• Launch and manage Google Ads campaigns targeting local laundry keywords, write compelling ad copy, set up conversion tracking, and optimise regularly to improve ROI.  
+
+If you can also bolt on a simple customer-feedback add-on later, that flexibility will be a bonus. The work is finished when customers can place a wash-and-fold order in minutes, the order shows up flawlessly in our system, and the ad dashboard proves those clicks are turning into sales.</description></item>
 <item><title>Design &amp; Implement Secure Online Members Area -- 2</title><link>https://www.freelancer.com/projects/php/Design-Implement-Secure-Online-Members</link><guid isPermaLink="false">freelancer:40764384</guid><pubDate>Mon, 12 Oct 2026 20:42:46 GMT</pubDate><description>250-750 GBP | Brief for potential digital designers - S.G. Leads online members area
 
 We are a UK based charity looking for the best quotes and turn around time for designing and implementing a new members only area, connected to our existing website. 
