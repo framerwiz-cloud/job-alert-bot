@@ -3,6 +3,46 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Voice Commerce Landing Page Development</title><link>https://www.freelancer.com/projects/html5/Voice-Commerce-Landing-Page-Development</link><guid isPermaLink="false">freelancer:40763380</guid><pubDate>Mon, 12 Oct 2026 08:03:15 GMT</pubDate><description>20-250 GBP | Require Skills :
+Website design, PHP, Voice, e-commerce landing Page.
+
+I want a single, high-impact landing page that sells—fast. The page must load in under two seconds on 4G and hit 90-plus on Google PageSpeed while keeping Core Web Vitals in the green. Style should feel unmistakably modern: generous white space, bold typography, crisp imagery, and subtle micro-interactions that guide users straight to the call-to-action.
+
+The signature feature is voice commerce. Visitors tap a floating microphone button, a dynamic sound-wave animates while they speak, and their words appear instantly in a subtle overlay. Commands such as “search wireless earbuds,” “add to cart,” and “checkout” should be recognised and executed through Google Assistant–compatible intents, built with the Web Speech API or equivalent. No back-and-forth setup screens; it needs to feel native and frictionless.
+
+Key deliverables
+Skill required :Website design , PHP, Voice , e-commerce landing Page
+• Fully responsive landing page coded in clean HTML5, CSS3/SCSS and JavaScript (React, Vue or vanilla—your call as long as performance targets are met).  
+• Voice interface: microphone control, active sound-wave animation, real-time transcript overlay, and mapped Google Assistant intents.  
+• Analytics hooks ready for conversion tracking (GA4 or GTM).  
+• Documentation: setup guide plus brief notes on extending voice commands and styling.
+
+Acceptance criteria
+1. PageSpeed Insights mobile score ≥ 90.  
+2. Voice commands execute accurately with &lt;800 ms latency.  
+3. No CLS visible during load; TTI &lt; 2 s on mid-range devices.  
+4. Works flawlessly in latest Chrome, Safari, and Edge on desktop and mobile.
+
+If you’ve shipped similar voice-driven UIs or lightning-fast e-commerce pages, I’d love to see them and get started right away.</description></item>
+<item><title>Resolve WordPress PHP Version Error</title><link>https://www.freelancer.com/projects/web-development/Resolve-WordPress-PHP-Version-Error</link><guid isPermaLink="false">freelancer:40763381</guid><pubDate>Mon, 12 Oct 2026 08:02:57 GMT</pubDate><description>30-250 AUD | My WordPress site throws the message:  
+
+“Composer detected issues in your platform: Your Composer dependencies require a PHP version &gt;= 8.3.0”.
+
+At the moment I don’t even know which PHP version the server is running, and I’m not sure whether any particular plugin or theme is behind the problem. What I need is a clean, end-to-end fix that gets both the public site and the WordPress admin area working normally again.
+
+Here’s how I see the job:
+
+• Pinpoint the current server PHP version and, if it’s below 8.3, upgrade or adjust the hosting settings so that Composer stops complaining.  
+• Audit core WordPress files, active plugins, and the theme for compatibility with PHP 8.3+.  
+• Resolve any conflicts you uncover—this could involve editing or replacing outdated code, updating Composer dependencies, or recommending alternative plugins/themes.  
+• Test thoroughly to confirm the front end and wp-admin load without errors.  
+• Deliver a brief, plain-English summary of the steps you took and any ongoing maintenance I should keep in mind.
+
+Please let me know:  
+1. A ballpark cost for the work.  
+2. How soon you can start and the estimated turnaround once you’re in the dashboard.
+
+You’ll receive full WordPress admin and hosting (cPanel) access as soon as we agree on terms.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
@@ -493,53 +533,6 @@ Send: (1) a short intro, (2) links to 2–3 WordPress sites you have managed or 
 I have all copy, prices, and imagery ready; what I lack is the time (and, frankly, the patience) to navigate the back-end settings and design options GlossGenius offers. Once you’ve arranged the services into clear categories, I want the overall layout harmonised with my colours and logo so the experience feels seamless from Instagram link-in-bio to final confirmation page.  
 
 Deliverable: a fully functional GlossGenius booking site with my service menu live, tested, and ready for clients to start booking immediately. If you’ve set up GlossGenius sites before, please let me know—speed and platform familiarity are a big plus.</description></item>
-<item><title>Elegant Pet Consult Branding</title><link>https://www.freelancer.com/projects/branding/Elegant-Pet-Consult-Branding</link><guid isPermaLink="false">freelancer:40761459</guid><pubDate>Sun, 11 Oct 2026 03:44:18 GMT</pubDate><description>30-250 CAD | I’m creating my pet-consultation business and need a cohesive brand identity that feels classic and elegant that appeals to my target clientele.
-The heart of the project is an original logo that combines a refined illustration of my dog (who the business is named after) along with my business name. Think timeless typography, balanced proportions, and a palette that communicates trust, warmth, and professionalism without losing that gentle, animal-centric charm clients expect when they come to me for advice.
-
-Here’s what I’d like delivered:  
-• Primary logo in vector and web formats (SVG, PDF, PNG) featuring the dog illustration and business name  
-• Secondary lock-ups or sub-marks as needed for social media, stationery, and small-scale use  
-• A concise colour palette with hexadecimal, CMYK, and Pantone references  
-• Font recommendations that match the chosen style and licensing guidance if required  
-• A brief brand-usage sheet so I can apply the new look consistently across print and digital touchpoints  
-
-If you have experience illustrating animals with an upscale feel and translating that into a full visual system, I’d love to see your work and hear your approach. I've uploaded a picture of my dog as well in case that helps.</description></item>
-<item><title>Comprehensive Shopify Store Overhaul: everything to do with my website</title><link>https://www.freelancer.com/projects/shopify-site/Comprehensive-Shopify-Store-Overhaul</link><guid isPermaLink="false">freelancer:40761395</guid><pubDate>Sun, 11 Oct 2026 02:27:18 GMT</pubDate><description>30-250 USD | Here is the final, updated master brief with your payment condition added right at the top. This makes it crystal clear that the payment is contingent on the work being completed to your standards.
-Subject: Complete Project Brief &amp; Expectations for Shopify Store Overhaul
-Hi [Developer's Name],
-I am ready to move forward with this project, with the strict understanding that the payment will be made only once the work is completed and I am fully happy with the results.
-Before we begin, I have compiled a comprehensive list of every requirement, boundary, and goal for this project. I need everything to run smoothly and be as close to perfection as possible. Please review the following carefully.
-1. Payment &amp; App Cost Rules (Strict)
- * Payment Upon Satisfaction: As mentioned, the $100 payment will be released when the tasks below are completed to my satisfaction.
- * No Paid Add-ons: Do not install any paid Shopify add-ons, plugins, or apps. I am tired of paying for extra things (I am even looking at cutting my QuickBooks subscription). If an app is absolutely necessary, we must discuss it first, and it must be very inexpensive.
- * No Shopify Ads: I refuse to run ads on Shopify. I will only invest in Shopify ads once the site proves it can make me money organically.
-2. Site Structure, Homepage &amp; Layout
- * Homepage Design: The front page needs to be a customized, retail-focused experience. Customer reviews must be prominently featured on this front page.
- * About Us Section: Somewhere in the middle or toward the bottom of the homepage, I want our Mission statement (which is focused on our family legacy) and a picture of my husband, Cody, and me. Alternatively, we can use my logo (the alligator smoking a cigar in a crystal forest).
- * Retail vs. Wholesale: I want an easy, clear setup with distinct Retail and Wholesale pages. Within those pages, products need to be broken down cleanly into categorized collections. I will rely on your design expertise for the best way to execute this.
- * Spiritual Meanings Page: I am working on a separate page/listing that explains the spiritual meanings of my items for retail stores. I am not quite done with the content yet, but I want the framework built for this to be added.
-3. Product Catalog &amp; Pricing (Crucial Fixes)
- * Absolute Accuracy on Pricing: Every single price on the website must be perfectly correct.
- * No Duplicate Listings: There are currently multiple duplicate product listings. These must be completely removed. I expect a perfectly clean, consolidated catalog.
-4. Wholesale &amp; Faire Integration
- * Faire Widget Fix: My Faire wholesale account is currently my only highly profitable platform (I spend $200/month on Faire ads because it actually makes me money). However, right now on Shopify, customers are being redirected to Faire, and I am losing my Faire Direct discount attribution. Fixing this widget/funnel is a top priority.
- * Free B2B Verification: I want businesses to be verified for the wholesale page, but I refuse to pay for a premium B2B app. If we cannot do this for free natively on Shopify, we need to strictly rely on a perfectly functioning Faire widget.
-5. Omni-Channel &amp; Social Media Strategy
- * My Ecosystem: Alongside Shopify, I use Faire, Etsy, and a new TikTok Shop.
- * TikTok Constraints &amp; Needs: TikTok is strictly for my woodworking and jewelry. Absolutely no taxidermy can go on there. I have had 0 sales on TikTok and need help with SEO and free shipping issues on that platform.
- * The TikTok Follower Issue: I occasionally go live on TikTok and Bigo to make products and run auctions. However, my main following is on my personal TikTok page, while my actual business/shop page has very low followers. I need your guidance on how to fix or navigate this.
-6. Communication &amp; Working Hours
- * I work from home, so my sleep schedule can be irregular.
- * If you have questions, please text me. Feel free to text me multiple times because I sometimes miss notifications. If I do not respond for a few hours, assume I am asleep, but I will answer as promptly as I can.
-7. Future Work &amp; Retainer Agreement
- * My goal is simply to afford my bills and a few luxuries without bleeding money on subscriptions.
- * The Goal: If these updates help my Shopify generate a healthy revenue of $500 over the next 30 days starting today, I will put aside $100/month to keep you on a monthly retainer for maintenance.
- * Bonus Project: If you deliver on all of this and the site runs perfectly, I have a completely separate website for my mother's business that I will hire you to work on next.
-Let me know that you understand and agree to all of these points so we can get started!
-
-Pitreshandcrafted.faire.com
-Pitreshandcrafted.etsy.com
-Pitreshandcrafted.com</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
