@@ -32,6 +32,42 @@ Deliverables
 Acceptance criteria will be a design that loads fast, places the form above the fold on mobile, and uses no more than three core colours from the existing palette unless a strong UX argument is made.
 
 When you reply, point me to past work that shows you can combine graphics and persuasive copy on a high-impact landing page. No need for lengthy proposals—your portfolio pieces will do the talking.</description></item>
+<item><title>WordPress Website Design &amp; WooCommerce Setup</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Website-Design-WooCommerce</link><guid isPermaLink="false">freelancer:40762929</guid><pubDate>Mon, 12 Oct 2026 02:41:16 GMT</pubDate><description>30-250 USD | 1. Domain, DNS &amp; Technical Setup
+
+- Configure the Cloudflare DNS records to point madatease.com to your IONOS hosting.
+- Preserve the necessary records for your existing e mail configuration.
+- Configure and test SSL to ensure the website loads securely.
+- Review your Zoho Mail setup and verify the required records and routing for administrative and booking enquiries.
+
+2. WordPress Website Development
+
+- Install and configure WordPress on IONOS.
+- Build the seven core website pages based on your mockup and project requirements.
+- Create a professional, responsive design for desktop, tablet, and mobile.
+- Set up clear navigation, calls to action, and a consistent visual style throughout the website.
+
+3. WooCommerce &amp; Tour Pricing
+
+- Install and configure WooCommerce to support your tour offerings.
+- Create individual pages for all 12 tours, including descriptions, itineraries, and relevant images.
+- Present the Budget, Standard, and Premium pricing tiers clearly.
+- Set up straightforward booking request options for each tour.
+- Integrate your existing Stripe deposit links where required.
+
+the launch setup will focus on booking requests rather than instant checkout.
+
+4. Booking &amp; Driver Application Forms
+
+- Create booking request forms with date selection.
+- Configure booking enquiries to reach bookings at madatease.com.
+- Build a driver application form with document upload functionality.
+- Configure appropriate handling of uploaded paperwork to help prevent sensitive documents from being publicly accessible.
+
+5. Tour Content &amp; Website Organization
+
+- Help write and structure the descriptions for all 12 tours.
+- Organize the day-by-day itineraries so customers can easily understand each tour.
+- Present the three pricing options in a clear, customer-friendly format.!</description></item>
 <item><title>Populate Existing Website Content</title><link>https://www.freelancer.com/projects/squarespace/Populate-Existing-Website-Content</link><guid isPermaLink="false">freelancer:40762848</guid><pubDate>Mon, 12 Oct 2026 01:10:11 GMT</pubDate><description>30-250 AUD | Input content from GDrive into squarespace website. The website is built, just need to upload all the text and images.</description></item>
 <item><title>Build a Minimalist, Professional Dog-Training Website</title><link>https://www.freelancer.com/projects/web-design/Build-Minimalist-Professional-Dog</link><guid isPermaLink="false">freelancer:40762834</guid><pubDate>Mon, 12 Oct 2026 00:59:45 GMT</pubDate><description>250-750 AUD | Website Designer Needed – Professional, Minimalist Dog Training Website
 
@@ -549,35 +585,6 @@ Acceptance criteria
 • A brief hand-off document explains what was fixed, which rules were applied, and any routine tasks I should perform.
 
 SSH/cPanel credentials and the latest backup will be ready the moment we start. If you have a solid track record cleaning hacked WordPress sites and tightening server security, I’m ready to move quickly.</description></item>
-<item><title>Corporate Wellness Meal Portal</title><link>https://www.freelancer.com/projects/web-development/Corporate-Wellness-Meal-Portal</link><guid isPermaLink="false">freelancer:40761233</guid><pubDate>Sat, 10 Oct 2026 20:59:16 GMT</pubDate><description>250-750 USD | I’m building an online hub that starts with a public-facing landing page and then moves into a secure member portal for employees. The core of the site is the meal-ordering system—everything else supports that experience.
-
-Here is the end-to-end flow I need developed:
-
-• A company enrolls through me.  
-• I email its employees a unique link to create their login.  
-• On first sign-in they complete an intake questionnaire (I’ll supply the exact questions later).  
-• After submitting the questionnaire, they land on the ordering dashboard driven by a credit system.  
-• Employees can spend weekly credits, top up with extra paid meals, or opt out for a day/week.  
-• Orders must be locked in by each Friday; otherwise the system assigns three default meals.  
-• Unused credits roll forward only one additional week before expiring.  
-• Deliveries take place Tuesday, Wednesday and Thursday, so the order cutoff logic must reflect that schedule.  
-• Each user also has a profile page showing personalised macros, calorie targets, meal plan and workout plan.
-
-Key functions to include
-— Credit system for meal purchases.  
-— Option to buy additional meals beyond available credits.  
-— Automatic default meals when the Friday deadline passes.  
-
-Technical choices are flexible; I simply need a clean, secure build that can scale as more companies enrol. Please structure the code so future questionnaires, credit rules or delivery windows can be adjusted without a full rewrite.
-
-Acceptance criteria
-1. A guest landing page and a gated member portal.  
-2. Seamless sign-up flow from emailed link through questionnaire to dashboard.  
-3. Fully working credit logic, default-meal fallback and rollover cap.  
-4. Mobile-friendly interface and admin area where I can manage companies, credits and menus.  
-5. Deployment to my hosting with clear hand-over documentation.
-
-If you have relevant examples—especially subscription or credit-based ordering tools—let me see them. I’m ready to start as soon as I find the right developer.</description></item>
 <item><title>WooCommerce B2C Store Development</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Development-40761036</link><guid isPermaLink="false">freelancer:40761036</guid><pubDate>Sat, 10 Oct 2026 17:39:31 GMT</pubDate><description>15-25 USD/hr | I am looking for someone based in the USA. I need to upgrade and launch a B2C online store and to build it on WooCommerce to keep everything within the WordPress ecosystem I already know. I need a developer who can take the project.
 
 The build must include:  
