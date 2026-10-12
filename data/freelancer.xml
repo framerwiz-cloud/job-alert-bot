@@ -3,6 +3,63 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build a Minimalist, Professional Dog-Training Website</title><link>https://www.freelancer.com/projects/web-design/Build-Minimalist-Professional-Dog</link><guid isPermaLink="false">freelancer:40762834</guid><pubDate>Mon, 12 Oct 2026 00:59:45 GMT</pubDate><description>250-750 AUD | Website Designer Needed – Professional, Minimalist Dog Training Website
+
+I'm looking for an experienced and creative designer to build a beautiful, professional website for my Australian-based dog training business, which offers services locally and online to clients around the world.
+I'm particularly interested in someone with a strong eye for aesthetics, visual branding, and clean, minimalist design. I want the website to feel polished, welcoming, and professional, while being easy for clients to navigate and book.
+I already have branding assets, including a logo, brand colours, social media content, photographs, and AI-generated imagery. My colour palette is warm browns, creams, beiges, tans, and other neutral tones.
+I'd like the designer to use these existing brand elements to create a cohesive, visually appealing site. Ideally, they would be comfortable reviewing my Instagram and selecting suitable photos or imagery that would complement the site.
+I'm happy for the designer to use their creativity with layouts, imagery, typography, and any other presentation ideas, as long as everything remains consistent with my branding.
+
+Website Pages Required
+The website should include four main pages, plus separate terms and conditions pages.
+1. Home Page
+- Introduces the business.
+- Gives a brief overview of what I offer.
+- Includes clear "Book Now" buttons.
+- Includes links to any current promotions or their terms and conditions.
+
+2. About Page
+- My background and history.
+- Information about my experience.
+- Relevant photographs, including images from my previous dog training business.
+
+3. Services &amp; Pricing Page
+- A list of the different services I offer.
+- Individual service prices and package pricing breakdowns.
+- Relevant booking options.
+
+4. Contact Page
+- My contact details.
+- Links to my social media accounts.
+- A simple contact form.
+
+5. Additional Terms &amp; Conditions Pages
+- Separate pages for relevant terms and conditions.
+- Accessible through appropriate links from the home page or other relevant sections.
+
+Booking System
+Booking is already set up through Square, so I do not need a bespoke booking system built.
+I simply need clear buttons or links directing clients to my existing Square booking page.
+
+Overall Goal
+The main focus of this project is strong aesthetic design that makes my brand feel credible, professional, and inviting, while providing a simple, user-friendly experience for potential clients.</description></item>
+<item><title>RapidWeaver E-commerce Site Development</title><link>https://www.freelancer.com/projects/html/RapidWeaver-commerce-Site-Development</link><guid isPermaLink="false">freelancer:40762817</guid><pubDate>Mon, 12 Oct 2026 00:42:45 GMT</pubDate><description>250-750 AUD | I'm looking for a skilled developer to create an e-commerce website using RapidWeaver elements and Vibracart shopping cart.
+
+Key Requirements:
+- Build using RapidWeaver
+- Integrate Vibracart shopping cart
+- Pages: Home, Product Catalog, Contact Us, Payment Stripe Integration
+- Sell physical goods
+
+Ideal Skills and Experience:
+- Proficiency in RapidWeaver
+- Experience with Vibracart
+- Strong background in e-commerce site development
+- Familiarity with payment integration, particularly Stripe
+- Attention to detail and good design sense
+
+Please provide examples of similar work done. Looking forward to your bids!</description></item>
 <item><title>Blog Site Clone Development</title><link>https://www.freelancer.com/projects/web-development/Blog-Site-Clone-Development</link><guid isPermaLink="false">freelancer:40762791</guid><pubDate>Mon, 12 Oct 2026 00:20:31 GMT</pubDate><description>250-750 AUD | I want to recreate the look, speed, and overall user experience of www.turbotruth.in for my own blogging project. The reference site is fast, clean, and SEO-friendly, so matching those qualities is crucial. I’m flexible on the tech stack—WordPress, a lightweight headless setup, or even custom code—so long as day-to-day publishing stays simple.
 
 Here’s what the finished site needs to cover:  
@@ -666,46 +723,6 @@ Work Arrangement:
 This is a fixed-scope project based on implementing an already-completed Figma design into an existing codebase. We expect a relatively fast turnaround from a developer who can hit the ground running.
 
 About the project: We are building a marketing website for an ecommerce brand and the design phase is complete — we simply need a skilled developer to bring it to life in React with precision and professionalism.</description></item>
-<item><title>WordPress Ebook Store Setup</title><link>https://www.freelancer.com/projects/web-development/WordPress-Ebook-Store-Setup</link><guid isPermaLink="false">freelancer:40760639</guid><pubDate>Sat, 10 Oct 2026 10:54:23 GMT</pubDate><description>750-1500 AUD | I’m moving my small ebook business, RealGuides.co, off Payhip and onto a self-hosted WordPress site (Australian server, domain at Porkbun). The new site will run Easy Digital Downloads with Stripe and PayPal in AUD and collect emails through MailerLite.
-
-Design &amp; layout  
-– Visually I’m after a modern, minimal look with a warm feel—clean lines, generous white space and friendly typography.  
-– The homepage should present category-based sections rather than a hero slider, so visitors can jump straight to what interests them.
-
-Store structure , Logo is charcoal and gold has been used stacked and side by side.
-Around 20 paid ebooks and 8 free guides need to be organised into six clear categories. Each free guide must trigger a MailerLite signup before download. Please migrate existing Payhip products, then set up 301 redirects so no old links break.
-
-Core pages &amp; blog  
-Standard pages (Home, Shop, About, Contact, Policies) plus a blog. On the blog I only need a search bar and related-posts suggestions beneath each article—no public comments. Make it simple for me to add new books, freebies and posts later without touching code.
-
-Marketing &amp; analytics  
-• Social sharing buttons on product and blog pages  
-• Embedded Instagram feed  
-• Meta Pixel and Pinterest Tag installed  
-• Clean product links I can drop into Instagram and TikTok bios or posts
-
-SEO, security &amp; maintenance  
-Configure Rank Math (or Yoast if you prefer) and Google Search Console, harden security, and set up automated off-site backups.
-
-Domain &amp; ownership  
-Connect my Porkbun domain, point DNS, and ensure every tool, licence, and account stays in my name—nothing locked to you.
-
-Handover  
-When it’s done, record a short walkthrough video showing how to add a new ebook, a freebie, and a blog post. We’ll structure payment by milestones: setup, migration, testing, handover.
-
-If this sounds like your kind of build, let’s chat timelines and get started.</description></item>
-<item><title>Custom Branded E-Commerce Website -- 2</title><link>https://www.freelancer.com/projects/web-development/Custom-Branded-Commerce-Website</link><guid isPermaLink="false">freelancer:40760574</guid><pubDate>Sat, 10 Oct 2026 09:59:27 GMT</pubDate><description>250-750 CAD | I need an e-commerce website built from the ground up for my own brand rather than on a hosted platform such as Shopify, WooCommerce or Magento. The site must present a clean product catalog, let customers place items in a shopping cart, leave user reviews and check out smoothly through secure payment methods.  
-
-Beyond the store itself, I also want a concise FAQ area and clear pages for all product and store policies so visitors can quickly find answers on shipping, returns and other terms. The finished site should be fully responsive, load quickly and include an intuitive admin panel where I can add or edit products, upload images, adjust prices and review customer feedback without touching code.  
-
-Deliverables  
-• Fully functional, mobile-ready e-commerce website under my brand domain  
-• Admin dashboard for catalog, orders, reviews and content management  
-• Integrated payment gateway(s) configured and tested end-to-end  
-• FAQ and policies pages populated with placeholder text I can later refine  
-• Deployment to my hosting environment and brief hand-over documentation  
-
-Acceptance will be based on smooth checkout flow, error-free payment processing, and my ability to manage products independently from the admin panel.</description></item>
 <item><title>Fix Sign-In/Sign-Up Functionality and UI Issues on SaaS Website</title><link>https://www.freelancer.com/projects/web-development/Fix-Sign-Sign-Functionality-Issues</link><guid isPermaLink="false">freelancer:40758752</guid><pubDate>Fri, 09 Oct 2026 07:13:44 GMT</pubDate><description>25-50 USD/hr | I am looking for an experienced web developer to troubleshoot and fix the sign-in and sign-up functionality, resolve related UI issues, and improve the overall user experience on SaaS Project.
 
 The primary objective is to make the authentication process fully functional, reliable, user-friendly, and visually consistent with the rest of the website.
