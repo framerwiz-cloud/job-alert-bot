@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Rustic Nautical Shopify Theme</title><link>https://www.freelancer.com/projects/web-design/Rustic-Nautical-Shopify-Theme</link><guid isPermaLink="false">freelancer:40764554</guid><pubDate>Tue, 13 Oct 2026 00:26:26 GMT</pubDate><description>250-750 USD | I’m building an online store for boat-detailing supplies and need a custom Shopify theme that captures the look and feel of a sport-fisherman’s transom—exactly like the logo file I’ve attached. The overall vibe must read rustic and nautical, with weathered textures, rope or teak accents, and ocean-inspired typography that complements the logo.
+
+Homepage vision  
+The first screen should be a full-width hero banner where I’ll rotate lifestyle shots of big offshore boats. Beneath that, I want easily editable sections for featured collections, new arrivals, and optionally an Instagram feed. I’ll handle all products, pricing, and copy once the layout is finished, so your focus is on design, theme settings, and a smooth, responsive structure.
+
+Technical expectations  
+• Built on Shopify’s latest Online Store 2.0 framework so I get section-everywhere flexibility, fast load times, and theme-editor control.  
+• Theme packaged as a ready-to-upload .zip, with any custom sections clearly documented.  
+• Color palette is open as long as it pairs well with the nautical imagery and maintains the rustic tone. Feel free to suggest options.
+
+Acceptance criteria  
+• Logo placed prominently in the header, styled to match the transom aesthetic.  
+• Full-width hero configurable from the theme editor.  
+• Clean, mobile-first code and cross-browser testing.  
+• Staging link provided for review before final hand-off.
+
+Once the design and structure are locked, I’ll take it from there. Share your approach and timeline so we can get this ship launched. I will set up my domain on Shopify as well. Thanks for the help!</description></item>
 <item><title>Finish WooCommerce Store Today</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Finish-WooCommerce-Store-Today</link><guid isPermaLink="false">freelancer:40764550</guid><pubDate>Tue, 13 Oct 2026 00:15:54 GMT</pubDate><description>30-250 USD | My WooCommerce store is roughly 80 % complete and I need it fully operational within the next 24 hours. The site already has the theme, core pages, and most styling in place; what’s left are three critical pieces that must work flawlessly before we go live:  
 
 • Payment gateway integration – connect and test a single gateway (Stripe preferred, PayPal acceptable) so payments flow through to the order-received page and confirm in the WooCommerce dashboard.  
@@ -19,6 +36,19 @@ Acceptance criteria
 5. Delivery is completed within the agreed 24-hour window.  
 
 If you’re comfortable jumping straight into a WordPress/WooCommerce stack and wrapping up these last pieces today, let’s get started.</description></item>
+<item><title>Shopify Product Listings Setup Support</title><link>https://www.freelancer.com/projects/html/Shopify-Product-Listings-Setup-Support</link><guid isPermaLink="false">freelancer:40764549</guid><pubDate>Tue, 13 Oct 2026 00:15:16 GMT</pubDate><description>250-750 USD | I’m launching a new Shopify store that will initially feature a small line of business-card holders and cell-phone holders. My account is already open, the theme is installed, and I have both images and copy ready to go—I simply need an experienced Shopify hand to turn those assets into polished, sales-ready product pages.
+
+Scope  
+• Upload and configure 1–10 products in the Shopify admin.  
+• Enter my provided titles, descriptions, pricing and inventory numbers.  
+• Optimise every image for fast load times and add ALT text for SEO.  
+• Assign each item to the correct collections, tags and menu paths so navigation is tidy from day one.  
+• Confirm that each listing displays correctly on both desktop and mobile and is connected to the existing checkout flow.
+
+Acceptance  
+A quick walkthrough via collaborator access or screen-share once the pages are live will close the project; I should see every listing published, searchable on-site and ready to accept payments.
+
+If you know Shopify inside out and can complete this task smoothly, let’s get it done.</description></item>
 <item><title>Enhance UX for Beauty Industry Platform</title><link>https://www.freelancer.com/projects/ui-design/Enhance-for-Beauty-Industry-Platform</link><guid isPermaLink="false">freelancer:40764414</guid><pubDate>Mon, 12 Oct 2026 21:11:38 GMT</pubDate><description>30-250 AUD | CoWorkz is a business operating system for the beauty industry: independent beauty professionals, salons, hybrid salons (employees plus rented chairs), shared-workspace / co-working operators, and the professionals who rent from them. It handles bookings, clients, content creation, payments and an AI assistant called Abby. The same codebase also runs The Beauty Basement, my own shared salon workspace in Perth, which is one customer-type example, not the identity of every member. The product has a very large feature surface that was built fast, largely with AI coding agents. It mostly works, but the UX is inconsistent, several workflows dead-end or over-promise, and the visual polish is not at the level a paying customer expects. I need a senior front-end/full-stack engineer with real product-design instinct to stabilise it, finish the core workflows properly, and get it to a state I can confidently sell and support.
 
 The goal is not new features. It is: every core screen looks right, every core button does what it says, on desktop and phone.</description></item>
@@ -725,56 +755,6 @@ If you have experience blending WordPress with custom PHP or .NET pieces, please
 The colours and graphics are there along with most of the content. 
 
 I am open to starting with a fresh structure if that is easier.</description></item>
-<item><title>Shopify Adult Toy Dropship Setup</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Adult-Toy-Dropship-Setup</link><guid isPermaLink="false">freelancer:40762595</guid><pubDate>Sun, 11 Oct 2026 20:14:23 GMT</pubDate><description>250-750 GBP | I’m ready to launch an online adult-toy boutique on Shopify and need your help turning the idea into a fully functioning store. My vision board pinpoints a modern, sleek, feminism-positive aesthetic—clean lines, confident imagery, and a welcoming palette that avoids anything cliché or tacky. All design choices, from typography to icon sets, should echo that vibe.
-
-Core tasks  
-• Build the Shopify storefront, applying the look and feel from my vision board.  
-• Connect 1on1 Wholesale Ltd as the exclusive dropshipping source, so products, stock counts, and order data flow automatically.  
-• Activate Wallidpay as the primary payment gateway; I’m intentionally steering clear of PayPal or Stripe unless a fallback is required.  
-• Configure essential pages (About, FAQ, Shipping &amp; Returns, Privacy, T&amp;C) and ensure age-verification on entry.  
-• Test end-to-end: visitor lands on site, adds to cart, pays through Wallidpay, and the order reaches 1on1 Wholesale without manual intervention.
-
-Acceptance  
-The project is complete when the site is live at my domain, passes a full test order, and mirrors the design language captured in my vision board across desktop and mobile. If you’re confident with Shopify themes, Liquid tweaks, and third-party app integrations, I’d love to collaborate.</description></item>
-<item><title>B2B Agri-Biotech WordPress SEO Expert Required</title><link>https://www.freelancer.com/projects/b2b-marketing/Agri-Biotech-WordPress-SEO-Expert</link><guid isPermaLink="false">freelancer:40762436</guid><pubDate>Sun, 11 Oct 2026 17:13:28 GMT</pubDate><description>30-250 CAD | # WordPress SEO Optimization – CAD $200 Fixed Budget
-
-**Website:** https://novotec.hallmarkqc.com  
-**Budget:** Maximum CAD $200 (fixed price)
-
-We are looking for an experienced WordPress SEO specialist to improve the SEO of our existing B2B agricultural biotechnology website.
-
-Our website uses **WordPress, Elementor, Rank Math, and LiteSpeed Cache**. Several SEO improvements have already been completed, including sitemap repairs, metadata updates, and indexing adjustments.
-
-**We need someone to verify the existing SEO setup and implement remaining improvements—not just provide another audit report.**
-
-### Scope of Work
-
-- Identify and fix remaining technical SEO issues (indexing, sitemap, redirects, canonical URLs, broken links).
-- Optimize keywords, titles, descriptions, headings, and internal links on existing pages.
-- Review Rank Math configuration and structured data.
-- Check mobile SEO, page speed, and image optimization.
-- Verify Google Search Console configuration.
-- Provide a brief before-and-after report documenting improvements.
-
-### Important Requirements
-
-- **Do not redesign the website or modify Elementor layouts.**
-- Preserve all existing content, forms, and functionality.
-- Take a backup before making changes.
-- Obtain approval before implementing changes that may affect website appearance or functionality.
-- Test the website on desktop and mobile after implementation.
-- No unnecessary plugins or black-hat SEO techniques.
-
-### Deliverables
-
-1. Brief assessment of remaining SEO issues and proposed fixes.
-2. Implementation of approved improvements within the agreed budget.
-3. Final report showing what was changed and the results.
-
-**Budget is strictly CAD $200 maximum.**
-*** All proposed changes must be approved before implementation. Do not modify the theme, Elementor layouts, existing CSS, or website appearance without explicit permission.***
-
-Please provide examples of similar WordPress SEO projects, your estimated completion time, and confirmation that your proposal includes implementation—not just an audit.</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
