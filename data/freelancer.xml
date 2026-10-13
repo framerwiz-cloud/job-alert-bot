@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Blog Landing Page Revamp</title><link>https://www.freelancer.com/projects/web-design/Blog-Landing-Page-Revamp</link><guid isPermaLink="false">freelancer:40766215</guid><pubDate>Tue, 13 Oct 2026 19:35:07 GMT</pubDate><description>250-750 USD | I’m ready to modernise my blog home-page at https://sportfactoryproshop.com/sport-factory-blog/. The goal is to keep visitors reading by showing more content, making articles easier to find, and adding a fresh visual hook that fits the brand.
+
+Here’s what I need: the article feed switched to a clean grid layout so readers can scan several posts at once; a search box that looks only at blog content and lets users filter results by categories; and a new static header image that sits above the fold, sized and optimised for fast loading on desktop and mobile.
+
+The site runs on WordPress (with WooCommerce on the main shop), so I expect the work to involve tweaking the theme template, editing CSS, and possibly adding a lightweight plugin or custom code snippet for the filtered search.
+
+Deliverables
+• Updated landing-page template with grid post layout  
+• Blog-only search feature with category filter integrated into the header or sidebar  
+• Optimised static header graphic (PSD/AI source + web-ready formats)  
+• Any custom code or plugin settings documented for future edits
+
+Please make sure everything stays responsive, inherits the current typography/colour scheme, and passes basic performance checks on PageSpeed Insights.</description></item>
 <item><title>WordPress Plugin Update</title><link>https://www.freelancer.com/projects/wordpress-plugin/WordPress-Plugin-Update</link><guid isPermaLink="false">freelancer:40766201</guid><pubDate>Tue, 13 Oct 2026 19:23:28 GMT</pubDate><description>250-750 CAD | I need an experienced WordPress developer to update all plugins on my site. 
 
 Requirements:
@@ -743,22 +756,6 @@ Deliverables:
 3. Style guide (colors, fonts, button states) so we can keep everything consistent  
 
 I’ll provide logo, brand colors, and copy. You handle layout, imagery suggestions, and any lightweight animations that add polish without slowing things down. If you have examples of similar corporate sites you’ve built, please share them—seeing your past work will help me pick the right partner.</description></item>
-<item><title>Ecosend Email Setup &amp; Automation</title><link>https://www.freelancer.com/projects/email-marketing/Ecosend-Email-Setup-Automation</link><guid isPermaLink="false">freelancer:40763865</guid><pubDate>Mon, 12 Oct 2026 13:47:17 GMT</pubDate><description>20-250 GBP | I’m running a women’s wellness brand that offers a podcast, retreats and a paid membership, and I’m finally ready to get my email house in order inside Ecosend. My current broadcasts work, but the technical foundations and list structure are still missing.
-
-Here’s what I need:
-
-• Sender infrastructure: create a dedicated inbox for the sending address, connect my domain and fully authenticate it in Ecosend (SPF, DKIM, DMARC) so every reply lands in that new inbox.  
-• Contact organisation: build a clear tagging framework driven mainly by Member status, but flexible enough to capture source and interests later. Apply the tags to my existing list.  
-• Segmentation &amp; automation: set up segments that use those tags, add a signup form, and wire a short welcome sequence (I’ll supply the copy).  
-• Handover: supply either a concise written guide or a quick screen-recording that walks me through how to maintain tags, segments and future automations on my own.
-
-My priority is to promote products and services to the right subscribers while staying fully UK-GDPR compliant, and I’m happy to sign an NDA. When you reply, please outline:
-
-– Ecosend (and any other) platforms you’ve configured  
-– One real-world example of a tagging or segmentation model you built  
-– Your fixed-price quote for this project
-
-Looking forward to getting this foundation sorted so my emails can finally perform the way they should.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
