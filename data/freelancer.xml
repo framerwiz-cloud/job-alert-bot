@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build My Payhip Digital Store</title><link>https://www.freelancer.com/projects/woocommerce/Build-Payhip-Digital-Store</link><guid isPermaLink="false">freelancer:40765196</guid><pubDate>Tue, 13 Oct 2026 08:45:41 GMT</pubDate><description>20-250 GBP | I have a Payhip account that already hosts my products, but I want a stand-alone e-commerce website that feels branded, polished and fully under my own domain. All items in the catalogue are digital passes, so the site must be optimised for instant delivery after purchase and integrate smoothly with Payhip’s payment and fulfilment APIs.
+
+Here’s the flow I’m envisioning: a clean home page that introduces the offer, product pages generated from the existing Payhip listings, a simple checkout that still uses Payhip for payment processing, and an automatic redirect or email with the pass once the transaction is successful. The design should be responsive, lightweight and easy for me to update later without touching code—think WordPress + WooCommerce, Webflow, or any modern builder you’re comfortable with as long as it plays nicely with Payhip’s embeddable buttons or API.
+
+Acceptance criteria:
+• Branded theme applied, matching my current colours and logo  
+• All current digital passes imported or embedded from Payhip  
+• Seamless checkout with instant download or access delivery  
+• Basic SEO set-up (titles, meta descriptions, sitemap)  
+• Quick walkthrough or video showing me how to add new passes in the future  
+
+If this sounds straightforward to you, let’s get it live.</description></item>
 <item><title>Full Stack Web Developer / Figma Sites Expert - Consumer Brand Website + more potential projects</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Web-Developer-Figma</link><guid isPermaLink="false">freelancer:40765094</guid><pubDate>Tue, 13 Oct 2026 07:42:44 GMT</pubDate><description>8-15 USD/hr | Our client needs a fast &amp; responsive website that serves as an information hub for a consumer brand. At its core will be a regularly-updated blog, supported by a prominent contact form and a section for client testimonials to reinforce credibility. The look and feel should be modern, fast-loading and equally comfortable on mobile and desktop.
 
 We have a designer/motion artist on staff who will create the UI/UX + all design materials needed.
@@ -735,16 +747,6 @@ Ideal Skills and Experience:
 - Attention to detail and good design sense
 
 Please provide examples of similar work done. Looking forward to your bids!</description></item>
-<item><title>Blog Site Clone Development</title><link>https://www.freelancer.com/projects/web-development/Blog-Site-Clone-Development</link><guid isPermaLink="false">freelancer:40762791</guid><pubDate>Mon, 12 Oct 2026 00:20:31 GMT</pubDate><description>250-750 AUD | I want to recreate the look, speed, and overall user experience of www.turbotruth.in for my own blogging project. The reference site is fast, clean, and SEO-friendly, so matching those qualities is crucial. I’m flexible on the tech stack—WordPress, a lightweight headless setup, or even custom code—so long as day-to-day publishing stays simple.
-
-Here’s what the finished site needs to cover:  
-• Responsive pages that mirror the reference layout, from home page to individual posts.  
-• A smooth CMS workflow so I can add, edit, and schedule articles without touching code.  
-• Solid on-page SEO (schema, meta, clean URLs) and performance optimised for quick load times.  
-• Built-in hooks for features I may activate later—comment section, social sharing buttons, and a newsletter signup.  
-• Standard security hardening and automated backups before hand-over.
-
-Show me links to similar blog builds you’ve completed, outline your preferred stack, timeline, and an all-inclusive quote.</description></item>
 <item><title>Professional Life Coach Website Overhaul</title><link>https://www.freelancer.com/projects/web-design/Professional-Life-Coach-Website-Overhaul</link><guid isPermaLink="false">freelancer:40761315</guid><pubDate>Sat, 10 Oct 2026 23:30:09 GMT</pubDate><description>8-15 USD/hr | My immediate priority is to refresh my life-coaching website so it reflects the polished, professional image I give clients in person. The current site feels dated and clunky; I’d like it transformed into something clean, corporate and easy to navigate.
 
 Here’s what I need from you right now:  
