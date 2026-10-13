@@ -3,6 +3,37 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full Stack Web Developer / Figma Sites Expert - Consumer Brand Website + more potential projects</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Web-Developer-Figma</link><guid isPermaLink="false">freelancer:40765094</guid><pubDate>Tue, 13 Oct 2026 07:42:44 GMT</pubDate><description>8-15 USD/hr | Our client needs a fast &amp; responsive website that serves as an information hub for a consumer brand. At its core will be a regularly-updated blog, supported by a prominent contact form and a section for client testimonials to reinforce credibility. The look and feel should be modern, fast-loading and equally comfortable on mobile and desktop.
+
+We have a designer/motion artist on staff who will create the UI/UX + all design materials needed.
+
+Looking for a 2-5 years experience in website development. 
+
+Must be able to create a website that is hosted on one of the following:
+- WordPress
+- SquareSpace
+- Framer
+- Wix Studio
+- Figma Sites
+- Webflow
+
+This project specifically will be hosted on Figma Sites, with design being done in Figma. Ideally this will be a shorter, easier, and faster implementation process given the nature of the platform.
+
+You will handle the full stack: database setup, back-end logic and a straightforward content management workflow so we can publish new posts without touching code. For future projects, whether you prefer React with a Node/Express API, a Django stack, or WordPress with custom blocks, I’m open to the approach as long as it delivers security, ease of maintenance and solid SEO fundamentals.
+
+Key deliverables  
+• Fully designed and coded website with blog, contact form and testimonial carousel/display, among other requirements. Estimated 10 pages total.
+• Simple admin interface for adding posts, editing pages and approving testimonials  
+• Deployed to client's hosting with SSL configured and basic on-page SEO in place  
+• Brief hand-over guide (video or PDF) so the client can manage content independently
+
+Acceptance criteria  
+• Pages load under three seconds on 4G per Google Lighthouse  
+• Contact form successfully sends to my designated email and stores entries in the database  
+• Blog post creation, editing and deletion work from the admin panel without errors  
+• Testimonials display accurately and can be reordered from the back end
+
+Send a short outline of the tech stack you propose, any sites you have built and an estimated timeline for design, development and deployment. Bonus points if you've used Figma Sties</description></item>
 <item><title>Functional E-commerce Website Development</title><link>https://www.freelancer.com/projects/web-development/Functional-commerce-Website-Development</link><guid isPermaLink="false">freelancer:40765043</guid><pubDate>Tue, 13 Oct 2026 07:10:51 GMT</pubDate><description>250-750 AUD | I’m ready to launch an online store that sells physical goods and need a developer who can take the idea from concept to a fully functioning e-commerce site. The core of the build must cover a clean product catalogue, fast product search and filtering, and a reliable shopping-cart / checkout flow.  
 
 Here is what I expect:  
