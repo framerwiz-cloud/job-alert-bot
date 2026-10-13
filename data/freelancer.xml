@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress/Elementor Updates &amp; WooCommerce Testing</title><link>https://www.freelancer.com/projects/web-development/WordPress-Elementor-Updates-WooCommerce</link><guid isPermaLink="false">freelancer:40766393</guid><pubDate>Tue, 13 Oct 2026 21:47:06 GMT</pubDate><description>30-250 EUR | Woocommerce / wordpress / elementor updates+ testing
+Tasks:
+
+* Validate and complete prepared repairs to four custom  theme templates, preserving all existing functionality.
+* Fix outdated scripts, carousel, JavaScript errors and WooCommerce cart-removal issues.
+* Update Elementor to a secure, compatible version and verify website layouts and functionality.
+* Fix missing Wordfence CAPTCHA keys and test CAPTCHA functionality.
+* Test WooCommerce 11.2.1 on the existing isolated staging site, including cart, desktop/mobile checkout, menus, pop-ups and  functionality.
+* Check PHP/database errors and security restrictions.
+* Provide a test report, backup and rollback plan.
+
+Current status: Repairs have passed preliminary local tests but are not deployed. The live site runs WooCommerce 10.0.6.
+
+Detailed description provided. Max 1.30-3 hrs of work.</description></item>
 <item><title>UI/UX Design for B2B Mobile Auction Site</title><link>https://www.freelancer.com/projects/ui-design/Design-for-Mobile-Auction-Site</link><guid isPermaLink="false">freelancer:40766342</guid><pubDate>Tue, 13 Oct 2026 21:17:39 GMT</pubDate><description>15-25 USD/hr | We are looking for an experienced UI/UX designer to design a professional B2B mobile phone auction website.
 
 The platform will allow registered wholesale customers to browse carrier auction inventory, filter devices, place bids, view auction results, and manage their orders.
@@ -959,22 +973,6 @@ Deliverables:
 3. Style guide (colors, fonts, button states) so we can keep everything consistent  
 
 I’ll provide logo, brand colors, and copy. You handle layout, imagery suggestions, and any lightweight animations that add polish without slowing things down. If you have examples of similar corporate sites you’ve built, please share them—seeing your past work will help me pick the right partner.</description></item>
-<item><title>Ecosend Email Setup &amp; Automation</title><link>https://www.freelancer.com/projects/email-marketing/Ecosend-Email-Setup-Automation</link><guid isPermaLink="false">freelancer:40763865</guid><pubDate>Mon, 12 Oct 2026 13:47:17 GMT</pubDate><description>20-250 GBP | I’m running a women’s wellness brand that offers a podcast, retreats and a paid membership, and I’m finally ready to get my email house in order inside Ecosend. My current broadcasts work, but the technical foundations and list structure are still missing.
-
-Here’s what I need:
-
-• Sender infrastructure: create a dedicated inbox for the sending address, connect my domain and fully authenticate it in Ecosend (SPF, DKIM, DMARC) so every reply lands in that new inbox.  
-• Contact organisation: build a clear tagging framework driven mainly by Member status, but flexible enough to capture source and interests later. Apply the tags to my existing list.  
-• Segmentation &amp; automation: set up segments that use those tags, add a signup form, and wire a short welcome sequence (I’ll supply the copy).  
-• Handover: supply either a concise written guide or a quick screen-recording that walks me through how to maintain tags, segments and future automations on my own.
-
-My priority is to promote products and services to the right subscribers while staying fully UK-GDPR compliant, and I’m happy to sign an NDA. When you reply, please outline:
-
-– Ecosend (and any other) platforms you’ve configured  
-– One real-world example of a tagging or segmentation model you built  
-– Your fixed-price quote for this project
-
-Looking forward to getting this foundation sorted so my emails can finally perform the way they should.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
