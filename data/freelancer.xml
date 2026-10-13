@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Quick Domain Migration To Cloudflare</title><link>https://www.freelancer.com/projects/cloudflare/Quick-Domain-Migration-Cloudflare</link><guid isPermaLink="false">freelancer:40766193</guid><pubDate>Tue, 13 Oct 2026 19:18:03 GMT</pubDate><description>30-250 USD | My small brochure-style site is online now and the domain expires this December. I’ve decided to move the registration to Cloudflare because my current registrar, “Domain Name Services,” is charging far more than it’s worth.  
+
+What I need from you  
+• Unlock the domain at the current registrar, generate the transfer code and complete the move to Cloudflare.  
+• Reproduce whatever DNS records are in place today so the site keeps working without noticeable downtime. I’m honestly not sure whether there are any custom records, but there is no email or other fancy service hanging off the domain. (Or if it has an email I don't use it.)
+• Once the nameservers flip, confirm the site resolves correctly worldwide.  
+
+Possible extras  
+I’m undecided about Cloudflare-specific features such as SSL or DDoS protection. If you spot an easy win while you’re inside the dashboard, flag it and we can decide on the spot.  
+
+Success looks like this: the domain shows up as active in my Cloudflare account, the website loads exactly as it does now, and I can relax before renewal time rolls around. This should be a quick project for anyone who lives in the Cloudflare interface every day.</description></item>
 <item><title>Enhance Shopify Store - Photo Editing &amp; Descriptions</title><link>https://www.freelancer.com/projects/shopify-site/Enhance-Shopify-Store-Photo-Editing</link><guid isPermaLink="false">freelancer:40766108</guid><pubDate>Tue, 13 Oct 2026 18:15:50 GMT</pubDate><description>30-250 USD | Shopify Product Page Updates &amp; Simple Photo Editing
 
 I’m looking for a freelancer to update the product images and descriptions on my clothing brand’s Shopify website.
@@ -764,14 +775,6 @@ Deliverables
 4. Handover session (video or written) outlining how to edit text, pricing tables and booking settings.
 
 If you have proven Velo experience and can demonstrate past work with interactive pricing or booking flows, I’d love to see it when you apply.</description></item>
-<item><title>Sports &amp; Corporate E-Shot Design</title><link>https://www.freelancer.com/projects/adobe-creative-cloud/Sports-Corporate-Shot-Design</link><guid isPermaLink="false">freelancer:40763691</guid><pubDate>Mon, 12 Oct 2026 11:40:54 GMT</pubDate><description>250-750 GBP | I need an eye-catching e-shot that blends a dynamic, sporty energy with a clean, professional corporate feel. The email will introduce our range of crystal glassware—perfect for awards and gifts—to golf, tennis, bowling and football clubs as well as corporate buyers.
-
-What I’d like to see in the final design:
-• A strong hero section featuring product images I’ll supply.  
-• A clear, persuasive area for limited-time special offers.  
-• Responsive layout that looks great on desktop and mobile.  
-
-If you have experience creating marketing emails for consumer goods or sports audiences, please share a few examples of past work so I can get a sense of your style.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
