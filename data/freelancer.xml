@@ -713,9 +713,6 @@ Acceptance
 A quick walkthrough via collaborator access or screen-share once the pages are live will close the project; I should see every listing published, searchable on-site and ready to accept payments.
 
 If you know Shopify inside out and can complete this task smoothly, let’s get it done.</description></item>
-<item><title>Enhance UX for Beauty Industry Platform</title><link>https://www.freelancer.com/projects/ui-design/Enhance-for-Beauty-Industry-Platform</link><guid isPermaLink="false">freelancer:40764414</guid><pubDate>Mon, 12 Oct 2026 21:11:38 GMT</pubDate><description>30-250 AUD | CoWorkz is a business operating system for the beauty industry: independent beauty professionals, salons, hybrid salons (employees plus rented chairs), shared-workspace / co-working operators, and the professionals who rent from them. It handles bookings, clients, content creation, payments and an AI assistant called Abby. The same codebase also runs The Beauty Basement, my own shared salon workspace in Perth, which is one customer-type example, not the identity of every member. The product has a very large feature surface that was built fast, largely with AI coding agents. It mostly works, but the UX is inconsistent, several workflows dead-end or over-promise, and the visual polish is not at the level a paying customer expects. I need a senior front-end/full-stack engineer with real product-design instinct to stabilise it, finish the core workflows properly, and get it to a state I can confidently sell and support.
-
-The goal is not new features. It is: every core screen looks right, every core button does what it says, on desktop and phone.</description></item>
 <item><title>Eco Laundry Site Revamp &amp; Ads</title><link>https://www.freelancer.com/projects/web-development/Eco-Laundry-Site-Revamp-Ads</link><guid isPermaLink="false">freelancer:40764394</guid><pubDate>Mon, 12 Oct 2026 20:59:52 GMT</pubDate><description>15-25 USD/hr | Blue Sky Eco Laundry needs the contact-and-ordering section of our website completely refreshed. The goal is to give customers a smooth, attractive multi-step checkout that lets them schedule pickups, choose wash-and-fold options, review pricing, and pay securely—then funnels the order straight into our backend for effortless processing.  
 
 Here’s what has to happen:  
@@ -909,9 +906,6 @@ Acceptance criteria
 • Early wins demonstrably lift key pages back toward their previous average positions.
 
 If you have a track record of recovering sites after core updates, let’s talk and map out the road back to our pre-update performance.</description></item>
-<item><title>Enhance UX for CoWorkz: Beauty Industry OS</title><link>https://www.freelancer.com/projects/ui-design/Enhance-for-CoWorkz-Beauty-Industry</link><guid isPermaLink="false">freelancer:40764278</guid><pubDate>Mon, 12 Oct 2026 19:02:12 GMT</pubDate><description>250-750 AUD | CoWorkz is a business operating system for the beauty industry: independent beauty professionals, salons, hybrid salons (employees plus rented chairs), shared-workspace / co-working operators, and the professionals who rent from them. It handles bookings, clients, content creation, payments and an AI assistant called Abby. The same codebase also runs The Beauty Basement, my own shared salon workspace in Perth, which is one customer-type example, not the identity of every member. The product has a very large feature surface that was built fast, largely with AI coding agents. It mostly works, but the UX is inconsistent, several workflows dead-end or over-promise, and the visual polish is not at the level a paying customer expects. I need a senior front-end/full-stack engineer with real product-design instinct to stabilise it, finish the core workflows properly, and get it to a state I can confidently sell and support.
-
-The goal is not new features. It is: every core screen looks right, every core button does what it says, on desktop and phone.</description></item>
 <item><title>Solo Practitioner Law Firm Website -- 2</title><link>https://www.freelancer.com/projects/php/Solo-Practitioner-Law-Firm-Website</link><guid isPermaLink="false">freelancer:40764151</guid><pubDate>Mon, 12 Oct 2026 17:11:19 GMT</pubDate><description>3000-5000 USD | Hello,
 
 I seek an experienced web designer/developer to build a professional corporate website for my law firm, targeting prospects in the European Union, United States and Latin America. The site will launch in English, with selected sections translated into Spanish later. WordPress.org is the preferred CMS. Scope covers sitemap and wireframes, responsive design, CMS implementation, intake, scheduling, payments, privacy/cookie controls, security, SEO, accessibility basics, testing, documentation, training and handover. I must own the accounts, files and credentials. Fully remote project; launch within a maximum of 10 weeks. Indicative launch budget: US$3,000–$5,000. Quote 12 months of maintenance and third-party costs separately.
@@ -954,6 +948,44 @@ Deliverables:
 3. Style guide (colors, fonts, button states) so we can keep everything consistent  
 
 I’ll provide logo, brand colors, and copy. You handle layout, imagery suggestions, and any lightweight animations that add polish without slowing things down. If you have examples of similar corporate sites you’ve built, please share them—seeing your past work will help me pick the right partner.</description></item>
+<item><title>Ecosend Email Setup &amp; Automation</title><link>https://www.freelancer.com/projects/email-marketing/Ecosend-Email-Setup-Automation</link><guid isPermaLink="false">freelancer:40763865</guid><pubDate>Mon, 12 Oct 2026 13:47:17 GMT</pubDate><description>20-250 GBP | I’m running a women’s wellness brand that offers a podcast, retreats and a paid membership, and I’m finally ready to get my email house in order inside Ecosend. My current broadcasts work, but the technical foundations and list structure are still missing.
+
+Here’s what I need:
+
+• Sender infrastructure: create a dedicated inbox for the sending address, connect my domain and fully authenticate it in Ecosend (SPF, DKIM, DMARC) so every reply lands in that new inbox.  
+• Contact organisation: build a clear tagging framework driven mainly by Member status, but flexible enough to capture source and interests later. Apply the tags to my existing list.  
+• Segmentation &amp; automation: set up segments that use those tags, add a signup form, and wire a short welcome sequence (I’ll supply the copy).  
+• Handover: supply either a concise written guide or a quick screen-recording that walks me through how to maintain tags, segments and future automations on my own.
+
+My priority is to promote products and services to the right subscribers while staying fully UK-GDPR compliant, and I’m happy to sign an NDA. When you reply, please outline:
+
+– Ecosend (and any other) platforms you’ve configured  
+– One real-world example of a tagging or segmentation model you built  
+– Your fixed-price quote for this project
+
+Looking forward to getting this foundation sorted so my emails can finally perform the way they should.</description></item>
+<item><title>Wix End-Lease Cleaning Site</title><link>https://www.freelancer.com/projects/wix/Wix-End-Lease-Cleaning-Site</link><guid isPermaLink="false">freelancer:40763867</guid><pubDate>Mon, 12 Oct 2026 13:44:14 GMT</pubDate><description>250-750 AUD | I need a Wix specialist who can take my existing logo and colour palette and translate them into a friendly, approachable online presence for our end-of-lease cleaning service. The site has a single, razor-sharp goal: turn visitors into confirmed bookings or solid quote requests.
+
+Core build
+• Wix platform only, using Velo where necessary for custom interactions.  
+• Publicly viewable once approved, with editing rights locked to my team.
+
+Dynamic quote calculator
+I will supply the pricing rules (flat amounts per bedroom, bathroom, storey and property type). Your task is to create a form that accepts those inputs and shows a live price instantly. The calculation must run client-side for speed and write the enquiry to our Wix CRM so we can follow up.
+
+Booking funnel
+After the price is shown, visitors must be able to confirm the booking or send the quote request in a single, streamlined step—preferably through Wix Bookings or a Velo-powered form that writes directly to our calendar.
+
+Look &amp; feel
+Friendly and approachable is the mandate. Use my logo and colours as the visual anchor; everything else should stay clean, modern and conversion driven—clear headings, persuasive call-to-action buttons, and mobile-first layouts are non-negotiable.
+
+Deliverables
+1. Fully functional Wix site, live on my domain.  
+2. Quote calculator with documented pricing logic so I can update figures later.  
+3. Basic analytics and conversion tracking set up via Wix and Google Analytics.  
+4. Handover session (video or written) outlining how to edit text, pricing tables and booking settings.
+
+If you have proven Velo experience and can demonstrate past work with interactive pricing or booking flows, I’d love to see it when you apply.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
