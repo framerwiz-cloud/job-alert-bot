@@ -3,6 +3,12 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Plugin Update</title><link>https://www.freelancer.com/projects/wordpress-plugin/WordPress-Plugin-Update</link><guid isPermaLink="false">freelancer:40766201</guid><pubDate>Tue, 13 Oct 2026 19:23:28 GMT</pubDate><description>250-750 CAD | I need an experienced WordPress developer to update all plugins on my site. 
+
+Requirements:
+- Update all existing plugins
+- Ensure site functionality post-update
+- No customizations needed, just the updates</description></item>
 <item><title>Quick Domain Migration To Cloudflare</title><link>https://www.freelancer.com/projects/cloudflare/Quick-Domain-Migration-Cloudflare</link><guid isPermaLink="false">freelancer:40766193</guid><pubDate>Tue, 13 Oct 2026 19:18:03 GMT</pubDate><description>30-250 USD | My small brochure-style site is online now and the domain expires this December. I’ve decided to move the registration to Cloudflare because my current registrar, “Domain Name Services,” is charging far more than it’s worth.  
 
 What I need from you  
@@ -753,28 +759,6 @@ My priority is to promote products and services to the right subscribers while s
 – Your fixed-price quote for this project
 
 Looking forward to getting this foundation sorted so my emails can finally perform the way they should.</description></item>
-<item><title>Wix End-Lease Cleaning Site</title><link>https://www.freelancer.com/projects/wix/Wix-End-Lease-Cleaning-Site</link><guid isPermaLink="false">freelancer:40763867</guid><pubDate>Mon, 12 Oct 2026 13:44:14 GMT</pubDate><description>250-750 AUD | I need a Wix specialist who can take my existing logo and colour palette and translate them into a friendly, approachable online presence for our end-of-lease cleaning service. The site has a single, razor-sharp goal: turn visitors into confirmed bookings or solid quote requests.
-
-Core build
-• Wix platform only, using Velo where necessary for custom interactions.  
-• Publicly viewable once approved, with editing rights locked to my team.
-
-Dynamic quote calculator
-I will supply the pricing rules (flat amounts per bedroom, bathroom, storey and property type). Your task is to create a form that accepts those inputs and shows a live price instantly. The calculation must run client-side for speed and write the enquiry to our Wix CRM so we can follow up.
-
-Booking funnel
-After the price is shown, visitors must be able to confirm the booking or send the quote request in a single, streamlined step—preferably through Wix Bookings or a Velo-powered form that writes directly to our calendar.
-
-Look &amp; feel
-Friendly and approachable is the mandate. Use my logo and colours as the visual anchor; everything else should stay clean, modern and conversion driven—clear headings, persuasive call-to-action buttons, and mobile-first layouts are non-negotiable.
-
-Deliverables
-1. Fully functional Wix site, live on my domain.  
-2. Quote calculator with documented pricing logic so I can update figures later.  
-3. Basic analytics and conversion tracking set up via Wix and Google Analytics.  
-4. Handover session (video or written) outlining how to edit text, pricing tables and booking settings.
-
-If you have proven Velo experience and can demonstrate past work with interactive pricing or booking flows, I’d love to see it when you apply.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
@@ -1093,75 +1077,6 @@ Please answer the following:
 Experience with adult subscription/membership sites, NATS, CCBill or similar platforms is a plus.
 
 Please do not send a generic web-development proposal. We are specifically interested in developers with real Elevated X experience.</description></item>
-<item><title>Multipurpose AI Development with n8n Integration</title><link>https://www.freelancer.com/projects/n8n/Multipurpose-Development-with</link><guid isPermaLink="false">freelancer:40753174</guid><pubDate>Tue, 06 Oct 2026 18:24:52 GMT</pubDate><description>5-10 GBP/hr | # Developer Needed for Multipurpose AI Agent — OpenAI, Mistral, n8n
-
-### Job Description
-
-I am looking for an experienced AI developer to complete the setup and integration of a multipurpose AI agent using existing infrastructure.
-
-**Existing Infrastructure**
-
-* Hetzner VPS running Ubuntu.
-* Docker environment.
-* Self-hosted n8n automation platform.
-* Existing web interface.
-* GitHub account.
-* OpenAI API access.
-
-### Project Requirements
-
-**1. AI Models**
-
-* Integrate OpenAI models through the API.
-* Integrate Mistral AI models.
-* Configure the system to use appropriate models for different tasks.
-* Allow additional models to be integrated in the future.
-
-**2. AI Agent and Interface**
-
-* Configure the multipurpose AI agent.
-* Connect the agent to n8n for workflow execution.
-* Enable the agent to use authorised tools and external APIs.
-* Integrate with the existing web interface.
-
-**3. Business Integrations**
-
-Initial integrations will include:
-
-* Shopify e-commerce store.
-* Easyship shipping and fulfilment.
-* Supplier APIs and additional business tools as required.
-
-**4. Technical Requirements**
-
-* Work with the existing infrastructure rather than rebuilding it.
-* Configure secure API connections and credentials.
-* Ensure reliable workflow execution, error handling and logging.
-* Provide documentation and a complete handover.
-
-### Developer Requirements
-
-Experience required in:
-
-* OpenAI API and Mistral AI.
-* n8n and AI agent development.
-* REST APIs, webhooks and integrations.
-* Docker, Ubuntu and self-hosted applications.
-* Shopify API integration.
-
-### Application Questions
-
-Please provide:
-
-1. Examples of AI agents you have developed using n8n.
-2. Your experience integrating OpenAI and Mistral models.
-3. Your proposed implementation approach.
-4. Estimated cost, delivery time and any additional running costs.
-
-**Important:** The core infrastructure already exists. I am looking for a developer to configure, integrate and complete the system cost-effectively without introducing unnecessary platforms or rebuilding existing components.
-
-The project will be completed in stages, beginning with an assessment of the current installation.
-</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
