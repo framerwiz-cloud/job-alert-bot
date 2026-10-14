@@ -1463,18 +1463,6 @@ The priority is to fix the underlying problems efficiently while preserving the 
 Skills Required
 
 Web Development, JavaScript, Typescript, Node.js, Next.js, Postgresql, API Integration, Web Security, Software Testing</description></item>
-<item><title>WordPress Informational Site Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-Informational-Site-Build</link><guid isPermaLink="false">freelancer:40758005</guid><pubDate>Thu, 08 Oct 2026 19:45:15 GMT</pubDate><description>8-15 CAD/hr | I want to launch a clean, fast, and fully responsive informational website on WordPress where I’ll be publishing regular articles and blog-style posts. Your job starts with setting up the CMS, choosing or creating a theme that matches my brand, and configuring the essential plugins for speed, security, backups, and on-page SEO.  
-
-Once the site is live, I’ll need ongoing maintenance so the platform, theme, and plugins remain up to date and trouble-free. That includes monitoring uptime, fixing occasional bugs, and adding small feature tweaks or new pages when required. Because the core content will be text-based articles, an intuitive editor experience and well-structured category/tag system are important.  
-
-Deliverables I’d like to see:  
-• Initial WordPress installation and theme setup on my host  
-• Customization of layout, colors, and typography to fit existing brand guidelines  
-• Core plugin stack configured (caching, security, SEO, backup)  
-• Documentation or a short walk-through video showing me how to publish and manage articles  
-• Three months of post-launch maintenance and updates  
-
-If you have experience building lean, content-driven WordPress sites and can commit to reliable maintenance afterwards, let’s discuss the timeline and any questions you have.</description></item>
 <item><title>API Integration for Travel Marketplace</title><link>https://www.freelancer.com/projects/api-integration/API-Integration-for-Travel-Marketplace</link><guid isPermaLink="false">freelancer:40757968</guid><pubDate>Thu, 08 Oct 2026 19:13:00 GMT</pubDate><description>12-18 EUR/hr | I run a travel marketplace (frankenbridge.com) with a working Cloudflare Worker that proxies the Bókun API into a React tour-browser app on WordPress. I want to add many more external tour and activity suppliers, but I don’t know which booking system each one uses. Some may be OCTO/Ventrata, Rezdy, FareHarbor, TourCMS or Checkfront, and others may have a custom API, an XML feed or none at all. I need an expert who has integrated many of these systems. First, identify what each supplier uses and the best way to connect it, and tell me honestly when an integration isn’t worth building. Then build the integrations so tours, availability and prices appear in one unified grid and bookings reach the right supplier. Keep supplier keys server-side and document everything. You work on staging with sandbox credentials only; I never share production keys. I’m starting with a paid audit of my first few suppliers, then we agree the build step by step. Please propose your own audit fee and hourly rate.    
 
 
