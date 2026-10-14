@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern Electronics E-commerce Site Design</title><link>https://www.freelancer.com/projects/ui-design/Modern-Electronics-commerce-Site-Design</link><guid isPermaLink="false">freelancer:40768220</guid><pubDate>Wed, 14 Oct 2026 19:23:51 GMT</pubDate><description>30-250 USD | I’m launching an online store focused exclusively on consumer electronics and need a full visual design that feels cutting-edge, clean and professional. I already have a logo and a well-defined color palette; your job is to weave those assets seamlessly into a modern, sleek interface that looks great on desktop and mobile.
+
+What I expect:
+• A complete set of high-fidelity layouts for the home page, category grid, product detail, cart and checkout.
+• Responsive behavior mapped out for common breakpoints so the experience remains consistent from phone to large monitor.
+• UI components (buttons, cards, banners, headers, footers) delivered as organised, layered design files ready for hand-off to development.
+• Basic style guide summarising typography, colours and spacing decisions so future updates stay on brand.
+
+Figma, Adobe XD or Sketch all work—use whichever you’re fastest with. If you can demonstrate familiarity with Shopify or WooCommerce theme constraints while designing, that’s a plus, though not mandatory.
+
+I’ll supply the logo files, colour codes and a short list of competitor references once we start. Let’s create an interface that convinces shoppers they’re buying the latest tech from a store that feels just as advanced.</description></item>
+<item><title>WordPress Site Overhaul &amp; Form Repair</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Site-Overhaul-Form-Repair</link><guid isPermaLink="false">freelancer:40768219</guid><pubDate>Wed, 14 Oct 2026 19:23:40 GMT</pubDate><description>30-250 USD | fix form, update word press site and plug ins</description></item>
 <item><title>Custom Shopify Store Enhancement</title><link>https://www.freelancer.com/projects/shopify-development/Custom-Shopify-Store-Enhancement</link><guid isPermaLink="false">freelancer:40768203</guid><pubDate>Wed, 14 Oct 2026 19:14:05 GMT</pubDate><description>30-250 USD | I need my Shopify store taken beyond the off-the-shelf theme. The platform is Shopify and the focus is full shop customization: layout tweaks, bespoke sections, refined product pages, a smoother checkout flow, and any Liquid or theme code adjustments required to make the storefront feel truly branded.
 
 Here is what success looks like for me:
@@ -13,19 +25,6 @@ Here is what success looks like for me:
 • All changes deployed safely to a staging theme before going live
 
 Please outline the approach you’d take, highlight similar Shopify work you’ve completed, and note any favourite apps or techniques you rely on for efficient customization.</description></item>
-<item><title>Harden WordPress Against Hacks</title><link>https://www.freelancer.com/projects/security-auditing/Harden-WordPress-Against-Hacks</link><guid isPermaLink="false">freelancer:40768201</guid><pubDate>Wed, 14 Oct 2026 19:11:09 GMT</pubDate><description>30-250 USD | My immediate priority is tightening the security of an existing WordPress installation so that common hacking vectors are blocked before they ever reach the site. I am interested in a thorough hardening process—from core file integrity checks to server-level rules—followed by clear documentation of what was changed and why.
-
-The end goal is straightforward:
-• A site that actively resists intrusion attempts  
-• A concise post-hardening report listing every measure applied, with rollback notes  
-• Recommendations for ongoing monitoring and update routines
-
-Because preventing hacking attempts is the main concern, please centre your proposal on:
-• The specific techniques or plugins you rely on (e.g., Wordfence, Sucuri, custom WAF rules)  
-• How you handle vulnerability scanning, brute-force mitigation, and least-privilege permissions  
-• Any automation you set up for future patching or alerts
-
-I value a detailed project proposal outlining your step-by-step plan, expected turnaround, and how success will be verified.</description></item>
 <item><title>Boost Blog Traffic From Google</title><link>https://www.freelancer.com/projects/content-marketing/Boost-Blog-Traffic-From-Google</link><guid isPermaLink="false">freelancer:40768128</guid><pubDate>Wed, 14 Oct 2026 18:28:32 GMT</pubDate><description>30-250 USD | My blog posts generate interest when people find them, yet the majority of potential readers (and buyers) never arrive through Google. I want to change that so each post attracts qualified organic visitors who are ready to convert.
 
 The focus is strictly on blog content. The ultimate metric I will judge success by is additional sales or measurable conversions that come from new traffic—not vanity numbers. To get there I’m interested in a blend of solid SEO optimisation and a smart social-media amplification plan; paid ads are off the table for now, but I’m open to well-reasoned suggestions once the organic pieces are in place.
@@ -1109,24 +1108,6 @@ Target: live and QA'd by end of November.
 Most Important: Ideal candidate is who worked on Osavi or Saltt. If you are worked at those companies, I will hire you immediately.
 
 Please send a fixed price, a timeline, and an optional monthly maintenance retainer.</description></item>
-<item><title>Classic Shopify Store Design</title><link>https://www.freelancer.com/projects/shopify-site/Classic-Shopify-Store-Design-40765274</link><guid isPermaLink="false">freelancer:40765274</guid><pubDate>Tue, 13 Oct 2026 09:29:02 GMT</pubDate><description>250-750 AUD | I run a camcorder-rental business that is expanding into direct sales of gear and companion digital downloads such as LUT packs and training files. I’m looking for a Shopify specialist who can translate that mix into a classic, elegant storefront that evokes trust and professionalism while staying easy to navigate on any device.
-
-The site’s primary job is twofold: first, to showcase and schedule rentals of my physical cameras and accessories; second, to let customers instantly purchase both physical add-ons and digital products from the same cart. I’d like the design to feel timeless—think clean typography, balanced white space, and refined product photography—without losing any of Shopify’s modern conveniences.
-
-Key deliverables  
-• A custom, responsive Shopify theme styled in a classic, elegant aesthetic  
-• Rental workflow configured (calendar/booking app, deposit handling, blackout dates, automated reminders)  
-• Standard e-commerce flow for physical products plus digital-download fulfillment (instant file delivery)  
-• Home, collection, product, about, FAQ and contact pages fully built and populated with sample content I’ll supply  
-• Payment, tax and shipping rules set up, with test transactions confirming everything works end-to-end  
-• Basic SEO settings, speed optimization and a short hand-over guide so I can add new products myself
-
-Acceptance criteria  
-– Pages load in under 3 seconds on mobile according to Shopify’s analyzer  
-– Test rental, physical and digital orders each complete without errors  
-– Visual style matches the classic/elegant reference sites I’ll share at kickoff
-
-All assets (logo, images, copy) will be provided once we start; I simply need your design and Shopify expertise to bring the storefront to life.</description></item>
 <item><title>Full Stack Web Developer / Figma Sites Expert - Consumer Brand Website + more potential projects</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Web-Developer-Figma</link><guid isPermaLink="false">freelancer:40765094</guid><pubDate>Tue, 13 Oct 2026 07:42:44 GMT</pubDate><description>8-15 USD/hr | Our client needs a fast &amp; responsive website that serves as an information hub for a consumer brand. At its core will be a regularly-updated blog, supported by a prominent contact form and a section for client testimonials to reinforce credibility. The look and feel should be modern, fast-loading and equally comfortable on mobile and desktop.
 
 We have a designer/motion artist on staff who will create the UI/UX + all design materials needed.
