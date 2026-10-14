@@ -3,6 +3,171 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Photography Store - Fully Hosted and Ready to Launch</title><link>https://www.freelancer.com/projects/digital-marketing/WordPress-Photography-Store-Fully-Hosted</link><guid isPermaLink="false">freelancer:40766516</guid><pubDate>Wed, 14 Oct 2026 00:09:33 GMT</pubDate><description>30-250 USD | WordPress Photography Store — Fully Hosted and Ready to Launch
+
+Project
+
+Build and launch a complete WordPress website where I sell digital copies of photographs I take. I retain copyright and ownership of every original and may sell unlimited copies to different customers. I need a finished, hosted store ready to accept real orders—not just a design or WordPress installation.
+
+Use established WordPress themes/plugins where practical. Keep costs affordable and avoid unnecessary custom programming.
+
+1. Homepage and galleries
+
+The top approximately 25% of the homepage should show the website name/logo, a short “Who We Are” introduction, what we offer, and navigation: Home, Browse Photos, Categories/Galleries, About, Contact, and Cart.
+
+The rest of the homepage and additional pages should display photographs in a neat, consistent grid. Each item shows a thumbnail, title/description if supplied, and price. Clicking an image opens a full-screen or near-full-screen lightbox with a close button, title, price, and purchase option. Images must keep their proportions and work on desktop, tablet, and mobile.
+
+Support at least 200 photographs initially and allow growth. Include gallery pagination, categories (e.g., birds, wildlife, landscapes, nature), optional multiple categories per photo, featured photos, and control over display order. Add photo search if practical.
+
+2. Cart, payments, and delivery
+
+Customers must be able to add multiple photos to a cart, continue browsing, review/remove items, pay securely, and receive confirmation. Use WooCommerce or a comparable established solution with Stripe, PayPal, or another reputable payment provider.
+
+After payment is confirmed, provide download links on the confirmation page and by email. Deliver the correct file(s) for each order. Do not release downloads before confirmed payment. Use reasonable download protections such as expiring links or download limits, where supported. I must be able to resend a link to a legitimate customer.
+
+A purchase grants a digital copy, not copyright. The same photo must remain for sale after purchase unless I remove it. Include terms of sale and a default personal-use license prohibiting resale, redistribution, and commercial use unless I authorize otherwise. I will review the wording before launch.
+
+3. Original files and performance
+
+Original photographs are about 40 MB each; 200 originals total roughly 8 GB before backups and other versions. Do not load original files in gallery pages or expose master files through public URLs.
+
+Securely retain my originals and generate optimized thumbnails/previews for browsing. Use a high-quality download file in an agreed format and resolution. I must retain originals even when a photo is removed from public sale. Configure appropriate caching, lazy loading, pagination, and reliable backups. Explain storage, bandwidth, and download-delivery costs before work begins, including potential costs as sales grow. Test the catalog with at least 200 photos loaded.
+
+Use a watermark on previews if practical, without making the gallery unattractive.
+
+4. Easy administration
+
+I am not a programmer. Provide a simple dashboard that lets me:
+
+Upload one or multiple photos where practical.
+
+Edit titles/descriptions, prices, and categories.
+
+Publish, feature, hide, remove from sale, replace, and reorder photos.
+
+Search the catalog.
+
+View orders, payment status, and purchased items.
+
+Resend customer download links.
+
+Edit basic website text and contact details.
+
+Removing a photo from sale must not delete my original. Provide simple written instructions or a recorded walkthrough.
+
+5. Contact page
+
+Include a contact form with name, email, subject, and message. Deliver messages to my designated email, show a submission confirmation, and include spam protection.
+
+6. WordPress setup
+
+Use WordPress and supported plugins. Suggested components: WooCommerce, downloadable-product functionality, a gallery/lightbox plugin, image optimization, security, and backup tools. You may propose alternatives if they meet the requirements at lower cost. Identify all themes, plugins, licenses, integrations, and custom code in your quote. Avoid unnecessary subscriptions and proprietary systems that make me dependent on you.
+
+7. Turnkey hosting and launch
+
+You are responsible for hosting setup, WordPress installation, domain connection, HTTPS/SSL, design, galleries, payments, download delivery, security, backups, testing, and launch on my domain. Upload my initial photos after I provide the files, prices, and content. The site must be ready to accept real customer orders.
+
+8. Ownership and no developer lock-in — mandatory
+
+I must own and control the website and essential accounts:
+
+Domain registered in my name or business name.
+
+Hosting account registered in my name or business name.
+
+Full WordPress administrator access.
+
+I control account recovery, billing, and password-reset email.
+
+Payment, storage, and essential service accounts are under my control.
+
+The developer must not retain exclusive access to any essential account.
+
+I can change passwords, manage subscriptions, change developers, and migrate the site without the original developer’s permission.
+
+No undisclosed developer-controlled service or proprietary system may be needed to keep the site operating.
+
+Before final acceptance, provide all account access, a complete backup (database and files), access to original and downloadable photos, a list of themes/plugins/integrations, and restoration/migration instructions. Disclose third-party license restrictions before work starts. Upon final payment, provide the applicable ownership or transferable rights to custom project deliverables, subject to disclosed third-party licenses. No hidden backdoors or undisclosed administrator accounts.
+
+9. Security, privacy, SEO
+
+Configure SSL, reasonable WordPress security, spam protection, software update procedures, automated backups, and restoration instructions. Do not store full credit-card details in WordPress. Include a privacy policy, terms of sale, and download license. Disclose services that process customer data; do not use customer data for the developer’s own purposes or share it with unrelated parties.
+
+Configure basic SEO: editable page titles/descriptions, readable URLs, image alt text, and sitemap where appropriate. Public galleries may be indexed, but original master files should not be unnecessarily exposed or indexed.
+
+10. Costs
+
+Before work begins, list:
+
+One-time development/setup price.
+
+Domain and hosting fees.
+
+Theme/plugin licenses.
+
+Storage, bandwidth, and download-delivery fees.
+
+Backup/security costs.
+
+Payment processing fees.
+
+Optional maintenance fees.
+
+Quote the total upfront cost and estimated annual operating cost. Disclose and obtain my approval for all recurring charges and paid services before adding them. I prefer predictable, affordable costs. The site should remain operational after the project ends as long as applicable fees are paid.
+
+11. Testing and acceptance
+
+Before final acceptance, demonstrate that:
+
+The live site works on desktop and mobile.
+
+At least 200 photos display efficiently.
+
+Clicking photos opens enlarged previews.
+
+Customers can buy multiple photos in one order.
+
+A test payment succeeds and downloads are released only after confirmed payment.
+
+The correct files download in the agreed format/quality.
+
+The same photo remains available for repeat sales.
+
+I can manage photos, prices, categories, and orders without technical help.
+
+Contact messages reach my email.
+
+Backups can be created and migration/restoration instructions are supplied.
+
+All essential accounts are under my control and all agreed deliverables are handed over.
+
+Fix defects that prevent agreed functions from working before final acceptance.
+
+12. Proposal requested
+
+Please provide:
+
+Fixed total price for the complete hosted site.
+
+Estimated annual operating cost.
+
+Recommended host, theme, and plugins.
+
+How originals will be stored and downloads delivered.
+
+How gallery speed and file protection will be handled.
+
+Confirmation that all essential accounts will be under my control and the site can be migrated.
+
+Timeline, milestones, and included post-launch support/correction period.
+
+Examples of WordPress photography stores or digital-download sites you have built.
+
+Identify any requirement you cannot meet and all additional charges before I approve the proposal. Use Fiverr’s applicable order and payment procedures; propose milestones tied to deliverables.
+
+Final requirement
+
+Deliver a fully hosted, tested, operational WordPress photography store ready to accept real customer orders. I retain ownership and copyright of my originals, can sell multiple copies, and can operate the site without programming knowledge. The project is not complete until the live site works, account access is under my control, and all agreed documentation and backups are delivered.</description></item>
 <item><title>Quick Project for WordPress &amp; Elementor Website Creation </title><link>https://www.freelancer.com/projects/wordpress/Quick-Project-for-WordPress-Elementor</link><guid isPermaLink="false">freelancer:40764348</guid><pubDate>Tue, 13 Oct 2026 23:09:16 GMT</pubDate><description>30-250 USD | Budget: $50 USD
 Deadline: October 29, 2026
 Time Zone: Eastern Time (EST/EDT) – Required daily updates during EST time (except Sundays)
@@ -948,44 +1113,6 @@ Deliverables:
 3. Style guide (colors, fonts, button states) so we can keep everything consistent  
 
 I’ll provide logo, brand colors, and copy. You handle layout, imagery suggestions, and any lightweight animations that add polish without slowing things down. If you have examples of similar corporate sites you’ve built, please share them—seeing your past work will help me pick the right partner.</description></item>
-<item><title>Ecosend Email Setup &amp; Automation</title><link>https://www.freelancer.com/projects/email-marketing/Ecosend-Email-Setup-Automation</link><guid isPermaLink="false">freelancer:40763865</guid><pubDate>Mon, 12 Oct 2026 13:47:17 GMT</pubDate><description>20-250 GBP | I’m running a women’s wellness brand that offers a podcast, retreats and a paid membership, and I’m finally ready to get my email house in order inside Ecosend. My current broadcasts work, but the technical foundations and list structure are still missing.
-
-Here’s what I need:
-
-• Sender infrastructure: create a dedicated inbox for the sending address, connect my domain and fully authenticate it in Ecosend (SPF, DKIM, DMARC) so every reply lands in that new inbox.  
-• Contact organisation: build a clear tagging framework driven mainly by Member status, but flexible enough to capture source and interests later. Apply the tags to my existing list.  
-• Segmentation &amp; automation: set up segments that use those tags, add a signup form, and wire a short welcome sequence (I’ll supply the copy).  
-• Handover: supply either a concise written guide or a quick screen-recording that walks me through how to maintain tags, segments and future automations on my own.
-
-My priority is to promote products and services to the right subscribers while staying fully UK-GDPR compliant, and I’m happy to sign an NDA. When you reply, please outline:
-
-– Ecosend (and any other) platforms you’ve configured  
-– One real-world example of a tagging or segmentation model you built  
-– Your fixed-price quote for this project
-
-Looking forward to getting this foundation sorted so my emails can finally perform the way they should.</description></item>
-<item><title>Wix End-Lease Cleaning Site</title><link>https://www.freelancer.com/projects/wix/Wix-End-Lease-Cleaning-Site</link><guid isPermaLink="false">freelancer:40763867</guid><pubDate>Mon, 12 Oct 2026 13:44:14 GMT</pubDate><description>250-750 AUD | I need a Wix specialist who can take my existing logo and colour palette and translate them into a friendly, approachable online presence for our end-of-lease cleaning service. The site has a single, razor-sharp goal: turn visitors into confirmed bookings or solid quote requests.
-
-Core build
-• Wix platform only, using Velo where necessary for custom interactions.  
-• Publicly viewable once approved, with editing rights locked to my team.
-
-Dynamic quote calculator
-I will supply the pricing rules (flat amounts per bedroom, bathroom, storey and property type). Your task is to create a form that accepts those inputs and shows a live price instantly. The calculation must run client-side for speed and write the enquiry to our Wix CRM so we can follow up.
-
-Booking funnel
-After the price is shown, visitors must be able to confirm the booking or send the quote request in a single, streamlined step—preferably through Wix Bookings or a Velo-powered form that writes directly to our calendar.
-
-Look &amp; feel
-Friendly and approachable is the mandate. Use my logo and colours as the visual anchor; everything else should stay clean, modern and conversion driven—clear headings, persuasive call-to-action buttons, and mobile-first layouts are non-negotiable.
-
-Deliverables
-1. Fully functional Wix site, live on my domain.  
-2. Quote calculator with documented pricing logic so I can update figures later.  
-3. Basic analytics and conversion tracking set up via Wix and Google Analytics.  
-4. Handover session (video or written) outlining how to edit text, pricing tables and booking settings.
-
-If you have proven Velo experience and can demonstrate past work with interactive pricing or booking flows, I’d love to see it when you apply.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
