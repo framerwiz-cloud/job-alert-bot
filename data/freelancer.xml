@@ -1100,81 +1100,6 @@ The remaining work breaks down into two areas:
 • Website completion: refine the design to match our brand, squash the lingering layout and responsiveness bugs, and refresh a handful of text/image sections so everything looks polished and consistent.
 
 I’ll give you direct access to the Toast admin, current site repo, style guide, and a short punch-list of visual tweaks. Success means the menu renders perfectly on both desktop and mobile, checkout flows without errors, and the site is stable enough to flip the “Go Live” switch. If you’ve launched other Toast-powered sites and can start right away, let’s talk today.</description></item>
-<item><title>Engaging Adventure Campaign Website Design</title><link>https://www.freelancer.com/projects/web-design/Engaging-Adventure-Campaign-Website</link><guid isPermaLink="false">freelancer:40764653</guid><pubDate>Tue, 13 Oct 2026 02:20:21 GMT</pubDate><description>250-750 AUD | Create a quality, engaging website design for my project, inviting people to apply for a paid adventure showcasing work and life in regional Australia.
-
-The website will be the central destination for campaign information, paid entries, applicant video uploads and social media content. It should be easy to use on a mobile phone and simple for the campaign team to manage.
-
-
-Core website content:
-
-A compact but stylish website with the following pages or sections - 
-
-Home: strong campaign imagery or video, a short explanation and a prominent “Enter Now” button.
-
-How it works: the opportunity, entry requirements, selection process, key dates and frequently asked questions.
-
-Enter: application form, video upload and secure payment.
-
-Follow the adventure: campaign videos, social media highlights and updates.
-
-Partners: approved sponsor logos, links and a partnership enquiry option.
-
-Contact and policies: contact details, entry terms, privacy policy and refund policy.
-Entry and payment process
-
-Applicants must be able to complete the process on their phone.
-
-Enter their name, age, email, country of residence, relevant eligibility details and optional social media handles.
-
-Upload a short application video.
-
-Accept the entry terms and provide consent for the proposed use of their video. 
-
-Marketing subscription should be a separate, optional choice.
-
-Pay the entry fee through a secure hosted checkout.
-
-Receive an on-screen confirmation and email receipt with a unique entry reference.
-
-The entry fee and currency must be clearly displayed before payment and editable by the campaign administrator. Support international applicants and payment cards.
-
-Each payment must be linked to the correct application and video. An entry is complete only when both the video upload and payment are confirmed. Applicants must be able to retry an interrupted upload or payment without being charged twice.
-
-Video uploads:
-Allow direct uploads from a phone or computer.
-
-Support common phone video formats, including MP4 and MOV.
-
-*Designs need to be provided for both website and phone/tablet.
-
-Clearly show the permitted video length and file size before uploading.
-
-Display upload progress, successful completion and clear error messages.
-Store videos securely, with access restricted to authorised campaign staff.
-
-Allow administrators to watch, review and shortlist submissions.
-
-Publish applicant videos only after approval and with the required consent.
-
-Social media integration:
-Include prominent links to the campaign’s Instagram, TikTok, Facebook and YouTube accounts, plus sharing buttons and the campaign hashtag.
-Allow the team to feature selected social posts and videos using supported embeds, with linked thumbnails as a fallback. Updating featured content should be straightforward. Social content should load without slowing down the entry process.
-
-Administration:
-Provide a password-protected dashboard where the campaign team can:
--View and search entries, videos and payment status.
--Mark applications as reviewed or shortlisted.
--Export applicant information and payment references.
--Update copy, dates, FAQs, sponsor logos and featured content.
-
-Open and close entries.
-Manage retention and deletion of applicant information.
-Design and delivery
-The visual style should be bold, welcoming and distinctly Australian, reflecting regional work, travel and adventure. Use existing 88 Days and Rockt branding.
-The site must be accessible, fast on mobile connections and able to accommodate traffic spikes from media coverage. Include basic analytics for visits, entry starts, completed entries and referrals from social campaigns.
-
-Developer proposal
-Please provide a fixed-price quote, delivery schedule and handover training. Itemise ongoing hosting, video storage, payment processing, maintenance and any social media integration costs. Explain how costs will change as entries and video views increase.</description></item>
 <item><title>Eco Laundry Site Revamp &amp; Ads</title><link>https://www.freelancer.com/projects/web-development/Eco-Laundry-Site-Revamp-Ads</link><guid isPermaLink="false">freelancer:40764394</guid><pubDate>Mon, 12 Oct 2026 20:59:52 GMT</pubDate><description>15-25 USD/hr | Blue Sky Eco Laundry needs the contact-and-ordering section of our website completely refreshed. The goal is to give customers a smooth, attractive multi-step checkout that lets them schedule pickups, choose wash-and-fold options, review pricing, and pay securely—then funnels the order straight into our backend for effortless processing.  
 
 Here’s what has to happen:  
@@ -1360,6 +1285,22 @@ Ideal Skills and Experience:
 - Strong UI/UX design skills
 
 Looking forward to your bids!</description></item>
+<item><title>Ecosend Email Setup &amp; Automation</title><link>https://www.freelancer.com/projects/email-marketing/Ecosend-Email-Setup-Automation</link><guid isPermaLink="false">freelancer:40763865</guid><pubDate>Mon, 12 Oct 2026 13:47:17 GMT</pubDate><description>20-250 GBP | I’m running a women’s wellness brand that offers a podcast, retreats and a paid membership, and I’m finally ready to get my email house in order inside Ecosend. My current broadcasts work, but the technical foundations and list structure are still missing.
+
+Here’s what I need:
+
+• Sender infrastructure: create a dedicated inbox for the sending address, connect my domain and fully authenticate it in Ecosend (SPF, DKIM, DMARC) so every reply lands in that new inbox.  
+• Contact organisation: build a clear tagging framework driven mainly by Member status, but flexible enough to capture source and interests later. Apply the tags to my existing list.  
+• Segmentation &amp; automation: set up segments that use those tags, add a signup form, and wire a short welcome sequence (I’ll supply the copy).  
+• Handover: supply either a concise written guide or a quick screen-recording that walks me through how to maintain tags, segments and future automations on my own.
+
+My priority is to promote products and services to the right subscribers while staying fully UK-GDPR compliant, and I’m happy to sign an NDA. When you reply, please outline:
+
+– Ecosend (and any other) platforms you’ve configured  
+– One real-world example of a tagging or segmentation model you built  
+– Your fixed-price quote for this project
+
+Looking forward to getting this foundation sorted so my emails can finally perform the way they should.</description></item>
 <item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
 
 Every page must highlight two core elements:
