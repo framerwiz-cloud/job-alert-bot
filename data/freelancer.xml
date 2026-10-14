@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Create Online Beauty Consultation Platform</title><link>https://www.freelancer.com/projects/web-development/Create-Online-Beauty-Consultation</link><guid isPermaLink="false">freelancer:40767891</guid><pubDate>Wed, 14 Oct 2026 15:36:07 GMT</pubDate><description>20-250 GBP | **Title: Build a Simple, Modern Beauty Consultation Website**
+
+I’m looking for a freelancer to build a simple, modern, responsive website for **Deepcenter**, an online beauty consultation platform. I already have the logo and want to use it as the foundation for the website’s design.
+
+**Requirements:**
+- Modern, clean design using the Deepcenter logo and brand colours.
+- Responsive layout for desktop, tablet, and mobile.
+- Homepage with a hero section, beauty consultation services, about section, and contact information.
+- Clear call-to-action buttons for booking a consultation.
+- Basic navigation and footer.
+- Fast performance, SEO-friendly structure, and clean code.
+
+**Preferred technology stack:**
+Use modern technologies such as Next.js, TypeScript, Tailwind CSS, and TanStack Query where appropriate. I’m open to your recommendations for a simple, maintainable solution.
+
+The goal is to create a polished first version without unnecessary complexity. Please share relevant examples, your proposed approach, estimated timeline, and fixed price.</description></item>
 <item><title>Eco-Friendly Hotel Redesign</title><link>https://www.freelancer.com/projects/web-design/Eco-Friendly-Hotel-Redesign</link><guid isPermaLink="false">freelancer:40767797</guid><pubDate>Wed, 14 Oct 2026 14:41:00 GMT</pubDate><description>3000-5000 USD | I'm looking for a skilled designer to create a rustic, eco-friendly website for my boutique hotel. The site should include under 20 pages, focusing on the following areas:
 
 - Guest Rooms
@@ -1100,81 +1116,6 @@ The remaining work breaks down into two areas:
 • Website completion: refine the design to match our brand, squash the lingering layout and responsiveness bugs, and refresh a handful of text/image sections so everything looks polished and consistent.
 
 I’ll give you direct access to the Toast admin, current site repo, style guide, and a short punch-list of visual tweaks. Success means the menu renders perfectly on both desktop and mobile, checkout flows without errors, and the site is stable enough to flip the “Go Live” switch. If you’ve launched other Toast-powered sites and can start right away, let’s talk today.</description></item>
-<item><title>Engaging Adventure Campaign Website Design</title><link>https://www.freelancer.com/projects/web-design/Engaging-Adventure-Campaign-Website</link><guid isPermaLink="false">freelancer:40764653</guid><pubDate>Tue, 13 Oct 2026 02:20:21 GMT</pubDate><description>250-750 AUD | Create a quality, engaging website design for my project, inviting people to apply for a paid adventure showcasing work and life in regional Australia.
-
-The website will be the central destination for campaign information, paid entries, applicant video uploads and social media content. It should be easy to use on a mobile phone and simple for the campaign team to manage.
-
-
-Core website content:
-
-A compact but stylish website with the following pages or sections - 
-
-Home: strong campaign imagery or video, a short explanation and a prominent “Enter Now” button.
-
-How it works: the opportunity, entry requirements, selection process, key dates and frequently asked questions.
-
-Enter: application form, video upload and secure payment.
-
-Follow the adventure: campaign videos, social media highlights and updates.
-
-Partners: approved sponsor logos, links and a partnership enquiry option.
-
-Contact and policies: contact details, entry terms, privacy policy and refund policy.
-Entry and payment process
-
-Applicants must be able to complete the process on their phone.
-
-Enter their name, age, email, country of residence, relevant eligibility details and optional social media handles.
-
-Upload a short application video.
-
-Accept the entry terms and provide consent for the proposed use of their video. 
-
-Marketing subscription should be a separate, optional choice.
-
-Pay the entry fee through a secure hosted checkout.
-
-Receive an on-screen confirmation and email receipt with a unique entry reference.
-
-The entry fee and currency must be clearly displayed before payment and editable by the campaign administrator. Support international applicants and payment cards.
-
-Each payment must be linked to the correct application and video. An entry is complete only when both the video upload and payment are confirmed. Applicants must be able to retry an interrupted upload or payment without being charged twice.
-
-Video uploads:
-Allow direct uploads from a phone or computer.
-
-Support common phone video formats, including MP4 and MOV.
-
-*Designs need to be provided for both website and phone/tablet.
-
-Clearly show the permitted video length and file size before uploading.
-
-Display upload progress, successful completion and clear error messages.
-Store videos securely, with access restricted to authorised campaign staff.
-
-Allow administrators to watch, review and shortlist submissions.
-
-Publish applicant videos only after approval and with the required consent.
-
-Social media integration:
-Include prominent links to the campaign’s Instagram, TikTok, Facebook and YouTube accounts, plus sharing buttons and the campaign hashtag.
-Allow the team to feature selected social posts and videos using supported embeds, with linked thumbnails as a fallback. Updating featured content should be straightforward. Social content should load without slowing down the entry process.
-
-Administration:
-Provide a password-protected dashboard where the campaign team can:
--View and search entries, videos and payment status.
--Mark applications as reviewed or shortlisted.
--Export applicant information and payment references.
--Update copy, dates, FAQs, sponsor logos and featured content.
-
-Open and close entries.
-Manage retention and deletion of applicant information.
-Design and delivery
-The visual style should be bold, welcoming and distinctly Australian, reflecting regional work, travel and adventure. Use existing 88 Days and Rockt branding.
-The site must be accessible, fast on mobile connections and able to accommodate traffic spikes from media coverage. Include basic analytics for visits, entry starts, completed entries and referrals from social campaigns.
-
-Developer proposal
-Please provide a fixed-price quote, delivery schedule and handover training. Itemise ongoing hosting, video storage, payment processing, maintenance and any social media integration costs. Explain how costs will change as entries and video views increase.</description></item>
 <item><title>Eco Laundry Site Revamp &amp; Ads</title><link>https://www.freelancer.com/projects/web-development/Eco-Laundry-Site-Revamp-Ads</link><guid isPermaLink="false">freelancer:40764394</guid><pubDate>Mon, 12 Oct 2026 20:59:52 GMT</pubDate><description>15-25 USD/hr | Blue Sky Eco Laundry needs the contact-and-ordering section of our website completely refreshed. The goal is to give customers a smooth, attractive multi-step checkout that lets them schedule pickups, choose wash-and-fold options, review pricing, and pay securely—then funnels the order straight into our backend for effortless processing.  
 
 Here’s what has to happen:  
