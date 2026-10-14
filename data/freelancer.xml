@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Recruitment Company Website with CV Database &amp; Admin Dashboard</title><link>https://www.freelancer.com/projects/web-design/Corporate-Website-with-Services-Section</link><guid isPermaLink="false">freelancer:40763899</guid><pubDate>Wed, 14 Oct 2026 10:42:32 GMT</pubDate><description>30-250 USD | I need a professional recruitment company website inspired by https://alyatrec.sa, with a similar layout, navigation, and functionality, but using our own branding and content.
+
+Main Requirements:
+Website Design: Modern, responsive, fast-loading, SEO-friendly, with Arabic and English support (RTL/LTR).
+Main Pages: Home, About Us, Services, Recruitment Countries, Offers, Available Workers (CVs), FAQ, and Contact Us.
+CV Database: Add and manage worker profiles, including nationality, profession, age, religion, experience, salary, availability status, photos, and PDF CVs.
+Advanced Search: Filter workers by nationality, profession, age, experience, salary, and availability.
+Admin Dashboard: Easily add, edit, delete, and import/export CVs via Excel/CSV, manage website content, and update worker availability.
+Contact Features: WhatsApp integration and inquiry forms.
+Technology: WordPress preferred, with suitable plugins and no coding required for daily updates.
+Deliverables:
+Fully functional website deployed on my hosting.
+Complete admin access and ownership of website files and database.
+Mobile and desktop testing.
+Basic security, backups, and SEO setup.
+30 days of post-delivery bug fixes.
+I will provide the logo, branding, and content. No testimonials or case studies are required.
+Please provide your fixed price, delivery timeline, recommended plugins, any recurring costs, and examples of similar websites you have developed.
+The project must include all listed features, not just a visual copy of the reference website.</description></item>
 <item><title>Shopify Store Setup and Management</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-Management</link><guid isPermaLink="false">freelancer:40767337</guid><pubDate>Wed, 14 Oct 2026 09:22:52 GMT</pubDate><description>250-750 AUD | I'm looking for an experienced Shopify expert to set up and manage my store. I'm selling physical products and have a specific theme in mind.
 
 Key Requirements:
@@ -1102,22 +1121,6 @@ Acceptance criteria
 • Staging link provided for review before final hand-off.
 
 Once the design and structure are locked, I’ll take it from there. Share your approach and timeline so we can get this ship launched. I will set up my domain on Shopify as well. Thanks for the help!</description></item>
-<item><title>Finish WooCommerce Store Today</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Finish-WooCommerce-Store-Today</link><guid isPermaLink="false">freelancer:40764550</guid><pubDate>Tue, 13 Oct 2026 00:15:54 GMT</pubDate><description>30-250 USD | My WooCommerce store is roughly 80 % complete and I need it fully operational within the next 24 hours. The site already has the theme, core pages, and most styling in place; what’s left are three critical pieces that must work flawlessly before we go live:  
-
-• Payment gateway integration – connect and test a single gateway (Stripe preferred, PayPal acceptable) so payments flow through to the order-received page and confirm in the WooCommerce dashboard.  
-• Product listing – upload the remaining products (about 20 SKUs), assign images, prices, variations, and be sure categories filter correctly.  
-• Checkout process – verify cart, coupons, shipping, taxes, and guest/customer checkout all complete without errors on both desktop and mobile.  
-
-I’ll give you WordPress admin, FTP, and gateway credentials immediately. The finished site should let me place a live test order from start to finish without glitches, show orders in the back-end, and send the customer and admin emails that WooCommerce normally fires.  
-
-Acceptance criteria  
-1. Payment gateway shows “Success” on a live test transaction.  
-2. All products display with correct pricing, stock status, and thumbnails.  
-3. Cart → Checkout → Thank-you page flow works on Chrome, Safari, and mobile.  
-4. No console errors or PHP warnings in debug mode.  
-5. Delivery is completed within the agreed 24-hour window.  
-
-If you’re comfortable jumping straight into a WordPress/WooCommerce stack and wrapping up these last pieces today, let’s get started.</description></item>
 <item><title>Eco Laundry Site Revamp &amp; Ads</title><link>https://www.freelancer.com/projects/web-development/Eco-Laundry-Site-Revamp-Ads</link><guid isPermaLink="false">freelancer:40764394</guid><pubDate>Mon, 12 Oct 2026 20:59:52 GMT</pubDate><description>15-25 USD/hr | Blue Sky Eco Laundry needs the contact-and-ordering section of our website completely refreshed. The goal is to give customers a smooth, attractive multi-step checkout that lets them schedule pickups, choose wash-and-fold options, review pricing, and pay securely—then funnels the order straight into our backend for effortless processing.  
 
 Here’s what has to happen:  
