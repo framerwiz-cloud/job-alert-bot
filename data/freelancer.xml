@@ -368,22 +368,6 @@ How to Apply, Please submit:
 5. A short introduction on your experience working with real estate agents
 6. Portfolio examples of any automation, real estate, marketing work, administrative support, website work you have done
 7. Your expected monthly pay for full time 8 hours a day / 5 days a week role</description></item>
-<item><title>Integrate Sunsky API WooCommerce</title><link>https://www.freelancer.com/projects/api-integration/Integrate-Sunsky-API-WooCommerce</link><guid isPermaLink="false">freelancer:40768620</guid><pubDate>Thu, 15 Oct 2026 01:40:41 GMT</pubDate><description>30-250 CAD | I need my WooCommerce site to talk seamlessly with Sunsky’s dropshipping API. The goal is to automate the entire flow—importing products, syncing stock and prices, sending orders to Sunsky, then pulling back tracking numbers so customers see live status updates in their account.
-
-Here’s what the job entails:  
-• Establish secure authentication with Sunsky’s dropshipping endpoints.  
-• Build an interface (or lightweight plugin) that lets me choose which Sunsky SKUs to import, mapping categories, attributes and images automatically.  
-• Schedule inventory and price checks so any change at Sunsky is reflected on my store without manual effort.  
-• Push new WooCommerce orders to Sunsky in real time, including shipping method and customer details.  
-• Retrieve shipping confirmations and tracking IDs, updating WooCommerce order statuses accordingly.  
-
-Acceptance criteria  
-1. A selected Sunsky product imports correctly into WooCommerce with full data and media.  
-2. Stock levels stay accurate within a 15-minute window.  
-3. A test purchase appears in my Sunsky dashboard and, once marked shipped there, updates to “Completed” in WooCommerce with the correct tracking link.  
-4. All code is delivered as a standalone, well-documented WooCommerce extension that survives core/plugin updates.
-
-You’ll have WordPress admin credentials, plus quick feedback whenever needed. If you’re comfortable with PHP, WordPress REST, and WooCommerce hooks, let’s get this integration live.</description></item>
 <item><title>WordPress Development &amp; SEO Expert Needed- 5</title><link>https://www.freelancer.com/projects/seo/WordPress-Development-SEO-Expert-Needed-40768443</link><guid isPermaLink="false">freelancer:40768443</guid><pubDate>Wed, 14 Oct 2026 23:06:01 GMT</pubDate><description>250-750 USD | SEO &amp; WEBSITE DEVELOPER (WordPress) — Remote, Monthly Pay
 
 About Us
@@ -1030,6 +1014,108 @@ Identify any requirement you cannot meet and all additional charges before I app
 Final requirement
 
 Deliver a fully hosted, tested, operational WordPress photography store ready to accept real customer orders. I retain ownership and copyright of my originals, can sell multiple copies, and can operate the site without programming knowledge. The project is not complete until the live site works, account access is under my control, and all agreed documentation and backups are delivered.</description></item>
+<item><title>Quick Project for WordPress &amp; Elementor Website Creation </title><link>https://www.freelancer.com/projects/wordpress/Quick-Project-for-WordPress-Elementor</link><guid isPermaLink="false">freelancer:40764348</guid><pubDate>Tue, 13 Oct 2026 23:09:16 GMT</pubDate><description>30-250 USD | Budget: $50 USD
+Deadline: October 29, 2026
+Time Zone: Eastern Time (EST/EDT) – Required daily updates during EST time (except Sundays)
+
+I am looking for a freelancer experienced in WordPress and Elementor to build a four-page + contact page’s website, following the content, structure, layout direction, and design guidelines provided by us for each page. These are not existing pages to be edited or redesigned. 
+
+The final result must be a professional, fully functional, responsive website with a premium, modern, editorial-style design and a fully configured automatic translation system.
+
+1. Website Development
+•	Build the website directly in WordPress using Elementor in our hosting.
+•	Create the website structure and navigation.
+•	Design and build the pages using the provided content and guidelines.
+•	Maintain a consistent visual identity across all pages.
+•	Follow the specified typography, colors, spacing, imagery, layout, and visual hierarchy.
+•	Create a professional menu according to the requirements, pages, contact page and footer.
+•	Optimize the website for a premium, modern, editorial look.
+•	Ensure responsive layouts for desktop, laptop, tablet, and mobile.
+•	Deliver functional pages, not mockups or screenshots.
+
+The supplied documents must be treated as the creative and structural blueprint for the website. They explain what content belongs on each page and how it should be presented.
+
+2. WordPress Administrator Access Required. The site must have my own WordPress Administrator login with full administrative permissions.
+•	Create or configure my individual Administrator account.
+•	Confirm that I can log in independently and access the WordPress dashboard.
+•	Ensure I can update page content, text, images, headings, links, and other website elements whenever necessary.
+•	Ensure I can edit the website through Elementor without depending on the freelancer for routine updates.
+•	Keep the website and its content on my hosting account.
+•	Provide the necessary login and access instructions before final delivery.
+This requirement is mandatory. The project will not be considered complete if I cannot independently access and manage my own website.
+
+3. Automatic Translation Plugin Full Configuration Required.
+
+The website must include a properly configured WordPress translation plugin that supports Spanish and Portuguese, with the ability to add more languages in the future. The selected plugin must be configured according to the instructions provided, including the following setting:
+“Translate Everything Automatically.” - The requirement is not simply to install or activate the plugin. The freelancer must complete the configuration and test the actual translation workflow.
+
+Required functionality
+•	Configure automatic translation for the entire website.
+•	Support English, Spanish, and Portuguese.
+•	Allow additional languages to be added in the future, subject to the selected plugin's capabilities and licensing.
+•	Display a language selector that visitors can easily find and use.
+•	Automatically display the selected language version of the complete page, including available page content and relevant website elements.
+•	Ensure that visitors do not need to translate individual pages manually.
+•	Ensure newly created or updated content can be processed through the automatic translation workflow according to the plugin's configuration.
+•	Allow me to make occasional manual corrections to translations when necessary.
+•	Test the language selector and translated pages on desktop and mobile.
+
+The visitor must be able to select a preferred language and view the corresponding translated page without requiring the freelancer to translate every page manually. Use the translation plugin selected or approved previously discuss for this project. If it has not yet been finalized, confirm the plugin and its compatibility before proceeding. Acceptance requirement: Demonstrate that the automatic translation setting is enabled and that the complete translation workflow works for the available languages. Installing the plugin alone does not satisfy this requirement.
+
+4. Responsive Design &amp; Quality Assurance,  need to test all the pages on:
+•	Desktop and laptop.
+•	Tablet.
+•	Mobile.
+And Verify:
+•	Navigation and links.
+•	Language selector and translated page display.
+•	Layout, typography, spacing, and image presentation.
+•	Contact page and available contact functionality.
+•	Footer and responsive behavior.
+•	Elementor editing and WordPress Administrator access.
+
+Correct any issues identified during testing that fall within the agreed scope.
+
+5. Work Process &amp; Communication
+•	Work directly within my WordPress hosting environment and Elementor.
+•	Work according to Eastern Time.
+•	Provide progress updates during the project.
+•	Communicate access requirements, blockers, or proposed changes promptly.
+•	Obtain approval before changing the supplied content direction, design requirements, or selected translation plugin.
+•	Do not consider the project complete until the website and translation system have been tested.
+
+6. Final Deliverables. Before requesting final approval, the freelancer must provide:
+1.	Four completed and functional WordPress/Elementor pages.
+2.	Professional navigation, contact page, and footer.
+3.	Responsive layouts tested on desktop, tablet, and mobile.
+4.	My own working WordPress Administrator account.
+5.	A fully configured automatic translation plugin.
+6.	Spanish and Portuguese translation functionality, with future language additions supported by the selected plugin.
+7.	The required “Translate Everything Automatically” configuration enabled.
+8.	Successful tests of the language selector and translated pages.
+9.	Confirmation that I can independently edit pages, images, and content.
+10.	A brief handover explaining how to log in, edit pages, and manage the translation system.
+7. Completion, Review, Acceptance &amp; Payment Terms
+
+Each page will be reviewed individually once the freelancer has completed and submitted it for review.
+•	The freelancer must notify me when each page is ready for review.
+•	I will review the completed page and provide feedback or request corrections where necessary.
+•	The freelancer must address the agreed corrections before the page is considered approved.
+•	Approval of an individual page does not constitute final project acceptance or authorize a partial payment.
+•	All the pages must be completed, reviewed, corrected where necessary, and approved before the project can be considered finished.
+
+Final Acceptance Requirements: The project will be considered complete only when:
+•	All the pages are functional and approved.
+•	Responsive checks have been performed on desktop, laptop, tablet, and mobile.
+•	An individual WordPress Administrator login is working and provides the required access, which has to located in a strategic location of the website.
+•	The automatic translation plugin is fully configured, tested and properly funtional.
+•	The “Translate Everything Automatically” setting is enabled as required.
+•	Spanish and Portuguese translation functionality has been tested, and future language additions are supported by the selected plugin.
+•	All agreed corrections have been completed, and all required deliverables have been provided.
+
+No partial payments or milestone payments will be made. A full payment will be released only after all the pages have been completed, individually reviewed, corrected where necessary, and approved, and all other agreed project requirements have been fulfilled. Note: Submitting or obtaining approval for an individual page does not entitle the freelancer to partial payment.
+
+The project must be fully completed and approved before final payment is authorized, subject to the applicable platform rules and payment terms.</description></item>
 <item><title>UI/UX Design for B2B Mobile Auction Site</title><link>https://www.freelancer.com/projects/ui-design/Design-for-Mobile-Auction-Site</link><guid isPermaLink="false">freelancer:40766342</guid><pubDate>Tue, 13 Oct 2026 21:17:39 GMT</pubDate><description>15-25 USD/hr | We are looking for an experienced UI/UX designer to design a professional B2B mobile phone auction website.
 
 The platform will allow registered wholesale customers to browse carrier auction inventory, filter devices, place bids, view auction results, and manage their orders.
