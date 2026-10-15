@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>US-Based E-Commerce Web Designer Needed</title><link>https://www.freelancer.com/projects/web-design/Based-Commerce-Web-Designer-Needed</link><guid isPermaLink="false">freelancer:40769783</guid><pubDate>Thu, 15 Oct 2026 16:00:41 GMT</pubDate><description>750-1500 USD | I need a U.S.–based or Latam web designer to craft the complete visual experience for a new e-commerce site. The project centers on translating my brand’s personality into an intuitive, conversion-focused interface that feels trustworthy from the first click through checkout.
+
+Here’s what I expect:  
+• A modern, responsive design system covering desktop and mobile breakpoints  
+• High-fidelity page mock-ups for the home page, product catalog, individual product pages, and the full purchase flow  
+• Style guidelines (colors, typography, iconography) so future content stays consistent  
+• Source files delivered in Figma or Adobe XD, along with web-ready assets (SVG, optimized images, etc.)
+
+Acceptance criteria: every screen must load cleanly on the latest versions of Chrome, Safari, and Edge; elements must align with WCAG accessibility basics; and the design hand-off should let a developer build pixel-perfect pages without additional tweaks.
+
+Please share a portfolio link that highlights at least two e-commerce projects you’ve designed for U.S. audiences and note your typical turnaround time for the first round of concepts.</description></item>
 <item><title>Port AI-Generated HTML Web Page to WordPress Elementor with SEO &amp; Documentation</title><link>https://www.freelancer.com/projects/elementor/Port-Generated-HTML-Web-Page</link><guid isPermaLink="false">freelancer:40769708</guid><pubDate>Thu, 15 Oct 2026 15:07:49 GMT</pubDate><description>30-250 CAD | I need a skilled freelancer to port my AI-generated HTML web page to WordPress using Elementor. The Golf Industry site must match the original design and be fully mobile responsive. The freelancer will need to extract all content and assets from the current live site. Tasks include:  
 - Complete setup of the page on my hosting  
 - Replicating layout and functionality in Elementor  
@@ -1111,29 +1122,6 @@ Please provide examples of previous B2B marketplace, auction, inventory manageme
 Include your fixed-price quote, estimated delivery timeline, and number of revisions for Phase 1.
 
 We prefer a designer who can continue through all phases after successful completion of the initial project.</description></item>
-<item><title>Interactive Flooring Quote Tool</title><link>https://www.freelancer.com/projects/web-development/Interactive-Flooring-Quote-Tool</link><guid isPermaLink="false">freelancer:40766285</guid><pubDate>Tue, 13 Oct 2026 20:40:32 GMT</pubDate><description>250-750 CAD | On plancherflottantfor.ca I want every flooring product page to offer a seamless “select-and-quote” experience inspired by the flow on https://plancher2000.ca/pages/soumission. Visitors should be able to tick a checkbox beside any flooring product, choose up to three items, and instantly see those selections gathered in a floating panel or dedicated section of the page.
-
-Inside that panel the following must happen automatically:  
-• Thumbnail images of each chosen product display in the order selected.  
-• A calculator asks the visitor for the room’s square footage (or length × width) and returns:  
-  – number of boxes required (using each product’s sq ft / box)  
-  – estimated waste in square feet (a simple configurable % add-on)  
-• The same area turns into a quote request form, pre-populating the product names, SKUs and calculated quantities. It also collects the user’s contact details (name, phone, email) plus an open “Additional notes” field for any special instructions.
-
-Key requirements  
-1. Checkbox selection only; no drag-drop or cart workflow.  
-2. Hard limit of three concurrent products.  
-3. Seamless styling with our current theme so the panel feels native on desktop and mobile.  
-4. Data from the form must arrive in my inbox and be stored in the site’s back-office for future follow-up.  
-5. Clear validation and success feedback to the user.
-
-Deliverables  
-• Front-end component (HTML / CSS / JS) for the product pages.  
-• Calculator logic tied to each product’s “sq ft per box” attribute.  
-• Back-end hookup for email + database entry.  
-• Step-by-step installation notes so I can replicate it on new products later.
-
-I’ll supply any product data you need; you deliver a self-contained, bug-free module that brings this interactive quote tool to life.</description></item>
 <item><title>Build My WooCommerce Storefront</title><link>https://www.freelancer.com/projects/woocommerce/Build-WooCommerce-Storefront-40765586</link><guid isPermaLink="false">freelancer:40765586</guid><pubDate>Tue, 13 Oct 2026 12:53:16 GMT</pubDate><description>15-25 USD/hr | I’m ready to turn my idea into a fully-functioning e-commerce shop and need a WooCommerce pro who can handle both design flair and solid technical setup. The end goal is a polished storefront that looks great on any device and runs smoothly behind the scenes.
 
 Here’s what I have in mind: a clean, conversion-focused design built directly in WordPress + WooCommerce, complete with payment gateway integration, a customer product-review section, and inventory management that keeps stock levels accurate without extra manual work. I’d like the theme customised to match my branding, pages laid out for easy navigation, and checkout streamlined so shoppers can move from cart to confirmation in as few clicks as possible.
