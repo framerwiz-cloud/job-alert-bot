@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Integrate Sunsky API WooCommerce</title><link>https://www.freelancer.com/projects/api-integration/Integrate-Sunsky-API-WooCommerce</link><guid isPermaLink="false">freelancer:40768620</guid><pubDate>Thu, 15 Oct 2026 01:40:41 GMT</pubDate><description>30-250 CAD | I need my WooCommerce site to talk seamlessly with Sunsky’s dropshipping API. The goal is to automate the entire flow—importing products, syncing stock and prices, sending orders to Sunsky, then pulling back tracking numbers so customers see live status updates in their account.
+
+Here’s what the job entails:  
+• Establish secure authentication with Sunsky’s dropshipping endpoints.  
+• Build an interface (or lightweight plugin) that lets me choose which Sunsky SKUs to import, mapping categories, attributes and images automatically.  
+• Schedule inventory and price checks so any change at Sunsky is reflected on my store without manual effort.  
+• Push new WooCommerce orders to Sunsky in real time, including shipping method and customer details.  
+• Retrieve shipping confirmations and tracking IDs, updating WooCommerce order statuses accordingly.  
+
+Acceptance criteria  
+1. A selected Sunsky product imports correctly into WooCommerce with full data and media.  
+2. Stock levels stay accurate within a 15-minute window.  
+3. A test purchase appears in my Sunsky dashboard and, once marked shipped there, updates to “Completed” in WooCommerce with the correct tracking link.  
+4. All code is delivered as a standalone, well-documented WooCommerce extension that survives core/plugin updates.
+
+You’ll have WordPress admin credentials, plus quick feedback whenever needed. If you’re comfortable with PHP, WordPress REST, and WooCommerce hooks, let’s get this integration live.</description></item>
 <item><title>WordPress Development &amp; SEO Expert Needed- 5</title><link>https://www.freelancer.com/projects/seo/WordPress-Development-SEO-Expert-Needed-40768443</link><guid isPermaLink="false">freelancer:40768443</guid><pubDate>Wed, 14 Oct 2026 23:06:01 GMT</pubDate><description>250-750 USD | SEO &amp; WEBSITE DEVELOPER (WordPress) — Remote, Monthly Pay
 
 About Us
@@ -1161,24 +1177,6 @@ Target: live and QA'd by end of November.
 Most Important: Ideal candidate is who worked on Osavi or Saltt. If you are worked at those companies, I will hire you immediately.
 
 Please send a fixed price, a timeline, and an optional monthly maintenance retainer.</description></item>
-<item><title>Classic Shopify Store Design</title><link>https://www.freelancer.com/projects/shopify-site/Classic-Shopify-Store-Design-40765274</link><guid isPermaLink="false">freelancer:40765274</guid><pubDate>Tue, 13 Oct 2026 09:29:02 GMT</pubDate><description>250-750 AUD | I run a camcorder-rental business that is expanding into direct sales of gear and companion digital downloads such as LUT packs and training files. I’m looking for a Shopify specialist who can translate that mix into a classic, elegant storefront that evokes trust and professionalism while staying easy to navigate on any device.
-
-The site’s primary job is twofold: first, to showcase and schedule rentals of my physical cameras and accessories; second, to let customers instantly purchase both physical add-ons and digital products from the same cart. I’d like the design to feel timeless—think clean typography, balanced white space, and refined product photography—without losing any of Shopify’s modern conveniences.
-
-Key deliverables  
-• A custom, responsive Shopify theme styled in a classic, elegant aesthetic  
-• Rental workflow configured (calendar/booking app, deposit handling, blackout dates, automated reminders)  
-• Standard e-commerce flow for physical products plus digital-download fulfillment (instant file delivery)  
-• Home, collection, product, about, FAQ and contact pages fully built and populated with sample content I’ll supply  
-• Payment, tax and shipping rules set up, with test transactions confirming everything works end-to-end  
-• Basic SEO settings, speed optimization and a short hand-over guide so I can add new products myself
-
-Acceptance criteria  
-– Pages load in under 3 seconds on mobile according to Shopify’s analyzer  
-– Test rental, physical and digital orders each complete without errors  
-– Visual style matches the classic/elegant reference sites I’ll share at kickoff
-
-All assets (logo, images, copy) will be provided once we start; I simply need your design and Shopify expertise to bring the storefront to life.</description></item>
 <item><title>Full Stack Web Developer / Figma Sites Expert - Consumer Brand Website + more potential projects</title><link>https://www.freelancer.com/projects/backend-development/Full-Stack-Web-Developer-Figma</link><guid isPermaLink="false">freelancer:40765094</guid><pubDate>Tue, 13 Oct 2026 07:42:44 GMT</pubDate><description>8-15 USD/hr | Our client needs a fast &amp; responsive website that serves as an information hub for a consumer brand. At its core will be a regularly-updated blog, supported by a prominent contact form and a section for client testimonials to reinforce credibility. The look and feel should be modern, fast-loading and equally comfortable on mobile and desktop.
 
 We have a designer/motion artist on staff who will create the UI/UX + all design materials needed.
