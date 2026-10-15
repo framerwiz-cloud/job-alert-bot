@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist One-Page Company Website</title><link>https://www.freelancer.com/projects/web-design/Minimalist-One-Page-Company-Website</link><guid isPermaLink="false">freelancer:40769961</guid><pubDate>Thu, 15 Oct 2026 18:03:18 GMT</pubDate><description>20-250 GBP | I’m looking to launch a clean, single-page site that presents my packaging company at a glance. The sole purpose is to provide clear company information, so I want the layout ultra-minimal, quick to load and easy to navigate.
+
+Content flow  
+1. About Us – a concise snapshot of our story and values.  
+2. Products &amp; Services – short descriptions supported by product photos I’ll supply.  
+3. Contact Information – a simple form that sends enquiries straight to my email, plus our address and phone number.
+
+Design &amp; build notes  
+• White space, muted brand colours and modern typography are key.  
+• Fully responsive on desktop, tablet and mobile.  
+• Light tech stack is fine: pure HTML/CSS, or wordpress is fine
+• No heavy animations—subtle scroll or fade effects only if they don’t slow the page.
+
+Deliverable  
+A production-ready, one-page website with all assets and a brief hand-off guide showing me how to update text or images.
+
+When you apply, please link to past minimalist or single-page sites you’ve created so I can judge style and code quality quickly.</description></item>
+<item><title>Clone PacificTours.ca SEO-Optimized Site</title><link>https://www.freelancer.com/projects/web-development/Clone-PacificTours-SEO-Optimized-Site</link><guid isPermaLink="false">freelancer:40769966</guid><pubDate>Thu, 15 Oct 2026 18:02:47 GMT</pubDate><description>30-250 CAD | I need an exact functional replica of pacifictours.ca, brought over to a fresh, fully responsive build that is ready for on-page SEO from day one. All core sections are required—Home page, Tours and Packages, Contact Us, About Us, Book Now, plus the FAQ &amp; Policy pages—so content structure must match the original while loading quickly on both desktop and mobile.
+
+I do have a few adjustments in mind. The overall look should feel familiar, but the layout needs tidying for smoother user flow and stronger calls-to-action. Most importantly, the new site must include an integrated booking component that handles real-time availability and confirmations. I’m open to your preferred tech stack as long as it stays lightweight, secure, and easy for my team to update.
+
+Deliverables  
+• Pixel-perfect recreation of the listed pages  
+• Clean, modular layout modifications that improve UX without losing brand feel  
+• Booking integration tested end-to-end (sandbox data is fine)  
+• On-page SEO foundations: semantic HTML, meta tags, XML sitemap, fast page speed scores  
+• Migration or redirect plan so the current domain can switch over with zero downtime  
+
+Final acceptance will be based on a live staging link where I can run through every page, complete a test booking, and verify SEO readiness via Lighthouse or a similar tool.</description></item>
 <item><title>Web Design Specialist Needed</title><link>https://www.freelancer.com/projects/web-design/Web-Design-Specialist-Needed-40769953</link><guid isPermaLink="false">freelancer:40769953</guid><pubDate>Thu, 15 Oct 2026 17:57:18 GMT</pubDate><description>30-250 USD | I am looking for a reliable freelancer to help create a simple, modern, and user-friendly website using HTML and CSS. The goal is to build a clean website layout with a professional appearance and a well-organized structure.
 
 The website should include a clear navigation menu, a header, a main content area, and a footer. The design should be visually appealing, with appropriate spacing, readable typography, and consistent colors. The layout should also be responsive so that it displays correctly on desktop computers, tablets, and mobile devices.
@@ -381,22 +410,6 @@ How to Apply, Please submit:
 5. A short introduction on your experience working with real estate agents
 6. Portfolio examples of any automation, real estate, marketing work, administrative support, website work you have done
 7. Your expected monthly pay for full time 8 hours a day / 5 days a week role</description></item>
-<item><title>Integrate Sunsky API WooCommerce</title><link>https://www.freelancer.com/projects/api-integration/Integrate-Sunsky-API-WooCommerce</link><guid isPermaLink="false">freelancer:40768620</guid><pubDate>Thu, 15 Oct 2026 01:40:41 GMT</pubDate><description>30-250 CAD | I need my WooCommerce site to talk seamlessly with Sunsky’s dropshipping API. The goal is to automate the entire flow—importing products, syncing stock and prices, sending orders to Sunsky, then pulling back tracking numbers so customers see live status updates in their account.
-
-Here’s what the job entails:  
-• Establish secure authentication with Sunsky’s dropshipping endpoints.  
-• Build an interface (or lightweight plugin) that lets me choose which Sunsky SKUs to import, mapping categories, attributes and images automatically.  
-• Schedule inventory and price checks so any change at Sunsky is reflected on my store without manual effort.  
-• Push new WooCommerce orders to Sunsky in real time, including shipping method and customer details.  
-• Retrieve shipping confirmations and tracking IDs, updating WooCommerce order statuses accordingly.  
-
-Acceptance criteria  
-1. A selected Sunsky product imports correctly into WooCommerce with full data and media.  
-2. Stock levels stay accurate within a 15-minute window.  
-3. A test purchase appears in my Sunsky dashboard and, once marked shipped there, updates to “Completed” in WooCommerce with the correct tracking link.  
-4. All code is delivered as a standalone, well-documented WooCommerce extension that survives core/plugin updates.
-
-You’ll have WordPress admin credentials, plus quick feedback whenever needed. If you’re comfortable with PHP, WordPress REST, and WooCommerce hooks, let’s get this integration live.</description></item>
 <item><title>WordPress Development &amp; SEO Expert Needed- 5</title><link>https://www.freelancer.com/projects/seo/WordPress-Development-SEO-Expert-Needed-40768443</link><guid isPermaLink="false">freelancer:40768443</guid><pubDate>Wed, 14 Oct 2026 23:06:01 GMT</pubDate><description>250-750 USD | SEO &amp; WEBSITE DEVELOPER (WordPress) — Remote, Monthly Pay
 
 About Us
