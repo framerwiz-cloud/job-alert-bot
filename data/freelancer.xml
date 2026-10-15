@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Mobile Personal Finance Website Partner - Palestine</title><link>https://www.freelancer.com/projects/web-development/Mobile-Personal-Finance-Website-Partner</link><guid isPermaLink="false">freelancer:40768964</guid><pubDate>Thu, 15 Oct 2026 06:23:06 GMT</pubDate><description>1000-20000 USD | I am building a mobile-first website that allows users to track their debts in one place. The goal is to launch a Minimum Viable Product (MVP) quickly, followed by continuous development and improvement. I am looking for a highly skilled developer interested in a long-term partnership. Given the nature of the work during this initial phase, the developer must be based in Palestine.
+
+Core Scope of Work:
+• Design and develop a responsive web application that provides a seamless user experience, similar to a native mobile app.
+• Build a secure user registration system, including Multi-Factor Authentication (MFA).
+• Develop core modules for personal finance management: adding and editing transactions, categorizing expenses, and a clear dashboard displaying balances and spending trends.
+• Establish a scalable back-end architecture and well-structured APIs, with comprehensive code documentation to facilitate the addition of new features post-launch.
+
+I am open to using any tech stack that enables rapid development and future scalability—for example, React or Vue for the front-end, and Node, Laravel, or a similar framework for the back-end. I place a high priority on clean architecture, robust test coverage, and efficient deployment mechanisms (such as Docker and CI/CD pipelines).
+
+Required Deliverables for the Initial Phase:
+1. A fully responsive front-end integrated with an efficient database. 2. A comprehensive system for account creation, login, and password recovery, secured with multi-factor authentication (MFA).
+3. Interfaces for adding, editing, and categorizing financial transactions, along with a dashboard that summarizes the data.
+4. Delivery of the source code via a private repository, accompanied by a brief session to hand over the project and explain its details.
+
+If you are a developer based in Palestine and are interested in co-founding a product and contributing to its growth, let’s discuss the next steps, timelines, and how to structure this partnership.</description></item>
 <item><title>Family Law Directory Marketing</title><link>https://www.freelancer.com/projects/email-marketing/Family-Law-Directory-Marketing</link><guid isPermaLink="false">freelancer:40768902</guid><pubDate>Thu, 15 Oct 2026 05:49:30 GMT</pubDate><description>8-15 AUD/hr | I run an online directory dedicated to family-law services. Listing a firm is free, yet most practices still haven’t heard about us. I’m looking for a marketer who can set up an ongoing campaign that puts the directory in front of more family-law businesses first, while keeping an eye on future outreach to the general public.
 
 Here’s what I need help with right now:
@@ -1237,18 +1253,6 @@ Initial design concepts within one week of hire; full delivery within 3 weeks
 current website greatwesternprinting.com
 
 Thanks for taking the time to look at my bid</description></item>
-<item><title>Redesign for Dog Grooming Website</title><link>https://www.freelancer.com/projects/web-design/Redesign-for-Dog-Grooming-Website</link><guid isPermaLink="false">freelancer:40765638</guid><pubDate>Tue, 13 Oct 2026 13:21:05 GMT</pubDate><description>250-750 GBP | My site www.pawperfectdoggrooming.com is ready for a complete makeover. The current pages feel tired and old-fashioned, the search rankings have slipped, and the responsive view no longer behaves the way it should.  
-
-The most urgent task is a fresh design and layout. I want an elegant, sophisticated look that instantly conveys quality mobile grooming, with a refined colour palette and striking imagery that shows off happy, well-styled dogs. Keep the typography simple and readable, but please make the colours and photos shine.  
-
-Once the new design is in place, I also need the underlying theme coded so it renders flawlessly on both mobile and desktop. While you’re under the hood, a light SEO tune-up—clean meta tags, proper headings, faster load times—will help the new look perform as well as it appears.  
-
-Key deliverables  
-• Elegant, responsive redesign focused on colour scheme and imagery  
-• Seamless mobile/desktop experience, fully tested across common browsers  
-• Basic on-page SEO refresh to restore lost visibility  
-
-If you have experience blending sophisticated aesthetics with solid technical execution, I’d love to see your approach and a few relevant examples.</description></item>
 <item><title>Build My WooCommerce Storefront</title><link>https://www.freelancer.com/projects/woocommerce/Build-WooCommerce-Storefront-40765586</link><guid isPermaLink="false">freelancer:40765586</guid><pubDate>Tue, 13 Oct 2026 12:53:16 GMT</pubDate><description>15-25 USD/hr | I’m ready to turn my idea into a fully-functioning e-commerce shop and need a WooCommerce pro who can handle both design flair and solid technical setup. The end goal is a polished storefront that looks great on any device and runs smoothly behind the scenes.
 
 Here’s what I have in mind: a clean, conversion-focused design built directly in WordPress + WooCommerce, complete with payment gateway integration, a customer product-review section, and inventory management that keeps stock levels accurate without extra manual work. I’d like the theme customised to match my branding, pages laid out for easy navigation, and checkout streamlined so shoppers can move from cart to confirmation in as few clicks as possible.
