@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Moving Company Booking Website</title><link>https://www.freelancer.com/projects/web-development/Moving-Company-Booking-Website-40770408</link><guid isPermaLink="false">freelancer:40770408</guid><pubDate>Fri, 16 Oct 2026 01:51:08 GMT</pubDate><description>250-750 USD | I operate a newly launched moving, hauling, and eviction-clean-out service and now need a web presence that feels as modern and sleek as the trucks we drive. The site’s primary goal is to turn visitors into booked jobs by showing exactly what we do, letting them choose a time slot, and taking payment on the spot.
+
+Scope of the build  
+• Design language: clean, contemporary typography, bold imagery, intuitive navigation—mobile-first is a must.  
+• Core pages:  
+  – Services: present each service—standard moves, removal hauling, eviction cleanouts—with detailed descriptions I can edit later.  
+  – Scheduling: embed a real-time calendar where customers can pick a date, confirm the booking, and pay a deposit or the full amount.  
+  – Contact Us: quick-fill form plus clickable phone number and map.  
+
+Functional requirements  
+• Seamless booking engine connected to a payment gateway (Stripe, Square, or similar).  
+• Automated email or SMS confirmations and reminders.  
+• Simple dashboard so I can adjust available time slots and add new service details without touching code.  
+• Fast load times and basic on-page SEO so we appear when locals search for movers.
+
+Acceptance criteria  
+1. I can add or edit a service description from the admin panel and see the change live immediately.  
+2. A test booking flows through from calendar selection to successful payment and confirmation email.  
+3. Site renders correctly on at least the latest versions of Chrome, Safari, and a standard Android browser.  
+
+Hand-off items should include all source files, admin credentials, and a short Loom or PDF guide that walks me through routine edits. If you already have a preferred CMS or booking plugin that nails this workflow, tell me—flexibility is fine as long as it remains sleek and user-friendly.</description></item>
 <item><title>Sculpture of my husbands hand</title><link>https://www.freelancer.com/projects/graphic-design/Sculpture-husbands-hand</link><guid isPermaLink="false">freelancer:40770199</guid><pubDate>Thu, 15 Oct 2026 21:40:00 GMT</pubDate><description>1500-3000 USD | More details:
 
 What material would you prefer for the sculpture? This question was skipped by the user
@@ -303,81 +324,6 @@ Acceptance criteria
 5. Reporting dashboard showing subscriber growth and directory sign-ups.
 
 If you’ve already managed similar multi-channel campaigns within Go High Level and can show measurable results, let’s talk.</description></item>
-<item><title>Full Time, Long Term Process Automation, Vacation Home Rental, and Real Estate Operations &amp; Marketing Role</title><link>https://www.freelancer.com/projects/zapier/Full-Time-Long-Term-Process</link><guid isPermaLink="false">freelancer:40768809</guid><pubDate>Thu, 15 Oct 2026 05:12:13 GMT</pubDate><description>250-750 USD | DO NOT APPLY IF YOU ARE NOT WILLING / COMFORTABLE WITH VIDEO CALLS.
-DO NOT APPLY IF YOU DO NOT ANSWER ALL THE QUESTIONS AT END OF DESCRIPTION. "DISCUSS LATER" OR "PROVIDE LATER" WILL NOT BE ACCEPTED.
-DO NOT WASTE TIME TO SEND GENERIC APPLICATION.  WILL IMMEDIATELY DELET.
-Received hundreds of applications so only those with sincerity in going through the job description and asnwering every question with concrete answers will be contacted.
-
-About the Role
-I am a realtor, short term rental manager, and interior designer based in Canada seeking a reliable and detail-oriented Remote executive assistant to support daily operations and me. This role is ideal for someone experienced in zapier automation with customization and some basic custom code editing, real estate research, short term rental management, data organization, scheduling, and marketing support. You will work closely with me to help streamline operations, transactions, research properties, and maintain marketing activities.
-
-Key Responsibilities
-
-1. Short Term Rental Management
-- Experience in managing short term rental operations
-- Ability to follow SOPs and check-lists in details
-
-2. Simple Web and Automation Support
-- Experience in updating Wordpress websites
-- Experience in setting up task automation usng Zapier or Maker
-
-3. Property Research
-- Search for properties based on specific client criteria using MLS and other real estate platforms
-- Compile property lists for buyers and investment opportunities
-- Monitor new listings and notify the realtor of relevant opportunities
-
-4. Price &amp; Market Analysis
-- Conduct competitive market analysis (CMA) on comparable properties
-- Research recent sales, active listings, and neighborhood trends
-- Prepare organized reports and spreadsheets summarizing market data
-
-5. Appointment Coordination
-- Schedule property showings, meetings, and client appointments
-- Coordinate calendars and confirm appointments with clients and vendors
-- Send reminders and maintain organized schedules
-
-6. Marketing Support
-- Assist with social media posting and online marketing campaigns
-- Prepare marketing materials (flyers, brochures, email campaigns)
-- Support CRM updates and lead tracking
-- Help organize marketing and follow-ups
-
-7. Administrative Support
-- Maintain project, property and client databases
-- Organize documents and files related to listings and transactions
-- Assist with basic email communication and task coordination
-
-Qualifications
-- Previous experience in Short Term Rental and Real Estate Virtual Assistant is a must; not long term property management
-- Familiarity with Zapier and Wordpress a must
-- Strong research and data organization skills
-- Familiarity with short term rental and real estate terminology and basic market analysis
-- Experience with spreadsheets (Google Sheets or Excel)
-- Experience with CRM systems and marketing tools is a plus
-- Strong written English communication skills
-- Highly organized, detail-oriented, and reliable
-- Ability to work independently and meet deadlines but also able to collaborate in team environment and do zoom meetings daily
-
-Preferred Skills
-- Experience with web develop tools and process automation tools a must
-- Experience working with North American short term rental and real estate agents preferred
-- Knowledge of Airbnb, VRBO, etc and MLS systems, Zillow, or similar platforms
-- Graphic design experience (Canva or similar tools)
-- Familiarity of AI assisted content generation: writing, images, and video
-- Social media management experience (Instagram, Facebook, LinkedIn)
-
-Compensation
-- fixed pay; will not consider hourly
-- Long-term opportunity and potentially convert to full time if interested
-
-How to Apply, Please submit:
-1. Are you able to work 8 hours a day / 5 days a week PST from 8AM to 5PM PST with one hour break in between?
-2. Your resume
-3. A short introduction about your experience working on Zapier
-4. A short introduction on your experience with short term rental
-5. A short introduction on your experience working with real estate agents
-6. Portfolio examples of any automation, real estate, marketing work, administrative support, website work you have done
-7. Your expected monthly pay for full time 8 hours a day / 5 days a week role</description></item>
 <item><title>WordPress Development &amp; SEO Expert Needed- 6</title><link>https://www.freelancer.com/projects/seo/WordPress-Development-SEO-Expert-Needed-40768789</link><guid isPermaLink="false">freelancer:40768789</guid><pubDate>Thu, 15 Oct 2026 04:38:37 GMT</pubDate><description>30-250 USD | SEO &amp; WEBSITE DEVELOPER (WordPress) — Remote, Monthly Pay
 
 About Us
