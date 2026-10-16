@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Finish Madagascar Tour Booking Site</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Finish-Madagascar-Tour-Booking-Site</link><guid isPermaLink="false">freelancer:40770489</guid><pubDate>Fri, 16 Oct 2026 03:05:07 GMT</pubDate><description>30-250 USD | I have already set up the framework for madatease.com, a Madagascar-focused tourism platform, and I’m now looking for a WordPress specialist to take it from “almost there” to launch-ready within roughly two weeks.
+
+Scope of work  
+– Configure and display 12 tour packages, each priced in EUR, with selectable add-ons and optional experiences.  
+– Build booking request forms that capture party size plus precise start and end dates.  
+– Create a private-driver portal where chauffeurs can register, upload documents, and keep an availability calendar up to date.  
+– Expand the admin dashboard so I can approve or decline bookings, trigger payment links, and see driver availability at a glance.  
+– Add modules for airport transfers and stand-alone day trips.  
+– Insert pre-supplied hotel affiliate links throughout the relevant pages.  
+– Ensure everything looks and works perfectly on mobile.  
+
+Key tech expectations  
+You are comfortable marrying a mature WordPress booking plugin to custom driver-portal logic, and you can wire the payment-link flow (Stripe or similar) without fuss. Clean, maintainable code and frictionless UX are non-negotiable.
+
+Timeline  
+Ideally 10–14 days from kickoff. If you need longer, explain why and outline milestones.
+
+When you reply  
+• Quote a fixed price with a clear breakdown of what is included.  
+• Share two or three relevant builds (tourism, booking systems, multi-vendor or driver portals).  
+• Confirm which booking plugin you recommend and why it suits these requirements.  
+• Outline how you will test and hand over the finished site.
+
+I will supply the full development brief, all tour copy, images, design files, and access credentials the moment we agree. I’m ready to move quickly—please review the existing site before you quote so we can hit the ground running.</description></item>
 <item><title>Moving Company Booking Website</title><link>https://www.freelancer.com/projects/web-development/Moving-Company-Booking-Website-40770408</link><guid isPermaLink="false">freelancer:40770408</guid><pubDate>Fri, 16 Oct 2026 01:51:08 GMT</pubDate><description>250-750 USD | I operate a newly launched moving, hauling, and eviction-clean-out service and now need a web presence that feels as modern and sleek as the trucks we drive. The site’s primary goal is to turn visitors into booked jobs by showing exactly what we do, letting them choose a time slot, and taking payment on the spot.
 
 Scope of the build  
@@ -91,65 +115,6 @@ Deliverable
 A production-ready, one-page website with all assets and a brief hand-off guide showing me how to update text or images.
 
 When you apply, please link to past minimalist or single-page sites you’ve created so I can judge style and code quality quickly.</description></item>
-<item><title>Shopify Wizard: Store Duplication &amp; Custom Theme Development</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Wizard-Store-Duplication-Custom</link><guid isPermaLink="false">freelancer:40769816</guid><pubDate>Thu, 15 Oct 2026 16:23:04 GMT</pubDate><description>750-1500 EUR | Experienced Shopify Developer – Store Duplication, Custom Theme Development &amp; Subscription System
-
-We are looking for a highly experienced Shopify developer to help us duplicate an existing Shopify store, develop a customized theme based on our design layouts, and implement advanced subscription functionality according to our specific requirements.
-We are looking for a long-term development partner, not just someone to complete a single project.
-
-1. Shopify Store Duplication &amp; Setup
-- Duplicate an existing Shopify store into a new Shopify environment.
-- Transfer products, collections, pages, navigation, and relevant store configurations.
-- Set up and configure all necessary Shopify apps.
-- Ensure that existing functionality is correctly transferred or recreated.
-- Configure multilingual and international store functionality if required.
-
-2. Custom Shopify Theme Development
-- Develop and customize Shopify themes based on our provided graphic designs (Figma, Photoshop, etc.).
-- Implement pixel-perfect designs with a strong focus on usability.
-- Mobile-first development is essential.
-- Create custom sections, templates, and reusable components.
-- Develop responsive layouts optimized for smartphones, tablets, and desktops.
-- Implement custom functionality using Liquid, HTML, CSS, and JavaScript.
-- Ensure excellent loading speed, performance, and clean code.
-
-3. Custom Subscription Development
-- Develop and customize a Shopify subscription system according to our specific requirements.
-- Integrate and extend existing subscription apps where possible.
-- Implement custom subscription rules, restrictions, and purchasing logic.
-- Develop advanced subscription management functionality.
-- Customize the customer subscription portal.
-- Implement product quantity restrictions, subscription modifications, and other custom features.
-- Develop custom Shopify apps or integrations where necessary.
-Important: We need a developer who understands Shopify subscription architecture and is capable of implementing complex requirements beyond standard app functionality.
-
-4. Shopify Apps &amp; Custom Functionality
-- Install, configure, and customize Shopify apps.
-- Develop custom Shopify apps when required.
-- Integrate third-party services and APIs.
-- Implement custom product and checkout-related functionality within Shopify's technical limitations.
-- Troubleshoot and resolve technical issues.
-
-5. Testing, Optimization &amp; Maintenance
-- Test all functionality across different devices and browsers.
-- Optimize website performance and loading speed.
-- Identify and fix bugs.
-- Provide ongoing technical support and improvements.
-Required Skills
-- Extensive experience with Shopify development.
-- Strong knowledge of Shopify Liquid, HTML, CSS, and JavaScript.
-- Experience with Shopify APIs and custom app development.
-- Proven experience with Shopify subscription systems.
-- Experience translating Figma or Photoshop layouts into fully functional Shopify themes.
-- Strong understanding of mobile-first and responsive design.
-- Experience with Shopify Markets and multilingual stores is a plus.
-- Ability to work independently and deliver reliable solutions.
-
-What We Offer
-- Long-term collaboration with regular development tasks.
-- Clear project requirements and provided design layouts.
-- Direct communication and quick feedback.
-- Opportunities to work on multiple Shopify stores.
-- Flexible working arrangements.</description></item>
 <item><title>ADA Compliance for Non-Profit Website</title><link>https://www.freelancer.com/projects/accessibiliy/ADA-Compliance-for-Non-Profit</link><guid isPermaLink="false">freelancer:40769809</guid><pubDate>Thu, 15 Oct 2026 16:21:11 GMT</pubDate><description>250-750 USD | I need an experienced developer to update our Wildapricot website for ADA compliance. This is for a non-profit organization. 
 
 Key requirements:
