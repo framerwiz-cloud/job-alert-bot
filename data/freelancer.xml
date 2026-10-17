@@ -257,27 +257,6 @@ When you reply
 • Outline how you will test and hand over the finished site.
 
 I will supply the full development brief, all tour copy, images, design files, and access credentials the moment we agree. I’m ready to move quickly—please review the existing site before you quote so we can hit the ground running.</description></item>
-<item><title>Moving Company Booking Website</title><link>https://www.freelancer.com/projects/web-development/Moving-Company-Booking-Website-40770408</link><guid isPermaLink="false">freelancer:40770408</guid><pubDate>Fri, 16 Oct 2026 01:51:08 GMT</pubDate><description>250-750 USD | I operate a newly launched moving, hauling, and eviction-clean-out service and now need a web presence that feels as modern and sleek as the trucks we drive. The site’s primary goal is to turn visitors into booked jobs by showing exactly what we do, letting them choose a time slot, and taking payment on the spot.
-
-Scope of the build  
-• Design language: clean, contemporary typography, bold imagery, intuitive navigation—mobile-first is a must.  
-• Core pages:  
-  – Services: present each service—standard moves, removal hauling, eviction cleanouts—with detailed descriptions I can edit later.  
-  – Scheduling: embed a real-time calendar where customers can pick a date, confirm the booking, and pay a deposit or the full amount.  
-  – Contact Us: quick-fill form plus clickable phone number and map.  
-
-Functional requirements  
-• Seamless booking engine connected to a payment gateway (Stripe, Square, or similar).  
-• Automated email or SMS confirmations and reminders.  
-• Simple dashboard so I can adjust available time slots and add new service details without touching code.  
-• Fast load times and basic on-page SEO so we appear when locals search for movers.
-
-Acceptance criteria  
-1. I can add or edit a service description from the admin panel and see the change live immediately.  
-2. A test booking flows through from calendar selection to successful payment and confirmation email.  
-3. Site renders correctly on at least the latest versions of Chrome, Safari, and a standard Android browser.  
-
-Hand-off items should include all source files, admin credentials, and a short Loom or PDF guide that walks me through routine edits. If you already have a preferred CMS or booking plugin that nails this workflow, tell me—flexibility is fine as long as it remains sleek and user-friendly.</description></item>
 <item><title>Sculpture of my husbands hand</title><link>https://www.freelancer.com/projects/graphic-design/Sculpture-husbands-hand</link><guid isPermaLink="false">freelancer:40770199</guid><pubDate>Thu, 15 Oct 2026 21:40:00 GMT</pubDate><description>1500-3000 USD | More details:
 
 What material would you prefer for the sculpture? This question was skipped by the user
@@ -599,6 +578,17 @@ The site need 2 pricing structures public and trade or end user and trade no pri
 
 Must be responsive and leach site must be Seo   Friendly and all sites must be uploaded to respective domain and configured and must be responsive to work a all devices</description></item>
 <item><title>Modern Electronics E-commerce Site Design -- 2</title><link>https://www.freelancer.com/projects/ui-design/Modern-Electronics-commerce-Site-Design-40768224</link><guid isPermaLink="false">freelancer:40768224</guid><pubDate>Wed, 14 Oct 2026 19:25:42 GMT</pubDate><description>30-250 USD | I’m launching an online store focused exclusively on consumer electronics and need a full visual design that feels cutting-edge, clean and professional. I already have a logo and a well-defined color palette; your job is to weave those assets seamlessly into a modern, sleek interface that looks great on desktop and mobile.
+
+What I expect:
+• A complete set of high-fidelity layouts for the home page, category grid, product detail, cart and checkout.
+• Responsive behavior mapped out for common breakpoints so the experience remains consistent from phone to large monitor.
+• UI components (buttons, cards, banners, headers, footers) delivered as organised, layered design files ready for hand-off to development.
+• Basic style guide summarising typography, colours and spacing decisions so future updates stay on brand.
+
+Figma, Adobe XD or Sketch all work—use whichever you’re fastest with. If you can demonstrate familiarity with Shopify or WooCommerce theme constraints while designing, that’s a plus, though not mandatory.
+
+I’ll supply the logo files, colour codes and a short list of competitor references once we start. Let’s create an interface that convinces shoppers they’re buying the latest tech from a store that feels just as advanced.</description></item>
+<item><title>Modern Electronics E-commerce Site Design</title><link>https://www.freelancer.com/projects/ui-design/Modern-Electronics-commerce-Site-Design</link><guid isPermaLink="false">freelancer:40768220</guid><pubDate>Wed, 14 Oct 2026 19:23:51 GMT</pubDate><description>30-250 USD | I’m launching an online store focused exclusively on consumer electronics and need a full visual design that feels cutting-edge, clean and professional. I already have a logo and a well-defined color palette; your job is to weave those assets seamlessly into a modern, sleek interface that looks great on desktop and mobile.
 
 What I expect:
 • A complete set of high-fidelity layouts for the home page, category grid, product detail, cart and checkout.
