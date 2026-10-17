@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fun Staffing Platform Development</title><link>https://www.freelancer.com/projects/web-development/Fun-Staffing-Platform-Development</link><guid isPermaLink="false">freelancer:40772065</guid><pubDate>Sat, 17 Oct 2026 00:15:52 GMT</pubDate><description>30-250 USD | I’m launching a staffing agency website that feels lively and approachable yet still runs like clockwork. The core build includes:
+
+• Profile hub – separate, fully editable dashboards for employers and employees so each can manage résumés, company info, availability, and documents.  
+• Job engine – employers post shifts or long-term roles on a calendar view; qualified employees can search, apply, accept, or decline right from the same interface.  
+• Custom markup calculator – I need an on-page tool where I can enter an employee’s hourly rate and instantly show the employer the final bill rate after payroll, insurance, and my margin. The formula and percentages have to be editable from the admin panel.  
+• Invoicing – once a job is completed the system should generate a branded PDF invoice and email it to the employer automatically.  
+• Worker types – the workflow must recognise temporary, temp-to-hire, and direct placement assignments so I can track each category separately.  
+• Authentication – simple email-and-password sign-up/login with password-reset and basic “remember me” functionality.
+
+Please bring a modern tech stack, responsive design principles, and—most important—a fun and creative UI that matches my agency’s upbeat tone. After hand-off I want clear instructions or a short Loom walk-through so I can adjust calculator values, add new job fields, and export invoices without touching code.
+
+If you’re comfortable integrating these modules end-to-end and can suggest the best framework or CMS to keep future scaling painless, let’s talk timelines and milestones.</description></item>
 <item><title>Build My Lead Magnet and Email Marketing Funnel</title><link>https://www.freelancer.com/projects/graphic-design/Build-Lead-Magnet-Email-Marketing</link><guid isPermaLink="false">freelancer:40772032</guid><pubDate>Fri, 16 Oct 2026 23:24:35 GMT</pubDate><description>300-600 CAD | I’m seeking an experienced marketing automation freelancer to create a professional lead-generation system for my business, Dixie Bennett Soul-Body Alignment. The project includes designing a landing page, implementing a 15-question interactive assessment with scoring logic, integrating an email delivery and automation platform (Mailchimp preferred but open to other cost-effective options), setting up a follow-up email sequence, and connecting the booking pathway to my scheduling page. The deliverables must align with my brand tone: sophisticated, grounded, warm, and insightful. Testing and handover are required to ensure I can manage updates independently. I prefer cost-effective solutions with minimal recurring expenses.</description></item>
 <item><title>Electronics Shopify Store &amp; Ads</title><link>https://www.freelancer.com/projects/shopify-site/Electronics-Shopify-Store-Ads</link><guid isPermaLink="false">freelancer:40771967</guid><pubDate>Fri, 16 Oct 2026 21:34:58 GMT</pubDate><description>30-250 CAD | I need a full-service partner to get an electronics Shopify store online and profitable. The catalogue will be pulled directly from my Best Buy Marketplace account, so the build must include a reliable integration that keeps stock levels, pricing and orders perfectly in sync.
 
@@ -113,17 +125,6 @@ Key deliverables
 The tech stack is flexible as long as it’s stable and easy for a non-developer to maintain. Let me know which platform or framework you think suits these needs best, how you’ll handle the member email whitelist, and a realistic timeline for design concepts, revisions and go-live.
 the existing website is at http://www.eventsociety.co.uk and currently doesn't feature the members only area. 
 An example of a more complex but similar website would be www.aiea.co.uk</description></item>
-<item><title>Modern Food Photography Site Revamp</title><link>https://www.freelancer.com/projects/web-design/Modern-Food-Photography-Site-Revamp</link><guid isPermaLink="false">freelancer:40771562</guid><pubDate>Fri, 16 Oct 2026 16:07:57 GMT</pubDate><description>250-750 USD | My photography portfolio needs a complete refresh, and I want the result to feel unmistakably modern and minimalist.  I'm transitioning to food/drink photography from landscape/travel. My URL is https://fholmstock.com and my Instagram page is https://www.instagram.com/fholmstock/ 
-
-I want to use the website as a portfolio to market my photography services the restaurants and caterers.  The project spans three areas at once:
-
-• Design overhaul – from layout, typography, and colour palette to subtle micro-interactions, everything should echo clean lines, generous whitespace, and let the imagery speak first.  
-• Content update – I will supply a new collection of high-resolution food shots plus revised copy; you’ll handle the uploads, optimisation, and placement so each page looks balanced and on brand.  
-• Functionality improvements – smoother gallery navigation, a faster, mobile-first experience, and any smart touches (lightbox, filter tags, refined contact page) that make browsing intuitive.
-
-We’ll start with a quick audit of the existing site, move to wireframes/mock-ups for sign-off, then build, test, and deploy with no visible downtime. Final deliverables: redesigned site pushed live, all new photos and text integrated, performance optimised, and basic hand-off notes so I can manage future content easily.
-
-Please share links to comparable work—particularly minimalist portfolio or photography sites—and outline the tools or CMS you’re comfortable using. Let’s bring this portfolio up to date and let the images shine.</description></item>
 <item><title>Lead-Generating IDX Realtor Website</title><link>https://www.freelancer.com/projects/web-development/Lead-Generating-IDX-Realtor-Website</link><guid isPermaLink="false">freelancer:40771538</guid><pubDate>Fri, 16 Oct 2026 15:49:17 GMT</pubDate><description>250-750 CAD | I’m launching a brand-new real estate site and the single most important outcome is a steady stream of qualified leads. To make that happen, I need an experienced developer who can build the site from the ground up, integrate a reliable IDX feed, and craft a fast, mobile-friendly user experience that encourages visitors to raise their hand.
 
 The site’s core lead-capture elements must include:  
