@@ -3,6 +3,55 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Business Website Development</title><link>https://www.freelancer.com/projects/graphic-design/Business-Website-Development-40772909</link><guid isPermaLink="false">freelancer:40772909</guid><pubDate>Sat, 17 Oct 2026 13:54:22 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to create a professional business website aimed at generating leads. The site should include a contact form to facilitate inquiries.
+
+Key Requirements:
+- Design a clean, modern, and user-friendly interface
+- Implement a contact form for lead generation
+- Ensure mobile responsiveness
+- Optimize for SEO to increase visibility
+
+Ideal Skills and Experience:
+- Proven experience in developing business websites
+- Strong knowledge of SEO best practices
+- Proficiency in responsive web design
+- Excellent UI/UX design skills
+- Familiarity with popular CMS platforms (e.g., WordPress)
+
+Please provide examples of previous work and a timeline for project completion. Looking forward to your proposals!</description></item>
+<item><title>AI Travel Copilot Development</title><link>https://www.freelancer.com/projects/ai-chatbot/Travel-Copilot-Development</link><guid isPermaLink="false">freelancer:40772904</guid><pubDate>Sat, 17 Oct 2026 13:51:27 GMT</pubDate><description>250-750 AUD | I’m building a web-based copilot that can shoulder every logistical detail of a trip, from the first spark of an idea to the last calendar reminder. The agent must fluently handle search, reasoning and transactional tasks in one seamless flow: suggesting where to go, mapping out days, reserving everything, then keeping my schedule tidy.
+
+Platform  
+• Primary interface: modern, responsive web app (desktop &amp; mobile-friendly).
+
+Core planning intelligence  
+• Itinerary creation that adapts in real time to user preferences, time constraints and budget caps.  
+• Destination recommendations generated through data-driven insights and conversational AI.  
+• Travel budget management with live price tracking and clear cost breakdowns.
+
+Booking automation  
+• Flight booking  
+• Hotel booking  
+• Car-rental booking  
+In addition, the agent must schedule meetings, secure restaurant reservations and sync the full agenda to Google Calendar / Outlook without clashes.
+
+Key expectations  
+– Natural-language chat powered by GPT-style LLM or similar.  
+– Secure integration with major GDS / OTA APIs plus OpenTable (or equivalent) for restaurants.  
+– Calendar read/write and conflict detection.  
+– Transparent error handling so the user always knows what succeeded or needs attention.  
+– Clean, maintainable codebase, documented and deployable on a mainstream cloud stack.
+
+Delivery criteria  
+1. Working web application hosted on a test environment.  
+2. Source code with setup instructions.  
+3. Short demo video or live walkthrough proving the agent can:  
+   • propose an itinerary,  
+   • book a flight + hotel + car on sandbox endpoints,  
+   • reserve a restaurant,  
+   • add all events to a calendar.
+
+If you’re confident integrating AI with travel and calendar APIs while keeping UX frictionless, let’s get this rolling.</description></item>
 <item><title>Minimal Fashion E-commerce Website</title><link>https://www.freelancer.com/projects/web-development/Minimal-Fashion-commerce-Website</link><guid isPermaLink="false">freelancer:40772886</guid><pubDate>Sat, 17 Oct 2026 13:36:52 GMT</pubDate><description>750-1500 CAD | I'm launching a minimal fashion brand and I'm looking for an experienced developer to build a fully functional e-commerce website.
 
 The look should feel clean and premium, with a monochrome palette of white, grey and charcoal.
@@ -532,37 +581,6 @@ To apply, please:
 Budget: [your budget] fixed price, paid in milestones: homepage, then remaining pages, then shop.
 
 I'd suggest starting the contract with the homepage and waitlist only, and adding the shop in a second contract once the products are ready.</description></item>
-<item><title>Wine Education Website Development</title><link>https://www.freelancer.com/projects/web-development/Wine-Education-Website-Development</link><guid isPermaLink="false">freelancer:40769573</guid><pubDate>Thu, 15 Oct 2026 13:32:31 GMT</pubDate><description>20-250 GBP | I'm seeking a skilled web developer to create an informative and engaging website for my wine education and consultancy services. The primary purpose of the site is to educate visitors about wines, while also showcasing my wine tasting sessions and consultancy services.
-
-Key Features Required:
-- Comprehensive Education Section: This will include articles, blogs, video tutorials, and infographics on various wine topics.
-- Services Showcase: Detailed descriptions of wine tasting sessions and wine consultancy services.
-- User-Friendly Navigation: The site should be easy to navigate, ensuring visitors can effortlessly find the information they need.
-- Responsive Design: The website must be mobile-friendly and look great on all devices.
-- SEO Optimization: To ensure the site ranks well on search engines and attracts a broad audience.
-
-Ideal Skills and Experience:
-- Proven experience in developing educational websites, with a portfolio to showcase.
-- Strong SEO knowledge and implementation skills.
-- Expertise in creating user-friendly, responsive designs.
-- Excellent content organization and navigation structuring abilities.
-
-Please provide a portfolio with your bid.</description></item>
-<item><title>Healthy Eating Website and Blog</title><link>https://www.freelancer.com/projects/cms/Healthy-Eating-Website-Blog</link><guid isPermaLink="false">freelancer:40769506</guid><pubDate>Thu, 15 Oct 2026 12:44:12 GMT</pubDate><description>250-750 USD | I need a clean, responsive website dedicated to healthy eating. The core of the build is a searchable, filter-friendly recipe database where visitors can quickly find dishes by ingredient, dietary preference, or prep time. Alongside the recipes, I want an easy-to-update blog section for articles, tips, and success stories.
-
-A CMS such as WordPress, Ghost, or a similarly straightforward platform is fine as long as I can add new recipes and posts without touching code. Please structure the database so each recipe has its own page, categories, tags, nutrition facts, and a printable view. The blog should share the same design language and SEO setup.
-
-Key deliverables  
-• Fully responsive website (desktop, tablet, mobile)  
-• Recipe database with advanced search/filter and nutrition fields  
-• Blog section integrated into the same CMS  
-• Modern, lightweight design tuned for fast load times  
-• Basic on-page SEO (schema for recipes, meta tags, clean URLs)  
-• Clear documentation or a quick video walk-through showing me how to add content
-
-Nice-to-have (not required but mention if you can handle it): an interactive meal planner that could plug into the recipe data later.
-
-I expect clean code, scoped CSS/utility classes, and accessibility best practices. Let me know your preferred stack, any relevant portfolio links, and an estimated timeline from kickoff to launch.</description></item>
 <item><title>WordPress News Website Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-News-Website-Build</link><guid isPermaLink="false">freelancer:40767920</guid><pubDate>Wed, 14 Oct 2026 15:54:17 GMT</pubDate><description>50+ AUD/hr | I’m launching “The Australian Public Ledger,” a fully-fledged online news publication, and I need a skilled developer to turn the concept into a polished WordPress site.
 
 Platform &amp; Theme  
