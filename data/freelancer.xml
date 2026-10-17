@@ -381,6 +381,19 @@ I will supply the full development brief, all tour copy, images, design files, a
 What material would you prefer for the sculpture? This question was skipped by the user
 How detailed do you want the sculpture to be? Moderately detailed
 What size do you want the sculpture to be? Life-size</description></item>
+<item><title>Dashboard Design from CSV</title><link>https://www.freelancer.com/projects/data-visualization/Dashboard-Design-from-CSV</link><guid isPermaLink="false">freelancer:40770172</guid><pubDate>Thu, 15 Oct 2026 21:18:33 GMT</pubDate><description>250-750 AUD | I need an interactive management dashboard created from a CSV file as the data source. The dashboard should visualize data using a combination of bar charts and line charts.
+
+Key Requirements:
+- Bar Chart: To display the number of installations (by count), installation success rate (percentage), and scheduled installations (by count). 
+- Line Chart: To track metrics in dollar value ($) and kilowatts (kW) by type over time.
+- Data source will be a provided CSV file.
+- The dashboard should be user-friendly and visually appealing.
+
+Ideal Skills and Experience:
+- Proficiency in data visualization tools (Tableau, Power BI, etc.)
+- Experience with CSV data manipulation
+- Strong understanding of bar and line charts
+- UI/UX design skills for an intuitive dashboard layout</description></item>
 <item><title>Creative Consulting Agency Website</title><link>https://www.freelancer.com/projects/wix/Creative-Consulting-Agency-Website</link><guid isPermaLink="false">freelancer:40770040</guid><pubDate>Thu, 15 Oct 2026 19:16:24 GMT</pubDate><description>15-25 USD/hr | I’m ready to launch a fresh, creative-looking Wix site that introduces me and my consulting agency, walks visitors through three distinct service branches, and doubles as a small digital storefront.  
 
 Here’s the experience I have in mind:  
@@ -550,22 +563,6 @@ Deliverables:
 • Brief hand-off guide so my team can maintain the catalog
 
 If anything in the scope needs clarification, let me know—I’d like to move quickly once the domain is secured.</description></item>
-<item><title>Mobile Personal Finance Website Partner - Palestine</title><link>https://www.freelancer.com/projects/web-development/Mobile-Personal-Finance-Website-Partner</link><guid isPermaLink="false">freelancer:40768964</guid><pubDate>Thu, 15 Oct 2026 06:23:06 GMT</pubDate><description>1000-20000 USD | I am building a mobile-first website that allows users to track their debts in one place. The goal is to launch a Minimum Viable Product (MVP) quickly, followed by continuous development and improvement. I am looking for a highly skilled developer interested in a long-term partnership. Given the nature of the work during this initial phase, the developer must be based in Palestine.
-
-Core Scope of Work:
-• Design and develop a responsive web application that provides a seamless user experience, similar to a native mobile app.
-• Build a secure user registration system, including Multi-Factor Authentication (MFA).
-• Develop core modules for personal finance management: adding and editing transactions, categorizing expenses, and a clear dashboard displaying balances and spending trends.
-• Establish a scalable back-end architecture and well-structured APIs, with comprehensive code documentation to facilitate the addition of new features post-launch.
-
-I am open to using any tech stack that enables rapid development and future scalability—for example, React or Vue for the front-end, and Node, Laravel, or a similar framework for the back-end. I place a high priority on clean architecture, robust test coverage, and efficient deployment mechanisms (such as Docker and CI/CD pipelines).
-
-Required Deliverables for the Initial Phase:
-1. A fully responsive front-end integrated with an efficient database. 2. A comprehensive system for account creation, login, and password recovery, secured with multi-factor authentication (MFA).
-3. Interfaces for adding, editing, and categorizing financial transactions, along with a dashboard that summarizes the data.
-4. Delivery of the source code via a private repository, accompanied by a brief session to hand over the project and explain its details.
-
-If you are a developer based in Palestine and are interested in co-founding a product and contributing to its growth, let’s discuss the next steps, timelines, and how to structure this partnership.</description></item>
 <item><title>WordPress News Website Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-News-Website-Build</link><guid isPermaLink="false">freelancer:40767920</guid><pubDate>Wed, 14 Oct 2026 15:54:17 GMT</pubDate><description>50+ AUD/hr | I’m launching “The Australian Public Ledger,” a fully-fledged online news publication, and I need a skilled developer to turn the concept into a polished WordPress site.
 
 Platform &amp; Theme  
@@ -975,28 +972,6 @@ The build must include:
 Beyond those essentials, I’d like clean, responsive styling, fast loading times, and straightforward options for future add-ons such as marketing plugins or multilingual support. Once the site is live I’ll handle day-to-day content updates myself, so clear admin documentation is important.
 
 If you have solid WooCommerce experience and can commit to regular progress check-ins, I’d love to hear how you’d approach this build and the timeline you’d need to deliver the finished store.</description></item>
-<item><title>React Developer – Figma to Pixel-Perfect Marketing Site</title><link>https://www.freelancer.com/projects/react-js/React-Developer-Figma-Pixel-Perfect</link><guid isPermaLink="false">freelancer:40760728</guid><pubDate>Sat, 10 Oct 2026 11:59:13 GMT</pubDate><description>2-8 USD/hr | We have a fully designed marketing website in Figma and need an experienced frontend developer to translate it into production-quality React code. This is an implementation project — the design is finalized and we need precise, clean code that matches it exactly.
-
-Requirements:
-- Strong proficiency in React (functional components, hooks)
-- Experience working with Lovable (formerly GPT Engineer) or similar AI-assisted React platforms
-- Proven ability to implement pixel-perfect UI from Figma designs
-- Solid understanding of HTML5 and modern CSS (Flexbox, Grid, responsive design)
-- Ability to work within an existing React project structure without breaking current functionality
-- Attention to detail — we expect the final output to match the Figma spec closely
-- Experience with marketing/landing page builds is a plus
-
-Deliverables:
-- Fully implemented React components matching the provided Figma designs
-- Responsive layout that works across desktop, tablet, and mobile
-- Clean, maintainable code integrated into our existing React/Lovable project
-- Any necessary assets properly handled (images, icons, fonts)
-- Final review pass to ensure visual accuracy against the Figma file
-
-Work Arrangement:
-This is a fixed-scope project based on implementing an already-completed Figma design into an existing codebase. We expect a relatively fast turnaround from a developer who can hit the ground running.
-
-About the project: We are building a marketing website for an ecommerce brand and the design phase is complete — we simply need a skilled developer to bring it to life in React with precision and professionalism.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
