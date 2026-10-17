@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fractional Tech Lead for AI-Driven Project</title><link>https://www.freelancer.com/projects/ai-development/Fractional-Tech-Lead-for-Driven</link><guid isPermaLink="false">freelancer:40773371</guid><pubDate>Sat, 17 Oct 2026 21:07:33 GMT</pubDate><description>250-750 USD | Fractional Technical Lead — WeWeb, Supabase &amp; AI Development
+
+Castle Estate Management is developing a homeowner service coordination platform using WeWeb, Supabase, GoHighLevel, SafetyCulture, and Stripe.
+
+We are using AI coding agents for the majority of development and are seeking an experienced technical lead to provide part-time oversight, architecture review, security validation, and occasional debugging.
+
+This is primarily an oversight position, not a full application development contract.
+
+Responsibilities:
+
+* Review database architecture, authentication, and Supabase Row Level Security.
+* Validate WeWeb workflows and integrations.
+* Review GoHighLevel webhooks, membership onboarding, and appointment synchronization.
+* Test critical homeowner and coordinator workflows.
+* Identify defects, security risks, and architectural weaknesses.
+* Provide written findings and approve technical readiness for launch.
+* Occasionally troubleshoot issues that AI agents cannot resolve.
+
+Requirements:
+
+* Demonstrable production experience with WeWeb and Supabase.
+* Strong PostgreSQL, authentication, and API integration knowledge.
+* Experience with Stripe webhooks and subscription applications.
+* Familiarity with AI-assisted development.
+* Ability to explain technical problems clearly to a nontechnical founder.
+
+Engagement: Initial paid architecture review, followed by approximately 2–4 hours weekly during development, with additional hours for prelaunch testing.
+
+Please include links or demonstrations of relevant applications, your hourly rate, and how you would approach reviewing an AI-built application.</description></item>
 <item><title>Shopify Product Setup</title><link>https://www.freelancer.com/projects/product-management/Shopify-Product-Setup</link><guid isPermaLink="false">freelancer:40773363</guid><pubDate>Sat, 17 Oct 2026 20:59:27 GMT</pubDate><description>30-250 USD | I need assistance adding 1-10 physical products to my Shopify store. The website is complete and set up; I just need help plunging products and launching them. Some product information is ready, but I might need help gathering the rest.
 
 Ideal Skills and Experience:
@@ -581,23 +610,6 @@ My acceptance criteria are straightforward:
 3. A brief playbook explaining how to keep the optimisation current as market conditions change.  
 
 If you’ve previously ranked local businesses through structured data, local SEO and voice assistant integration, I’d love to see the results and hear your strategy for applying the same success to my realtor services.</description></item>
-<item><title>Minimalist One-Page Company Website</title><link>https://www.freelancer.com/projects/web-design/Minimalist-One-Page-Company-Website</link><guid isPermaLink="false">freelancer:40769961</guid><pubDate>Thu, 15 Oct 2026 18:03:18 GMT</pubDate><description>20-250 GBP | I’m looking to launch a clean, single-page site that presents my packaging company at a glance. The sole purpose is to provide clear company information, so I want the layout ultra-minimal, quick to load and easy to navigate.
-
-Content flow  
-1. About Us – a concise snapshot of our story and values.  
-2. Products &amp; Services – short descriptions supported by product photos I’ll supply.  
-3. Contact Information – a simple form that sends enquiries straight to my email, plus our address and phone number.
-
-Design &amp; build notes  
-• White space, muted brand colours and modern typography are key.  
-• Fully responsive on desktop, tablet and mobile.  
-• Light tech stack is fine: pure HTML/CSS, or wordpress is fine
-• No heavy animations—subtle scroll or fade effects only if they don’t slow the page.
-
-Deliverable  
-A production-ready, one-page website with all assets and a brief hand-off guide showing me how to update text or images.
-
-When you apply, please link to past minimalist or single-page sites you’ve created so I can judge style and code quality quickly.</description></item>
 <item><title>WordPress News Website Build</title><link>https://www.freelancer.com/projects/web-development/WordPress-News-Website-Build</link><guid isPermaLink="false">freelancer:40767920</guid><pubDate>Wed, 14 Oct 2026 15:54:17 GMT</pubDate><description>50+ AUD/hr | I’m launching “The Australian Public Ledger,” a fully-fledged online news publication, and I need a skilled developer to turn the concept into a polished WordPress site.
 
 Platform &amp; Theme  
