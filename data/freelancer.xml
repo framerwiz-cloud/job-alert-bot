@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Store Readiness Audit</title><link>https://www.freelancer.com/projects/ecommerce/Shopify-Store-Readiness-Audit</link><guid isPermaLink="false">freelancer:40772375</guid><pubDate>Sat, 17 Oct 2026 06:09:20 GMT</pubDate><description>750-1500 GBP | I run three separate Shopify storefronts and need confirmation that every component is truly ready to start taking orders. My priority is to know, with certainty, that all systems are configured correctly—from the first click through to a completed payment—and to identify anything that might block a sale.
+
+Current situation  
+• PayPal and Shopify Payments are enabled, yet I have not tested the checkout flow on any of the stores.  
+• I want assurance that user experience, product pages, shipping, taxes, legal pages, and tracking pixels are all aligned and functional.
+
+Scope of work  
+1. Conduct a full-stack audit on each store: theme performance, navigation, product listings, SEO basics, policy pages, shipping and tax settings, and any launch-critical configurations.  
+2. Simulate real purchases to validate both PayPal and credit/debit card processing through Shopify Payments, documenting every step.  
+3. Review confirmation emails, abandoned-cart flows, and analytics events to ensure end-to-end tracking.  
+4. Provide a clear report per store that includes:  
+   • Issues discovered, ranked by urgency  
+   • Step-by-step instructions—or code snippets where relevant—to resolve each item  
+   • Recommended apps or configuration tweaks that could lift conversion rates  
+
+Acceptance criteria  
+• A test (or live) order completes successfully through both active payment gateways in each store.  
+• No critical errors remain in Shopify Diagnostics or browser console.  
+• The final report gives me everything I need to fix or delegate outstanding tasks quickly.
+
+If you have solid experience auditing multiple Shopify stores and can turn this around promptly, I’m ready to move forward.</description></item>
 <item><title>Telehealth Weight Loss Platform Development</title><link>https://www.freelancer.com/projects/web-development/Telehealth-Weight-Loss-Platform</link><guid isPermaLink="false">freelancer:40772213</guid><pubDate>Sat, 17 Oct 2026 03:20:50 GMT</pubDate><description>250-750 USD | I'm looking for an experienced web developer to create a telehealth website in go high level focused on weight loss consultations with clinicians. The site will need to integrate with platform that connect patients with clinicians and pharmacies that ship medication. The site need to accept payments 
 Please share your portfolio and relevant experience.</description></item>
 <item><title>Food/Drink Photography Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Food-Drink-Photography-Website-Redesign</link><guid isPermaLink="false">freelancer:40772138</guid><pubDate>Sat, 17 Oct 2026 02:00:10 GMT</pubDate><description>10-500 USD | Please read completely BEFORE responding.
@@ -578,17 +599,6 @@ The site need 2 pricing structures public and trade or end user and trade no pri
 
 Must be responsive and leach site must be Seo   Friendly and all sites must be uploaded to respective domain and configured and must be responsive to work a all devices</description></item>
 <item><title>Modern Electronics E-commerce Site Design -- 2</title><link>https://www.freelancer.com/projects/ui-design/Modern-Electronics-commerce-Site-Design-40768224</link><guid isPermaLink="false">freelancer:40768224</guid><pubDate>Wed, 14 Oct 2026 19:25:42 GMT</pubDate><description>30-250 USD | I’m launching an online store focused exclusively on consumer electronics and need a full visual design that feels cutting-edge, clean and professional. I already have a logo and a well-defined color palette; your job is to weave those assets seamlessly into a modern, sleek interface that looks great on desktop and mobile.
-
-What I expect:
-• A complete set of high-fidelity layouts for the home page, category grid, product detail, cart and checkout.
-• Responsive behavior mapped out for common breakpoints so the experience remains consistent from phone to large monitor.
-• UI components (buttons, cards, banners, headers, footers) delivered as organised, layered design files ready for hand-off to development.
-• Basic style guide summarising typography, colours and spacing decisions so future updates stay on brand.
-
-Figma, Adobe XD or Sketch all work—use whichever you’re fastest with. If you can demonstrate familiarity with Shopify or WooCommerce theme constraints while designing, that’s a plus, though not mandatory.
-
-I’ll supply the logo files, colour codes and a short list of competitor references once we start. Let’s create an interface that convinces shoppers they’re buying the latest tech from a store that feels just as advanced.</description></item>
-<item><title>Modern Electronics E-commerce Site Design</title><link>https://www.freelancer.com/projects/ui-design/Modern-Electronics-commerce-Site-Design</link><guid isPermaLink="false">freelancer:40768220</guid><pubDate>Wed, 14 Oct 2026 19:23:51 GMT</pubDate><description>30-250 USD | I’m launching an online store focused exclusively on consumer electronics and need a full visual design that feels cutting-edge, clean and professional. I already have a logo and a well-defined color palette; your job is to weave those assets seamlessly into a modern, sleek interface that looks great on desktop and mobile.
 
 What I expect:
 • A complete set of high-fidelity layouts for the home page, category grid, product detail, cart and checkout.
