@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Experienced Brilliant Directories Web Developer </title><link>https://www.freelancer.com/projects/web-development/Experienced-Brilliant-Directories-Web</link><guid isPermaLink="false">freelancer:40774901</guid><pubDate>Sun, 18 Oct 2026 23:13:54 GMT</pubDate><description>30-250 AUD | Need experienced web developer to work on a B to C and B to B shopping directory using Brilliant Directories. https://www.brilliantdirectories.com
+
+I amm ready to take my Brilliant Directories website from a basic install to a fully featured membership platform and need an expert who already knows the framework inside-out.
+
+Core functionality to activate
+• Membership management: tiered plans, gated content, member dashboards, recurring billing, and upgrade/downgrade paths.  
+• Directory listings: searchable, filterable, SEO-friendly listings with custom fields and front-end submission/editing.  
+• Custom forms: lead-capture, profile update, and onboarding forms that pass data cleanly into the BD database.
+
+Design work
+The public-facing site must look 100 % on-brand. That means template tweaks, fresh color palette, typography choices, and custom CSS/HTML where the standard widgets fall short. I have style guidelines and sample sites ready to share so you can hit the ground running.
+
+Integrations
+1. Payment gateways – Stripe and/or PayPal for recurring subscriptions.  
+2. Email marketing – connect to Mailchimp (or similar) so new members flow straight into my nurture sequences.  
+3. Social media – enable social login plus automatic sharing hooks for published directory items.
+
+Success criteria
+• All selected features function smoothly on desktop and mobile.  
+• Branding is consistent across every page, email, and form.  
+• Integrations sync data bi-directionally without manual intervention.  
+• Site loads quickly and passes standard security checks.
+
+If you have launched other Brilliant Directories sites with similar scope, I’d love to see them and hear how you solved any tricky parts. Let’s discuss timelines and milestones so we can get this overhaul live without surprises.</description></item>
 <item><title>WordPress Expert Person Need</title><link>https://www.freelancer.com/projects/website-management/WordPress-Expert-Person-Need</link><guid isPermaLink="false">freelancer:40774894</guid><pubDate>Sun, 18 Oct 2026 23:04:08 GMT</pubDate><description>15-25 USD/hr | I need an experienced WordPress technician to become the steady pair of hands behind my site. Your first responsibility is ongoing upkeep: applying content, theme, and security updates promptly, testing them on a staging environment, and then rolling them out live with zero visible disruption.  
 
 Whenever a new requirement pops up I prefer a purpose-built solution, so you should be comfortable planning and coding clean, lightweight custom plugins that follow WordPress coding standards and play nicely with existing themes and core updates.  
@@ -966,19 +990,6 @@ Core functionality I need delivered:
 I’ll judge proposals primarily on relevant past work—please link to live e-commerce sites you’ve secured and scaled, especially any food or subscription projects. If your portfolio demonstrates bulletproof checkout flows and classic design sensibilities, we’re likely a great fit.
 
 Once the initial store is stable, I’ll look to you for ongoing support and feature improvements, so reusable, well-documented code is essential.</description></item>
-<item><title>TMS (TRUCK SOFTWARE MANAGMENT SOFTWARE)</title><link>https://www.freelancer.com/projects/software-development/TMS-TRUCK-SOFTWARE-MANAGMENT-SOFTWARE</link><guid isPermaLink="false">freelancer:40772469</guid><pubDate>Sat, 17 Oct 2026 07:15:29 GMT</pubDate><description>250-750 USD | TRUCK MANAGEMENT SYSTEM SOFTWARE.
-This Website will have full TMS Portal App
-1.	Full TMS Portal: 
-•	 Interactive Dispatch Board: Load lifecycle management (Assigned \rightarrow At Pickup \rightarrow En Route \rightarrow Delivered \rightarrow Invoiced \rightarrow Paid), load creation modal, and rate-per-mile calculators. 
-•	AI Rate Con Parsing Suite: Interactive file parser supporting automated data extraction (Broker, Rate, FSC, Stops, Equipment) directly into dispatched loads.
-•	Driver &amp; Fleet Management: Track trucks, trailers, and drivers with live CDL/Medical Expiration badge alerts.
-•	Driver Settlement Engine: Automated gross-to-net pay breakdown accounting for dispatch fees, factoring, advances, fuel, escrow, and PDF statement preview.
-•	Invoicing &amp; Factoring: Invoicing center 
-
-with 1-click factoring packet generation and status management.
-•	IFTA Quarterly Mileage Calculator: State-by-state mileage log, fuel purchase tracking, and automated state tax report summary.
-•	Compliance &amp; Document Vault: Proactive expiration warnings (&lt;30 days alert tags) and document storage tracker.
-•	Live Fleet GPS Map Simulator: Interactive visual tracking canvas for real-time fleet position updating.</description></item>
 <item><title>Business WordPress Site</title><link>https://www.freelancer.com/projects/woocommerce/Business-WordPress-Site</link><guid isPermaLink="false">freelancer:40772452</guid><pubDate>Sat, 17 Oct 2026 07:04:29 GMT</pubDate><description>15-25 USD/hr | I’m ready to launch a new WordPress-based business website that showcases our products and lets customers buy with ease. The core of the build is a dedicated product section that must include:
 
 • a clean, searchable product catalog  
