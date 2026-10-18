@@ -3,6 +3,50 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress/Elementor Developer — Add Video, Sponsor, Projects &amp; Newsletter Pages to Two Live Sites</title><link>https://www.freelancer.com/projects/elementor/WordPress-Elementor-Developer-Add-Video</link><guid isPermaLink="false">freelancer:40774601</guid><pubDate>Sun, 18 Oct 2026 18:06:59 GMT</pubDate><description>250-750 USD | Project title:
+WordPress/Elementor Developer — Add Video, Sponsor, Projects &amp; Newsletter Pages to Two Live Sites
+
+Skills: WordPress, Elementor, HTML/CSS, Website Design, Email Marketing Integration
+
+Description:
+
+I need an experienced WordPress + Elementor developer to add six new pages across two live Elementor sites. New pages must match each site’s existing design, navigation, and responsive behavior — this is an extension, not a redesign.
+
+Site 1: https://each1teach1network.org/ — 501(c)(3) nonprofit (international mentorship programs)
+Site 2: https://charlesearljohnson.com/ — corporate/personal portfolio site
+
+Scope
+
+Videos page (both sites) — Filterable video gallery with lightbox/embedded player; supports YouTube/Vimeo embeds and direct media-library uploads; new videos addable without code.
+Sponsor page (each1teach1network.org) — Sponsorship tiers with benefits, sponsor logo grid, inquiry form (emailed submissions), CTA linked to the existing Zeffy donation flow.
+Projects page (each1teach1network.org) — Card-based project showcase (image, summary, status, location, detail link) built as a reusable template or custom post type. Separate from the existing Programs page.
+Newsletter page (both sites) — Double-opt-in signup form connected to Mailchimp/MailerLite (propose best fit), past-issues archive, and a reusable signup block for footer/other pages.
+
+All pages: added to main and footer menus; responsive and cross-browser tested; basic on-page SEO; stay within Elementor with minimal, justified plugins; short hand-off doc or screen recording showing how to add content to each page.
+
+Deliverables: 6 published, tested pages in navigation; working forms and email integration (test submission confirmed); hand-off documentation.
+
+Access: WordPress admin account on each site. Work on staging or off-peak — sites are live. All work is the property of the site owner.
+
+Timeline: 2–3 weeks from award.
+
+Your proposal must include: two live Elementor sites you’ve built/extended; the video gallery and newsletter plugins you’d use and why; a fixed price and delivery estimate; confirmation you’ll use staging and provide documentation. Start your proposal with “ELEVATE” to show you read the brief. Generic bids will be ignored.</description></item>
+<item><title>Shopify Single-Product Site &amp; Portal. THE GRUNGE BRUSH </title><link>https://www.freelancer.com/projects/ecommerce/Shopify-Single-Product-Site-Portal</link><guid isPermaLink="false">freelancer:40774598</guid><pubDate>Sun, 18 Oct 2026 18:05:15 GMT</pubDate><description>250-750 USD | I need a clean, conversion-focused Shopify build for one flagship product that comes in several variations. The entire site should be geared toward driving sales, so every design and UX choice must support a smooth path from landing to checkout.
+
+Core requirements  
+• A public storefront that highlights the product, its variations, and social proof, all optimized for speed and mobile.  
+• A secure dealer portal where approved resellers can log in, view wholesale pricing, place bulk orders, and download marketing assets.  
+• A  watch it work hyperlink,  placed prominently in the homepage banner, that links to our commercial-style YouTube video. The link should scan flawlessly on both desktop and mobile.  
+• Seamless payment, tax, and shipping setup for our target regions, plus basic on-page SEO so the store is ready to rank from day one.
+
+Acceptance criteria  
+1. Store passes Shopify’s speed and accessibility checks.  
+2. Dealer portal is fully functional with role-based access and easy product re-ordering.  
+3. QR code is embedded in the hero banner, tested across common devices and browsers.  
+4. All product variations display correctly and calculate price, inventory, and shipping in real time.  
+5. Site is delivered with a short Loom walkthrough explaining theme edits, Liquid sections, and key admin settings.
+
+If you’re confident with Shopify theme customization, Liquid, and portal setup, I’d like to see examples of previous single-product or B2B builds in your reply along with an estimated timeline.</description></item>
 <item><title>Web Development for Student Journal</title><link>https://www.freelancer.com/projects/web-development/Web-Development-for-Student-Journal</link><guid isPermaLink="false">freelancer:40774591</guid><pubDate>Sun, 18 Oct 2026 18:01:21 GMT</pubDate><description>250-750 CAD | **Project Title: Website Redesign &amp; Development for a Canadian Youth Journal**
 
 I'm the founder of **Aletheia**, a student-led Canadian philosophy journal dedicated to making writing, critical thinking, and intellectual discussion more accessible to middle and high school students.
@@ -667,19 +711,6 @@ Ideal skills and experience:
 - Experience with carousel sliders
 - Strong eye for minimalist aesthetics
 - Proficiency in layout organization</description></item>
-<item><title>Fun Staffing Platform Development</title><link>https://www.freelancer.com/projects/web-development/Fun-Staffing-Platform-Development</link><guid isPermaLink="false">freelancer:40772065</guid><pubDate>Sat, 17 Oct 2026 00:15:52 GMT</pubDate><description>30-250 USD | I’m launching a staffing agency website that feels lively and approachable yet still runs like clockwork. The core build includes:
-
-• Profile hub – separate, fully editable dashboards for employers and employees so each can manage résumés, company info, availability, and documents.  
-• Job engine – employers post shifts or long-term roles on a calendar view; qualified employees can search, apply, accept, or decline right from the same interface.  
-• Custom markup calculator – I need an on-page tool where I can enter an employee’s hourly rate and instantly show the employer the final bill rate after payroll, insurance, and my margin. The formula and percentages have to be editable from the admin panel.  
-• Invoicing – once a job is completed the system should generate a branded PDF invoice and email it to the employer automatically.  
-• Worker types – the workflow must recognise temporary, temp-to-hire, and direct placement assignments so I can track each category separately.  
-• Authentication – simple email-and-password sign-up/login with password-reset and basic “remember me” functionality.
-
-Please bring a modern tech stack, responsive design principles, and—most important—a fun and creative UI that matches my agency’s upbeat tone. After hand-off I want clear instructions or a short Loom walk-through so I can adjust calculator values, add new job fields, and export invoices without touching code.
-
-If you’re comfortable integrating these modules end-to-end and can suggest the best framework or CMS to keep future scaling painless, let’s talk timelines and milestones.</description></item>
-<item><title>Build My Lead Magnet and Email Marketing Funnel</title><link>https://www.freelancer.com/projects/graphic-design/Build-Lead-Magnet-Email-Marketing</link><guid isPermaLink="false">freelancer:40772032</guid><pubDate>Fri, 16 Oct 2026 23:24:35 GMT</pubDate><description>300-600 CAD | I’m seeking an experienced marketing automation freelancer to create a professional lead-generation system for my business, Dixie Bennett Soul-Body Alignment. The project includes designing a landing page, implementing a 15-question interactive assessment with scoring logic, integrating an email delivery and automation platform (Mailchimp preferred but open to other cost-effective options), setting up a follow-up email sequence, and connecting the booking pathway to my scheduling page. The deliverables must align with my brand tone: sophisticated, grounded, warm, and insightful. Testing and handover are required to ensure I can manage updates independently. I prefer cost-effective solutions with minimal recurring expenses.</description></item>
 <item><title>Enhance AI-Powered Real Estate SaaS</title><link>https://www.freelancer.com/projects/full-stack-development/Enhance-Powered-Real-Estate-SaaS</link><guid isPermaLink="false">freelancer:40771932</guid><pubDate>Fri, 16 Oct 2026 20:55:08 GMT</pubDate><description>8-15 USD/hr | Full-Stack AI Developer for Real Estate SaaS Platform — Long-Term Opportunity
 
 Hourly Budget: $10/hour
