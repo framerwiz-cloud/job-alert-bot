@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Platform for Distressed Deals</title><link>https://www.freelancer.com/projects/api-developmet/Platform-for-Distressed-Deals</link><guid isPermaLink="false">freelancer:40774407</guid><pubDate>Sun, 18 Oct 2026 15:16:05 GMT</pubDate><description>15-25 USD/hr | I’m ready to invest in a custom AI-driven platform that takes a distressed real-estate lead from raw data all the way through a signed purchase agreement—always targeting properties in pre-foreclosure, tax delinquency, or other high-motivation situations so we can acquire them well below market value.
+
+Core capabilities I need  
+• Data ingestion and enrichment: pull fresh owner and property details from public records, mainstream real-estate databases, and any relevant third-party APIs. The system must de-duplicate records, flag high-priority leads, and keep the data refreshed automatically.  
+• Predictive identification: use machine-learning models to score which owners are most likely to accept a discounted cash offer. Transparency on the factors driving each score is important so I can tweak my acquisition criteria.  
+• Multi-channel outreach: once a lead is approved, the platform should launch pre-configured SMS, e-mail, ringless voicemail, and postcard campaigns, then track every touchpoint in one timeline.  
+• Conversation automation: integrate a GPT-style conversational agent that can handle routine seller questions and book calls into my calendar while handing complex threads off to me or my acquisitions manager.  
+• Negotiation &amp; contract workflow: auto-populate offer numbers, generate state-specific purchase agreements, route them for e-signature, and store everything in a secure deal folder.  
+• Deal pipeline dashboard: Kanban or similar view showing lead → offer → under contract → closed, with projected profit and time to close calculations.  
+• Mobile first: a companion app for both iOS and Android so I can review comps, fire off messages, or sign docs on the go.
+
+Acceptance criteria  
+1. End-to-end demo that starts with raw data import and finishes with a signed test contract.  
+2. Accuracy metrics for lead scoring and outreach delivery provided in a written report.  
+3. Source code, model notebooks, and setup scripts delivered in a private repository with clear README.  
+4. Deployment documents for both cloud hosting and App Store / Play Store submission.
+
+If you have prior experience mingling AI, prop-tech data feeds, and transactional workflows, let’s talk about milestones and timelines—I’m ready to move quickly.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Sun, 18 Oct 2026 12:40:05 GMT</pubDate><description>8-15 USD/hr | We are adding contracting work to wilserv insulation and updating web browser to reflect. We were primarily a insulation/roof coating company but built gas stations and houses on the side. We know hold a light commercial and residential license in GA and need some buisness in the remolding and new light commercial and residential market. What is the best way to get some marketing out there?</description></item>
 <item><title>WordPress Website Speed &amp; Core Web Vitals Specialist Required</title><link>https://www.freelancer.com/projects/php/WordPress-Website-Speed-Core-Web</link><guid isPermaLink="false">freelancer:40774233</guid><pubDate>Sun, 18 Oct 2026 12:21:07 GMT</pubDate><description>20-250 GBP | Website: https://shorturl.at/TZAs6
 Platform: WordPress, CarDealer Theme, WPBakery, Slider Revolution
