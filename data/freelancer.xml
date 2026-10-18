@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Animated Store &amp; 3D Modeling</title><link>https://www.freelancer.com/projects/animation/Shopify-Animated-Store-Modeling</link><guid isPermaLink="false">freelancer:40774885</guid><pubDate>Sun, 18 Oct 2026 22:49:03 GMT</pubDate><description>250-750 USD | I’m turning my 3D-printing passion into a full ecommerce brand and I’m looking for the right talent to help me launch. The project has two parallel tracks—feel free to apply for one or both.
+
+Shopify developer / animator  
+You’ll build the storefront on Shopify from the ground up, then layer in smooth product animations, page-transition animations, and engaging hover effects so visitors immediately feel the tactile nature of printed parts. Clean code, responsive layouts, and an eye for motion design are must-haves; knowledge of Liquid, GSAP or similar libraries will make life easier.
+
+3D modeler  
+Your role is to create print-ready files that showcase what’s possible with FDM and resin printers: single-piece moving parts, simple mechanisms, and the occasional custom client design. I’ll lean on you for proper tolerances, support considerations, and tidy, well-named STL/STEP files.
+
+Deliverables  
+– Developer: a live Shopify store with the three animation layers fully implemented and tested  
+– Modeler: an initial collection of five showcase models plus source files, sliced test prints, and basic assembly notes where relevant  
+
+Whether you come as an established duo or as individual specialists, I value clear communication, iterative feedback, and on-time delivery. Let’s build something that moves—both on screen and in real life.</description></item>
 <item><title>Final Polish for OpenCart Store</title><link>https://www.freelancer.com/projects/google-website-optimizer/Final-Polish-for-OpenCart-Store</link><guid isPermaLink="false">freelancer:40774821</guid><pubDate>Sun, 18 Oct 2026 21:57:02 GMT</pubDate><description>30-250 USD | My OpenCart store is approximately 95% built and I’m looking for someone to take it through the final stage and make it fully launch-ready.
 I am not looking for a full rebuild. I want someone who can work with the existing OpenCart  setup, improve what is already there, and hand back a storefront that feels cohesive, premium, professional and conversion-focused.
 Design &amp; layout
@@ -966,27 +979,6 @@ WooCommerce (or an equally robust plugin) is the natural fit here, but if you ha
 Once finished, I’ll need a brief hand-off guide or video so my team can add new items and moderate reviews without digging into code.
 
 Let me know the theme or stack you propose, any premium plugins you’d recommend, and a realistic timeline for first draft, revisions, and final hand-over.</description></item>
-<item><title>Shopify Store Readiness Audit</title><link>https://www.freelancer.com/projects/ecommerce/Shopify-Store-Readiness-Audit</link><guid isPermaLink="false">freelancer:40772375</guid><pubDate>Sat, 17 Oct 2026 06:09:20 GMT</pubDate><description>750-1500 GBP | I run three separate Shopify storefronts and need confirmation that every component is truly ready to start taking orders. My priority is to know, with certainty, that all systems are configured correctly—from the first click through to a completed payment—and to identify anything that might block a sale.
-
-Current situation  
-• PayPal and Shopify Payments are enabled, yet I have not tested the checkout flow on any of the stores.  
-• I want assurance that user experience, product pages, shipping, taxes, legal pages, and tracking pixels are all aligned and functional.
-
-Scope of work  
-1. Conduct a full-stack audit on each store: theme performance, navigation, product listings, SEO basics, policy pages, shipping and tax settings, and any launch-critical configurations.  
-2. Simulate real purchases to validate both PayPal and credit/debit card processing through Shopify Payments, documenting every step.  
-3. Review confirmation emails, abandoned-cart flows, and analytics events to ensure end-to-end tracking.  
-4. Provide a clear report per store that includes:  
-   • Issues discovered, ranked by urgency  
-   • Step-by-step instructions—or code snippets where relevant—to resolve each item  
-   • Recommended apps or configuration tweaks that could lift conversion rates  
-
-Acceptance criteria  
-• A test (or live) order completes successfully through both active payment gateways in each store.  
-• No critical errors remain in Shopify Diagnostics or browser console.  
-• The final report gives me everything I need to fix or delegate outstanding tasks quickly.
-
-If you have solid experience auditing multiple Shopify stores and can turn this around promptly, I’m ready to move forward.</description></item>
 <item><title>Enhance AI-Powered Real Estate SaaS</title><link>https://www.freelancer.com/projects/full-stack-development/Enhance-Powered-Real-Estate-SaaS</link><guid isPermaLink="false">freelancer:40771932</guid><pubDate>Fri, 16 Oct 2026 20:55:08 GMT</pubDate><description>8-15 USD/hr | Full-Stack AI Developer for Real Estate SaaS Platform — Long-Term Opportunity
 
 Hourly Budget: $10/hour
