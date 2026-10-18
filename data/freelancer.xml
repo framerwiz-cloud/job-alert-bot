@@ -3,6 +3,71 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Website Speed &amp; Core Web Vitals Specialist Required</title><link>https://www.freelancer.com/projects/php/WordPress-Website-Speed-Core-Web</link><guid isPermaLink="false">freelancer:40774233</guid><pubDate>Sun, 18 Oct 2026 12:21:07 GMT</pubDate><description>20-250 GBP | Website: https://shorturl.at/TZAs6
+Platform: WordPress, CarDealer Theme, WPBakery, Slider Revolution
+Hosting: Krystal, LiteSpeed Server
+
+Project Overview
+
+We are looking for an experienced WordPress performance specialist to investigate and improve our website's loading speed, particularly on mobile devices.
+
+Google Search Console reports poor Core Web Vitals, which may be affecting our SEO performance and customer enquiries.
+
+We have already carried out extensive testing and need someone who can identify and resolve the underlying problems rather than simply install optimisation plugins.
+
+Main Issues
+
+1. Slow Server Response
+
+Homepage takes approximately 2 to 2.5 seconds to generate.
+
+Other pages generate in around 0.8 to 1.4 seconds.
+
+Database queries account for only around 0.35 seconds.
+
+We need to identify which PHP functions or theme components are causing the delays.
+
+2. Poor Mobile Performance
+
+Google reports mobile LCP of 4.4 seconds from real visitor data.
+
+Mobile Lighthouse tests have recorded LCP between 8 and 14 seconds.
+
+Desktop performance is considerably better.
+
+Google identifies render blocking resources and image loading priority issues.
+
+3. Theme and Caching Conflicts
+
+LiteSpeed Cache causes incorrect mobile menus, logo sizing and header backgrounds, so it is currently disabled.
+
+Removing the unused Google Maps API breaks the CarDealer vehicle search price slider due to script dependencies.
+
+Any optimisation must preserve the site's existing functionality.
+
+Work Required
+
+We need someone to:
+
+Identify performance bottlenecks through proper PHP profiling.
+
+Investigate slow homepage processing and server response times.
+
+Resolve caching and theme compatibility issues.
+
+Improve mobile Core Web Vitals and image loading.
+
+Protect existing SEO, vehicle listings, search filters and enquiry forms.
+
+Provide before and after performance measurements.
+
+Important: Approval Before Changes
+
+We require a clear, step by step outline of findings and proposed changes before any modifications are made.
+
+Please explain what you recommend changing, why, the expected improvement and any potential risks.
+
+No changes to the live website without prior approval. Approved changes should be tested on a staging site first, with backups and a rollback plan.</description></item>
 <item><title>Product Page Creation &amp; Integration</title><link>https://www.freelancer.com/projects/web-development/Product-Page-Creation-Integration</link><guid isPermaLink="false">freelancer:40774085</guid><pubDate>Sun, 18 Oct 2026 10:11:58 GMT</pubDate><description>250-750 USD | I need to add and list all the product pages for b2print.com built and published so they mirror the look, flow, and user experience of the reference website mentioned in the attached word document. Project Budget is negotiable.
 
 You will complete the requirements on Stagging and then will transfer it ti live website after our testing confirmation on stagging.
@@ -643,16 +708,6 @@ Key deliverables
 The tech stack is flexible as long as it’s stable and easy for a non-developer to maintain. Let me know which platform or framework you think suits these needs best, how you’ll handle the member email whitelist, and a realistic timeline for design concepts, revisions and go-live.
 the existing website is at http://www.eventsociety.co.uk and currently doesn't feature the members only area. 
 An example of a more complex but similar website would be www.aiea.co.uk</description></item>
-<item><title>Lead-Generating IDX Realtor Website</title><link>https://www.freelancer.com/projects/web-development/Lead-Generating-IDX-Realtor-Website</link><guid isPermaLink="false">freelancer:40771538</guid><pubDate>Fri, 16 Oct 2026 15:49:17 GMT</pubDate><description>250-750 CAD | I’m launching a brand-new real estate site and the single most important outcome is a steady stream of qualified leads. To make that happen, I need an experienced developer who can build the site from the ground up, integrate a reliable IDX feed, and craft a fast, mobile-friendly user experience that encourages visitors to raise their hand.
-
-The site’s core lead-capture elements must include:  
-• Contact forms that store inquiries in a CRM or database I can access easily  
-• Real-time live chat support (embed of a service like Tawk.to, LiveChat, or a comparable solution)  
-• A robust property search interface powered by the IDX feed so users can filter, save, and share listings  
-
-Everything should be set up on a CMS that lets me add content, neighborhoods, and blog posts without touching code. Clean on-page SEO, responsive design, and analytics tagging are expected so I can measure performance from day one.
-
-Please outline your preferred tech stack, past IDX projects, and an estimated timeline for handing over a launch-ready site.</description></item>
 <item><title>WordPress Page Template Modifications</title><link>https://www.freelancer.com/projects/web-design/WordPress-Page-Template-Modifications</link><guid isPermaLink="false">freelancer:40770597</guid><pubDate>Fri, 16 Oct 2026 04:31:09 GMT</pubDate><description>15-25 USD/hr | I'm looking for assistance with modifying existing page templates on my WordPress site. 
 
 Requirements:
