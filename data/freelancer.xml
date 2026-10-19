@@ -3,6 +3,9 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Simvoly-Based Fundraising Marketplace Design</title><link>https://www.freelancer.com/projects/web-design/Simvoly-Based-Fundraising-Marketplace</link><guid isPermaLink="false">freelancer:40776019</guid><pubDate>Mon, 19 Oct 2026 14:01:02 GMT</pubDate><description>30-250 USD | Simvoly Design for Fundraising Promotion Business Marketplace. 
+
+Additional two jobs available upon completion.</description></item>
 <item><title>Senior Tech Lead / Full-Stack Developer for Technical Assessment of an Existing Travel-Tech Platform</title><link>https://www.freelancer.com/projects/angular-js/Senior-Tech-Lead-Full-Stack</link><guid isPermaLink="false">freelancer:40775998</guid><pubDate>Mon, 19 Oct 2026 13:46:42 GMT</pubDate><description>400-800 EUR | We are a travel-tech startup preparing to launch an advanced accommodation booking platform. The existing product includes a web application, two mobile apps, a substantial TypeScript/React codebase, numerous API endpoints, payment flows, and third-party integrations.
 
 We are looking for an experienced Tech Lead / Full-Stack Developer who can independently assess an existing codebase, identify the most important technical risks, and help us establish a realistic path to launch. We are not looking to rebuild the platform from scratch.
@@ -1036,71 +1039,6 @@ Acceptance criteria
 
 If you have prior experience mingling AI, prop-tech data feeds, and transactional workflows, let’s talk about milestones and timelines—I’m ready to move quickly.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Sun, 18 Oct 2026 12:40:05 GMT</pubDate><description>8-15 USD/hr | We are adding contracting work to wilserv insulation and updating web browser to reflect. We were primarily a insulation/roof coating company but built gas stations and houses on the side. We know hold a light commercial and residential license in GA and need some buisness in the remolding and new light commercial and residential market. What is the best way to get some marketing out there?</description></item>
-<item><title>WordPress Website Speed &amp; Core Web Vitals Specialist Required</title><link>https://www.freelancer.com/projects/php/WordPress-Website-Speed-Core-Web</link><guid isPermaLink="false">freelancer:40774233</guid><pubDate>Sun, 18 Oct 2026 12:21:07 GMT</pubDate><description>20-250 GBP | Website: https://shorturl.at/TZAs6
-Platform: WordPress, CarDealer Theme, WPBakery, Slider Revolution
-Hosting: Krystal, LiteSpeed Server
-
-Project Overview
-
-We are looking for an experienced WordPress performance specialist to investigate and improve our website's loading speed, particularly on mobile devices.
-
-Google Search Console reports poor Core Web Vitals, which may be affecting our SEO performance and customer enquiries.
-
-We have already carried out extensive testing and need someone who can identify and resolve the underlying problems rather than simply install optimisation plugins.
-
-Main Issues
-
-1. Slow Server Response
-
-Homepage takes approximately 2 to 2.5 seconds to generate.
-
-Other pages generate in around 0.8 to 1.4 seconds.
-
-Database queries account for only around 0.35 seconds.
-
-We need to identify which PHP functions or theme components are causing the delays.
-
-2. Poor Mobile Performance
-
-Google reports mobile LCP of 4.4 seconds from real visitor data.
-
-Mobile Lighthouse tests have recorded LCP between 8 and 14 seconds.
-
-Desktop performance is considerably better.
-
-Google identifies render blocking resources and image loading priority issues.
-
-3. Theme and Caching Conflicts
-
-LiteSpeed Cache causes incorrect mobile menus, logo sizing and header backgrounds, so it is currently disabled.
-
-Removing the unused Google Maps API breaks the CarDealer vehicle search price slider due to script dependencies.
-
-Any optimisation must preserve the site's existing functionality.
-
-Work Required
-
-We need someone to:
-
-Identify performance bottlenecks through proper PHP profiling.
-
-Investigate slow homepage processing and server response times.
-
-Resolve caching and theme compatibility issues.
-
-Improve mobile Core Web Vitals and image loading.
-
-Protect existing SEO, vehicle listings, search filters and enquiry forms.
-
-Provide before and after performance measurements.
-
-Important: Approval Before Changes
-
-We require a clear, step by step outline of findings and proposed changes before any modifications are made.
-
-Please explain what you recommend changing, why, the expected improvement and any potential risks.
-
-No changes to the live website without prior approval. Approved changes should be tested on a staging site first, with backups and a rollback plan.</description></item>
 <item><title>Web &amp; Desktop AI Agent Development</title><link>https://www.freelancer.com/projects/ai-automation/Web-Desktop-Agent-Development</link><guid isPermaLink="false">freelancer:40773976</guid><pubDate>Sun, 18 Oct 2026 08:37:00 GMT</pubDate><description>250-750 GBP | I'm seeking an experienced developer to create an AI agent using Claude. MUST BE IN THE UK.
 
 Key Requirements:
