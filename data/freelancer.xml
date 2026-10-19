@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom WordPress Checkout Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Checkout-Build</link><guid isPermaLink="false">freelancer:40776300</guid><pubDate>Mon, 19 Oct 2026 17:22:21 GMT</pubDate><description>15-25 USD/hr | I need a developer who can redesign and rebuild the checkout on my existing WordPress site so it feels smooth, looks on-brand, and works flawlessly from desktop to mobile. The new flow must:
+
+• Process payments through Credit/Debit cards, PayPal, and Bank transfers without sending shoppers off-site unless the gateway requires it.  
+• Let customers decide whether to complete their purchase as guests or create an account—both paths should be equally clear and quick.
+
+I already have the products, cart, and general styling in place; your focus is the checkout experience itself. That includes configuring or coding the payment gateways, customising the form layout, setting up validation and error handling, and making sure confirmation emails and order data are recorded correctly in the dashboard.
+
+Please outline:
+1. Your preferred approach or plugin stack (e.g., WooCommerce hooks, custom PHP, JavaScript enhancements).  
+2. An estimated timeline for initial mock-up, development, and final testing.  
+3. Any similar checkouts you’ve built that I can review.
+
+On delivery I’ll test each payment method, switch between guest and account flows, and confirm orders are tracked end to end. If that all passes smoothly, we’re done.</description></item>
 <item><title>Bilingual Framer Website Design fixed 330 </title><link>https://www.freelancer.com/projects/framer/Bilingual-Framer-Website-Design-fixed</link><guid isPermaLink="false">freelancer:40776273</guid><pubDate>Mon, 19 Oct 2026 17:01:11 GMT</pubDate><description>250-750 USD | I need a premium, contemporary website built in Framer that fluidly toggles between English and Arabic. The company champions accessibility and inclusion across Saudi Arabia, so every design choice must echo that mission while strictly following our established brand palette, typography, and logo usage.
 
 Scope of the build  
