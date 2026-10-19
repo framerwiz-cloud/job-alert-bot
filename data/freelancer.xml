@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom EzForm for Order Processing</title><link>https://www.freelancer.com/projects/api-integration/Custom-EzForm-for-Order-Processing</link><guid isPermaLink="false">freelancer:40775141</guid><pubDate>Mon, 19 Oct 2026 03:09:52 GMT</pubDate><description>250-750 USD | I run a small business and I’m ready to streamline the way online orders come in. I need a single, well-structured EzForm whose sole purpose is to capture and process customer orders from start to finish.  
+
+Here’s what I’m after:  
+• A clean, user-friendly layout that walks shoppers through the ordering steps without confusion.  
+• Solid validation so incomplete or incorrect submissions are flagged before they reach me.  
+• An admin view that lets me review, edit, and export order data quickly.  
+
+While my immediate priority is the core order-processing flow, I’m open to your recommendations on extras such as product selectors, payment hooks, or automated confirmations if you feel they’ll add value without overcomplicating things.  
+
+You’re free to choose the most efficient approach inside EzForm, but please deliver a fully functional form plus brief setup notes so I can maintain it myself later.</description></item>
 <item><title>Laravel Student Management Design</title><link>https://www.freelancer.com/projects/twitter-bootstrap/Laravel-Student-Management-Design</link><guid isPermaLink="false">freelancer:40775102</guid><pubDate>Mon, 19 Oct 2026 02:38:14 GMT</pubDate><description>250-750 USD | I’m building an academic Student Management System in Laravel and want to jump-start the project with a complete, ready-made design rather than designing every screen from scratch. If you already have a polished Laravel project—or a set of Blade templates—suited to student data, please share it with me.
 
 What I need  
@@ -1069,23 +1079,6 @@ Ideal Skills and Experience:
 - Familiarity with adding physical products and researching them. Making them look professional 
 - Attention to detail
 - Helpful in gathering missing product information</description></item>
-<item><title>E-commerce Product Page Makeover</title><link>https://www.freelancer.com/projects/shopify-site/commerce-Product-Page-Makeover</link><guid isPermaLink="false">freelancer:40773282</guid><pubDate>Sat, 17 Oct 2026 19:16:58 GMT</pubDate><description>250-750 USD | I run an e-commerce store from the Bay Area and need a focused clean-up so every product page loads fast, reads well, and converts. The rest of the site is fine; the product pages are where customers hesitate and search engines forget me.
-
-Here’s what I want us to tackle together:
-
-• Better images &amp; descriptions – compress without quality loss, add keyword-rich alt text, and polish copy that sells.  
-• Streamlined navigation – tighten categories, improve breadcrumbs, and cut extra clicks between browsing and cart.  
-• Improved SEO – refine meta tags, add structured data, and push Core Web Vitals into the green.
-
-My store front is with Shopify. We can meet in person around SF/Oakland if it speeds things up, but remote is okay once we’ve set the roadmap.
-
-Acceptance will be based on:
-
-1. Green Core Web Vitals for all product pages  
-2. At least a 15 % bump in organic SEO metrics compared with our current baseline  
-3. A concise style guide covering image specs, copy tone, and navigation rules  
-
-If your skill set matches and you’re local enough for the occasional coffee-shop review, let’s talk timelines and milestones.</description></item>
 <item><title>Comprehensive WordPress Site Overhaul</title><link>https://www.freelancer.com/projects/web-development/Comprehensive-WordPress-Site-Overhaul</link><guid isPermaLink="false">freelancer:40772535</guid><pubDate>Sat, 17 Oct 2026 08:12:33 GMT</pubDate><description>15-25 USD/hr | My WordPress site needs a full, end-to-end refresh. I want the layout modernised, pages loading noticeably faster, and every plugin, theme and core file kept fully patched so security is never an after-thought. Above all, I’m aiming to elevate functionality—anything that streamlines the user journey or adds smart features is on the table.
 
 Here’s what I expect you to handle:
