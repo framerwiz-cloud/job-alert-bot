@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Migration, SEO &amp; Landing</title><link>https://www.freelancer.com/projects/web-development/WordPress-Migration-SEO-Landing</link><guid isPermaLink="false">freelancer:40776413</guid><pubDate>Mon, 19 Oct 2026 18:41:45 GMT</pubDate><description>1500-3000 USD | Our current GoDaddy website has served us well, but we’ve outgrown its limitations. I’m ready to rebuild it on WordPress so we can fine-tune formatting, roll out a simple blog, and improve overall SEO performance.
+
+Scope of work  
+• Set up a fresh WordPress install (I have hosting ready or can follow your recommendation).  
+• Recreate the existing pages, matching current look and feel, then enhance them with advanced layout options and an intuitive drag-and-drop editor so I can tweak content myself without touching code. The About Us page needs to be easily editable by me - adding or removing photos and names.
+• Build one dedicated “campaign” landing page. It will be the URL printed on our QR-code marketing pieces and we would like to be able to track how many people come to our site through this code - we hope to ultimately lead them to the schedule a call page.
+• Configure on-page SEO fundamentals—clean permalinks, meta titles/descriptions, image alt tags, XML sitemap, and a solid SEO plugin—so we launch with better search visibility.  
+• Migrate existing blog posts (just a handful) and set up categories/tags for future publishing.  Would like to be able to easily format blog posts with different photo layouts.
+• Redirect any old GoDaddy URLs so we don’t lose traffic or ranking.
+
+Deliverables  
+1. Fully functional WordPress site on my domain, mirroring current content plus the new landing page.  
+2. Admin access with a page-builder interface (Elementor, Gutenberg blocks, or a tool you recommend) that supports custom layouts.  
+3. Basic SEO checklist completed and report of all redirects implemented.  
+4. Short hand-over video or call walking me through updating pages, posts, and the form.
+
+Timeline is flexible by end of year; I’ll provide images, copy, and existing site credentials right away. Let me know your preferred page-builder and any past WordPress migrations you’re proud of, and we can get started. We are in the process of updating our logo so I will get you all of those files as well.</description></item>
 <item><title>Minimalist Event Images Design</title><link>https://www.freelancer.com/projects/adobe-illustrator/Minimalist-Event-Images-Design</link><guid isPermaLink="false">freelancer:40776337</guid><pubDate>Mon, 19 Oct 2026 17:58:30 GMT</pubDate><description>15-25 USD/hr | I'm looking for a designer to create a series of images for live events (hiking, cycling, retreats) and a fitness program. The images will be used as website content as well as for social media. 
 
 Requirements:
@@ -1088,20 +1105,6 @@ How to apply: please start your proposal with answers to these three questions. 
 3. What do you charge? Please tell me the price per link or per month, and what exactly is included.
 
 To show that you have read this brief, include the word "GREENFOX" in the first line of your proposal. Proposals without this word will be rejected automatically.</description></item>
-<item><title>Launch My Single-Seller Online Store</title><link>https://www.freelancer.com/projects/web-development/Launch-Single-Seller-Online-Store</link><guid isPermaLink="false">freelancer:40774443</guid><pubDate>Sun, 18 Oct 2026 15:47:31 GMT</pubDate><description>250-750 CAD | I’m ready to roll out a single-seller e-commerce site that matches bigger brands for speed, security, and user-friendliness while keeping development costs sensible. The core build must include intuitive product search and filtering, a customer review &amp; rating section that feeds trust, and a fully secure payment gateway (Stripe, PayPal or an agreed local option) with PCI-compliant handling.
-
-Whether you prefer Shopify, WooCommerce, Magento, Laravel, or a headless approach with React and Node, I’m open to the stack that will give me reliable performance and easy future expansion. Clean, responsive design is essential, and I’d like the admin area to make inventory, orders, and basic promotions straightforward to manage without needing a developer each time.
-
-Deliverables
-• Mobile-first storefront, professionally branded  
-• Advanced search &amp; layered filters wired to product data  
-• Review &amp; rating module with moderation tools  
-• Payment gateway integration, test and live modes fully verified  
-• Admin dashboard for products, orders, coupons, reports  
-• Basic SEO configuration plus Google Analytics setup  
-• Deployment, final testing, and complete source-code hand-off
-
-Acceptance will be based on flawless checkout flow, page-load scores above industry benchmarks, and a documented handover covering environment setup and key configuration steps. I’m eager to start as soon as we agree on the timeline and milestones.</description></item>
 <item><title>AI Platform for Distressed Deals</title><link>https://www.freelancer.com/projects/api-developmet/Platform-for-Distressed-Deals</link><guid isPermaLink="false">freelancer:40774407</guid><pubDate>Sun, 18 Oct 2026 15:16:05 GMT</pubDate><description>15-25 USD/hr | I’m ready to invest in a custom AI-driven platform that takes a distressed real-estate lead from raw data all the way through a signed purchase agreement—always targeting properties in pre-foreclosure, tax delinquency, or other high-motivation situations so we can acquire them well below market value.
 
 Core capabilities I need  
