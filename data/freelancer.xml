@@ -3,6 +3,126 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify 2.0 Developer Needed for 300-SKU Ecommerce Store</title><link>https://www.freelancer.com/projects/website-design/Shopify-Developer-Needed-for-SKU</link><guid isPermaLink="false">freelancer:40775617</guid><pubDate>Mon, 19 Oct 2026 08:24:03 GMT</pubDate><description>250-750 USD | We are looking for an experienced Shopify Online Store 2.0 developer to customize and launch a professional ecommerce website for a 300-SKU product catalogue.
+
+The store will be built using Shopify’s Concept theme:
+https://themes.shopify.com/themes/concept/presets/concept
+
+All product images, descriptions, variants, and catalogue data are already prepared and organized.
+Project Requirements
+
+Shopify Theme Customization
+
+Customize the Concept theme to create a classic, elegant, and trustworthy storefront featuring:
+Refined typography
+Balanced white space
+Professional color palette
+Responsive desktop, tablet, and mobile layouts
+Clean and intuitive navigation
+Products organized by product type
+Mega menus where appropriate
+Smart collection filters
+Product discovery in two clicks or less
+Consistent product, collection, and content page templates
+Product Catalogue
+Upload approximately 300 products
+Add product descriptions, images, pricing, and variants
+Organize products into collections by product type
+Configure product options and variant selections
+Add SEO-friendly image alt text
+Review the catalogue for accuracy and consistency
+
+Integrations
+
+Implement and configure:
+Live chat with proactive chat prompts if supported
+AI product recommendations on product pages and in the cart
+Meta, Google, and other relevant remarketing pixels
+Conversion tracking
+Email newsletter and lead-generation pop-up
+Required analytics and marketing integrations
+We prefer a minimal app setup to protect website speed and performance.
+
+SEO
+
+Implement the provided SEO strategy across:
+Homepage
+Collection pages
+Product pages
+About page
+FAQ page
+Industries-served pages
+Blog and article pages
+SEO work should include:
+Keyword-focused H1 and H2 headings
+Meta titles under 60 characters
+Meta descriptions
+Image alt text
+Internal linking
+Structured data and rich snippets where appropriate
+Clean URLs and canonical tags
+Shopify technical SEO best practices
+Lazy-loaded images and media
+The SEO copy, keywords, and metadata will be provided.
+
+Performance
+
+The completed website should be optimized for Core Web Vitals on both desktop and mobile.
+Performance work should include:
+Optimized image sizes and formats
+CDN-friendly image delivery
+Minimal third-party scripts
+Removal or avoidance of unnecessary apps
+Clean and efficient theme code
+Lazy loading
+Mobile performance optimization
+Testing with Lighthouse, PageSpeed Insights, or an equivalent tool
+
+Deliverables
+
+Fully customized Shopify Online Store 2.0 theme
+Responsive ecommerce storefront based on the Concept theme
+Approximately 300 products uploaded and organized
+Product variants and collections configured
+Navigation, mega menus, and collection filters implemented
+Live chat integration
+AI product recommendation functionality
+Remarketing pixels and conversion tracking
+Email lead-generation pop-up
+On-page SEO implementation across all required pages and templates
+Image alt text and structured data implementation
+Mobile and performance optimization
+Core Web Vitals and performance report
+List of installed apps and their purpose
+Documentation of theme customizations and custom code
+Brief Zoom handoff walkthrough
+Final launch checklist
+
+Ideal Freelancer
+
+You should have:
+Strong Shopify Online Store 2.0 experience
+Proven experience customizing Shopify themes
+Excellent knowledge of Shopify Liquid, JSON templates, sections, and blocks
+Experience uploading and organizing large product catalogues
+Technical SEO and structured data knowledge
+Experience with Shopify analytics, pixels, remarketing, and email marketing
+Knowledge of Core Web Vitals and ecommerce performance optimization
+Strong design judgment and attention to detail
+Clear communication and reliable project management
+
+How to Apply
+
+Please include:
+Two or three examples of Shopify stores you have developed or customized
+A brief explanation of your experience with Shopify 2.0 and Liquid
+Examples of projects involving large product catalogues
+Your approach to maintaining strong Core Web Vitals
+Your recommended apps for live chat, product recommendations, and lead capture
+Estimated timeline and total project cost
+Confirmation that you can provide documentation and a Zoom handoff
+
+Please do not submit a generic proposal. Applications should specifically address the Shopify theme customization, 300-product upload, SEO, integrations, and performance requirements described above.</description></item>
 <item><title>E-Commerce Site, $4k Budget</title><link>https://www.freelancer.com/projects/graphic-design/Commerce-Site-Budget-40775510</link><guid isPermaLink="false">freelancer:40775510</guid><pubDate>Mon, 19 Oct 2026 07:32:17 GMT</pubDate><description>15-25 USD/hr | I’m ready to invest roughly US $4,000 in building a polished e-commerce website for my brand, Rakib. The goal is a fully responsive store that’s easy for my team to manage yet robust enough to handle future growth.
 
 Scope  
@@ -1052,42 +1172,6 @@ Please share examples of Shopify stores you've built, preferably in the wellness
 Also, let me know your estimated price, turnaround time, and what is included in your service.
 
 I'm looking for someone who can bring this brand to life with a polished, professional result.</description></item>
-<item><title>Fractional Tech Lead for AI-Driven Project</title><link>https://www.freelancer.com/projects/ai-development/Fractional-Tech-Lead-for-Driven</link><guid isPermaLink="false">freelancer:40773371</guid><pubDate>Sat, 17 Oct 2026 21:07:33 GMT</pubDate><description>250-750 USD | Fractional Technical Lead — WeWeb, Supabase &amp; AI Development
-
-Castle Estate Management is developing a homeowner service coordination platform using WeWeb, Supabase, GoHighLevel, SafetyCulture, and Stripe.
-
-We are using AI coding agents for the majority of development and are seeking an experienced technical lead to provide part-time oversight, architecture review, security validation, and occasional debugging.
-
-This is primarily an oversight position, not a full application development contract.
-
-Responsibilities:
-
-* Review database architecture, authentication, and Supabase Row Level Security.
-* Validate WeWeb workflows and integrations.
-* Review GoHighLevel webhooks, membership onboarding, and appointment synchronization.
-* Test critical homeowner and coordinator workflows.
-* Identify defects, security risks, and architectural weaknesses.
-* Provide written findings and approve technical readiness for launch.
-* Occasionally troubleshoot issues that AI agents cannot resolve.
-
-Requirements:
-
-* Demonstrable production experience with WeWeb and Supabase.
-* Strong PostgreSQL, authentication, and API integration knowledge.
-* Experience with Stripe webhooks and subscription applications.
-* Familiarity with AI-assisted development.
-* Ability to explain technical problems clearly to a nontechnical founder.
-
-Engagement: Initial paid architecture review, followed by approximately 2–4 hours weekly during development, with additional hours for prelaunch testing.
-
-Please include links or demonstrations of relevant applications, your hourly rate, and how you would approach reviewing an AI-built application.</description></item>
-<item><title>Shopify Product Setup</title><link>https://www.freelancer.com/projects/product-management/Shopify-Product-Setup</link><guid isPermaLink="false">freelancer:40773363</guid><pubDate>Sat, 17 Oct 2026 20:59:27 GMT</pubDate><description>30-250 USD | I need assistance adding 1-10 physical products to my Shopify store. The website is complete and set up; I just need help plunging products and launching them. Some product information is ready, but I might need help gathering the rest.
-
-Ideal Skills and Experience:
-- Experience with Shopify
-- Familiarity with adding physical products and researching them. Making them look professional 
-- Attention to detail
-- Helpful in gathering missing product information</description></item>
 <item><title>Comprehensive WordPress Site Overhaul</title><link>https://www.freelancer.com/projects/web-development/Comprehensive-WordPress-Site-Overhaul</link><guid isPermaLink="false">freelancer:40772535</guid><pubDate>Sat, 17 Oct 2026 08:12:33 GMT</pubDate><description>15-25 USD/hr | My WordPress site needs a full, end-to-end refresh. I want the layout modernised, pages loading noticeably faster, and every plugin, theme and core file kept fully patched so security is never an after-thought. Above all, I’m aiming to elevate functionality—anything that streamlines the user journey or adds smart features is on the table.
 
 Here’s what I expect you to handle:
@@ -1569,25 +1653,6 @@ Ideal Skills and Experience:
 - Strong UI/UX design skills
 
 Looking forward to your bids!</description></item>
-<item><title>Build 40 Suburb Pages</title><link>https://www.freelancer.com/projects/web-development/Build-Suburb-Pages</link><guid isPermaLink="false">freelancer:40763361</guid><pubDate>Mon, 12 Oct 2026 07:50:40 GMT</pubDate><description>2-8 AUD/hr | I’m rolling out a new section on my site and need 40 suburb-specific pages completed quickly—each one should take no more than 5-10 minutes once you get into the rhythm. I’ll send you a link to an existing suburb page so you can mirror its layout, voice, and formatting; stick to that structure throughout.
-
-Every page must highlight two core elements:
-
-• Local attractions that give visitors a sense of what makes the suburb worth a visit or a move  
-• Key demographics (population snapshot, median age, household type, or any other figures already shown on the reference page)
-
-You’ll simply plug these details into the template that’s already working on my site, keeping headings, sub-headings, and call-outs consistent. The CMS is straightforward (WordPress), so if you’re comfortable with the block editor this will move fast.
-
-Deliverables  
-• 40 live suburb pages published in the site’s existing format  
-• Each page includes concise attractions copy plus demographic stats  
-• Internal links, meta title, and meta description filled in exactly as on the reference model
-
-I’ll provide:  
-1. The reference link and login credentials  
-2. A spreadsheet listing all 40 suburbs with any starter data I have available  
-
-Once the first page is approved you can batch the rest. Quick, clean execution is the priority here; accuracy and consistency across pages will be my acceptance criteria.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
