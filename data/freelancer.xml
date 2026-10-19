@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Site With Real-Estate Calculator</title><link>https://www.freelancer.com/projects/css/WordPress-Site-With-Real-Estate</link><guid isPermaLink="false">freelancer:40775962</guid><pubDate>Mon, 19 Oct 2026 13:14:40 GMT</pubDate><description>250-750 USD | I’m ready to turn a large-language-model powered Industrial Real Estate Calculator into a public-facing WordPress site.  The immediate goal is a clean landing page that teases our “game-changing technology,” collects email sign-ups for the official launch, and lets registered users log in to test the calculator.  Monetisation must be built in from day one (think tiered access, ads, or other revenue switches), and the code base has to be flexible enough to add full real-estate tools and advertising sections later.
+
+I’ll be collaborating from New Jersey and need to do quick check-ins during Eastern Time Zone hours.  Because I’m budget-conscious, efficient use of existing WordPress, PHP and Laravel resources is essential; no reinventing the wheel if a solid plug-in or library already exists.
+
+Deliverables
+• Responsive WordPress front end with secure login / password reset  
+• Industrial Real Estate Calculator embedded and fully functional  
+• Email capture and pre-launch notice workflow (Mailchimp, SendGrid or similar)  
+• Monetisation hooks (subscription, ads, or pay-per-use—open to suggestions)  
+• Clean admin dashboard so I can tweak copy and add pages without touching code  
+• Code documented and handed off via Git or equivalent  
+
+Acceptance criteria will be a live staging URL passing basic UX tests on desktop and mobile plus a walkthrough showing me how to update content.
+
+When you reply, include links to recently built sites so I can judge design style and speed.  If your team can keep ET hours and you know WordPress, PHP, and Laravel inside out, let’s talk.</description></item>
 <item><title>E-commerce Website Development &amp; Design</title><link>https://www.freelancer.com/projects/web-development/commerce-Website-Development-Design-40775959</link><guid isPermaLink="false">freelancer:40775959</guid><pubDate>Mon, 19 Oct 2026 13:10:29 GMT</pubDate><description>750-1500 USD | We are looking for a skilled web designer and developer to create a professional, modern, and user-friendly website for our e-commerce platform. The website should feature an attractive design, intuitive navigation, mobile responsiveness, and a seamless shopping experience across desktop, tablet, and mobile devices.
 
 Key Requirements:
@@ -1099,27 +1114,6 @@ Deliverables
 Acceptance criteria: zero Level A or Level AA errors on the agreed pages, keyboard navigation works end-to-end, and assistive-technology testing confirms usability.
 
 If you specialise in WordPress accessibility and can move quickly, let’s finalise milestones and get started.</description></item>
-<item><title>Medical Website Build &amp; SEO</title><link>https://www.freelancer.com/projects/web-development/Medical-Website-Build-SEO</link><guid isPermaLink="false">freelancer:40773502</guid><pubDate>Sun, 18 Oct 2026 00:10:58 GMT</pubDate><description>250-750 AUD | I’m looking for a partner who can handle both the build and the promotion of a new medical clinic website so the content reaches the right audience in search and in Google Ads.
-
-Website scope  
-• Plan, design, and develop a clean, responsive site that reflects a professional medical practice and is compliant with health-sector privacy expectations.  
-• Structure content so patients can quickly locate conditions, treatments, and clinic details.  
-• Ensure page speed, schema markup, and technical elements are in place from day one for stronger organic visibility.
-
-SEO requirements  
-• Keyword research focused on medical intent and local search variations.  
-• Full on-page optimisation—titles, headers, meta descriptions, alt text, internal linking, and schema.  
-• Ethical off-page SEO through quality backlinks and citations on reputable health and local directories.
-
-Google Ads  
-Once the foundation is set, I’ll need tightly themed Google Ads campaigns that align with the keyword research, with conversion tracking configured so we can see which terms drive calls or form enquiries. Partner will need to be familiar with healthcare restrictions with respect to google ads in Australia. 
-
-Acceptance criteria  
-1. Website launches error-free on my hosting with SSL and basic analytics configured.  
-2. A hand-over document lists the target keywords, on-page optimisations implemented, and the first 30 link prospects secured.  
-3. Google Ads account goes live with at least two ad groups, approved ads, and conversion tracking verified.
-
-If you have a proven track record in medical SEO and can demonstrate compliant, ROI-positive Google Ads campaigns, I’d love to review your approach and timeline.</description></item>
 <item><title>Comprehensive WordPress Site Overhaul</title><link>https://www.freelancer.com/projects/web-development/Comprehensive-WordPress-Site-Overhaul</link><guid isPermaLink="false">freelancer:40772535</guid><pubDate>Sat, 17 Oct 2026 08:12:33 GMT</pubDate><description>15-25 USD/hr | My WordPress site needs a full, end-to-end refresh. I want the layout modernised, pages loading noticeably faster, and every plugin, theme and core file kept fully patched so security is never an after-thought. Above all, I’m aiming to elevate functionality—anything that streamlines the user journey or adds smart features is on the table.
 
 Here’s what I expect you to handle:
