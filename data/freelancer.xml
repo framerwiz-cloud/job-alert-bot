@@ -906,30 +906,6 @@ To keep things clear, here’s what I need handed over at project completion:
 
 Please include a brief outline of your proposed tech stack, estimated timeline, and a couple of relevant examples when you respond so I can see how you’d approach this all-in-one site.</description></item>
 <item><title>Build WordPress Pages &amp; Members Area</title><link>https://www.freelancer.com/projects/wordpress-design/Build-WordPress-Pages-Members-Area</link><guid isPermaLink="false">freelancer:40773611</guid><pubDate>Sun, 18 Oct 2026 02:48:46 GMT</pubDate><description>30-250 AUD | I need someone to work on my wordpress website. set up members area, link pages and set up shop area.</description></item>
-<item><title>Multi-Brand Marketing Site Finalization</title><link>https://www.freelancer.com/projects/catch-phrases/Multi-Brand-Marketing-Site-Finalization</link><guid isPermaLink="false">freelancer:40773600</guid><pubDate>Sun, 18 Oct 2026 02:33:10 GMT</pubDate><description>50+ AUD/hr | Yabbr is a Brisbane-based, Australian-owned communications platform (CPaaS) providing SMS, voice, MMS, email, chat and AI messaging to businesses and government, with direct connectivity to Australian carriers. We're looking for an experienced web consultant to lead the redevelopment of the marketing websites for three brands in the Yabbr Group:
-
-	1.	Yabbr (yabbr.io): our flagship brand, aimed at enterprise and mid-market buyers of messaging and voice services.
-	2.	ucomms / Yabbr Insights: our customer engagement and insights offering, which needs a clearer story and better alignment with the Yabbr brand.
-	3.	yWholesale: a new subsidiary serving carriers, resellers and wholesale partners. Logo and style guide are complete; the site is a build from scratch.
-
-What we need from you
-
-	•	Review our current sites, audience and positioning, and recommend a site structure and content approach for each brand
-	•	Propose a shared design system so all three sites feel like one group while each speaks to its own audience
-	•	Recommend a platform (e.g. Webflow, WordPress, headless CMS) that our marketing team can maintain without a developer
-	•	Design and build, or manage the build of, all three sites, including responsive layouts, lead capture forms and CRM integration
-	•	Technical SEO, page speed, analytics and conversion tracking set up from day one
-	•	Migration of existing content and redirects with no loss of search rankings
-	•	Handover documentation and training for our team
-
-About you
-
-	•	Proven track record redeveloping B2B or SaaS marketing sites (please share live examples)
-	•	Experience managing multi-brand or sub-brand site families
-	•	Strong on UX, copy structure and conversion, not just visual design
-	•	Telecommunications, tech or B2B services experience is a strong advantage
-	•	Australian based or able to work in AEST hours
-	•	Clear communicator who can run a project with minimal hand-holding</description></item>
 <item><title>WordPress WCAG AA Upgrade</title><link>https://www.freelancer.com/projects/accessibiliy/WordPress-WCAG-Upgrade</link><guid isPermaLink="false">freelancer:40773508</guid><pubDate>Sun, 18 Oct 2026 00:15:57 GMT</pubDate><description>30-250 USD | My current WordPress site must reach WCAG 2.0 Level AA. The most urgent gaps lie in the text-and-visual layer—colour contrast, font sizing, alt text—and in overall navigation and page structure. Users have already reported poor text contrast and keyboard-only navigation hurdles, so those issues come first.
 
 Once we agree on scope I will share the URL, theme details, and any plug-ins that might influence accessibility. I expect you to perform an initial audit (WAVE, axe DevTools or similar), correct the failures directly in the theme/templates, and return a clean retest report that shows every item at Level AA.
