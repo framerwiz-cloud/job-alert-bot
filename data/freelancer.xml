@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Month-One Metal Shop SEO</title><link>https://www.freelancer.com/projects/woocommerce/Month-One-Metal-Shop-SEO</link><guid isPermaLink="false">freelancer:40775073</guid><pubDate>Mon, 19 Oct 2026 02:12:10 GMT</pubDate><description>30-250 AUD | Our Australia-based heavy-metal and rock vinyl store is lining up a concentrated, four-week SEO sprint to lift organic sales nationwide and lay the groundwork for international roll-out in the next two-six months. I am opening full access to our Hostinger server, WordPress + WooCommerce build, Elementor Pro theme files, Google Search Console, and Analytics so you can work without roadblocks.
+READ THE FULL BRIEF CAREFULLY!!!! ALL OUR REQUIREMENTS ARE CLEARLY SET OUT&gt;
+
+Top priorities for Month 1
+• Increase organic traffic that converts inside Australia  
+• Fix indexing, crawl, speed and any other technical blockers you uncover  
+• Build a precise keyword map across every page, our 11 genre categories and a minimum of 20 flagship products  
+
+I will benchmark progress primarily against sites such as Discrepancy, though insights from Utopia, Heavy Metal Merchant and others are welcome if they sharpen our edge.
+
+Key tasks and deliverables
+• Technical audit and remediation (schema, Core Web Vitals, XML, robots.txt, sitemaps, canonical issues, duplicate content)  
+• On-page optimisation for all static pages plus the 11 categories and selected products, including metadata and internal linking  
+• Google Merchant Center feed tune-up so every product is approved and error-free  
+• Free-shipping threshold consistency check across promos, product pages and checkout  
+• Baseline report on day 1, then short weekly check-ins with clear metrics; shared dashboard preferred  
+• End-of-month review outlining results, lessons and an expansion roadmap (no ranking guarantees, just evidence-based KPIs)  
+
+Stack &amp; constraints  
+We run WordPress 6.x, WooCommerce, Elementor Pro and Hostinger staging. I supply all editorial copy and product descriptions, so you do NOT need to create generic blog posts or chase opaque link buys. White-hat link opportunities that naturally surface are fine; anything spammy is not.
+
+Acceptance criteria  
+1. All identified critical technical errors resolved and validated in Search Console.  
+2. Keyword map delivered in spreadsheet format and implemented site-wide.  
+3. Merchant Center feed passes diagnostics with no disapprovals.  
+4. Organic sessions and click-throughs show an upward trend, backed by GA4 data.  
+5. Clear plan documented for international SEO roll-out.
+
+Quote your total fee in AUD and outline the hours or milestones you believe will be needed. If the first month hits the marks above, I’m ready to extend into a retainer.</description></item>
 <item><title>Development of a Website and Mobile App with Rating and Email Functionality</title><link>https://www.freelancer.com/projects/graphic-design/Development-Website-Mobile-App-with</link><guid isPermaLink="false">freelancer:40775011</guid><pubDate>Mon, 19 Oct 2026 01:15:16 GMT</pubDate><description>250-500 USD | I am looking for a freelancer to design and develop a website and mobile app that allows users to rate coaches and send their ratings directly via email to designated recipients, such as Athletic Directors or Board Members. The subject line of the email should be prepopulated with "Your Coach Just Got Rated." 
 
 Key Features:
@@ -1079,39 +1108,6 @@ Website upgrades
 Future ecommerce projects
 
 We are ready to hire immediately for the right candidate. Preference will be given to applicants who can demonstrate successful XML feed automation and dropshipping experience with live examples.</description></item>
-<item><title>AI Travel Copilot Development</title><link>https://www.freelancer.com/projects/ai-chatbot/Travel-Copilot-Development</link><guid isPermaLink="false">freelancer:40772904</guid><pubDate>Sat, 17 Oct 2026 13:51:27 GMT</pubDate><description>250-750 AUD | I’m building a web-based copilot that can shoulder every logistical detail of a trip, from the first spark of an idea to the last calendar reminder. The agent must fluently handle search, reasoning and transactional tasks in one seamless flow: suggesting where to go, mapping out days, reserving everything, then keeping my schedule tidy.
-
-Platform  
-• Primary interface: modern, responsive web app (desktop &amp; mobile-friendly).
-
-Core planning intelligence  
-• Itinerary creation that adapts in real time to user preferences, time constraints and budget caps.  
-• Destination recommendations generated through data-driven insights and conversational AI.  
-• Travel budget management with live price tracking and clear cost breakdowns.
-
-Booking automation  
-• Flight booking  
-• Hotel booking  
-• Car-rental booking  
-In addition, the agent must schedule meetings, secure restaurant reservations and sync the full agenda to Google Calendar / Outlook without clashes.
-
-Key expectations  
-– Natural-language chat powered by GPT-style LLM or similar.  
-– Secure integration with major GDS / OTA APIs plus OpenTable (or equivalent) for restaurants.  
-– Calendar read/write and conflict detection.  
-– Transparent error handling so the user always knows what succeeded or needs attention.  
-– Clean, maintainable codebase, documented and deployable on a mainstream cloud stack.
-
-Delivery criteria  
-1. Working web application hosted on a test environment.  
-2. Source code with setup instructions.  
-3. Short demo video or live walkthrough proving the agent can:  
-   • propose an itinerary,  
-   • book a flight + hotel + car on sandbox endpoints,  
-   • reserve a restaurant,  
-   • add all events to a calendar.
-
-If you’re confident integrating AI with travel and calendar APIs while keeping UX frictionless, let’s get this rolling.</description></item>
 <item><title>Comprehensive WordPress Site Overhaul</title><link>https://www.freelancer.com/projects/web-development/Comprehensive-WordPress-Site-Overhaul</link><guid isPermaLink="false">freelancer:40772535</guid><pubDate>Sat, 17 Oct 2026 08:12:33 GMT</pubDate><description>15-25 USD/hr | My WordPress site needs a full, end-to-end refresh. I want the layout modernised, pages loading noticeably faster, and every plugin, theme and core file kept fully patched so security is never an after-thought. Above all, I’m aiming to elevate functionality—anything that streamlines the user journey or adds smart features is on the table.
 
 Here’s what I expect you to handle:
