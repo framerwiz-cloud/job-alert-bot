@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom E-Commerce Site with AliExpress</title><link>https://www.freelancer.com/projects/api-integration/Custom-Commerce-Site-with-AliExpress</link><guid isPermaLink="false">freelancer:40778406</guid><pubDate>Tue, 20 Oct 2026 20:24:10 GMT</pubDate><description>1500-3000 USD | I need a full-featured e-commerce website built from the ground up—no Shopify, no off-the-shelf themes. A completely custom solution will give me the flexibility I need for long-term growth and brand control.
+
+Core requirements
+• User accounts with secure registration, social login optional, and a simple dashboard for order history and saved items.  
+• Product reviews and star ratings that can be moderated from the admin panel.  
+• Fast, intuitive search with filters (price, category, rating, point value, etc.) and real-time suggestions.  
+• Every product carries a point value that is automatically tallied at checkout; accumulated points serve as entries in an ongoing sweepstakes / prize giveaway, so the cart and account pages must display running totals clearly.  
+• Products are sourced directly from AliExpress. They need to arrive in my catalogue via automated API calls, not manual uploads. The sync should pull images, variations, inventory counts, and pricing, and let me adjust mark-ups before publishing.  
+
+Technical expectations
+The stack is up to you—Laravel, Django, Node.js, or another robust framework—as long as it’s secure, performant, and documented. I’ll need:
+1. A RESTful back end, cleanly structured for future mobile-app use.  
+2. A modern, responsive front end (React, Vue, or standard server-rendered templates—convince me).  
+3. AliExpress API integration or a reliable custom bridge that fetches, maps, and updates product data on a schedule I can configure.  
+4. Admin dashboard for catalogue, orders, users, reviews, giveaway points, and basic analytics.  
+5. Stripe and PayPal payment gateways to start, with room to add Klarna and Apple Pay later.  
+6. Deployment scripts or Docker setup so I can reproduce the environment on staging and production servers.
+
+Acceptance criteria
+• Page load under 2 s on desktop (Lighthouse 90+ performance score).  
+• AliExpress product sync runs without manual intervention and logs errors visibly.  
+• Checkout accurately records and displays sweepstakes points.  
+• OWASP top-10 vulnerabilities addressed; user data encrypted in transit and at rest.  
+• Full source code in Git with commit history, plus a brief README for setup and deployment.
+
+If this aligns with your expertise, let’s discuss timeline and phased milestones so we can launch a rock-solid store and scale from there.</description></item>
+<item><title>Wix Redesign &amp; POS Automation</title><link>https://www.freelancer.com/projects/wix/Wix-Redesign-POS-Automation</link><guid isPermaLink="false">freelancer:40778404</guid><pubDate>Tue, 20 Oct 2026 20:23:51 GMT</pubDate><description>15-25 USD/hr | I’m ready to give our current WIX site a fresh, colorful and vibrant face-lift while tightening its connection to our Roller POS 4 system. The job begins with a full visual overhaul, updated copy, and cleaner navigation so visitors reach the checkout screen faster and with fewer clicks. From there, I need the site maintained month-to-month—new promos added, seasonal images swapped, security patches applied, and performance checked.
+
+On the POS side, your mission is to connect Roller POS 4 seamlessly to WIX. Once the two platforms talk to each other, I want automated daily sales reports sent to my inbox and inventory levels updated in real-time, eliminating manual spreadsheet work. Experience with Roller’s API, Velo by Wix, and webhooks will be essential.
+
+Deliverables
+• Complete WIX redesign matching a bold, colorful style  
+• Content refresh and intuitive menu structure  
+• Stable Roller POS 4 integration (products, pricing, customer data)  
+• Automated sales-report emails and live inventory syncing  
+• Ongoing maintenance package with agreed response times
+
+I’ll provide brand assets, current site credentials, and POS API keys. Show me similar WIX projects you’ve handled, especially ones involving third-party integrations, and outline the tools or code you’ll use so I can see how you plan to keep everything running smoothly.</description></item>
 <item><title>E-commerce Site for Custom Wheels</title><link>https://www.freelancer.com/projects/ecommerce/commerce-Site-for-Custom-Wheels</link><guid isPermaLink="false">freelancer:40778322</guid><pubDate>Tue, 20 Oct 2026 18:56:28 GMT</pubDate><description>250-750 USD | I need a full-featured online store for my custom wheel and suspension business. The site’s single, overriding purpose is to sell products directly to customers, so every design and development choice must drive a seamless buying experience.
 
 Core requirements
@@ -708,32 +746,6 @@ Please include your recommended platform, delivery timeline, number of products 
 The domain, hosting/platform account and website administrator access must be under my ownership.
 
 Please share two relevant live websites you have built. Payments will be tied to agreed milestones.</description></item>
-<item><title>Senior Tech Lead / Full-Stack Developer for Technical Assessment of an Existing Travel-Tech Platform</title><link>https://www.freelancer.com/projects/angular-js/Senior-Tech-Lead-Full-Stack</link><guid isPermaLink="false">freelancer:40775998</guid><pubDate>Mon, 19 Oct 2026 13:46:42 GMT</pubDate><description>400-800 EUR | We are a travel-tech startup preparing to launch an advanced accommodation booking platform. The existing product includes a web application, two mobile apps, a substantial TypeScript/React codebase, numerous API endpoints, payment flows, and third-party integrations.
-
-We are looking for an experienced Tech Lead / Full-Stack Developer who can independently assess an existing codebase, identify the most important technical risks, and help us establish a realistic path to launch. We are not looking to rebuild the platform from scratch.
-
-Phase 1 – Initial Technical Assessment
-- Review the overall architecture and project structure.
-- Assess the build, deployment, and testing setup.
-- Identify and prioritize critical technical risks and potential launch blockers.
-- Review the highest-risk areas of the booking and payment workflows at an initial level.
-- Deliver a concise written assessment with recommended next steps, estimated effort, and the proposed scope and cost of a deeper audit.
-
-Required Experience:
-- Strong hands-on experience with React, Next.js, TypeScript, Node.js, and API integrations.
-- Proven experience taking over and stabilizing substantial existing codebases.
-- Experience with payment integrations including webhooks, refunds, failed transactions, and complex marketplace payment flows.
-- Familiarity with React Native/Expo, automated testing, security best practices, deployment workflows, and AI-assisted development tools is highly desirable.
-
-Candidates should include:
-1. Relevant examples of existing platforms they personally took over or stabilized.
-2. Their specific responsibilities in those projects.
-3. Their current availability for the initial assessment (15–20 hours) and potential follow-on work.
-
-Budget and Engagement:
-The initial assessment is limited to 15–20 hours, with a budget of $500–800. This is an initial assessment, not a comprehensive audit or production-readiness certification. Any additional work will be scoped and approved separately based on the findings.
-
-We may subsequently engage the selected candidate as Tech Lead and potentially add a second developer depending on results, availability, and budget.</description></item>
 <item><title>ASAP Multi-Channel Appointment Scheduler</title><link>https://www.freelancer.com/projects/customer-service/ASAP-Multi-Channel-Appointment-Scheduler</link><guid isPermaLink="false">freelancer:40775767</guid><pubDate>Mon, 19 Oct 2026 10:16:06 GMT</pubDate><description>5-10 GBP/hr | I need an experienced communicator who can jump in right away to handle every step of my appointment-setting flow. You will be:  
 
 • Placing and answering phone calls,  
