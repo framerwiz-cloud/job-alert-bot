@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Refine Web App Design - Phillipine, Vietnam, Europe Only</title><link>https://www.freelancer.com/projects/web-design/Refine-Web-App-Design-Phillipine</link><guid isPermaLink="false">freelancer:40777290</guid><pubDate>Tue, 20 Oct 2026 07:03:04 GMT</pubDate><description>250-750 USD | Hi,
+
+I've been working on a small web app for a while, and I'm at the point where I really want to improve how it looks and feels.
+
+The app is already working, but I'm not completely happy with the design. Some pages feel a bit plain, and I think the overall layout could be much better.
+
+I'm looking for a designer who has a good eye for detail and can help me make things look clean, modern, and easy to use.
+
+I'm not looking for anything overly fancy. I just want a nice, professional design that feels natural for users.
+
+Ideally, you should be comfortable working with Figma and have some experience designing websites or web apps.
+
+I already have a few ideas, but I'm also open to your suggestions. I'd prefer someone who can share their thoughts rather than just follow instructions.
+
+This is a small project for now, but there could be more work later if we work well together.
+
+If you're interested, please send me a couple of examples of your previous work and a rough idea of what you would charge.
+
+Thanks!</description></item>
 <item><title>Experienced web developer who can build a wholesale directory using Magento 2 Marketplace Extension. Do not bid if you do not have relevant experience or can show previous work websites</title><link>https://www.freelancer.com/projects/magento-2/Experienced-web-developer-who-can</link><guid isPermaLink="false">freelancer:40777286</guid><pubDate>Tue, 20 Oct 2026 06:57:42 GMT</pubDate><description>250-750 AUD | EXPERIENCED web developer who can build a wholesale directory using Magento 2 Marketplace Extension. 
 https://store.webkul.com/magento2-multi-vendor-marketplace.html
 
@@ -892,23 +911,6 @@ Here’s what I’m after:
 While my immediate priority is the core order-processing flow, I’m open to your recommendations on extras such as product selectors, payment hooks, or automated confirmations if you feel they’ll add value without overcomplicating things.  
 
 You’re free to choose the most efficient approach inside EzForm, but please deliver a fully functional form plus brief setup notes so I can maintain it myself later.</description></item>
-<item><title>Laravel Student Management Design</title><link>https://www.freelancer.com/projects/twitter-bootstrap/Laravel-Student-Management-Design</link><guid isPermaLink="false">freelancer:40775102</guid><pubDate>Mon, 19 Oct 2026 02:38:14 GMT</pubDate><description>250-750 USD | I’m building an academic Student Management System in Laravel and want to jump-start the project with a complete, ready-made design rather than designing every screen from scratch. If you already have a polished Laravel project—or a set of Blade templates—suited to student data, please share it with me.
-
-What I need  
-• A clean, well-structured Laravel (v8 or higher) project or template focused on student management.  
-• Core screens already laid out: dashboard, student list/profile, simple enrollment form, and at least one example of a grades or attendance page.  
-• Bootstrap, Tailwind, or similar utility CSS already wired up so I can tweak branding quickly.  
-• Authentication scaffolding ready to go (Laravel Breeze, Jetstream, or your own solution).  
-• Clear setup instructions (clone, composer install, npm build, migrate/seed) so I can have it running in minutes.  
-• Commented code and Blade files that make it easy to extend or strip down features.
-
-Nice-to-haves  
-If your template already includes extra modules—advanced enrollment flows, bulk grade import, attendance reports—that’s a bonus, but not required.
-
-Deliverable  
-A zipped repository or Git link containing the Laravel project, plus any SQL seed file and a short README covering installation and basic customization.
-
-I’ll review demos or screenshots first, so feel free to send a link or short video walkthrough of what you have.</description></item>
 <item><title>Custom WordPress E-Commerce Store Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Commerce-Store-Build-40774921</link><guid isPermaLink="false">freelancer:40774921</guid><pubDate>Sun, 18 Oct 2026 23:34:57 GMT</pubDate><description>15-25 USD/hr | I need a fully functional WordPress e-commerce store built from the ground up. The site will revolve around a completely custom-designed theme rather than an off-the-shelf template, so strong front-end skills and an eye for clean, conversion-focused design are essential.  
 
 The store must accept credit and debit card payments seamlessly. If you normally work with WooCommerce, Stripe, or similar gateways, feel free to recommend the most stable, PCI-compliant option—you’ll handle the setup, configuration, and end-to-end testing so that checkout runs smoothly on launch day.  
