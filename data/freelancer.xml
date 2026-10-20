@@ -17,20 +17,6 @@ Deliverables
 • Launch support: deployment, brief training session, and a short maintenance window for post-go-live tweaks  
 
 If you’re comfortable building this kind of automotive platform with a clean codebase and secure best practices, let’s get it on the road.</description></item>
-<item><title>Automate Shopify Workflows via Zapier</title><link>https://www.freelancer.com/projects/zapier/Automate-Shopify-Workflows-via-Zapier</link><guid isPermaLink="false">freelancer:40776179</guid><pubDate>Tue, 20 Oct 2026 01:12:04 GMT</pubDate><description>30-250 USD | My Shopify store now runs on several manual steps that I know can be replaced with clean, reliable automations. I already have active Zapier and n8n accounts and want both platforms leveraged where they make the most sense so the whole order-to-delivery cycle happens with minimal clicks.
-
-Scope  
-• Map the current Shopify workflow from the customer’s checkout through fulfilment and post-purchase messaging.  
-• Build and deploy the necessary Zaps or n8n flows to remove the manual steps—order routing, inventory sync, tagging, notifications, and any other process points we identify together.  
-• Where an integration gap appears, suggest sensible tools; Mailchimp for emails or QuickBooks for accounting are on the table if they simplify the stack.  
-• Hand over well-commented workflows plus a quick-reference document so I can maintain or expand them later.
-
-Acceptance criteria  
-1. All automations trigger reliably from real-time Shopify events.  
-2. No duplicate orders, stock discrepancies, or missed customer messages occur in testing.  
-3. I receive the exported Zapier blueprints / n8n JSON, a concise flowchart of the system, and a one-page maintenance guide.
-
-If you have solid experience connecting Shopify through Zapier or n8n and can prove stability under load, this should be a straightforward engagement.</description></item>
 <item><title>Squarespace Site for Construction Projects</title><link>https://www.freelancer.com/projects/graphic-design/Squarespace-Site-for-Construction</link><guid isPermaLink="false">freelancer:40776775</guid><pubDate>Tue, 20 Oct 2026 00:52:57 GMT</pubDate><description>1500-3000 AUD | I'm looking for a skilled Squarespace developer to create a professional website that promotes Aperi Management, a project management consultancy in building remediation (generally think of this as fixing old apartment buildings).
 
 For the short term, we just want a functional, good looking, professional website. We just want this looking good and live ASAP. We will add other elements in the future, perhaps a blog or SEO, etc. 
@@ -1032,6 +1018,17 @@ Customers should immediately see:
 BOGO Deals • Bundle Deals • Free Products • Sale Prices • New Categories
 
 The freelancer should focus on strong visual design, professional banners/images, easy navigation, filtering, mobile optimization, and making all promotions simple for customers to understand and purchase.</description></item>
+<item><title>Experienced Directory Website Designer</title><link>https://www.freelancer.com/projects/wordpress/Experienced-Directory-Website-Designer</link><guid isPermaLink="false">freelancer:40774902</guid><pubDate>Sun, 18 Oct 2026 23:15:25 GMT</pubDate><description>30-250 AUD | I need a fully-functional online directory devoted to business listings and I need it finished as soon as possible. The site must let companies create and manage their own profiles, display key details (name, address, phone, map, social links), and appear in fast, filterable search results. A responsive design is essential so visitors enjoy the same smooth experience on mobile and desktop.
+
+You are free to work in WordPress with a premium directory theme and custom child theme, or to propose another framework (Laravel, Django, custom React front-end, etc.) if you can deliver the same ease of use and SEO strengths. Whichever stack you choose, an intuitive admin area for bulk import/export of listings, user moderation, banner ad slots, and Google Analytics integration must be included.
+
+Please outline the similar directory sites you have already completed, highlighting the tech stacks used and any performance or SEO wins you achieved—your proven experience will weigh heaviest in my selection. Once we agree on scope, I will expect:
+
+• A staging link in the first 48 hours so I can follow progress  
+• Complete build with sample data and all core pages (Home, Category, Listing, Add-Listing, Contact) ready for review  
+• Final migration to my live server plus a short hand-over video or call
+
+Speed is critical, so let me know your earliest start time and realistic timeline to launch. I’m ready to move forward immediately with the right person.</description></item>
 <item><title>WordPress Expert Person Need</title><link>https://www.freelancer.com/projects/website-management/WordPress-Expert-Person-Need</link><guid isPermaLink="false">freelancer:40774894</guid><pubDate>Sun, 18 Oct 2026 23:04:08 GMT</pubDate><description>15-25 USD/hr | I need an experienced WordPress technician to become the steady pair of hands behind my site. Your first responsibility is ongoing upkeep: applying content, theme, and security updates promptly, testing them on a staging environment, and then rolling them out live with zero visible disruption.  
 
 Whenever a new requirement pops up I prefer a purpose-built solution, so you should be comfortable planning and coding clean, lightweight custom plugins that follow WordPress coding standards and play nicely with existing themes and core updates.  
