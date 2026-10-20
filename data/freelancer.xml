@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Squarespace Site for Construction Projects</title><link>https://www.freelancer.com/projects/graphic-design/Squarespace-Site-for-Construction</link><guid isPermaLink="false">freelancer:40776775</guid><pubDate>Tue, 20 Oct 2026 00:52:57 GMT</pubDate><description>1500-3000 AUD | I'm looking for a skilled Squarespace developer to create a professional website that promotes Aperi Management, a project management consultancy in building remediation (generally think of this as fixing old apartment buildings).
+
+For the short term, we just want a functional, good looking, professional website. We just want this looking good and live ASAP. We will add other elements in the future, perhaps a blog or SEO, etc. 
+
+Key Requirements:
+- Business promotion focus
+- Portfolio showcase for construction projects
+- Image gallery for project images
+- Integrated client booking system
+
+Ideal Skills and Experience:
+- Proficiency in Squarespace
+- Experience in creating business and portfolio websites
+- Strong design skills for a professional layout
+- Knowledge of integrating booking systems
+
+Please include examples of similar work in your bids.</description></item>
 <item><title>WordPress/Elementor Expert Needed — Fix Embedded Quote Form Without Redesign</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Elementor-Expert-Needed-Fix-40776764</link><guid isPermaLink="false">freelancer:40776764</guid><pubDate>Tue, 20 Oct 2026 00:45:33 GMT</pubDate><description>30-250 USD | I need an experienced WordPress/Elementor developer to fix an existing SmartMoving quote form on my business website. Currently, visitors must select a location from a dropdown menu before the quote form appears. I want to remove that dropdown and have the correct quote form load automatically on the homepage, with the SMS consent checkbox and disclosure clearly visible. This is necessary for our pending Twilio A2P SMS registration.
 
 We have already created replacement HTML/iframe code that accomplishes this, and it works correctly in Elementor's editor preview. However, when we attempt to publish the changes, Elementor produces Server Error 500 or occasionally Server Error 403. As a result, the existing form remains unchanged on the live website.
@@ -1033,19 +1050,6 @@ You will:
 • Keep backups, error logs, and version control (Git) in order for quick roll-backs  
 
 Please share examples of past maintenance work as well as at least one plugin you’ve built from scratch. I’m open to setting up either a one-off scope or an ongoing retainer—let me know which you prefer and how you would structure milestones.</description></item>
-<item><title>Shopify Animated Store &amp; 3D Modeling</title><link>https://www.freelancer.com/projects/animation/Shopify-Animated-Store-Modeling</link><guid isPermaLink="false">freelancer:40774885</guid><pubDate>Sun, 18 Oct 2026 22:49:03 GMT</pubDate><description>250-750 USD | I’m turning my 3D-printing passion into a full ecommerce brand and I’m looking for the right talent to help me launch. The project has two parallel tracks—feel free to apply for one or both.
-
-Shopify developer / animator  
-You’ll build the storefront on Shopify from the ground up, then layer in smooth product animations, page-transition animations, and engaging hover effects so visitors immediately feel the tactile nature of printed parts. Clean code, responsive layouts, and an eye for motion design are must-haves; knowledge of Liquid, GSAP or similar libraries will make life easier.
-
-3D modeler  
-Your role is to create print-ready files that showcase what’s possible with FDM and resin printers: single-piece moving parts, simple mechanisms, and the occasional custom client design. I’ll lean on you for proper tolerances, support considerations, and tidy, well-named STL/STEP files.
-
-Deliverables  
-– Developer: a live Shopify store with the three animation layers fully implemented and tested  
-– Modeler: an initial collection of five showcase models plus source files, sliced test prints, and basic assembly notes where relevant  
-
-Whether you come as an established duo or as individual specialists, I value clear communication, iterative feedback, and on-time delivery. Let’s build something that moves—both on screen and in real life.</description></item>
 <item><title>Ongoing WordPress Site Maintenance</title><link>https://www.freelancer.com/projects/php/Ongoing-WordPress-Site-Maintenance-40774801</link><guid isPermaLink="false">freelancer:40774801</guid><pubDate>Sun, 18 Oct 2026 21:29:07 GMT</pubDate><description>15-25 AUD/hr | I need a reliable WordPress professional to keep my site running smoothly over the long term. Your main focus will be routine plugin updates and day-to-day content edits; I’ll simply reach out whenever a change is needed, rather than on a fixed weekly or monthly schedule. 
 
 There are no unusual plugins or custom content systems to worry about—just standard WordPress, so you should be comfortable working inside the normal dashboard, running safe backups, and testing updates on a staging copy before pushing live. Solid attention to uptime, page-speed, and basic security hygiene is important to me even though I’m not asking for a full security-monitoring package right now.
