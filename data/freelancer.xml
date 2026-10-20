@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Migrate WordPress Site to a New Host</title><link>https://www.freelancer.com/projects/ssl/Migrate-WordPress-Site-New-Host</link><guid isPermaLink="false">freelancer:40777355</guid><pubDate>Tue, 20 Oct 2026 07:44:51 GMT</pubDate><description>30-250 CAD | Hi,
+I have a small business website built with WordPress, currently hosted on Bluehost. I've recently purchased a new hosting plan with Hostinger and need someone to help me migrate the entire website.
+The website is relatively simple, with around 6 pages, a contact form, and a few blog posts. There is no WooCommerce or complex functionality.
+What I need:
+•	Migrate all WordPress files, database, themes, plugins, and media.
+•	Keep the website design and content exactly the same.
+•	Configure the website on the new hosting account.
+•	Update DNS settings to point the domain to the new host.
+•	Make sure SSL/HTTPS works correctly.
+•	Test the website, contact form, images, and links after migration.
+•	Minimize downtime during the transfer.
+I also use a business email address through Google Workspace, so it's important that the migration doesn't interrupt my email service.
+I can provide access to both hosting accounts and the WordPress dashboard.
+Please let me know your price, estimated delivery time, and whether you've handled similar migrations before.
+I'd prefer someone who can complete this quickly and communicate throughout the process.
+Thank you!</description></item>
 <item><title>WordPress Local Environment Setup Guide</title><link>https://www.freelancer.com/projects/docker/WordPress-Local-Environment-Setup-Guide</link><guid isPermaLink="false">freelancer:40777311</guid><pubDate>Tue, 20 Oct 2026 07:12:44 GMT</pubDate><description>1500-3000 USD | I need a clean, repeatable local development workflow for a WordPress project that ultimately deploys to a production server with a similar stack. You’re free to choose Docker, Local by Flywheel, or another proven solution—as long as it runs smoothly on Windows, mirrors the production configuration I’ll outline, and can be spun up by anyone on the team without fuss.
 
 Here’s what the engagement looks like:  
@@ -627,12 +643,6 @@ Acceptance criteria
 5. Page should be listed FAST. 
 
 Please be comfortable working inside GoDaddy’s dashboard, handling DNS records, SSL, and basic responsive checks. Once the site is live and tests pass, the project is done.</description></item>
-<item><title>Wikidata Biography Enhancement / Creation</title><link>https://www.freelancer.com/projects/data-management/Wikidata-Biography-Enhancement-Creation</link><guid isPermaLink="false">freelancer:40776132</guid><pubDate>Mon, 19 Oct 2026 15:14:45 GMT</pubDate><description>10-15 GBP/hr | Several existing biography entries on Wikidata need fresh, properly sourced content so they remain accurate and complete over time. The immediate priority is adding new information, specifically:  
-• Personal details (e.g., verified dates and places of birth, education, family background where publicly documented).  
-
-I will supply preliminary references; you will vet them against reliable sources, format the data to Wikidata standards (statements, qualifiers, references), and submit clean edits that stick. After the first round of updates, an ongoing maintenance rhythm is required so future milestones and corrections can be handled quickly without triggering notability or citation flags.  
-
-Strong familiarity with Wikidata policies, property usage, and SPARQL is essential because I want each change to integrate seamlessly with existing items and related entities. Please outline your method for sourcing, your typical turnaround for live edits, and any past Wikidata biography work when you apply.</description></item>
 <item><title>Build Blossom Lilly Flower and Gift Shop Website in Dubai</title><link>https://www.freelancer.com/projects/web-design/Build-Blossom-Lilly-Flower-Gift</link><guid isPermaLink="false">freelancer:40776053</guid><pubDate>Mon, 19 Oct 2026 14:25:43 GMT</pubDate><description>250-750 USD | I need an elegant, mobile-friendly website for Blossom Lilly, a flower and gift shop in Dubai. The main goal is to help customers discover our products and place orders easily.
 
 Requirements:
@@ -749,126 +759,6 @@ Please handle the full setup: choosing and configuring an appropriate CMS or sta
 All three channels work together toward a single goal—getting prospects and clients onto my calendar, confirming the time, and updating them if anything changes. You’ll follow my simple script guidelines, log each contact in the shared calendar or CRM, and flag me instantly whenever a conversation requires my direct input.  
 
 Quick turnaround is essential; messages can’t sit unanswered. If you’re comfortable juggling calls, email, and SMS back-to-back and can start almost immediately, let’s talk about the details and get the process rolling today.</description></item>
-<item><title>Shopify 2.0 Developer Needed for 300-SKU Ecommerce Store</title><link>https://www.freelancer.com/projects/website-design/Shopify-Developer-Needed-for-SKU</link><guid isPermaLink="false">freelancer:40775617</guid><pubDate>Mon, 19 Oct 2026 08:24:03 GMT</pubDate><description>250-750 USD | We are looking for an experienced Shopify Online Store 2.0 developer to customize and launch a professional ecommerce website for a 300-SKU product catalogue.
-
-The store will be built using Shopify’s Concept theme:
-https://themes.shopify.com/themes/concept/presets/concept
-
-All product images, descriptions, variants, and catalogue data are already prepared and organized.
-Project Requirements
-
-Shopify Theme Customization
-
-Customize the Concept theme to create a classic, elegant, and trustworthy storefront featuring:
-Refined typography
-Balanced white space
-Professional color palette
-Responsive desktop, tablet, and mobile layouts
-Clean and intuitive navigation
-Products organized by product type
-Mega menus where appropriate
-Smart collection filters
-Product discovery in two clicks or less
-Consistent product, collection, and content page templates
-Product Catalogue
-Upload approximately 300 products
-Add product descriptions, images, pricing, and variants
-Organize products into collections by product type
-Configure product options and variant selections
-Add SEO-friendly image alt text
-Review the catalogue for accuracy and consistency
-
-Integrations
-
-Implement and configure:
-Live chat with proactive chat prompts if supported
-AI product recommendations on product pages and in the cart
-Meta, Google, and other relevant remarketing pixels
-Conversion tracking
-Email newsletter and lead-generation pop-up
-Required analytics and marketing integrations
-We prefer a minimal app setup to protect website speed and performance.
-
-SEO
-
-Implement the provided SEO strategy across:
-Homepage
-Collection pages
-Product pages
-About page
-FAQ page
-Industries-served pages
-Blog and article pages
-SEO work should include:
-Keyword-focused H1 and H2 headings
-Meta titles under 60 characters
-Meta descriptions
-Image alt text
-Internal linking
-Structured data and rich snippets where appropriate
-Clean URLs and canonical tags
-Shopify technical SEO best practices
-Lazy-loaded images and media
-The SEO copy, keywords, and metadata will be provided.
-
-Performance
-
-The completed website should be optimized for Core Web Vitals on both desktop and mobile.
-Performance work should include:
-Optimized image sizes and formats
-CDN-friendly image delivery
-Minimal third-party scripts
-Removal or avoidance of unnecessary apps
-Clean and efficient theme code
-Lazy loading
-Mobile performance optimization
-Testing with Lighthouse, PageSpeed Insights, or an equivalent tool
-
-Deliverables
-
-Fully customized Shopify Online Store 2.0 theme
-Responsive ecommerce storefront based on the Concept theme
-Approximately 300 products uploaded and organized
-Product variants and collections configured
-Navigation, mega menus, and collection filters implemented
-Live chat integration
-AI product recommendation functionality
-Remarketing pixels and conversion tracking
-Email lead-generation pop-up
-On-page SEO implementation across all required pages and templates
-Image alt text and structured data implementation
-Mobile and performance optimization
-Core Web Vitals and performance report
-List of installed apps and their purpose
-Documentation of theme customizations and custom code
-Brief Zoom handoff walkthrough
-Final launch checklist
-
-Ideal Freelancer
-
-You should have:
-Strong Shopify Online Store 2.0 experience
-Proven experience customizing Shopify themes
-Excellent knowledge of Shopify Liquid, JSON templates, sections, and blocks
-Experience uploading and organizing large product catalogues
-Technical SEO and structured data knowledge
-Experience with Shopify analytics, pixels, remarketing, and email marketing
-Knowledge of Core Web Vitals and ecommerce performance optimization
-Strong design judgment and attention to detail
-Clear communication and reliable project management
-
-How to Apply
-
-Please include:
-Two or three examples of Shopify stores you have developed or customized
-A brief explanation of your experience with Shopify 2.0 and Liquid
-Examples of projects involving large product catalogues
-Your approach to maintaining strong Core Web Vitals
-Your recommended apps for live chat, product recommendations, and lead capture
-Estimated timeline and total project cost
-Confirmation that you can provide documentation and a Zoom handoff
-
-Please do not submit a generic proposal. Applications should specifically address the Shopify theme customization, 300-product upload, SEO, integrations, and performance requirements described above.</description></item>
 <item><title>E-Commerce Site, $4k Budget</title><link>https://www.freelancer.com/projects/graphic-design/Commerce-Site-Budget-40775510</link><guid isPermaLink="false">freelancer:40775510</guid><pubDate>Mon, 19 Oct 2026 07:32:17 GMT</pubDate><description>15-25 USD/hr | I’m ready to invest roughly US $4,000 in building a polished e-commerce website for my brand, Rakib. The goal is a fully responsive store that’s easy for my team to manage yet robust enough to handle future growth.
 
 Scope  
