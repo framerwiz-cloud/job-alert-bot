@@ -661,21 +661,6 @@ Budget and Engagement:
 The initial assessment is limited to 15–20 hours, with a budget of $500–800. This is an initial assessment, not a comprehensive audit or production-readiness certification. Any additional work will be scoped and approved separately based on the findings.
 
 We may subsequently engage the selected candidate as Tech Lead and potentially add a second developer depending on results, availability, and budget.</description></item>
-<item><title>WordPress Site With Real-Estate Calculator</title><link>https://www.freelancer.com/projects/css/WordPress-Site-With-Real-Estate</link><guid isPermaLink="false">freelancer:40775962</guid><pubDate>Mon, 19 Oct 2026 13:14:40 GMT</pubDate><description>250-750 USD | I’m ready to turn a large-language-model powered Industrial Real Estate Calculator into a public-facing WordPress site.  The immediate goal is a clean landing page that teases our “game-changing technology,” collects email sign-ups for the official launch, and lets registered users log in to test the calculator.  Monetisation must be built in from day one (think tiered access, ads, or other revenue switches), and the code base has to be flexible enough to add full real-estate tools and advertising sections later.
-
-I’ll be collaborating from New Jersey and need to do quick check-ins during Eastern Time Zone hours.  Because I’m budget-conscious, efficient use of existing WordPress, PHP and Laravel resources is essential; no reinventing the wheel if a solid plug-in or library already exists.
-
-Deliverables
-• Responsive WordPress front end with secure login / password reset  
-• Industrial Real Estate Calculator embedded and fully functional  
-• Email capture and pre-launch notice workflow (Mailchimp, SendGrid or similar)  
-• Monetisation hooks (subscription, ads, or pay-per-use—open to suggestions)  
-• Clean admin dashboard so I can tweak copy and add pages without touching code  
-• Code documented and handed off via Git or equivalent  
-
-Acceptance criteria will be a live staging URL passing basic UX tests on desktop and mobile plus a walkthrough showing me how to update content.
-
-When you reply, include links to recently built sites so I can judge design style and speed.  If your team can keep ET hours and you know WordPress, PHP, and Laravel inside out, let’s talk.</description></item>
 <item><title>E-commerce Website Development &amp; Design</title><link>https://www.freelancer.com/projects/web-development/commerce-Website-Development-Design-40775959</link><guid isPermaLink="false">freelancer:40775959</guid><pubDate>Mon, 19 Oct 2026 13:10:29 GMT</pubDate><description>750-1500 USD | We are looking for a skilled web designer and developer to create a professional, modern, and user-friendly website for our e-commerce platform. The website should feature an attractive design, intuitive navigation, mobile responsiveness, and a seamless shopping experience across desktop, tablet, and mobile devices.
 
 Key Requirements:
@@ -897,6 +882,16 @@ Acceptance criteria
 • All integrations operate seamlessly in a staging environment before going live.
 
 Please note: only designers and developers who can point to previous luxury or premium-brand directory/marketplace work will move forward to the next conversation round. Portfolio links and a concise outline of the preferred tech stack will help speed up selection.</description></item>
+<item><title>Custom EzForm for Order Processing</title><link>https://www.freelancer.com/projects/api-integration/Custom-EzForm-for-Order-Processing</link><guid isPermaLink="false">freelancer:40775141</guid><pubDate>Mon, 19 Oct 2026 03:09:52 GMT</pubDate><description>250-750 USD | I run a small business and I’m ready to streamline the way online orders come in. I need a single, well-structured EzForm whose sole purpose is to capture and process customer orders from start to finish.  
+
+Here’s what I’m after:  
+• A clean, user-friendly layout that walks shoppers through the ordering steps without confusion.  
+• Solid validation so incomplete or incorrect submissions are flagged before they reach me.  
+• An admin view that lets me review, edit, and export order data quickly.  
+
+While my immediate priority is the core order-processing flow, I’m open to your recommendations on extras such as product selectors, payment hooks, or automated confirmations if you feel they’ll add value without overcomplicating things.  
+
+You’re free to choose the most efficient approach inside EzForm, but please deliver a fully functional form plus brief setup notes so I can maintain it myself later.</description></item>
 <item><title>Custom WordPress E-Commerce Store Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Commerce-Store-Build-40774921</link><guid isPermaLink="false">freelancer:40774921</guid><pubDate>Sun, 18 Oct 2026 23:34:57 GMT</pubDate><description>15-25 USD/hr | I need a fully functional WordPress e-commerce store built from the ground up. The site will revolve around a completely custom-designed theme rather than an off-the-shelf template, so strong front-end skills and an eye for clean, conversion-focused design are essential.  
 
 The store must accept credit and debit card payments seamlessly. If you normally work with WooCommerce, Stripe, or similar gateways, feel free to recommend the most stable, PCI-compliant option—you’ll handle the setup, configuration, and end-to-end testing so that checkout runs smoothly on launch day.  
@@ -1151,19 +1146,6 @@ Please provide examples of previous B2B marketplace, auction, inventory manageme
 Include your fixed-price quote, estimated delivery timeline, and number of revisions for Phase 1.
 
 We prefer a designer who can continue through all phases after successful completion of the initial project.</description></item>
-<item><title>Build My WooCommerce Storefront</title><link>https://www.freelancer.com/projects/woocommerce/Build-WooCommerce-Storefront-40765586</link><guid isPermaLink="false">freelancer:40765586</guid><pubDate>Tue, 13 Oct 2026 12:53:16 GMT</pubDate><description>15-25 USD/hr | I’m ready to turn my idea into a fully-functioning e-commerce shop and need a WooCommerce pro who can handle both design flair and solid technical setup. The end goal is a polished storefront that looks great on any device and runs smoothly behind the scenes.
-
-Here’s what I have in mind: a clean, conversion-focused design built directly in WordPress + WooCommerce, complete with payment gateway integration, a customer product-review section, and inventory management that keeps stock levels accurate without extra manual work. I’d like the theme customised to match my branding, pages laid out for easy navigation, and checkout streamlined so shoppers can move from cart to confirmation in as few clicks as possible.
-
-Key deliverables
-• Customised WooCommerce theme and responsive page layouts  
-• Fully configured payment gateways (Stripe, PayPal or similar) and test transactions completed  
-• Product review system styled to match the site and ready for moderation  
-• Inventory management set up with automatic stock updates and low-stock alerts  
-• Core plugins and security settings optimised for speed, SEO and data protection  
-• Final walk-through plus hand-off of admin documentation
-
-If you’ve launched stores before, know your way around CSS/PHP tweaks, and can keep communication clear and timely, I’d love to start right away.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
