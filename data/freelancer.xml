@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Recreate a Home Page Layout CSS as a style.css file</title><link>https://www.freelancer.com/projects/web-design/Recreate-Home-Page-Layout-CSS</link><guid isPermaLink="false">freelancer:40778077</guid><pubDate>Tue, 20 Oct 2026 16:00:23 GMT</pubDate><description>20-250 GBP | I need the exact layout of an existing website’s home page reproduced in pure CSS. This project is layout-only—I’m not interested in colours or typography right now. When your styles are applied to a simple HTML scaffold, every section (header, navigation bar, hero, content blocks, sidebar if present, and footer) should sit in the same positions and follow the same spacing rules as the original site.
+
+You’re free to structure the work however you prefer—single style.css or a small, well-named folder of modular files—so long as the code is clean, commented, and easy for me to extend later. Flexbox or CSS Grid is fine; use whatever achieves pixel-accurate alignment across current versions of Chrome, Firefox, Safari, and Edge.
+
+Deliverable  
+• A CSS file (or folder) that reliably recreates the home-page layout when I drop it into my HTML skeleton, with clear section comments.
+
+Acceptance test  
+If I can overlay screenshots of my page (running your CSS) on the live site and the elements line up within roughly two pixels, the job is done.</description></item>
 <item><title>Build iHerb Like Health E-Commerce Website</title><link>https://www.freelancer.com/projects/shopify-site/Build-iHerb-Like-Health-Commerce</link><guid isPermaLink="false">freelancer:40778005</guid><pubDate>Tue, 20 Oct 2026 15:05:06 GMT</pubDate><description>250-750 USD | Website Designer &amp; Developer Needed — iHerb-Style Health &amp; Wellness E-Commerce Store
 
 We are looking for an experienced Shopify/e-commerce designer and developer to build a professional health, wellness, and supplement website inspired by the structure and shopping experience of  ⁠iHerb.
