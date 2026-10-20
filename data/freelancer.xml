@@ -582,22 +582,6 @@ Please outline:
 3. Any similar checkouts you’ve built that I can review.
 
 On delivery I’ll test each payment method, switch between guest and account flows, and confirm orders are tracked end to end. If that all passes smoothly, we’re done.</description></item>
-<item><title>Bilingual Framer Website Design fixed 330 </title><link>https://www.freelancer.com/projects/framer/Bilingual-Framer-Website-Design-fixed</link><guid isPermaLink="false">freelancer:40776273</guid><pubDate>Mon, 19 Oct 2026 17:01:11 GMT</pubDate><description>250-750 USD | I need a premium, contemporary website built in Framer that fluidly toggles between English and Arabic. The company champions accessibility and inclusion across Saudi Arabia, so every design choice must echo that mission while strictly following our established brand palette, typography, and logo usage.
-
-Scope of the build  
-– Six core pages: Home, About Us, Contact Us, Why Accessibility, What We Do, and Solutions.  
-– Modern aesthetic throughout—clean layouts, confident white space, subtle motion, and crisp micro-interactions that feel high-end yet welcoming.  
-– Full bilingual structure: mirrored layouts, RTL optimisation, consistent typographic rhythm, and language-aware navigation.  
-– Accessibility baked in: semantic HTML, keyboard navigation, colour-contrast compliance, descriptive alt text, and clear focus states.  
-– Framer CMS setup so our team can update copy in both languages without touching code.  
-– Mobile-first responsiveness and performance optimisation (lazy loading, compressed assets, SEO-friendly meta in each language).  
-
-Deliverables  
-1. Framer project file with all pages, components, and CMS collections.  
-2. Live, hosted Framer site ready to launch on a custom domain.  
-3. Handoff guide outlining language-switch logic, CMS fields, and basic editing steps.  
-
-Completion is accepted when each page passes a WCAG AA audit, copy is switchable in one click, and the visual style matches our existing brand guidelines pixel-perfectly on desktop, tablet, and mobile.</description></item>
 <item><title>Simvoly-Based Fundraising Marketplace Design</title><link>https://www.freelancer.com/projects/web-design/Simvoly-Based-Fundraising-Marketplace</link><guid isPermaLink="false">freelancer:40776019</guid><pubDate>Mon, 19 Oct 2026 15:51:13 GMT</pubDate><description>30-250 USD | Simvoly Design for Fundraising Promotion Business Marketplace. Comes to a total of about 10 pages
 
 Additional two jobs available upon completion.</description></item>
@@ -902,6 +886,16 @@ Acceptance criteria
 • All integrations operate seamlessly in a staging environment before going live.
 
 Please note: only designers and developers who can point to previous luxury or premium-brand directory/marketplace work will move forward to the next conversation round. Portfolio links and a concise outline of the preferred tech stack will help speed up selection.</description></item>
+<item><title>Custom EzForm for Order Processing</title><link>https://www.freelancer.com/projects/api-integration/Custom-EzForm-for-Order-Processing</link><guid isPermaLink="false">freelancer:40775141</guid><pubDate>Mon, 19 Oct 2026 03:09:52 GMT</pubDate><description>250-750 USD | I run a small business and I’m ready to streamline the way online orders come in. I need a single, well-structured EzForm whose sole purpose is to capture and process customer orders from start to finish.  
+
+Here’s what I’m after:  
+• A clean, user-friendly layout that walks shoppers through the ordering steps without confusion.  
+• Solid validation so incomplete or incorrect submissions are flagged before they reach me.  
+• An admin view that lets me review, edit, and export order data quickly.  
+
+While my immediate priority is the core order-processing flow, I’m open to your recommendations on extras such as product selectors, payment hooks, or automated confirmations if you feel they’ll add value without overcomplicating things.  
+
+You’re free to choose the most efficient approach inside EzForm, but please deliver a fully functional form plus brief setup notes so I can maintain it myself later.</description></item>
 <item><title>Custom WordPress E-Commerce Store Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Commerce-Store-Build-40774921</link><guid isPermaLink="false">freelancer:40774921</guid><pubDate>Sun, 18 Oct 2026 23:34:57 GMT</pubDate><description>15-25 USD/hr | I need a fully functional WordPress e-commerce store built from the ground up. The site will revolve around a completely custom-designed theme rather than an off-the-shelf template, so strong front-end skills and an eye for clean, conversion-focused design are essential.  
 
 The store must accept credit and debit card payments seamlessly. If you normally work with WooCommerce, Stripe, or similar gateways, feel free to recommend the most stable, PCI-compliant option—you’ll handle the setup, configuration, and end-to-end testing so that checkout runs smoothly on launch day.  
