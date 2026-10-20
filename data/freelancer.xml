@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Repair Hacked CRM Website Securely</title><link>https://www.freelancer.com/projects/google-website-optimizer/Repair-Hacked-CRM-Website-Securely</link><guid isPermaLink="false">freelancer:40777271</guid><pubDate>Tue, 20 Oct 2026 06:49:54 GMT</pubDate><description>250-750 AUD | My combined CRM and public-facing website has been compromised and I need it cleaned up and hardened right away. The platform handles invoicing as well as day-to-day user interactions, so every minute of downtime hurts.
+
+Current interactive features that must remain fully functional after the fix:  
+• User registration/login  
+• Customer support/chat  
+
+Scope of work  
+1. Identify and remove every trace of malicious code, backdoors, or unauthorized files.  
+2. Patch the original attack vector and update core, themes, plug-ins, or libraries as required.  
+3. Reinforce server, database, and application security (firewall rules, permissions, SSL/TLS settings, etc.).  
+4. Validate that invoicing workflows, dashboards, and the interactive modules above work flawlessly post-cleanup.  
+5. Provide a concise report detailing what was found, what you did, and clear recommendations I can follow to prevent a repeat incident.
+
+Acceptance criteria  
+• Site and CRM load without redirects or alerts from security tools.  
+• User registration/login and live chat operate normally.  
+• Invoicing module generates and emails invoices correctly.  
+• Independent malware scanner reports a clean bill of health.
+
+If you have recent experience rescuing hacked CRM sites, I’d love to get this started immediately.</description></item>
 <item><title>Modern Granny Flat Design</title><link>https://www.freelancer.com/projects/building-designer/Modern-Granny-Flat-Design</link><guid isPermaLink="false">freelancer:40777124</guid><pubDate>Tue, 20 Oct 2026 05:21:40 GMT</pubDate><description>750-1500 AUD | I'm looking for an experienced designer to create a modern granny flat. This project is urgent and needs to be completed ASAP. 
 
 Ideal skills and experience:
@@ -888,35 +908,6 @@ Payments will be linked to completed and accepted milestones.
 Please include relevant enterprise software projects you have personally delivered, your role in those projects, your recommended technology stack, estimated cost and timeline, team composition and assumptions. Provide a cost breakdown by module and identify the shared platform development costs.
 
 I am looking for someone who understands business workflows, can recommend practical improvements and takes responsibility for delivering a reliable finished product.</description></item>
-<item><title>Month-One Metal Shop SEO</title><link>https://www.freelancer.com/projects/woocommerce/Month-One-Metal-Shop-SEO</link><guid isPermaLink="false">freelancer:40775073</guid><pubDate>Mon, 19 Oct 2026 02:12:10 GMT</pubDate><description>30-250 AUD | Our Australia-based heavy-metal and rock vinyl store is lining up a concentrated, four-week SEO sprint to lift organic sales nationwide and lay the groundwork for international roll-out in the next two-six months. I am opening full access to our Hostinger server, WordPress + WooCommerce build, Elementor Pro theme files, Google Search Console, and Analytics so you can work without roadblocks.
-READ THE FULL BRIEF CAREFULLY!!!! ALL OUR REQUIREMENTS ARE CLEARLY SET OUT&gt;
-
-Top priorities for Month 1
-• Increase organic traffic that converts inside Australia  
-• Fix indexing, crawl, speed and any other technical blockers you uncover  
-• Build a precise keyword map across every page, our 11 genre categories and a minimum of 20 flagship products  
-
-I will benchmark progress primarily against sites such as Discrepancy, though insights from Utopia, Heavy Metal Merchant and others are welcome if they sharpen our edge.
-
-Key tasks and deliverables
-• Technical audit and remediation (schema, Core Web Vitals, XML, robots.txt, sitemaps, canonical issues, duplicate content)  
-• On-page optimisation for all static pages plus the 11 categories and selected products, including metadata and internal linking  
-• Google Merchant Center feed tune-up so every product is approved and error-free  
-• Free-shipping threshold consistency check across promos, product pages and checkout  
-• Baseline report on day 1, then short weekly check-ins with clear metrics; shared dashboard preferred  
-• End-of-month review outlining results, lessons and an expansion roadmap (no ranking guarantees, just evidence-based KPIs)  
-
-Stack &amp; constraints  
-We run WordPress 6.x, WooCommerce, Elementor Pro and Hostinger staging. I supply all editorial copy and product descriptions, so you do NOT need to create generic blog posts or chase opaque link buys. White-hat link opportunities that naturally surface are fine; anything spammy is not.
-
-Acceptance criteria  
-1. All identified critical technical errors resolved and validated in Search Console.  
-2. Keyword map delivered in spreadsheet format and implemented site-wide.  
-3. Merchant Center feed passes diagnostics with no disapprovals.  
-4. Organic sessions and click-throughs show an upward trend, backed by GA4 data.  
-5. Clear plan documented for international SEO roll-out.
-
-Quote your total fee in AUD and outline the hours or milestones you believe will be needed. If the first month hits the marks above, I’m ready to extend into a retainer.</description></item>
 <item><title>Custom WordPress E-Commerce Store Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Commerce-Store-Build-40774921</link><guid isPermaLink="false">freelancer:40774921</guid><pubDate>Sun, 18 Oct 2026 23:34:57 GMT</pubDate><description>15-25 USD/hr | I need a fully functional WordPress e-commerce store built from the ground up. The site will revolve around a completely custom-designed theme rather than an off-the-shelf template, so strong front-end skills and an eye for clean, conversion-focused design are essential.  
 
 The store must accept credit and debit card payments seamlessly. If you normally work with WooCommerce, Stripe, or similar gateways, feel free to recommend the most stable, PCI-compliant option—you’ll handle the setup, configuration, and end-to-end testing so that checkout runs smoothly on launch day.  
