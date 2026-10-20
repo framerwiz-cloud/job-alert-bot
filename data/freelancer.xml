@@ -3,6 +3,39 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Experienced web developer who can build a wholesale directory using Magento 2 Marketplace Extension. Do not bid if you do not have relevant experience or can show previous work websites</title><link>https://www.freelancer.com/projects/magento-2/Experienced-web-developer-who-can</link><guid isPermaLink="false">freelancer:40777286</guid><pubDate>Tue, 20 Oct 2026 06:57:42 GMT</pubDate><description>250-750 AUD | EXPERIENCED web developer who can build a wholesale directory using Magento 2 Marketplace Extension. 
+https://store.webkul.com/magento2-multi-vendor-marketplace.html
+
+Please DO NOT bid if you do not have relevant experience or can show previous work websites. 
+Don't tell me you are limited by NDA. 
+
+I will make a report if you are a time waster and bidding for the sake of bidding and you can't prove your have relevant work experience
+
+Please show the screenshots freelancer reviews on relevant wholesale directory work, send me the website links and give me quotes and prices.
+
+DO NOT WASTE MY TIME IF YOU DONT HAVE RELEVANT EXPERIENCE. I WILL REPORT YOU TO FREELANCER&gt;
+
+I am launching a wholesale-only, business-to-business directory powered by the Magento 2 Marketplace Extension and need someone who has already built similar sites to step in and own the build from start to finish.
+
+Scope of work  
+The site must function as a true B2B marketplace, giving approved vendors the ability to upload products in bulk, manage inventory, and handle their own orders while I retain full administrative control. Robust product catalog management, vendor management, and order processing are all mandatory parts of the brief. In addition, the platform has to connect cleanly to my existing ERP, preferred payment gateways, and chosen shipping providers so that stock, pricing, payments, and tracking data stay perfectly in sync.
+
+Core deliverables  
+• Fully configured Magento 2 Marketplace Extension with custom B2B settings  
+• Product catalog management dashboard for vendors and admin  
+• Vendor onboarding workflow with approval logic  
+• Streamlined B2B checkout and order processing controls  
+• Real-time integrations to ERP, payment gateways, and shipping APIs (please specify the connectors you’ve used before)  
+• Responsive theme set-up, branded and ready for launch  
+• Migration of sample data to verify everything works before go-live
+
+Acceptance criteria  
+• All integrations sync without manual intervention for at least one week in staging.  
+• Vendors can add, edit, and retire products without admin assistance.  
+• Buyers can complete an order, receive confirmation, and track shipment end-to-end.  
+• Page load time stays under three seconds on desktop and mobile.  
+
+Show me at least one live Magento 2 marketplace or B2B portal you have delivered; code samples or admin screenshots are a plus. I plan to move quickly once I see proven expertise.</description></item>
 <item><title>Repair Hacked CRM Website Securely</title><link>https://www.freelancer.com/projects/google-website-optimizer/Repair-Hacked-CRM-Website-Securely</link><guid isPermaLink="false">freelancer:40777271</guid><pubDate>Tue, 20 Oct 2026 06:49:54 GMT</pubDate><description>250-750 AUD | My combined CRM and public-facing website has been compromised and I need it cleaned up and hardened right away. The platform handles invoicing as well as day-to-day user interactions, so every minute of downtime hurts.
 
 Current interactive features that must remain fully functional after the fix:  
@@ -876,38 +909,6 @@ Deliverable
 A zipped repository or Git link containing the Laravel project, plus any SQL seed file and a short README covering installation and basic customization.
 
 I’ll review demos or screenshots first, so feel free to send a link or short video walkthrough of what you have.</description></item>
-<item><title>Experienced Full-Stack Developer Required – Integrated Enterprise Management System</title><link>https://www.freelancer.com/projects/full-stack-development/Experienced-Full-Stack-Developer-40775095</link><guid isPermaLink="false">freelancer:40775095</guid><pubDate>Mon, 19 Oct 2026 02:30:31 GMT</pubDate><description>1500-3000 CAD | Experienced Full-Stack Developer Required – Integrated Enterprise Management System
-
-I am looking for an experienced freelance developer or small development team to design and develop a professional web-based **enterprise management system** covering learning, training, nonconformance management, continuous improvement and change management.
-
-The modules should work together through common user accounts, permissions, approval workflows, document storage and reporting. The platform must support multiple organizations with separate data and work smoothly on desktop, tablet and mobile browsers.
-
-The scope includes:
-
-- Learning and training management:** Course administration, registration, scheduling, attendance, assessments, certificates, training records, expiry reminders and competency tracking.
-- Nonconformance report (NCR) management:** Create and categorize NCRs, assign responsible persons, record investigations and root causes, track corrective actions and deadlines, attach evidence, verify effectiveness and approve closure.
-- Continuous improvement:** Capture improvement opportunities and suggestions, evaluate and prioritize proposals, assign actions, track implementation and record outcomes.
-- Change management tracker:** Register proposed changes, document reasons, assess impacts and risks, obtain approvals, assign implementation actions and track completion and review.
-- Administration and reporting:** Organization and user management, configurable forms and workflows, dashboards, notifications, document storage, audit trails and report exports.
-
-The following expectations are essential:
-
-- Complete development: Handle requirements clarification, UI/UX design, frontend, backend, database, testing and deployment. Deliver a fully functioning application ready for operational use.
-- Agreed scope and milestones: Confirm requirements, dependencies, deliverables, timelines and acceptance criteria before development. Propose a practical phased delivery plan.
-- Design approval: Provide wireframes or a clickable prototype for approval before full development.
-- Integrated, maintainable architecture: Use consistent navigation and shared records across modules, with clear links between related NCRs, improvement actions and changes. The system must support future expansion.
-- Security and traceability: Implement secure authentication, role-based permissions, separation of organizational data, protected documents, audit history and backup/recovery arrangements.
-- Progress visibility: Provide regular updates, working demonstrations at each milestone and ongoing access to the source-code repository.
-- Testing and corrections: Test individual modules and complete workflows across modules. Provide a staging environment for acceptance testing and resolve critical and major defects before final acceptance.
-- Complete handover: Supply source code, database structure, deployment instructions, administrator documentation and all necessary account access.
-- Post-launch support: Include a defined bug-fix warranty period and specify maintenance arrangements.
-- Transparent pricing: Identify inclusions, exclusions, third-party services and recurring costs. Additional work must be agreed before it is charged.
-
-Payments will be linked to completed and accepted milestones.
-
-Please include relevant enterprise software projects you have personally delivered, your role in those projects, your recommended technology stack, estimated cost and timeline, team composition and assumptions. Provide a cost breakdown by module and identify the shared platform development costs.
-
-I am looking for someone who understands business workflows, can recommend practical improvements and takes responsibility for delivering a reliable finished product.</description></item>
 <item><title>Custom WordPress E-Commerce Store Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Commerce-Store-Build-40774921</link><guid isPermaLink="false">freelancer:40774921</guid><pubDate>Sun, 18 Oct 2026 23:34:57 GMT</pubDate><description>15-25 USD/hr | I need a fully functional WordPress e-commerce store built from the ground up. The site will revolve around a completely custom-designed theme rather than an off-the-shelf template, so strong front-end skills and an eye for clean, conversion-focused design are essential.  
 
 The store must accept credit and debit card payments seamlessly. If you normally work with WooCommerce, Stripe, or similar gateways, feel free to recommend the most stable, PCI-compliant option—you’ll handle the setup, configuration, and end-to-end testing so that checkout runs smoothly on launch day.  
