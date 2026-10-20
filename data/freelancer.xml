@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Elementor Plugin Compatibility Fix</title><link>https://www.freelancer.com/projects/elementor/Elementor-Plugin-Compatibility-Fix</link><guid isPermaLink="false">freelancer:40776999</guid><pubDate>Tue, 20 Oct 2026 03:46:57 GMT</pubDate><description>15-25 USD/hr | I’m running a WordPress site built with Elementor and I’ve hit a plugin-compatibility wall. Elementor refuses to play nicely and I’ve traced the conflict to Advanced Custom Fields. The result: widgets fail to load and some layouts break whenever both plugins are active.
+
+I need someone who can jump in, isolate the exact point of conflict, and restore full functionality without sacrificing either plugin’s features. You’ll likely need to review version mismatches, PHP errors, server settings, and any rogue snippets that may have slipped into functions.php.
+
+Deliverables  
+• Diagnose the root compatibility error between Elementor and Advanced Custom Fields  
+• Apply a clean, future-safe fix (code tweak, hook adjustment, or settings change)  
+• Test all affected pages to confirm Elementor widgets render correctly  
+• Provide a brief summary of changes so I can replicate them on staging/live in the future
+
+The sooner this is stable, the better—my page edits are on hold until the issue is cleared.</description></item>
 <item><title>WordPress Clone: Piling Website</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Clone-Piling-Website</link><guid isPermaLink="false">freelancer:40776974</guid><pubDate>Tue, 20 Oct 2026 03:26:12 GMT</pubDate><description>30-250 AUD | I need an exact WordPress-based clone of www.totalpilingandexcavations.com.au, keeping its overall layout, typography and section flow while changing every light-blue accent to orange. I will supply the replacement hero video for the home page, so that simply has to be embedded and optimised. 
 
 The navigation must be upgraded to a visual mega-menu that shows thumbnail images and short descriptions for each category, and the build must include:
