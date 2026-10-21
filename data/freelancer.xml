@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Design &amp; Minor Development</title><link>https://www.freelancer.com/projects/web-design/Website-Design-Minor-Development</link><guid isPermaLink="false">freelancer:40780149</guid><pubDate>Wed, 21 Oct 2026 21:35:00 GMT</pubDate><description>30-250 USD | I need a small website created from the ground up, and I’m looking for someone who can handle both the visual design and the light development work required to launch it smoothly.
+
+Here’s what I have in mind:  
+• A clean, modern interface that looks great on desktop and mobile.  
+• Thoughtful UI/UX decisions—color palette, typography, imagery—all tied together in a cohesive style.  
+• A working build that turns those mock-ups into code. HTML/CSS/JS is fine, but if a lightweight CMS such as WordPress will speed things up and keep future edits simple, I’m open to that too.  
+
+Key tasks  
+1. Produce design mock-ups in Figma, Sketch, or XD for approval.  
+2. Convert approved designs into a responsive site.  
+3. Set up the core pages (home, about, services, contact) and a basic contact form.  
+4. Deploy to my existing hosting and run cross-browser/device checks.  
+
+Deliverables  
+• Editable design files.  
+• Live, fully responsive website.  
+• One-page hand-off guide so I can manage simple updates myself.  
+
+Please share a brief outline of how you’d approach this, how long you’d need, and links to 2–3 recent sites you’ve designed and built.</description></item>
+<item><title>WooCommerce Returns &amp; Exchanges Flow</title><link>https://www.freelancer.com/projects/web-development/WooCommerce-Returns-Exchanges-Flow</link><guid isPermaLink="false">freelancer:40780157</guid><pubDate>Wed, 21 Oct 2026 21:31:09 GMT</pubDate><description>3000-5000 USD | I need a seamless RMA experience built directly into my WooCommerce store so returns stop disappearing in an email black hole. From the shopper’s perspective they should be able to log in, select the exact items they want to send back or swap, tell us why, and instantly feel reassured that their request is in motion.  
+
+Here’s what I expect to see working end-to-end:
+
+• Customer portal steps: request made, auto-generated authorisation number issued once I approve, printable label or clear shipping instructions sent, and a live status line that moves from requested → approved → received → refunded (or exchanged).  
+• Exchange path that lets a shopper choose an alternative size or product instead of a straight refund while still following the same tracking flow.  
+• An admin dashboard inside WooCommerce listing every open RMA, sorted by age so nothing gets forgotten.  
+
+I’m counting on your past experience building similar workflows to define any extra states or edge cases I may have missed and, above all, to keep the customer’s anxiety low with timely automated updates.  
+
+Please outline how you plan to implement this inside WooCommerce, which hooks or plugins you would leverage (or what you’d custom-code), and a realistic timeline for going live.</description></item>
 <item><title>Minimalist Journal Purchase Site</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Journal-Purchase-Site</link><guid isPermaLink="false">freelancer:40780105</guid><pubDate>Wed, 21 Oct 2026 20:32:01 GMT</pubDate><description>30-250 AUD | I’m launching a simple online presence for a single physical product—my guided journal—and need it distilled into just two pages. The first page introduces the journal with clean, distraction-free visuals; the second page handles the entire buying flow.
 
 Design  
@@ -525,36 +555,6 @@ I will be supplying all website content. I’m looking for someone who can take 
 Please message me with examples of relevant work, an indication of costs and timescales, and details of what you would include in your service.
 
 Thank you!</description></item>
-<item><title>Removals Website &amp; Branding Package</title><link>https://www.freelancer.com/projects/branding/Removals-Website-Branding-Package</link><guid isPermaLink="false">freelancer:40777604</guid><pubDate>Tue, 20 Oct 2026 10:11:39 GMT</pubDate><description>30-250 AUD | I am launching a new removals company and need everything built from the ground up: a name that feels trustworthy, a classic-and-professional website inspired by https://www.ncgmovers.com.au/contact/#quote, and an all-in price for the full build.
-
-Scope of work  
-• Brand name proposals – at least three options that fit a premium, dependable removals image.  
-• Fully responsive website in a clean, traditional layout. Core pages: Home, About Us, Services, Space Calculator, and Blog.  
-• Contact form that routes enquiries straight to my email.  
-• Visual design mock-ups for approval before development (desktop &amp; mobile).  
-• WordPress or similar CMS so I can update content myself once we go live.  
-• Basic on-page SEO and Google Analytics setup.  
-• Final hand-over with login credentials, how-to guide, and 30 days of post-launch support.
-
-Acceptance criteria  
-1. Brand name is available as a .com and .com.au domain.  
-2. Website passes Google PageSpeed “Good” scores on desktop and mobile.  
-3. Contact form sends and stores messages reliably.  
-4. All five pages match agreed wireframes and display correctly on the latest versions of Chrome, Safari, Edge, and Firefox.
-
-After you review this brief, please outline your timeline, the tech stack you prefer, and a single figure or milestone breakdown covering concept, design, development, revisions, and launch.</description></item>
-<item><title>Shopify Store Revamp for Sports Apparel</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Revamp-for-Sports</link><guid isPermaLink="false">freelancer:40777433</guid><pubDate>Tue, 20 Oct 2026 08:43:12 GMT</pubDate><description>250-750 GBP | I'm seeking an experienced Shopify developer to enhance my existing sports clothing store. 
-
-Key tasks include:
-- Redesigning product pages for improved aesthetics and usability.
-- Adding product color variants on the shop page, displayed as individual products.
-
-Ideal skills and experience:
-- Proficiency in Shopify development
-- Strong design sense for e-commerce
-- Experience with product variant integration
-
-Please share your portfolio and relevant experience. Looking forward to your bids!</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
