@@ -388,15 +388,6 @@ Acceptance criteria
 • All core web vitals pass and no console errors appear during checkout.
 
 Timeline is flexible within reason, but I’d like to see a working prototype two weeks after kickoff and go live within a month. Let me know your proposed platform, past e-commerce examples, and any clarifying questions.</description></item>
-<item><title>Recreate a Home Page Layout CSS as a style.css file</title><link>https://www.freelancer.com/projects/web-design/Recreate-Home-Page-Layout-CSS</link><guid isPermaLink="false">freelancer:40778077</guid><pubDate>Tue, 20 Oct 2026 16:00:23 GMT</pubDate><description>20-250 GBP | I need the exact layout of an existing website’s home page reproduced in pure CSS. This project is layout-only—I’m not interested in colours or typography right now. When your styles are applied to a simple HTML scaffold, every section (header, navigation bar, hero, content blocks, sidebar if present, and footer) should sit in the same positions and follow the same spacing rules as the original site.
-
-You’re free to structure the work however you prefer—single style.css or a small, well-named folder of modular files—so long as the code is clean, commented, and easy for me to extend later. Flexbox or CSS Grid is fine; use whatever achieves pixel-accurate alignment across current versions of Chrome, Firefox, Safari, and Edge.
-
-Deliverable  
-• A CSS file (or folder) that reliably recreates the home-page layout when I drop it into my HTML skeleton, with clear section comments.
-
-Acceptance test  
-If I can overlay screenshots of my page (running your CSS) on the live site and the elements line up within roughly two pixels, the job is done.</description></item>
 <item><title>Shopify-Avasam Store Optimization &amp; Marketing</title><link>https://www.freelancer.com/projects/google-ads/Shopify-Avasam-Store-Optimization</link><guid isPermaLink="false">freelancer:40777867</guid><pubDate>Tue, 20 Oct 2026 13:35:50 GMT</pubDate><description>20-250 GBP | Hello, my Shopify‑Avasam store is new and quite basic right now. I need your team to:
 ‑ Fix all stock‑sync errors between Avasam and Shopify (including the current “unavailable” listing issue)
 ‑ Optimise my existing product pages
@@ -558,6 +549,44 @@ Ideal Skills and Experience:
 
 
 Please include examples of previous Shopify projects in your bids.</description></item>
+<item><title>Contractor Portfolio Website Development</title><link>https://www.freelancer.com/projects/web-development/Contractor-Portfolio-Website-Development</link><guid isPermaLink="false">freelancer:40776869</guid><pubDate>Tue, 20 Oct 2026 02:33:57 GMT</pubDate><description>750-1500 USD | Dream Homes Design &amp; Build
+
+Luxury Custom Homes | New Construction | Design &amp; Build
+
+Dream Homes Design &amp; Build is a premier residential home builder specializing in luxury custom homes, modern architectural designs, and high-quality new construction throughout Chicago's southwest suburbs. Our mission is to create exceptional homes that combine timeless elegance, innovative design, superior craftsmanship, and everyday functionality.
+
+Our website, DreamHomesDB.com, should reflect the quality of the homes we build — sophisticated, modern, luxurious, and professional.
+
+10 Key Features &amp; Goals for Our Website:
+
+1. Luxury &amp; Modern Website Design: Create a sophisticated, high-end website with clean layouts, elegant typography, premium imagery, and a modern architectural aesthetic. The website should immediately communicate luxury, quality, and professionalism.
+
+2. Custom Home Building Services: Showcase our ability to build beautiful custom homes tailored to each client's lifestyle, architectural preferences, and individual needs — from initial concept through final construction.
+
+3. New Construction Homes for Sale: Feature our available new construction homes with professional photography, property descriptions, floor plans, square footage, pricing, locations, and opportunities to schedule private showings.
+
+4. Portfolio of Completed &amp; Current Projects: Develop an impressive gallery featuring completed luxury homes, homes under construction, architectural renderings, exterior designs, kitchens, bathrooms, and premium interior finishes.
+
+5. Complete Design &amp; Build Experience: Explain our streamlined approach to residential construction, including architectural planning, design coordination, material selections, project management, construction, and final walkthroughs.
+
+6. Exceptional Quality &amp; Craftsmanship: Highlight our attention to detail, premium building materials, architectural features, energy-efficient construction, modern technology, and commitment to building homes that stand the test of time.
+
+7. Communities &amp; Service Areas: Showcase our home-building services throughout Chicago's southwest and western suburbs including Lemont, Homer Glen, Orland Park, Palos Park Burr Ridge Hinsdale and surrounding communities.
+
+8. Interactive Floor Plans &amp; Home Designs: Display detailed floor plans 3D architectural renderings exterior elevations and interior design concepts that help potential buyers visualize their future homes.
+
+9. Lead Generation &amp; Easy Communication: Make it simple for prospective customers to request consultations inquire about available properties discuss custom home projects schedule showings and contact our team. Include prominent calls to action such as Build Your Dream Home Explore Available Homes and Schedule a Consultation.
+
+10. Strong Branding SEO &amp; Mobile Experience: Build a fast mobile-friendly search-engine-optimized website designed to rank for searches such as "Luxury Home Builder Chicago Suburbs," "Custom Home Builder Lemont," "New Construction Homes Orland Park," and "Design Build Contractor Near Me." Maintain consistent branding across the website Google Business Profile and social media.
+
+Overall Website Vision:
+We want DreamHomesDB.com to look and feel like the website of an established high-end luxury home builder — not a typical general contractor.
+The design should emphasize large beautiful architectural photography elegant white space modern fonts subtle animations and a sophisticated color palette of black white warm neutrals and tasteful gold accents.
+Our goal is simple: When someone visits our website they should immediately recognize Dream Homes Design &amp; Build as a premium home builder they can trust to create an extraordinary home.
+Suggested Homepage Headline:
+Exceptional Homes. Thoughtful Design. Superior Craftsmanship.
+Suggested Tagline:
+Your Vision. Our Expertise. Your Dream Home.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
