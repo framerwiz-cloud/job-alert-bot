@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website UI Figma Redesign</title><link>https://www.freelancer.com/projects/figma/Website-Figma-Redesign</link><guid isPermaLink="false">freelancer:40779605</guid><pubDate>Wed, 21 Oct 2026 14:10:48 GMT</pubDate><description>10-150 USD | I need to revamp the UI of 7 key pages on my site 
+
+I will provide good UI mock ups that I have made showing the new layout direction
+
+I will also provide some old Figma files for the same project &amp; links to the existing pages
+
+You will provide well organized Figma files matching the new layout direction which my dev team will use to implement the revamp</description></item>
 <item><title>Shopify Bookstore Setup</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Bookstore-Setup</link><guid isPermaLink="false">freelancer:40776011</guid><pubDate>Wed, 21 Oct 2026 14:00:34 GMT</pubDate><description>250-750 USD | I'm seeking an experienced Shopify developer to design a store for selling both e-books and print books, specifically in the fiction category. 
 
 Key Requirements:
@@ -531,52 +538,6 @@ We prefer a small, fixed-price project with payment tied to successful completio
 Please communicate exclusively through Freelancer.com's messaging system. We will provide website identification, integration details, and access information privately to the selected freelancer.
 
 Our goal is to get the existing quote form working correctly as quickly and affordably as possible so we can proceed with our Twilio A2P registration.</description></item>
-<item><title>Equitable AI Access Platform Development</title><link>https://www.freelancer.com/projects/wordpress/Equitable-Access-Platform-Development</link><guid isPermaLink="false">freelancer:40776737</guid><pubDate>Tue, 20 Oct 2026 00:13:01 GMT</pubDate><description>250-750 USD | # AEINST: Founding Memorandum (2025–2029)
-**Mission Equity Access** (1.Mission Statement")
-
-## 1. Mission Statement
-"To bend the AI arc toward global equity and sustainable development by bridging the digital, compute, and investment divides. We are committed to shaping a prosperous digital future where Artificial Intelligence transforms society for all mankind—aligning with the 2030 Agenda by democratizing access to technology, empowering real-time decision-making, and fostering an inclusive ecosystem for underserved innovators worldwide."
-
-## 2. Business Plan Outline
-*   **Executive Summary:** AEINST aims to leverage AI as a cornerstone technology for the 2030 Sustainable Development Goals. We address the "AI Equity Gap"—the disparity in compute power, internet access, and investment between regions.
-*   **Problem Statement:** Significant global disparities exist: 98% of data centers are outside Africa; significant investment concentration in developed markets; and one-third of the global population lacks internet access.
-*   **Solution:** AEINST provides a platform for equitable AI access, utilizing real-time decision-making algorithms to optimize social and economic processes.
-*   **Business Model:** Focused on inclusive growth through tiered access, partnerships, and AI-driven resource management.
-*   **Operational Roadmap:** Deployment of an integrated e-commerce and resource-access portal. 
-*   **Financial Projections:** Strategic allocation of funds to bridge investment gaps, targeting high-impact sustainable development initiatives.
-
-## 3. Feature List: AEINST Platform
-*   **Accessibility First:** Designed with screen-reader compatibility, high-contrast modes, and low-bandwidth optimization.
-*   **User Dashboard:** A centralized hub to track equity progress, AI resource utilization, and personal/business growth.
-*   **Secure Transactions:** Integrated payment gateways for e-commerce and funding/investment flows.
-*   **Real-time Notifications:** Automated alerts for opportunities, compute access windows, and platform updates.
-*   **Community Portal:** Internal communication tools for stakeholder engagement and knowledge sharing.
-*   **Admin Analytics:** Robust backend to monitor platform impact and user engagement metrics.
-
-## 4. Freelancer.com Project Description (Draft)
-**Project Title:** Full-Stack/WordPress Developer for AEINST Mission Equity Access Platform
-
-**Project Overview:**
-I am seeking an agile developer to build a scalable, accessible e-commerce website and digital platform for my startup, **AEINST Mission Equity Access**. Our platform aims to democratize access to AI and digital resources, aligning with the 2030 UN Sustainable Development Goals to bridge the global digital and equity divide.
-
-**Key Deliverables:**
-*   **Website Setup:** Build a clean, modern, and fully accessible site (supporting high-contrast, screen readers, and mobile optimization).
-*   **Core Features:** User sign-up/profiles, a resource/content hub, real-time data integration, and a secure payment/transaction gateway.
-*   **Licensing &amp; Compliance Framework:** Integration of clear footer/legal notices regarding our dual-license framework (CC0 and BSL 1.1).
-*   **Admin Backend:** An intuitive dashboard for managing users, content, and transactions.
-
-**Preferred Tech Stack:**
-*   WordPress / WooCommerce (or equivalent rapid-deployment CMS).
-*   Experience implementing web accessibility standards (WCAG).
-
-**Budget &amp; Timeline:**
-*   **Budget:** $50 - $250 USD
-*   **Target Launch:** Monday, October 20th, 2026.
-
-## 5. Governance &amp; Licensing
-*   **Framework:** AEINST DUAL LICENSE
-*   **Terms:** 2025–2029 AEINST ICO Fund. All Rights Reserved.
-*   **Licenses:** Creative Commons Zero v1.0 Universal (CC0 1.0) and Business Source License 1.1 (BSL 1.1).</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
