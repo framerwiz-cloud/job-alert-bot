@@ -416,32 +416,6 @@ Acceptance criteria
 • Full source code in Git with commit history, plus a brief README for setup and deployment.
 
 If this aligns with your expertise, let’s discuss timeline and phased milestones so we can launch a rock-solid store and scale from there.</description></item>
-<item><title>E-commerce Site for Custom Wheels</title><link>https://www.freelancer.com/projects/ecommerce/commerce-Site-for-Custom-Wheels</link><guid isPermaLink="false">freelancer:40778322</guid><pubDate>Tue, 20 Oct 2026 18:56:28 GMT</pubDate><description>250-750 USD | I need a full-featured online store for my custom wheel and suspension business. The site’s single, overriding purpose is to sell products directly to customers, so every design and development choice must drive a seamless buying experience.
-
-Core requirements
-• Product pages must carry detailed descriptions, specs, and high-resolution images so shoppers can understand offsets, finishes, and compatible suspension options before they add anything to the cart.  
-• A smooth, reliable shopping-cart flow is essential—from “Add to cart” through order confirmation. Please integrate a secure payment gateway of your choice, but build in enough flexibility for me to switch processors later if rates change.  
-• The catalogue will launch with roughly 60 SKUs (wheels, coilovers, lift kits), but the CMS should let me scale well into the hundreds without performance loss.  
-• Responsive layout is non-negotiable; most of my traffic comes from mobile enthusiasts scrolling forums.  
-• SEO-friendly URLs and schema markup for products will help us surface in “wheel size” and “suspension kit” searches.  
-• I’ll supply branding assets and initial product data; you handle setup, theme customization or from-scratch design, and all technical configuration.
-
-Preferred stack
-I’m agnostic—Shopify, WooCommerce, or another mainstream platform is fine—so recommend the one that balances long-term cost and ease of adding new product variations (bolt patterns, diameters, finishes).
-
-Deliverables
-1. Fully deployed, SSL-secured storefront on the agreed platform  
-2. Custom theme or branded design matching supplied style guide  
-3. Product database imported and verified (60 SKUs)  
-4. Tested shopping-cart and payment workflow (test and live modes)  
-5. Brief hand-off guide or video walkthrough so I can add products and run promotions myself
-
-Acceptance criteria
-• A first-time visitor can land on a product page, place an item in the cart, pay, and receive an on-screen order confirmation without encountering a bug or confusing step.  
-• Google’s PageSpeed Insights scores 85+ on mobile for the home page and a sample product page.  
-• All core web vitals pass and no console errors appear during checkout.
-
-Timeline is flexible within reason, but I’d like to see a working prototype two weeks after kickoff and go live within a month. Let me know your proposed platform, past e-commerce examples, and any clarifying questions.</description></item>
 <item><title>Shopify-Avasam Store Optimization &amp; Marketing</title><link>https://www.freelancer.com/projects/google-ads/Shopify-Avasam-Store-Optimization</link><guid isPermaLink="false">freelancer:40777867</guid><pubDate>Tue, 20 Oct 2026 13:35:50 GMT</pubDate><description>20-250 GBP | Hello, my Shopify‑Avasam store is new and quite basic right now. I need your team to:
 ‑ Fix all stock‑sync errors between Avasam and Shopify (including the current “unavailable” listing issue)
 ‑ Optimise my existing product pages
@@ -567,6 +541,15 @@ Ideal skills and experience:
 - Knowledge of building regulations and requirements
 
 Please include relevant experience in your application.</description></item>
+<item><title>WordPress Clone: Piling Website</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Clone-Piling-Website</link><guid isPermaLink="false">freelancer:40776974</guid><pubDate>Tue, 20 Oct 2026 03:26:12 GMT</pubDate><description>30-250 AUD | I need an exact WordPress-based clone of www.totalpilingandexcavations.com.au, keeping its overall layout, typography and section flow while changing every light-blue accent to orange. I will supply the replacement hero video for the home page, so that simply has to be embedded and optimised. 
+
+The navigation must be upgraded to a visual mega-menu that shows thumbnail images and short descriptions for each category, and the build must include:
+• Sticky header on mobile and desktop  
+• Sticky “Quick Quote” footer bar on mobile  
+• Clean, lightweight theme setup (Elementor, Gutenberg or a similarly efficient builder—your call)  
+• Responsive design and fast load times
+
+To confirm you have reviewed the source site, start your proposal by stating where the screw piles are manufactured; the answer is visible on one of the logos. Send your best all-inclusive price up front—no post-award increases, please. Once delivered, I’ll need a quick handover call and 30 days of bug-fix support.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
