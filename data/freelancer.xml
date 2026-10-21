@@ -3,22 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Integrate WooCommerce Cart &amp; Checkout</title><link>https://www.freelancer.com/projects/woocommerce/Integrate-WooCommerce-Cart-Checkout</link><guid isPermaLink="false">freelancer:40780277</guid><pubDate>Wed, 21 Oct 2026 23:29:54 GMT</pubDate><description>250-750 USD | I need WooCommerce installed and fully configured on a local copy of my current WordPress site so it can handle sales without touching the live server. The backup of the site will come to you as a .zip file; please spin it up in Local WP or XAMPP, then send me screenshots that show the Local Site address and the WordPress dashboard before I award the project.
-
-Scope of work
-• Install WooCommerce, create product pages and a shopping cart that inherits my existing styling.  
-• Build a complete checkout flow and connect both Stripe and PayPal in test mode only (I’ll enter live keys later).  
-• Set up order-confirmation emails—one to the customer and one to me.  
-• Add three to five sample products, then walk me through adding more on a quick screen-share or written guide.  
-• Make sure every store page is responsive and mirrors the rest of the site’s design.  
-• Leave all other site sections untouched.
-
-Working rules
-• All development must remain on your local environment; nothing is to be uploaded anywhere public.  
-• No modifications beyond the e-commerce components.  
-• Communication and payment stay inside Freelancer.com.
-
-To wrap things up, let me know your fixed price, estimated turnaround time, and how many revision rounds you include.</description></item>
 <item><title>Scalable Pet Classifieds Platform</title><link>https://www.freelancer.com/projects/web-development/Scalable-Pet-Classifieds-Platform</link><guid isPermaLink="false">freelancer:40780274</guid><pubDate>Wed, 21 Oct 2026 23:20:29 GMT</pubDate><description>250-750 USD | I want to launch a full-featured classifieds website devoted to dog and cat breeds—something in the spirit of petclassifieds.com or puppies.com—yet flexible enough to grow far beyond a simple listing board. The core build must handle high traffic, thousands of concurrent listings, and an intuitive journey for both sellers and buyers on desktop and mobile.
 
 Key platform pillars  
@@ -743,6 +727,32 @@ Can be Theme forest template with design modifications and functionality modific
 PM for more discussions
 
 Thankyou</description></item>
+<item><title>Custom E-Commerce Site with AliExpress</title><link>https://www.freelancer.com/projects/api-integration/Custom-Commerce-Site-with-AliExpress</link><guid isPermaLink="false">freelancer:40778406</guid><pubDate>Tue, 20 Oct 2026 20:24:00 GMT</pubDate><description>1500-3000 USD | I need a full-featured e-commerce website built from the ground up—no Shopify, no off-the-shelf themes. A completely custom solution will give me the flexibility I need for long-term growth and brand control.
+
+Core requirements
+• User accounts with secure registration, social login optional, and a simple dashboard for order history and saved items.  
+• Product reviews and star ratings that can be moderated from the admin panel.  
+• Fast, intuitive search with filters (price, category, rating, point value, etc.) and real-time suggestions.  
+• Every product carries a point value that is automatically tallied at checkout; accumulated points serve as entries in an ongoing sweepstakes / prize giveaway, so the cart and account pages must display running totals clearly.  
+• Products are sourced directly from AliExpress. They need to arrive in my catalogue via automated API calls, not manual uploads. The sync should pull images, variations, inventory counts, and pricing, and let me adjust mark-ups before publishing.  
+
+Technical expectations
+The stack is up to you—Laravel, Django, Node.js, or another robust framework—as long as it’s secure, performant, and documented. I’ll need:
+1. A RESTful back end, cleanly structured for future mobile-app use.  
+2. A modern, responsive front end (React, Vue, or standard server-rendered templates—convince me).  
+3. AliExpress API integration or a reliable custom bridge that fetches, maps, and updates product data on a schedule I can configure.  
+4. Admin dashboard for catalogue, orders, users, reviews, giveaway points, and basic analytics.  
+5. Stripe and PayPal payment gateways to start, with room to add Klarna and Apple Pay later.  
+6. Deployment scripts or Docker setup so I can reproduce the environment on staging and production servers.
+
+Acceptance criteria
+• Page load under 2 s on desktop (Lighthouse 90+ performance score).  
+• AliExpress product sync runs without manual intervention and logs errors visibly.  
+• Checkout accurately records and displays sweepstakes points.  
+• OWASP top-10 vulnerabilities addressed; user data encrypted in transit and at rest.  
+• Full source code in Git with commit history, plus a brief README for setup and deployment.
+
+If this aligns with your expertise, let’s discuss timeline and phased milestones so we can launch a rock-solid store and scale from there.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
