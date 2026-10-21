@@ -3,6 +3,50 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Florida-Based IT Equipment &amp; LinkedIn Networking Partner</title><link>https://www.freelancer.com/projects/virtual-assistant/Florida-Based-Equipment-LinkedIn</link><guid isPermaLink="false">freelancer:40779529</guid><pubDate>Wed, 21 Oct 2026 13:23:20 GMT</pubDate><description>250-750 USD | Company: Octos Tech Solutions
+Location: Florida, USA (Remote)
+Job Type: Long-Term Position
+Compensation: Up to $800/month ($150 per laptop + $50 for LinkedIn networking activities)  
+
+- About Us
+
+Octos Tech Solutions is a Florida-based technology company established approximately five years ago. Our team includes Canadian professionals and international software engineers
+
+We are looking for reliable Florida residents who can support our company laptops and participate partially in professional networking through their personal LinkedIn accounts to help expand our U.S. network and connect with talented international software developers
+
+- Key Responsibilities
+1. Company Laptop Support
+ Receive, maintain, and securely store up to five company-provided laptops
+ Keep laptops powered on and connected to stable internet during agreed hours
+ Monitor device connectivity and assist with basic troubleshooting and coordinate laptop shipping when necessary
+ Maintain strong availability and communication with our team
+
+2. LinkedIn Networking Support
+
+Participate partially in professional networking through your existing LinkedIn account
+Help expand our professional connections across United States and all over the world
+Personally manage all networking activities through your account
+
+- Compensation
+
+Laptop Support: $150 per month per laptop (maximum five laptops)
+LinkedIn Networking: Additional $50 per month for agreed networking activities
+Long-Term Opportunity: Potential for additional responsibilities as the company grows
+
+- Requirements
+
+Must reside in Florida, USA.
+Must be legally authorized to work in the United States.
+Must have an existing personal LinkedIn account.
+Stable internet connection and a secure location for laptops.
+Strong availability, reliability, and responsiveness.
+Basic computer skills.
+Willingness to participate partially in professional networking.
+No recruiting or software development experience required.
+
+- Privacy &amp; Security
+
+Candidates retain full ownership and control of their LinkedIn accounts. No passwords or authentication codes are required, and company personnel will not independently access personal accounts. All networking activities must comply with LinkedIn policies.</description></item>
 <item><title>Construction Website Modernization and Optimization</title><link>https://www.freelancer.com/projects/web-design/Construction-Website-Modernization</link><guid isPermaLink="false">freelancer:40779471</guid><pubDate>Wed, 21 Oct 2026 12:33:57 GMT</pubDate><description>250-750 USD | My construction company’s website still runs on an older codebase, looks dated, and Chrome’s console is full of warnings—mostly script deprecations and Permission-Policy violations. I’m ready to give it a clean, modern and sleek facelift while also fixing every technical issue that slows it down or hurts the mobile experience.
 
 What I need you to do  
@@ -716,16 +760,6 @@ Please Include in Your Proposal
 - Your estimated timeline and budget.
 - Any questions, assumptions, or third-party costs, including WhatsApp messaging, email delivery, hosting, and storage.
 We are looking for someone who can turn the existing prototype into a reliable, secure, and easy-to-use platform.</description></item>
-<item><title>React Single-Page Site Migration</title><link>https://www.freelancer.com/projects/nextjs/React-Single-Page-Site-Migration</link><guid isPermaLink="false">freelancer:40776595</guid><pubDate>Mon, 19 Oct 2026 21:52:02 GMT</pubDate><description>30-250 USD | I need someone to take a small brochure-style website that is currently parked on GoDaddy and rebuild it as a modern, single-page application in either React or Next.js. Once the codebase is ready, I want it deployed on AWS—S3 + CloudFront, Amplify, or another AWS workflow you feel is best—so the site loads quickly worldwide, has an SSL certificate, and can be managed independently of GoDaddy.
-
-Key elements I expect in the new build:
-• Contact form that routes to my preferred email address and is protected from spam.  
-• Lightweight blog section that lets me add or edit posts through Markdown or a simple headless CMS.  
-• Portfolio gallery with responsive images and lightbox-style viewing.
-
-You’ll handle the migration of the existing content, recreate the design so it matches (or improves on) the current look, set up the AWS hosting stack, point the domain away from GoDaddy, and confirm everything works end-to-end. All source code should be in a private Git repository that I control.
-
-Acceptance criteria: the page scores well on Google Lighthouse for performance and accessibility, all three features function correctly on desktop and mobile, and the site is fully live on AWS with HTTPS before hand-off.</description></item>
 <item><title>Custom WordPress Checkout Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Checkout-Build</link><guid isPermaLink="false">freelancer:40776300</guid><pubDate>Mon, 19 Oct 2026 17:22:21 GMT</pubDate><description>15-25 USD/hr | I need a developer who can redesign and rebuild the checkout on my existing WordPress site so it feels smooth, looks on-brand, and works flawlessly from desktop to mobile. The new flow must:
 
 • Process payments through Credit/Debit cards, PayPal, and Bank transfers without sending shoppers off-site unless the gateway requires it.  
