@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Business Supporter Directory Build</title><link>https://www.freelancer.com/projects/web-development/Business-Supporter-Directory-Build</link><guid isPermaLink="false">freelancer:40779622</guid><pubDate>Wed, 21 Oct 2026 14:22:25 GMT</pubDate><description>20-250 GBP | I run a British Army veterans homelessness charity and I want to spotlight the companies that keep our work moving. I need a dynamic, easy-to-update directory woven into our current website that lets local businesses enrol at one of three tiers—Bronze, Silver or Gold—then showcases them in a clean, mobile-friendly layout.
+
+A business will join through a self-service online form where it can upload a logo, add contact details and write a short description of the support it provides. Submissions should land in a moderation queue so I can approve, edit or decline before they go live. From an admin panel I also need the freedom to upgrade, downgrade or remove a listing at any time.
+
+For context, our site is on WordPress, so a custom plugin or a well-supported framework that sits comfortably inside the theme is ideal; future maintenance must stay straightforward.
+
+Key deliverables  
+• Public-facing directory with search/filter tools and tier badges (Bronze, Silver, Gold)  
+• Secure signup form (fields: contact info, logo upload, support description, tier choice, GDPR consent)  
+• Admin dashboard for review, edits, manual additions and CSV export  
+• Email notifications for both applicant and admin  
+• Clear installation/configuration guide and notes on extending tiers later
+
+Acceptance criteria  
+– New listings are invisible until approved and grouped by tier on display  
+– Works flawlessly on mobile, tablet and desktop in current Chrome, Safari and Edge  
+– All data stored in our database and exportable  
+
+If you’ve built similar membership or directory systems before, please outline your approach and timeline.</description></item>
 <item><title>Website UI Figma Redesign</title><link>https://www.freelancer.com/projects/figma/Website-Figma-Redesign</link><guid isPermaLink="false">freelancer:40779605</guid><pubDate>Wed, 21 Oct 2026 14:10:48 GMT</pubDate><description>10-150 USD | I need to revamp the UI of 7 key pages on my site 
 
 I will provide good UI mock ups that I have made showing the new layout direction
@@ -517,27 +536,6 @@ Ideal Skills and Experience:
 - Knowledge of integrating booking systems
 
 Please include examples of similar work in your bids.</description></item>
-<item><title>WordPress/Elementor Expert Needed — Fix Embedded Quote Form Without Redesign</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Elementor-Expert-Needed-Fix-40776764</link><guid isPermaLink="false">freelancer:40776764</guid><pubDate>Tue, 20 Oct 2026 00:45:33 GMT</pubDate><description>30-250 USD | I need an experienced WordPress/Elementor developer to fix an existing SmartMoving quote form on my business website. Currently, visitors must select a location from a dropdown menu before the quote form appears. I want to remove that dropdown and have the correct quote form load automatically on the homepage, with the SMS consent checkbox and disclosure clearly visible. This is necessary for our pending Twilio A2P SMS registration.
-
-We have already created replacement HTML/iframe code that accomplishes this, and it works correctly in Elementor's editor preview. However, when we attempt to publish the changes, Elementor produces Server Error 500 or occasionally Server Error 403. As a result, the existing form remains unchanged on the live website.
-
-We have spent considerable time troubleshooting this issue. Our security provider, MalCare, identified blocked WordPress requests associated with a security vulnerability in an outdated Elementor Pro installation (CVE-2024-1364). Elementor Pro is currently version 3.6.5, and attempting to update it produces the error "Download failed. Unauthorized." The original developer installed Elementor Pro, and we do not have access to their account or license. We also contacted Elementor's automated support chat without resolving the issue.
-
-We have already updated the free Elementor plugin during troubleshooting, created and downloaded a complete website backup, established a staging website, and confirmed that the replacement form displays correctly in Elementor's preview. We also checked the regular WordPress editor and determined that the existing form is stored within Elementor's page content. Please avoid repeating troubleshooting that has already been completed unless necessary.
-
-Our preferred solution is for an experienced developer to safely replace the existing Elementor HTML widget code using WordPress administrator or hosting-level access, bypassing Elementor's failing publishing process if necessary. This could involve modifying Elementor's stored page data or another appropriate method. We want the developer to determine the safest, simplest, and most cost-effective approach, test it on our existing staging website, and then implement it on the live website.
-
-The required result is straightforward: remove the existing location-selection dropdown, automatically display the correct SmartMoving quote form when the homepage loads, ensure the SMS consent checkbox and disclosure are visible and functional without additional clicks, and verify that customers can successfully complete and submit the form. The finished solution must work properly on desktop and mobile, preserve the existing website design and functionality, and be verified on the public website rather than only inside the editor.
-
-We are not looking for a complete website redesign, an Elementor Pro purchase, or extensive troubleshooting of unrelated plugins. Our immediate priority is getting this specific form working. The outdated Elementor Pro licensing and security issues can be handled separately, although any immediate security concerns should be identified. We do not want website security protections permanently disabled.
-
-We have WordPress administrator access, GoDaddy cPanel hosting access, an existing staging website, a complete website backup, the prepared replacement form code, and screenshots documenting the errors. We do not have access to the original developer or their Elementor Pro license. The selected freelancer will receive the necessary technical information and appropriate access privately.
-
-We prefer a small, fixed-price project with payment tied to successful completion. When applying, please briefly explain how you would implement this change without relying on the original Elementor Pro license, whether you can test on staging first, your relevant experience with Elementor or WordPress database repairs, your fixed price, and your estimated completion time.
-
-Please communicate exclusively through Freelancer.com's messaging system. We will provide website identification, integration details, and access information privately to the selected freelancer.
-
-Our goal is to get the existing quote form working correctly as quickly and affordably as possible so we can proceed with our Twilio A2P registration.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
