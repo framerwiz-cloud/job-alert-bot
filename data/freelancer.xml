@@ -3,6 +3,47 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>RITHU BUSINASS LANKA SOCIAL MEDIA WEB SIDE -- 2</title><link>https://www.freelancer.com/projects/nextjs/RITHU-BUSINASS-LANKA-SOCIAL-MEDIA</link><guid isPermaLink="false">freelancer:40779951</guid><pubDate>Wed, 21 Oct 2026 18:12:40 GMT</pubDate><description>250-750 USD | My brand, Rithu Business Lanka, already has a basic site online (https://rithubusinesslanka.vercel.app/) built with a single Next.js + Node/Express codebase. The core pages load, the UI is responsive, and the backend APIs move data without a hitch—but the site still feels like a brochure. The next milestone is turning it into an engaging hub where visitors stay, talk, and share.
+
+Scope of the upgrade  
+• Add real-time Live Chat so visitors can ask questions while they browse.  
+• Embed Customer Feedback Forms that push data straight into the existing API layer for quick reporting.  
+• Tight Social Media Integrations (Facebook page feed, share buttons, message-me links) to keep our audience inside the brand loop.  
+• A lightweight CMS section for Blog Posts, short Product Updates, and the occasional Video drop, all manageable without redeploying code.  
+• Maintain the unified Next.js frontend and Node/Express backend structure, keeping deployments on Vercel as they are now.
+
+Technical stack in play  
+Next.js (latest LTS), React hooks, Tailwind CSS, Node.js/Express REST API, MongoDB Atlas. Feel free to suggest complementary tools or libraries if they slot smoothly into that ecosystem.
+
+Acceptance criteria  
+1. Live chat widget shows online/offline status and logs transcripts in MongoDB.  
+2. Feedback form submissions surface in an admin dashboard with basic filtering.  
+3. Facebook feed pulls the latest five posts without slowing page load.  
+4. Blog, video, and product-update entries publish from a simple markdown or WYSIWYG editor and render correctly on the main site.  
+5. All new pages pass Lighthouse scores of 90+ for performance and accessibility on mobile and desktop.
+
+Push the finished code into the current Git repository, document new environment variables, and supply a brief README so handoff is seamless.</description></item>
+<item><title>Lead-Driven Cleaning Company Site</title><link>https://www.freelancer.com/projects/digital-marketing/Lead-Driven-Cleaning-Company-Site</link><guid isPermaLink="false">freelancer:40779950</guid><pubDate>Wed, 21 Oct 2026 18:09:59 GMT</pubDate><description>100-275 USD | I run a residential-and-office cleaning service and I’m ready to step up my online presence so new prospects can find us and, most importantly, reach out for a quote. My immediate focus is twofold:  
+
+1) a friendly, inviting website that reflects the fresh, tidy feeling our crews deliver every day, and  
+2) a marketing push designed specifically to generate leads.  
+
+Website  
+• The site should feel warm and approachable—nothing overly corporate—while still looking polished on both desktop and mobile.  
+• A prominently placed contact form is non-negotiable; it has to capture name, phone, email, service type, and preferred date.  
+• Clear calls-to-action on every page, quick-loading images, and intuitive navigation are essential.  
+• I’m happy to work in WordPress, Webflow, or another CMS you recommend, provided I can make simple edits afterward.
+
+Marketing  
+Once the site is live I want a lead engine humming in the background. Think targeted local SEO, Google Ads, and simple social campaigns that funnel visitors straight to the contact form. I’m open to your recommendations on channels, creative angles, and tracking tools—as long as the plan stays laser-focused on converting clicks into booked cleanings.
+
+Acceptance Criteria  
+• Live, responsive website matching the agreed friendly style  
+• Functioning contact form that forwards inquiries to my email and stores them in a database or spreadsheet  
+• Initial 30-day marketing roadmap with projected lead numbers and KPIs  
+• Handover session so I can manage basic updates myself
+
+If this sounds like your wheelhouse, let’s chat about timelines and milestones.</description></item>
 <item><title>Squarespace Refresh for DigitalGarage.tv</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Refresh-for-DigitalGarage</link><guid isPermaLink="false">freelancer:40779846</guid><pubDate>Wed, 21 Oct 2026 16:59:37 GMT</pubDate><description>250-750 GBP | www.digitalgarage.tv is already Squarespace and needs a complete visual refresh that feels brighter, predominantly white, and altogether more professional and engaging. The core identity of the brand must remain intact, so I’ll be re-using all existing logos, copy, imagery and video assets.
 
 Here’s what stays exactly as it is:  
@@ -510,58 +551,6 @@ Ideal Skills and Experience:
 
 
 Please include examples of previous Shopify projects in your bids.</description></item>
-<item><title>Contractor Portfolio Website Development</title><link>https://www.freelancer.com/projects/web-development/Contractor-Portfolio-Website-Development</link><guid isPermaLink="false">freelancer:40776869</guid><pubDate>Tue, 20 Oct 2026 02:33:57 GMT</pubDate><description>750-1500 USD | Dream Homes Design &amp; Build
-
-Luxury Custom Homes | New Construction | Design &amp; Build
-
-Dream Homes Design &amp; Build is a premier residential home builder specializing in luxury custom homes, modern architectural designs, and high-quality new construction throughout Chicago's southwest suburbs. Our mission is to create exceptional homes that combine timeless elegance, innovative design, superior craftsmanship, and everyday functionality.
-
-Our website, DreamHomesDB.com, should reflect the quality of the homes we build — sophisticated, modern, luxurious, and professional.
-
-10 Key Features &amp; Goals for Our Website:
-
-1. Luxury &amp; Modern Website Design: Create a sophisticated, high-end website with clean layouts, elegant typography, premium imagery, and a modern architectural aesthetic. The website should immediately communicate luxury, quality, and professionalism.
-
-2. Custom Home Building Services: Showcase our ability to build beautiful custom homes tailored to each client's lifestyle, architectural preferences, and individual needs — from initial concept through final construction.
-
-3. New Construction Homes for Sale: Feature our available new construction homes with professional photography, property descriptions, floor plans, square footage, pricing, locations, and opportunities to schedule private showings.
-
-4. Portfolio of Completed &amp; Current Projects: Develop an impressive gallery featuring completed luxury homes, homes under construction, architectural renderings, exterior designs, kitchens, bathrooms, and premium interior finishes.
-
-5. Complete Design &amp; Build Experience: Explain our streamlined approach to residential construction, including architectural planning, design coordination, material selections, project management, construction, and final walkthroughs.
-
-6. Exceptional Quality &amp; Craftsmanship: Highlight our attention to detail, premium building materials, architectural features, energy-efficient construction, modern technology, and commitment to building homes that stand the test of time.
-
-7. Communities &amp; Service Areas: Showcase our home-building services throughout Chicago's southwest and western suburbs including Lemont, Homer Glen, Orland Park, Palos Park Burr Ridge Hinsdale and surrounding communities.
-
-8. Interactive Floor Plans &amp; Home Designs: Display detailed floor plans 3D architectural renderings exterior elevations and interior design concepts that help potential buyers visualize their future homes.
-
-9. Lead Generation &amp; Easy Communication: Make it simple for prospective customers to request consultations inquire about available properties discuss custom home projects schedule showings and contact our team. Include prominent calls to action such as Build Your Dream Home Explore Available Homes and Schedule a Consultation.
-
-10. Strong Branding SEO &amp; Mobile Experience: Build a fast mobile-friendly search-engine-optimized website designed to rank for searches such as "Luxury Home Builder Chicago Suburbs," "Custom Home Builder Lemont," "New Construction Homes Orland Park," and "Design Build Contractor Near Me." Maintain consistent branding across the website Google Business Profile and social media.
-
-Overall Website Vision:
-We want DreamHomesDB.com to look and feel like the website of an established high-end luxury home builder — not a typical general contractor.
-The design should emphasize large beautiful architectural photography elegant white space modern fonts subtle animations and a sophisticated color palette of black white warm neutrals and tasteful gold accents.
-Our goal is simple: When someone visits our website they should immediately recognize Dream Homes Design &amp; Build as a premium home builder they can trust to create an extraordinary home.
-Suggested Homepage Headline:
-Exceptional Homes. Thoughtful Design. Superior Craftsmanship.
-Suggested Tagline:
-Your Vision. Our Expertise. Your Dream Home.</description></item>
-<item><title>Interactive Used Car Dealership Website</title><link>https://www.freelancer.com/projects/web-development/Interactive-Used-Car-Dealership-Website</link><guid isPermaLink="false">freelancer:40776826</guid><pubDate>Tue, 20 Oct 2026 01:30:37 GMT</pubDate><description>750-1500 USD | I’m launching a fresh online presence for my American used-car dealership and need a full-featured website that makes browsing, comparing, and trusting our vehicles effortless. The heart of the build is a smooth vehicle search and filter experience, a side-by-side comparison tool, and genuine customer reviews that sit right on each listing.  
-
-Beyond those essentials, I also want a light blog for market tips and dealership updates, all backed by a rich admin panel where my staff can upload inventory, edit specs, publish posts, moderate reviews, and pull basic analytics without touching code. Fast load times, mobile responsiveness, and clean SEO foundations are must-haves because most of our shoppers arrive on phones and through search engines.  
-
-Deliverables  
-• Vehicle search with advanced filters (make, model, price, mileage, year, etc.)  
-• Real-time comparison tool for up to four cars  
-• Customer reviews section with star ratings and moderation controls  
-• Integrated blog module tied to the same CMS  
-• Robust back-end dashboard for inventory, content, user, and data management  
-• Modern, responsive UI tested across major browsers and devices  
-• Launch support: deployment, brief training session, and a short maintenance window for post-go-live tweaks  
-
-If you’re comfortable building this kind of automotive platform with a clean codebase and secure best practices, let’s get it on the road.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
