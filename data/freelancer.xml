@@ -293,18 +293,6 @@ Ideal Skills and Experience:
 
 
 Please include examples of previous Shopify projects in your bids.</description></item>
-<item><title>Sleek Farm Website &amp; Payments</title><link>https://www.freelancer.com/projects/content-management-system/Sleek-Farm-Website-Payments</link><guid isPermaLink="false">freelancer:40776922</guid><pubDate>Tue, 20 Oct 2026 02:59:01 GMT</pubDate><description>30-250 AUD | I’m building an online home for our farm that feels modern and clean while still letting our animals and events take centre stage. The site needs four core areas:
-
-• Home page that immediately tells our story and highlights upcoming farm visits or workshops.  
-• Gallery where I can showcase high-quality photos (I’ll supply all images and copy).  
-• “Schedule” section that I can refresh quickly as tour dates change.  
-• Secure checkout so visitors can reserve visits or workshops and pay by credit/debit card—Stripe or a comparable gateway is fine, as long as fees stay low and the flow is seamless on mobile.
-
-Additionally, the website should include a QR code for ease of access, making it simple for users to navigate directly to the site.
-
-I’m happy with WordPress, Squarespace, or any lightweight framework you recommend, provided you set it up so I can update text, photos, and prices myself without touching code. A brief walkthrough or screen-share guide at hand-off will be essential; written step-by-step notes or a short Loom video would be perfect for future reference.
-
-Good image optimisation, responsive design, and basic on-page SEO are expected so pages load fast and rank well. The project needs to be completed within one week. Please let me know the rough timeline you envision, preferred tech stack, and any similar projects you’ve launched that match this clean aesthetic.</description></item>
 <item><title>Contractor Portfolio Website Development</title><link>https://www.freelancer.com/projects/web-development/Contractor-Portfolio-Website-Development</link><guid isPermaLink="false">freelancer:40776869</guid><pubDate>Tue, 20 Oct 2026 02:33:57 GMT</pubDate><description>750-1500 USD | Dream Homes Design &amp; Build
 
 Luxury Custom Homes | New Construction | Design &amp; Build
@@ -722,6 +710,23 @@ On delivery I’ll test each payment method, switch between guest and account fl
 <item><title>Simvoly-Based Fundraising Marketplace Design</title><link>https://www.freelancer.com/projects/web-design/Simvoly-Based-Fundraising-Marketplace</link><guid isPermaLink="false">freelancer:40776019</guid><pubDate>Mon, 19 Oct 2026 15:51:13 GMT</pubDate><description>30-250 USD | Simvoly Design for Fundraising Promotion Business Marketplace. Comes to a total of about 10 pages
 
 Additional two jobs available upon completion.</description></item>
+<item><title>Publish Website to GoDaddy Domain</title><link>https://www.freelancer.com/projects/web-development/Publish-Website-GoDaddy-Domain</link><guid isPermaLink="false">freelancer:40776148</guid><pubDate>Mon, 19 Oct 2026 15:20:11 GMT</pubDate><description>30-250 USD | I already have the complete site files and copy created in Claude; now I need them online. The domain is registered with GoDaddy and I would like the site connected and publicly viewable within the next one to two days.
+
+Scope of work  
+• Point the domain’s DNS to the correct hosting environment (or help me choose the simplest GoDaddy hosting plan if that hasn’t already been activated).  
+• Upload the finished site files, configure any required SSL certificate, and confirm everything propagates correctly.  
+• Test every form to be sure submissions reach my inbox and verify the layout looks clean on desktop, tablet, and mobile.  
+
+I’m still deciding whether to set up email on the domain, so if that task pops up I may ask for quick guidance.
+
+Acceptance criteria  
+1. The domain loads the site securely (HTTPS).  
+2. All forms submit successfully and I receive the confirmation emails.  
+3. Pages render properly across common devices and browsers.  
+4. Whole job completed within 48 hours of kickoff.
+5. Page should be listed FAST. 
+
+Please be comfortable working inside GoDaddy’s dashboard, handling DNS records, SSL, and basic responsive checks. Once the site is live and tests pass, the project is done.</description></item>
 <item><title>ASAP Multi-Channel Appointment Scheduler</title><link>https://www.freelancer.com/projects/customer-service/ASAP-Multi-Channel-Appointment-Scheduler</link><guid isPermaLink="false">freelancer:40775767</guid><pubDate>Mon, 19 Oct 2026 10:16:06 GMT</pubDate><description>5-10 GBP/hr | I need an experienced communicator who can jump in right away to handle every step of my appointment-setting flow. You will be:  
 
 • Placing and answering phone calls,  
@@ -929,34 +934,6 @@ Key tasks and deliverables
     * Test the store on mobile and desktop.
     * Check product pages, navigation, cart, and checkout.
     * Provide a brief walkthrough so I can manage products, inventory, and orders my self</description></item>
-<item><title>Finish Simple Website Redesign</title><link>https://www.freelancer.com/projects/javascript/Finish-Simple-Website-Redesign</link><guid isPermaLink="false">freelancer:40766888</guid><pubDate>Wed, 14 Oct 2026 04:42:13 GMT</pubDate><description>15-25 AUD/hr | I already have a basic site live, the layout is set and Afterpay is connected, but the last developer left several simple tasks unfinished. I need these wrapped up quickly so the site finally looks and behaves the way it should.
-
-What still needs doing  
-• Upload the new product and banner pictures my team will supply (all files are ready to go).  
-• Build a clean, manual slideshow with left-right navigation buttons; no auto-play.  
-• Proof-read every page and fix the spelling mistakes that crept in.  
-• Add in the dksm code so that the domain email is not blocked by outgoing. 
-• Add a lightweight contact form that sends submissions to my business email.  
-• Place visible social-media icons (Facebook &amp; Instagram) in the header or footer and link them to our accounts.
-
-
-Technical environment  
-The site is a straightforward HTML/CSS build with a dash of JavaScript; no heavy CMS. I can give you FTP and hosting-panel access immediately. You’re free to use vanilla JS or a small library such as Swiper or Slick for the slideshow, as long as it stays fast and responsive on mobile.
-
-Acceptance criteria  
-1. All supplied images display at the correct resolution with alt text added.  
-2. Slideshow works on desktop and mobile, loads in under one second, and allows swipe on touch devices.  
-3. Zero spelling errors across all pages (I’ll run Grammarly as a double-check).  
-4. Contact form delivers messages reliably and shows a clear success notification.  
-5. Social-media icons open the correct profiles in a new tab.
-
-Timing  
-This is a small polish job—ideally completed within two days of access.
-
-Important  
-I’m hiring an independent freelancer only; agency representatives will be declined without review.
-
-If you’re confident you can tick off everything above in the time frame, send a brief note outlining how you’ll handle the slideshow and form. Access details will follow once we agree.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
