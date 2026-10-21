@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Scalable Pet Classifieds Platform</title><link>https://www.freelancer.com/projects/web-development/Scalable-Pet-Classifieds-Platform</link><guid isPermaLink="false">freelancer:40780274</guid><pubDate>Wed, 21 Oct 2026 23:20:29 GMT</pubDate><description>250-750 USD | I want to launch a full-featured classifieds website devoted to dog and cat breeds—something in the spirit of petclassifieds.com or puppies.com—yet flexible enough to grow far beyond a simple listing board. The core build must handle high traffic, thousands of concurrent listings, and an intuitive journey for both sellers and buyers on desktop and mobile.
+
+Key platform pillars  
+• User registration with robust profile pages for breeders, shelters, and private sellers  
+• End-to-end listing creation and management, including bulk upload and media galleries  
+• Secure payment processing so sellers can boost posts, reserve deposits, or pay listing fees  
+• Category hierarchy that starts with Dog and Cat breeds (purebred and cross-references for mixed later)  
+• Smart search, advanced filters, and location radius so buyers quickly narrow results  
+• Image-rich detail pages plus a reviews &amp; ratings layer to build trust  
+
+The build has to be mobile first, SEO-ready, and AI friendly from the outset. For example, I’d like to explore AI tools that can:  
+• Auto-tag photos with likely breeds to speed up listing creation  
+• Flag potential scam wording or duplicate ads  
+• Recommend similar pets to shoppers in real time  
+
+I’m open on the stack—Laravel, Django, MERN, or a headless CMS paired with React/Vue are all possibilities—as long as the architecture scales horizontally and you document the APIs. Please outline:  
+1. Your proposed tech stack and why it suits a large classifieds site.  
+2. Past projects that demonstrate you’ve built high-load marketplaces or animal-related portals.  
+3. A milestone plan covering database schema design, core module rollout, AI layer integration, QA, and launch.  
+
+Feel free to highlight any performance, security, or DevOps practices you’d bring to keep the platform fast and resilient. I look forward to seeing examples of your work and hearing how you’d turn this idea into a polished, scalable reality.</description></item>
 <item><title>Wix Site Build From Design</title><link>https://www.freelancer.com/projects/figma/Wix-Site-Build-From-Design</link><guid isPermaLink="false">freelancer:40780259</guid><pubDate>Wed, 21 Oct 2026 23:08:11 GMT</pubDate><description>250-750 AUD | I already have every screen fully designed and all copy finalised—I simply need the site assembled in Wix and polished so it can go live without a hitch.
 
 Scope of build  
@@ -732,16 +753,6 @@ Acceptance criteria
 • Full source code in Git with commit history, plus a brief README for setup and deployment.
 
 If this aligns with your expertise, let’s discuss timeline and phased milestones so we can launch a rock-solid store and scale from there.</description></item>
-<item><title>Shopify-Avasam Store Optimization &amp; Marketing</title><link>https://www.freelancer.com/projects/google-ads/Shopify-Avasam-Store-Optimization</link><guid isPermaLink="false">freelancer:40777867</guid><pubDate>Tue, 20 Oct 2026 13:35:50 GMT</pubDate><description>20-250 GBP | Hello, my Shopify‑Avasam store is new and quite basic right now. I need your team to:
-‑ Fix all stock‑sync errors between Avasam and Shopify (including the current “unavailable” listing issue)
-‑ Optimise my existing product pages
-‑ Research and add high‑performing seasonal winning products
-‑ Set up and run Google &amp; Facebook ad campaigns
-‑ Handle social media marketing to get the store seen by UK customers
-
-Make the store look nice and presentable and stand out as it’s really basic and new right now.
-
-Please send details of your monthly package, total cost, timeline to get everything live, and examples of similar UK dropshipping stores you have worked on. Thank you.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
