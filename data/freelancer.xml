@@ -3,6 +3,33 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>CRM &amp; Deck Construction Management Software</title><link>https://www.freelancer.com/projects/web-development/CRM-Deck-Construction-Management</link><guid isPermaLink="false">freelancer:40780231</guid><pubDate>Wed, 21 Oct 2026 22:45:58 GMT</pubDate><description>750-1500 USD | I need a single, cohesive platform that covers our entire workflow as a specialty deck-building company—from the first phone call right through to the final invoice and 3D render. The build should be web-based (mobile-friendly), modular, and ready to scale as our team grows.
+
+CRM MODULE  
+• Customer database management that keeps every contact, note, file, and photo tied to a household or commercial site.  
+• Lead tracking and follow-up with automated reminders, pipeline stages, and email/SMS touchpoints.  
+• Sales reporting and analytics that break down close rates, average deal size, and marketing source ROI at a glance.
+
+CONSTRUCTION MANAGEMENT MODULE  
+• Project scheduling and tracking with a drag-and-drop Gantt or calendar view, task dependencies, and change-order logging.  
+• Resource allocation and management so crews, equipment, and materials are booked without double-ups.  
+• Budget and expense tracking that compares estimated vs. actual costs in real time and pushes data to QuickBooks or Xero.
+
+DECK DESIGN MODULE  
+• 3D modeling and visualization that lets us place a deck onto a photo or lot plan and spin it interactively for clients.  
+• Material cost estimation that auto-updates as dimensions change, pulling live lumber and hardware prices via API when possible.  
+• Blueprint and layout creation that produces permit-ready PDFs with footing locations, beam spans, and hardware callouts.
+
+Technology is flexible, but I’m leaning toward a modern JavaScript stack (React/Vue front-end, Node.js or Django back-end) with a PostgreSQL database and REST/GraphQL API so we can eventually integrate with Zapier, Slack, and our accounting software.
+
+ACCEPTANCE CRITERIA  
+1. A working SaaS-style MVP deployed to a cloud host (AWS, Azure, or GCP) with separate environments for staging and production.  
+2. Source code in a private Git repo with clear README and setup scripts.  
+3. User roles: admin, sales, project manager, design technician, and client portal login.  
+4. Demonstration data loaded so we can run end-to-end tests: create a lead, convert to project, design deck, schedule crew, track costs, and generate a sales report.  
+5. Fully responsive UI and cross-browser compatibility (Chrome, Edge, Safari, Firefox latest versions).
+
+Please outline your proposed tech stack, timeline, and any similar projects you’ve shipped. If you already have a deck-design engine or CRM framework that can be customized, highlight that—speed to market matters.</description></item>
 <item><title>Website Design &amp; Minor Development</title><link>https://www.freelancer.com/projects/web-design/Website-Design-Minor-Development-40780204</link><guid isPermaLink="false">freelancer:40780204</guid><pubDate>Wed, 21 Oct 2026 22:13:12 GMT</pubDate><description>250-750 USD | I’m putting together a new website and need someone who can handle both the visual design and a bit of light development to get the pages live. The look and feel should be modern, clean and responsive across desktop, tablet and mobile.  
 
 Here’s what I have in mind so far:
@@ -677,19 +704,6 @@ If this aligns with your expertise, let’s discuss timeline and phased mileston
 Make the store look nice and presentable and stand out as it’s really basic and new right now.
 
 Please send details of your monthly package, total cost, timeline to get everything live, and examples of similar UK dropshipping stores you have worked on. Thank you.</description></item>
-<item><title>WordPress Malware Cleanup and Migration</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Malware-Cleanup-Migration</link><guid isPermaLink="false">freelancer:40777642</guid><pubDate>Tue, 20 Oct 2026 10:42:42 GMT</pubDate><description>250-750 AUD | My WordPress site has been compromised: visitors are being redirected to random domains, intrusive pop-ups are appearing, and I’m logging far more failed sign-in attempts than usual. I already have a fresh full backup, so you can work on a copy or restore point right away.  
-
-Here’s what I need from you: clean every trace of malware, document what was removed, close the vulnerability that allowed the breach, and then move the site to a new hosting environment without any downtime. Once migration is complete, I’ll want you to verify that the installation is still malware-free, that SSL and permalinks survived the move intact, and that performance hasn’t been impacted.  
-
-Experience recovering hacked WordPress installs is essential; your reviews should reflect successful malware removal and post-cleanup hardening. Familiarity with common security plugins, server-side scanning tools, and manual file/database inspection will help you sail through this quickly. Continuous security monitoring setup after the move would be a welcome bonus if you offer it.  
-
-Deliverables  
-• Cleaned WordPress core, themes, and plugins with a brief report of actions taken  
-• Hardened configuration (updated salts, strict file permissions, login protections)  
-• Seamless migration to the new server, DNS updated, SSL functioning  
-• Final security scan results and proof that the redirects, pop-ups, and brute-force attempts have stopped  
-
-Please outline your approach, estimated timeline, and any post-migration support you include.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
