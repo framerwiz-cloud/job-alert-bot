@@ -3,30 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>WooCommerce Upsell &amp; Cross-Sell Blocks</title><link>https://www.freelancer.com/projects/web-development/WooCommerce-Upsell-Cross-Sell-Blocks</link><guid isPermaLink="false">freelancer:40780237</guid><pubDate>Wed, 21 Oct 2026 22:53:58 GMT</pubDate><description>1500-3000 USD | I want to upgrade my WooCommerce store with three conversion-focused recommendation blocks and need a developer who can handle both the technical setup and front-end styling.
-
-Scope of work
-• Product page – “You May Also Like” carousel that shows 4–6 items pulled from the same category, tag or a price-based range.
-• Cart page – “Add to Your Order” strip highlighting accessories and consumables that complement what’s already in the cart.
-• Post add-to-cart popup – lightweight modal saying “Item Added! You might also like:” with two or three smart suggestions.
-
-Functionality requirements
-• Recommendation logic must work automatically (category, tag, price rules) yet still let me override and assign specific upsell / cross-sell items from the admin panel.
-• Blocks must inherit my current theme’s fonts, colours and button styles so everything feels native.
-• Fully responsive: the carousel should swipe smoothly on mobile, and the popup must be easy to dismiss on touch devices.
-
-Deliverables
-1. Code or plugin configuration that powers the three blocks.
-2. Custom CSS/JS so each block matches the live design.
-3. Admin-side controls or clear instructions showing how to change relationships manually.
-4. Brief hand-off document (or Loom walkthrough) explaining how the logic was set and where to tweak it.
-
-Acceptance criteria
-– No layout breaks on Chrome, Safari, Firefox, Edge (desktop &amp; mobile).  
-– Page-load impact under 100 ms per block (measured with Lighthouse).  
-– All recommendations refresh correctly when cart contents change.
-
-Please include an estimated timeline and fixed cost in your proposal. Store access and my preferred product relationships will be provided as soon as we agree on the project.</description></item>
 <item><title>CRM &amp; Deck Construction Management Software</title><link>https://www.freelancer.com/projects/web-development/CRM-Deck-Construction-Management</link><guid isPermaLink="false">freelancer:40780231</guid><pubDate>Wed, 21 Oct 2026 22:45:58 GMT</pubDate><description>750-1500 USD | I need a single, cohesive platform that covers our entire workflow as a specialty deck-building company—from the first phone call right through to the final invoice and 3D render. The build should be web-based (mobile-friendly), modular, and ready to scale as our team grows.
 
 CRM MODULE  
@@ -243,17 +219,6 @@ Before final acceptance, demonstrate that:
 Please provide a fixed-price proposal, estimated delivery schedule, hosting recommendations, recurring costs, and a list of included and excluded features. Identify limitations before work begins.
 
 The final product must be a professional, fully operational WordPress website, hosted and ready for immediate launch, with room for future growth.</description></item>
-<item><title>WooCommerce Returns &amp; Exchanges Flow</title><link>https://www.freelancer.com/projects/web-development/WooCommerce-Returns-Exchanges-Flow</link><guid isPermaLink="false">freelancer:40780157</guid><pubDate>Wed, 21 Oct 2026 21:31:09 GMT</pubDate><description>3000-5000 USD | I need a seamless RMA experience built directly into my WooCommerce store so returns stop disappearing in an email black hole. From the shopper’s perspective they should be able to log in, select the exact items they want to send back or swap, tell us why, and instantly feel reassured that their request is in motion.  
-
-Here’s what I expect to see working end-to-end:
-
-• Customer portal steps: request made, auto-generated authorisation number issued once I approve, printable label or clear shipping instructions sent, and a live status line that moves from requested → approved → received → refunded (or exchanged).  
-• Exchange path that lets a shopper choose an alternative size or product instead of a straight refund while still following the same tracking flow.  
-• An admin dashboard inside WooCommerce listing every open RMA, sorted by age so nothing gets forgotten.  
-
-I’m counting on your past experience building similar workflows to define any extra states or edge cases I may have missed and, above all, to keep the customer’s anxiety low with timely automated updates.  
-
-Please outline how you plan to implement this inside WooCommerce, which hooks or plugins you would leverage (or what you’d custom-code), and a realistic timeline for going live.</description></item>
 <item><title>Minimalist Journal Purchase Site</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Journal-Purchase-Site</link><guid isPermaLink="false">freelancer:40780105</guid><pubDate>Wed, 21 Oct 2026 20:32:01 GMT</pubDate><description>30-250 AUD | I’m launching a simple online presence for a single physical product—my guided journal—and need it distilled into just two pages. The first page introduces the journal with clean, distraction-free visuals; the second page handles the entire buying flow.
 
 Design  
@@ -271,26 +236,6 @@ Deliverables
 • Source files and brief hand-over notes so I can update copy or colours later  
 
 If this sounds like a quick, tidy build for you, I’m ready to start as soon as we agree on timeline.</description></item>
-<item><title>WordPress Multilingual Setup, Five Languages</title><link>https://www.freelancer.com/projects/seo/WordPress-Multilingual-Setup-Five</link><guid isPermaLink="false">freelancer:40780049</guid><pubDate>Wed, 21 Oct 2026 19:43:33 GMT</pubDate><description>250-750 USD | I want to make my existing WordPress site fully multilingual in English, Spanish, French, German, and Chinese while keeping every pixel of the current design intact. You may use either WPML or Polylang—I have no preference, as long as the final result runs smoothly.
-
-Scope of work  
-• Install and configure the chosen multilingual plug-in on the local copy I provide (backup will be supplied; you can work in Local WP, XAMPP, or a similar environment).  
-• Add a language switcher that matches the existing styling.  
-• Translate menus plus three key pages—Home, About Us, and Products/Services—bringing the total to roughly 5-10 pages.  
-• Set up correct hreflang tags and handle any other on-page multilingual SEO essentials.  
-• Make zero changes to the design itself; focus strictly on language integration.
-
-Workflow &amp; proof  
-All development stays offline. Before I award the project, please import the backup locally and send screenshots of the homepage and WP dashboard to confirm everything is running on your side.
-
-When you bid  
-Let me know:  
-1. Your fixed price  
-2. Estimated delivery time  
-3. How many revision rounds you include  
-4. Whether you will supply the translations or expect me to provide them
-
-Communication and payments remain exclusively on Freelancer.com. If you can deliver a clean, SEO-ready multilingual setup in this environment, I look forward to reading your proposal.</description></item>
 <item><title>Resume &amp; Complete Website Redesign</title><link>https://www.freelancer.com/projects/content-management-system/Resume-Complete-Website-Redesign</link><guid isPermaLink="false">freelancer:40780050</guid><pubDate>Wed, 21 Oct 2026 19:43:32 GMT</pubDate><description>250-750 USD | Subject: Website Redesign Project: Resuming Work &amp; Deployment Requirements.
 
 We need you to take over the website redesign from where the previous designer left off and complete the remaining work.
@@ -718,6 +663,43 @@ Acceptance criteria
 • Full source code in Git with commit history, plus a brief README for setup and deployment.
 
 If this aligns with your expertise, let’s discuss timeline and phased milestones so we can launch a rock-solid store and scale from there.</description></item>
+<item><title>Shopify-Avasam Store Optimization &amp; Marketing</title><link>https://www.freelancer.com/projects/google-ads/Shopify-Avasam-Store-Optimization</link><guid isPermaLink="false">freelancer:40777867</guid><pubDate>Tue, 20 Oct 2026 13:35:50 GMT</pubDate><description>20-250 GBP | Hello, my Shopify‑Avasam store is new and quite basic right now. I need your team to:
+‑ Fix all stock‑sync errors between Avasam and Shopify (including the current “unavailable” listing issue)
+‑ Optimise my existing product pages
+‑ Research and add high‑performing seasonal winning products
+‑ Set up and run Google &amp; Facebook ad campaigns
+‑ Handle social media marketing to get the store seen by UK customers
+
+Make the store look nice and presentable and stand out as it’s really basic and new right now.
+
+Please send details of your monthly package, total cost, timeline to get everything live, and examples of similar UK dropshipping stores you have worked on. Thank you.</description></item>
+<item><title>WordPress Malware Cleanup and Migration</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Malware-Cleanup-Migration</link><guid isPermaLink="false">freelancer:40777642</guid><pubDate>Tue, 20 Oct 2026 10:42:42 GMT</pubDate><description>250-750 AUD | My WordPress site has been compromised: visitors are being redirected to random domains, intrusive pop-ups are appearing, and I’m logging far more failed sign-in attempts than usual. I already have a fresh full backup, so you can work on a copy or restore point right away.  
+
+Here’s what I need from you: clean every trace of malware, document what was removed, close the vulnerability that allowed the breach, and then move the site to a new hosting environment without any downtime. Once migration is complete, I’ll want you to verify that the installation is still malware-free, that SSL and permalinks survived the move intact, and that performance hasn’t been impacted.  
+
+Experience recovering hacked WordPress installs is essential; your reviews should reflect successful malware removal and post-cleanup hardening. Familiarity with common security plugins, server-side scanning tools, and manual file/database inspection will help you sail through this quickly. Continuous security monitoring setup after the move would be a welcome bonus if you offer it.  
+
+Deliverables  
+• Cleaned WordPress core, themes, and plugins with a brief report of actions taken  
+• Hardened configuration (updated salts, strict file permissions, login protections)  
+• Seamless migration to the new server, DNS updated, SSL functioning  
+• Final security scan results and proof that the redirects, pop-ups, and brute-force attempts have stopped  
+
+Please outline your approach, estimated timeline, and any post-migration support you include.</description></item>
+<item><title>Build an Educational Business Website</title><link>https://www.freelancer.com/projects/web-design/Build-Educational-Business-Website</link><guid isPermaLink="false">freelancer:40777640</guid><pubDate>Tue, 20 Oct 2026 10:41:12 GMT</pubDate><description>250-750 GBP | I’m looking for a freelance web designer/developer to build a professional website for an education-related business.
+
+The project involves:
+
+Creating a simple, polished WordPress website of approximately four pages.
+A professional, predominantly text-based design, with some carefully chosen photography to break up the content.
+Converting an existing logo into vector format suitable for print and digital use.
+Setting up the website so it is easy for me to manage and update once completed.
+
+I will be supplying all website content. I’m looking for someone who can take care of the design and technical WordPress build, and provide a straightforward handover.
+
+Please message me with examples of relevant work, an indication of costs and timescales, and details of what you would include in your service.
+
+Thank you!</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
