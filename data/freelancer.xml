@@ -3,6 +3,75 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix Site Build From Design</title><link>https://www.freelancer.com/projects/figma/Wix-Site-Build-From-Design</link><guid isPermaLink="false">freelancer:40780259</guid><pubDate>Wed, 21 Oct 2026 23:08:11 GMT</pubDate><description>250-750 AUD | I already have every screen fully designed and all copy finalised—I simply need the site assembled in Wix and polished so it can go live without a hitch.
+
+Scope of build  
+Please create the following pages exactly as laid out in my design files:  
+• Home  
+• Services  
+• How it Works  
+• Contact Us  
+• Thank You (post-form)
+
+Core features to wire up  
+• Custom contact form that feeds directly into my inbox  
+• Simple appointment-booking widget (Wix Bookings is fine)  
+• Download section for gated PDFs
+
+Integrations  
+Google Analytics (or Wix Analytics if easier) must be active from day one, and the checkout flow should connect to my chosen payment gateway through Wix Payments.
+
+What I’ll hand over  
+Figma files (desktop &amp; mobile breakpoints), all images, copy, brand colours, and font specs.
+
+What I expect back  
+A launch-ready Wix site, mobile-responsive, with all links, forms, and payments fully tested and a brief hand-over video or call demonstrating where to update text and images in the editor.
+
+If you have solid Wix experience and can turn designs into a pixel-perfect, fully functional site, I’m ready to get started right away.</description></item>
+<item><title>Supabase + Stripe + Netlify backend for a finished lawn bowls web app: sign-in, 30-day trial, annual subscriptions, access lock</title><link>https://www.freelancer.com/projects/supabase/Supabase-Stripe-Netlify-backend-for</link><guid isPermaLink="false">freelancer:40780251</guid><pubDate>Wed, 21 Oct 2026 23:05:12 GMT</pubDate><description>750-1500 AUD | I own Bowls Draw, a web app that helps social lawn bowls coordinators pick fair teams each week.
+The app and the marketing website are finished and live on two Netlify sites. I need an experienced
+developer to build the account and payment layer around them. I am not asking for a rebuild.
+What you would build
+• Sign-up, sign-in, password reset and email confirmation with Supabase Auth.
+• A 30-day free trial with no card, tracked in the database, with reminder emails at 14, 7 and 1
+days before it ends.
+• Stripe subscriptions in AUD: Individual $49 a year (1 login) and Club $99 a year (3 coordinator
+logins). Annual auto-renewal, receipts, failed-payment handling, Customer Portal, webhooks.
+• Access gating on Netlify: the app only opens for a live trial or a paid year. When access ends it
+locks, with no grace period.
+• One active session per login.
+• Online cancellation, a My Account page, and a simple admin panel for me.
+• Transactional emails (welcome, reminders, receipts, cancellation) with my wording.
+• Documentation and a clean handover to a repository and accounts that I own.
+
+Why this is a good project
+• The front end, pricing, business rules and customer flow are already decided and written down.
+I will give you a full specification, flow diagram and a list of every email and record.
+• Australian subscription law is tightening in July 2027, so online cancellation and renewal
+notices are built in from the start.
+• Fixed price per milestone, paid when I have approved each one on a staging site.
+
+Who I am looking for
+• You have shipped Supabase and Stripe subscription billing before and can show me live
+examples.
+• You are comfortable with Netlify functions or edge functions, and plain JavaScript (the app is a
+single HTML file, not a framework app).
+• You write clearly, test your work, and are available for some overlap with Sydney business
+hours (AEST/AEDT).
+
+How to apply
+Please do not send a template reply. In your proposal, answer these five questions briefly:
+1. Which similar Supabase + Stripe subscription project have you delivered? Please link it or
+describe it.
+2. How would you build the 30-day no-card trial and the reminder emails, and what would send
+them?
+3. How would you stop the app loading for a signed-out or lapsed user, given it is a static single-
+file app on Netlify?
+4. Which payment methods would you offer for an annual auto-renewing plan in AUD, and what
+are the trade-offs?
+5. What is your fixed price and timeline per milestone, and what would you class as extra?
+
+I will share the full specification with shortlisted applicants straight away. It is attached to this post.</description></item>
 <item><title>CRM &amp; Deck Construction Management Software</title><link>https://www.freelancer.com/projects/web-development/CRM-Deck-Construction-Management</link><guid isPermaLink="false">freelancer:40780231</guid><pubDate>Wed, 21 Oct 2026 22:45:58 GMT</pubDate><description>750-1500 USD | I need a single, cohesive platform that covers our entire workflow as a specialty deck-building company—from the first phone call right through to the final invoice and 3D render. The build should be web-based (mobile-friendly), modular, and ready to scale as our team grows.
 
 CRM MODULE  
@@ -673,33 +742,6 @@ If this aligns with your expertise, let’s discuss timeline and phased mileston
 Make the store look nice and presentable and stand out as it’s really basic and new right now.
 
 Please send details of your monthly package, total cost, timeline to get everything live, and examples of similar UK dropshipping stores you have worked on. Thank you.</description></item>
-<item><title>WordPress Malware Cleanup and Migration</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Malware-Cleanup-Migration</link><guid isPermaLink="false">freelancer:40777642</guid><pubDate>Tue, 20 Oct 2026 10:42:42 GMT</pubDate><description>250-750 AUD | My WordPress site has been compromised: visitors are being redirected to random domains, intrusive pop-ups are appearing, and I’m logging far more failed sign-in attempts than usual. I already have a fresh full backup, so you can work on a copy or restore point right away.  
-
-Here’s what I need from you: clean every trace of malware, document what was removed, close the vulnerability that allowed the breach, and then move the site to a new hosting environment without any downtime. Once migration is complete, I’ll want you to verify that the installation is still malware-free, that SSL and permalinks survived the move intact, and that performance hasn’t been impacted.  
-
-Experience recovering hacked WordPress installs is essential; your reviews should reflect successful malware removal and post-cleanup hardening. Familiarity with common security plugins, server-side scanning tools, and manual file/database inspection will help you sail through this quickly. Continuous security monitoring setup after the move would be a welcome bonus if you offer it.  
-
-Deliverables  
-• Cleaned WordPress core, themes, and plugins with a brief report of actions taken  
-• Hardened configuration (updated salts, strict file permissions, login protections)  
-• Seamless migration to the new server, DNS updated, SSL functioning  
-• Final security scan results and proof that the redirects, pop-ups, and brute-force attempts have stopped  
-
-Please outline your approach, estimated timeline, and any post-migration support you include.</description></item>
-<item><title>Build an Educational Business Website</title><link>https://www.freelancer.com/projects/web-design/Build-Educational-Business-Website</link><guid isPermaLink="false">freelancer:40777640</guid><pubDate>Tue, 20 Oct 2026 10:41:12 GMT</pubDate><description>250-750 GBP | I’m looking for a freelance web designer/developer to build a professional website for an education-related business.
-
-The project involves:
-
-Creating a simple, polished WordPress website of approximately four pages.
-A professional, predominantly text-based design, with some carefully chosen photography to break up the content.
-Converting an existing logo into vector format suitable for print and digital use.
-Setting up the website so it is easy for me to manage and update once completed.
-
-I will be supplying all website content. I’m looking for someone who can take care of the design and technical WordPress build, and provide a straightforward handover.
-
-Please message me with examples of relevant work, an indication of costs and timescales, and details of what you would include in your service.
-
-Thank you!</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
