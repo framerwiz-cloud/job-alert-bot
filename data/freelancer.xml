@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Coupon &amp; Discount Setup</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Coupon-Discount-Setup</link><guid isPermaLink="false">freelancer:40780175</guid><pubDate>Wed, 21 Oct 2026 21:47:19 GMT</pubDate><description>3000-5000 EUR | I’m ready to roll out a full-featured discount engine in my WooCommerce store and need an experienced developer to configure it from end to end.
+
+Scope of work  
+– Automatic tiered discounts (e.g., 10 % off orders above $100, scalable to any threshold I define)  
+– “Buy 1, get 1 50 %” and similar mix-and-match promos that trigger correctly in the cart  
+– Visible badges on every product card such as “–20 %”, “Sale”, “Best Seller” so shoppers instantly see the offer  
+– Coupon management: promo codes I can create on demand, first-order incentives, and countdown-based flash deals  
+– Seamless promo-code input field on the cart page with real-time validation  
+– Dedicated “Sale” archive that automatically pulls every discounted item  
+– Countdown timer component for limited-time promotions, adaptable to any campaign length
+
+Please include in your proposal:  
+• A short outline of the plugins or custom code approach you recommend (e.g., WooCommerce Dynamic Pricing &amp; Discounts, Advanced Coupons, custom snippets) and why they fit best  
+• Your estimated timeline with key milestones  
+• A ballpark cost broken down by setup, testing, and launch support
+
+All pricing rules, discount percentages, and creative assets will be supplied by me. I just need a reliable build, clean configuration, and clear hand-off instructions so I can manage future campaigns without developer intervention.</description></item>
 <item><title># WordPress Drone Photography &amp; Videography Website — Mechanicsville Aerial - Fully Hosted and Ready to Launch -- 2</title><link>https://www.freelancer.com/projects/website-design/WordPress-Drone-Photography-Videography</link><guid isPermaLink="false">freelancer:40780167</guid><pubDate>Wed, 21 Oct 2026 21:38:57 GMT</pubDate><description>30-250 USD | PROJECT: WordPress Drone Photography Website — Mechanicsville Aerial
 
 PROJECT OVERVIEW
@@ -688,19 +705,6 @@ If this aligns with your expertise, let’s discuss timeline and phased mileston
 Make the store look nice and presentable and stand out as it’s really basic and new right now.
 
 Please send details of your monthly package, total cost, timeline to get everything live, and examples of similar UK dropshipping stores you have worked on. Thank you.</description></item>
-<item><title>WordPress Malware Cleanup and Migration</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Malware-Cleanup-Migration</link><guid isPermaLink="false">freelancer:40777642</guid><pubDate>Tue, 20 Oct 2026 10:42:42 GMT</pubDate><description>250-750 AUD | My WordPress site has been compromised: visitors are being redirected to random domains, intrusive pop-ups are appearing, and I’m logging far more failed sign-in attempts than usual. I already have a fresh full backup, so you can work on a copy or restore point right away.  
-
-Here’s what I need from you: clean every trace of malware, document what was removed, close the vulnerability that allowed the breach, and then move the site to a new hosting environment without any downtime. Once migration is complete, I’ll want you to verify that the installation is still malware-free, that SSL and permalinks survived the move intact, and that performance hasn’t been impacted.  
-
-Experience recovering hacked WordPress installs is essential; your reviews should reflect successful malware removal and post-cleanup hardening. Familiarity with common security plugins, server-side scanning tools, and manual file/database inspection will help you sail through this quickly. Continuous security monitoring setup after the move would be a welcome bonus if you offer it.  
-
-Deliverables  
-• Cleaned WordPress core, themes, and plugins with a brief report of actions taken  
-• Hardened configuration (updated salts, strict file permissions, login protections)  
-• Seamless migration to the new server, DNS updated, SSL functioning  
-• Final security scan results and proof that the redirects, pop-ups, and brute-force attempts have stopped  
-
-Please outline your approach, estimated timeline, and any post-migration support you include.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
