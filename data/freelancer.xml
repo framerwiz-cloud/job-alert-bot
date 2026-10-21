@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Tools Directory WordPress Site</title><link>https://www.freelancer.com/projects/web-development/Tools-Directory-WordPress-Site</link><guid isPermaLink="false">freelancer:40779982</guid><pubDate>Wed, 21 Oct 2026 18:36:55 GMT</pubDate><description>30-250 USD | I want to launch a clean, fast-loading WordPress site that serves as a searchable directory of AI, productivity, business and learning tools, each monetised with affiliate links. I already have hosting in place; you’ll handle the full WordPress installation, set-up and hardening so the project is production-ready from day one.
+
+Because I’m not an interface expert, I’d like you to guide me on the most suitable homepage layout—grid, list, masonry or any hybrid you feel will showcase the tools elegantly on desktop and mobile. I don’t have inspirational examples, so please come prepared with a few modern, minimalist references we can discuss before you dive into design.
+
+Core build requirements  
+• Responsive, minimalist theme or custom child theme  
+• Homepage that surfaces featured or newest tools and encourages exploration  
+• Structured directory with categories, tags and an internal search + filter system  
+• Individual tool review pages with space for screenshots, pros/cons, rating and my affiliate CTA buttons  
+• Blog section for news and tutorials, plus a separate “Frameworks” section (essentially another category template)  
+• Newsletter signup (I’m on Mailchimp but open to better options) placed strategically across the site  
+• Affiliate link management via a reliable plugin or lightweight custom solution  
+• On-page SEO configuration (metadata, schema for reviews, XML sitemap)  
+• Image and code optimisation to keep load times low; aim for green Core Web Vitals  
+• Security best practices (firewall, login protection, automated backups)  
+• Google Analytics 4 (or Matomo if you prefer open-source) fully configured
+
+Deliverables  
+1. Staging site for approval, then live deployment  
+2. All page templates, menus and sample content populated so I can see the flow  
+3. Documentation or short Loom walkthrough covering how I add new tools, blog posts and track affiliate clicks  
+4. Post-launch support window to tackle any unforeseen bugs
+
+If you have experience building niche directories with affiliate integration and can suggest thoughtful UI/UX improvements, I’d love to hear how you would tackle this from theme selection to performance tuning.
+
+Deliverables:
+•	Fully functioning website on IONOS hosting
+•	Admin access
+•	Ability to add/edit tools without coding
+PLAN IS TO  start with 50 tool reviews, 20 blog posts, and 5 framework articles before launch. That gives the website  enough content to look established and begin attracting Google traffic from day one.</description></item>
 <item><title>RITHU BUSINASS LANKA SOCIAL MEDIA WEB SIDE -- 2</title><link>https://www.freelancer.com/projects/nextjs/RITHU-BUSINASS-LANKA-SOCIAL-MEDIA</link><guid isPermaLink="false">freelancer:40779951</guid><pubDate>Wed, 21 Oct 2026 18:12:40 GMT</pubDate><description>250-750 USD | My brand, Rithu Business Lanka, already has a basic site online (https://rithubusinesslanka.vercel.app/) built with a single Next.js + Node/Express codebase. The core pages load, the UI is responsive, and the backend APIs move data without a hitch—but the site still feels like a brochure. The next milestone is turning it into an engaging hub where visitors stay, talk, and share.
 
 Scope of the upgrade  
@@ -535,22 +565,6 @@ The navigation must be upgraded to a visual mega-menu that shows thumbnail image
 • Responsive design and fast load times
 
 To confirm you have reviewed the source site, start your proposal by stating where the screw piles are manufactured; the answer is visible on one of the logos. Send your best all-inclusive price up front—no post-award increases, please. Once delivered, I’ll need a quick handover call and 30 days of bug-fix support.</description></item>
-<item><title>Botanical Fragrance E-Commerce Site</title><link>https://www.freelancer.com/projects/content-management-system/Botanical-Fragrance-Commerce-Site</link><guid isPermaLink="false">freelancer:40776970</guid><pubDate>Tue, 20 Oct 2026 03:25:00 GMT</pubDate><description>1500-3000 AUD | I'm looking for an experienced Shopify developer to create an e-commerce website for my botanical fragrance products. The site needs to be user-friendly and visually appealing, with the following key features:
-
-- Product search and filtering
-- User reviews and ratings
-- Abandoned cart recovery
-- pre-launch data registry for early birds 
-
-Ideal Skills and Experience:
-- Proven experience with Shopify development
-- Strong understanding of e-commerce best practices
-- Ability to create intuitive search and filtering options
-- Experience integrating user review systems
-- Knowledge of abandoned cart recovery techniques
-
-
-Please include examples of previous Shopify projects in your bids.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
