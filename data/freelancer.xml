@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Construction Website Modernization and Optimization</title><link>https://www.freelancer.com/projects/web-design/Construction-Website-Modernization</link><guid isPermaLink="false">freelancer:40779471</guid><pubDate>Wed, 21 Oct 2026 12:33:57 GMT</pubDate><description>250-750 USD | My construction company’s website still runs on an older codebase, looks dated, and Chrome’s console is full of warnings—mostly script deprecations and Permission-Policy violations. I’m ready to give it a clean, modern and sleek facelift while also fixing every technical issue that slows it down or hurts the mobile experience.
+
+What I need you to do  
+• Audit the existing site, pinpoint every console error, and correct the underlying code or headers so the logs stay clean in Chrome, Firefox, and Edge.  
+• Implement or revise the Permission-Policy header so there are no violations reported.  
+• Redesign the front end with a contemporary, visually tight layout that keeps current content but feels fresh and professional.  
+• Make the layout fully responsive, ensuring smooth behaviour on common breakpoints (mobile, tablet, desktop).  
+• Optimise images, scripts, stylesheets, and server settings so Google PageSpeed Insights comfortably scores in the high 90s on both mobile and desktop.  
+• Hand over a tested, production-ready site along with a brief summary of changes and any new dependencies.
+
+Key notes  
+– Design preference: modern and sleek—think generous white space, strong typography, subtle animation, and a colour palette that conveys trust.  
+– Platform: the existing stack will be shared once you’re onboard; I’m open to fresh tooling if it shortens the build and keeps maintenance simple.  
+– Timeline: ASAP. Please outline how quickly you can start and your estimated turnaround.
+
+If this sounds like the kind of challenge you enjoy, let’s talk timelines and the next steps.</description></item>
 <item><title>Wix Dancewear Shop Setup</title><link>https://www.freelancer.com/projects/wix/Wix-Dancewear-Shop-Setup</link><guid isPermaLink="false">freelancer:40779432</guid><pubDate>Wed, 21 Oct 2026 11:46:33 GMT</pubDate><description>20-250 GBP | I have already uploaded every costume, piece of dancewear, shoe and accessory we sell into the Wix Product Manager, but the storefront itself is still a blank page. I’m looking for someone who really knows the Wix e-commerce toolset to turn that raw catalog into a polished, fully-functioning shop.
 
 Key tasks I need handled:
@@ -710,19 +726,6 @@ Key elements I expect in the new build:
 You’ll handle the migration of the existing content, recreate the design so it matches (or improves on) the current look, set up the AWS hosting stack, point the domain away from GoDaddy, and confirm everything works end-to-end. All source code should be in a private Git repository that I control.
 
 Acceptance criteria: the page scores well on Google Lighthouse for performance and accessibility, all three features function correctly on desktop and mobile, and the site is fully live on AWS with HTTPS before hand-off.</description></item>
-<item><title>Bold Website for Royal Automotive</title><link>https://www.freelancer.com/projects/web-design/Bold-Website-for-Royal-Automotive</link><guid isPermaLink="false">freelancer:40776271</guid><pubDate>Mon, 19 Oct 2026 19:13:14 GMT</pubDate><description>30-250 USD | I’m ready to level-up Royal Automotive’s online presence with a bold and vibrant website whose sole purpose is to showcase services and make visitors instantly understand everything we do. The brand already has a logo, colour palette and plenty of high-resolution photos; what I lack is a polished, conversion-focused site that presents our three core offerings—Automotive detailing, Custom upholstery and interiors, and Car wash services—in a way that feels premium yet approachable.
-
-Here’s the experience I’m after: visitors land on an eye-catching hero section, scroll through animated service panels that explain detailing packages, bespoke interior work and wash options, flip through a gallery of before-and-after shots, and finish on a clear call-to-action that invites them to request a quote or schedule an appointment. Smooth page transitions, sharp typography and confident colour blocking should carry the “Royal” feel throughout.
-
-Key deliverables  
-• Fully responsive website (desktop, tablet, mobile) built on a mainstream CMS that I can edit easily  
-• Individual service pages for Automotive detailing, Custom upholstery and interiors, and Car wash services, plus a Ceramic coatings highlight within the detailing section  
-• Photo / video gallery, testimonials slider and contact-or-booking form wired to my business email  
-• SEO-friendly structure and meta data so we rank for local search terms like “detailing near me”  
-• Integration of existing logo, colours and any future promotional graphics I supply  
-• Final walkthrough showing me how to update text, photos and pricing
-
-Once the design is approved, I’ll provide all copy, images and branding assets so you can focus on pixel-perfect layout and smooth functionality. Looking forward to seeing how you bring Royal Automotive’s personality to life online.</description></item>
 <item><title>Custom WordPress Checkout Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Checkout-Build</link><guid isPermaLink="false">freelancer:40776300</guid><pubDate>Mon, 19 Oct 2026 17:22:21 GMT</pubDate><description>15-25 USD/hr | I need a developer who can redesign and rebuild the checkout on my existing WordPress site so it feels smooth, looks on-brand, and works flawlessly from desktop to mobile. The new flow must:
 
 • Process payments through Credit/Debit cards, PayPal, and Bank transfers without sending shoppers off-site unless the gateway requires it.  
