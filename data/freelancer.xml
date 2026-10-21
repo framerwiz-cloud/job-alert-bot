@@ -354,27 +354,6 @@ Acceptance criteria
 5. All new pages pass Lighthouse scores of 90+ for performance and accessibility on mobile and desktop.
 
 Push the finished code into the current Git repository, document new environment variables, and supply a brief README so handoff is seamless.</description></item>
-<item><title>Lead-Driven Cleaning Company Site</title><link>https://www.freelancer.com/projects/digital-marketing/Lead-Driven-Cleaning-Company-Site</link><guid isPermaLink="false">freelancer:40779950</guid><pubDate>Wed, 21 Oct 2026 18:09:59 GMT</pubDate><description>100-275 USD | I run a residential-and-office cleaning service and I’m ready to step up my online presence so new prospects can find us and, most importantly, reach out for a quote. My immediate focus is twofold:  
-
-1) a friendly, inviting website that reflects the fresh, tidy feeling our crews deliver every day, and  
-2) a marketing push designed specifically to generate leads.  
-
-Website  
-• The site should feel warm and approachable—nothing overly corporate—while still looking polished on both desktop and mobile.  
-• A prominently placed contact form is non-negotiable; it has to capture name, phone, email, service type, and preferred date.  
-• Clear calls-to-action on every page, quick-loading images, and intuitive navigation are essential.  
-• I’m happy to work in WordPress, Webflow, or another CMS you recommend, provided I can make simple edits afterward.
-
-Marketing  
-Once the site is live I want a lead engine humming in the background. Think targeted local SEO, Google Ads, and simple social campaigns that funnel visitors straight to the contact form. I’m open to your recommendations on channels, creative angles, and tracking tools—as long as the plan stays laser-focused on converting clicks into booked cleanings.
-
-Acceptance Criteria  
-• Live, responsive website matching the agreed friendly style  
-• Functioning contact form that forwards inquiries to my email and stores them in a database or spreadsheet  
-• Initial 30-day marketing roadmap with projected lead numbers and KPIs  
-• Handover session so I can manage basic updates myself
-
-If this sounds like your wheelhouse, let’s chat about timelines and milestones.</description></item>
 <item><title>Squarespace Refresh for DigitalGarage.tv</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Refresh-for-DigitalGarage</link><guid isPermaLink="false">freelancer:40779846</guid><pubDate>Wed, 21 Oct 2026 16:59:37 GMT</pubDate><description>250-750 GBP | www.digitalgarage.tv is already Squarespace and needs a complete visual refresh that feels brighter, predominantly white, and altogether more professional and engaging. The core identity of the brand must remain intact, so I’ll be re-using all existing logos, copy, imagery and video assets.
 
 Here’s what stays exactly as it is:  
@@ -705,6 +684,19 @@ If this aligns with your expertise, let’s discuss timeline and phased mileston
 Make the store look nice and presentable and stand out as it’s really basic and new right now.
 
 Please send details of your monthly package, total cost, timeline to get everything live, and examples of similar UK dropshipping stores you have worked on. Thank you.</description></item>
+<item><title>WordPress Malware Cleanup and Migration</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Malware-Cleanup-Migration</link><guid isPermaLink="false">freelancer:40777642</guid><pubDate>Tue, 20 Oct 2026 10:42:42 GMT</pubDate><description>250-750 AUD | My WordPress site has been compromised: visitors are being redirected to random domains, intrusive pop-ups are appearing, and I’m logging far more failed sign-in attempts than usual. I already have a fresh full backup, so you can work on a copy or restore point right away.  
+
+Here’s what I need from you: clean every trace of malware, document what was removed, close the vulnerability that allowed the breach, and then move the site to a new hosting environment without any downtime. Once migration is complete, I’ll want you to verify that the installation is still malware-free, that SSL and permalinks survived the move intact, and that performance hasn’t been impacted.  
+
+Experience recovering hacked WordPress installs is essential; your reviews should reflect successful malware removal and post-cleanup hardening. Familiarity with common security plugins, server-side scanning tools, and manual file/database inspection will help you sail through this quickly. Continuous security monitoring setup after the move would be a welcome bonus if you offer it.  
+
+Deliverables  
+• Cleaned WordPress core, themes, and plugins with a brief report of actions taken  
+• Hardened configuration (updated salts, strict file permissions, login protections)  
+• Seamless migration to the new server, DNS updated, SSL functioning  
+• Final security scan results and proof that the redirects, pop-ups, and brute-force attempts have stopped  
+
+Please outline your approach, estimated timeline, and any post-migration support you include.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
