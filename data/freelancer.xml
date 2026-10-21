@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Minimalist Journal Purchase Site</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Journal-Purchase-Site</link><guid isPermaLink="false">freelancer:40780105</guid><pubDate>Wed, 21 Oct 2026 20:32:01 GMT</pubDate><description>30-250 AUD | I’m launching a simple online presence for a single physical product—my guided journal—and need it distilled into just two pages. The first page introduces the journal with clean, distraction-free visuals; the second page handles the entire buying flow.
+
+Design  
+• A strictly minimalist aesthetic drives the look and feel. White space, subtle typography, and my chosen color scheme should be woven throughout so the journal itself stays centre-stage.
+
+Purchase Flow  
+The checkout page must integrate a payment gateway of your choice (Stripe or PayPal are both fine), allow shoppers to add the journal to a lightweight cart, and trigger an automatic confirmation email once the transaction succeeds. Everything should sit behind HTTPS, respond smoothly on mobile, and be ready for modest traffic from day one.
+
+Branding  
+I’ll supply the palette that ties back to my print packaging. No logo or custom fonts are required—just consistent colours applied thoughtfully.
+
+Deliverables  
+• Two responsive pages (home + purchase)  
+• Integrated payment gateway, cart, and confirmation email configured and tested  
+• Source files and brief hand-over notes so I can update copy or colours later  
+
+If this sounds like a quick, tidy build for you, I’m ready to start as soon as we agree on timeline.</description></item>
 <item><title>WordPress Multilingual Setup, Five Languages</title><link>https://www.freelancer.com/projects/seo/WordPress-Multilingual-Setup-Five</link><guid isPermaLink="false">freelancer:40780049</guid><pubDate>Wed, 21 Oct 2026 19:43:33 GMT</pubDate><description>250-750 USD | I want to make my existing WordPress site fully multilingual in English, Spanish, French, German, and Chinese while keeping every pixel of the current design intact. You may use either WPML or Polylang—I have no preference, as long as the final result runs smoothly.
 
 Scope of work  
@@ -538,39 +555,6 @@ Ideal skills and experience:
 - Experience with product variant integration
 
 Please share your portfolio and relevant experience. Looking forward to your bids!</description></item>
-<item><title>Experienced web developer who can build a wholesale directory using Magento 2 Marketplace Extension. Do not bid if you do not have relevant experience or can show previous work websites</title><link>https://www.freelancer.com/projects/magento-2/Experienced-web-developer-who-can</link><guid isPermaLink="false">freelancer:40777286</guid><pubDate>Tue, 20 Oct 2026 06:57:42 GMT</pubDate><description>250-750 AUD | EXPERIENCED web developer who can build a wholesale directory using Magento 2 Marketplace Extension. 
-https://store.webkul.com/magento2-multi-vendor-marketplace.html
-
-Please DO NOT bid if you do not have relevant experience or can show previous work websites. 
-Don't tell me you are limited by NDA. 
-
-I will make a report if you are a time waster and bidding for the sake of bidding and you can't prove your have relevant work experience
-
-Please show the screenshots freelancer reviews on relevant wholesale directory work, send me the website links and give me quotes and prices.
-
-DO NOT WASTE MY TIME IF YOU DONT HAVE RELEVANT EXPERIENCE. I WILL REPORT YOU TO FREELANCER&gt;
-
-I am launching a wholesale-only, business-to-business directory powered by the Magento 2 Marketplace Extension and need someone who has already built similar sites to step in and own the build from start to finish.
-
-Scope of work  
-The site must function as a true B2B marketplace, giving approved vendors the ability to upload products in bulk, manage inventory, and handle their own orders while I retain full administrative control. Robust product catalog management, vendor management, and order processing are all mandatory parts of the brief. In addition, the platform has to connect cleanly to my existing ERP, preferred payment gateways, and chosen shipping providers so that stock, pricing, payments, and tracking data stay perfectly in sync.
-
-Core deliverables  
-• Fully configured Magento 2 Marketplace Extension with custom B2B settings  
-• Product catalog management dashboard for vendors and admin  
-• Vendor onboarding workflow with approval logic  
-• Streamlined B2B checkout and order processing controls  
-• Real-time integrations to ERP, payment gateways, and shipping APIs (please specify the connectors you’ve used before)  
-• Responsive theme set-up, branded and ready for launch  
-• Migration of sample data to verify everything works before go-live
-
-Acceptance criteria  
-• All integrations sync without manual intervention for at least one week in staging.  
-• Vendors can add, edit, and retire products without admin assistance.  
-• Buyers can complete an order, receive confirmation, and track shipment end-to-end.  
-• Page load time stays under three seconds on desktop and mobile.  
-
-Show me at least one live Magento 2 marketplace or B2B portal you have delivered; code samples or admin screenshots are a plus. I plan to move quickly once I see proven expertise.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
