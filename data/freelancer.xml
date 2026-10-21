@@ -3,6 +3,61 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Multilingual Setup, Five Languages</title><link>https://www.freelancer.com/projects/seo/WordPress-Multilingual-Setup-Five</link><guid isPermaLink="false">freelancer:40780049</guid><pubDate>Wed, 21 Oct 2026 19:43:33 GMT</pubDate><description>250-750 USD | I want to make my existing WordPress site fully multilingual in English, Spanish, French, German, and Chinese while keeping every pixel of the current design intact. You may use either WPML or Polylang—I have no preference, as long as the final result runs smoothly.
+
+Scope of work  
+• Install and configure the chosen multilingual plug-in on the local copy I provide (backup will be supplied; you can work in Local WP, XAMPP, or a similar environment).  
+• Add a language switcher that matches the existing styling.  
+• Translate menus plus three key pages—Home, About Us, and Products/Services—bringing the total to roughly 5-10 pages.  
+• Set up correct hreflang tags and handle any other on-page multilingual SEO essentials.  
+• Make zero changes to the design itself; focus strictly on language integration.
+
+Workflow &amp; proof  
+All development stays offline. Before I award the project, please import the backup locally and send screenshots of the homepage and WP dashboard to confirm everything is running on your side.
+
+When you bid  
+Let me know:  
+1. Your fixed price  
+2. Estimated delivery time  
+3. How many revision rounds you include  
+4. Whether you will supply the translations or expect me to provide them
+
+Communication and payments remain exclusively on Freelancer.com. If you can deliver a clean, SEO-ready multilingual setup in this environment, I look forward to reading your proposal.</description></item>
+<item><title>Resume &amp; Complete Website Redesign</title><link>https://www.freelancer.com/projects/content-management-system/Resume-Complete-Website-Redesign</link><guid isPermaLink="false">freelancer:40780050</guid><pubDate>Wed, 21 Oct 2026 19:43:32 GMT</pubDate><description>250-750 USD | Subject: Website Redesign Project: Resuming Work &amp; Deployment Requirements.
+
+We need you to take over the website redesign from where the previous designer left off and complete the remaining work.
+To ensure a smooth transition and protect our live operations, please review and follow these project guidelines:
+• Staging Environment: All ongoing design and development work must be performed exclusively on a staging site. Do not make any live changes to our current website.
+• Live Deployment: Once the redesign is fully complete and approved, you will be responsible for securely transferring all files and databases from the staging environment to our live production server. 
+• Project Completion: The project will only be considered officially complete and ready for final payment when all files are properly installed, fully functional, and verified to be working perfectly on the live domain.
+Some elements of the redesign have already been built out by the previous designer.
+
+What we need:
+
+1. Main Page: Complete the remaining work: the Page Header and Footer.
+2. Main Page: Install already created 7 widgets codes into the proper location in the page.
+3. Things To Do page: This page has one (1) main page and 3 sub-pages. We need to enter the already created content, images, widget codes, Footer, and Header.
+4. Business page: Needs minor work.
+5. Work with RapidShuttle page: Needs to be created with content, an email link, and images.
+6. About us page: Needs minor work.
+7. We expect work to be completed within 45 days or less.
+
+We will be happy to share our Google Sheets-designed draft to better understand the work.
+https://docs.google.com/spreadsheets/d/1LPHhlpfF4ltipkIRxAlKjlOjTqywWy0phV60pbhzFQA/edit?usp=sharing</description></item>
+<item><title>FINRA Exam Page on WordPress</title><link>https://www.freelancer.com/projects/css/FINRA-Exam-Page-WordPress</link><guid isPermaLink="false">freelancer:40780046</guid><pubDate>Wed, 21 Oct 2026 19:40:04 GMT</pubDate><description>250-750 USD | I want a new page built into my existing WordPress site that matches the professional, corporate look of the rest of the platform. The focus of the page is to showcase the FINRA/NASAA practice exams I provide—Series 6, Series 7, Series 63, Series 66, Series 79, and Series 99—together with a bank of 100 interactive questions.
+
+Here’s how I picture it coming together:
+
+• Seamless WordPress integration so the page inherits my current header, footer, and typography.  
+• Clean, corporate-style layout: straightforward typography, restrained color palette, and an intuitive hierarchy that makes the exams the star of the page.  
+• A concise description or card for each listed exam, leading users straight into the interactive quiz experience.  
+• The interactive question component (100 total questions) should provide real-time feedback, tally scores instantly, and be easy for me to update in the dashboard—whether you use a reputable quiz plugin or custom code is up to you, as long as it stays lightweight and secure.  
+• Mobile-first responsiveness, so the questions are just as smooth on a phone as they are on a desktop.  
+• Basic on-page SEO setup: exam-specific headings, meta data, and alt tags baked in.
+
+Once the page is ready, I’ll need a quick hand-off guide or short Loom video showing me how to edit questions or add new ones down the line.
+
+If you’ve built interactive quiz pages in WordPress before and can keep the styling buttoned-up and corporate, I’m ready to move quickly.</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:21 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
@@ -516,40 +571,6 @@ Acceptance criteria
 • Page load time stays under three seconds on desktop and mobile.  
 
 Show me at least one live Magento 2 marketplace or B2B portal you have delivered; code samples or admin screenshots are a plus. I plan to move quickly once I see proven expertise.</description></item>
-<item><title>Modern Granny Flat Design</title><link>https://www.freelancer.com/projects/building-designer/Modern-Granny-Flat-Design</link><guid isPermaLink="false">freelancer:40777124</guid><pubDate>Tue, 20 Oct 2026 05:21:40 GMT</pubDate><description>750-1500 AUD | I'm looking for an experienced designer to create a modern granny flat. This project is urgent and needs to be completed ASAP. 
-
-Ideal skills and experience:
-- Proven experience in modern design
-- Strong portfolio of past projects
-- Ability to work quickly and efficiently
-- Knowledge of building regulations and requirements
-
-Please include relevant experience in your application.</description></item>
-<item><title>WordPress Clone: Piling Website</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Clone-Piling-Website</link><guid isPermaLink="false">freelancer:40776974</guid><pubDate>Tue, 20 Oct 2026 03:26:12 GMT</pubDate><description>30-250 AUD | I need an exact WordPress-based clone of www.totalpilingandexcavations.com.au, keeping its overall layout, typography and section flow while changing every light-blue accent to orange. I will supply the replacement hero video for the home page, so that simply has to be embedded and optimised. 
-
-The navigation must be upgraded to a visual mega-menu that shows thumbnail images and short descriptions for each category, and the build must include:
-• Sticky header on mobile and desktop  
-• Sticky “Quick Quote” footer bar on mobile  
-• Clean, lightweight theme setup (Elementor, Gutenberg or a similarly efficient builder—your call)  
-• Responsive design and fast load times
-
-To confirm you have reviewed the source site, start your proposal by stating where the screw piles are manufactured; the answer is visible on one of the logos. Send your best all-inclusive price up front—no post-award increases, please. Once delivered, I’ll need a quick handover call and 30 days of bug-fix support.</description></item>
-<item><title>Botanical Fragrance E-Commerce Site</title><link>https://www.freelancer.com/projects/content-management-system/Botanical-Fragrance-Commerce-Site</link><guid isPermaLink="false">freelancer:40776970</guid><pubDate>Tue, 20 Oct 2026 03:25:00 GMT</pubDate><description>1500-3000 AUD | I'm looking for an experienced Shopify developer to create an e-commerce website for my botanical fragrance products. The site needs to be user-friendly and visually appealing, with the following key features:
-
-- Product search and filtering
-- User reviews and ratings
-- Abandoned cart recovery
-- pre-launch data registry for early birds 
-
-Ideal Skills and Experience:
-- Proven experience with Shopify development
-- Strong understanding of e-commerce best practices
-- Ability to create intuitive search and filtering options
-- Experience integrating user review systems
-- Knowledge of abandoned cart recovery techniques
-
-
-Please include examples of previous Shopify projects in your bids.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
