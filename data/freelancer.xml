@@ -3,6 +3,12 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Buy-Now 404 Fix -- 2</title><link>https://www.freelancer.com/projects/debugging/WooCommerce-Buy-Now-Fix</link><guid isPermaLink="false">freelancer:40781234</guid><pubDate>Thu, 22 Oct 2026 12:39:39 GMT</pubDate><description>30-250 USD | When shoppers hit my WooCommerce “Buy Now” button they end up on a 404 page instead of the checkout. I need you to walk me through the exact steps to correct the link or underlying configuration while I share my screen with you. Clear, concise explanations in plain English are essential because I struggle with hearing; and a native speaker’s wording is easier for me to follow.
+
+The task is finished when:
+• Clicking “Buy Now” reliably loads the standard WooCommerce checkout page, with no intermediate errors.  
+
+We’ll use the screen-share tool of your choice (Zoom, Google Meet, or similar) and I’ll make the changes as you direct. Experience debugging WordPress hooks, template overrides and URL rewrites in WooCommerce will help you pinpoint the cause quickly—whether it’s a permalink mismatch, a plugin conflict, or a button action mis-assigned in theme files.</description></item>
 <item><title># WordPress Drone Photography &amp; Videography Website — Mechanicsville Aerial - Fully Hosted and Ready to Launch -- 2</title><link>https://www.freelancer.com/projects/website-design/WordPress-Drone-Photography-Videography</link><guid isPermaLink="false">freelancer:40780167</guid><pubDate>Thu, 22 Oct 2026 10:36:34 GMT</pubDate><description>30-250 USD | PROJECT: WordPress Drone Photography Website — Mechanicsville Aerial
 
 PROJECT OVERVIEW
@@ -713,37 +719,6 @@ Design guidelines:
 - Deliver designs formatted for both desktop and phone/tablet views.
 
 Let’s create a standout visual design ready to hand over seamlessly!</description></item>
-<item><title>Mortgage Lead Generation — Google Ads + systeme.io</title><link>https://www.freelancer.com/projects/google-ads/Mortgage-Lead-Generation-Google-Ads</link><guid isPermaLink="false">freelancer:40778573</guid><pubDate>Tue, 20 Oct 2026 23:15:00 GMT</pubDate><description>30-250 CAD | I am a mortgage professional seeking an experienced digital marketing freelancer to build and manage a mortgage lead-generation system.
-
-Project objective: Generate qualified mortgage renewal or refinancing consultations through Google Search Ads and an automated systeme.io funnel.
-
-Scope of work:
-Develop and manage a geographically targeted Google Search Ads campaign.
-Build a mobile-responsive mortgage landing page in systeme.io.
-Configure lead capture, consent, automated email follow-up and appointment booking.
-Implement conversion tracking and weekly performance reporting.
-Optimize campaigns based on qualified consultations and applications.
-
-Budget: CAD $1,500 monthly, inclusive of advertising, management and software allowances. Initial setup and ongoing management fees must fit within this budget.
-
-Initial engagement: Three-month pilot, with monthly performance reviews.
-
-Requirements:
-Demonstrated Google Ads lead-generation experience.
-Experience building funnels in systeme.io.
-Preference for Canadian mortgage or financial-services marketing experience.
-Understanding of regulated financial advertising.
-Ability to work independently with minimal supervision.
-
-To apply, please provide:
-
-Two relevant campaign examples, including results and your specific role.
-Your proposed setup and monthly management fees.
-Your suggested initial campaign strategy.
-A sample performance report.
-Your estimated implementation timeline.
-
-All advertising materials will require approval under applicable brokerage policies before publication.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
