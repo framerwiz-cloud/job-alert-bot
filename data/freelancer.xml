@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern Responsive WordPress Business Site</title><link>https://www.freelancer.com/projects/web-design/Modern-Responsive-WordPress-Business-40781267</link><guid isPermaLink="false">freelancer:40781267</guid><pubDate>Thu, 22 Oct 2026 13:08:59 GMT</pubDate><description>30-250 USD | I’m setting up a new WordPress site whose sole purpose is to showcase my business and its range of services in the best possible light. I need a clean, contemporary layout that scales perfectly on mobile, loads quickly, and lets me update text and images without touching code.
+
+Core structure  
+• Home – an impactful hero section, concise value proposition, and clear call-to-action.  
+• About – company story, team highlights, and a section for trust badges or testimonials.  
+• Services – visually separated service blocks with space for future expansion.  
+• Contact – a simple form where visitors can send a general message that lands in my inbox and triggers a confirmation email to them.
+
+Key requirements  
+• Built on WordPress using a lightweight theme (GeneratePress, Astra, or similar) with either Gutenberg blocks or Elementor—whichever you feel yields the best performance.  
+• Fully responsive design, tested across current iOS/Android devices and major browsers.  
+• PageSpeed Insights score 90+ on both desktop and mobile.  
+• On-page SEO basics in place: proper heading hierarchy, alt tags, clean permalinks.  
+• Clear hand-over: admin credentials, theme / plugin list, and a brief video or PDF showing how I can edit content.
+
+When you reply, please include:  
+1. A link to 2–3 live WordPress sites you’ve built that demonstrate modern, fast, mobile-first design.  
+2. Your estimated cost broken into design, development, and final QA.  
+3. A realistic timeline from kickoff to launch, including revision rounds.  
+
+I’m ready to start as soon as I select the right freelancer, and I value transparent communication throughout the build. Looking forward to seeing your work and hearing how you’d approach this project.</description></item>
 <item><title>Convert 5-Page Site to WordPress</title><link>https://www.freelancer.com/projects/web-development/Convert-Page-Site-WordPress</link><guid isPermaLink="false">freelancer:40781236</guid><pubDate>Thu, 22 Oct 2026 12:40:23 GMT</pubDate><description>250-750 USD | I need my current five-page website recreated in WordPress so I can update the pages, images, and any future additions without touching code. All content, images, and logos are already live on the existing site; your job is to migrate them, mirror the present look and feel as closely as practical, and make sure everything is responsive and SEO-friendly.
 
 Please build the theme using best-practice tools such as Elementor, Gutenberg, or a lightweight custom theme—whatever achieves a clean, fast result that I can edit easily. Once complete, I want to log in, see each page laid out exactly as on the original site, and be able to change text, swap photos, or add new sections from the WordPress dashboard.
@@ -711,26 +732,6 @@ Key conversion paths must be built right into the flow of every page:
 Beyond those elements, the site should load quickly, adapt gracefully to mobile, and be easy for me to update without touching code. Basic on-page SEO, Google Analytics integration and a straightforward hand-off guide are part of the expected deliverables.
 
 If you have a proven process for designing conversion-focused sites and can point to data-backed results, I’d like to work together.</description></item>
-<item><title>Accidentally Outback</title><link>https://www.freelancer.com/projects/graphic-design/Engaging-Adventure-Campaign-Website</link><guid isPermaLink="false">freelancer:40778696</guid><pubDate>Wed, 21 Oct 2026 01:46:34 GMT</pubDate><description>375-500 AUD | Create a quality, engaging website design concept for my project, inviting people to apply for a paid adventure showcasing work and life in regional Australia.
-
-Note: This is a graphic design project only. I’m looking for a skilled designer to create the visual layout and assets – no development or coding is required.
-
-The design will be the central destination for campaign information, paid entries, applicant video uploads, and social media content. It should be easy to use on mobile phones and simple for the campaign team to manage.
-
-Core design content:
-
-- Home: strong campaign imagery or video, a short explanation, and a prominent “Enter Now” button.
-- How it Works: entry requirements, selection process, key dates, and frequently asked questions.
-- Enter: application form layout with placeholders for video upload and secure payment integration.
-- Follow the adventure: showcasing campaign videos and social highlights with supported embeds.
-- Partners: approved sponsor logos with ample space for links/enquiries.
-- Contact &amp; Policies: contact details along with terms of entry and privacy policies.
-
-Design guidelines:
-- Visual style should reflect boldness, Australian regional themes of work/travel/adventure using '88 Days' and 'Rockt' branding guidelines.
-- Deliver designs formatted for both desktop and phone/tablet views.
-
-Let’s create a standout visual design ready to hand over seamlessly!</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
