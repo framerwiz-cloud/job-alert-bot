@@ -3,14 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Remove Two WordPress Buttons</title><link>https://www.freelancer.com/projects/web-development/Remove-Two-WordPress-Buttons</link><guid isPermaLink="false">freelancer:40781779</guid><pubDate>Thu, 22 Oct 2026 19:29:46 GMT</pubDate><description>30-250 USD | I need the two call-to-action buttons that sit within the main content area of one specific WordPress page taken out completely. Once they’re gone, the surrounding content should shift up so there is no blank gap left behind. This change must hold on every screen size—desktop, tablet, and mobile—so please handle any related CSS or theme breakpoints.
-
-Deliverables  
-• Updated page template or custom CSS/JS edit that cleanly removes the two buttons in the page’s body content section.  
-• Confirmation that the layout realigns with no visible spacing on desktop, tablet, and mobile views.  
-• A brief note of the exact file(s) or selector(s) modified so I can track the change in the future.
-
-That’s all that’s needed; a quick, tidy fix inside the existing WordPress setup.</description></item>
 <item><title>AI Tools Directory WordPress Site -- 2</title><link>https://www.freelancer.com/projects/php/Tools-Directory-WordPress-Site</link><guid isPermaLink="false">freelancer:40781765</guid><pubDate>Thu, 22 Oct 2026 19:10:35 GMT</pubDate><description>30-250 USD | MANY QUESTIONS RECEIVED LED TO THIS DETAIL SPECS ATTACHED
 
 I want to launch a clean, fast-loading WordPress site that serves as a searchable directory of AI, productivity, business and learning tools, each monetised with affiliate links. I already have hosting in place; you’ll handle the full WordPress installation, set-up and hardening so the project is production-ready from day one.
@@ -720,6 +712,22 @@ No recruiting or software development experience required.
 - Privacy &amp; Security
 
 Candidates retain full ownership and control of their LinkedIn accounts. No passwords or authentication codes are required, and company personnel will not independently access personal accounts. All networking activities must comply with LinkedIn policies.</description></item>
+<item><title>Construction Website Modernization and Optimization</title><link>https://www.freelancer.com/projects/web-design/Construction-Website-Modernization</link><guid isPermaLink="false">freelancer:40779471</guid><pubDate>Wed, 21 Oct 2026 12:33:57 GMT</pubDate><description>250-750 USD | My construction company’s website still runs on an older codebase, looks dated, and Chrome’s console is full of warnings—mostly script deprecations and Permission-Policy violations. I’m ready to give it a clean, modern and sleek facelift while also fixing every technical issue that slows it down or hurts the mobile experience.
+
+What I need you to do  
+• Audit the existing site, pinpoint every console error, and correct the underlying code or headers so the logs stay clean in Chrome, Firefox, and Edge.  
+• Implement or revise the Permission-Policy header so there are no violations reported.  
+• Redesign the front end with a contemporary, visually tight layout that keeps current content but feels fresh and professional.  
+• Make the layout fully responsive, ensuring smooth behaviour on common breakpoints (mobile, tablet, desktop).  
+• Optimise images, scripts, stylesheets, and server settings so Google PageSpeed Insights comfortably scores in the high 90s on both mobile and desktop.  
+• Hand over a tested, production-ready site along with a brief summary of changes and any new dependencies.
+
+Key notes  
+– Design preference: modern and sleek—think generous white space, strong typography, subtle animation, and a colour palette that conveys trust.  
+– Platform: the existing stack will be shared once you’re onboard; I’m open to fresh tooling if it shortens the build and keeps maintenance simple.  
+– Timeline: ASAP. Please outline how quickly you can start and your estimated turnaround.
+
+If this sounds like the kind of challenge you enjoy, let’s talk timelines and the next steps.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
