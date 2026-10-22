@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Ongoing PHP CRM Maintenance</title><link>https://www.freelancer.com/projects/api-developmet/Ongoing-PHP-CRM-Maintenance</link><guid isPermaLink="false">freelancer:40780471</guid><pubDate>Thu, 22 Oct 2026 02:56:03 GMT</pubDate><description>2-8 AUD/hr | I need a seasoned PHP developer to take over our custom-built CRM. The previous programmer left without documentation, so your first task will be a deep dive into the existing codebase, database schema, and the WordPress bridge to map out how everything fits together.
+
+The immediate priority is the API layer—both the internal endpoints we expose to our own apps and several third-party service hooks we rely on. I’ll expect you to spot bottlenecks, refactor where it makes sense, and then add new endpoints or extend existing ones as new business features roll in.
+
+A quick run-through of the tech stack you’ll be touching: PHP 7.x, MySQL, vanilla HTML/CSS for the admin UI, plus a handful of custom CSS tweaks that keep things on brand. Solid API design principles and a good eye for lightweight UI adjustments are essential.
+
+To move forward, send over links or repos that showcase similar work you’ve done—especially anything that demonstrates code audits, complex API integrations, or module development on an inherited project. Once we’re both comfortable, we’ll jump on a call, set weekly milestones, and keep this rolling on an hourly basis.</description></item>
 <item><title>Experienced Laravel Web Developer Build a multivendor B2C online shopping mall and B2B wholesale directory using Laravel. DO NOT BID if you cannot show Laravel sites and has done more than 3 Laravel projects.</title><link>https://www.freelancer.com/projects/web-development/Experienced-Laravel-Web-Developer-Build</link><guid isPermaLink="false">freelancer:40780468</guid><pubDate>Thu, 22 Oct 2026 02:54:04 GMT</pubDate><description>250-750 AUD | Experienced Laravel Web Developer Build a multivendor B2C online shopping mall and multivendor B2B wholesale directory using Laravel. DO NOT BID if you cannot show previous works website links built using Laravel and has done more than 3 Laravel projects.
 Please give a firm price quote in AUD$ and projects budgets including website graphics and designs.
 Need to be completed within 1-2 weeks
