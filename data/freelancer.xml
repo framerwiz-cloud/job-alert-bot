@@ -3,6 +3,38 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Tools Directory WordPress Site -- 2</title><link>https://www.freelancer.com/projects/php/Tools-Directory-WordPress-Site</link><guid isPermaLink="false">freelancer:40781765</guid><pubDate>Thu, 22 Oct 2026 19:10:35 GMT</pubDate><description>30-250 USD | MANY QUESTIONS RECEIVED LED TO THIS DETAIL SPECS ATTACHED
+
+I want to launch a clean, fast-loading WordPress site that serves as a searchable directory of AI, productivity, business and learning tools, each monetised with affiliate links. I already have hosting in place; you’ll handle the full WordPress installation, set-up and hardening so the project is production-ready from day one.
+
+Because I’m not an interface expert, I’d like you to guide me on the most suitable homepage layout—grid, list, masonry or any hybrid you feel will showcase the tools elegantly on desktop and mobile. I don’t have inspirational examples, so please come prepared with a few modern, minimalist references we can discuss before you dive into design.
+
+Core build requirements  
+• Responsive, minimalist theme or custom child theme  
+• Homepage that surfaces featured or newest tools and encourages exploration  
+• Structured directory with categories, tags and an internal search + filter system  
+• Individual tool review pages with space for screenshots, pros/cons, rating and my affiliate CTA buttons  
+• Blog section for news and tutorials, plus a separate “Frameworks” section (essentially another category template)  
+• Newsletter signup (I’m on Mailchimp but open to better options) placed strategically across the site  
+• Affiliate link management via a reliable plugin or lightweight custom solution  
+• On-page SEO configuration (metadata, schema for reviews, XML sitemap)  
+• Image and code optimisation to keep load times low; aim for green Core Web Vitals  
+• Security best practices (firewall, login protection, automated backups)  
+• Google Analytics 4 (or Matomo if you prefer open-source) fully configured
+
+Deliverables  
+1. Staging site for approval, then live deployment  
+2. All page templates, menus and sample content populated so I can see the flow  
+3. Documentation or short Loom walkthrough covering how I add new tools, blog posts and track affiliate clicks  
+4. Post-launch support window to tackle any unforeseen bugs
+
+If you have experience building niche directories with affiliate integration and can suggest thoughtful UI/UX improvements, I’d love to hear how you would tackle this from theme selection to performance tuning.
+
+Deliverables:
+•	Fully functioning website on IONOS hosting
+•	Admin access
+•	Ability to add/edit tools without coding
+PLAN IS TO  start with 50 tool reviews, 20 blog posts, and 5 framework articles before launch. That gives the website  enough content to look established and begin attracting Google traffic from day one.</description></item>
 <item><title>Website Redesign for Professional Organization</title><link>https://www.freelancer.com/projects/website-development/Website-Redesign-for-Professional</link><guid isPermaLink="false">freelancer:40781663</guid><pubDate>Thu, 22 Oct 2026 17:49:09 GMT</pubDate><description>1500-3000 USD | I need a skilled web designer to redesign our website. The primary goal of the new site is to promote our events, news, and community activities.
 
 Key Requirements:
@@ -18,21 +50,6 @@ Ideal Skills and Experience:
 - Familiarity with website accessibility and ensuring a seamless experience for all users
 
 Please provide a portfolio of similar work. Looking forward to your proposals!</description></item>
-<item><title>Local WordPress Contact Page Setup</title><link>https://www.freelancer.com/projects/web-development/Local-WordPress-Contact-Page-Setup</link><guid isPermaLink="false">freelancer:40781574</guid><pubDate>Thu, 22 Oct 2026 16:38:47 GMT</pubDate><description>750-1500 USD | I have a complete ZIP backup of my WordPress site and I want a fully-featured, mobile-friendly Contact page added without disturbing the existing design. You will work only on a local environment (Local WP or XAMPP). No staging or public link is allowed.
-
-Scope of work  
-• Import the backup locally, then send me two quick screenshots: the Local WP window and the WP dashboard with the local URL visible. I will award the project once I see those.  
-• Build a new Contact page and matching site-wide section that includes phone, email, physical address, WhatsApp/Telegram quick links, working hours, a Google Maps iframe (no API key), and a spam-protected contact form.  
-• Duplicate the key details in the header and footer so visitors can reach us from any page.  
-• Keep every existing layout element, colour, and typography intact and responsive; do not install nulled, bloated, or unnecessary plugins.  
-
-Deliverables  
-1. Updated ZIP backup of the site.  
-2. Short change log explaining what was modified, plugins added (if any), and where.  
-3. Clear instructions so I can test form email delivery myself.  
-
-Confidentiality  
-The backup is strictly for this task—please delete it once the job is finished and confirmed.</description></item>
 <item><title>UK Auto Glass Repair Website</title><link>https://www.freelancer.com/projects/web-development/Auto-Glass-Repair-Website</link><guid isPermaLink="false">freelancer:40781349</guid><pubDate>Thu, 22 Oct 2026 14:13:40 GMT</pubDate><description>20-250 GBP | Website build for local business in the UK. Business is a automobile window and windscreen repair service. Simple website with point of contact directed to changeable contact details.</description></item>
 <item><title>Convert 5-Page Site to WordPress</title><link>https://www.freelancer.com/projects/web-development/Convert-Page-Site-WordPress</link><guid isPermaLink="false">freelancer:40781236</guid><pubDate>Thu, 22 Oct 2026 12:40:23 GMT</pubDate><description>250-750 USD | I need my current five-page website recreated in WordPress so I can update the pages, images, and any future additions without touching code. All content, images, and logos are already live on the existing site; your job is to migrate them, mirror the present look and feel as closely as practical, and make sure everything is responsive and SEO-friendly.
 
