@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Local WordPress Contact Page Setup</title><link>https://www.freelancer.com/projects/web-development/Local-WordPress-Contact-Page-Setup</link><guid isPermaLink="false">freelancer:40781574</guid><pubDate>Thu, 22 Oct 2026 16:38:47 GMT</pubDate><description>750-1500 USD | I have a complete ZIP backup of my WordPress site and I want a fully-featured, mobile-friendly Contact page added without disturbing the existing design. You will work only on a local environment (Local WP or XAMPP). No staging or public link is allowed.
+
+Scope of work  
+• Import the backup locally, then send me two quick screenshots: the Local WP window and the WP dashboard with the local URL visible. I will award the project once I see those.  
+• Build a new Contact page and matching site-wide section that includes phone, email, physical address, WhatsApp/Telegram quick links, working hours, a Google Maps iframe (no API key), and a spam-protected contact form.  
+• Duplicate the key details in the header and footer so visitors can reach us from any page.  
+• Keep every existing layout element, colour, and typography intact and responsive; do not install nulled, bloated, or unnecessary plugins.  
+
+Deliverables  
+1. Updated ZIP backup of the site.  
+2. Short change log explaining what was modified, plugins added (if any), and where.  
+3. Clear instructions so I can test form email delivery myself.  
+
+Confidentiality  
+The backup is strictly for this task—please delete it once the job is finished and confirmed.</description></item>
 <item><title>UK Auto Glass Repair Website</title><link>https://www.freelancer.com/projects/web-development/Auto-Glass-Repair-Website</link><guid isPermaLink="false">freelancer:40781349</guid><pubDate>Thu, 22 Oct 2026 14:13:40 GMT</pubDate><description>20-250 GBP | Website build for local business in the UK. Business is a automobile window and windscreen repair service. Simple website with point of contact directed to changeable contact details.</description></item>
 <item><title>Convert 5-Page Site to WordPress</title><link>https://www.freelancer.com/projects/web-development/Convert-Page-Site-WordPress</link><guid isPermaLink="false">freelancer:40781236</guid><pubDate>Thu, 22 Oct 2026 12:40:23 GMT</pubDate><description>250-750 USD | I need my current five-page website recreated in WordPress so I can update the pages, images, and any future additions without touching code. All content, images, and logos are already live on the existing site; your job is to migrate them, mirror the present look and feel as closely as practical, and make sure everything is responsive and SEO-friendly.
 
@@ -701,17 +716,6 @@ Deliverables will be:
 • Daily summary notes on schedule changes or issues that need my attention.
 
 If you’re detail-oriented, comfortable juggling multiple requests, and ready to help patients feel welcomed from their very first interaction, I’d like to hear from you.</description></item>
-<item><title>Lead-Generating Fractional CFO Website</title><link>https://www.freelancer.com/projects/web-design/Lead-Generating-Fractional-CFO-Website</link><guid isPermaLink="false">freelancer:40778854</guid><pubDate>Wed, 21 Oct 2026 04:26:12 GMT</pubDate><description>250-750 USD | I need a polished online home for my fractional CFO practice whose sole purpose is to turn visitors into sales-qualified leads. The aesthetic has to feel professional and corporate—think clear typography, conservative colour palette and clean layouts that echo the trust and precision expected in finance.
-
-Key conversion paths must be built right into the flow of every page:
-
-• Contact form that feeds directly into my CRM  
-• Newsletter sign-up tied to my email platform  
-• Calendar-based free consultation booking (automatic confirmations and reminders)
-
-Beyond those elements, the site should load quickly, adapt gracefully to mobile, and be easy for me to update without touching code. Basic on-page SEO, Google Analytics integration and a straightforward hand-off guide are part of the expected deliverables.
-
-If you have a proven process for designing conversion-focused sites and can point to data-backed results, I’d like to work together.</description></item>
 <item><title>Graduation Photography Booking Platform Development</title><link>https://www.freelancer.com/projects/web-development/Graduation-Photography-Booking-Platform</link><guid isPermaLink="false">freelancer:40776615</guid><pubDate>Mon, 19 Oct 2026 22:15:18 GMT</pubDate><description>15-25 USD/hr | Project Title: Build a School Graduation Photography Booking Platform for H Studio
 Project Description:
 I’m looking for an experienced web developer to design and build a booking platform for school graduation photography. The platform should make reservations clear and easy to manage for our staff, photographers, students, and families.
