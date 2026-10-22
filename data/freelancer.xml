@@ -771,19 +771,6 @@ Please Include in Your Proposal
 - Your estimated timeline and budget.
 - Any questions, assumptions, or third-party costs, including WhatsApp messaging, email delivery, hosting, and storage.
 We are looking for someone who can turn the existing prototype into a reliable, secure, and easy-to-use platform.</description></item>
-<item><title>Custom WordPress Checkout Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Checkout-Build</link><guid isPermaLink="false">freelancer:40776300</guid><pubDate>Mon, 19 Oct 2026 17:22:21 GMT</pubDate><description>15-25 USD/hr | I need a developer who can redesign and rebuild the checkout on my existing WordPress site so it feels smooth, looks on-brand, and works flawlessly from desktop to mobile. The new flow must:
-
-• Process payments through Credit/Debit cards, PayPal, and Bank transfers without sending shoppers off-site unless the gateway requires it.  
-• Let customers decide whether to complete their purchase as guests or create an account—both paths should be equally clear and quick.
-
-I already have the products, cart, and general styling in place; your focus is the checkout experience itself. That includes configuring or coding the payment gateways, customising the form layout, setting up validation and error handling, and making sure confirmation emails and order data are recorded correctly in the dashboard.
-
-Please outline:
-1. Your preferred approach or plugin stack (e.g., WooCommerce hooks, custom PHP, JavaScript enhancements).  
-2. An estimated timeline for initial mock-up, development, and final testing.  
-3. Any similar checkouts you’ve built that I can review.
-
-On delivery I’ll test each payment method, switch between guest and account flows, and confirm orders are tracked end to end. If that all passes smoothly, we’re done.</description></item>
 <item><title>ASAP Multi-Channel Appointment Scheduler</title><link>https://www.freelancer.com/projects/customer-service/ASAP-Multi-Channel-Appointment-Scheduler</link><guid isPermaLink="false">freelancer:40775767</guid><pubDate>Mon, 19 Oct 2026 10:16:06 GMT</pubDate><description>5-10 GBP/hr | I need an experienced communicator who can jump in right away to handle every step of my appointment-setting flow. You will be:  
 
 • Placing and answering phone calls,  
@@ -816,32 +803,6 @@ Acceptance Criteria
 • Clear documentation and recorded walk-through for future edits
 
 In your proposal, outline the platform you’d use, timeline, and how you’ll allocate each milestone against the total budget. Let’s build something that converts visitors into loyal customers.</description></item>
-<item><title>Custom WordPress E-Commerce Store Build</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Commerce-Store-Build-40774921</link><guid isPermaLink="false">freelancer:40774921</guid><pubDate>Sun, 18 Oct 2026 23:34:57 GMT</pubDate><description>15-25 USD/hr | I need a fully functional WordPress e-commerce store built from the ground up. The site will revolve around a completely custom-designed theme rather than an off-the-shelf template, so strong front-end skills and an eye for clean, conversion-focused design are essential.  
-
-The store must accept credit and debit card payments seamlessly. If you normally work with WooCommerce, Stripe, or similar gateways, feel free to recommend the most stable, PCI-compliant option—you’ll handle the setup, configuration, and end-to-end testing so that checkout runs smoothly on launch day.  
-
-Key deliverables  
-• Bespoke WordPress theme: responsive, fast-loading, and easy for me to update  
-• Product catalogue and shopping-cart setup, including variations and stock control  
-• Secure credit/debit card gateway integration with test transactions completed  
-• Core pages (home, shop, product, cart, checkout, account) styled to match the new design  
-• Basic on-page SEO structure and performance optimisation  
-• Handover guide showing how to add products, run promotions, and process orders  
-
-I will supply all branding assets, product photos, and copy. You’ll provide staging links throughout development so I can review progress and give feedback. Once everything meets the agreed acceptance criteria, we move the site to my live server.  
-
-If this fits your skill set and timeline, let’s get started.</description></item>
-<item><title>WordPress Expert Person Need</title><link>https://www.freelancer.com/projects/website-management/WordPress-Expert-Person-Need</link><guid isPermaLink="false">freelancer:40774894</guid><pubDate>Sun, 18 Oct 2026 23:04:08 GMT</pubDate><description>15-25 USD/hr | I need an experienced WordPress technician to become the steady pair of hands behind my site. Your first responsibility is ongoing upkeep: applying content, theme, and security updates promptly, testing them on a staging environment, and then rolling them out live with zero visible disruption.  
-
-Whenever a new requirement pops up I prefer a purpose-built solution, so you should be comfortable planning and coding clean, lightweight custom plugins that follow WordPress coding standards and play nicely with existing themes and core updates.  
-
-You will:  
-• Schedule and apply content, theme, and security updates  
-• Monitor performance and spot issues before they surface to visitors  
-• Design, develop, and document bespoke plugins as new features are requested  
-• Keep backups, error logs, and version control (Git) in order for quick roll-backs  
-
-Please share examples of past maintenance work as well as at least one plugin you’ve built from scratch. I’m open to setting up either a one-off scope or an ongoing retainer—let me know which you prefer and how you would structure milestones.</description></item>
 <item><title>Ongoing WordPress Site Maintenance</title><link>https://www.freelancer.com/projects/php/Ongoing-WordPress-Site-Maintenance-40774801</link><guid isPermaLink="false">freelancer:40774801</guid><pubDate>Sun, 18 Oct 2026 21:29:07 GMT</pubDate><description>15-25 AUD/hr | I need a reliable WordPress professional to keep my site running smoothly over the long term. Your main focus will be routine plugin updates and day-to-day content edits; I’ll simply reach out whenever a change is needed, rather than on a fixed weekly or monthly schedule. 
 
 There are no unusual plugins or custom content systems to worry about—just standard WordPress, so you should be comfortable working inside the normal dashboard, running safe backups, and testing updates on a staging copy before pushing live. Solid attention to uptime, page-speed, and basic security hygiene is important to me even though I’m not asking for a full security-monitoring package right now.
@@ -885,30 +846,6 @@ Acceptance criteria
 4. Deployment documents for both cloud hosting and App Store / Play Store submission.
 
 If you have prior experience mingling AI, prop-tech data feeds, and transactional workflows, let’s talk about milestones and timelines—I’m ready to move quickly.</description></item>
-<item><title>Comprehensive WordPress Site Overhaul</title><link>https://www.freelancer.com/projects/web-development/Comprehensive-WordPress-Site-Overhaul</link><guid isPermaLink="false">freelancer:40772535</guid><pubDate>Sat, 17 Oct 2026 08:12:33 GMT</pubDate><description>15-25 USD/hr | My WordPress site needs a full, end-to-end refresh. I want the layout modernised, pages loading noticeably faster, and every plugin, theme and core file kept fully patched so security is never an after-thought. Above all, I’m aiming to elevate functionality—anything that streamlines the user journey or adds smart features is on the table.
-
-Here’s what I expect you to handle:
-
-• Design &amp; layout – refine the theme, adjust templates, and polish the UI/UX so the site looks clean on all devices.  
-• Performance &amp; speed – implement caching, image optimisation, code minification and database cleanup to achieve sub-2-second loads and a 90+ score on Google PageSpeed Insights.  
-• Security &amp; updates – harden WordPress with best-practice measures (firewalls, brute-force protection, secure login), audit existing plugins, remove bloat, and set up automated, version-controlled updates.
-
-I’m comfortable with widely used optimisation and security tools such as WP Rocket, LiteSpeed Cache, Sucuri, Wordfence, Elementor, Advanced Custom Fields—pick what best suits the job. Custom PHP or JavaScript tweaks are welcome where plugins fall short.
-
-Deliverables are complete once the refreshed site is live on my hosting, fully tested across desktop and mobile, and I receive a short hand-off document outlining the changes, settings, and any future maintenance steps.
-
-If you have a proven track record of turning slow, dated WordPress installs into fast, secure, feature-rich sites, I’d love to see examples and jump right in.</description></item>
-<item><title>Business WordPress Site</title><link>https://www.freelancer.com/projects/woocommerce/Business-WordPress-Site</link><guid isPermaLink="false">freelancer:40772452</guid><pubDate>Sat, 17 Oct 2026 07:04:29 GMT</pubDate><description>15-25 USD/hr | I’m ready to launch a new WordPress-based business website that showcases our products and lets customers buy with ease. The core of the build is a dedicated product section that must include:
-
-• a clean, searchable product catalog  
-• a fully functional shopping cart for fast checkout  
-• visible product reviews so visitors see real feedback
-
-WooCommerce (or an equally robust plugin) is the natural fit here, but if you have a better tool chain in mind, tell me why and how it improves speed or security. I already have hosting and a fresh WordPress install waiting; your job is to configure everything, choose or tweak a responsive theme so the shop looks polished on mobile and desktop, and make sure the catalog, cart, and review features work smoothly end-to-end.
-
-Once finished, I’ll need a brief hand-off guide or video so my team can add new items and moderate reviews without digging into code.
-
-Let me know the theme or stack you propose, any premium plugins you’d recommend, and a realistic timeline for first draft, revisions, and final hand-over.</description></item>
 <item><title>WordPress Page Template Modifications</title><link>https://www.freelancer.com/projects/web-design/WordPress-Page-Template-Modifications</link><guid isPermaLink="false">freelancer:40770597</guid><pubDate>Fri, 16 Oct 2026 04:31:09 GMT</pubDate><description>15-25 USD/hr | I'm looking for assistance with modifying existing page templates on my WordPress site. 
 
 Requirements:
