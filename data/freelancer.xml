@@ -3,17 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>New PHP Web Application</title><link>https://www.freelancer.com/projects/laravel/New-PHP-Web-Application</link><guid isPermaLink="false">freelancer:40781813</guid><pubDate>Thu, 22 Oct 2026 20:08:24 GMT</pubDate><description>250-750 GBP | I’m starting from a blank slate and need a PHP expert to take the lead in building a full-featured website / web app from scratch. The job covers everything from setting up the project structure and database schema to coding the core functionality, integrating any needed third-party services, and making sure the final product is responsive, secure, and easy to maintain.
-
-Because this is a brand-new build, you’ll have room to recommend the best PHP framework (Laravel, Symfony, or another you prefer), front-end stack, and hosting approach. I have a rough outline of features and user flows but I’m counting on you to help refine them, flag potential pitfalls early, and keep the codebase clean and well-documented.
-
-Key deliverables:  
-• Initial technical proposal outlining architecture, framework, and timeline  
-• Fully functional PHP application with modern UI, tested across major browsers/devices  
-• Source code in a version-controlled repository with clear README and setup instructions  
-• Basic deployment script or guide so I can move it to production smoothly  
-
-If you’re comfortable owning a green-field build from concept to launch and can communicate progress clearly, I’d love to hear how you’d tackle this project and see examples of similar work.</description></item>
 <item><title>AI Tools Directory WordPress Site -- 2</title><link>https://www.freelancer.com/projects/php/Tools-Directory-WordPress-Site</link><guid isPermaLink="false">freelancer:40781765</guid><pubDate>Thu, 22 Oct 2026 19:10:35 GMT</pubDate><description>30-250 USD | MANY QUESTIONS RECEIVED LED TO THIS DETAIL SPECS ATTACHED
 
 I want to launch a clean, fast-loading WordPress site that serves as a searchable directory of AI, productivity, business and learning tools, each monetised with affiliate links. I already have hosting in place; you’ll handle the full WordPress installation, set-up and hardening so the project is production-ready from day one.
@@ -723,6 +712,22 @@ No recruiting or software development experience required.
 - Privacy &amp; Security
 
 Candidates retain full ownership and control of their LinkedIn accounts. No passwords or authentication codes are required, and company personnel will not independently access personal accounts. All networking activities must comply with LinkedIn policies.</description></item>
+<item><title>Construction Website Modernization and Optimization</title><link>https://www.freelancer.com/projects/web-design/Construction-Website-Modernization</link><guid isPermaLink="false">freelancer:40779471</guid><pubDate>Wed, 21 Oct 2026 12:33:57 GMT</pubDate><description>250-750 USD | My construction company’s website still runs on an older codebase, looks dated, and Chrome’s console is full of warnings—mostly script deprecations and Permission-Policy violations. I’m ready to give it a clean, modern and sleek facelift while also fixing every technical issue that slows it down or hurts the mobile experience.
+
+What I need you to do  
+• Audit the existing site, pinpoint every console error, and correct the underlying code or headers so the logs stay clean in Chrome, Firefox, and Edge.  
+• Implement or revise the Permission-Policy header so there are no violations reported.  
+• Redesign the front end with a contemporary, visually tight layout that keeps current content but feels fresh and professional.  
+• Make the layout fully responsive, ensuring smooth behaviour on common breakpoints (mobile, tablet, desktop).  
+• Optimise images, scripts, stylesheets, and server settings so Google PageSpeed Insights comfortably scores in the high 90s on both mobile and desktop.  
+• Hand over a tested, production-ready site along with a brief summary of changes and any new dependencies.
+
+Key notes  
+– Design preference: modern and sleek—think generous white space, strong typography, subtle animation, and a colour palette that conveys trust.  
+– Platform: the existing stack will be shared once you’re onboard; I’m open to fresh tooling if it shortens the build and keeps maintenance simple.  
+– Timeline: ASAP. Please outline how quickly you can start and your estimated turnaround.
+
+If this sounds like the kind of challenge you enjoy, let’s talk timelines and the next steps.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
