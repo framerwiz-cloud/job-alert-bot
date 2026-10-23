@@ -3,6 +3,39 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom Luxury Fashion E-Commerce</title><link>https://www.freelancer.com/projects/nodejs/Custom-Luxury-Fashion-Commerce</link><guid isPermaLink="false">freelancer:40783572</guid><pubDate>Fri, 23 Oct 2026 19:45:23 GMT</pubDate><description>30-250 USD | I want to launch a premium online clothing store built entirely from scratch—no WordPress, no Shopify, and no off-the-shelf templates. The look and feel must echo high-end labels: minimalist layouts, generous white space, neutral colour palettes, and crisp typography that lets product imagery breathe.
+
+Core shopping experience  
+• Shoppers need to browse effortlessly by category, size, and colour.  
+• They must be able to add items to a cart, pay online, and receive real-time order confirmation.  
+• Registered accounts are essential so customers can track orders and curate favourites for later.
+
+Payments  
+At launch the checkout has to support credit and debit cards, Cash-on-Delivery, and UPI. Please implement a well-documented gateway so I can add PayPal or Apple/Google Pay later without a full rebuild.
+
+Admin side  
+I need a secure dashboard where I can upload products with variants, set stock levels, manage orders and returns, run discount codes, and view basic sales analytics. Role-based access control is a must.
+
+Device coverage &amp; performance  
+The site should be fully responsive, load quickly on 3G, and follow SEO best practices (clean URLs, meta tags, structured data). Core Web Vitals scores will be part of acceptance testing.
+
+Tech expectations  
+Use a modern stack you’re comfortable maintaining—React or Vue on the front end, Node, Laravel, or an equivalent robust framework on the back end, with MySQL/PostgreSQL for data and Git for version control. Please avoid bloated libraries and keep the codebase well commented.
+
+Deliverables (hand-off ready)  
+1. Production-ready storefront and admin panel deployed to my VPS  
+2. Source code in a private Git repo with setup instructions  
+3. Database schema and seed data  
+4. Payment gateway configuration keys abstracted to .env  
+5. Short video walkthrough showing product upload, checkout flow, and order management
+
+Acceptance criteria  
+• All user flows above complete without errors on Chrome, Safari, and mobile browsers  
+• Checkout processes real test transactions for cards, COD, and UPI  
+• Lighthouse performance score ≥ 90 on desktop and mobile home page  
+• Admin roles restrict access correctly (tested with dummy accounts)
+
+If any requirement is unclear, let’s iron it out early so the build stays clean and elegant from day one.</description></item>
 <item><title>Digital Marketing Manager for Toronto Businesses</title><link>https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-Manager-for-Toronto</link><guid isPermaLink="false">freelancer:40783534</guid><pubDate>Fri, 23 Oct 2026 18:57:10 GMT</pubDate><description>250-750 CAD | Hi,
 
 I'm looking for someone to manage all the digital marketing and websites for two established businesses in Toronto, Canada.
@@ -873,23 +906,6 @@ Please include in your proposal:
 • A ballpark cost broken down by setup, testing, and launch support
 
 All pricing rules, discount percentages, and creative assets will be supplied by me. I just need a reliable build, clean configuration, and clear hand-off instructions so I can manage future campaigns without developer intervention.</description></item>
-<item><title>Minimalist Journal Purchase Site</title><link>https://www.freelancer.com/projects/web-design/Minimalist-Journal-Purchase-Site</link><guid isPermaLink="false">freelancer:40780105</guid><pubDate>Wed, 21 Oct 2026 20:32:01 GMT</pubDate><description>30-250 AUD | I’m launching a simple online presence for a single physical product—my guided journal—and need it distilled into just two pages. The first page introduces the journal with clean, distraction-free visuals; the second page handles the entire buying flow.
-
-Design  
-• A strictly minimalist aesthetic drives the look and feel. White space, subtle typography, and my chosen color scheme should be woven throughout so the journal itself stays centre-stage.
-
-Purchase Flow  
-The checkout page must integrate a payment gateway of your choice (Stripe or PayPal are both fine), allow shoppers to add the journal to a lightweight cart, and trigger an automatic confirmation email once the transaction succeeds. Everything should sit behind HTTPS, respond smoothly on mobile, and be ready for modest traffic from day one.
-
-Branding  
-I’ll supply the palette that ties back to my print packaging. No logo or custom fonts are required—just consistent colours applied thoughtfully.
-
-Deliverables  
-• Two responsive pages (home + purchase)  
-• Integrated payment gateway, cart, and confirmation email configured and tested  
-• Source files and brief hand-over notes so I can update copy or colours later  
-
-If this sounds like a quick, tidy build for you, I’m ready to start as soon as we agree on timeline.</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:00 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
