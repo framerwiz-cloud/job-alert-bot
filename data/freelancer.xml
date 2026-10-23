@@ -3,6 +3,73 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Senior React Full-Stack Maintenance Partner</title><link>https://www.freelancer.com/projects/full-stack-development/Senior-React-Full-Stack-Maintenance</link><guid isPermaLink="false">freelancer:40783344</guid><pubDate>Fri, 23 Oct 2026 16:42:51 GMT</pubDate><description>250-750 USD | Job Title: Senior Full-Stack Developer "React" Needed for Ongoing Monthly Website Maintenance
+
+We are seeking a highly experienced developer to maintain OwnerFinancing.ai, an existing real estate marketplace. This is an ongoing monthly engagement for a dependable professional who can take responsibility for keeping the website stable, secure, fast, and functioning correctly.
+
+We want a developer who can diagnose problems, implement reliable fixes, and communicate clearly with the owner.
+
+Monthly Responsibilities
+
+Monitor website availability, application errors, and performance.
+
+Diagnose and fix frontend, backend, database, and integration issues.
+
+Maintain existing registration, login, property listing, search, messaging, and subscription functionality.
+
+Resolve mobile usability problems and broken pages, links, images, or forms.
+
+Maintain dependencies and address relevant security updates.
+
+Monitor scheduled jobs, email delivery, and existing third-party integrations.
+
+Maintain backups and periodically verify that restoration works.
+
+Preserve technical SEO essentials, including metadata, redirects, canonical URLs, and sitemap functionality.
+
+Test changes before deployment and maintain a reliable rollback process.
+
+Provide a monthly report covering completed work, outstanding issues, hours used, and recommended priorities.
+
+Required Experience
+
+Strong experience maintaining live, database-driven web applications.
+
+Ability to work confidently across frontend, backend, database, and hosting environments.
+
+Excellent debugging and troubleshooting skills.
+
+Experience with authentication, payments, APIs, and production deployments.
+
+Strong understanding of application security and performance.
+
+Clear written communication and dependable availability.
+
+Please review the existing codebase and confirm the technology stack before finalizing your maintenance proposal. An existing website audit will be available to help establish priorities.
+
+Working Arrangement
+
+We prefer a monthly retainer with clearly defined included hours, responsibilities, and response times. Please specify emergency support availability and the rate for work beyond the monthly allowance.
+
+Additional feature development will be agreed and priced separately. All code, accounts, documentation, and project assets must remain under our ownership.
+
+Include in Your Application
+
+Two or three relevant websites you have personally maintained, explaining your responsibilities.
+
+An example of a difficult production issue you diagnosed and resolved.
+
+Your proposed monthly fee, included hours, and additional hourly rate.
+
+Your working hours, time zone, and response time for critical issues.
+
+Your approach to monitoring, backups, testing, and deployments.
+
+Whether you will personally perform the work.
+
+Your earliest availability.
+
+We are looking for a long-term technical partner with proven production experience.</description></item>
 <item><title>Shopify Dropshipping Store Setup</title><link>https://www.freelancer.com/projects/dropshipping/Shopify-Dropshipping-Store-Setup-40783310</link><guid isPermaLink="false">freelancer:40783310</guid><pubDate>Fri, 23 Oct 2026 16:18:52 GMT</pubDate><description>100-350 USD | Looking for a Shopify expert to build a winning dropshipping store in the sleep and rest category
 
 I’m looking for an experienced Shopify expert to design and launch a dropshipping store with 50 winning products already loaded. I want a store that is ready to sell from day one, not a template I have to finish myself. I also need someone who can help me get it in front of customers once it’s live.
@@ -832,26 +899,6 @@ Deliverables:
 •	Admin access
 •	Ability to add/edit tools without coding
 PLAN IS TO  start with 50 tool reviews, 20 blog posts, and 5 framework articles before launch. That gives the website  enough content to look established and begin attracting Google traffic from day one.</description></item>
-<item><title>RITHU BUSINASS LANKA SOCIAL MEDIA WEB SIDE -- 2</title><link>https://www.freelancer.com/projects/nextjs/RITHU-BUSINASS-LANKA-SOCIAL-MEDIA</link><guid isPermaLink="false">freelancer:40779951</guid><pubDate>Wed, 21 Oct 2026 18:12:40 GMT</pubDate><description>250-750 USD | My brand, Rithu Business Lanka, already has a basic site online (https://rithubusinesslanka.vercel.app/) built with a single Next.js + Node/Express codebase. The core pages load, the UI is responsive, and the backend APIs move data without a hitch—but the site still feels like a brochure. The next milestone is turning it into an engaging hub where visitors stay, talk, and share.
-
-Scope of the upgrade  
-• Add real-time Live Chat so visitors can ask questions while they browse.  
-• Embed Customer Feedback Forms that push data straight into the existing API layer for quick reporting.  
-• Tight Social Media Integrations (Facebook page feed, share buttons, message-me links) to keep our audience inside the brand loop.  
-• A lightweight CMS section for Blog Posts, short Product Updates, and the occasional Video drop, all manageable without redeploying code.  
-• Maintain the unified Next.js frontend and Node/Express backend structure, keeping deployments on Vercel as they are now.
-
-Technical stack in play  
-Next.js (latest LTS), React hooks, Tailwind CSS, Node.js/Express REST API, MongoDB Atlas. Feel free to suggest complementary tools or libraries if they slot smoothly into that ecosystem.
-
-Acceptance criteria  
-1. Live chat widget shows online/offline status and logs transcripts in MongoDB.  
-2. Feedback form submissions surface in an admin dashboard with basic filtering.  
-3. Facebook feed pulls the latest five posts without slowing page load.  
-4. Blog, video, and product-update entries publish from a simple markdown or WYSIWYG editor and render correctly on the main site.  
-5. All new pages pass Lighthouse scores of 90+ for performance and accessibility on mobile and desktop.
-
-Push the finished code into the current Git repository, document new environment variables, and supply a brief README so handoff is seamless.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
