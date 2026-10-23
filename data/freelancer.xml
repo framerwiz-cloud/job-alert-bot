@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Squarespace Accounting Website Build</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Accounting-Website-Build</link><guid isPermaLink="false">freelancer:40783441</guid><pubDate>Fri, 23 Oct 2026 17:48:45 GMT</pubDate><description>250-750 USD | I have a fresh Squarespace account ready to go and all the copy and imagery organised; what I need is a skilled Squarespace designer-builder to turn those assets into a polished public-facing site for my new accounting firm. The site’s core purpose is to explain our services and establish instant credibility, so clean layout, reassuring visuals and clear calls-to-action are essential.
+
+Content you’ll receive from me: professionally written text and curated photos. Content you’ll create: an intuitive, mobile-friendly Squarespace layout that highlights our three key offerings—Tax preparation and filing, Bookkeeping and payroll, and Business accounting and advisory—in a way that speaks directly to small-business owners.  
+
+Key pieces I expect back:  
+• A compelling home page that introduces the firm and builds trust  
+• Individual service sections that make each offering easy to understand  
+• A simple contact form (no booking system needed right now)  
+• Basic SEO settings filled out in Squarespace (titles, descriptions, image alt text)  
+• Connection of our domain and basic on-page analytics set-up  
+
+Everything must be built inside my Squarespace login so I can maintain it afterward. Keep the style professional, modern and approachable; think subtle colour palette, crisp typography and plenty of white space. If you have relevant Squarespace portfolio pieces, please mention them when you respond—seeing work aimed at small-business audiences will help me pick quickly.</description></item>
 <item><title>Squarespace Product Catalog and Booking Setup</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Product-Catalog-Booking</link><guid isPermaLink="false">freelancer:40783359</guid><pubDate>Fri, 23 Oct 2026 16:50:16 GMT</pubDate><description>250-750 CAD | I need a product page developed on squarespace to add to my website
 (No delivery   No commerce   Appointment booking only)
 
@@ -158,23 +170,6 @@ Nice to have
 - Experience with SMS/notification integrations (e.g., Twilio) for lead follow-up
 - CI/CD experience (GitHub Actions, Codemagic, etc.)
 - iOS build/release experience</description></item>
-<item><title>Squarespace Page Setup Help</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Page-Setup-Help</link><guid isPermaLink="false">freelancer:40783196</guid><pubDate>Fri, 23 Oct 2026 14:58:36 GMT</pubDate><description>250-750 CAD | I have a Squarespace site that is almost there, but the page structure still feels rough. I need a Squarespace-savvy hand to step in and properly set up and arrange the core pages so everything reads smoothly and looks cohesive on desktop and mobile.
-
-Pages in scope:
-• Home  
-• About  
-• Contact  
-• Services / Products  
-
-The build is already on Squarespace; you’ll be working directly inside the Fluid Engine editor. Your focus is layout, navigation flow, section arrangement, and any light styling tweaks needed to make the pages consistent with the existing brand assets I’ll supply (logo, colors, fonts, and any ready-to-use images or copy).
-
-Deliverables I’d like returned:
-• Fully arranged versions of the four pages above, ready to publish  
-• Updated site navigation reflecting the new page order  
-• Responsive checks so each page looks clean on tablets and phones  
-• A brief hand-off note summarising changes and where to edit content in the future  
-
-If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
 <item><title>WordPress PHP Version Upgrade</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-PHP-Version-Upgrade</link><guid isPermaLink="false">freelancer:40783133</guid><pubDate>Fri, 23 Oct 2026 14:18:49 GMT</pubDate><description>30-250 USD | My WordPress site is still running on an outdated PHP build and my host is pressing me to move up to a current, supported release. I’m looking for someone who can log in to the server, flip the site to the latest stable PHP (8.x or whatever you recommend), and make sure the front-end and wp-admin both load without any fatal errors.  
 
 Scope is intentionally narrow: the job stops at changing the PHP version itself. Core, theme, or plugin updates and in-depth compatibility debugging are not required; I only need the version switched and a quick confirmation that the site still works.  
