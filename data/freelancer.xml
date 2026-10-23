@@ -3,15 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Warm Café Menu Showcase Website</title><link>https://www.freelancer.com/projects/css/Warm-Caf-Menu-Showcase-Website</link><guid isPermaLink="false">freelancer:40782532</guid><pubDate>Fri, 23 Oct 2026 06:34:40 GMT</pubDate><description>1500-3000 AUD | I’m looking for a designer-developer who can build a small, welcoming website that lets visitors see our opening hours at a glance and browse our full menu—complete with prices and mouth-watering photos of every item. The vibe I’m after is the same feeling people get when they step through our door: warm colours, cozy textures, nothing slick or ultra-minimal, just an inviting space online.
-
-Key requirements  
-• Home page that instantly tells guests when we’re open and where to find us  
-• Menu section presenting food and drinks side-by-side with both prices and high-quality photos (ideally easy for me to update later)  
-• Responsive layout so it looks great on phones while people are out and about  
-• Fast loading, basic SEO setup, and an accessible contact/location block (Google Maps embed is fine)
-
-Tech is flexible—WordPress, Webflow, or a lightweight custom build are all okay as long as I can tweak menu items without touching code. Send over a quick outline of how you’d tackle it, any similar café or restaurant sites you’ve done, and an estimated timeline.</description></item>
 <item><title>WordPress Review Plugin Development</title><link>https://www.freelancer.com/projects/javascript/WordPress-Review-Plugin-Development</link><guid isPermaLink="false">freelancer:40782509</guid><pubDate>Fri, 23 Oct 2026 06:15:59 GMT</pubDate><description>5000-10000 GBP | Senior WordPress/PHP developer needed to build a custom multi-criteria review plugin, integrating with Bricks Builder and ACF. 
 Features include half-point scoring, moderated reviews and edits, photo uploads, member dashboards, business replies, rating-based listing rankings and migration from an existing review plugin. Initially seeking indicative fixed-price quotes and examples of similar work.</description></item>
 <item><title>Online Service Booking Website</title><link>https://www.freelancer.com/projects/web-development/Online-Service-Booking-Website</link><guid isPermaLink="false">freelancer:40782366</guid><pubDate>Fri, 23 Oct 2026 04:29:27 GMT</pubDate><description>250-750 USD | The core objective is simple: give my customers a smooth way to purchase and instantly pay for the services I offer. I need a modern, mobile-friendly site that showcases each service on its own page, funnels visitors to a “Book &amp; Pay” button, and completes the transaction through a secure gateway such as Stripe or PayPal.  
@@ -791,6 +782,27 @@ Deliverables
 3. Short hand-off call or document explaining how to approve future submissions.
 
 If this initial build goes smoothly, I’ll return for follow-up features and refinements. Let me know any questions or preferred frameworks, and we’ll get started.</description></item>
+<item><title>Interactive Webinar Lottery Platform</title><link>https://www.freelancer.com/projects/web-development/Interactive-Webinar-Lottery-Platform</link><guid isPermaLink="false">freelancer:40779680</guid><pubDate>Wed, 21 Oct 2026 14:56:46 GMT</pubDate><description>750-1500 USD | I need a streamlined website that can host my webinars live and then make the replays instantly available in the same space. Visitors will register with their email address only—no social-media logins or guest viewing—so the system must handle account creation, confirmation, and reminder emails automatically. Each item that will be in the webinar will need to have information in the backend (There should be no more than 15 items, 1 of which may be a picture (or link to picture.) When the customer goes into a particular webinar, they will see the number of seats total, number of seats left (unsold) and a list of icons of all the seats. The sold ones should be greyed out and the available ones should be white. There should be a way to list the number of seats and have the display based on that number.
+
+The site I am trying to replicate is https://igy6armory.com/webinar/
+
+During each session I want participants to interact through an on-screen Q&amp;A panel and/or take part in quick polls or surveys that I can launch in real time. At the end of every webinar a built-in lottery draw should randomly select one or more registered attendees and display the winners on screen. The draw must be transparent to the audience and export its results to a simple CSV for my records.
+
+Key deliverables  
+• Responsive website (desktop &amp; mobile) that streams live webinars and hosts recorded replays  
+• Secure email-based registration and login workflow  
+• Moderator dashboard with controls for Q&amp;A, poll creation, and live lottery draw  
+• Attendee view featuring Q&amp;A panel and pop-up polls without requiring page reloads  
+• Automated emails: signup confirmation, reminder, replay link, and winner notification  
+• Basic analytics (attendance count, poll results, engagement stats)  
+
+Acceptance criteria  
+1. Live stream tested with at least 50 simultaneous viewers without lag.  
+2. Lottery algorithm demonstrably fair (e.g., uses server-time seed and shows audit log).  
+3. Replay video available within 5 minutes of session end.  
+4. All emails reach major providers’ inbox (not spam) in test runs.  
+
+Feel free to use the framework or stack you’re most comfortable with—WordPress plugins, a custom React front end with WebRTC, or an all-in-one SaaS API—so long as the finished product is easy for me to maintain and brand. I’m ready to move quickly once I see a clear development plan and realistic timeline.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
