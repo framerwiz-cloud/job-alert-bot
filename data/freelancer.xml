@@ -736,25 +736,6 @@ Here’s what I’d like from you:
 I’ll share the current site, analytics highlights, and user feedback once we start so you can pinpoint friction points. Collaborate with me on two rounds of refinements; final sign-off files should be neatly organized and ready for hand-off to development.
 
 If you thrive on data-driven design, understand e-commerce best practices, and craft everything by hand, I’m ready to get started.</description></item>
-<item><title>Manageable WordPress Rebuild</title><link>https://www.freelancer.com/projects/html/Manageable-WordPress-Rebuild</link><guid isPermaLink="false">freelancer:40780476</guid><pubDate>Thu, 22 Oct 2026 03:00:05 GMT</pubDate><description>250-750 USD | My current WordPress site was customised in a way I can no longer navigate, so I need it rebuilt from scratch on the latest, plain-English WordPress setup. The visual direction is classic and traditional—think timeless typography, balanced white space and a colour palette that won’t date quickly.
-
-Core features I must be able to maintain myself:  
-• Blogging capabilities for regular posts and articles  
-• E-commerce functions (WooCommerce is fine) to handle a modest catalogue, coupons and secure checkout  
-• A tidy portfolio showcase with filters  
-• A concise bio / about section that I can expand later  
-• A straightforward contact page with spam-protected form
-
-Because SEO optimisation is my top priority, please configure clean URL structures, schema markup where relevant and an on-page SEO plugin (Yoast or RankMath) ready for me to tweak.
-
-Deliverables:  
-1. Fully responsive WordPress theme or child theme matching the classic style  
-2. All features above implemented and tested  
-3. Clear written hand-over notes or a short loom/video walk-through so I can update pages, products and posts on my own  
-4. Migration from the existing host with zero downtime  
-5. Thirty days of post-launch support for minor fixes or questions
-
-If you have questions about existing content, specific plugins or hosting, let me know and I’ll send access details.</description></item>
 <item><title>Experienced Laravel Web Developer Build a multivendor B2C online shopping mall and B2B wholesale directory using Laravel. DO NOT BID if you cannot show Laravel sites and has done more than 3 Laravel projects.</title><link>https://www.freelancer.com/projects/web-development/Experienced-Laravel-Web-Developer-Build</link><guid isPermaLink="false">freelancer:40780468</guid><pubDate>Thu, 22 Oct 2026 02:54:04 GMT</pubDate><description>250-750 AUD | Experienced Laravel Web Developer Build a multivendor B2C online shopping mall and multivendor B2B wholesale directory using Laravel. DO NOT BID if you cannot show previous works website links built using Laravel and has done more than 3 Laravel projects.
 Please give a firm price quote in AUD$ and projects budgets including website graphics and designs.
 Need to be completed within 1-2 weeks
@@ -878,6 +859,33 @@ are the trade-offs?
 5. What is your fixed price and timeline per milestone, and what would you class as extra?
 
 I will share the full specification with shortlisted applicants straight away. It is attached to this post.</description></item>
+<item><title>CRM &amp; Deck Construction Management Software</title><link>https://www.freelancer.com/projects/web-development/CRM-Deck-Construction-Management</link><guid isPermaLink="false">freelancer:40780231</guid><pubDate>Wed, 21 Oct 2026 22:45:58 GMT</pubDate><description>750-1500 USD | I need a single, cohesive platform that covers our entire workflow as a specialty deck-building company—from the first phone call right through to the final invoice and 3D render. The build should be web-based (mobile-friendly), modular, and ready to scale as our team grows.
+
+CRM MODULE  
+• Customer database management that keeps every contact, note, file, and photo tied to a household or commercial site.  
+• Lead tracking and follow-up with automated reminders, pipeline stages, and email/SMS touchpoints.  
+• Sales reporting and analytics that break down close rates, average deal size, and marketing source ROI at a glance.
+
+CONSTRUCTION MANAGEMENT MODULE  
+• Project scheduling and tracking with a drag-and-drop Gantt or calendar view, task dependencies, and change-order logging.  
+• Resource allocation and management so crews, equipment, and materials are booked without double-ups.  
+• Budget and expense tracking that compares estimated vs. actual costs in real time and pushes data to QuickBooks or Xero.
+
+DECK DESIGN MODULE  
+• 3D modeling and visualization that lets us place a deck onto a photo or lot plan and spin it interactively for clients.  
+• Material cost estimation that auto-updates as dimensions change, pulling live lumber and hardware prices via API when possible.  
+• Blueprint and layout creation that produces permit-ready PDFs with footing locations, beam spans, and hardware callouts.
+
+Technology is flexible, but I’m leaning toward a modern JavaScript stack (React/Vue front-end, Node.js or Django back-end) with a PostgreSQL database and REST/GraphQL API so we can eventually integrate with Zapier, Slack, and our accounting software.
+
+ACCEPTANCE CRITERIA  
+1. A working SaaS-style MVP deployed to a cloud host (AWS, Azure, or GCP) with separate environments for staging and production.  
+2. Source code in a private Git repo with clear README and setup scripts.  
+3. User roles: admin, sales, project manager, design technician, and client portal login.  
+4. Demonstration data loaded so we can run end-to-end tests: create a lead, convert to project, design deck, schedule crew, track costs, and generate a sales report.  
+5. Fully responsive UI and cross-browser compatibility (Chrome, Edge, Safari, Firefox latest versions).
+
+Please outline your proposed tech stack, timeline, and any similar projects you’ve shipped. If you already have a deck-design engine or CRM framework that can be customized, highlight that—speed to market matters.</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:00 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
