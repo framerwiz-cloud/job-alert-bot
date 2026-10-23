@@ -3,6 +3,7 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Enhance PHP SuperAdmin Features</title><link>https://www.freelancer.com/projects/backend-development/Enhance-PHP-SuperAdmin-Features</link><guid isPermaLink="false">freelancer:40783647</guid><pubDate>Fri, 23 Oct 2026 20:56:27 GMT</pubDate><description>250-750 USD | Update existing PHP to include SuperAdmin rules  and extra features</description></item>
 <item><title>OSHA 30 Construction Attendance Help</title><link>https://www.freelancer.com/projects/data-entry/OSHA-Construction-Attendance-Help</link><guid isPermaLink="false">freelancer:40783619</guid><pubDate>Fri, 23 Oct 2026 20:32:24 GMT</pubDate><description>250-750 USD | I’m enrolled in the OSHA 30-hour Construction online course and need the full 30 hours of verified screen time to earn my card. My schedule makes it hard to stay in front of the computer that long, so I’m bringing in support to keep the course session active and properly documented.
 
 Your role is straightforward:
@@ -877,33 +878,6 @@ are the trade-offs?
 5. What is your fixed price and timeline per milestone, and what would you class as extra?
 
 I will share the full specification with shortlisted applicants straight away. It is attached to this post.</description></item>
-<item><title>CRM &amp; Deck Construction Management Software</title><link>https://www.freelancer.com/projects/web-development/CRM-Deck-Construction-Management</link><guid isPermaLink="false">freelancer:40780231</guid><pubDate>Wed, 21 Oct 2026 22:45:58 GMT</pubDate><description>750-1500 USD | I need a single, cohesive platform that covers our entire workflow as a specialty deck-building company—from the first phone call right through to the final invoice and 3D render. The build should be web-based (mobile-friendly), modular, and ready to scale as our team grows.
-
-CRM MODULE  
-• Customer database management that keeps every contact, note, file, and photo tied to a household or commercial site.  
-• Lead tracking and follow-up with automated reminders, pipeline stages, and email/SMS touchpoints.  
-• Sales reporting and analytics that break down close rates, average deal size, and marketing source ROI at a glance.
-
-CONSTRUCTION MANAGEMENT MODULE  
-• Project scheduling and tracking with a drag-and-drop Gantt or calendar view, task dependencies, and change-order logging.  
-• Resource allocation and management so crews, equipment, and materials are booked without double-ups.  
-• Budget and expense tracking that compares estimated vs. actual costs in real time and pushes data to QuickBooks or Xero.
-
-DECK DESIGN MODULE  
-• 3D modeling and visualization that lets us place a deck onto a photo or lot plan and spin it interactively for clients.  
-• Material cost estimation that auto-updates as dimensions change, pulling live lumber and hardware prices via API when possible.  
-• Blueprint and layout creation that produces permit-ready PDFs with footing locations, beam spans, and hardware callouts.
-
-Technology is flexible, but I’m leaning toward a modern JavaScript stack (React/Vue front-end, Node.js or Django back-end) with a PostgreSQL database and REST/GraphQL API so we can eventually integrate with Zapier, Slack, and our accounting software.
-
-ACCEPTANCE CRITERIA  
-1. A working SaaS-style MVP deployed to a cloud host (AWS, Azure, or GCP) with separate environments for staging and production.  
-2. Source code in a private Git repo with clear README and setup scripts.  
-3. User roles: admin, sales, project manager, design technician, and client portal login.  
-4. Demonstration data loaded so we can run end-to-end tests: create a lead, convert to project, design deck, schedule crew, track costs, and generate a sales report.  
-5. Fully responsive UI and cross-browser compatibility (Chrome, Edge, Safari, Firefox latest versions).
-
-Please outline your proposed tech stack, timeline, and any similar projects you’ve shipped. If you already have a deck-design engine or CRM framework that can be customized, highlight that—speed to market matters.</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:00 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
