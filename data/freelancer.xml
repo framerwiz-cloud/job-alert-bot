@@ -212,6 +212,23 @@ Nice to have
 - Experience with SMS/notification integrations (e.g., Twilio) for lead follow-up
 - CI/CD experience (GitHub Actions, Codemagic, etc.)
 - iOS build/release experience</description></item>
+<item><title>Squarespace Page Setup Help</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Page-Setup-Help</link><guid isPermaLink="false">freelancer:40783196</guid><pubDate>Fri, 23 Oct 2026 14:58:36 GMT</pubDate><description>250-750 CAD | I have a Squarespace site that is almost there, but the page structure still feels rough. I need a Squarespace-savvy hand to step in and properly set up and arrange the core pages so everything reads smoothly and looks cohesive on desktop and mobile.
+
+Pages in scope:
+• Home  
+• About  
+• Contact  
+• Services / Products  
+
+The build is already on Squarespace; you’ll be working directly inside the Fluid Engine editor. Your focus is layout, navigation flow, section arrangement, and any light styling tweaks needed to make the pages consistent with the existing brand assets I’ll supply (logo, colors, fonts, and any ready-to-use images or copy).
+
+Deliverables I’d like returned:
+• Fully arranged versions of the four pages above, ready to publish  
+• Updated site navigation reflecting the new page order  
+• Responsive checks so each page looks clean on tablets and phones  
+• A brief hand-off note summarising changes and where to edit content in the future  
+
+If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
 <item><title>WordPress PHP Version Upgrade</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-PHP-Version-Upgrade</link><guid isPermaLink="false">freelancer:40783133</guid><pubDate>Fri, 23 Oct 2026 14:18:49 GMT</pubDate><description>30-250 USD | My WordPress site is still running on an outdated PHP build and my host is pressing me to move up to a current, supported release. I’m looking for someone who can log in to the server, flip the site to the latest stable PHP (8.x or whatever you recommend), and make sure the front-end and wp-admin both load without any fatal errors.  
 
 Scope is intentionally narrow: the job stops at changing the PHP version itself. Core, theme, or plugin updates and in-depth compatibility debugging are not required; I only need the version switched and a quick confirmation that the site still works.  
@@ -873,27 +890,6 @@ Deliverables
 • Source files and brief hand-over notes so I can update copy or colours later  
 
 If this sounds like a quick, tidy build for you, I’m ready to start as soon as we agree on timeline.</description></item>
-<item><title>Resume &amp; Complete Website Redesign</title><link>https://www.freelancer.com/projects/content-management-system/Resume-Complete-Website-Redesign</link><guid isPermaLink="false">freelancer:40780050</guid><pubDate>Wed, 21 Oct 2026 19:43:32 GMT</pubDate><description>250-750 USD | Subject: Website Redesign Project: Resuming Work &amp; Deployment Requirements.
-
-We need you to take over the website redesign from where the previous designer left off and complete the remaining work.
-To ensure a smooth transition and protect our live operations, please review and follow these project guidelines:
-• Staging Environment: All ongoing design and development work must be performed exclusively on a staging site. Do not make any live changes to our current website.
-• Live Deployment: Once the redesign is fully complete and approved, you will be responsible for securely transferring all files and databases from the staging environment to our live production server. 
-• Project Completion: The project will only be considered officially complete and ready for final payment when all files are properly installed, fully functional, and verified to be working perfectly on the live domain.
-Some elements of the redesign have already been built out by the previous designer.
-
-What we need:
-
-1. Main Page: Complete the remaining work: the Page Header and Footer.
-2. Main Page: Install already created 7 widgets codes into the proper location in the page.
-3. Things To Do page: This page has one (1) main page and 3 sub-pages. We need to enter the already created content, images, widget codes, Footer, and Header.
-4. Business page: Needs minor work.
-5. Work with RapidShuttle page: Needs to be created with content, an email link, and images.
-6. About us page: Needs minor work.
-7. We expect work to be completed within 45 days or less.
-
-We will be happy to share our Google Sheets-designed draft to better understand the work.
-https://docs.google.com/spreadsheets/d/1LPHhlpfF4ltipkIRxAlKjlOjTqywWy0phV60pbhzFQA/edit?usp=sharing</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:00 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
