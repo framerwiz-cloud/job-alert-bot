@@ -9,6 +9,17 @@
 - Verifying that all Amazon links work correctly.
 
 The goal is to create an engaging site that excites readers and encourages them to explore my books.</description></item>
+<item><title>HTTPS Security Fix for Website</title><link>https://www.freelancer.com/projects/ssl/HTTPS-Security-Fix-for-Website</link><guid isPermaLink="false">freelancer:40785105</guid><pubDate>Sat, 24 Oct 2026 20:02:58 GMT</pubDate><description>30-250 USD | I need help updating my SSL certificate to enable HTTPS on my website. Currently, the browser indicates that the connection is not secure, and this issue occurs on only some pages or forms.
+
+Requirements:
+- Update SSL certificate
+- Ensure all pages are secure
+- Fix mixed content issues
+
+Ideal Skills and Experience:
+- Experience with SSL certificates
+- Familiarity with web security
+- Knowledge of fixing mixed content issues</description></item>
 <item><title>SEO &amp; AI Search Specialist – Airline Elite Status Services</title><link>https://www.freelancer.com/projects/seo/SEO-Search-Specialist-Airline-Elite</link><guid isPermaLink="false">freelancer:40785080</guid><pubDate>Sat, 24 Oct 2026 19:18:31 GMT</pubDate><description>30-250 USD | SEO &amp; AI Search Specialist — Airline Elite Status Services | Performance-Based Payment
 
 We’re seeking an experienced SEO specialist or agency to improve Google organic rankings and generate qualified inquiries for our airline elite status services.
@@ -697,40 +708,6 @@ Deliverables
 • Final hand-off with brief video or PDF walkthrough of key workflows
 
 If you have a preferred stack—WordPress + WooCommerce, Shopify, Webflow, or a lightweight custom build—let me know why it’s the best fit. Clean code, future scalability, and clear communication are what matter most to me.</description></item>
-<item><title>WordPress Developer &amp; Web Project Lead (Remote, Long-Term)</title><link>https://www.freelancer.com/projects/web-development/WordPress-Developer-Web-Project-Lead</link><guid isPermaLink="false">freelancer:40782234</guid><pubDate>Fri, 23 Oct 2026 03:24:56 GMT</pubDate><description>1500-3000 USD | About Us:
-Webserv, a Mexico-based SEO agency specializing in behavioral health and healthcare clients, is seeking a dedicated and experienced WordPress Developer and Web Project Lead for a full-time, long-term remote position. This role involves building and maintaining WordPress sites, addressing critical technical SEO issues, and managing site security and hosting.
-
-Key Responsibilities:
-
-Develop and maintain WordPress websites using Elementor, Gutenberg/FSE, and custom PHP solutions.
-
-Implement technical SEO fixes, including site speed optimization, schema markup, managing redirects, and optimizing internal linking structures.
-
-Oversee site security and hosting environments, specifically with WP Engine and Cloudflare.
-
-Lead web project requests from end-to-end, collaborating closely with our SEO team to ensure seamless integration and performance.
-
-Required Qualifications:
-
-Minimum of 5 years of professional experience in WordPress development.
-
-Strong working knowledge of technical SEO principles and best practices.
-
-Experience with AI coding tools is a plus (e.g., Claude Code).
-
-Professional proficiency in Spanish and English.
-
-Proactive, reliable, and detail-oriented work ethic.
-
-Compensation &amp; Details:
-
-Type: Ongoing monthly contract position.
-
-Hours: Approximately 40 hours per week.
-
-Compensation: Around $2,500 USD per month.
-
-Location: Remote, ideally for candidates based in Mexico/America with some overlap with Mexico time (PDT).</description></item>
 <item><title>Bubble Web App, Subscriptions</title><link>https://www.freelancer.com/projects/database-design/Bubble-Web-App-Subscriptions</link><guid isPermaLink="false">freelancer:40782248</guid><pubDate>Fri, 23 Oct 2026 02:45:29 GMT</pubDate><description>15-25 AUD/hr | I need a customer-facing web app built in Bubble that feels fast, modern, and reliable for an Australian audience. Core functionality centres on two things: accepting recurring subscriptions and letting users place and manage bookings or orders. The payment flow must be seamless (Stripe is fine) and automatically handle plan changes, cancellations, and failed charges.
 
 Within Bubble I already have the branding assets; what I lack is the full database structure, responsive pages, and all the workflows that tie user accounts, subscription status, and booking logic together. Clear, well-named custom states and reusable elements are important so the app can be scaled later without confusion.
