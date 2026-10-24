@@ -322,44 +322,6 @@ Deliverables
 • A brief changelog of the tweaks and fixes applied.
 
 You’ll receive temporary WordPress admin (and cPanel/FTP if needed) the moment we start. Let me know your turnaround time—I’d like this wrapped up in the next couple of days.</description></item>
-<item><title>Flutter Developer for Real Estate CRM</title><link>https://www.freelancer.com/projects/flutter/Flutter-Developer-for-Real-Estate</link><guid isPermaLink="false">freelancer:40783195</guid><pubDate>Fri, 23 Oct 2026 15:08:56 GMT</pubDate><description>2-8 USD/hr | DH Broker CRM is a mobile CRM built for individual real estate brokers in the U.S. market. Each broker logs in and manages their own client pipeline — contact info, income, city/region, property type, buy/rent intent, and a 5-stage sales funnel (Lead → Contact Made → Visited Property → Proposal → Closed) — plus document uploads (photos/PDFs) per client. It's a solo-built, working app that's functional but pre-launch (not yet published to the Play Store), and we're looking for a developer to take it from "working prototype" to a product we keep building on.
-
-The existing code is clean and reasonably small (~3,500 lines of Dart), with no legacy mess to untangle — a good base for someone who wants to own a project rather than patch one.
-
-Known gaps / near-term housekeeping
-
-- No in-app PDF preview (only images preview today)
-- Firebase Storage is pinned to a Blaze (pay-as-you-go) plan that hasn't been finalized — document upload isn't fully live yet
-- Thin automated test coverage (one widget test file)
-- No version control set up yet — this will need to be established early (we're flexible on GitHub/GitLab/Bitbucket)
-- Not yet submitted to the Play Store (signing config scaffolded, not finalized)
-
-What we're looking for
-
-This isn't just a punch-list job — we want someone who can take ownership and help extend the product, not just finish it. Examples of the kind of feature work on the table (open to discussion/prioritization together, not a fixed spec):
-
-- Multi-broker/team visibility (e.g., a broker-office admin view)
-- Reminders/notifications (follow-up nudges on stale leads)
-- Visit/appointment scheduling tied to the funnel
-- Reporting/analytics (conversion rates by stage, source, region)
-- In-app PDF viewer; improved offline support
-- Possible iOS release down the line
-
-We'll also need the housekeeping items above handled along the way (currency/locale alignment, tests, version control, Storage/Blaze finalization, Play Store submion growing the app, not just shipping whatexists.
-                                                                                                              Requirements
-
-- Strong hands-on experience with Flutter/Dart in production apps
-- Solid Firebase experience: Firestore data modeling, security rules, Auth, Storage
-- Comfortable with Riverpod (or similar state management) and go_router (or similar declarative routing)
-- Experience with Android release builds (signing, app bundles, Play Console submission)
-- Comfortable setting up things like version control and basic test coverage on a project that doesn't have them yet
-
-Nice to have
-
-- Experience with real estate / sales-pipeline CRM products, especially U.S.-market concepts like MLS data or lead-source tracking
-- Experience with SMS/notification integrations (e.g., Twilio) for lead follow-up
-- CI/CD experience (GitHub Actions, Codemagic, etc.)
-- iOS build/release experience</description></item>
 <item><title>Squarespace Page Setup Help</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Page-Setup-Help</link><guid isPermaLink="false">freelancer:40783196</guid><pubDate>Fri, 23 Oct 2026 14:58:36 GMT</pubDate><description>250-750 CAD | I have a Squarespace site that is almost there, but the page structure still feels rough. I need a Squarespace-savvy hand to step in and properly set up and arrange the core pages so everything reads smoothly and looks cohesive on desktop and mobile.
 
 Pages in scope:
