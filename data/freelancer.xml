@@ -9,6 +9,25 @@
 - Verifying that all Amazon links work correctly.
 
 The goal is to create an engaging site that excites readers and encourages them to explore my books.</description></item>
+<item><title>3D Pergola Configurator Development</title><link>https://www.freelancer.com/projects/3d-animation/Pergola-Configurator-Development</link><guid isPermaLink="false">freelancer:40785108</guid><pubDate>Sat, 24 Oct 2026 20:09:05 GMT</pubDate><description>750-1500 GBP | I need a web-based 3D configurator that lets my customers design an oak pergola in real time. The model must be fully rotatable, zoomable and update instantly as the user adjusts length, width, height, roof style, posts and beams. Every change should recalculate the price on the fly so that, once the design is finished, the shopper sees the final cost and can move straight to checkout.
+
+You may build the solution from scratch or integrate an existing engine such as Configurix, Three.js, Babylon.js or a similar WebGL framework, as long as performance remains smooth on desktop and mobile browsers. The tool will sit within my current ecommerce site on shoprocket and must pass the chosen variant, price and a thumbnail of the custom model into the cart.
+
+To keep the scope clear, the project is complete when the following are delivered:  
+• Responsive 3D interface with intuitive controls (rotate, pan, zoom).  
+• Parameter inputs for size (L × W × H) and structural options (roof style, posts, beams).  
+• Real-time price calculation tied to our SKU and material tables.  
+• “Add to cart” pathway that carries design metadata, image and final price.  
+• Basic admin panel for editing prices, dimensions and available options without code.  
+• Documentation plus a short hand-over video showing how to update the system.
+
+The visual fidelity should match oak textures and standard timber jointing; I can supply reference CAD files and images. Please outline your proposed tech stack, timeline and any similar configurators you have delivered so I can gauge fit quickly.
+
+An example of the type of configurator we are looking for can be found at www.oaktimberstructures.co.uk or www.iwood.co.uk. Please use the website and see how they design and price change as you change the perameters. We like the style of this website although they don't build pergolas. www.myoakframe.co.uk
+
+Once we have established the pergola design, we would like the software to have the ability to be used and configured on our other products which include Oak Porches, Oak Gazebos and Oak trusses. Please look these up so you understand what they are.
+
+Our website is built on a toolkitwebsite platform and our shop back end is on shoprocket</description></item>
 <item><title>HTTPS Security Fix for Website</title><link>https://www.freelancer.com/projects/ssl/HTTPS-Security-Fix-for-Website</link><guid isPermaLink="false">freelancer:40785105</guid><pubDate>Sat, 24 Oct 2026 20:02:58 GMT</pubDate><description>30-250 USD | I need help updating my SSL certificate to enable HTTPS on my website. Currently, the browser indicates that the connection is not secure, and this issue occurs on only some pages or forms.
 
 Requirements:
@@ -694,20 +713,6 @@ The current site already has content and branding in place, but the structure, v
 This is time-sensitive. I’d like to move quickly, agree on wireframes, and get a polished, live site without delay. If you’ve led similar end-to-end redesigns and can demonstrate measurable improvements, let’s discuss your approach and how soon you can start.</description></item>
 <item><title>WordPress Review Plugin Development</title><link>https://www.freelancer.com/projects/javascript/WordPress-Review-Plugin-Development</link><guid isPermaLink="false">freelancer:40782509</guid><pubDate>Fri, 23 Oct 2026 06:15:59 GMT</pubDate><description>5000-10000 GBP | Senior WordPress/PHP developer needed to build a custom multi-criteria review plugin, integrating with Bricks Builder and ACF. 
 Features include half-point scoring, moderated reviews and edits, photo uploads, member dashboards, business replies, rating-based listing rankings and migration from an existing review plugin. Initially seeking indicative fixed-price quotes and examples of similar work.</description></item>
-<item><title>Online Service Booking Website</title><link>https://www.freelancer.com/projects/web-development/Online-Service-Booking-Website</link><guid isPermaLink="false">freelancer:40782366</guid><pubDate>Fri, 23 Oct 2026 04:29:27 GMT</pubDate><description>250-750 USD | The core objective is simple: give my customers a smooth way to purchase and instantly pay for the services I offer. I need a modern, mobile-friendly site that showcases each service on its own page, funnels visitors to a “Book &amp; Pay” button, and completes the transaction through a secure gateway such as Stripe or PayPal.  
-
-While I’m not asking users to pick dates or send requests at this stage, please build the site on a platform that lets me switch on time-slot selection later without a full rebuild. Good UX, clear calls-to-action, and fast load times are essential.
-
-Pages I know I’ll need are Home, Services, About, Contact, plus a lightweight blog or news section for basic SEO. A contact form, Google Analytics setup, and on-page optimisation for my main keywords should be included so the site is ready to rank.
-
-Deliverables  
-• Fully responsive website deployed to my domain  
-• Secure online payment integration tested end-to-end  
-• Admin dashboard with clear instructions so I can add or edit services myself  
-• One round of revisions after first draft goes live  
-• Final hand-off with brief video or PDF walkthrough of key workflows
-
-If you have a preferred stack—WordPress + WooCommerce, Shopify, Webflow, or a lightweight custom build—let me know why it’s the best fit. Clean code, future scalability, and clear communication are what matter most to me.</description></item>
 <item><title>Bubble Web App, Subscriptions</title><link>https://www.freelancer.com/projects/database-design/Bubble-Web-App-Subscriptions</link><guid isPermaLink="false">freelancer:40782248</guid><pubDate>Fri, 23 Oct 2026 02:45:29 GMT</pubDate><description>15-25 AUD/hr | I need a customer-facing web app built in Bubble that feels fast, modern, and reliable for an Australian audience. Core functionality centres on two things: accepting recurring subscriptions and letting users place and manage bookings or orders. The payment flow must be seamless (Stripe is fine) and automatically handle plan changes, cancellations, and failed charges.
 
 Within Bubble I already have the branding assets; what I lack is the full database structure, responsive pages, and all the workflows that tie user accounts, subscription status, and booking logic together. Clear, well-named custom states and reusable elements are important so the app can be scaled later without confusion.
