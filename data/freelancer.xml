@@ -9,6 +9,41 @@
 - Verifying that all Amazon links work correctly.
 
 The goal is to create an engaging site that excites readers and encourages them to explore my books.</description></item>
+<item><title>Pay Freelancer For Completed Work</title><link>https://www.freelancer.com/projects/payment-processing/Pay-Freelancer-For-Completed-Work</link><guid isPermaLink="false">freelancer:40785154</guid><pubDate>Sat, 24 Oct 2026 20:58:47 GMT</pubDate><description>30-250 USD | I recently received valuable assistance here on Freelancer for a small task, but I had to step away before I could release any funds. The work is finished and I want to make sure the person who helped me gets paid in full.
+
+My immediate goal is simple: pay for the completed work. I’m open to whichever route is quickest and safest—whether that’s creating a Milestone, using an Invoice, or any other feature that keeps everything inside the platform. If there’s a standard process I should follow, please walk me through it and help me execute it correctly so the freelancer receives their money without delay.
+
+Deliverable  
+• Clear, step-by-step guidance (or direct assistance) that results in a confirmed payment to the original freelancer for the finished task.
+
+If you’re familiar with resolving post-job payments on Freelancer.com, I’d appreciate your help in getting this sorted right away.</description></item>
+<item><title>Develop a multi-vendor wholesale directory. Only experienced developers who can show previous multi-vendor wholesale directory work should apply. Budget less than Aud$1000</title><link>https://www.freelancer.com/projects/web-development/Develop-multi-vendor-wholesale-directory</link><guid isPermaLink="false">freelancer:40785152</guid><pubDate>Sat, 24 Oct 2026 20:56:08 GMT</pubDate><description>250-750 AUD | I need a full-featured multi-vendor wholesale directory built from the ground up. The platform has three key user stories that must work flawlessly:  
+Budget is AUD$500-$1000 for a simple website which can monetarise. 
+
+1. Approved suppliers and buyers create rich business profiles, upload unlimited products with tiered wholesale pricing, and manage stock in their own dashboard.  
+2. Buyers can post wholesale requests for quotation (RFQ). Suppliers respond inside the platform so both sides can negotiate and track offers in one place.  
+3. Once an offer is accepted, buyers place wholesale orders and complete payment on-site through a secure gateway. Order, invoice, and shipment data should be recorded for both parties.
+
+Anyone is free to browse public listings, yet only vetted suppliers and buyers should be able to register and unlock the above features. I will handle the approval process from an intuitive admin panel.
+
+Because timing is critical, the first usable release needs to go live ASAP. To keep the timeline tight, prefer proven frameworks (Laravel, Django, Node/React, or similar) and ready-made integrations for payment, KYC, and shipping where possible, but I’m open to your best stack recommendation as long as scalability and security are covered.
+
+Deliverables
+• Responsive web application (frontend + backend source code)  
+• Role-based access control for public, buyer, supplier, and admin accounts  
+• Product catalogue with bulk import, search/filter, and RFQ workflow  
+• End-to-end order management with integrated payment gateway  
+• Admin dashboard for user approval, fee/commission settings, and analytics  
+• Deployment scripts and concise documentation for future maintenance
+
+Acceptance Criteria
+• All three core user stories flow without errors on desktop and mobile.  
+• Only approved users can create or respond to RFQs and place orders.  
+• Payments process successfully in test and live modes.  
+• Code passes security audit for common vulnerabilities (OWASP Top 10).  
+• Final build deployed to my cloud server and demo walk-through completed.
+
+Show me links or screenshots of previous multi-vendor wholesale or marketplace projects when you reply so I can quickly verify relevant experience and move forward.</description></item>
 <item><title>Business Showcase Website Design - Only US and Canada</title><link>https://www.freelancer.com/projects/web-design/Business-Showcase-Website-Design-Only</link><guid isPermaLink="false">freelancer:40785133</guid><pubDate>Sat, 24 Oct 2026 20:45:02 GMT</pubDate><description>30-250 CAD | A fresh, responsive website is needed to present my business and the full range of services in a clear, professional way. The primary goal is simple: visitors must immediately understand what we do and why they should work with us.  
 
 The build should:  
@@ -670,16 +705,6 @@ Deliverables I’d like returned:
 • A brief hand-off note summarising changes and where to edit content in the future  
 
 If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
-<item><title>WordPress PHP Version Upgrade</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-PHP-Version-Upgrade</link><guid isPermaLink="false">freelancer:40783133</guid><pubDate>Fri, 23 Oct 2026 14:18:49 GMT</pubDate><description>30-250 USD | My WordPress site is still running on an outdated PHP build and my host is pressing me to move up to a current, supported release. I’m looking for someone who can log in to the server, flip the site to the latest stable PHP (8.x or whatever you recommend), and make sure the front-end and wp-admin both load without any fatal errors.  
-
-Scope is intentionally narrow: the job stops at changing the PHP version itself. Core, theme, or plugin updates and in-depth compatibility debugging are not required; I only need the version switched and a quick confirmation that the site still works.  
-
-Deliverables  
-• Production site running on the new PHP version  
-• Screenshot (phpinfo() or WordPress Site Health) proving the upgrade  
-• Brief note confirming a basic smoke test passed  
-
-I’ll supply control-panel or SSH access as soon as we start.</description></item>
 <item><title>Clean Portfolio &amp; Blog Website</title><link>https://www.freelancer.com/projects/web-design/Clean-Portfolio-Blog-Website</link><guid isPermaLink="false">freelancer:40783063</guid><pubDate>Fri, 23 Oct 2026 13:26:34 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch a small website whose sole purpose is to let me share information, post regular blogs, and showcase a personal portfolio. The visual style has to be simple, clean, modern, and unquestionably professional, with smooth responsiveness on desktop, tablet, and mobile.
 
 Here’s what I need you to handle from start to finish:
@@ -721,11 +746,6 @@ Requirements
 • Work Style: Ability to remain fast and handle multitasking efficiently in a live chat environment.
 • Environment: Reliable internet connection and a quiet workspace.
 • Availability: Ability to work effectively on a rotating 2/2 shift schedule.</description></item>
-<item><title>Complete Website Redesign for Conversions</title><link>https://www.freelancer.com/projects/web-design/Complete-Website-Redesign-for</link><guid isPermaLink="false">freelancer:40782613</guid><pubDate>Fri, 23 Oct 2026 07:31:12 GMT</pubDate><description>250-750 AUD | I need my entire website rebuilt from the ground up with one clear objective: generating more enquiries and sales. Every page, from the landing screen to the checkout or contact flow, should guide visitors smoothly toward taking action.  
-
-The current site already has content and branding in place, but the structure, visuals, and user experience feel dated. I’m open to the platform or stack you feel is best—WordPress, Webflow, or a custom build—as long as the result is fast-loading, fully responsive, and easy for me to update later. Strong on-page SEO practices, clear calls-to-action, and straightforward analytics tracking are must-haves so we can see the uplift in conversions right away.  
-
-This is time-sensitive. I’d like to move quickly, agree on wireframes, and get a polished, live site without delay. If you’ve led similar end-to-end redesigns and can demonstrate measurable improvements, let’s discuss your approach and how soon you can start.</description></item>
 <item><title>Bubble Web App, Subscriptions</title><link>https://www.freelancer.com/projects/database-design/Bubble-Web-App-Subscriptions</link><guid isPermaLink="false">freelancer:40782248</guid><pubDate>Fri, 23 Oct 2026 02:45:29 GMT</pubDate><description>15-25 AUD/hr | I need a customer-facing web app built in Bubble that feels fast, modern, and reliable for an Australian audience. Core functionality centres on two things: accepting recurring subscriptions and letting users place and manage bookings or orders. The payment flow must be seamless (Stripe is fine) and automatically handle plan changes, cancellations, and failed charges.
 
 Within Bubble I already have the branding assets; what I lack is the full database structure, responsive pages, and all the workflows that tie user accounts, subscription status, and booking logic together. Clear, well-named custom states and reusable elements are important so the app can be scaled later without confusion.
