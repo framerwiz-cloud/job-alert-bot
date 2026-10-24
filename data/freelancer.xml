@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress News Site Development</title><link>https://www.freelancer.com/projects/html/WordPress-News-Site-Development</link><guid isPermaLink="false">freelancer:40784716</guid><pubDate>Sat, 24 Oct 2026 14:06:19 GMT</pubDate><description>5000-10000 USD | I'm looking for an experienced WordPress developer to create a website dedicated to sharing business and industry updates. 
+
+Key Requirements:
+- The site should be visually appealing and easy to navigate.
+- Must have a robust content management system for regular article updates.
+- Ability to categorize and tag articles for better searchability.
+- Mobile responsive design is essential.
+
+Ideal Skills and Experience:
+- Proficiency in WordPress with a strong portfolio.
+- Experience in developing news or blog sites.
+- Knowledge of SEO best practices to enhance visibility.
+- Strong design skills to create an engaging user interface.
+
+Please include past work related to news or article-sharing websites in your application.</description></item>
 <item><title>Carrd.io (Carrd Pro) landing page</title><link>https://www.freelancer.com/projects/web-design/Carrd-Carrd-Pro-landing-page</link><guid isPermaLink="false">freelancer:40784704</guid><pubDate>Sat, 24 Oct 2026 13:54:44 GMT</pubDate><description>30-250 USD | Hello, can you build a landing page for my company.
 I already have the domain, business email, business phone number, finalized website copy, graphics, and overall design direction. I am primarily looking for someone to implement the site professionally in Carrd, make it fully responsive, configure the form/SEO/domain, and prepare it for launch. Including connecting my existing domain to Carrd, configuring the site for HTTPS/SSL, testing the site, and assisting with the final launch? The page has up to 10-13 sections but may be reduced and 1 quote form.
 This is primarily an implementation project, not a request to create the branding or website concept from scratch. I want the supplied design direction and graphics translated into a polished, responsive Carrd website. I can send the complete project package. 
@@ -650,166 +665,6 @@ The task is finished when:
 • Clicking “Buy Now” reliably loads the standard WooCommerce checkout page, with no intermediate errors.  
 
 We’ll use the screen-share tool of your choice (Zoom, Google Meet, or similar) and I’ll make the changes as you direct. Experience debugging WordPress hooks, template overrides and URL rewrites in WooCommerce will help you pinpoint the cause quickly—whether it’s a permalink mismatch, a plugin conflict, or a button action mis-assigned in theme files.</description></item>
-<item><title># WordPress Drone Photography &amp; Videography Website — Mechanicsville Aerial - Fully Hosted and Ready to Launch -- 2</title><link>https://www.freelancer.com/projects/website-design/WordPress-Drone-Photography-Videography</link><guid isPermaLink="false">freelancer:40780167</guid><pubDate>Thu, 22 Oct 2026 10:36:34 GMT</pubDate><description>30-250 USD | PROJECT: WordPress Drone Photography Website — Mechanicsville Aerial
-
-PROJECT OVERVIEW
-
-I need a professional, fully functional WordPress website for Mechanicsville Aerial, my drone photography and videography business located in Mechanicsville, Virginia.
-
-I own MECHANICSVILLEAERIAL.COM and its associated email domain. The website must be fully built, hosted, tested, and live on my domain before final delivery so I can launch immediately.
-
-The website will showcase my aerial photography and video work and generate customer inquiries and quote requests. Online payments are not required initially, but the website must support adding payment functionality in the future.
-
-I have already paid for a confidentiality agreement. The developer must honor its terms and protect my business information, media, and project materials.
-
-1. WEBSITE DESIGN
-
-Create a modern, professional, mobile-friendly website that works well on computers, tablets, and smartphones.
-
-Include:
-- Home page
-- Photography gallery
-- Video gallery
-- Services page
-- Request a Quote / Check Availability page
-- About page
-- Contact page
-- Privacy policy and other necessary standard pages
-
-The design should emphasize attractive aerial imagery, simple navigation, fast loading, and clear calls to action.
-
-2. PHOTOGRAPHY AND VIDEO
-
-The website must accommodate at least 200 photographs, with original files potentially 48 MB each, and at least 75 video clips approximately eight seconds long.
-
-Provide sufficient storage, bandwidth, backups, and efficient media delivery. Use optimized images, thumbnails, and compressed video previews to maintain performance while preserving my original high-resolution files.
-
-The site must support adding more media over time. Explain storage limits, video hosting arrangements, bandwidth limitations, and any additional charges. I must retain control of my original media and any third-party hosting accounts.
-
-3. EASY ADMINISTRATION
-
-I must be able to manage the website without programming knowledge.
-
-Provide a simple WordPress administration interface that allows me to:
-- Upload, publish, replace, and delete photographs and videos.
-- Organize galleries into categories.
-- Edit page content, services, and contact information.
-- Manage quote requests and customer inquiries.
-- View and manage email subscribers.
-
-Provide written instructions or a short tutorial showing me how to perform these tasks.
-
-4. QUOTE REQUESTS AND CUSTOMER COMMUNICATION
-
-Visitors must be able to inquire about drone photography and videography services and request pricing or availability.
-
-The form should collect name, email, optional phone number, requested service, project location, preferred date, and project details.
-
-When a request is submitted:
-- I receive an email notification at my designated business email.
-- The customer receives an automatic acknowledgment.
-- The inquiry is saved securely in WordPress.
-- I can review and track inquiries through the administration area.
-- I can respond to customers through the website's administration interface using integrated email functionality.
-- I can review previous inquiries and responses.
-
-Include spam protection and test all functions before launch.
-
-5. EMAIL COLLECTION AND MARKETING
-
-Include an optional newsletter signup form to collect email addresses from prospective customers and existing customers who want business updates.
-
-Provide subscriber management, exportable email lists, appropriate consent language, and unsubscribe functionality. Quote requests must not automatically enroll customers in marketing emails without appropriate consent.
-
-Identify any additional email marketing service fees.
-
-6. BUSINESS EMAIL AND DOMAIN
-
-Configure the website to work with my existing MECHANICSVILLEAERIAL.COM domain and professional email.
-
-Integrate my current email provider where possible, or recommend an appropriate business email service. Configure and test email delivery, including SPF, DKIM, and DMARC records where applicable.
-
-Test inquiry notifications, customer acknowledgments, and replies.
-
-My domain and existing email accounts must remain under my control. Do not transfer, cancel, or disrupt existing services without my approval.
-
-7. SEO AND SOCIAL MEDIA
-
-Implement sound technical, on-page, and local SEO practices to help attract customers in Mechanicsville, Richmond, Hanover County, and surrounding Virginia communities.
-
-Include:
-- Search-friendly page titles, descriptions, headings, and URLs.
-- XML sitemap and descriptive image alt text.
-- Mobile optimization and good page performance.
-- Appropriate local business structured data.
-- Google Search Console and analytics integration where available.
-- Social media sharing links and attractive previews.
-- Clear quote-request calls to action.
-
-Use relevant terms naturally, including drone photography, aerial photography, drone videography, real estate aerial photography, and Mechanicsville, Virginia.
-
-Optimize the website for search visibility and social sharing. No guaranteed search rankings or social media exposure are expected.
-
-8. FUTURE ONLINE PAYMENTS
-
-Online payments are not required at launch. However, use a maintainable WordPress architecture that will allow a secure payment gateway and future service deposits or payments to be added without rebuilding the website.
-
-Do not activate paid payment services without my approval.
-
-9. HOSTING, SECURITY, AND LAUNCH
-
-This is a turnkey project. I require a fully functional, hosted website live on MECHANICSVILLEAERIAL.COM before final acceptance, not merely website files or a design.
-
-The developer must:
-- Configure suitable WordPress hosting, domain connection, and SSL/HTTPS.
-- Install and configure WordPress, the theme, and necessary plugins.
-- Implement appropriate security and automated backups.
-- Configure email and inquiry notifications.
-- Test the website on desktop and mobile devices.
-- Test galleries, video playback, forms, and email communication.
-- Deliver a complete website backup and restoration instructions.
-- Provide administrator access and operating instructions.
-- Identify all paid themes, plugins, licenses, hosting plans, and recurring charges.
-
-Disclose all ongoing costs and hosting limitations before work begins.
-
-10. OWNERSHIP AND CONFIDENTIALITY
-
-I require full ownership and administrative control of the completed website and all deliverables, subject to applicable third-party licenses and the project agreement.
-
-The domain must remain in my account. Hosting and related accounts must be registered in my name or transferred to my control.
-
-Upon final payment, provide:
-- Complete WordPress website files and database.
-- Custom graphics and assets created for the project.
-- Administrator credentials and access to relevant accounts.
-- A complete downloadable website backup.
-- Operating and restoration instructions.
-- A list of plugins, themes, licenses, subscriptions, and renewal costs.
-- The agreed ownership and usage rights for custom work.
-
-I must be able to hire another developer without being locked into proprietary arrangements. Do not retain exclusive control over the domain, hosting, website, or customer information. Honor the existing confidentiality agreement.
-
-11. ACCEPTANCE REQUIREMENTS
-
-The project is complete only when the website is live, functional, and under my control.
-
-Before final acceptance, demonstrate that:
-1. The domain opens securely.
-2. Photo galleries and videos work - Items in photo and video should be watermarked and have a price tag so that visitors can purchase COPIES of items in the galleries photo or video clip.
-3. I can add and remove media without programming.
-4. Quote requests are stored and email notifications work.
-5. I can respond to customers through the website administration interface.
-6. Email collection, consent, and unsubscribe functions work.
-7. Business email integration is tested.
-8. SEO basics and social sharing previews are configured.
-9. Backups, documentation, and administrator access are delivered.
-10. Storage limits, ongoing expenses, and licenses are documented.
-11. Ownership and confidentiality requirements are satisfied.
-
-Please provide a fixed-price proposal, estimated delivery schedule, hosting recommendations, recurring costs, and a list of included and excluded features. Identify limitations before work begins.
-
-The final product must be a professional, fully operational WordPress website, hosted and ready for immediate launch, with room for future growth.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
