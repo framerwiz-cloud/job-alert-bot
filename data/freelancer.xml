@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
+
+Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
+
+Deliverables
+• Configure user-level permissions so each new staff member can view/reply in shared mailboxes and view files in the designated Drive folders.  
+• Verify that delegated mailbox access and Drive link sharing behave exactly as intended from two test accounts.  
+• Provide concise, step-by-step notes or a short Loom explaining where to repeat these steps for future hires.  
+• Confirm ChatGPT API calls authenticate without exposing broader Workspace scopes, then demonstrate one working website function tied to the model.
+
+If you’re comfortable juggling Google Admin Console settings, IAM/OAuth concerns, and a quick ChatGPT webhook, this should be a smooth engagement.</description></item>
 <item><title>WordPress Development &amp; SEO Expert Needed- 7</title><link>https://www.freelancer.com/projects/seo/WordPress-Development-SEO-Expert-Needed-40784604</link><guid isPermaLink="false">freelancer:40784604</guid><pubDate>Sat, 24 Oct 2026 12:26:45 GMT</pubDate><description>30-250 USD | SEO &amp; WEBSITE DEVELOPER (WordPress) — Remote, Monthly Pay
 
 About Us
