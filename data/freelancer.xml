@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>LiveZoneNetworkTV (battle royale server) Interactive Minecraft Server with Twitch Integration</title><link>https://www.freelancer.com/projects/php/Interactive-Minecraft-Server-with-Twitch</link><guid isPermaLink="false">freelancer:40784836</guid><pubDate>Sat, 24 Oct 2026 21:50:34 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Minecraft server developer to create an engaging, community-focused server. The server will revolve around completing shared challenges and events. 
+
+Key features include:
+- Shared Events: Boss fights, survival challenges, building contests, and team competitions.
+- Community Engagement: Players will be featured in community streams, and streams will be used for updates and announcements.
+- Twitch Integration: Live events hosted on Twitch. 
+
+Ideal skills and experience:
+- Strong Minecraft server setup and management skills
+- Experience with Twitch integration
+- Community management experience
+- Creativity in designing engaging challenges and events
+
+Please provide examples of similar work done.</description></item>
 <item><title>Enhance Mobile Website for "25 Years Under the Rising Sun" Author Series</title><link>https://www.freelancer.com/projects/css/Enhance-Mobile-Website-for-Years</link><guid isPermaLink="false">freelancer:40784951</guid><pubDate>Sat, 24 Oct 2026 21:30:14 GMT</pubDate><description>75-150 CAD | I’ve built an author website in Canva to showcase my eight-book series, "25 Years Under the Rising Sun," based on my 25 years in Japan. While much of the work is done, I need help improving its mobile responsiveness, layout, and navigation to make it more polished and professional. Key tasks include:
 - Optimizing the website for mobile devices.
 - Enhancing the layout and navigation for a seamless user experience.
@@ -78,17 +92,6 @@ An example of the type of configurator we are looking for can be found at www.oa
 Once we have established the pergola design, we would like the software to have the ability to be used and configured on our other products which include Oak Porches, Oak Gazebos and Oak trusses. Please look these up so you understand what they are.
 
 Our website is built on a toolkitwebsite platform and our shop back end is on shoprocket</description></item>
-<item><title>HTTPS Security Fix for Website</title><link>https://www.freelancer.com/projects/ssl/HTTPS-Security-Fix-for-Website</link><guid isPermaLink="false">freelancer:40785105</guid><pubDate>Sat, 24 Oct 2026 20:02:58 GMT</pubDate><description>30-250 USD | I need help updating my SSL certificate to enable HTTPS on my website. Currently, the browser indicates that the connection is not secure, and this issue occurs on only some pages or forms.
-
-Requirements:
-- Update SSL certificate
-- Ensure all pages are secure
-- Fix mixed content issues
-
-Ideal Skills and Experience:
-- Experience with SSL certificates
-- Familiarity with web security
-- Knowledge of fixing mixed content issues</description></item>
 <item><title>SEO &amp; AI Search Specialist – Airline Elite Status Services</title><link>https://www.freelancer.com/projects/seo/SEO-Search-Specialist-Airline-Elite</link><guid isPermaLink="false">freelancer:40785080</guid><pubDate>Sat, 24 Oct 2026 19:18:31 GMT</pubDate><description>30-250 USD | SEO &amp; AI Search Specialist — Airline Elite Status Services | Performance-Based Payment
 
 We’re seeking an experienced SEO specialist or agency to improve Google organic rankings and generate qualified inquiries for our airline elite status services.
@@ -241,20 +244,6 @@ Please answer the following questions in your proposal:
 **Project Type:** One-time setup, with potential for ongoing content management and technical support.
 
 **Budget:** Open to proposals based on experience and project scope.</description></item>
-<item><title>Interactive Minecraft Server with Twitch Integration</title><link>https://www.freelancer.com/projects/php/Interactive-Minecraft-Server-with-Twitch</link><guid isPermaLink="false">freelancer:40784836</guid><pubDate>Sat, 24 Oct 2026 16:01:04 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Minecraft server developer to create an engaging, community-focused server. The server will revolve around completing shared challenges and events. 
-
-Key features include:
-- Shared Events: Boss fights, survival challenges, building contests, and team competitions.
-- Community Engagement: Players will be featured in community streams, and streams will be used for updates and announcements.
-- Twitch Integration: Live events hosted on Twitch. 
-
-Ideal skills and experience:
-- Strong Minecraft server setup and management skills
-- Experience with Twitch integration
-- Community management experience
-- Creativity in designing engaging challenges and events
-
-Please provide examples of similar work done.</description></item>
 <item><title>PHP Full-Stack Developer with Laravel – Long-Term Collaboration</title><link>https://www.freelancer.com/projects/laravel/PHP-Full-Stack-Developer-with</link><guid isPermaLink="false">freelancer:40784819</guid><pubDate>Sat, 24 Oct 2026 15:45:42 GMT</pubDate><description>750-1500 EUR | PHP Full-Stack Developer with Laravel – Long-Term Collaboration
 
 We are looking for a PHP Full-Stack Developer to help us develop and improve our ERP platform, Systalavista, over the long term. Build frontend and backend features, improve existing modules, and take tasks from requirements analysis through to tested implementation.
@@ -705,6 +694,16 @@ Deliverables I’d like returned:
 • A brief hand-off note summarising changes and where to edit content in the future  
 
 If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
+<item><title>WordPress PHP Version Upgrade</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-PHP-Version-Upgrade</link><guid isPermaLink="false">freelancer:40783133</guid><pubDate>Fri, 23 Oct 2026 14:18:49 GMT</pubDate><description>30-250 USD | My WordPress site is still running on an outdated PHP build and my host is pressing me to move up to a current, supported release. I’m looking for someone who can log in to the server, flip the site to the latest stable PHP (8.x or whatever you recommend), and make sure the front-end and wp-admin both load without any fatal errors.  
+
+Scope is intentionally narrow: the job stops at changing the PHP version itself. Core, theme, or plugin updates and in-depth compatibility debugging are not required; I only need the version switched and a quick confirmation that the site still works.  
+
+Deliverables  
+• Production site running on the new PHP version  
+• Screenshot (phpinfo() or WordPress Site Health) proving the upgrade  
+• Brief note confirming a basic smoke test passed  
+
+I’ll supply control-panel or SSH access as soon as we start.</description></item>
 <item><title>Clean Portfolio &amp; Blog Website</title><link>https://www.freelancer.com/projects/web-design/Clean-Portfolio-Blog-Website</link><guid isPermaLink="false">freelancer:40783063</guid><pubDate>Fri, 23 Oct 2026 13:26:34 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch a small website whose sole purpose is to let me share information, post regular blogs, and showcase a personal portfolio. The visual style has to be simple, clean, modern, and unquestionably professional, with smooth responsiveness on desktop, tablet, and mobile.
 
 Here’s what I need you to handle from start to finish:
