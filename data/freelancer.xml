@@ -3,23 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Shopify E-commerce Setup and Integration</title><link>https://www.freelancer.com/projects/social-media-management/Shopify-commerce-Setup-Integration</link><guid isPermaLink="false">freelancer:40783839</guid><pubDate>Sat, 24 Oct 2026 03:38:55 GMT</pubDate><description>250-750 AUD | I'm looking for a comprehensive setup of my Shopify store to sell physical products. 
-
-Key tasks include:
-- Creating engaging social media pages and posts.
-- Designing attractive and effective landing pages.
-- Setting up the online store and configuring product payments.
-- Integrating all pages for a seamless user experience.
-Email list and connecting landing page to email to socials to store
-
-Ideal Skills and Experience:
-- Proven expertise in Shopify.
-- Strong background in social media management and content creation.
-- Experience in designing high-converting landing pages.
-- Familiarity with payment gateways and e-commerce integrations.
-Building an email list
-
-Please provide a portfolio showcasing similar projects.</description></item>
 <item><title>Technical SEO Fixes for GoDaddy</title><link>https://www.freelancer.com/projects/google-website-optimizer/Technical-SEO-Fixes-for-GoDaddy</link><guid isPermaLink="false">freelancer:40783881</guid><pubDate>Sat, 24 Oct 2026 01:58:20 GMT</pubDate><description>250-750 USD | I want to increase the volume of visitors who discover my site through Google search, and I’m convinced the quickest win lies in resolving the technical SEO problems baked into my current GoDaddy setup.  
 
 Here’s what I’m looking for: perform a concise but thorough technical audit, flag every issue that could limit crawlability or indexability, and then apply the fixes yourself (or outline exact steps if server-level access is needed). That includes, but isn’t limited to, improving site speed, cleaning up broken links, optimising sitemaps and robots.txt, tightening core web vitals and ensuring structured data is implemented correctly.  
@@ -840,6 +823,27 @@ Deliverables
 • Mobile-first checks and final cross-browser review before hand-over  
 
 Please share links to at least three live sites—ideally in construction, architecture, or property—that demonstrate comparable redesign work. Along with those examples, include an estimated timeline and cost breakdown so we can align expectations before kicking off.</description></item>
+<item><title>Scalable Pet Classifieds Platform</title><link>https://www.freelancer.com/projects/web-development/Scalable-Pet-Classifieds-Platform</link><guid isPermaLink="false">freelancer:40780274</guid><pubDate>Wed, 21 Oct 2026 23:20:29 GMT</pubDate><description>250-750 USD | I want to launch a full-featured classifieds website devoted to dog and cat breeds—something in the spirit of petclassifieds.com or puppies.com—yet flexible enough to grow far beyond a simple listing board. The core build must handle high traffic, thousands of concurrent listings, and an intuitive journey for both sellers and buyers on desktop and mobile.
+
+Key platform pillars  
+• User registration with robust profile pages for breeders, shelters, and private sellers  
+• End-to-end listing creation and management, including bulk upload and media galleries  
+• Secure payment processing so sellers can boost posts, reserve deposits, or pay listing fees  
+• Category hierarchy that starts with Dog and Cat breeds (purebred and cross-references for mixed later)  
+• Smart search, advanced filters, and location radius so buyers quickly narrow results  
+• Image-rich detail pages plus a reviews &amp; ratings layer to build trust  
+
+The build has to be mobile first, SEO-ready, and AI friendly from the outset. For example, I’d like to explore AI tools that can:  
+• Auto-tag photos with likely breeds to speed up listing creation  
+• Flag potential scam wording or duplicate ads  
+• Recommend similar pets to shoppers in real time  
+
+I’m open on the stack—Laravel, Django, MERN, or a headless CMS paired with React/Vue are all possibilities—as long as the architecture scales horizontally and you document the APIs. Please outline:  
+1. Your proposed tech stack and why it suits a large classifieds site.  
+2. Past projects that demonstrate you’ve built high-load marketplaces or animal-related portals.  
+3. A milestone plan covering database schema design, core module rollout, AI layer integration, QA, and launch.  
+
+Feel free to highlight any performance, security, or DevOps practices you’d bring to keep the platform fast and resilient. I look forward to seeing examples of your work and hearing how you’d turn this idea into a polished, scalable reality.</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:00 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
