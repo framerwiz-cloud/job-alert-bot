@@ -73,39 +73,6 @@ Deliverables
 3. Brief daily summary of what was covered and what remains.
 
 Reliability and stable internet are the main requirements; no specialized OSHA knowledge is necessary. If you can commit to the time blocks and meticulous tracking, let’s get this course finished.</description></item>
-<item><title>Custom Luxury Fashion E-Commerce</title><link>https://www.freelancer.com/projects/nodejs/Custom-Luxury-Fashion-Commerce</link><guid isPermaLink="false">freelancer:40783572</guid><pubDate>Fri, 23 Oct 2026 19:45:23 GMT</pubDate><description>30-250 USD | I want to launch a premium online clothing store built entirely from scratch—no WordPress, no Shopify, and no off-the-shelf templates. The look and feel must echo high-end labels: minimalist layouts, generous white space, neutral colour palettes, and crisp typography that lets product imagery breathe.
-
-Core shopping experience  
-• Shoppers need to browse effortlessly by category, size, and colour.  
-• They must be able to add items to a cart, pay online, and receive real-time order confirmation.  
-• Registered accounts are essential so customers can track orders and curate favourites for later.
-
-Payments  
-At launch the checkout has to support credit and debit cards, Cash-on-Delivery, and UPI. Please implement a well-documented gateway so I can add PayPal or Apple/Google Pay later without a full rebuild.
-
-Admin side  
-I need a secure dashboard where I can upload products with variants, set stock levels, manage orders and returns, run discount codes, and view basic sales analytics. Role-based access control is a must.
-
-Device coverage &amp; performance  
-The site should be fully responsive, load quickly on 3G, and follow SEO best practices (clean URLs, meta tags, structured data). Core Web Vitals scores will be part of acceptance testing.
-
-Tech expectations  
-Use a modern stack you’re comfortable maintaining—React or Vue on the front end, Node, Laravel, or an equivalent robust framework on the back end, with MySQL/PostgreSQL for data and Git for version control. Please avoid bloated libraries and keep the codebase well commented.
-
-Deliverables (hand-off ready)  
-1. Production-ready storefront and admin panel deployed to my VPS  
-2. Source code in a private Git repo with setup instructions  
-3. Database schema and seed data  
-4. Payment gateway configuration keys abstracted to .env  
-5. Short video walkthrough showing product upload, checkout flow, and order management
-
-Acceptance criteria  
-• All user flows above complete without errors on Chrome, Safari, and mobile browsers  
-• Checkout processes real test transactions for cards, COD, and UPI  
-• Lighthouse performance score ≥ 90 on desktop and mobile home page  
-• Admin roles restrict access correctly (tested with dummy accounts)
-
-If any requirement is unclear, let’s iron it out early so the build stays clean and elegant from day one.</description></item>
 <item><title>Digital Marketing Manager for Toronto Businesses</title><link>https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-Manager-for-Toronto</link><guid isPermaLink="false">freelancer:40783534</guid><pubDate>Fri, 23 Oct 2026 18:57:10 GMT</pubDate><description>250-750 CAD | Hi,
 
 I'm looking for someone to manage all the digital marketing and websites for two established businesses in Toronto, Canada.
@@ -844,6 +811,31 @@ I’m open on the stack—Laravel, Django, MERN, or a headless CMS paired with R
 3. A milestone plan covering database schema design, core module rollout, AI layer integration, QA, and launch.  
 
 Feel free to highlight any performance, security, or DevOps practices you’d bring to keep the platform fast and resilient. I look forward to seeing examples of your work and hearing how you’d turn this idea into a polished, scalable reality.</description></item>
+<item><title>Wix Site Build From Design</title><link>https://www.freelancer.com/projects/figma/Wix-Site-Build-From-Design</link><guid isPermaLink="false">freelancer:40780259</guid><pubDate>Wed, 21 Oct 2026 23:08:11 GMT</pubDate><description>250-750 AUD | I already have every screen fully designed and all copy finalised—I simply need the site assembled in Wix and polished so it can go live without a hitch.
+
+Scope of build  
+Please create the following pages exactly as laid out in my design files:  
+• Home  
+• Services  
+• How it Works  
+• Contact Us  
+• Thank You (post-form)
+
+Core features to wire up  
+• Custom contact form that feeds directly into my inbox  
+• Simple appointment-booking widget (Wix Bookings is fine)  
+• Download section for gated PDFs
+
+Integrations  
+Google Analytics (or Wix Analytics if easier) must be active from day one, and the checkout flow should connect to my chosen payment gateway through Wix Payments.
+
+What I’ll hand over  
+Figma files (desktop &amp; mobile breakpoints), all images, copy, brand colours, and font specs.
+
+What I expect back  
+A launch-ready Wix site, mobile-responsive, with all links, forms, and payments fully tested and a brief hand-over video or call demonstrating where to update text and images in the editor.
+
+If you have solid Wix experience and can turn designs into a pixel-perfect, fully functional site, I’m ready to get started right away.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
