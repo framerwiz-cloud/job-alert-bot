@@ -3,42 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Restaurant SaaS Reconciliation &amp; Forecasting -- 2</title><link>https://www.freelancer.com/projects/api-developmet/Restaurant-SaaS-Reconciliation-40785242</link><guid isPermaLink="false">freelancer:40785242</guid><pubDate>Sat, 24 Oct 2026 23:02:24 GMT</pubDate><description>1500-3000 CAD | I am building a multi-tenant SaaS platform that lets every restaurant operate from its own private account while I handle the heavy lifting behind the scenes. The core of the product is data automation: the system must pull daily figures from the major point-of-sale and payment APIs, accounting and payroll packages, plus food-delivery and reservation services. Once the data lands, I want it reconciled automatically—sales, payments, and deposits matched so discrepancies surface instantly.  
-
-From there, the same data feeds AI-driven forecasts for sales, staffing, and food purchasing. To sharpen those projections the platform will also scrape publicly available sources for local events and competitor promotions, tying that intelligence back into labour and inventory plans. All of this needs to happen with no manual file uploads; restaurants simply log in to a branded portal and see clean dashboards, variance alerts, and forward-looking recommendations.
-
-Key deliverables  
-• Secure multi-tenant architecture with self-service sign-up / login  
-• API connectors for POS, payment, accounting, payroll, delivery, and reservation systems (initial focus on the mainstream providers)  
-• Automated reconciliation engine highlighting mismatches in sales vs. deposits  
-• Forecast module that combines historical data, AI models, and scraped event feeds  
-• Lightweight web scraper for local events and competitor activity, configurable per location  
-• Role-based dashboards and exportable reports
-
-Acceptance criteria  
-• A new restaurant can create an account, connect at least one system from each category, and see its first reconciled report within 15 minutes.  
-• Forecast accuracy improves over baseline historical averages by at least 15 % after four weeks of data.  
-• Scraper respects robots.txt and rate limits; event data updates nightly without manual intervention.  
-
-Stack is flexible—RESTful endpoints, OAuth flows, and a modern front-end are expected—but I am open to the best tools for fast, secure delivery.</description></item>
-<item><title>Restaurant SaaS Reconciliation &amp; Forecasting</title><link>https://www.freelancer.com/projects/api-developmet/Restaurant-SaaS-Reconciliation</link><guid isPermaLink="false">freelancer:40785241</guid><pubDate>Sat, 24 Oct 2026 23:02:07 GMT</pubDate><description>10000-20000 CAD | I am building a multi-tenant SaaS platform that lets every restaurant operate from its own private account while I handle the heavy lifting behind the scenes. The core of the product is data automation: the system must pull daily figures from the major point-of-sale and payment APIs, accounting and payroll packages, plus food-delivery and reservation services. Once the data lands, I want it reconciled automatically—sales, payments, and deposits matched so discrepancies surface instantly.  
-
-From there, the same data feeds AI-driven forecasts for sales, staffing, and food purchasing. To sharpen those projections the platform will also scrape publicly available sources for local events and competitor promotions, tying that intelligence back into labour and inventory plans. All of this needs to happen with no manual file uploads; restaurants simply log in to a branded portal and see clean dashboards, variance alerts, and forward-looking recommendations.
-
-Key deliverables  
-• Secure multi-tenant architecture with self-service sign-up / login  
-• API connectors for POS, payment, accounting, payroll, delivery, and reservation systems (initial focus on the mainstream providers)  
-• Automated reconciliation engine highlighting mismatches in sales vs. deposits  
-• Forecast module that combines historical data, AI models, and scraped event feeds  
-• Lightweight web scraper for local events and competitor activity, configurable per location  
-• Role-based dashboards and exportable reports
-
-Acceptance criteria  
-• A new restaurant can create an account, connect at least one system from each category, and see its first reconciled report within 15 minutes.  
-• Forecast accuracy improves over baseline historical averages by at least 15 % after four weeks of data.  
-• Scraper respects robots.txt and rate limits; event data updates nightly without manual intervention.  
-
-Stack is flexible—RESTful endpoints, OAuth flows, and a modern front-end are expected—but I am open to the best tools for fast, secure delivery.</description></item>
 <item><title>SEO Blogs from 30 YouTube Videos</title><link>https://www.freelancer.com/projects/blog-writing/SEO-Blogs-from-YouTube-Videos</link><guid isPermaLink="false">freelancer:40785216</guid><pubDate>Sat, 24 Oct 2026 22:07:56 GMT</pubDate><description>30-250 AUD | I have a YouTube channel with roughly thirty videos that now need a proper home on my WordPress site. For each video I want a dedicated post that does three things:
 
 • embeds the video close to the top of the page  
@@ -687,6 +651,30 @@ Whether you will personally perform the work.
 Your earliest availability.
 
 We are looking for a long-term technical partner with proven production experience.</description></item>
+<item><title>Shopify Dropshipping Store Setup</title><link>https://www.freelancer.com/projects/dropshipping/Shopify-Dropshipping-Store-Setup-40783310</link><guid isPermaLink="false">freelancer:40783310</guid><pubDate>Fri, 23 Oct 2026 16:18:52 GMT</pubDate><description>100-350 USD | Looking for a Shopify expert to build a winning dropshipping store in the sleep and rest category
+
+I’m looking for an experienced Shopify expert to design and launch a dropshipping store with 50 winning products already loaded. I want a store that is ready to sell from day one, not a template I have to finish myself. I also need someone who can help me get it in front of customers once it’s live.
+
+What I need
+
+-A clean, modern, premium Shopify store with a strong brand feel
+-Research on winning products in the sleep and rest category (sleepwear, loungewear, sleep accessories, aromas, sleep tech), backed by real demand, healthy margins and good reviews, not just whatever is trending
+-Winning products added to the store with polished listings, photos and copy that sell
+-DTC dropshipping set up with reliable, credible suppliers, including sample orders, shipping times and quality checks
+-Help with marketing, such as a launch plan, ad and content guidance and getting my first sales
+-Ongoing support after launch to refine the store, swap out weak products and scale the ones that work
+
+What I’m looking for in you
+
+A proven track record of Shopify store design, with examples of stores you’ve built
+Real experience in product research and dropshipping, ideally with results you can share
+A good understanding of branding and what makes a store feel trustworthy and premium
+Experience helping stores get traffic and sales, not just looking good
+Clear communication and a willingness to support the store long term
+
+To apply
+
+Please send links to stores you’ve built, a short note on how you find winning products, and how you would approach marketing for a new store.</description></item>
 <item><title>Comprehensive WordPress Health Check &amp; Fix</title><link>https://www.freelancer.com/projects/google-website-optimizer/Comprehensive-WordPress-Health-Check-Fix</link><guid isPermaLink="false">freelancer:40783217</guid><pubDate>Fri, 23 Oct 2026 15:11:33 GMT</pubDate><description>15-25 USD/hr | I need a one-off, end-to-end inspection of my WordPress site to confirm that every setting, plugin, page, and interaction is running exactly as it should. Please review the active theme and all plugins for version conflicts, security risks, and best-practice configuration, then move on to test contact forms, email delivery, user registration and login flows.  
 
 From there, click through every page, validate internal and external links, check responsive behaviour on mobile and tablet, and benchmark overall site speed—tuning caching or image optimisation if you spot bottlenecks.   
@@ -698,6 +686,23 @@ Deliverables
 • A brief changelog of the tweaks and fixes applied.
 
 You’ll receive temporary WordPress admin (and cPanel/FTP if needed) the moment we start. Let me know your turnaround time—I’d like this wrapped up in the next couple of days.</description></item>
+<item><title>Squarespace Page Setup Help</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Page-Setup-Help</link><guid isPermaLink="false">freelancer:40783196</guid><pubDate>Fri, 23 Oct 2026 14:58:36 GMT</pubDate><description>250-750 CAD | I have a Squarespace site that is almost there, but the page structure still feels rough. I need a Squarespace-savvy hand to step in and properly set up and arrange the core pages so everything reads smoothly and looks cohesive on desktop and mobile.
+
+Pages in scope:
+• Home  
+• About  
+• Contact  
+• Services / Products  
+
+The build is already on Squarespace; you’ll be working directly inside the Fluid Engine editor. Your focus is layout, navigation flow, section arrangement, and any light styling tweaks needed to make the pages consistent with the existing brand assets I’ll supply (logo, colors, fonts, and any ready-to-use images or copy).
+
+Deliverables I’d like returned:
+• Fully arranged versions of the four pages above, ready to publish  
+• Updated site navigation reflecting the new page order  
+• Responsive checks so each page looks clean on tablets and phones  
+• A brief hand-off note summarising changes and where to edit content in the future  
+
+If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
 <item><title>Clean Portfolio &amp; Blog Website</title><link>https://www.freelancer.com/projects/web-design/Clean-Portfolio-Blog-Website</link><guid isPermaLink="false">freelancer:40783063</guid><pubDate>Fri, 23 Oct 2026 13:26:34 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch a small website whose sole purpose is to let me share information, post regular blogs, and showcase a personal portfolio. The visual style has to be simple, clean, modern, and unquestionably professional, with smooth responsiveness on desktop, tablet, and mobile.
 
 Here’s what I need you to handle from start to finish:
