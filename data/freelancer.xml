@@ -3,6 +3,31 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix Rental Site With OwnerRez</title><link>https://www.freelancer.com/projects/wix/Wix-Rental-Site-With-OwnerRez</link><guid isPermaLink="false">freelancer:40785264</guid><pubDate>Sat, 24 Oct 2026 23:45:59 GMT</pubDate><description>250-750 USD | I’ve already secured my domain on Wix and started a draft, but I’d like a polished, fully functional short-term rental website built from the ground up. The core requirement is to keep everything inside the Wix ecosystem while embedding OwnerRez so guests can complete their reservation without ever leaving my site.
+
+Here’s how I picture the flow:
+• Visitors land on an inviting Home page featuring the property’s best photos, quick highlights, guest reviews, and an always-visible “Book Now” button.  
+• Clicking that button should open the OwnerRez booking widget directly within the Wix page, not a separate tab.  
+• A dedicated Photo Gallery packed with high-resolution images lets guests explore every room and outdoor space.  
+• An Area Guide page introduces the neighborhood, local attractions, and insider tips to help visitors imagine their stay.  
+• A clear House Rules page spells out check-in times, pet policies, and other must-knows.  
+• A standalone Booking page can echo the embedded OwnerRez form for those who prefer navigating by menu.  
+• A simple Contact page rounds out the site so guests can reach me with special questions.
+
+I’ll supply all copy, photos, and the OwnerRez embed code. You’ll handle:
+1. Designing each page in Wix for consistent style and fast load times.  
+2. Integrating the OwnerRez widget so it displays seamlessly on both desktop and mobile.  
+3. Optimizing image galleries and arranging content sections for easy scanning and SEO-friendly structure.  
+4. Setting up basic Wix SEO fields (titles, meta descriptions, alt text) so the site is ready to rank.  
+5. Providing a quick walkthrough or short Loom video showing how I can update text, swap photos, or adjust availability later.
+
+Acceptance criteria:
+• OwnerRez interface loads and processes a test booking directly on the Wix site.  
+• All menu links, gallery images, and internal anchors work flawlessly on mobile and desktop.  
+• Site publishes to my existing Wix domain with SSL active.  
+• Hand-off includes clear edit instructions.
+
+If you’ve tackled Wix + OwnerRez before, I’d love to see an example. Let’s get this live and taking bookings soon!</description></item>
 <item><title>SEO Blogs from 30 YouTube Videos</title><link>https://www.freelancer.com/projects/blog-writing/SEO-Blogs-from-YouTube-Videos</link><guid isPermaLink="false">freelancer:40785216</guid><pubDate>Sat, 24 Oct 2026 22:07:56 GMT</pubDate><description>30-250 AUD | I have a YouTube channel with roughly thirty videos that now need a proper home on my WordPress site. For each video I want a dedicated post that does three things:
 
 • embeds the video close to the top of the page  
@@ -686,23 +711,6 @@ Deliverables
 • A brief changelog of the tweaks and fixes applied.
 
 You’ll receive temporary WordPress admin (and cPanel/FTP if needed) the moment we start. Let me know your turnaround time—I’d like this wrapped up in the next couple of days.</description></item>
-<item><title>Squarespace Page Setup Help</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Page-Setup-Help</link><guid isPermaLink="false">freelancer:40783196</guid><pubDate>Fri, 23 Oct 2026 14:58:36 GMT</pubDate><description>250-750 CAD | I have a Squarespace site that is almost there, but the page structure still feels rough. I need a Squarespace-savvy hand to step in and properly set up and arrange the core pages so everything reads smoothly and looks cohesive on desktop and mobile.
-
-Pages in scope:
-• Home  
-• About  
-• Contact  
-• Services / Products  
-
-The build is already on Squarespace; you’ll be working directly inside the Fluid Engine editor. Your focus is layout, navigation flow, section arrangement, and any light styling tweaks needed to make the pages consistent with the existing brand assets I’ll supply (logo, colors, fonts, and any ready-to-use images or copy).
-
-Deliverables I’d like returned:
-• Fully arranged versions of the four pages above, ready to publish  
-• Updated site navigation reflecting the new page order  
-• Responsive checks so each page looks clean on tablets and phones  
-• A brief hand-off note summarising changes and where to edit content in the future  
-
-If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
 <item><title>Clean Portfolio &amp; Blog Website</title><link>https://www.freelancer.com/projects/web-design/Clean-Portfolio-Blog-Website</link><guid isPermaLink="false">freelancer:40783063</guid><pubDate>Fri, 23 Oct 2026 13:26:34 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch a small website whose sole purpose is to let me share information, post regular blogs, and showcase a personal portfolio. The visual style has to be simple, clean, modern, and unquestionably professional, with smooth responsiveness on desktop, tablet, and mobile.
 
 Here’s what I need you to handle from start to finish:
