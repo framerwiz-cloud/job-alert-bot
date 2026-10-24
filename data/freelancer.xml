@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Profitable AI Online Business</title><link>https://www.freelancer.com/projects/ai-app-development/Build-Profitable-Online-Business</link><guid isPermaLink="false">freelancer:40783817</guid><pubDate>Sat, 24 Oct 2026 00:04:04 GMT</pubDate><description>250-750 USD | I’m ready to roll out a brand-new online venture that taps into AI and is capable of bringing in £5–10 k per month, with clear headroom for continued growth. My strongest pull is toward selling digital products or courses and high-value AI-driven services for businesses, yet I’m open to any model you can demonstrate has worked before.
+
+What I expect from you  
+Show me proof—live stores, dashboards, revenue screenshots, testimonials—of previous builds where you took an AI-based idea from concept to consistent cash flow. Tell me exactly what you did, the obstacles you fixed, and why that experience makes you the right partner here.
+
+Scope of work (30-day launch window)  
+• Pinpoint the most viable, proven concept and map the revenue pathway to reach £5–10 k/month.  
+• Validate the market quickly with real data, then build the core offer (course, digital product, or service package).  
+• Set up the tech stack: AI content generation (e.g., ChatGPT, Midjourney), automation via Zapier/Make, sales funnel, payment gateway, email sequences, analytics.  
+• Deliver launch-ready branding, landing pages, and a concise go-to-market plan—including paid/organic traffic strategies—to flip the switch and start selling.  
+• Provide SOPs so the business can scale or be handed off smoothly after launch.
+
+Acceptance criteria  
+1. A fully functional, client-ownable online asset that is taking payments by Day 30.  
+2. A documented funnel and automation map showing exactly how AI is used to minimise manual workload.  
+3. A 90-day growth roadmap that projects the path to £5–10 k/month using realistic KPIs pulled from your earlier successes.
+
+If you’ve built something similar and can replicate or enhance that success with me, I’d like this to grow into an ongoing partnership after the initial build. Pitch your proven idea, attach evidence, and let’s get started.</description></item>
 <item><title>Viral Civil Rights Landing Page. id261023</title><link>https://www.freelancer.com/projects/seo/Viral-Civil-Rights-Landing-Page</link><guid isPermaLink="false">freelancer:40783811</guid><pubDate>Fri, 23 Oct 2026 23:55:11 GMT</pubDate><description>250-750 USD | I need a high-impact, single-screen website that drives visitors to sign a petition calling attention to an ongoing civil-rights injustice. The page must feel urgent, emotionally engaging, and instantly shareable while remaining fact-driven: the people affected have supplied documents and hard data that need to be worked seamlessly into the copy, visuals, and metadata so supporters can verify and spread the message with confidence.
 
 Because visibility is everything, the build has to be extremely tightly tuned for SEO and AEO. Structured data, FAQ/How-To schema, speed optimization, and answer-box targeting should all be baked in from the start so we can climb to page-one results quickly. Smooth clear CTA and a frictionless petition form are non-negotiable.
@@ -835,50 +853,6 @@ What I expect back
 A launch-ready Wix site, mobile-responsive, with all links, forms, and payments fully tested and a brief hand-over video or call demonstrating where to update text and images in the editor.
 
 If you have solid Wix experience and can turn designs into a pixel-perfect, fully functional site, I’m ready to get started right away.</description></item>
-<item><title>Supabase + Stripe + Netlify backend for a finished lawn bowls web app: sign-in, 30-day trial, annual subscriptions, access lock</title><link>https://www.freelancer.com/projects/supabase/Supabase-Stripe-Netlify-backend-for</link><guid isPermaLink="false">freelancer:40780251</guid><pubDate>Wed, 21 Oct 2026 23:05:12 GMT</pubDate><description>750-1500 AUD | I own Bowls Draw, a web app that helps social lawn bowls coordinators pick fair teams each week.
-The app and the marketing website are finished and live on two Netlify sites. I need an experienced
-developer to build the account and payment layer around them. I am not asking for a rebuild.
-What you would build
-• Sign-up, sign-in, password reset and email confirmation with Supabase Auth.
-• A 30-day free trial with no card, tracked in the database, with reminder emails at 14, 7 and 1
-days before it ends.
-• Stripe subscriptions in AUD: Individual $49 a year (1 login) and Club $99 a year (3 coordinator
-logins). Annual auto-renewal, receipts, failed-payment handling, Customer Portal, webhooks.
-• Access gating on Netlify: the app only opens for a live trial or a paid year. When access ends it
-locks, with no grace period.
-• One active session per login.
-• Online cancellation, a My Account page, and a simple admin panel for me.
-• Transactional emails (welcome, reminders, receipts, cancellation) with my wording.
-• Documentation and a clean handover to a repository and accounts that I own.
-
-Why this is a good project
-• The front end, pricing, business rules and customer flow are already decided and written down.
-I will give you a full specification, flow diagram and a list of every email and record.
-• Australian subscription law is tightening in July 2027, so online cancellation and renewal
-notices are built in from the start.
-• Fixed price per milestone, paid when I have approved each one on a staging site.
-
-Who I am looking for
-• You have shipped Supabase and Stripe subscription billing before and can show me live
-examples.
-• You are comfortable with Netlify functions or edge functions, and plain JavaScript (the app is a
-single HTML file, not a framework app).
-• You write clearly, test your work, and are available for some overlap with Sydney business
-hours (AEST/AEDT).
-
-How to apply
-Please do not send a template reply. In your proposal, answer these five questions briefly:
-1. Which similar Supabase + Stripe subscription project have you delivered? Please link it or
-describe it.
-2. How would you build the 30-day no-card trial and the reminder emails, and what would send
-them?
-3. How would you stop the app loading for a signed-out or lapsed user, given it is a static single-
-file app on Netlify?
-4. Which payment methods would you offer for an annual auto-renewing plan in AUD, and what
-are the trade-offs?
-5. What is your fixed price and timeline per milestone, and what would you class as extra?
-
-I will share the full specification with shortlisted applicants straight away. It is attached to this post.</description></item>
 <item><title>Industrial Construction Site Advisors Needed</title><link>https://www.freelancer.com/projects/construction/Industrial-Construction-Site-Advisors</link><guid isPermaLink="false">freelancer:40779996</guid><pubDate>Wed, 21 Oct 2026 18:53:00 GMT</pubDate><description>15-25 USD/hr | I’m building an online platform that will serve industrial constructors across the United States and Canada, yet my own background is rooted in web development, not construction. To keep the content accurate and genuinely useful, I need seasoned industrial constructors to act as subject-matter advisors throughout the build.
 
 Here’s what I’m asking of you:
