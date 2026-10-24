@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Bot Enhancement</title><link>https://www.freelancer.com/projects/website-design/Bot-Enhancement</link><guid isPermaLink="false">freelancer:40784312</guid><pubDate>Sat, 24 Oct 2026 08:22:34 GMT</pubDate><description>250-750 AUD | I need an AI bot to be improved. The main goal is to make it reply faster and more reliably.
+
+Key Requirements:
+- Use information from my website to provide more accurate answers.
+
+Ideal Skills and Experience:
+- Experience in AI development and optimization
+- Familiarity with integrating AI bots into various platforms
+- Strong understanding of natural language processing (NLP)
+- Ability to analyze and implement speed and reliability improvements</description></item>
 <item><title>Redesign Luxury Skincare Squarespace Store</title><link>https://www.freelancer.com/projects/squarespace/Redesign-Luxury-Skincare-Squarespace</link><guid isPermaLink="false">freelancer:40784256</guid><pubDate>Sat, 24 Oct 2026 07:39:42 GMT</pubDate><description>750-1500 AUD | Squarespace Website Designer &amp; E-commerce Specialist – Luxury Skincare Brand
 Project: Redesign and optimisation of an existing Squarespace website
 
@@ -856,27 +866,6 @@ Deliverables
 • Mobile-first checks and final cross-browser review before hand-over  
 
 Please share links to at least three live sites—ideally in construction, architecture, or property—that demonstrate comparable redesign work. Along with those examples, include an estimated timeline and cost breakdown so we can align expectations before kicking off.</description></item>
-<item><title>Scalable Pet Classifieds Platform</title><link>https://www.freelancer.com/projects/web-development/Scalable-Pet-Classifieds-Platform</link><guid isPermaLink="false">freelancer:40780274</guid><pubDate>Wed, 21 Oct 2026 23:20:29 GMT</pubDate><description>250-750 USD | I want to launch a full-featured classifieds website devoted to dog and cat breeds—something in the spirit of petclassifieds.com or puppies.com—yet flexible enough to grow far beyond a simple listing board. The core build must handle high traffic, thousands of concurrent listings, and an intuitive journey for both sellers and buyers on desktop and mobile.
-
-Key platform pillars  
-• User registration with robust profile pages for breeders, shelters, and private sellers  
-• End-to-end listing creation and management, including bulk upload and media galleries  
-• Secure payment processing so sellers can boost posts, reserve deposits, or pay listing fees  
-• Category hierarchy that starts with Dog and Cat breeds (purebred and cross-references for mixed later)  
-• Smart search, advanced filters, and location radius so buyers quickly narrow results  
-• Image-rich detail pages plus a reviews &amp; ratings layer to build trust  
-
-The build has to be mobile first, SEO-ready, and AI friendly from the outset. For example, I’d like to explore AI tools that can:  
-• Auto-tag photos with likely breeds to speed up listing creation  
-• Flag potential scam wording or duplicate ads  
-• Recommend similar pets to shoppers in real time  
-
-I’m open on the stack—Laravel, Django, MERN, or a headless CMS paired with React/Vue are all possibilities—as long as the architecture scales horizontally and you document the APIs. Please outline:  
-1. Your proposed tech stack and why it suits a large classifieds site.  
-2. Past projects that demonstrate you’ve built high-load marketplaces or animal-related portals.  
-3. A milestone plan covering database schema design, core module rollout, AI layer integration, QA, and launch.  
-
-Feel free to highlight any performance, security, or DevOps practices you’d bring to keep the platform fast and resilient. I look forward to seeing examples of your work and hearing how you’d turn this idea into a polished, scalable reality.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
