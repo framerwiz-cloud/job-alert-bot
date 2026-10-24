@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Automotive Website for Listings &amp; Sourcing</title><link>https://www.freelancer.com/projects/web-development/Automotive-Website-for-Listings-Sourcing</link><guid isPermaLink="false">freelancer:40784650</guid><pubDate>Sat, 24 Oct 2026 13:06:29 GMT</pubDate><description>250-750 GBP | I’m starting a digital showroom that covers cars, motorcycles, and a bespoke vehicle-sourcing service, and I need a developer who can turn that vision into a fast, modern website. Visitors must be able to browse the current stock, upload details if they want to sell to me, and submit a quick form when they’re hunting for something specific.
+
+Every listing has to present the essentials at a glance—photos, price, mileage, A clean search/filter, inventory manager I can update myself, and an easy way to highlight “Just Arrived” or “Sold” vehicles will keep the site fresh.
+
+Please build on a platform that balances flexibility with ease of use for future edits; WordPress + Elementor, Webflow, or a lightweight custom build are all fine if the final hand-off is well documented. Responsive design, SEO-friendly structure, and quick-loading image galleries are non-negotiable.
+
+When you reply, include links to past automotive or e-commerce projects, outline your direct experience with similar inventory modules, and give me a concise proposal that explains your approach, timeline, and any milestones.</description></item>
+<item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
+
+Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
+
+Deliverables
+• Configure user-level permissions so each new staff member can view/reply in shared mailboxes and view files in the designated Drive folders.  
+• Verify that delegated mailbox access and Drive link sharing behave exactly as intended from two test accounts.  
+• Provide concise, step-by-step notes or a short Loom explaining where to repeat these steps for future hires.  
+• Confirm ChatGPT API calls authenticate without exposing broader Workspace scopes, then demonstrate one working website function tied to the model.
+
+If you’re comfortable juggling Google Admin Console settings, IAM/OAuth concerns, and a quick ChatGPT webhook, this should be a smooth engagement.</description></item>
 <item><title>WordPress Development &amp; SEO Expert Needed- 7</title><link>https://www.freelancer.com/projects/seo/WordPress-Development-SEO-Expert-Needed-40784604</link><guid isPermaLink="false">freelancer:40784604</guid><pubDate>Sat, 24 Oct 2026 12:26:45 GMT</pubDate><description>30-250 USD | SEO &amp; WEBSITE DEVELOPER (WordPress) — Remote, Monthly Pay
 
 About Us
@@ -797,26 +815,6 @@ Here’s what I’d like from you:
 I’ll share the current site, analytics highlights, and user feedback once we start so you can pinpoint friction points. Collaborate with me on two rounds of refinements; final sign-off files should be neatly organized and ready for hand-off to development.
 
 If you thrive on data-driven design, understand e-commerce best practices, and craft everything by hand, I’m ready to get started.</description></item>
-<item><title>Experienced Laravel Web Developer Build a multivendor B2C online shopping mall and B2B wholesale directory using Laravel. DO NOT BID if you cannot show Laravel sites and has done more than 3 Laravel projects.</title><link>https://www.freelancer.com/projects/web-development/Experienced-Laravel-Web-Developer-Build</link><guid isPermaLink="false">freelancer:40780468</guid><pubDate>Thu, 22 Oct 2026 02:54:04 GMT</pubDate><description>250-750 AUD | Experienced Laravel Web Developer Build a multivendor B2C online shopping mall and multivendor B2B wholesale directory using Laravel. DO NOT BID if you cannot show previous works website links built using Laravel and has done more than 3 Laravel projects.
-Please give a firm price quote in AUD$ and projects budgets including website graphics and designs.
-Need to be completed within 1-2 weeks
-The price you quote will be taken as final price quote. 
-Freelancers who give fake quotes and time wasters will be reported to Freelancer.
-
-I’m building a combined B2C shopping mall centred on home-goods along with a B2B wholesale directory, all powered by Laravel. The project covers everything from user authentication and product management to payment, shipping, and an admin dashboard, so deep familiarity with the framework’s ecosystem (Blade, Eloquent, queues, API resources, etc.) is essential.
-
-Show me what you’ve already shipped: links to at least three live Laravel sites you built or led are mandatory. Without that past work I won’t be able to consider your bid. Feel free to add any extra context or ideas, but the portfolio links come first.
-
-The look and feel must be modern, clean, and responsive. If you like using Tailwind, Bootstrap, Vue.js, or other front-end stacks that play well with Laravel, mention it when you outline your approach.
-
-Key deliverables  
-• Fully functional Laravel codebase for the B2C mall and B2B directory  
-• Modern UI respecting the chosen home-goods theme  
-• Payment, shipping, and order modules wired to test gateways  
-• Admin panel for product, vendor, and customer management  
-• Deployment instructions and basic technical documentation
-
-I’ll review submissions on the strength of real Laravel work and how clearly you map that experience to this project’s needs.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
