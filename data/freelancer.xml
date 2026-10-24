@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SEO Blogs from 30 YouTube Videos</title><link>https://www.freelancer.com/projects/blog-writing/SEO-Blogs-from-YouTube-Videos</link><guid isPermaLink="false">freelancer:40785216</guid><pubDate>Sat, 24 Oct 2026 22:07:56 GMT</pubDate><description>30-250 AUD | I have a YouTube channel with roughly thirty videos that now need a proper home on my WordPress site. For each video I want a dedicated post that does three things:
+
+• embeds the video close to the top of the page  
+• opens with a short, lively summary that hooks the visitor and makes them hit play  
+• uses original, keyword-smart copy so Google can actually find us
+
+No transcripts or pre-written notes are available—I’m relying on you to watch each video, pull out the key points, and craft a fresh, SEO-friendly article (250–400 words is usually enough when the copy is tight). Headlines, meta description, focus keyphrase, and a handful of internal links should all be in place before you hit publish.
+
+The WordPress site is ready with Gutenberg and Yoast installed. Just pick the right category and tags, upload a thumbnail if the embed doesn’t grab one automatically, set a clean URL slug, and  directly publish—one post per video, thirty in total.</description></item>
 <item><title>LiveZoneNetworkTV (battle royale server) Interactive Minecraft Server with Twitch Integration</title><link>https://www.freelancer.com/projects/php/Interactive-Minecraft-Server-with-Twitch</link><guid isPermaLink="false">freelancer:40784836</guid><pubDate>Sat, 24 Oct 2026 21:50:34 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Minecraft server developer to create an engaging, community-focused server. The server will revolve around completing shared challenges and events. 
 
 Key features include:
@@ -694,16 +703,6 @@ Deliverables I’d like returned:
 • A brief hand-off note summarising changes and where to edit content in the future  
 
 If a quick CSS adjustment or branded button style helps pull everything together, feel free to apply it—it’s all about getting the site launch-ready without a full redesign.</description></item>
-<item><title>WordPress PHP Version Upgrade</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-PHP-Version-Upgrade</link><guid isPermaLink="false">freelancer:40783133</guid><pubDate>Fri, 23 Oct 2026 14:18:49 GMT</pubDate><description>30-250 USD | My WordPress site is still running on an outdated PHP build and my host is pressing me to move up to a current, supported release. I’m looking for someone who can log in to the server, flip the site to the latest stable PHP (8.x or whatever you recommend), and make sure the front-end and wp-admin both load without any fatal errors.  
-
-Scope is intentionally narrow: the job stops at changing the PHP version itself. Core, theme, or plugin updates and in-depth compatibility debugging are not required; I only need the version switched and a quick confirmation that the site still works.  
-
-Deliverables  
-• Production site running on the new PHP version  
-• Screenshot (phpinfo() or WordPress Site Health) proving the upgrade  
-• Brief note confirming a basic smoke test passed  
-
-I’ll supply control-panel or SSH access as soon as we start.</description></item>
 <item><title>Clean Portfolio &amp; Blog Website</title><link>https://www.freelancer.com/projects/web-design/Clean-Portfolio-Blog-Website</link><guid isPermaLink="false">freelancer:40783063</guid><pubDate>Fri, 23 Oct 2026 13:26:34 GMT</pubDate><description>2-8 USD/hr | I’m ready to launch a small website whose sole purpose is to let me share information, post regular blogs, and showcase a personal portfolio. The visual style has to be simple, clean, modern, and unquestionably professional, with smooth responsiveness on desktop, tablet, and mobile.
 
 Here’s what I need you to handle from start to finish:
