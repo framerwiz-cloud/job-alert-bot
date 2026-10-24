@@ -3,6 +3,57 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Community Learning App Setup </title><link>https://www.freelancer.com/projects/app-development/Community-Learning-App-Setup</link><guid isPermaLink="false">freelancer:40784868</guid><pubDate>Sat, 24 Oct 2026 16:23:38 GMT</pubDate><description>30-250 USD | Community App Setup &amp; Content Management for AppyPie.com or CreateCommunity.com DIY platforms
+
+### Project Description
+
+I am looking for an experienced freelancer to help me set up, customize, and populate a community and learning platform using either **Appy Pie** (https://www.appypie.com/) or **CreateCommunity** (https://createcommunity.com/).
+
+The goal is to build a professional, user-friendly platform where members can connect, engage with content, participate in activities, access learning resources, and purchase digital products.
+
+### Responsibilities
+
+The freelancer will be responsible for setting up and organizing the following features, depending on the capabilities of the selected platform:
+
+- **Content Sharing:** Upload, organize, and publish articles, videos, audio teachings, documents, and regular updates.
+- **Member Discussions &amp; Groups:** Set up discussion spaces, community groups, and opportunities for members to interact.
+- **Events &amp; Registration:** Create event listings, registration forms, sign-ups, announcements, and event notifications.
+- **User Accounts &amp; Profiles:** Configure member registration, login, personal profiles, and account management.
+- **Personal Member Library:** Set up a section where users can access their saved content, enrolled courses, and purchased digital products.
+- **Ebook &amp; Audiobook Shop:** Configure a digital storefront where users can browse and purchase ebooks and audiobooks, preferably with protected in-app reading and listening rather than unrestricted downloads.
+- **Courses &amp; Learning Resources:** Organize educational content into courses, lessons, modules, and learning pathways.
+- **Notifications &amp; Announcements:** Configure notifications to keep members informed about new content, events, and community activities.
+- **Membership &amp; Access Management:** Set up free and paid content access, member permissions, and appropriate restrictions.
+- **Navigation &amp; User Experience:** Organize all features into a clean, intuitive interface that works well on mobile and desktop.
+- **Testing &amp; Launch Preparation:** Test registration, content access, purchases, navigation, and other essential functions before launch.
+
+### Requirements
+
+- Experience setting up community apps, membership platforms, or online learning platforms.
+- Familiarity with Appy Pie or CreateCommunity is strongly preferred.
+- Experience integrating digital product sales, user libraries, and membership features.
+- Ability to determine which features are supported natively and which require integrations or custom solutions.
+- Strong organizational skills and attention to detail.
+- Ability to work independently and communicate progress clearly.
+
+### IMPORTANT — PLEASE READ BEFORE APPLYING
+
+I am looking for someone who **understands this concept and knows how to implement it**, not someone who will simply experiment with the platforms.
+
+Please answer the following questions in your proposal:
+
+1. Have you worked with Appy Pie or CreateCommunity before? Which platform?
+2. Have you built a similar community, membership, or learning app? Please share examples.
+3. Do you understand the features listed above, and are you confident you can implement them?
+4. Which of these features can be implemented directly on your recommended platform, and which would require third-party integrations?
+5. Can you configure an ebook and audiobook store with individual user accounts and a personal library of purchased content?
+6. What is your estimated timeline and total cost for completing the setup?
+
+**Please do not submit a generic proposal.** Explain how you would approach this project and demonstrate that you understand the technical requirements.
+
+**Project Type:** One-time setup, with potential for ongoing content management and technical support.
+
+**Budget:** Open to proposals based on experience and project scope.</description></item>
 <item><title>Interactive Minecraft Server with Twitch Integration</title><link>https://www.freelancer.com/projects/php/Interactive-Minecraft-Server-with-Twitch</link><guid isPermaLink="false">freelancer:40784836</guid><pubDate>Sat, 24 Oct 2026 16:01:04 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Minecraft server developer to create an engaging, community-focused server. The server will revolve around completing shared challenges and events. 
 
 Key features include:
@@ -692,38 +743,6 @@ To apply, please confirm your availability, relevant experience, and ability to 
 - Clear instructions/documentation for any changes made.
 
 The ideal freelancer should have proven experience with Shopify and be able to start immediately. Strong English and Filipino proficiency is required. The Filipino and English fluency requirement is due to my English accent issue, not related to the freelancer's country of origin.</description></item>
-<item><title>AI Tools Directory WordPress Site -- 2</title><link>https://www.freelancer.com/projects/php/Tools-Directory-WordPress-Site</link><guid isPermaLink="false">freelancer:40781765</guid><pubDate>Thu, 22 Oct 2026 19:10:35 GMT</pubDate><description>30-250 USD | MANY QUESTIONS RECEIVED LED TO THIS DETAIL SPECS ATTACHED
-
-I want to launch a clean, fast-loading WordPress site that serves as a searchable directory of AI, productivity, business and learning tools, each monetised with affiliate links. I already have hosting in place; you’ll handle the full WordPress installation, set-up and hardening so the project is production-ready from day one.
-
-Because I’m not an interface expert, I’d like you to guide me on the most suitable homepage layout—grid, list, masonry or any hybrid you feel will showcase the tools elegantly on desktop and mobile. I don’t have inspirational examples, so please come prepared with a few modern, minimalist references we can discuss before you dive into design.
-
-Core build requirements  
-• Responsive, minimalist theme or custom child theme  
-• Homepage that surfaces featured or newest tools and encourages exploration  
-• Structured directory with categories, tags and an internal search + filter system  
-• Individual tool review pages with space for screenshots, pros/cons, rating and my affiliate CTA buttons  
-• Blog section for news and tutorials, plus a separate “Frameworks” section (essentially another category template)  
-• Newsletter signup (I’m on Mailchimp but open to better options) placed strategically across the site  
-• Affiliate link management via a reliable plugin or lightweight custom solution  
-• On-page SEO configuration (metadata, schema for reviews, XML sitemap)  
-• Image and code optimisation to keep load times low; aim for green Core Web Vitals  
-• Security best practices (firewall, login protection, automated backups)  
-• Google Analytics 4 (or Matomo if you prefer open-source) fully configured
-
-Deliverables  
-1. Staging site for approval, then live deployment  
-2. All page templates, menus and sample content populated so I can see the flow  
-3. Documentation or short Loom walkthrough covering how I add new tools, blog posts and track affiliate clicks  
-4. Post-launch support window to tackle any unforeseen bugs
-
-If you have experience building niche directories with affiliate integration and can suggest thoughtful UI/UX improvements, I’d love to hear how you would tackle this from theme selection to performance tuning.
-
-Deliverables:
-•	Fully functioning website on IONOS hosting
-•	Admin access
-•	Ability to add/edit tools without coding
-PLAN IS TO  start with 50 tool reviews, 20 blog posts, and 5 framework articles before launch. That gives the website  enough content to look established and begin attracting Google traffic from day one.</description></item>
 <item><title>Expanding Wilserv: Marketing &amp; Website Update</title><link>https://www.freelancer.com/projects/business-development/Expanding-Wilserv-Marketing-Website</link><guid isPermaLink="false">freelancer:40774254</guid><pubDate>Wed, 21 Oct 2026 10:07:26 GMT</pubDate><description>8-15 USD/hr | We are updating Wilserv's online presence to attract leads for our new construction and home remodeling services in a booming area within a 40-mile radius. We're seeking marketing experts to implement social media campaigns, focusing on platforms like Facebook and Instagram, and create highly targeted ads tailored for local audiences. Google Ads expertise is also welcomed to utilize location-specific keywords such as "home remodeling near me" or "light commercial construction in [area]." The ideal candidate will have experience in lead generation, social media strategy, and crafting compelling ad content that drives results. Suggestions on SEO or email marketing strategies to complement these efforts are also appreciated.</description></item>
 <item><title>Medical Patient Scheduling Receptionist</title><link>https://www.freelancer.com/projects/administrative-support/Medical-Patient-Scheduling-Receptionist</link><guid isPermaLink="false">freelancer:40779140</guid><pubDate>Wed, 21 Oct 2026 08:21:31 GMT</pubDate><description>15-25 USD/hr | I need a reliable front-desk professional who can take full ownership of patient scheduling for my practice. You’ll be the first point of contact when appointment requests arrive—whether by phone, email, or our online portal—so clear communication and a friendly manner are essential.
 
