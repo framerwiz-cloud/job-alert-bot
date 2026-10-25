@@ -3,29 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Software architect with hands on Mastra.ai experience</title><link>https://www.freelancer.com/projects/crm/Software-architect-with-hands-Mastra</link><guid isPermaLink="false">freelancer:40786455</guid><pubDate>Sun, 25 Oct 2026 21:13:41 GMT</pubDate><description>25-50 USD/hr | Looking for an architect/consultant with hands-on Mastra experience to help design an AI assistant embedded in a CRM and booking system.
-
-Stack: Next.js, Supabase/Postgres, Railway.
-
-The assistant should behave like a junior administrator across an ongoing customer/booking lifecycle:
-
-Work across emails, internal notes, call transcripts, documents and current CRM records.
-Investigate a situation using tools, then prepare related updates, draft replies, documents and follow-ups for human review.
-Handle multiple email conversations about the same booking, with different participants and topics.
-Stay aware of changes made directly by staff or customers in the application.
-Continue unfinished work across later messages, approvals and long histories.
-Email is one channel. Staff might also leave an internal instruction, mention the assistant in a note, or change a booking status.
-
-Example: A customer requests a discount by email. A manager approves it in an internal note. The assistant should connect that decision to the original request, check the current booking and pricing, and prepare the appropriate updates and customer reply. Meanwhile, another conversation concerns booking details. If those details change before someone approves the draft, the assistant needs to account for that.
-
-We’d like help choosing a practical architecture for:
-
-Thread/session boundaries and shared customer/booking context.
-Current application state versus conversation memory and retrieved evidence.
-Wake-up rules, batching routine edits and continuing pending work.
-Human approval, retries and avoiding duplicate actions.
-Which Mastra facilities to use and what should remain application code.
-The aim is a maintainable implementation with as few moving parts as reasonably possible.</description></item>
 <item><title>Custom Fishing Rod E-commerce Build</title><link>https://www.freelancer.com/projects/web-development/Custom-Fishing-Rod-commerce-Build</link><guid isPermaLink="false">freelancer:40786446</guid><pubDate>Sun, 25 Oct 2026 20:56:28 GMT</pubDate><description>30-250 USD | I already have every rod photographed, priced, and described; now I need a complete online store built from the ground up to showcase and sell them. The site must let visitors add products to a cart, pay at checkout, and automatically trigger the usual confirmation emails.  
 
 You are free to choose the most suitable stack or platform—as long as the finished store is fast, mobile-friendly, and secure. A clean design that respects my logo, colours, and future branding ideas is important, but the immediate priority is a rock-solid buying experience.
