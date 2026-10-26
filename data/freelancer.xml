@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Squarespace Construction Site Completion</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Construction-Site-Completion</link><guid isPermaLink="false">freelancer:40788054</guid><pubDate>Mon, 26 Oct 2026 17:55:38 GMT</pubDate><description>250-750 USD | I’ve already opened a Squarespace account, chosen a template, and sketched out exactly how each page should look. What I no longer have is the time to finish turning those notes into a polished, live site.  
+
+Your main task is straightforward: use my design breakdown, page-by-page, and build the full layout inside Squarespace. All imagery—for custom homes, remodels, and the commercial projects we tackle—will be in a shared folder and ready for you to drop in. I’ll also supply any copy that isn’t already in the draft pages, so you can focus on structure, spacing, gallery blocks, navigation, and keeping every section consistent with our brand colours and fonts.  
+
+Please make sure every page feels great on desktop, tablet, and mobile before handing it back. If you spot a faster or cleaner way to arrange a section, let me know; I’m happy to approve improvements that stay true to the original look.  
+
+When you apply, show me examples of previous Squarespace builds or redesigns you’ve completed so I can quickly see your experience with the platform’s drag-and-drop tools, style editor, and custom-code injections if you used them. That portfolio overview is all I need to decide who moves forward.</description></item>
 <item><title>Web &amp; Mobile App Developer for Website and Platform</title><link>https://www.freelancer.com/projects/web-development/Web-Mobile-App-Developer-for</link><guid isPermaLink="false">freelancer:40787687</guid><pubDate>Mon, 26 Oct 2026 17:41:40 GMT</pubDate><description>300-500 USD | Web &amp; Mobile App Developer needed 
 
 Web &amp; Mobile App Developer for Company Website and Platform
@@ -492,20 +499,6 @@ If you’ve tackled Wix + OwnerRez before, I’d love to see an example. Let’s
 No transcripts or pre-written notes are available—I’m relying on you to watch each video, pull out the key points, and craft a fresh, SEO-friendly article (250–400 words is usually enough when the copy is tight). Headlines, meta description, focus keyphrase, and a handful of internal links should all be in place before you hit publish.
 
 The WordPress site is ready with Gutenberg and Yoast installed. Just pick the right category and tags, upload a thumbnail if the embed doesn’t grab one automatically, set a clean URL slug, and  directly publish—one post per video, thirty in total.</description></item>
-<item><title>LiveZoneNetworkTV (battle royale server) Interactive Minecraft Server with Twitch Integration</title><link>https://www.freelancer.com/projects/php/Interactive-Minecraft-Server-with-Twitch</link><guid isPermaLink="false">freelancer:40784836</guid><pubDate>Sat, 24 Oct 2026 21:50:34 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Minecraft server developer to create an engaging, community-focused server. The server will revolve around completing shared challenges and events. 
-
-Key features include:
-- Shared Events: Boss fights, survival challenges, building contests, and team competitions.
-- Community Engagement: Players will be featured in community streams, and streams will be used for updates and announcements.
-- Twitch Integration: Live events hosted on Twitch. 
-
-Ideal skills and experience:
-- Strong Minecraft server setup and management skills
-- Experience with Twitch integration
-- Community management experience
-- Creativity in designing engaging challenges and events
-
-Please provide examples of similar work done.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
