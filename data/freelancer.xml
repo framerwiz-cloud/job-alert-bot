@@ -3,6 +3,94 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Create Orderance SaaS Demo Video $50</title><link>https://www.freelancer.com/projects/video-editing/Create-Orderance-SaaS-Demo-Video</link><guid isPermaLink="false">freelancer:40788212</guid><pubDate>Mon, 26 Oct 2026 19:54:41 GMT</pubDate><description>30-250 CAD | # Orderance Online Ordering Demo Video
+
+Create a professional **90 to 120-second promotional video** demonstrating our restaurant online ordering platform, Orderance.
+
+**Reference video:**
+https://www.youtube.com/watch?v=MQxf0nOPVOw
+
+Follow a similar presentation style, but use our actual software, branding, and interfaces.
+
+## Video Sequence
+
+**1. Introduction (15 seconds)**
+
+Explain that third-party marketplaces can charge restaurants 25% to 30% commissions per order.
+
+Highlight Orderance's benefits:
+
+- Free restaurant website setup.
+- Complete menu setup with online ordering.
+- Third-party delivery driver integration without marketplace commissions (courier fees still apply).
+- Loyalty programs and unlimited promotions.
+- Dedicated tablet ordering app for restaurant staff.
+
+**2. Customer Ordering Demo (40 seconds)**
+
+Record the actual customer ordering application:
+
+- Customer visits the restaurant website.
+- Clicks "See Menu and Order."
+- Browses menu categories.
+- Adds 2 to 3 items with toppings or modifiers.
+- Reviews the cart.
+- Completes checkout.
+- Reaches the Thank You page.
+
+Emphasize how fast and simple the process is.
+
+**3. Live Tablet Order Acceptance (30 seconds)**
+
+**IMPORTANT: Use the actual Android tablet connected to this computer via USB.**
+
+- Detect the tablet using ADB.
+- Record its screen using scrcpy or similar software.
+- Open the installed Orderance Ordering Station app.
+- Place a safe test order through the customer storefront.
+- Capture the actual incoming order notification.
+- Show staff reviewing and accepting the order, including preparation time.
+
+Create a **synchronized split-screen video**:
+
+- Left: Customer placing the order.
+- Right: Physical tablet receiving and accepting it.
+
+Show the real customer confirmation and available status updates. Do not use emulators or simulated application screens.
+
+**4. Additional Features (15 seconds)**
+
+Briefly show loyalty rewards, promotions, delivery dispatch, and order management using actual application footage.
+
+**5. Closing (10 seconds)**
+
+Display the Orderance logo and:
+
+"Your Restaurant. Your Customers. Your Orders. Zero Marketplace Commissions."
+
+"Start Taking Orders Directly."
+
+## Production Requirements
+
+- Modern SaaS promotional video with smooth transitions.
+- Professional English voiceover and subtitles.
+- Real screen recordings, not fake UI animations.
+- Mobile and tablet frames with synchronized footage.
+- Orderance branding, subtle background music.
+- Clean, professional graphics and pacing.
+- Use authorized test environments. No real charges or live courier dispatches.
+- Do not modify application code or production settings.
+
+## Deliverables
+
+- Full 90 to 120-second video (1080p MP4).
+- 30-second promotional version.
+- Vertical version for social media.
+- Editable project files and source recordings.
+
+**Priority:** Clearly demonstrate the complete real-world process, from a customer clicking "See Menu and Order" to the restaurant receiving and accepting the order on the physical tablet connected to this computer.
+
+The video should convince restaurant owners that Orderance is easy to use and helps them avoid expensive third-party marketplace commissions.</description></item>
 <item><title>Deploy Static Site on AWS</title><link>https://www.freelancer.com/projects/ssl/Deploy-Static-Site-AWS</link><guid isPermaLink="false">freelancer:40788202</guid><pubDate>Mon, 26 Oct 2026 19:49:03 GMT</pubDate><description>30-250 USD | All the HTML, CSS, JS, and image assets for my brochure-style website are finished and zipped. My domain is already registered and I have full access to its DNS settings. The job now is to make the site live on Amazon Web Services with fast global delivery and a valid SSL certificate.
 
 Preferred approach is S3 static-site hosting fronted by CloudFront, but I’m open to Lightsail or a small EC2 instance if you can explain why it’s the better fit. Whichever route you choose, please keep the monthly AWS bill minimal.
@@ -585,16 +673,6 @@ To keep delivery clear I’m splitting the work into three consecutive phases:
 I’ll supply UI sketches, GST rules and any required API keys for payment gateways. You’ll handle architecture, coding, basic UI styling, automated test coverage and packaging for effortless deployment. All data must be protected in transit and at rest, and regular encrypted off-site backups need to run without user input. 
 
 Low ongoing cost is critical, so keep third-party fees to a minimum and flag any licensing up front. Please outline the tech stack you prefer, how you’ll tackle offline sync and what milestones you suggest for each phase. I’m ready to get started as soon as we agree on the plan.</description></item>
-<item><title>Travel Booking App UI/UX</title><link>https://www.freelancer.com/projects/ui-design/Travel-Booking-App</link><guid isPermaLink="false">freelancer:40785326</guid><pubDate>Sun, 25 Oct 2026 01:40:43 GMT</pubDate><description>250-750 USD | I’m building a mobile-first app where users can browse and purchase travel experiences, tickets, and event packages, and I need a full set of intuitive, conversion-focused UX and visually cohesive UI designs.
-
-Core screens to be produced:
-• Browse products or services  
-• Booking / checkout process  
-• Account and order management  
-
-Each screen should flow naturally into the next, reduce friction at checkout, and feel consistent with a modern travel marketplace. Clean typography, an easily skimmable card layout for listings, and clear call-to-action hierarchy are top priorities.  
-
-High-fidelity mock-ups in Figma (or a comparable tool) plus a clickable prototype will be the final deliverables, ready for hand-off to developers.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
