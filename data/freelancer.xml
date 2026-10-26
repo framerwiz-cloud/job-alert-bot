@@ -189,30 +189,6 @@ Does this sound like something you'd be interested in? I’m ready as soon as yo
 If yes, please get in touch and I'll share some references and we can take it from there.
 
 Thanks!</description></item>
-<item><title>Fix WordPress Error</title><link>https://www.freelancer.com/projects/cpanel/Fix-WordPress-Error-40787902</link><guid isPermaLink="false">freelancer:40787902</guid><pubDate>Mon, 26 Oct 2026 16:13:46 GMT</pubDate><description>20-250 GBP | I’m looking for help to restore my WordPress website, which is currently displaying a critical error on the public-facing website and WordPress login.
-
-My hosting provider, Krystal, has investigated and identified an incompatibility with the Revolution Slider (revslider) plugin. The error relates to create_function(), which was removed in PHP 8.0. My website is currently running PHP 8.3.
-
-Krystal has renamed the Revolution Slider plugin folder to disable it, but this has not resolved the problem. They suspect there may be further compatibility issues with outdated plugins or other website components.
-
-My hosting package includes daily backups retained for 30 days, and Krystal has offered to restore a backup if needed.
-
-I’m looking for someone who can investigate the errors, restore the website and WordPress admin access, and update or repair any incompatible components. Ideally, I would like to retain the existing website design and content rather than have the website rebuilt.
-
-
-I need someone who can:
-
-• Pinpoint the exact cause of the post-update crash (PHP fatal error, compatibility conflict, database issue, etc.).  
-• Restore full front-end and back-end access without losing any existing content, settings, or media.  
-• Leave the site running on the latest stable versions of WordPress, the theme, and all plugins—or roll back specific components if that’s the safer route.  
-
-You’ll likely use tools such as cPanel or an SFTP client to examine error logs, temporarily disable plugins/themes, and repair the database if needed. Please keep a short log of what you change so I know how the issue was resolved.
-
-Acceptance criteria: the website loads normally in a browser with no error messages, I can log in to /wp-admin, and automatic backups are re-enabled before the job is marked complete.
-
-Could you please let me know whether you can help, your availability, and an estimate of the cost before any work begins?
-
-Many thanks</description></item>
 <item><title>Campaign Fundraising Website Development</title><link>https://www.freelancer.com/projects/web-development/Campaign-Fundraising-Website-Development</link><guid isPermaLink="false">freelancer:40787895</guid><pubDate>Mon, 26 Oct 2026 16:05:06 GMT</pubDate><description>250-750 CAD | I'm seeking an experienced web developer to create a fundraising website aimed at raising money for a specific campaign or cause. The site should be user-friendly and visually appealing, enabling anyone visiting the website to donate. I also need to integrate a geolocation tool where local businesses can post coupons for the people that donate money to a campaign. 
 
 Key Requirements:
@@ -608,6 +584,31 @@ Deliverables for each deck:
 • All assets (audio files, question bank entries) organized clearly inside the course so they are easy for me to update later.  
 
 I’ll provide the PPT files and course access right away. Let me know your timeframe for converting the first lesson; if all looks good, the remaining decks will follow the same workflow.</description></item>
+<item><title>Wix Rental Site With OwnerRez</title><link>https://www.freelancer.com/projects/wix/Wix-Rental-Site-With-OwnerRez</link><guid isPermaLink="false">freelancer:40785264</guid><pubDate>Sat, 24 Oct 2026 23:45:59 GMT</pubDate><description>250-750 USD | I’ve already secured my domain on Wix and started a draft, but I’d like a polished, fully functional short-term rental website built from the ground up. The core requirement is to keep everything inside the Wix ecosystem while embedding OwnerRez so guests can complete their reservation without ever leaving my site.
+
+Here’s how I picture the flow:
+• Visitors land on an inviting Home page featuring the property’s best photos, quick highlights, guest reviews, and an always-visible “Book Now” button.  
+• Clicking that button should open the OwnerRez booking widget directly within the Wix page, not a separate tab.  
+• A dedicated Photo Gallery packed with high-resolution images lets guests explore every room and outdoor space.  
+• An Area Guide page introduces the neighborhood, local attractions, and insider tips to help visitors imagine their stay.  
+• A clear House Rules page spells out check-in times, pet policies, and other must-knows.  
+• A standalone Booking page can echo the embedded OwnerRez form for those who prefer navigating by menu.  
+• A simple Contact page rounds out the site so guests can reach me with special questions.
+
+I’ll supply all copy, photos, and the OwnerRez embed code. You’ll handle:
+1. Designing each page in Wix for consistent style and fast load times.  
+2. Integrating the OwnerRez widget so it displays seamlessly on both desktop and mobile.  
+3. Optimizing image galleries and arranging content sections for easy scanning and SEO-friendly structure.  
+4. Setting up basic Wix SEO fields (titles, meta descriptions, alt text) so the site is ready to rank.  
+5. Providing a quick walkthrough or short Loom video showing how I can update text, swap photos, or adjust availability later.
+
+Acceptance criteria:
+• OwnerRez interface loads and processes a test booking directly on the Wix site.  
+• All menu links, gallery images, and internal anchors work flawlessly on mobile and desktop.  
+• Site publishes to my existing Wix domain with SSL active.  
+• Hand-off includes clear edit instructions.
+
+If you’ve tackled Wix + OwnerRez before, I’d love to see an example. Let’s get this live and taking bookings soon!</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
