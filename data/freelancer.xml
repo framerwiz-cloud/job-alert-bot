@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Campaign Fundraising Website Development</title><link>https://www.freelancer.com/projects/web-development/Campaign-Fundraising-Website-Development</link><guid isPermaLink="false">freelancer:40787895</guid><pubDate>Mon, 26 Oct 2026 16:05:06 GMT</pubDate><description>250-750 CAD | I'm seeking an experienced web developer to create a fundraising website aimed at raising money for a specific campaign or cause. The site should be user-friendly and visually appealing, enabling anyone visiting the website to donate. I also need to integrate a geolocation tool where local businesses can post coupons for the people that donate money to a campaign. 
+
+Key Requirements:
+- Display fundraising goal and amount raised
+- Showcase photos and videos related to the cause
+- Secure payment processing for donations
+- only admin/authorized people will be able to create a campaign
+
+Ideal Skills and Experience:
+- Proficiency in web development and design
+- Experience with payment gateways
+- Strong portfolio in creating donation-based websites
+- Ability to implement a clean, engaging UI/UX
+
+Please include examples of similar work in your proposal.</description></item>
 <item><title>WordPress Fix, Migration &amp; Redesign</title><link>https://www.freelancer.com/projects/content-management-system/WordPress-Fix-Migration-Redesign</link><guid isPermaLink="false">freelancer:40787891</guid><pubDate>Mon, 26 Oct 2026 16:02:12 GMT</pubDate><description>30-250 USD | My WordPress site needs to be fixed. Some menu items and links are incorrect, and text needs to be added. Your first task is to troubleshoot and repair both the content and the navigation so everything looks and works as intended.
 
 Once the site is stable, I need it migrated to a new hosting account. I will supply the login details; you handle the backup, database move, etc. I will handle the DNS change.
@@ -478,14 +493,6 @@ Please provide examples of similar work done.</description></item>
 - Verifying that all Amazon links work correctly.
 
 The goal is to create an engaging site that excites readers and encourages them to explore my books.</description></item>
-<item><title>Pay Freelancer For Completed Work</title><link>https://www.freelancer.com/projects/payment-processing/Pay-Freelancer-For-Completed-Work</link><guid isPermaLink="false">freelancer:40785154</guid><pubDate>Sat, 24 Oct 2026 20:58:47 GMT</pubDate><description>30-250 USD | I recently received valuable assistance here on Freelancer for a small task, but I had to step away before I could release any funds. The work is finished and I want to make sure the person who helped me gets paid in full.
-
-My immediate goal is simple: pay for the completed work. I’m open to whichever route is quickest and safest—whether that’s creating a Milestone, using an Invoice, or any other feature that keeps everything inside the platform. If there’s a standard process I should follow, please walk me through it and help me execute it correctly so the freelancer receives their money without delay.
-
-Deliverable  
-• Clear, step-by-step guidance (or direct assistance) that results in a confirmed payment to the original freelancer for the finished task.
-
-If you’re familiar with resolving post-job payments on Freelancer.com, I’d appreciate your help in getting this sorted right away.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
