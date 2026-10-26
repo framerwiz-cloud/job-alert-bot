@@ -3,17 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Web &amp; Mobile App Developer for GOS Website and DesignRea Platform</title><link>https://www.freelancer.com/projects/web-development/Web-Mobile-Apps-Developer</link><guid isPermaLink="false">freelancer:40787647</guid><pubDate>Mon, 26 Oct 2026 13:49:56 GMT</pubDate><description>300-500 USD | Web &amp; Mobile App Developer needed 
-
-Web &amp; Mobile App Developer for GOS Website and DesignRea Platform
-
-We are looking for a developer who can manage the project from A to Z, from reviewing our current website and understanding our business requirements to designing, developing, testing, launching, and maintaining our digital platforms.
-
-The scope of work includes enhancing our existing website, developing the DesignRea Platform and its required features, improving the user experience, implementing relevant integrations, and ensuring security, performance, and scalability. The project may also include mobile application development and ongoing technical support, depending on the proposed solution.
-
-Interested freelancers are invited to share their portfolios, relevant experience, proposed technical approach, estimated timeline, and quotation. Please also specify the technologies you recommend and whether your proposal covers both web and mobile app development.
-
-We look forward to working with a reliable developer who can help us enhance our digital presence and bring the DesignRea Platform to life.</description></item>
 <item><title>GoHighLevel Automation Expert Needed</title><link>https://www.freelancer.com/projects/ai-chatbot/GoHighLevel-Automation-Expert-Needed</link><guid isPermaLink="false">freelancer:40787638</guid><pubDate>Mon, 26 Oct 2026 13:23:59 GMT</pubDate><description>1500-3000 USD | To be considered, you must submit a 2–3 minute Loom presentation demonstrating your ability to market our services to prospective clients.
 
 Please review the attached sample presentation and create a similar presentation using a realistic business example. Use a natural-sounding AI voice to professionally explain our services, including:
@@ -600,6 +589,32 @@ Record a screen-sharing video. For each ticket, explain your understanding of th
 Send the video link with a brief explanation in the Kasay chat.
 
 Based on your video, we will decide whether to invite you to the next stage of the application process.</description></item>
+<item><title>Accessible WordPress WooCommerce Startup Site</title><link>https://www.freelancer.com/projects/accessibiliy/Accessible-WordPress-WooCommerce-Startup</link><guid isPermaLink="false">freelancer:40784772</guid><pubDate>Sat, 24 Oct 2026 14:56:26 GMT</pubDate><description>250-750 USD | WordPress/WooCommerce Developer for an Accessible Startup Website
+Project Title: WordPress/WooCommerce Developer for an Accessible Startup Website (Phase 1)
+About Us
+AEINST Mission Equity Access is a startup that helps more people around the world get access to AI and digital resources, in support of the UN 2030 Sustainable Development Goals.
+What You'll Build (Phase 1)
+• A clean, modern WordPress site with WooCommerce, using a ready-made accessible theme
+• Pages: Home, About/Mission, Resources, Contact, plus a simple shop
+• User sign-up, login and basic profile pages
+• Secure checkout (Stripe or PayPal)
+• Footer and legal page stating our dual license: CC0 1.0 and Business Source License 1.1
+• A quick walkthrough (video or written) showing me how to manage users, content and orders
+Must-Haves
+• Meets WCAG 2.1 AA: screen-reader friendly, high-contrast option, keyboard navigation
+• Mobile friendly and fast on slow connections
+Not Included (Phase 2, if this goes well)
+• Real-time data feeds, investment features, community forum and automated alerts
+Timeline
+• Draft site to review: Friday, November 6, 2026
+• Features complete: Friday, November 13, 2026
+• Launch: Friday, November 20, 2026
+Budget
+$50 to $250 USD, fixed price
+To Apply
+• Share 1 or 2 WordPress sites you built, ideally with accessibility work
+• Tell me which theme and plugins you'd use
+• Confirm you can hit the November 20 launch</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
