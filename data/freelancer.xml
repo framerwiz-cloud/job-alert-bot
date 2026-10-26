@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix WordPress Error</title><link>https://www.freelancer.com/projects/cpanel/Fix-WordPress-Error-40787902</link><guid isPermaLink="false">freelancer:40787902</guid><pubDate>Mon, 26 Oct 2026 16:13:46 GMT</pubDate><description>20-250 GBP | I’m looking for help to restore my WordPress website, which is currently displaying a critical error on the public-facing website and WordPress login.
+
+My hosting provider, Krystal, has investigated and identified an incompatibility with the Revolution Slider (revslider) plugin. The error relates to create_function(), which was removed in PHP 8.0. My website is currently running PHP 8.3.
+
+Krystal has renamed the Revolution Slider plugin folder to disable it, but this has not resolved the problem. They suspect there may be further compatibility issues with outdated plugins or other website components.
+
+My hosting package includes daily backups retained for 30 days, and Krystal has offered to restore a backup if needed.
+
+I’m looking for someone who can investigate the errors, restore the website and WordPress admin access, and update or repair any incompatible components. Ideally, I would like to retain the existing website design and content rather than have the website rebuilt.
+
+
+I need someone who can:
+
+• Pinpoint the exact cause of the post-update crash (PHP fatal error, compatibility conflict, database issue, etc.).  
+• Restore full front-end and back-end access without losing any existing content, settings, or media.  
+• Leave the site running on the latest stable versions of WordPress, the theme, and all plugins—or roll back specific components if that’s the safer route.  
+
+You’ll likely use tools such as cPanel or an SFTP client to examine error logs, temporarily disable plugins/themes, and repair the database if needed. Please keep a short log of what you change so I know how the issue was resolved.
+
+Acceptance criteria: the website loads normally in a browser with no error messages, I can log in to /wp-admin, and automatic backups are re-enabled before the job is marked complete.
+
+Could you please let me know whether you can help, your availability, and an estimate of the cost before any work begins?
+
+Many thanks</description></item>
 <item><title>Campaign Fundraising Website Development</title><link>https://www.freelancer.com/projects/web-development/Campaign-Fundraising-Website-Development</link><guid isPermaLink="false">freelancer:40787895</guid><pubDate>Mon, 26 Oct 2026 16:05:06 GMT</pubDate><description>250-750 CAD | I'm seeking an experienced web developer to create a fundraising website aimed at raising money for a specific campaign or cause. The site should be user-friendly and visually appealing, enabling anyone visiting the website to donate. I also need to integrate a geolocation tool where local businesses can post coupons for the people that donate money to a campaign. 
 
 Key Requirements:
@@ -487,12 +511,6 @@ Ideal skills and experience:
 - Creativity in designing engaging challenges and events
 
 Please provide examples of similar work done.</description></item>
-<item><title>Enhance Mobile Website for "25 Years Under the Rising Sun" Author Series</title><link>https://www.freelancer.com/projects/css/Enhance-Mobile-Website-for-Years</link><guid isPermaLink="false">freelancer:40784951</guid><pubDate>Sat, 24 Oct 2026 21:30:14 GMT</pubDate><description>75-150 CAD | I’ve built an author website in Canva to showcase my eight-book series, "25 Years Under the Rising Sun," based on my 25 years in Japan. While much of the work is done, I need help improving its mobile responsiveness, layout, and navigation to make it more polished and professional. Key tasks include:
-- Optimizing the website for mobile devices.
-- Enhancing the layout and navigation for a seamless user experience.
-- Verifying that all Amazon links work correctly.
-
-The goal is to create an engaging site that excites readers and encourages them to explore my books.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
