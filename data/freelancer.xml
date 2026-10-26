@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Setup on WordPress</title><link>https://www.freelancer.com/projects/html/WooCommerce-Setup-WordPress</link><guid isPermaLink="false">freelancer:40787322</guid><pubDate>Mon, 26 Oct 2026 09:47:30 GMT</pubDate><description>20-250 GBP | I'm looking for an experienced WordPress developer to set up WooCommerce on my site. 
+
+Requirements:
+- Sell physical products that need shipping.
+- Implement booking features:
+  - Pay online when booking.
+  - Receive booking confirmation emails.
+- Enable payment via credit or debit cards.
+
+Ideal skills and experience:
+- Proficient in WordPress and WooCommerce
+- Experience with payment gateway integration
+- Familiarity with booking systems and email notifications
+
+Please provide examples of similar work done. Thank you!
+
+***I WILL NOT REPLY TO BOT AUTO MESSAGES***</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
@@ -587,13 +604,6 @@ Ideal Skills and Experience:
 - Strong design skills to create an engaging user interface.
 
 Please include past work related to news or article-sharing websites in your application.</description></item>
-<item><title>Carrd.io (Carrd Pro) landing page</title><link>https://www.freelancer.com/projects/web-design/Carrd-Carrd-Pro-landing-page</link><guid isPermaLink="false">freelancer:40784704</guid><pubDate>Sat, 24 Oct 2026 13:54:44 GMT</pubDate><description>30-250 USD | Hello, can you build a landing page for my company.
-I already have the domain, business email, business phone number, finalized website copy, graphics, and overall design direction. I am primarily looking for someone to implement the site professionally in Carrd, make it fully responsive, configure the form/SEO/domain, and prepare it for launch. Including connecting my existing domain to Carrd, configuring the site for HTTPS/SSL, testing the site, and assisting with the final launch? The page has up to 10-13 sections but may be reduced and 1 quote form.
-This is primarily an implementation project, not a request to create the branding or website concept from scratch. I want the supplied design direction and graphics translated into a polished, responsive Carrd website. I can send the complete project package. 
-Can you give me a turnaround time and price.
-Are revisions and/or minor corrections included in the price.
-Can you Please provide me with 3-5 examples of Carrd websites you have built, preferably live sites.
-I’m asking for you to quote me a price and how long it will take you for this project.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
