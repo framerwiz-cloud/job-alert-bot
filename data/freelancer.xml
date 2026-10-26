@@ -3,6 +3,40 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Pixel-Perfect Mockup to Website</title><link>https://www.freelancer.com/projects/web-design/Pixel-Perfect-Mockup-Website</link><guid isPermaLink="false">freelancer:40787708</guid><pubDate>Mon, 26 Oct 2026 14:10:08 GMT</pubDate><description>15-25 USD/hr | I already have a complete, signed-off mockup that shows every page, font, colour and interaction. Your job is to translate that design into a live, responsive website that renders flawlessly on desktop, tablet and mobile.
+
+You will receive:
+• JPEGs of exactly how we want it to look
+• A brief note on any hover, scroll or micro-animation effects called out in the design
+
+What I need back from you:
+• A standards-compliant build that matches the mockup down to the pixel
+• Clean, well-commented code so future tweaks are easy
+• Deployment to my hosting once we’ve approved your staging link
+• Any instructions needed for basic content edits
+
+When you apply, please link to past work that shares a similar look and feel to my design; that is the single best way for me to judge fit.
+
+This is a video service company that will be using this website. There will probably be some minor tweaks with the actual text in various places on the site, but not the layout it self.</description></item>
+<item><title>Construction Website &amp; SEO Revamp</title><link>https://www.freelancer.com/projects/web-design/Construction-Website-SEO-Revamp</link><guid isPermaLink="false">freelancer:40787697</guid><pubDate>Mon, 26 Oct 2026 14:07:12 GMT</pubDate><description>250-750 USD | My current site, brianluedtke.com, isn’t bringing in the volume of commercial construction inquiries I need, so I’m ready for a full refresh that positions Brian Luedtke &amp; Associates Construction LLC as the go-to contractor throughout Wisconsin.
+
+Primary outcome  
+I want a steady rise in commercial construction and general contracting leads—phone calls and contact-form submissions that turn into projects.
+
+Scope of the revamp  
+• Review the existing WordPress site, clean up the design and navigation, and ensure it looks polished on every screen size.  
+• Speed matters; I expect Core Web Vitals in the green and a sub-3-second load time on mobile.  
+• Strengthen local SEO so we rank for new commercial building construction, commercial remodeling and renovations, and general contractor / project-management services. Milwaukee, Madison, the surrounding communities, and searches that include “Wisconsin” are the geographic targets.  
+• Rework or add lead-capture forms, click-to-call buttons, and clear CTAs so visitors can contact us without friction.  
+• Set up GA4, Search Console, and basic conversion tracking so I can see which pages and traffic sources generate inquiries.
+
+Deliverables  
+1. Updated, mobile-friendly website deployed to my existing host.  
+2. Local SEO foundation: on-page optimisation, metadata, schema markup for a construction company, and a brief content plan for priority keywords.  
+3. Lead-capture funnel: redesigned contact form, thank-you page, and email notifications.  
+4. Analytics &amp; reporting: GA4, Search Console, and one dashboard (Looker Studio or similar) that highlights traffic, form submissions, and calls.
+
+To confirm fit, please share links to construction, contractor, or other local-service sites you’ve improved—ideally those that now rank and convert well. A short outline of your proposed approach and timeline will help me compare options quickly.</description></item>
 <item><title>Web &amp; Mobile App Developer for Website and Platform</title><link>https://www.freelancer.com/projects/web-development/Web-Mobile-App-Developer-for</link><guid isPermaLink="false">freelancer:40787687</guid><pubDate>Mon, 26 Oct 2026 13:57:01 GMT</pubDate><description>300-500 USD | Web &amp; Mobile App Developer needed 
 
 Web &amp; Mobile App Developer for Company Website and Platform
@@ -562,44 +596,6 @@ Please answer the following questions in your proposal:
 **Project Type:** One-time setup, with potential for ongoing content management and technical support.
 
 **Budget:** Open to proposals based on experience and project scope.</description></item>
-<item><title>PHP Full-Stack Developer with Laravel – Long-Term Collaboration</title><link>https://www.freelancer.com/projects/laravel/PHP-Full-Stack-Developer-with</link><guid isPermaLink="false">freelancer:40784819</guid><pubDate>Sat, 24 Oct 2026 15:45:42 GMT</pubDate><description>750-1500 EUR | PHP Full-Stack Developer with Laravel – Long-Term Collaboration
-
-We are looking for a PHP Full-Stack Developer to help us develop and improve our ERP platform, Systalavista, over the long term. Build frontend and backend features, improve existing modules, and take tasks from requirements analysis through to tested implementation.
-
-Your Responsibilities
-• Develop and maintain ERP modules using PHP and Laravel.
-• Build user-friendly interfaces and connect them to backend logic, APIs, and databases.
-• Analyze existing functionality, identify root causes, and fix bugs.
-• Address permissions, validation, performance, and scalability.
-• Test complete user workflows and cover relevant functionality with appropriate automated tests.
-• Document your changes and communicate regularly with our team.
-
-Your Qualifications
-• Strong practical experience with PHP and Laravel.
-• Good knowledge of JavaScript, HTML, CSS, SQL, and relational databases.
-• Experience with API integrations, Git, and maintaining existing applications.
-• An independent, structured, and reliable approach to work.
-• The ability to explain technical concepts and proposed solutions clearly.
-• Experience with ERP systems and complex business processes is a plus.
-
-We are looking for a long-term collaboration. Briefly describe your Laravel experience, share relevant projects, and include your availability and hourly rate in your application.
-
-Application: Ticket Walkthrough Video
-
-Sign in at app.systalavista.com and apply for this position. Mention that you found us on Upwork so we can identify the source of your application.
-
-Then review the following tickets:
-• TCK-00441: Finance Management Module
-• TCK-00440: IFRS Accounting Module
-• TCK-00439: Existing Live Chat Module: Performance, Speed &amp; Scalability
-• TCK-00438: Scheduled Email Campaign (10,000 Emails Daily)
-• TCK-00437: Dialer Module Integration in ERP
-
-Record a screen-sharing video. For each ticket, explain your understanding of the requirements and how you would approach the solution. Show the relevant areas on your screen and explain the reasoning behind your approach. An explanation is sufficient at this stage; no implementation is required.
-
-Send the video link with a brief explanation in the Kasay chat.
-
-Based on your video, we will decide whether to invite you to the next stage of the application process.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
