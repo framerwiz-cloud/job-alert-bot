@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Bulk Pricing &amp; Emails</title><link>https://www.freelancer.com/projects/email-marketing/WooCommerce-Bulk-Pricing-Emails</link><guid isPermaLink="false">freelancer:40787130</guid><pubDate>Mon, 26 Oct 2026 07:37:34 GMT</pubDate><description>30-250 USD | I need a few time-saving tweaks on my live WooCommerce store and want them handled in one straight-forward, fixed-price sprint.
+
+Here’s what has to be done:
+
+• Bulk Pricing – configure a rule that applies a percentage discount as soon as shoppers add the required quantity to their cart.
+• Order-confirmation Email – rebuild the template so it shows our logo, brand colours, and a simple “thank you” note, nothing more.
+• Pirate Ship Automation – once a shipping label is generated, Pirate Ship must push the tracking number to WooCommerce and fire a shipping email automatically from our domain.
+• Catalogue Updates – add 2 brand-new products and introduce 2 additional variations to items already in the catalogue.
+
+Please include your single all-inclusive price and the exact turnaround time in your first reply; that will be considered final, with no haggling later.</description></item>
 <item><title>Build GoHighLevel Medicare Website</title><link>https://www.freelancer.com/projects/go-high-level/Build-GoHighLevel-Medicare-Website</link><guid isPermaLink="false">freelancer:40786844</guid><pubDate>Mon, 26 Oct 2026 04:23:59 GMT</pubDate><description>250-750 USD | TrailBlazer Benefits — Website Project Instructions
 
 I already have a Medicare lead-generation landing page at go.trailblazerbenefits.com inside my GoHighLevel account.
@@ -568,13 +578,6 @@ Can you give me a turnaround time and price.
 Are revisions and/or minor corrections included in the price.
 Can you Please provide me with 3-5 examples of Carrd websites you have built, preferably live sites.
 I’m asking for you to quote me a price and how long it will take you for this project.</description></item>
-<item><title>Automotive Website for Listings &amp; Sourcing</title><link>https://www.freelancer.com/projects/web-development/Automotive-Website-for-Listings-Sourcing</link><guid isPermaLink="false">freelancer:40784650</guid><pubDate>Sat, 24 Oct 2026 13:06:29 GMT</pubDate><description>250-750 GBP | I’m starting a digital showroom that covers cars, motorcycles, and a bespoke vehicle-sourcing service, and I need a developer who can turn that vision into a fast, modern website. Visitors must be able to browse the current stock, upload details if they want to sell to me, and submit a quick form when they’re hunting for something specific.
-
-Every listing has to present the essentials at a glance—photos, price, mileage, A clean search/filter, inventory manager I can update myself, and an easy way to highlight “Just Arrived” or “Sold” vehicles will keep the site fresh.
-
-Please build on a platform that balances flexibility with ease of use for future edits; WordPress + Elementor, Webflow, or a lightweight custom build are all fine if the final hand-off is well documented. Responsive design, SEO-friendly structure, and quick-loading image galleries are non-negotiable.
-
-When you reply, include links to past automotive or e-commerce projects, outline your direct experience with similar inventory modules, and give me a concise proposal that explains your approach, timeline, and any milestones.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
