@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Business WordPress Site Development</title><link>https://www.freelancer.com/projects/web-development/Business-WordPress-Site-Development-40788327</link><guid isPermaLink="false">freelancer:40788327</guid><pubDate>Mon, 26 Oct 2026 21:52:35 GMT</pubDate><description>30-250 USD | I’m ready to launch a polished WordPress site that presents my business and services professionally. All brand assets—logo, final copy, and high-resolution photos—are organized and waiting for you in a shared folder, so the focus can stay on smart design and clean development rather than hunting for content.
+
+Here’s what I need:
+• A modern, responsive WordPress build that showcases who we are, what we do, and why clients should choose us.  
+• Thoughtful page structure (Home, Services, About, Contact, plus any sub-pages you recommend) with intuitive navigation.  
+• Visual styling that aligns with our existing brand guidelines, using the logo, colors, and imagery I’m providing.  
+• Essential functionality such as contact forms, interactive maps, and a CMS setup that lets my team update text or images easily after hand-off.  
+• Basic on-page SEO, security hardening, and performance optimization so the site loads quickly and ranks well from day one.  
+
+Once the build is complete, a quick walkthrough or concise user guide would be great so we can manage routine edits in-house. If you prefer specific page builders or themes—Elementor, Gutenberg, Astra, or similar—let me know; I’m flexible as long as the final result is lightweight and future-proof.
+
+I’m looking for a smooth, communicative process and a site that’s launch-ready without needing extra polish rounds. Share a couple of recent WordPress projects that match this scope and a rough timeline for delivery, and we can get started right away.</description></item>
 <item><title>Create Orderance SaaS Demo Video $50</title><link>https://www.freelancer.com/projects/video-editing/Create-Orderance-SaaS-Demo-Video</link><guid isPermaLink="false">freelancer:40788212</guid><pubDate>Mon, 26 Oct 2026 19:54:41 GMT</pubDate><description>30-250 CAD | # Orderance Online Ordering Demo Video
 
 Create a professional **90 to 120-second promotional video** demonstrating our restaurant online ordering platform, Orderance.
@@ -600,17 +612,6 @@ A few days later I came to log in and the pages for dashboard not loading. The w
 My hosting found some database leftovers in the tables, which I saw are there, and have not yet been removed.
 $3/hr.
 Phone call interview required.</description></item>
-<item><title>GST-Compliant Secure POS System</title><link>https://www.freelancer.com/projects/software-development/GST-Compliant-Secure-POS-System</link><guid isPermaLink="false">freelancer:40785723</guid><pubDate>Sun, 25 Oct 2026 08:44:15 GMT</pubDate><description>250-750 AUD | I’m commissioning a ground-up build of a point-of-sale platform designed for an Australian retail shop that needs to stay fully GST compliant while remaining affordable to run. From day one the software must log staff in securely, encrypt all sensitive data, and back itself up automatically. Payments at launch have to include cash, card, digital wallets and the main buy-now-pay-later providers available in Australia. Staff will operate everything from a tablet, so the interface must be touch-first and highly responsive.
-
-To keep delivery clear I’m splitting the work into three consecutive phases:
-
-• Phase 1 delivers the core retail workflow—product catalogue, inventory tracking, sales screens and ATO-ready invoicing.  
-• Phase 2 layers in purchasing modules, supplier records, customer credit handling and a clean reporting suite.  
-• Phase 3 adds advanced analytics, true offline capability with automatic synchronisation once the connection returns, plus multi-store support.
-
-I’ll supply UI sketches, GST rules and any required API keys for payment gateways. You’ll handle architecture, coding, basic UI styling, automated test coverage and packaging for effortless deployment. All data must be protected in transit and at rest, and regular encrypted off-site backups need to run without user input. 
-
-Low ongoing cost is critical, so keep third-party fees to a minimum and flag any licensing up front. Please outline the tech stack you prefer, how you’ll tackle offline sync and what milestones you suggest for each phase. I’m ready to get started as soon as we agree on the plan.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
