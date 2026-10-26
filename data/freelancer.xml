@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Migrate AI Manus Store to Shopify</title><link>https://www.freelancer.com/projects/web-design/Migrate-Manus-Store-Shopify</link><guid isPermaLink="false">freelancer:40787750</guid><pubDate>Mon, 26 Oct 2026 14:47:32 GMT</pubDate><description>250-750 USD | I need my online store, products, and checkout setup migrated from AI Manus to Shopify. The new Shopify site should keep the main style of my current site but with improved design.
+
+Key Requirements:
+- Migrate online store, products, and checkout
+- Maintain main style with design improvements
+
+Ideal Skills and Experience:
+- Experience with both AI Manus and Shopify
+- Strong design skills for Shopify
+- E-commerce setup experience</description></item>
 <item><title>Pixel-Perfect Mockup to Website</title><link>https://www.freelancer.com/projects/web-design/Pixel-Perfect-Mockup-Website</link><guid isPermaLink="false">freelancer:40787708</guid><pubDate>Mon, 26 Oct 2026 14:10:08 GMT</pubDate><description>15-25 USD/hr | I already have a complete, signed-off mockup that shows every page, font, colour and interaction. Your job is to translate that design into a live, responsive website that renders flawlessly on desktop, tablet and mobile.
 
 You will receive:
@@ -545,57 +555,6 @@ Please note: Our website is built with WordPress. This project focuses on SEO an
 5. Affiliate integration to monetize tool listings.
 
 This project focuses on simplicity, scalability, and affordability within my $30 to $60 budget range.</description></item>
-<item><title>Community Learning App Setup </title><link>https://www.freelancer.com/projects/app-development/Community-Learning-App-Setup</link><guid isPermaLink="false">freelancer:40784868</guid><pubDate>Sat, 24 Oct 2026 16:23:38 GMT</pubDate><description>30-250 USD | Community App Setup &amp; Content Management for AppyPie.com or CreateCommunity.com DIY platforms
-
-### Project Description
-
-I am looking for an experienced freelancer to help me set up, customize, and populate a community and learning platform using either **Appy Pie** (https://www.appypie.com/) or **CreateCommunity** (https://createcommunity.com/).
-
-The goal is to build a professional, user-friendly platform where members can connect, engage with content, participate in activities, access learning resources, and purchase digital products.
-
-### Responsibilities
-
-The freelancer will be responsible for setting up and organizing the following features, depending on the capabilities of the selected platform:
-
-- **Content Sharing:** Upload, organize, and publish articles, videos, audio teachings, documents, and regular updates.
-- **Member Discussions &amp; Groups:** Set up discussion spaces, community groups, and opportunities for members to interact.
-- **Events &amp; Registration:** Create event listings, registration forms, sign-ups, announcements, and event notifications.
-- **User Accounts &amp; Profiles:** Configure member registration, login, personal profiles, and account management.
-- **Personal Member Library:** Set up a section where users can access their saved content, enrolled courses, and purchased digital products.
-- **Ebook &amp; Audiobook Shop:** Configure a digital storefront where users can browse and purchase ebooks and audiobooks, preferably with protected in-app reading and listening rather than unrestricted downloads.
-- **Courses &amp; Learning Resources:** Organize educational content into courses, lessons, modules, and learning pathways.
-- **Notifications &amp; Announcements:** Configure notifications to keep members informed about new content, events, and community activities.
-- **Membership &amp; Access Management:** Set up free and paid content access, member permissions, and appropriate restrictions.
-- **Navigation &amp; User Experience:** Organize all features into a clean, intuitive interface that works well on mobile and desktop.
-- **Testing &amp; Launch Preparation:** Test registration, content access, purchases, navigation, and other essential functions before launch.
-
-### Requirements
-
-- Experience setting up community apps, membership platforms, or online learning platforms.
-- Familiarity with Appy Pie or CreateCommunity is strongly preferred.
-- Experience integrating digital product sales, user libraries, and membership features.
-- Ability to determine which features are supported natively and which require integrations or custom solutions.
-- Strong organizational skills and attention to detail.
-- Ability to work independently and communicate progress clearly.
-
-### IMPORTANT — PLEASE READ BEFORE APPLYING
-
-I am looking for someone who **understands this concept and knows how to implement it**, not someone who will simply experiment with the platforms.
-
-Please answer the following questions in your proposal:
-
-1. Have you worked with Appy Pie or CreateCommunity before? Which platform?
-2. Have you built a similar community, membership, or learning app? Please share examples.
-3. Do you understand the features listed above, and are you confident you can implement them?
-4. Which of these features can be implemented directly on your recommended platform, and which would require third-party integrations?
-5. Can you configure an ebook and audiobook store with individual user accounts and a personal library of purchased content?
-6. What is your estimated timeline and total cost for completing the setup?
-
-**Please do not submit a generic proposal.** Explain how you would approach this project and demonstrate that you understand the technical requirements.
-
-**Project Type:** One-time setup, with potential for ongoing content management and technical support.
-
-**Budget:** Open to proposals based on experience and project scope.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
