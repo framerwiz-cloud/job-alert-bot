@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>User-Friendly Website Redesign</title><link>https://www.freelancer.com/projects/web-design/User-Friendly-Website-Redesign-40787443</link><guid isPermaLink="false">freelancer:40787443</guid><pubDate>Mon, 26 Oct 2026 11:02:34 GMT</pubDate><description>300-420 GBP | My current business site already contains all the pages, copy, and branding assets I need, but navigating it feels clunky to visitors. I want the entire interface rebuilt so customers can reach the “Request a Quote / Book Now” step with as few clicks and as little confusion as possible.  
+
+Here is what must carry over into the new build:  
+• All existing pages and their text remain intact.  
+• The logo, colour palette, and overall brand style stay exactly as they are today.  
+
+Everything else—from layout and information flow to mobile responsiveness and performance—can be re-imagined to maximise usability. A clean, modern UI, intuitive menus, faster loading times, and an obvious call-to-action funnel to the quote/booking form are the priorities.  
+
+Deliverables  
+• Fully redesigned, responsive website deployed on my current hosting.  
+• Streamlined quote/booking journey tested across desktop, tablet, and mobile.  
+• Migration of existing content and brand assets without alteration.  
+• Basic hand-over documentation so I can make simple updates myself.  
+
+I’ll provide access to the current site and brand files once we start; you handle design, development, testing, and going live. Let me know your approach and estimated timeline.</description></item>
 <item><title>WooCommerce Setup on WordPress</title><link>https://www.freelancer.com/projects/html/WooCommerce-Setup-WordPress</link><guid isPermaLink="false">freelancer:40787322</guid><pubDate>Mon, 26 Oct 2026 09:47:30 GMT</pubDate><description>20-250 GBP | I'm looking for an experienced WordPress developer to set up WooCommerce on my site. 
 
 Requirements:
@@ -589,21 +604,6 @@ Deliverables:
 • Short change-log / documentation so future updates remain straightforward
 
 If you’re comfortable jumping into an existing project and quickly shipping reliable functionality, I’d like to hear how you’d approach it and the tools or frameworks you prefer.</description></item>
-<item><title>WordPress News Site Development</title><link>https://www.freelancer.com/projects/html/WordPress-News-Site-Development</link><guid isPermaLink="false">freelancer:40784716</guid><pubDate>Sat, 24 Oct 2026 14:06:19 GMT</pubDate><description>5000-10000 USD | I'm looking for an experienced WordPress developer to create a website dedicated to sharing business and industry updates. 
-
-Key Requirements:
-- The site should be visually appealing and easy to navigate.
-- Must have a robust content management system for regular article updates.
-- Ability to categorize and tag articles for better searchability.
-- Mobile responsive design is essential.
-
-Ideal Skills and Experience:
-- Proficiency in WordPress with a strong portfolio.
-- Experience in developing news or blog sites.
-- Knowledge of SEO best practices to enhance visibility.
-- Strong design skills to create an engaging user interface.
-
-Please include past work related to news or article-sharing websites in your application.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
