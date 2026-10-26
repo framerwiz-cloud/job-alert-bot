@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Soul Entanglement Band Website Build</title><link>https://www.freelancer.com/projects/web-development/Soul-Entanglement-Band-Website-Build</link><guid isPermaLink="false">freelancer:40788347</guid><pubDate>Mon, 26 Oct 2026 22:08:46 GMT</pubDate><description>250-750 USD | I want a clean, responsive website that showcases our band, Soul Entanglement, and above all, makes it effortless for venues and promoters to book us. The core build will include a welcoming Home page, a Merch page featuring product photos that link directly to purchase options, a Music page with our tracks and links to the major streaming platforms, and a Schedule page where we can update upcoming shows.
+
+Bookings are the priority. I need a dedicated form that, once submitted, sends a copy to both our band email and a designated mobile number via text. The form must capture:
+
+• Name  
+• Phone number  
+• Event type  
+• Location  
+• Event date  
+• Expected crowd size  
+• Performance needs  
+• Email (optional field)
+
+Deliverables  
+• Home, Merch, Music, and Schedule pages fully styled and mobile-friendly  
+• Booking form configured with the fields above, email + SMS alerts working on submit  
+• Simple back-end or CMS access so we can update merch items, show dates, and embedded music links ourselves
+
+If additional sections (blog, photo gallery, mailing-list signup, etc.) fit smoothly, I’m happy to discuss them before we begin. Let’s talk through your preferred stack—WordPress, Webflow, Shopify integration, or a custom build—so we can lock in the best approach and timeline.</description></item>
 <item><title>Business WordPress Site Development</title><link>https://www.freelancer.com/projects/web-development/Business-WordPress-Site-Development-40788327</link><guid isPermaLink="false">freelancer:40788327</guid><pubDate>Mon, 26 Oct 2026 21:52:35 GMT</pubDate><description>30-250 USD | I’m ready to launch a polished WordPress site that presents my business and services professionally. All brand assets—logo, final copy, and high-resolution photos—are organized and waiting for you in a shared folder, so the focus can stay on smart design and clean development rather than hunting for content.
 
 Here’s what I need:
@@ -586,23 +605,6 @@ Deliverables
 Once those pieces are in place, I’ll populate the rest of the content myself and take it from there.
 
 Thank you!!</description></item>
-<item><title>Fitness Course E-Commerce Website</title><link>https://www.freelancer.com/projects/woocommerce/Fitness-Course-Commerce-Website</link><guid isPermaLink="false">freelancer:40786022</guid><pubDate>Sun, 25 Oct 2026 13:16:24 GMT</pubDate><description>250-750 USD | I’m ready to launch an evergreen fitness &amp; wellness course and need the entire web experience built—from first opt-in through final checkout. Visitors should be able to:  
-
-• download a free guide or quiz in exchange for their email,  
-• purchase the full course directly online, and  
-• book a coaching or consultation call if they want deeper support.  
-
-Once someone buys, they must receive instant, full access to every lesson inside the course area.  
-
-I already have the content; what I’m missing is the technical backbone that blends high-converting funnel pages, a secure e-commerce checkout, automated email sequences for the lead magnet, and a simple calendaring tool for call bookings. I’m flexible on platform—WordPress with WooCommerce, Kajabi, or a comparable stack—as long as it’s reliable and easy for me to update later.  
-
-Please outline how you would:  
-1. Structure the funnel from lead magnet opt-in to course sale.  
-2. Configure payment processing and course delivery for immediate access.  
-3. Integrate a booking system that syncs with my calendar.  
-4. Ensure the site is mobile-responsive, fast, and branded to match my fitness aesthetic.  
-
-If you’ve built similar membership or wellness sites, include a couple of live links so I can see your work in action.</description></item>
 <item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
 This happened after I did a few things:
 Updated Updraft plugin due to security advice from hosting,
