@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clone Current Site</title><link>https://www.freelancer.com/projects/wordpress/Clone-Current-Site</link><guid isPermaLink="false">freelancer:40788375</guid><pubDate>Mon, 26 Oct 2026 22:37:06 GMT</pubDate><description>250-750 AUD | Hey 
+
+I'm looking for someone to clone our current site. https://hinterlandhouse.com.au/
+
+The developers have locked us out, and we're unable to move it. 
+
+Can you please provide a price on cloning it in WordPress. Keeping the links/site/etc the same so we don't lose SEO.</description></item>
 <item><title>Fix an existing WordPress website</title><link>https://www.freelancer.com/projects/wordpress/Fix-existing-WordPress-website-40788353</link><guid isPermaLink="false">freelancer:40788353</guid><pubDate>Mon, 26 Oct 2026 22:19:17 GMT</pubDate><description>30-250 CAD | I have a WordPress website that needs 17 fixes
 My budget is CAD$200 
 
@@ -568,23 +575,6 @@ Ideal Skills and Experience:
 - Experience with donation and volunteer sign-up platforms.
 
 Please provide examples of similar work and a timeline for project completion.</description></item>
-<item><title>Website &amp; App Service Booking</title><link>https://www.freelancer.com/projects/web-development/Website-App-Service-Booking</link><guid isPermaLink="false">freelancer:40786144</guid><pubDate>Sun, 25 Oct 2026 14:55:34 GMT</pubDate><description>30-250 USD | I’m purchasing a ready-made platform and need it turned into a clean, intuitive website with a companion mobile app. The core task is to let visitors buy or book services directly from their phone or browser. When a customer books, they must be able to pick the exact service they want along with an available date and time; the system should confirm the slot instantly and update availability in real time.
-
-I already have the platform licence lined up, so your job focuses on front-end build, integration, and making everything feel effortless on both desktop and mobile. If you prefer React, Flutter, Swift/Kotlin, or a solid no-code stack, let me know—what matters most is a smooth, user-friendly flow.
-
-Deliverables
-• Responsive website fully connected to the booking engine  
-• iOS and Android apps published to their stores  
-• Admin access for me to update services, prices, and time slots  
-• Email/SMS confirmations and calendar sync for users  
-• Short hand-over guide so I can manage basics without coming back to you each time  
-
-Acceptance criteria
-• A new user can land on the site/app, choose a service, see real-time availability, and complete a booking in under two minutes.  
-• All bookings instantly reflect in the admin dashboard and block out that slot for others.  
-• Apps pass App Store and Google Play review on first submission.  
-
-If this sounds like your kind of build, send a brief outline of your approach, timeline, and the tech stack you recommend so we can get started.</description></item>
 <item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
 This happened after I did a few things:
 Updated Updraft plugin due to security advice from hosting,
