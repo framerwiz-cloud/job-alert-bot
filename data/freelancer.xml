@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>GoHighLevel Automation Expert Needed</title><link>https://www.freelancer.com/projects/ai-chatbot/GoHighLevel-Automation-Expert-Needed</link><guid isPermaLink="false">freelancer:40787638</guid><pubDate>Mon, 26 Oct 2026 13:23:59 GMT</pubDate><description>1500-3000 USD | To be considered, you must submit a 2–3 minute Loom presentation demonstrating your ability to market our services to prospective clients.
+
+Please review the attached sample presentation and create a similar presentation using a realistic business example. Use a natural-sounding AI voice to professionally explain our services, including:
+
+Website design and development
+
+Lead generation
+
+Reputation management and review generation
+
+AI chatbots and automated follow-ups
+
+Email and SMS marketing
+
+Appointment booking and reminders
+
+CRM and sales pipeline automation
+
+Your presentation should be professional, engaging, personalized to the business, and focused on showing how our services can help the business attract more customers and grow revenue.
+
+Important: Submitting the Loom presentation is mandatory. Applications without a completed presentation will not be considered. Qualified applicants may be invited to a meeting after we review your submission.</description></item>
 <item><title>User-Friendly Website Redesign</title><link>https://www.freelancer.com/projects/web-design/User-Friendly-Website-Redesign-40787443</link><guid isPermaLink="false">freelancer:40787443</guid><pubDate>Mon, 26 Oct 2026 11:02:34 GMT</pubDate><description>300-420 GBP | My current business site already contains all the pages, copy, and branding assets I need, but navigating it feels clunky to visitors. I want the entire interface rebuilt so customers can reach the “Request a Quote / Book Now” step with as few clicks and as little confusion as possible.  
 
 Here is what must carry over into the new build:  
@@ -594,16 +615,6 @@ To Apply
 • Share 1 or 2 WordPress sites you built, ideally with accessibility work
 • Tell me which theme and plugins you'd use
 • Confirm you can hit the November 20 launch</description></item>
-<item><title>Enhance Website Functionality</title><link>https://www.freelancer.com/projects/web-development/Enhance-Website-Functionality-40784720</link><guid isPermaLink="false">freelancer:40784720</guid><pubDate>Sat, 24 Oct 2026 14:11:44 GMT</pubDate><description>30-250 CAD | I’m looking to refine the feature set on my existing website so it works harder for both visitors and for me behind the scenes. The design, layout, images, and copy are all staying as-is; what I need is targeted development that adds or improves the site’s core functions.
-
-You’ll begin by reviewing the current codebase, pinpointing bottlenecks, and suggesting practical upgrades. Once we agree on the improvements, you’ll implement, test, and deploy them without disrupting live traffic. Clean, well-commented code and a brief hand-over note explaining where things changed will complete the job.
-
-Deliverables:  
-• Updated source code with fully working new or improved functions  
-• Staging link or demo for review before go-live  
-• Short change-log / documentation so future updates remain straightforward
-
-If you’re comfortable jumping into an existing project and quickly shipping reliable functionality, I’d like to hear how you’d approach it and the tools or frameworks you prefer.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
