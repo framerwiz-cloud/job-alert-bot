@@ -3,6 +3,43 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Creative Responsive Web Designer Needed</title><link>https://www.freelancer.com/projects/web-design/Creative-Responsive-Web-Designer-Needed</link><guid isPermaLink="false">freelancer:40788145</guid><pubDate>Mon, 26 Oct 2026 19:07:51 GMT</pubDate><description>250-750 USD | About the Role
+
+We’re looking for a creative, detail-oriented Web Designer to create attractive, user-friendly websites. You’ll turn ideas and business goals into clear designs that work well across desktop, tablet, and mobile devices.
+
+Responsibilities
+
+Design website layouts, landing pages, and user interfaces.
+
+Create wireframes, mockups, and interactive prototypes.
+
+Develop responsive designs that reflect our brand.
+
+Follow accessibility and usability best practices.
+
+Collaborate with developers and content creators to bring designs to life.
+
+Update existing designs based on feedback and user needs.
+
+Requirements
+
+A portfolio showcasing website design work.
+
+Experience with Figma, Adobe XD, or similar design tools.
+
+Strong understanding of typography, color, layout, and visual hierarchy.
+
+Knowledge of responsive design and user experience principles.
+
+Good communication, attention to detail, and time-management skills.
+
+Nice to Have
+
+Basic knowledge of HTML and CSS.
+
+Experience with WordPress, Webflow, Shopify, or similar platforms.
+
+Familiarity with website performance and SEO fundamentals.</description></item>
 <item><title>Long-Term Full-Stack Developer Partner</title><link>https://www.freelancer.com/projects/full-stack-development/Long-Term-Full-Stack-Developer-40788114</link><guid isPermaLink="false">freelancer:40788114</guid><pubDate>Mon, 26 Oct 2026 18:53:34 GMT</pubDate><description>15-25 USD/hr | Looking for a Reliable Developer to Work With Me Long-Term
 
 Project Overview
@@ -571,31 +608,6 @@ Deliverables for each deck:
 • All assets (audio files, question bank entries) organized clearly inside the course so they are easy for me to update later.  
 
 I’ll provide the PPT files and course access right away. Let me know your timeframe for converting the first lesson; if all looks good, the remaining decks will follow the same workflow.</description></item>
-<item><title>Wix Rental Site With OwnerRez</title><link>https://www.freelancer.com/projects/wix/Wix-Rental-Site-With-OwnerRez</link><guid isPermaLink="false">freelancer:40785264</guid><pubDate>Sat, 24 Oct 2026 23:45:59 GMT</pubDate><description>250-750 USD | I’ve already secured my domain on Wix and started a draft, but I’d like a polished, fully functional short-term rental website built from the ground up. The core requirement is to keep everything inside the Wix ecosystem while embedding OwnerRez so guests can complete their reservation without ever leaving my site.
-
-Here’s how I picture the flow:
-• Visitors land on an inviting Home page featuring the property’s best photos, quick highlights, guest reviews, and an always-visible “Book Now” button.  
-• Clicking that button should open the OwnerRez booking widget directly within the Wix page, not a separate tab.  
-• A dedicated Photo Gallery packed with high-resolution images lets guests explore every room and outdoor space.  
-• An Area Guide page introduces the neighborhood, local attractions, and insider tips to help visitors imagine their stay.  
-• A clear House Rules page spells out check-in times, pet policies, and other must-knows.  
-• A standalone Booking page can echo the embedded OwnerRez form for those who prefer navigating by menu.  
-• A simple Contact page rounds out the site so guests can reach me with special questions.
-
-I’ll supply all copy, photos, and the OwnerRez embed code. You’ll handle:
-1. Designing each page in Wix for consistent style and fast load times.  
-2. Integrating the OwnerRez widget so it displays seamlessly on both desktop and mobile.  
-3. Optimizing image galleries and arranging content sections for easy scanning and SEO-friendly structure.  
-4. Setting up basic Wix SEO fields (titles, meta descriptions, alt text) so the site is ready to rank.  
-5. Providing a quick walkthrough or short Loom video showing how I can update text, swap photos, or adjust availability later.
-
-Acceptance criteria:
-• OwnerRez interface loads and processes a test booking directly on the Wix site.  
-• All menu links, gallery images, and internal anchors work flawlessly on mobile and desktop.  
-• Site publishes to my existing Wix domain with SSL active.  
-• Hand-off includes clear edit instructions.
-
-If you’ve tackled Wix + OwnerRez before, I’d love to see an example. Let’s get this live and taking bookings soon!</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
