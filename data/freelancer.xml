@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Site Redesign for Driving School</title><link>https://www.freelancer.com/projects/website-design/WordPress-Site-Redesign-for-Driving</link><guid isPermaLink="false">freelancer:40787833</guid><pubDate>Mon, 26 Oct 2026 15:25:21 GMT</pubDate><description>250-750 GBP | I'm looking for a skilled WordPress developer to redesign my well-established but outdated UK driving school's website. The primary goal of this project is to make it easier for our current pupils to find information. Improve visibility to ChatGPT, Claude and other established AI platforms, maximise local search engine optimisation.
+
+Key Requirements:
+- Modern, trustworthy appearance
+- User-friendly navigation
+- Easy access to instructor contact details and lesson policies
+
+
+
+Ideal Skills and Experience:
+- Proficiency in WordPress
+- Strong design skills
+- Experience with educational or service-based websites
+- Ability to create detailed project proposals
+
+Please include detailed project proposals in your application.</description></item>
 <item><title>Migrate AI Manus Store to Shopify</title><link>https://www.freelancer.com/projects/web-design/Migrate-Manus-Store-Shopify</link><guid isPermaLink="false">freelancer:40787750</guid><pubDate>Mon, 26 Oct 2026 14:47:32 GMT</pubDate><description>250-750 USD | I need my online store, products, and checkout setup migrated from AI Manus to Shopify. The new Shopify site should keep the main style of my current site but with improved design.
 
 Key Requirements:
@@ -547,14 +563,6 @@ Please submit relevant SEO case studies, examples of measurable AI search work, 
 We’re looking for transparent reporting and reliable long-term cooperation.
 
 Please note: Our website is built with WordPress. This project focuses on SEO and AI search visibility, not a website redesign. Please provide your proposed pricing structure and measurable milestones before we agree on a final budget.</description></item>
-<item><title>Scalable WordPress Affiliate Marketing Site with Pre-Researched AI Tools</title><link>https://www.freelancer.com/projects/php/Tools-Directory-WordPress-Site</link><guid isPermaLink="false">freelancer:40781765</guid><pubDate>Sat, 24 Oct 2026 17:17:03 GMT</pubDate><description>30-250 USD | I need a scalable, no-code WordPress website for affiliate marketing on my premium domain, MXLIST.COM. The site will include:
-1. A clean, fast-loading homepage showcasing AI tools and work tools.
-2. Key AI and productivity tools researched and listed by the freelancer as per my provided brief.
-3. A directory structure to organize tools for easy browsing.
-4. Easy-to-update features without requiring coding knowledge.
-5. Affiliate integration to monetize tool listings.
-
-This project focuses on simplicity, scalability, and affordability within my $30 to $60 budget range.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
