@@ -3,6 +3,50 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>e-commerce website bug fixes and technical improvements</title><link>https://www.freelancer.com/projects/web-development/commerce-website-bug-fixes-technical</link><guid isPermaLink="false">freelancer:40788101</guid><pubDate>Mon, 26 Oct 2026 18:30:27 GMT</pubDate><description>250-750 USD | i am looking for an experienced web developer to identify and fix errors on my existing live e-commerce website. the online shop is currently operational, and i need someone who can troubleshoot technical issues, resolve bugs, and ensure the website runs smoothly without disrupting existing functionality.
+
+scope of work
+
+- identify and fix existing errors, broken features, and unexpected behavior across the website.
+- ensure that product pages, shopping cart, checkout, user accounts, and other essential features work correctly.
+- investigate and fix issues affecting payment integration, order placement, or order confirmation, if applicable.
+- correct display and usability issues on desktop, tablet, and mobile devices.
+- identify performance problems and improve website speed where necessary.
+- investigate browser console errors, server-side issues, and other technical problems.
+- test all implemented fixes to ensure the affected features work as expected.
+
+requirements
+
+- proven experience developing and troubleshooting e-commerce websites.
+- strong debugging and problem-solving skills.
+- familiarity with the website's existing technology stack.
+- ability to work with existing code without unnecessarily rebuilding the website.
+- clear communication and regular progress updates.
+- ability to work carefully on a live website without causing unnecessary downtime or data loss.
+
+important considerations
+
+since the website is already live, i need someone who can work carefully and professionally. the developer should review the existing issues before making changes, create a backup or use a staging environment where practical, and avoid disrupting active customers, orders, or payment processing.
+
+deliverables
+
+- a list of identified issues and proposed solutions.
+- all agreed-upon bugs fixed and verified.
+- testing of affected website features.
+- a brief summary of the changes made.
+- recommendations for preventing similar issues in the future.
+
+to apply
+
+please include the following in your proposal:
+
+1. your experience fixing bugs on existing e-commerce websites.
+2. examples of similar projects you have completed.
+3. your approach to diagnosing and resolving website errors.
+4. your estimated timeline and budget.
+5. any information you need from me to begin.
+
+i am looking for a reliable developer who can resolve the existing issues efficiently and help ensure that my online shop remains stable, secure, and fully functional.</description></item>
 <item><title>Squarespace Construction Site Completion</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Construction-Site-Completion</link><guid isPermaLink="false">freelancer:40788054</guid><pubDate>Mon, 26 Oct 2026 17:55:38 GMT</pubDate><description>250-750 USD | I’ve already opened a Squarespace account, chosen a template, and sketched out exactly how each page should look. What I no longer have is the time to finish turning those notes into a polished, live site.  
 
 Your main task is straightforward: use my design breakdown, page-by-page, and build the full layout inside Squarespace. All imagery—for custom homes, remodels, and the commercial projects we tackle—will be in a shared folder and ready for you to drop in. I’ll also supply any copy that isn’t already in the draft pages, so you can focus on structure, spacing, gallery blocks, navigation, and keeping every section consistent with our brand colours and fonts.  
@@ -490,15 +534,6 @@ Acceptance criteria:
 • Hand-off includes clear edit instructions.
 
 If you’ve tackled Wix + OwnerRez before, I’d love to see an example. Let’s get this live and taking bookings soon!</description></item>
-<item><title>SEO Blogs from 30 YouTube Videos</title><link>https://www.freelancer.com/projects/blog-writing/SEO-Blogs-from-YouTube-Videos</link><guid isPermaLink="false">freelancer:40785216</guid><pubDate>Sat, 24 Oct 2026 22:07:56 GMT</pubDate><description>30-250 AUD | I have a YouTube channel with roughly thirty videos that now need a proper home on my WordPress site. For each video I want a dedicated post that does three things:
-
-• embeds the video close to the top of the page  
-• opens with a short, lively summary that hooks the visitor and makes them hit play  
-• uses original, keyword-smart copy so Google can actually find us
-
-No transcripts or pre-written notes are available—I’m relying on you to watch each video, pull out the key points, and craft a fresh, SEO-friendly article (250–400 words is usually enough when the copy is tight). Headlines, meta description, focus keyphrase, and a handful of internal links should all be in place before you hit publish.
-
-The WordPress site is ready with Gutenberg and Yoast installed. Just pick the right category and tags, upload a thumbnail if the embed doesn’t grab one automatically, set a clean URL slug, and  directly publish—one post per video, thirty in total.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
