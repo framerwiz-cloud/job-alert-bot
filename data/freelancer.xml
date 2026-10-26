@@ -55,20 +55,6 @@ Deliverables
 • Roadmap and estimate for the later refresh
 
 Strong WordPress troubleshooting skills, clean code practices, quick turn-around, and clear English communication are must-haves. Please share similar repair-and-migration projects you’ve completed and your estimated timeline for the initial phase.</description></item>
-<item><title>WordPress Website Migration, MySQL-to-PostgreSQL Conversion &amp; Reservation System</title><link>https://www.freelancer.com/projects/postgresql/WordPress-Website-Migration-MySQL</link><guid isPermaLink="false">freelancer:40787839</guid><pubDate>Mon, 26 Oct 2026 15:30:09 GMT</pubDate><description>30-250 USD | I am looking for an experienced freelancer to migrate my existing PHP-based WordPress website to a new Linux VPS while ensuring data integrity, security, and minimal downtime.
-Project Requirements:
-Migrate the complete WordPress website, including files, database, media, plugins, and configurations.
-Set up and configure the new Linux VPS environment.
-Convert the existing MySQL database to PostgreSQL while preserving all data and relationships.
-Resolve WordPress, plugin, and application compatibility issues arising from the database conversion.
-Develop a simple, responsive reservation system using React or Next.js, including booking functionality and basic administration.
-Perform comprehensive testing, configure SSL, verify backups, and ensure a smooth production launch.
-Provide technical documentation and deployment instructions.
-Required Skills:
-WordPress, PHP, Linux VPS, MySQL, PostgreSQL, React/Next.js, API development, server administration, and database migration.
-Important: The website is live, so data integrity, security, and a reliable rollback plan are essential.
-Please include your proposed approach, estimated timeline, budget, and relevant experience with similar projects in your proposal.
-Best regards.</description></item>
 <item><title>WordPress Site Redesign for Driving School</title><link>https://www.freelancer.com/projects/website-design/WordPress-Site-Redesign-for-Driving</link><guid isPermaLink="false">freelancer:40787833</guid><pubDate>Mon, 26 Oct 2026 15:25:21 GMT</pubDate><description>250-750 GBP | I'm looking for a skilled WordPress developer to redesign my well-established but outdated UK driving school's website. The primary goal of this project is to make it easier for our current pupils to find information. Improve visibility to ChatGPT, Claude and other established AI platforms, maximise local search engine optimisation.
 
 Key Requirements:
@@ -495,6 +481,12 @@ Ideal skills and experience:
 - Creativity in designing engaging challenges and events
 
 Please provide examples of similar work done.</description></item>
+<item><title>Enhance Mobile Website for "25 Years Under the Rising Sun" Author Series</title><link>https://www.freelancer.com/projects/css/Enhance-Mobile-Website-for-Years</link><guid isPermaLink="false">freelancer:40784951</guid><pubDate>Sat, 24 Oct 2026 21:30:14 GMT</pubDate><description>75-150 CAD | I’ve built an author website in Canva to showcase my eight-book series, "25 Years Under the Rising Sun," based on my 25 years in Japan. While much of the work is done, I need help improving its mobile responsiveness, layout, and navigation to make it more polished and professional. Key tasks include:
+- Optimizing the website for mobile devices.
+- Enhancing the layout and navigation for a seamless user experience.
+- Verifying that all Amazon links work correctly.
+
+The goal is to create an engaging site that excites readers and encourages them to explore my books.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
