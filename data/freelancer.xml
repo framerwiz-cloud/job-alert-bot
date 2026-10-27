@@ -669,15 +669,6 @@ Deliverables
 • Final deployment on my hosting plus a short admin walk-through so I can manage products and orders myself  
 
 If you normally work in WordPress + WooCommerce, Shopify, or another modern e-commerce stack, let me know which you prefer and why; I’m open as long as it delivers the identical experience and easy self-management afterward.</description></item>
-<item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
-This happened after I did a few things:
-Updated Updraft plugin due to security advice from hosting,
-Deleted a couple plugins as per advice and one I did not recognize,
-Changing main password for WP.
-A few days later I came to log in and the pages for dashboard not loading. The website shows and loads fine.
-My hosting found some database leftovers in the tables, which I saw are there, and have not yet been removed.
-$3/hr.
-Phone call interview required.</description></item>
 <item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
 
 Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
