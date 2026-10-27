@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Visitor Q&amp;A Submission Module</title><link>https://www.freelancer.com/projects/laravel/Visitor-Submission-Module</link><guid isPermaLink="false">freelancer:40788722</guid><pubDate>Tue, 27 Oct 2026 04:02:23 GMT</pubDate><description>250-750 AUD | I need a clean, self-contained question-submission feature added to my website. Visitors will see a simple form where they can type their question and hit “Send.” Nothing should appear publicly until I approve it in an admin view; once I click “Approve,” the question (and its answer, once I add it) should publish automatically in the site’s public Q&amp;A area.
+
+Key goals  
+• Front-end form that works on desktop and mobile  
+• Moderation dashboard where I can read, approve, edit, or delete each submission  
+• Public Q&amp;A page or section that lists the approved questions in reverse-chronological order (newest first) with space for my answers beneath each one  
+
+Please keep the workflow lightweight: no user login required for the visitor, a straightforward approval toggle for me, and code that is easy for another developer to maintain later (clear comments and sensible file structure). Whether you prefer PHP, WordPress plugin development, Laravel, or a small React component backed by a simple API, I’m open to the stack you’re most comfortable with—just outline your plan up front.  
+
+Once built, hand over the source files, brief setup instructions, and any database changes. I’ll test by submitting sample questions and confirming they remain hidden until I approve them.</description></item>
 <item><title>WordPress Arabic Language Integration</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Arabic-Language-Integration</link><guid isPermaLink="false">freelancer:40788716</guid><pubDate>Tue, 27 Oct 2026 03:57:36 GMT</pubDate><description>250-750 USD | I need my existing English WooCommerce site to run flawlessly in Arabic without touching the current design. All Arabic copy is ready to upload; your job is strictly technical implementation and quality assurance.
 
 Here’s the setup I’m after:
@@ -645,18 +655,6 @@ Deliverables I’m looking for:
 4. Weekly summary of membership interactions and thank-you messages sent.
 
 If that matches your skill set, tell me which role(s) you’re targeting and how soon you can start.</description></item>
-<item><title>ASAP Branded Wix Website Build</title><link>https://www.freelancer.com/projects/wix/ASAP-Branded-Wix-Website-Build</link><guid isPermaLink="false">freelancer:40786572</guid><pubDate>Sun, 25 Oct 2026 23:32:21 GMT</pubDate><description>30-250 AUD | I have a complete style guide, licensed imagery and several reference sites ready to go—I now need a Wix specialist who can translate all of that into a polished, responsive website that feels unmistakably on-brand. From first click the visitor should know who we are, glide through clear navigation and, most importantly, feel compelled to send an enquiry.  
-
-Here is what I need you to deliver:  
-• Pixel-perfect layouts that hold their own on desktop, tablet and mobile.  
-• Faithful use of the supplied colours, typography, iconography and photos.  
-• A structured Wix CMS so my team can add, edit and organise content without touching code.  
-• All agreed pages live, with an enquiry form wired up and tested.  
-• Basic on-page SEO, image compression and WCAG-minded accessibility tweaks baked in.  
-• Cross-browser and cross-device testing prior to launch.  
-• A short recorded or written hand-over showing how to update both the site and the CMS.
-
-Final page count, any extra integrations and app installs can be locked down together before development begins. I’m aiming for an ASAP turnaround, so availability to start right away is important. If you’ve shipped similar Wix projects before and can meet this timeline, I’d love to hear how you would approach it.</description></item>
 <item><title>Clone Peptide Shop Website</title><link>https://www.freelancer.com/projects/wordpress/Clone-Peptide-Shop-Website</link><guid isPermaLink="false">freelancer:40786549</guid><pubDate>Sun, 25 Oct 2026 23:11:18 GMT</pubDate><description>15-25 AUD/hr | I need an e-commerce site that mirrors every page and feature of https://australianpeptidelabs.com.au/ while swapping the blue palette for a fresh green and re-branding all instances to “Australian Peptide Co.” From the public storefront through to the customer account area, blog, shipping calculator and discount code functions, everything visible (and under the hood) on the reference site should be replicated.
 
 I’ll supply the full catalogue—product names, descriptions, images and pricing—so you can focus on design, build and configuration. Customers must be able to complete their purchase with standard credit or debit cards, so please connect a reliable card gateway (Stripe or a comparable option you recommend).  
