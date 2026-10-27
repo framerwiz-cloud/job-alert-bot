@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Arabic Language Integration</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Arabic-Language-Integration</link><guid isPermaLink="false">freelancer:40788716</guid><pubDate>Tue, 27 Oct 2026 03:57:36 GMT</pubDate><description>250-750 USD | I need my existing English WooCommerce site to run flawlessly in Arabic without touching the current design. All Arabic copy is ready to upload; your job is strictly technical implementation and quality assurance.
+
+Here’s the setup I’m after:
+• Use whatever multilingual plugin you feel is best—WPML, Polylang, or another solid option—so long as it stays well-supported and future-proof.  
+• Serve the Arabic version from a language folder ( website.com/ar ).  
+• Duplicate every English page in Arabic and apply proper RTL styling, spacing, and typography.  
+• Extend localisation to all WooCommerce elements: product pages, cart, checkout, customer emails, and any dynamic messages.  
+• Mirror menus, buttons, footers, header widgets, and forms in Arabic.  
+• Add a visible Arabic ↔ English switcher on both desktop and mobile.  
+• Keep responsiveness identical across breakpoints.  
+• Run end-to-end testing: links, forms, checkout flow, email triggers, and overall UX before hand-off.
+
+Deliverables will be approved when:
+1. Every page/product loads in Arabic at /​ar with correct RTL layout.  
+2. Language switcher toggles seamlessly between English and Arabic without URL or cart issues.  
+3. WooCommerce emails reach the inbox in Arabic where appropriate.  
+4. No console errors or style breakages appear on major browsers and devices.
+
+If this is clear, let me know which plugin you plan to use and your estimated timeline for completion.</description></item>
 <item><title>Add Catering Pages to Restaurant Site</title><link>https://www.freelancer.com/projects/web-development/Add-Catering-Pages-Restaurant-Site</link><guid isPermaLink="false">freelancer:40788670</guid><pubDate>Tue, 27 Oct 2026 03:14:27 GMT</pubDate><description>25-50 USD/hr | I need a web developer who can step into our cPanel-hosted restaurant site (I already have full file access ready for you) and add two new, fully responsive pages: “Catering” and “Private Dining &amp; Banquets.” Both pages should look and feel just like the rest of our website—same typography, colors, and layout rhythm—so guests experience a seamless transition while browsing.
 
 Your core tasks  
@@ -650,18 +669,6 @@ Deliverables
 • Final deployment on my hosting plus a short admin walk-through so I can manage products and orders myself  
 
 If you normally work in WordPress + WooCommerce, Shopify, or another modern e-commerce stack, let me know which you prefer and why; I’m open as long as it delivers the identical experience and easy self-management afterward.</description></item>
-<item><title>Squarespace Design Refresh Needed</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Design-Refresh-Needed</link><guid isPermaLink="false">freelancer:40786529</guid><pubDate>Sun, 25 Oct 2026 22:48:03 GMT</pubDate><description>750-1500 USD | My Squarespace site for my therapy business is live, but the look and feel still miss the mark. I want it to lean darker and slightly moody, with touches of greenery and a bit of “magic” in the visual details while retaining a clean, modern structure.  
-
-The first goal is aesthetic: richer tones, refined typography, and imagery that conveys that atmosphere. At the same time, every change should guide visitors toward one primary action—filling in the contact form—so the page hierarchy, calls-to-action, and mobile layout must all support that journey naturally.  
-
-I’m happy for you to work inside Squarespace’s built-in editor, and if light custom CSS or micro-animations will elevate the experience, feel free. Just keep the site easy for me to update afterward.  
-
-Deliverables  
-• Revamped styling or template tweaks that achieve the dark, plant-infused, magical aesthetic  
-• Prominent, intuitive contact-form CTA on all key pages, fully responsive and tested  
-• Short hand-off video or live walkthrough so I can maintain the design on my own  
-
-The content stays; you refine the visuals and polish the user experience. If you have examples of mood-driven Squarespace builds, send them over—I’m ready to move forward.</description></item>
 <item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
 This happened after I did a few things:
 Updated Updraft plugin due to security advice from hosting,
