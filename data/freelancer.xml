@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Community Partnership Updates Website Build</title><link>https://www.freelancer.com/projects/web-development/Community-Partnership-Updates-Website</link><guid isPermaLink="false">freelancer:40789291</guid><pubDate>Tue, 27 Oct 2026 10:29:38 GMT</pubDate><description>1500-3000 GBP | I need a clean, easy-to-manage website that will act as the central hub for our community-focused partnership. The single goal is to keep members, community, and supporters in the loop by regularly posting updates, listing upcoming events, and offering resources.
+
+Core needs
+•  A straightforward content management system—Wix, WordPress, Squarespace, or any similarly intuitive platform—so non-technical volunteers can update information, add posts, events, photos, and PDFs without relying on a developer.  
+•  A resources section where PDFs, guides, and external links can be grouped logically and searched.  
+a members only login section 
+•  Responsive design that looks equally good on mobiles, tablets, and desktops.  
+•  Basic accessibility best practices (alt text, proper heading structure, legible colour contrast).  
+
+Please keep the build lightweight; I would rather have a fast, stable site than an overloaded theme.
+
+Acceptance criteria
+1. All listed sections function as described on the live domain.  
+2. I can log in, create a new event, attach a resource, and publish an update without touching code.  
+3. Pages load in under three seconds on a standard mobile connection.  
+
+When you reply, focus on experience building similar community or nonprofit sites and briefly outline the approach you would take to hit the above criteria.</description></item>
 <item><title>Full Digital Presence Overhaul</title><link>https://www.freelancer.com/projects/web-development/Full-Digital-Presence-Overhaul</link><guid isPermaLink="false">freelancer:40788948</guid><pubDate>Tue, 27 Oct 2026 06:27:25 GMT</pubDate><description>250-750 USD | I’m looking for one partner who can tackle every stage of a complete online reset and relaunch for my company, Malu Tiny Homes.
 
 Phase 1 – Retire the old assets  
@@ -642,16 +659,6 @@ Before hand-off I’ll need a quick walkthrough or short guide that shows how to
 
 The store is considered complete once a test order flows from checkout through payment, confirmation email and generated tracking number without errors.</description></item>
 <item><title>Wix Business Site Build</title><link>https://www.freelancer.com/projects/automation/Wix-Business-Site-Build</link><guid isPermaLink="false">freelancer:40787272</guid><pubDate>Mon, 26 Oct 2026 09:12:21 GMT</pubDate><description>15-25 AUD/hr | I have a developed Wix site which requires a WIX expert to rework the product sales options and cart, automating the sales experience. Small upfront project, with ongoing support required.</description></item>
-<item><title>WooCommerce Bulk Pricing &amp; Emails</title><link>https://www.freelancer.com/projects/email-marketing/WooCommerce-Bulk-Pricing-Emails</link><guid isPermaLink="false">freelancer:40787130</guid><pubDate>Mon, 26 Oct 2026 07:37:34 GMT</pubDate><description>30-250 USD | I need a few time-saving tweaks on my live WooCommerce store and want them handled in one straight-forward, fixed-price sprint.
-
-Here’s what has to be done:
-
-• Bulk Pricing – configure a rule that applies a percentage discount as soon as shoppers add the required quantity to their cart.
-• Order-confirmation Email – rebuild the template so it shows our logo, brand colours, and a simple “thank you” note, nothing more.
-• Pirate Ship Automation – once a shipping label is generated, Pirate Ship must push the tracking number to WooCommerce and fire a shipping email automatically from our domain.
-• Catalogue Updates – add 2 brand-new products and introduce 2 additional variations to items already in the catalogue.
-
-Please include your single all-inclusive price and the exact turnaround time in your first reply; that will be considered final, with no haggling later.</description></item>
 <item><title>Clone Peptide Shop Website</title><link>https://www.freelancer.com/projects/wordpress/Clone-Peptide-Shop-Website</link><guid isPermaLink="false">freelancer:40786549</guid><pubDate>Sun, 25 Oct 2026 23:11:18 GMT</pubDate><description>15-25 AUD/hr | I need an e-commerce site that mirrors every page and feature of https://australianpeptidelabs.com.au/ while swapping the blue palette for a fresh green and re-branding all instances to “Australian Peptide Co.” From the public storefront through to the customer account area, blog, shipping calculator and discount code functions, everything visible (and under the hood) on the reference site should be replicated.
 
 I’ll supply the full catalogue—product names, descriptions, images and pricing—so you can focus on design, build and configuration. Customers must be able to complete their purchase with standard credit or debit cards, so please connect a reliable card gateway (Stripe or a comparable option you recommend).  
