@@ -3,6 +3,70 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Add Catering Pages to Restaurant Site</title><link>https://www.freelancer.com/projects/web-development/Add-Catering-Pages-Restaurant-Site</link><guid isPermaLink="false">freelancer:40788670</guid><pubDate>Tue, 27 Oct 2026 03:14:27 GMT</pubDate><description>25-50 USD/hr | I need a web developer who can step into our cPanel-hosted restaurant site (I already have full file access ready for you) and add two new, fully responsive pages: “Catering” and “Private Dining &amp; Banquets.” Both pages should look and feel just like the rest of our website—same typography, colors, and layout rhythm—so guests experience a seamless transition while browsing.
+
+Your core tasks  
+• Build both pages in HTML/CSS/JS (or the same stack our current site uses) and match the existing design closely.  
+• Embed the two Jotform inquiry forms we already use, making sure they display and submit correctly on desktop and mobile.  
+• Add the new pages to our main navigation and any relevant footer/menu links.  
+• Run cross-browser and mobile tests to confirm layout, form functionality, and link integrity.  
+
+The hosting, domain, and business email stay exactly as they are; no migration or DNS updates are needed.
+
+When you reply, please quote a single fixed price and an estimated turnaround time. If you need any current assets—images, copy, or form embed codes—I can supply them immediately. Looking forward to working with someone who can deliver clean code, thorough testing, and a quick, smooth launch.</description></item>
+<item><title>Experienced Development Team Needed - Simplified Shipping &amp; Logistics Platform Similar to FedEx -- 2</title><link>https://www.freelancer.com/projects/app-development/Experienced-Development-Team-Needed</link><guid isPermaLink="false">freelancer:40788668</guid><pubDate>Tue, 27 Oct 2026 03:13:06 GMT</pubDate><description>5000-10000 USD | Project type: Website, mobile applications, backend, and logistics management dashboard
+Budget: Open to competitive fixed-price proposals | Timeline: To be proposed by applicants
+
+PROJECT OVERVIEW
+We are seeking an experienced software development company or qualified team to build and launch SPRINTER ONE™, a modern, user-friendly shipping and logistics platform. The platform should offer essential capabilities comparable to established shipping services such as FedEx or UPS, but with a simpler, cost-effective architecture. We are not seeking to replicate the full infrastructure of a major carrier.
+
+We prefer a phased Minimum Viable Product (MVP) approach, focusing first on core shipping operations and leaving advanced capabilities for future releases.
+
+1. CUSTOMER WEBSITE
+- Responsive branded website; customer registration, login, and account dashboard
+- Shipping request creation; pickup and delivery address management
+- Shipping quotes and rate calculation; secure online payments
+- Shipment tracking, shipping history, and email/SMS notifications
+- Customer support/contact functionality
+
+2. MOBILE APPLICATIONS (iOS AND ANDROID)
+- Secure registration, login, and profile management
+- Create shipping requests, receive quotes, and schedule pickups
+- Track shipments, view history, and receive push notifications
+- Secure payments and customer support access
+- Clean, consistent SPRINTER ONE™ branding and intuitive design
+
+3. ADMINISTRATOR DASHBOARD
+- Manage customers, shipping orders, pickup/delivery requests, and shipping rates
+- Update shipment statuses and view payment transactions
+- Operational reporting, customer inquiries, activity monitoring, and system settings
+- Role-based administrative access with full company-owner control
+
+4. SHIPPING AND TRACKING
+- Unique shipment tracking numbers and shipment status history
+- Pickup confirmation, in-transit updates, and delivery confirmation
+- Basic shipment reporting; advanced GPS tracking may be deferred to a later phase
+
+5. BACKEND, SECURITY, AND INTEGRATIONS
+- Scalable backend, secure database, APIs, authentication, and payment integration
+- Cloud hosting, access controls, data protection, and automated backups
+- Documented system architecture, integrations, and maintenance procedures
+- Disclosure of all third-party services, licenses, and recurring costs
+
+6. SOURCE CODE, INTELLECTUAL PROPERTY, AND HANDOVER
+- Complete delivery of custom application, website, backend, and dashboard source code
+- Transfer of code repositories and administrative control to company-owned accounts
+- Contractual assignment of custom-developed intellectual property upon payment
+- Technical documentation, secure credential handover, and independent maintainability
+
+7. TESTING AND FINAL DELIVERY
+- Working website, mobile applications, administrator dashboard, and backend
+- Functional, compatibility, and security testing with issue reports
+- Live end-to-end demonstration and resolution of critical defects
+- Assistance with App Store submissions and defined post-launch bug-fixing support
+
+8. PREFERRED EXPERIENCE
+Prior delivery of shipping, courier, logistics, transportation, or delivery-management software; full-stack and mobile development; API integrations; payment gateways; cloud</description></item>
 <item><title> shopify ecommerce website development</title><link>https://www.freelancer.com/projects/shopify-site/shopify-ecommerce-website-development-40788660</link><guid isPermaLink="false">freelancer:40788660</guid><pubDate>Tue, 27 Oct 2026 03:07:31 GMT</pubDate><description>250-750 USD | More details:
 
 What is the main goal of your Shopify store? Sell physical products
@@ -598,23 +662,6 @@ Deliverables
 • Short hand-off video or live walkthrough so I can maintain the design on my own  
 
 The content stays; you refine the visuals and polish the user experience. If you have examples of mood-driven Squarespace builds, send them over—I’m ready to move forward.</description></item>
-<item><title>Custom Fishing Rod E-commerce Build</title><link>https://www.freelancer.com/projects/web-development/Custom-Fishing-Rod-commerce-Build</link><guid isPermaLink="false">freelancer:40786446</guid><pubDate>Sun, 25 Oct 2026 20:56:28 GMT</pubDate><description>30-250 USD | I already have every rod photographed, priced, and described; now I need a complete online store built from the ground up to showcase and sell them. The site must let visitors add products to a cart, pay at checkout, and automatically trigger the usual confirmation emails.  
-
-You are free to choose the most suitable stack or platform—as long as the finished store is fast, mobile-friendly, and secure. A clean design that respects my logo, colours, and future branding ideas is important, but the immediate priority is a rock-solid buying experience.
-
-Key deliverables  
-• Fully functional website coded from scratch (or on the framework you propose)  
-• Product catalogue populated with my supplied photos, prices, and descriptions  
-• Integrated payment gateway and tested checkout flow  
-• Basic shipping-rate setup and automated order emails  
-• Admin access so I can add or edit rods later  
-
-Acceptance criteria  
-1. A customer can land on a product page, add a rod to the cart, complete payment, and receive a confirmation email without errors.  
-2. The site scores at least 90/100 on Google PageSpeed for mobile.  
-3. All text and images I provide appear exactly as supplied, with no data loss.  
-
-If this sounds like your kind of build, let’s talk timeline and the best tech stack to get it live.</description></item>
 <item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
 This happened after I did a few things:
 Updated Updraft plugin due to security advice from hosting,
