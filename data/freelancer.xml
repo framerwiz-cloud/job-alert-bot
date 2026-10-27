@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Solar Brand &amp; Website Design</title><link>https://www.freelancer.com/projects/web-design/Solar-Brand-Website-Design</link><guid isPermaLink="false">freelancer:40788904</guid><pubDate>Tue, 27 Oct 2026 05:49:24 GMT</pubDate><description>250-750 AUD | I run a UAE-based company that supplies and installs residential and commercial solar systems. The venture is growing fast, so our early logo and colour palette now need to mature into a full visual identity and a website that feels modern and innovative.
+
+The website’s primary role is clear: build trust through company information and expertise. When people—especially homeowners looking to reduce energy costs, businesses and property developers, as well as government and sustainability-focused organisations—see solid proof of our know-how, enquiries will follow naturally.
+
+Here’s what I’m aiming for:
+
+• Brand refinement &amp; guidelines  
+  Take the draft logo and palette, enhance them where necessary, and expand into a complete system of colours, type, iconography and imagery. Package everything in a concise style guide ready for print or digital use.
+
+• Website UI/UX concept  
+  Map out the navigation and craft responsive page designs that showcase completed residential and commercial projects, explain our process, and highlight certifications. High-fidelity layouts in Figma, Adobe XD or Sketch are fine; handing off to a developer later should be straightforward.
+
+• Final asset delivery  
+  Provide editable logo files, colour and type specs, icons, imagery recommendations and all web design files.</description></item>
 <item><title>Visitor Q&amp;A Submission Module</title><link>https://www.freelancer.com/projects/laravel/Visitor-Submission-Module</link><guid isPermaLink="false">freelancer:40788722</guid><pubDate>Tue, 27 Oct 2026 04:02:23 GMT</pubDate><description>250-750 AUD | I need a clean, self-contained question-submission feature added to my website. Visitors will see a simple form where they can type their question and hit “Send.” Nothing should appear publicly until I approve it in an admin view; once I click “Approve,” the question (and its answer, once I add it) should publish automatically in the site’s public Q&amp;A area.
 
 Key goals  
@@ -631,23 +645,6 @@ I’m open to layering in AI down the line—think chat assistant or smart recom
 Send over a brief outline of how you’d approach the redesign, any similar template customisations you’ve done, and the timeframe you’d need to deliver a fully functional, visually unified site.
 
 This is template from my website builder provider https://design-brighton.sites.arosoftware.com/ they can modify to suit once I build the way that I want it to look with content etc. I do like this webpage to utilise - can supply company details logo https://dualincomeplus.com.au/</description></item>
-<item><title>Multidepartment Dashboard Freelancers Needed -- 2</title><link>https://www.freelancer.com/projects/customer-support/Multidepartment-Dashboard-Freelancers</link><guid isPermaLink="false">freelancer:40786708</guid><pubDate>Mon, 26 Oct 2026 01:50:50 GMT</pubDate><description>250-750 USD | I’m expanding our remote team and need a few reliable specialists who can jump straight into our custom dashboard and keep things moving smoothly.
-
-Here’s where help is most urgent:  
-• Customer Support &amp; Fulfillment – answering tickets about order status, shipping issues, delivery delays, account access, memberships, and billing. You’ll work inside our dashboard and, when required, continue the conversation by email or live chat so nothing slips through the cracks.  
-• Design &amp; Community Care – crafting fresh visual assets, polishing brand elements, moderating membership spaces, and sending personalised thank-you notes that make customers feel valued.
-
-If you’re strongest in only one of these areas, say so; if you comfortably straddle both, even better. Either way, show me proof: past results, portfolio links, screenshots, or metrics that demonstrate you know your craft and can communicate quickly.
-
-The workflow is entirely online: I’ll provide login credentials for the dashboard along with an email address dedicated to your queue. Fast responses and clear status updates are essential, because the rest of the team depends on the data you enter.
-
-Deliverables I’m looking for:  
-1. Daily ticket resolutions logged in the dashboard.  
-2. Orders processed and tracking numbers updated before end-of-day cut-off.  
-3. Design files delivered in organised layers (Figma or Adobe CC) with source included.  
-4. Weekly summary of membership interactions and thank-you messages sent.
-
-If that matches your skill set, tell me which role(s) you’re targeting and how soon you can start.</description></item>
 <item><title>Clone Peptide Shop Website</title><link>https://www.freelancer.com/projects/wordpress/Clone-Peptide-Shop-Website</link><guid isPermaLink="false">freelancer:40786549</guid><pubDate>Sun, 25 Oct 2026 23:11:18 GMT</pubDate><description>15-25 AUD/hr | I need an e-commerce site that mirrors every page and feature of https://australianpeptidelabs.com.au/ while swapping the blue palette for a fresh green and re-branding all instances to “Australian Peptide Co.” From the public storefront through to the customer account area, blog, shipping calculator and discount code functions, everything visible (and under the hood) on the reference site should be replicated.
 
 I’ll supply the full catalogue—product names, descriptions, images and pricing—so you can focus on design, build and configuration. Customers must be able to complete their purchase with standard credit or debit cards, so please connect a reliable card gateway (Stripe or a comparable option you recommend).  
