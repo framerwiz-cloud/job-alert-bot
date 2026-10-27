@@ -3,6 +3,37 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full Digital Presence Overhaul</title><link>https://www.freelancer.com/projects/web-development/Full-Digital-Presence-Overhaul</link><guid isPermaLink="false">freelancer:40788948</guid><pubDate>Tue, 27 Oct 2026 06:27:25 GMT</pubDate><description>250-750 USD | I’m looking for one partner who can tackle every stage of a complete online reset and relaunch for my company, Malu Tiny Homes.
+
+Phase 1 – Retire the old assets  
+• Send 410 headers and permanently take both legacy websites offline.  
+• Remove or close the associated Google Maps listings, Google Business Profiles, Google Ads accounts, Yelp, BBB and any other directory entries.  
+• File every required takedown or removal request yourself and log each submission, response, and screenshot in a tracking sheet that you email me daily.
+
+Phase 2 – Migrate and close the ageing Gmail accounts  
+Once the removals are confirmed, move all data from the two existing Gmail inboxes into my new address, verify nothing is lost, then shut the old accounts down.
+
+Phase 3 – Build the refreshed Malu Tiny Homes presence  
+• Create the main site pages, the new Layaway page, plus product pages for food trucks and EV retrofits.  
+• Upload pricing, photos and any details I supply.  
+• Route every enquiry simultaneously to a GoHighLevel form or calendar, a webhook endpoint I’ll provide, and a backup direct email/phone notification so no lead slips through.
+
+Phase 4 – Automate qualification with AI calls  
+Connect my SalesCloser account to the GoHighLevel workflow. The AI must:  
+– Ask which unit or service the prospect wants,  
+– Confirm their budget and preferred payment option, and  
+– Find out when they plan to start and the best way to reach them.  
+All call notes and scores should flow back into the contact record automatically.
+
+Access I’ll provide: both Gmail log-ins, cPanel/hosting credentials, GoHighLevel and SalesCloser accounts, plus the call script once we begin.
+
+Acceptance criteria  
+1. All legacy web properties return a live 410 status and are absent from Google, Yelp, BBB and major directories.  
+2. Migration report shows 100 % email data moved before old accounts are closed.  
+3. New pages are live, load cleanly on mobile and desktop, and push leads to all three endpoints.  
+4. AI calls trigger, record, and post results inside GoHighLevel within five minutes of each lead.
+
+If you have handled a similar soup-to-nuts cleanup and relaunch before, let’s get started immediately.</description></item>
 <item><title>Solar Brand &amp; Website Design</title><link>https://www.freelancer.com/projects/web-design/Solar-Brand-Website-Design</link><guid isPermaLink="false">freelancer:40788904</guid><pubDate>Tue, 27 Oct 2026 05:49:24 GMT</pubDate><description>250-750 AUD | I run a UAE-based company that supplies and installs residential and commercial solar systems. The venture is growing fast, so our early logo and colour palette now need to mature into a full visual identity and a website that feels modern and innovative.
 
 The website’s primary role is clear: build trust through company information and expertise. When people—especially homeowners looking to reduce energy costs, businesses and property developers, as well as government and sustainability-focused organisations—see solid proof of our know-how, enquiries will follow naturally.
@@ -632,19 +663,6 @@ Here’s what has to be done:
 • Catalogue Updates – add 2 brand-new products and introduce 2 additional variations to items already in the catalogue.
 
 Please include your single all-inclusive price and the exact turnaround time in your first reply; that will be considered final, with no haggling later.</description></item>
-<item><title>Template-Based Business Website Revamp</title><link>https://www.freelancer.com/projects/web-design/Template-Based-Business-Website-Revamp</link><guid isPermaLink="false">freelancer:40786714</guid><pubDate>Mon, 26 Oct 2026 01:55:01 GMT</pubDate><description>30-250 AUD | I already own the template for my new business site; what I need now is a skilled developer-designer who can turn that blank canvas into a polished, on-brand experience.  
-
-The job centres on reshaping what is there rather than starting from scratch. I’ll supply the logo, copy, and any imagery—you take over the creative direction to:
-
-• Rework the colour palette, typography, and overall layout so everything aligns with my brand voice.  
-• Add, remove, or reorder pages as needed, making sure the Home, About, and Contact screens guide visitors smoothly to the next step.  
-• Tweak built-in components (headers, footers, forms, etc.) so the site feels cohesive on desktop and mobile.  
-
-I’m open to layering in AI down the line—think chat assistant or smart recommendation blocks—so clean, modular code is important. Please keep the template’s framework intact while ensuring it loads quickly, passes basic accessibility checks, and is easy for me to update afterward (WordPress, HTML/CSS, or React—whatever the template uses).  
-
-Send over a brief outline of how you’d approach the redesign, any similar template customisations you’ve done, and the timeframe you’d need to deliver a fully functional, visually unified site.
-
-This is template from my website builder provider https://design-brighton.sites.arosoftware.com/ they can modify to suit once I build the way that I want it to look with content etc. I do like this webpage to utilise - can supply company details logo https://dualincomeplus.com.au/</description></item>
 <item><title>Clone Peptide Shop Website</title><link>https://www.freelancer.com/projects/wordpress/Clone-Peptide-Shop-Website</link><guid isPermaLink="false">freelancer:40786549</guid><pubDate>Sun, 25 Oct 2026 23:11:18 GMT</pubDate><description>15-25 AUD/hr | I need an e-commerce site that mirrors every page and feature of https://australianpeptidelabs.com.au/ while swapping the blue palette for a fresh green and re-branding all instances to “Australian Peptide Co.” From the public storefront through to the customer account area, blog, shipping calculator and discount code functions, everything visible (and under the hood) on the reference site should be replicated.
 
 I’ll supply the full catalogue—product names, descriptions, images and pricing—so you can focus on design, build and configuration. Customers must be able to complete their purchase with standard credit or debit cards, so please connect a reliable card gateway (Stripe or a comparable option you recommend).  
