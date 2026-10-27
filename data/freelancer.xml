@@ -3,23 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>WordPress Redesign &amp; Editable Homepage Upgrade</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Redesign-Editable-Homepage</link><guid isPermaLink="false">freelancer:40789554</guid><pubDate>Tue, 27 Oct 2026 13:44:09 GMT</pubDate><description>250-750 USD | RothMentor.com needs a visual refresh and, more importantly, a way for me to handle routine content changes without touching code. The immediate focus is on design and layout improvements that modernize the look while keeping our brand intact.  
-
-When the work is done I want to log into WordPress, open an intuitive editor—Gutenberg blocks, Elementor, or a similar drag-and-drop interface is fine—and freely change homepage text, swap images, add new sections, or hide existing ones. The same editor workflow should let me:
-
-• Spin up new pages and place them in the main or sub-navigation  
-• Update disclosures, legal language, and downloadable PDFs at will  
-
-Please build with standard WordPress best practices—no hard-coded content in templates—so future edits remain simple. If you employ a page-builder plugin, use a well-supported option and keep custom code to a minimum. I’m comfortable handling content once the groundwork is in place; your role is to restructure the theme/templates, configure the editing tools, and migrate existing content into the new layout.
-
-Deliverables  
-• Redesigned homepage with flexible, block-based sections  
-• Reusable page template(s) matching the new style  
-• Navigation menu management kept in WordPress menus  
-• Legal/disclosure area set up as an easily editable page or CPT  
-• Brief hand-off notes or a quick Loom walk-through showing how to edit each area
-
-The project is complete when I can independently change any homepage element, publish a new page, and swap a PDF—all without extra developer help.</description></item>
 <item><title>Optimize Wix Art Portfolio</title><link>https://www.freelancer.com/projects/graphic-design/Optimize-Wix-Art-Portfolio</link><guid isPermaLink="false">freelancer:40789425</guid><pubDate>Tue, 27 Oct 2026 12:10:32 GMT</pubDate><description>10-15 GBP/hr | I already host my artwork on a Wix site, but right now it feels more like a storage room than a gallery. I need someone who knows Wix inside-out to turn this into a clean, engaging portfolio that keeps visitors browsing—and ideally clicking on well-placed ads so the site can begin generating revenue.
 
 Here’s what I’m after:
@@ -681,6 +664,21 @@ CRM and sales pipeline automation
 Your presentation should be professional, engaging, personalized to the business, and focused on showing how our services can help the business attract more customers and grow revenue.
 
 Important: Submitting the Loom presentation is mandatory. Applications without a completed presentation will not be considered. Qualified applicants may be invited to a meeting after we review your submission.</description></item>
+<item><title>User-Friendly Website Redesign</title><link>https://www.freelancer.com/projects/web-design/User-Friendly-Website-Redesign-40787443</link><guid isPermaLink="false">freelancer:40787443</guid><pubDate>Mon, 26 Oct 2026 11:02:34 GMT</pubDate><description>300-420 GBP | My current business site already contains all the pages, copy, and branding assets I need, but navigating it feels clunky to visitors. I want the entire interface rebuilt so customers can reach the “Request a Quote / Book Now” step with as few clicks and as little confusion as possible.  
+
+Here is what must carry over into the new build:  
+• All existing pages and their text remain intact.  
+• The logo, colour palette, and overall brand style stay exactly as they are today.  
+
+Everything else—from layout and information flow to mobile responsiveness and performance—can be re-imagined to maximise usability. A clean, modern UI, intuitive menus, faster loading times, and an obvious call-to-action funnel to the quote/booking form are the priorities.  
+
+Deliverables  
+• Fully redesigned, responsive website deployed on my current hosting.  
+• Streamlined quote/booking journey tested across desktop, tablet, and mobile.  
+• Migration of existing content and brand assets without alteration.  
+• Basic hand-over documentation so I can make simple updates myself.  
+
+I’ll provide access to the current site and brand files once we start; you handle design, development, testing, and going live. Let me know your approach and estimated timeline.</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
