@@ -3,6 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Travel website and app: complete design and development</title><link>https://www.freelancer.com/projects/web-development/Travel-website-app-complete-design</link><guid isPermaLink="false">freelancer:40789589</guid><pubDate>Tue, 27 Oct 2026 14:23:54 GMT</pubDate><description>250-750 USD | We are building a travel platform for our social media account, focused exclusively on the Polish market. We have a fully functional prototype of our website and a travel guide web app (PWA). We are looking for an individual or a team to transform this into a professional product—complete with a custom visual design and an intuitive CMS that allows us to manage everything independently—and to handle the deployment.
+
+Prototype (please test before submitting a proposal):
+- Website: https://claude.ai/artifact/T3FFMHeyqoz42Nk1kG2d6o
+- Web app: https://claude.ai/artifact/PyJ11CWWR35rroZzgiCGFB#ch-demo
+
+Key Requirements:
+- Full flexibility regarding technology and CMS choices. All features present in the prototype are mandatory.
+- The web platform and app must be tailored to the Polish market, featuring offline mode, PWA installation capabilities, and testing on actual devices.
+- Payments: Direct integration with the **Przelewy24** payment gateway (for the Polish market).
+- CMS: A fully self-manageable control panel that allows us to easily edit, update, and populate content on our own.
+- User-uploaded photos and videos, including a moderation panel.
+- Source code hosted on our GitHub; hosting and service accounts registered in our name (open-source approach; no Wix or Bubble).
+- Communication language for the development process: [Spanish / English – please choose your preference].
+
+Milestones:
+1) Technical proposal + design of 3 screens (15%)
+2) Implementation of all features in a test environment (35%)
+3) Payment integration and CMS (25%)
+4) Live deployment, final testing, and project handover (25%)
+Each milestone payment is issued following a thorough review against the defined feature list. In your proposal, please include the following:
+1. 2–3 references from previous projects
+2. The technology and CMS you would use, and why
+3. A brief work plan (how you would structure the development in phases)
+4. Estimated monthly costs
+5. Total price and timeline per milestone
+
+Category: IT &amp; Programming
+Subcategory: Web development
+What is the scope of the project? Create a new custom site
+
+Delivery timeframe: Not specified
+
+Skills required:
+
+JavaScript, PHP, HTML5, CSS3, MySQL, API, Content Management System, Software Testing, Responsive Web Design, React Native, Android, iOS</description></item>
 <item><title>Optimize Wix Art Portfolio</title><link>https://www.freelancer.com/projects/graphic-design/Optimize-Wix-Art-Portfolio</link><guid isPermaLink="false">freelancer:40789425</guid><pubDate>Tue, 27 Oct 2026 12:10:32 GMT</pubDate><description>10-15 GBP/hr | I already host my artwork on a Wix site, but right now it feels more like a storage room than a gallery. I need someone who knows Wix inside-out to turn this into a clean, engaging portfolio that keeps visitors browsing—and ideally clicking on well-placed ads so the site can begin generating revenue.
 
 Here’s what I’m after:
@@ -664,21 +700,6 @@ CRM and sales pipeline automation
 Your presentation should be professional, engaging, personalized to the business, and focused on showing how our services can help the business attract more customers and grow revenue.
 
 Important: Submitting the Loom presentation is mandatory. Applications without a completed presentation will not be considered. Qualified applicants may be invited to a meeting after we review your submission.</description></item>
-<item><title>User-Friendly Website Redesign</title><link>https://www.freelancer.com/projects/web-design/User-Friendly-Website-Redesign-40787443</link><guid isPermaLink="false">freelancer:40787443</guid><pubDate>Mon, 26 Oct 2026 11:02:34 GMT</pubDate><description>300-420 GBP | My current business site already contains all the pages, copy, and branding assets I need, but navigating it feels clunky to visitors. I want the entire interface rebuilt so customers can reach the “Request a Quote / Book Now” step with as few clicks and as little confusion as possible.  
-
-Here is what must carry over into the new build:  
-• All existing pages and their text remain intact.  
-• The logo, colour palette, and overall brand style stay exactly as they are today.  
-
-Everything else—from layout and information flow to mobile responsiveness and performance—can be re-imagined to maximise usability. A clean, modern UI, intuitive menus, faster loading times, and an obvious call-to-action funnel to the quote/booking form are the priorities.  
-
-Deliverables  
-• Fully redesigned, responsive website deployed on my current hosting.  
-• Streamlined quote/booking journey tested across desktop, tablet, and mobile.  
-• Migration of existing content and brand assets without alteration.  
-• Basic hand-over documentation so I can make simple updates myself.  
-
-I’ll provide access to the current site and brand files once we start; you handle design, development, testing, and going live. Let me know your approach and estimated timeline.</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
