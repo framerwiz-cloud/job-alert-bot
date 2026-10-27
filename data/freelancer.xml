@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Subscription Management Page Redesign</title><link>https://www.freelancer.com/projects/javascript/Subscription-Management-Page-Redesign</link><guid isPermaLink="false">freelancer:40788623</guid><pubDate>Tue, 27 Oct 2026 02:29:04 GMT</pubDate><description>250-750 USD | I’m refreshing several pages on my site so that handling subscribers becomes painless. Right now all subscriber data sits in a website system such as WordPress or Shopify, and the current layout forces me to jump through too many hoops just to find or edit a record.  
+
+The redesigned pages must put subscriber management front and center: I need to be able to view, search, and update subscriber details quickly, without leaving the site’s admin area. A clean, intuitive UI, fast-loading code, and mobile-friendly styling are all non-negotiable because I spend as much time on a tablet as at a desk. While pausing or cancelling plans and payment handling may come later, today’s focus is purely on streamlining everyday look-ups and edits.
+
+If you’re comfortable shaping modern, responsive front-end components (HTML, CSS, JavaScript) and wiring them into WordPress or Shopify with solid PHP/liquid logic, I’d like to see your plan for:
+
+• Revamping the page templates so searches return results instantly and edits save without full reloads.  
+• Ensuring user roles and permissions remain intact so only authorised staff can touch subscriber data.  
+• Handing back well-commented code and a short walkthrough video so future tweaks are straightforward.
+
+I’ll provide staging credentials, current theme files, and a sample data set the moment we agree on an approach. Let me know how you’d tackle the UI flow, which libraries (if any) you’d leverage, and a realistic timeline to hit each milestone.</description></item>
 <item><title>LTK &amp; Amazon Shop Setup</title><link>https://www.freelancer.com/projects/account-management/LTK-Amazon-Shop-Setup</link><guid isPermaLink="false">freelancer:40788521</guid><pubDate>Tue, 27 Oct 2026 00:49:16 GMT</pubDate><description>250-750 USD | I need help to set up my LTK account, organize my Amazon shop, and make my Linktree more aesthetic.
 
 Requirements:
@@ -599,14 +610,6 @@ Acceptance criteria
 3. All text and images I provide appear exactly as supplied, with no data loss.  
 
 If this sounds like your kind of build, let’s talk timeline and the best tech stack to get it live.</description></item>
-<item><title>Web Designer Needed for GigResource Refinement -- 2</title><link>https://www.freelancer.com/projects/website-design/Web-Designer-Needed-for-GigResource</link><guid isPermaLink="false">freelancer:40786369</guid><pubDate>Sun, 25 Oct 2026 19:13:14 GMT</pubDate><description>250-750 USD | GigResource — Web Designer JD
-Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
-Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
-Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
-Scope is open-ended, up to 100+ pages per user— Client, Professional, Influencer, Admin and Affiliate pages across all five user types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
-Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
-
-Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings (2 skipped = work rejected); act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4–6 months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid... https://docs.google.com/document/d/1SUGwA99pzro9g0hZLHnqprumRsd2d0z4j4UlGg6_Yps/edit?tab=t.0</description></item>
 <item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
 This happened after I did a few things:
 Updated Updraft plugin due to security advice from hosting,
