@@ -3,6 +3,51 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Customize Laravel Hospital Management System</title><link>https://www.freelancer.com/projects/twitter-bootstrap/Customize-Laravel-Hospital-Management</link><guid isPermaLink="false">freelancer:40789405</guid><pubDate>Tue, 27 Oct 2026 11:55:10 GMT</pubDate><description>250-750 USD | # Hospital Management System (HMS) – Laravel-Based Web Application
+
+Are you looking for a modern, responsive, and efficient Hospital Management System to manage your healthcare facility? I offer a **Hospital Management System built with Laravel, PHP, MySQL, and Bootstrap 5**, designed to help hospitals organize their daily operations through a centralized web application.
+
+## Key Features
+
+- **Super Admin Dashboard:** Manage hospitals, users, roles, permissions, and system-wide settings.
+- **Hospital Management:** Organize hospital information, departments, and healthcare services.
+- **Role-Based Access Control:** Manage access for hospital administrators, doctors, nurses, receptionists, laboratory staff, pharmacists, accountants, and other authorized users.
+- **Department Management:** Create, update, and manage hospital departments.
+- **Patient Management:** Support patient record management and future workflow expansion.
+- **Responsive Design:** Access the system from desktops, laptops, tablets, and mobile devices.
+- **Modern Interface:** Clean dashboard built with Bootstrap 5 for a user-friendly experience.
+- **Audit Logging:** Track important system activities for improved accountability.
+- **API Integration:** Includes REST API functionality for supported system operations.
+- **Database Management:** Uses MySQL for structured data storage.
+- **Multilingual Interface:** Designed with English and Arabic interface support in mind.
+
+## Technologies Used
+
+- PHP
+- Laravel
+- MySQL
+- Bootstrap 5
+- HTML5 and CSS3
+- JavaScript
+- REST APIs
+
+## Why Choose This System?
+
+This HMS is designed to help healthcare facilities streamline administrative tasks, organize hospital information, and manage user access efficiently. The system can be customized to meet your hospital's specific requirements, workflow, and branding.
+
+Whether you operate a small clinic or a larger healthcare facility, I can help customize the application according to your needs.
+
+## Live Demo
+
+Explore the project here:
+
+https://hms.najeebacademy.com/login
+
+**Interested in purchasing or customizing this Hospital Management System?**
+
+Contact me to discuss your requirements, requested features, customization options, and deployment needs.
+
+Let's build a better digital solution for your healthcare facility!</description></item>
 <item><title>WooCommerce Store Optimization &amp; Upgrades</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Optimization-Upgrades</link><guid isPermaLink="false">freelancer:40789395</guid><pubDate>Tue, 27 Oct 2026 11:48:09 GMT</pubDate><description>12-18 EUR/hr | My WordPress site already runs a fully functional WooCommerce store, but it needs a serious tune-up. I want to keep the current platform yet raise its performance bar in three key areas:
 
 • Website speed and overall mobile experience  
@@ -624,23 +669,6 @@ Deliverables
 • Basic hand-over documentation so I can make simple updates myself.  
 
 I’ll provide access to the current site and brand files once we start; you handle design, development, testing, and going live. Let me know your approach and estimated timeline.</description></item>
-<item><title>WooCommerce Setup on WordPress</title><link>https://www.freelancer.com/projects/html/WooCommerce-Setup-WordPress</link><guid isPermaLink="false">freelancer:40787322</guid><pubDate>Mon, 26 Oct 2026 09:47:30 GMT</pubDate><description>20-250 GBP | I'm looking for an experienced WordPress developer to set up WooCommerce on my site. 
-
-Requirements:
-- Sell physical products that need shipping.
-- Implement booking features:
-  - Pay online when booking.
-  - Receive booking confirmation emails.
-- Enable payment via credit or debit cards.
-
-Ideal skills and experience:
-- Proficient in WordPress and WooCommerce
-- Experience with payment gateway integration
-- Familiarity with booking systems and email notifications
-
-Please provide examples of similar work done. Thank you!
-
-***I WILL NOT REPLY TO BOT AUTO MESSAGES***</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
