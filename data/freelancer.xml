@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Website Error Repair</title><link>https://www.freelancer.com/projects/website-development/WordPress-Website-Error-Repair</link><guid isPermaLink="false">freelancer:40788579</guid><pubDate>Tue, 27 Oct 2026 01:52:20 GMT</pubDate><description>30-250 USD | My WordPress sites has suddenly gone down and visitors are met with a glaring error message instead of the homepage. I need someone who can jump in right away, trace the root cause, and restore the site so every page loads normally again.
+
+Approx 15 sites
+- Show a critical error
+- or cannot login to the sites
+
+Here’s what I expect:  
+• Pinpoint the error that’s blocking the site—whether it’s a corrupted plugin, theme conflict, PHP issue, or database hiccup.  
+• Fix the problem, test thoroughly, and confirm the site is fully accessible on both desktop and mobile.  
+• Provide a brief summary of what went wrong and any preventive steps I should take moving forward.</description></item>
 <item><title>LTK &amp; Amazon Shop Setup</title><link>https://www.freelancer.com/projects/account-management/LTK-Amazon-Shop-Setup</link><guid isPermaLink="false">freelancer:40788521</guid><pubDate>Tue, 27 Oct 2026 00:49:16 GMT</pubDate><description>250-750 USD | I need help to set up my LTK account, organize my Amazon shop, and make my Linktree more aesthetic.
 
 Requirements:
@@ -599,14 +609,6 @@ Acceptance criteria
 3. All text and images I provide appear exactly as supplied, with no data loss.  
 
 If this sounds like your kind of build, let’s talk timeline and the best tech stack to get it live.</description></item>
-<item><title>Web Designer Needed for GigResource Refinement -- 2</title><link>https://www.freelancer.com/projects/website-design/Web-Designer-Needed-for-GigResource</link><guid isPermaLink="false">freelancer:40786369</guid><pubDate>Sun, 25 Oct 2026 19:13:14 GMT</pubDate><description>250-750 USD | GigResource — Web Designer JD
-Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
-Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
-Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
-Scope is open-ended, up to 100+ pages per user— Client, Professional, Influencer, Admin and Affiliate pages across all five user types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
-Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
-
-Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings (2 skipped = work rejected); act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4–6 months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid... https://docs.google.com/document/d/1SUGwA99pzro9g0hZLHnqprumRsd2d0z4j4UlGg6_Yps/edit?tab=t.0</description></item>
 <item><title>Word Press Dashboard not loading</title><link>https://www.freelancer.com/projects/wordpress/Word-Press-Dashboard-not-loading</link><guid isPermaLink="false">freelancer:40785734</guid><pubDate>Sun, 25 Oct 2026 08:48:07 GMT</pubDate><description>2-8 USD/hr | My Dashboard won't load. Sometimes the log in page wont load either. 
 This happened after I did a few things:
 Updated Updraft plugin due to security advice from hosting,
