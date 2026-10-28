@@ -3,20 +3,106 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Liquor Store E-Commerce &amp; Social</title><link>https://www.freelancer.com/projects/woocommerce/Liquor-Store-Commerce-Social</link><guid isPermaLink="false">freelancer:40791400</guid><pubDate>Wed, 28 Oct 2026 14:40:50 GMT</pubDate><description>15-25 USD/hr | I own a new neighborhood retail liquor store and I’m ready to move our business online so customers can comfortably browse our shelves, fill a cart, and check out for either in-store pickup or local delivery. I need a complete yet straightforward e-commerce site that makes that possible.
+<item><title>Convert Hardcoded Website into WordPress Theme -- 2</title><link>https://www.freelancer.com/projects/php/Convert-Hardcoded-Website-into-WordPress</link><guid isPermaLink="false">freelancer:40791432</guid><pubDate>Wed, 28 Oct 2026 15:00:18 GMT</pubDate><description>30-250 USD | ## WordPress Developer Needed – Convert Existing Hardcoded Website into Theme Template Structure
 
-The site must present all our products with clear photos, pricing, and real-time inventory, then guide shoppers through a secure checkout where they select either pickup or delivery. Age-verification at checkout is essential. I’m open to Shopify, WooCommerce, or another proven platform—whichever lets us manage stock, apply sales taxes, and print picking slips without fuss.
+We are looking for an experienced **WordPress developer** to convert an existing WordPress website that is currently built with mostly **hardcoded page layouts/content** into a properly structured, reusable **WordPress theme/template system**. 
 
-Alongside the site, I want fresh social channels ready to go. Please create and fully optimise our Facebook Page, Instagram account, and Google Business Profile so the branding, hours, location map, and a first round of engaging posts are in place before launch. Connecting the shop’s product catalogue to Facebook and Instagram Shopping would be a big plus.
+The goal is to keep the existing website's appearance and functionality while restructuring the code so that the site is easier to maintain, edit, and expand through WordPress.
 
-Deliverables  
-• Live, mobile-friendly web store with pickup &amp; local delivery options working end-to-end  
-• Age-gate and secure payments configured and tested  
-• Initial product catalogue uploaded (we’ll start with about a dozen items so I can learn the process)  
-• Facebook, Instagram, and Google Business Profile created, branded, and linked back to the site  
-• One-page hand-off guide or quick screen-share session showing me how to add products and post updates
+Do not use third party free theme.
 
-The project is finished when a customer can place a test order, choose pickup or delivery, and I can manage that order from the admin dashboard while our social pages point visitors straight to the new store.</description></item>
+### Scope of Work
+
+The developer will be responsible for:
+
+* Review the existing WordPress website and current theme/code structure.
+* Convert hardcoded pages into proper reusable WordPress templates.
+* Create appropriate theme files such as:
+
+  * `header.php`
+  * `footer.php`
+  * `page.php`
+  * `single.php`
+  * `archive.php`
+  * Custom product emplates page
+  * Reusable template parts/components
+* Move repeated hardcoded sections into reusable theme components.
+* Convert hardcoded navigation into WordPress menu locations.
+* Convert editable page content so it can be managed through the WordPress admin area.
+* Use WordPress best practices for:
+
+  * Theme structure
+  * Template hierarchy
+  * PHP
+  * HTML/CSS
+  * JavaScript
+  * WordPress hooks and functions
+* Properly enqueue CSS and JavaScript instead of hardcoding scripts/styles where applicable.
+* Preserve the existing responsive design and frontend appearance.
+* Preserve existing URLs and SEO structure wherever possible.
+* Make sure existing forms, scripts, plugins, and functionality continue to work.
+* Remove unnecessary or duplicated hardcoded code where appropriate.
+* Ensure the finished theme is clean, organized, and easy for another developer to maintain.
+
+### Important
+
+We are **not looking for a complete website redesign**.
+
+The existing website design should remain substantially the same. The main objective is to improve the **WordPress theme architecture and backend maintainability**.
+
+We would prefer that the website remain lightweight and avoid unnecessary page-builder dependencies unless there is a specific reason to use one.
+
+### Desired Result
+
+After completion:
+
+1. The website should look essentially the same as the existing site.
+2. Common elements should be controlled through reusable theme templates rather than duplicated hardcoded HTML.
+3. Page content should be editable through WordPress where appropriate.
+4. The theme should follow standard WordPress development practices.
+5. Future pages should be easier to create using the established templates.
+6. The code should be organized and documented sufficiently for another WordPress developer to continue working on it.
+
+### Required Experience
+
+Please apply only if you have strong experience with:
+
+* Custom WordPress theme development
+* WordPress Template Hierarchy
+* PHP
+* HTML5
+* CSS / responsive design
+* JavaScript
+* WordPress hooks and functions
+* Converting static or hardcoded websites into dynamic WordPress themes
+
+Experience restructuring an existing custom WordPress website without changing its frontend design is strongly preferred.
+
+### When Applying
+
+Please include:
+
+* Examples of custom WordPress themes you have developed.
+* Examples of websites you converted from hardcoded/static layouts into reusable WordPress templates.
+* A brief explanation of how you would approach this project.
+* Whether you will personally perform the development work.
+* Your estimated project cost or hourly rate.
+
+Please begin your proposal with **“WORDPRESS THEME CONVERSION”** so we know you have read the complete project description.</description></item>
+<item><title>Home Stereo Installation Website Development</title><link>https://www.freelancer.com/projects/php/Home-Stereo-Installation-Website</link><guid isPermaLink="false">freelancer:40791426</guid><pubDate>Wed, 28 Oct 2026 14:56:24 GMT</pubDate><description>3000-5000 USD | I need a professional website to showcase my company's expertise in home stereo installations. The site should clearly explain our services and installation process, targeting homeowners, builders, and designers. 
+
+Key services to include:
+- In-wall and in-ceiling speaker installation
+- Whole-home audio systems with app control
+- Home cinema and TV installation
+
+The ideal freelancer should have:
+- Strong web development skills
+- Experience in creating service-oriented websites
+- Ability to present technical information in an engaging, easy-to-understand manner
+- SEO knowledge to ensure the site ranks well for relevant searches
+
+Please provide samples of similar work done.</description></item>
 <item><title>Shopify Store Redesign</title><link>https://www.freelancer.com/projects/web-design/Shopify-Store-Redesign-40791320</link><guid isPermaLink="false">freelancer:40791320</guid><pubDate>Wed, 28 Oct 2026 13:42:21 GMT</pubDate><description>250-750 USD | I'm looking to give my Shopify store a fresh, new look. The primary focus of this project will be updating the homepage.
 
 Key Requirements:
@@ -720,24 +806,6 @@ please include the following in your proposal:
 5. any information you need from me to begin.
 
 i am looking for a reliable developer who can resolve the existing issues efficiently and help ensure that my online shop remains stable, secure, and fully functional.</description></item>
-<item><title>Squarespace Construction Site Completion</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Construction-Site-Completion</link><guid isPermaLink="false">freelancer:40788054</guid><pubDate>Mon, 26 Oct 2026 17:55:38 GMT</pubDate><description>250-750 USD | I’ve already opened a Squarespace account, chosen a template, and sketched out exactly how each page should look. What I no longer have is the time to finish turning those notes into a polished, live site.  
-
-Your main task is straightforward: use my design breakdown, page-by-page, and build the full layout inside Squarespace. All imagery—for custom homes, remodels, and the commercial projects we tackle—will be in a shared folder and ready for you to drop in. I’ll also supply any copy that isn’t already in the draft pages, so you can focus on structure, spacing, gallery blocks, navigation, and keeping every section consistent with our brand colours and fonts.  
-
-Please make sure every page feels great on desktop, tablet, and mobile before handing it back. If you spot a faster or cleaner way to arrange a section, let me know; I’m happy to approve improvements that stay true to the original look.  
-
-When you apply, show me examples of previous Squarespace builds or redesigns you’ve completed so I can quickly see your experience with the platform’s drag-and-drop tools, style editor, and custom-code injections if you used them. That portfolio overview is all I need to decide who moves forward.</description></item>
-<item><title>Web &amp; Mobile App Developer for Website and Platform</title><link>https://www.freelancer.com/projects/web-development/Web-Mobile-App-Developer-for</link><guid isPermaLink="false">freelancer:40787687</guid><pubDate>Mon, 26 Oct 2026 17:41:40 GMT</pubDate><description>300-500 USD | Web &amp; Mobile App Developer needed 
-
-Web &amp; Mobile App Developer for Company Website and Platform
-
-We are looking for a developer who can manage the project from A to Z, from reviewing our current website and understanding our business requirements to designing, developing, testing, launching, and maintaining our digital platforms.
-
-The scope of work includes enhancing our existing website, developing the Platform and its required features, improving the user experience, implementing relevant integrations, and ensuring security, performance, and scalability. The project may also include mobile application development and ongoing technical support, depending on the proposed solution.
-
-Interested freelancers are invited to share their portfolios, relevant experience, proposed technical approach, estimated timeline, and quotation. Please also specify the technologies you recommend and whether your proposal covers both web and mobile app development.
-
-We look forward to working with a reliable developer who can help us enhance our digital presence and bring the Platform to life.</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
