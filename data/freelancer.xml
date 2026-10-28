@@ -3,6 +3,40 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Ongoing Python Automation &amp; Integration -- 2</title><link>https://www.freelancer.com/projects/php/Ongoing-Python-Automation-Integration</link><guid isPermaLink="false">freelancer:40791679</guid><pubDate>Wed, 28 Oct 2026 17:38:39 GMT</pubDate><description>30-250 USD | Scope of Work:
+- Development tasks based on written specifications (web, automation, integrations, or related IT work)
+- Deliverables defined per project, with clear acceptance criteria
+- Milestones agreed upfront before work begins
+- Revisions handled within the agreed scope
+
+Requirements:
+- Professional experience in IT / software development
+- Ability to work from a written spec and meet deadlines
+- Reliable communication and availability for check-ins
+- Able to work independently with minimal hand-holding
+
+Preferred Skills:
+Web Development, Python, Automation, API Integration, JavaScript, WordPress
+
+What We Provide:
+- Complete written specs for each project
+- All client communication handled on our side
+- 50% upfront / 50% on delivery per project
+- Agreed terms documented before each project starts
+
+Timeline: Ongoing / as projects are assigned
+Location: Open to freelancers in the Americas or Europe</description></item>
+<item><title>Braintree Checkout Integration Needed</title><link>https://www.freelancer.com/projects/braintree/Braintree-Checkout-Integration-Needed</link><guid isPermaLink="false">freelancer:40791674</guid><pubDate>Wed, 28 Oct 2026 17:35:38 GMT</pubDate><description>15-25 USD/hr | I need Braintree’s Drop-in (or a custom-hosted) checkout added to my custom-built website so visitors can make one-time payments. At a minimum the flow must accept credit and debit cards, PayPal, Apple Pay, Google Pay, and Venmo through a single, seamless UI, then return a confirmed transaction ID to my server.
+
+The site already handles shopping-cart logic and order confirmation; what’s missing is the secure payment layer. You’ll be responsible for both the client-side tokenization and the server-side transaction call, using the official Braintree SDKs in whichever language you prefer. Everything has to run in production as well as in the Braintree sandbox for testing.
+
+Deliverables
+• Fully working checkout embedded in the existing payment page  
+• Server-side code that creates and submits the transaction  
+• Callback/wh webhook handling for success, failure, and duplicate protection  
+• Clear setup notes so I can swap keys and deploy to staging/production
+
+I’ll supply design assets, access to the repo, and Braintree credentials as soon as we start.</description></item>
 <item><title>Property Listing &amp; Guest Support</title><link>https://www.freelancer.com/projects/customer-service/Property-Listing-Guest-Support</link><guid isPermaLink="false">freelancer:40791659</guid><pubDate>Wed, 28 Oct 2026 17:30:18 GMT</pubDate><description>10-15 GBP/hr | If you’re already comfortable inside the Airbnb and Vrbo dashboards, use tools like a basic channel manager, and enjoy customer interaction, let’s talk.
 
 ’m looking for a proactive coordinator who can take full ownership of my short-term rental portfolio’s online presence while keeping incoming guests happy through quick live-chat responses.  
@@ -802,18 +836,6 @@ Display the Orderance logo and:
 **Priority:** Clearly demonstrate the complete real-world process, from a customer clicking "See Menu and Order" to the restaurant receiving and accepting the order on the physical tablet connected to this computer.
 
 The video should convince restaurant owners that Orderance is easy to use and helps them avoid expensive third-party marketplace commissions.</description></item>
-<item><title>Reimagine My Wix Coaching Site</title><link>https://www.freelancer.com/projects/wix/Reimagine-Wix-Coaching-Site</link><guid isPermaLink="false">freelancer:40788182</guid><pubDate>Mon, 26 Oct 2026 19:35:46 GMT</pubDate><description>250-750 USD | My current Wix site, leading4life.com, is little more than a digital business card. I’m ready for it to become a conversion-focused hub that consistently brings in new client enquiries from business leaders and their teams.  
-
-Here’s what I will hand over to you: fresh copy, updated service descriptions and my brand assets. What I need back is a polished, responsive Wix site that speaks directly to decision-makers, guides them through our story, and invites them to act.
-
-Key outcomes I’m looking for  
-• A modern layout that highlights executive coaching and team-development services, with a clear list of offerings linked to an enquiry path.  
-• Prominent buttons on key sections and pages so visitors can immediately book a call or consultation.  
-• Thoughtful placement of testimonials, credentials and resources to build trust.  
-• Mobile-first responsiveness, clean navigation and on-page SEO fundamentals so I rank for relevant leadership-development searches.  
-• Easy editing in the Wix Editor once the project is finished, so I can refresh content without touching code.
-
-If you’re comfortable working inside Wix (Editor, Editor X or the new Wix Studio), understand conversion-centred design and have an eye for professional yet approachable visuals, let’s talk. I’m happy to walk through the draft copy and iron out milestones together before we begin.</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
