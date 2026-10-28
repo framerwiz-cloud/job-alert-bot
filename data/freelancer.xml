@@ -34,26 +34,6 @@ Important requirements:
 Please submit your best competitive offer and examples of charity or NGO websites you have completed.
 
 I am looking for affordable, high-quality work and would prefer someone who can complete the project within a reasonable timeframe.</description></item>
-<item><title>QR-Code Concession Webpage</title><link>https://www.freelancer.com/projects/web-development/Code-Concession-Webpage</link><guid isPermaLink="false">freelancer:40791154</guid><pubDate>Wed, 28 Oct 2026 11:32:34 GMT</pubDate><description>30-250 USD | I have a concession business and already designed a rough layout plus PNG artwork. Now I need a clean, single-page site that people reach after scanning our QR code.
-
-Flow I envision  
-• Landing section: a concise introduction and a clear “View Documents” button (this is what visitors see first).  
-• Documents section: once the button is pressed, the concession documents appear directly on the same page—no extra download or pop-up. Beside or beneath the documents sits a contact form.  
-• Contact form fields: Name, Business Name, Phone Number, Email Address, Message. When the user hits Submit, the details must be sent to our linked Gmail account.
-
-Assets on hand  
-• Rough-draft document (PDF/Word) that should display in the Documents section.  
-• PNG artwork to weave into the design for branding consistency.
-
-Key needs  
-1. Mobile-first, responsive layout so the page looks great on phones (most scans will be mobile).  
-2. Light, fast loading code—plain HTML/CSS/JavaScript is fine, but open to React/Vue if you think it speeds things up without bloating.  
-3. Clear instructions or script to update the Gmail address later, plus any hosting guidance if required.
-
-Deliverable  
-A ready-to-upload webpage (html, css, js, assets) that follows the flow above and has been tested for form delivery to Gmail.
-
-If anything here is unclear, let me know—otherwise looking forward to seeing this live soon!</description></item>
 <item><title>Shopify T-Shirt Store Setup</title><link>https://www.freelancer.com/projects/ecommerce/Shopify-Shirt-Store-Setup</link><guid isPermaLink="false">freelancer:40791065</guid><pubDate>Wed, 28 Oct 2026 10:18:02 GMT</pubDate><description>250-750 CAD | I need an experienced Shopify developer to create an online store for selling T-shirts. The store should include:
 
 - Product size and color choices
@@ -731,6 +711,31 @@ The scope of work includes enhancing our existing website, developing the Platfo
 Interested freelancers are invited to share their portfolios, relevant experience, proposed technical approach, estimated timeline, and quotation. Please also specify the technologies you recommend and whether your proposal covers both web and mobile app development.
 
 We look forward to working with a reliable developer who can help us enhance our digital presence and bring the Platform to life.</description></item>
+<item><title>Custom Portfolio Website + Domain Transfer</title><link>https://www.freelancer.com/projects/web-development/Custom-Portfolio-Website-Domain-Transfer</link><guid isPermaLink="false">freelancer:40787989</guid><pubDate>Mon, 26 Oct 2026 17:12:57 GMT</pubDate><description>250-750 GBP | I need to have a web presence and want to move away from WiX and move my domain to a new hosting provider (ideally independent, like Porkbun) and I’d like a clean, lightweight, custom site.
+
+Basic brief
+• A DIY-feel friendly personal portfolio presence that highlights my work themes and makes it easy for clients to get in touch/connect on social media.  
+• Core pages: Home, Gallery 1, Gallery 2, and Info page (details and IG icon).  
+• Visitor actions: browse my galleries, read about me, send a message/call me, and click through to my IG.
+
+What I need from you  
+1. Transfer my existing domain away from WiX and point it to a reliable hosting platform.  
+2. Build a fully responsive website using clean HTML/CSS/JS—or another lightweight stack you recommend—crafted specifically for these three pages. I do not want a pre-made theme or page-builder output.  
+3. Integrate a working contact form (simple email send is fine) and clearly placed IG icon/phone call links.  
+4. Optimise basic on-page SEO and performance so the site loads quickly.  
+5. Hand over all source files and provide a brief guide for future edits (e.g., where images and copy live).
+
+Acceptance criteria  
+• Domain resolves to the new host without downtime.  
+• Each page renders correctly on desktop, tablet, and mobile.  
+• Contact form submits and delivers email successfully/clicking my phone number links to me.  
+• No third-party template code detected; codebase is clean and commented.
+
+Does this sound like something you'd be interested in? I’m ready as soon as you can outline your approach/timeline/cost.
+
+If yes, please get in touch and I'll share some references and we can take it from there.
+
+Thanks!</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
