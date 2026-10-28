@@ -3,6 +3,47 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Auto Emails Fix &amp; Style</title><link>https://www.freelancer.com/projects/email-marketing/WordPress-Auto-Emails-Fix-Style</link><guid isPermaLink="false">freelancer:40791945</guid><pubDate>Wed, 28 Oct 2026 21:53:52 GMT</pubDate><description>250-750 USD | My WordPress site is no longer behaving properly when it tries to send automatic messages. Contact-form notifications, new-user and password-reset mails, plus every order / booking / payment email either never reach the recipient or look completely off-brand. I need these three groups of messages delivered reliably and, for the contact-form and transactional emails in particular, redesigned so they match my colour palette, typography, and tone.
+
+Here is what has to happen:
+
+• Delivery repair  
+  – Trace and correct whatever is blocking or misrouting the messages (SMTP settings, SPF/DKIM records, plugin conflicts, server limits—whatever the root cause proves to be).  
+  – Confirm all three email types send instantly and land in the inbox during testing.
+
+• Visual overhaul  
+  – Build clean, responsive HTML templates for contact-form notifications and for the order / booking / payment sequence.  
+  – Keep them lightweight, mobile-friendly, and editable from the WordPress admin or child theme.  
+  – Embed my logo, brand colours, and clear CTA buttons, fixing any current sender-name or layout issues.
+
+• Handover  
+  – Provide a short changelog and testing evidence (screenshots or video) showing each email firing correctly.  
+  – Document where templates live so I can tweak wording later.
+
+The site runs the usual stack—latest WordPress core, standard contact-form and e-commerce plugins—and has full cPanel and WP admin access ready. If any additional plugin or third-party SMTP service is required, let me know so we can add it immediately.</description></item>
+<item><title>Modern Responsive Website Design for a Service Business</title><link>https://www.freelancer.com/projects/web-design/Modern-Responsive-Website-Design-for-40791942</link><guid isPermaLink="false">freelancer:40791942</guid><pubDate>Wed, 28 Oct 2026 21:51:42 GMT</pubDate><description>30-250 USD | We run a service-based business and need a new website that shows visitors, within seconds, who we are, what we offer, and how to contact us.
+
+What we need
+
+Fresh, brand-aligned design for Home, About, Services and Contact pages
+Fully responsive layout for desktop, tablet and mobile
+Built on WordPress or Webflow so our team can edit content without coding
+Basic SEO set up (page titles, descriptions, clean URLs, image alt text) and fast loading
+Working contact form plus click-to-call and email links
+A short walkthrough or guide at handover
+
+How we’d like to work
+
+Homepage design for our approval first, then the remaining pages
+Two rounds of revisions per stage and payment by milestone
+
+Please include in your proposal
+
+Links to 2-3 websites you’ve designed that are closest to this brief
+Your estimated timeline
+The word “Lighthouse” at the start, so we know you read this
+
+Good work will lead to more projects</description></item>
 <item><title>Shopify Electrical Trade Store</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Electrical-Trade-Store</link><guid isPermaLink="false">freelancer:40791895</guid><pubDate>Wed, 28 Oct 2026 21:06:14 GMT</pubDate><description>20-250 GBP | I run an established electrical distribution company that currently sells through eBay and Amazon. It is time to bring everything under our own roof, so I need a polished, professional Shopify site where trade customers can browse our catalogue and place orders directly.
 
 Here is what I’m after:
@@ -688,37 +729,6 @@ Quality bar
 • Design remains minimal yet professional, readable on mobile and desktop.  
 
 When you reply, include a detailed project proposal: outline your workflow for verifying statements, structuring the content, choosing the web platform, and delivering the finished page ready to publish.</description></item>
-<item><title>Soul Entanglement Band Website Build</title><link>https://www.freelancer.com/projects/web-development/Soul-Entanglement-Band-Website-Build</link><guid isPermaLink="false">freelancer:40788347</guid><pubDate>Mon, 26 Oct 2026 22:08:46 GMT</pubDate><description>250-750 USD | I want a clean, responsive website that showcases our band, Soul Entanglement, and above all, makes it effortless for venues and promoters to book us. The core build will include a welcoming Home page, a Merch page featuring product photos that link directly to purchase options, a Music page with our tracks and links to the major streaming platforms, and a Schedule page where we can update upcoming shows.
-
-Bookings are the priority. I need a dedicated form that, once submitted, sends a copy to both our band email and a designated mobile number via text. The form must capture:
-
-• Name  
-• Phone number  
-• Event type  
-• Location  
-• Event date  
-• Expected crowd size  
-• Performance needs  
-• Email (optional field)
-
-Deliverables  
-• Home, Merch, Music, and Schedule pages fully styled and mobile-friendly  
-• Booking form configured with the fields above, email + SMS alerts working on submit  
-• Simple back-end or CMS access so we can update merch items, show dates, and embedded music links ourselves
-
-If additional sections (blog, photo gallery, mailing-list signup, etc.) fit smoothly, I’m happy to discuss them before we begin. Let’s talk through your preferred stack—WordPress, Webflow, Shopify integration, or a custom build—so we can lock in the best approach and timeline.</description></item>
-<item><title>Business WordPress Site Development</title><link>https://www.freelancer.com/projects/web-development/Business-WordPress-Site-Development-40788327</link><guid isPermaLink="false">freelancer:40788327</guid><pubDate>Mon, 26 Oct 2026 21:52:35 GMT</pubDate><description>30-250 USD | I’m ready to launch a polished WordPress site that presents my business and services professionally. All brand assets—logo, final copy, and high-resolution photos—are organized and waiting for you in a shared folder, so the focus can stay on smart design and clean development rather than hunting for content.
-
-Here’s what I need:
-• A modern, responsive WordPress build that showcases who we are, what we do, and why clients should choose us.  
-• Thoughtful page structure (Home, Services, About, Contact, plus any sub-pages you recommend) with intuitive navigation.  
-• Visual styling that aligns with our existing brand guidelines, using the logo, colors, and imagery I’m providing.  
-• Essential functionality such as contact forms, interactive maps, and a CMS setup that lets my team update text or images easily after hand-off.  
-• Basic on-page SEO, security hardening, and performance optimization so the site loads quickly and ranks well from day one.  
-
-Once the build is complete, a quick walkthrough or concise user guide would be great so we can manage routine edits in-house. If you prefer specific page builders or themes—Elementor, Gutenberg, Astra, or similar—let me know; I’m flexible as long as the final result is lightweight and future-proof.
-
-I’m looking for a smooth, communicative process and a site that’s launch-ready without needing extra polish rounds. Share a couple of recent WordPress projects that match this scope and a rough timeline for delivery, and we can get started right away.</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
