@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>QR-Code Concession Webpage</title><link>https://www.freelancer.com/projects/web-development/Code-Concession-Webpage</link><guid isPermaLink="false">freelancer:40791154</guid><pubDate>Wed, 28 Oct 2026 11:32:34 GMT</pubDate><description>30-250 USD | I have a concession business and already designed a rough layout plus PNG artwork. Now I need a clean, single-page site that people reach after scanning our QR code.
+
+Flow I envision  
+• Landing section: a concise introduction and a clear “View Documents” button (this is what visitors see first).  
+• Documents section: once the button is pressed, the concession documents appear directly on the same page—no extra download or pop-up. Beside or beneath the documents sits a contact form.  
+• Contact form fields: Name, Business Name, Phone Number, Email Address, Message. When the user hits Submit, the details must be sent to our linked Gmail account.
+
+Assets on hand  
+• Rough-draft document (PDF/Word) that should display in the Documents section.  
+• PNG artwork to weave into the design for branding consistency.
+
+Key needs  
+1. Mobile-first, responsive layout so the page looks great on phones (most scans will be mobile).  
+2. Light, fast loading code—plain HTML/CSS/JavaScript is fine, but open to React/Vue if you think it speeds things up without bloating.  
+3. Clear instructions or script to update the Gmail address later, plus any hosting guidance if required.
+
+Deliverable  
+A ready-to-upload webpage (html, css, js, assets) that follows the flow above and has been tested for form delivery to Gmail.
+
+If anything here is unclear, let me know—otherwise looking forward to seeing this live soon!</description></item>
 <item><title>Shopify T-Shirt Store Setup</title><link>https://www.freelancer.com/projects/ecommerce/Shopify-Shirt-Store-Setup</link><guid isPermaLink="false">freelancer:40791065</guid><pubDate>Wed, 28 Oct 2026 10:18:02 GMT</pubDate><description>250-750 CAD | I need an experienced Shopify developer to create an online store for selling T-shirts. The store should include:
 
 - Product size and color choices
@@ -704,17 +724,6 @@ Your main task is straightforward: use my design breakdown, page-by-page, and bu
 Please make sure every page feels great on desktop, tablet, and mobile before handing it back. If you spot a faster or cleaner way to arrange a section, let me know; I’m happy to approve improvements that stay true to the original look.  
 
 When you apply, show me examples of previous Squarespace builds or redesigns you’ve completed so I can quickly see your experience with the platform’s drag-and-drop tools, style editor, and custom-code injections if you used them. That portfolio overview is all I need to decide who moves forward.</description></item>
-<item><title>Web &amp; Mobile App Developer for Website and Platform</title><link>https://www.freelancer.com/projects/web-development/Web-Mobile-App-Developer-for</link><guid isPermaLink="false">freelancer:40787687</guid><pubDate>Mon, 26 Oct 2026 17:41:40 GMT</pubDate><description>300-500 USD | Web &amp; Mobile App Developer needed 
-
-Web &amp; Mobile App Developer for Company Website and Platform
-
-We are looking for a developer who can manage the project from A to Z, from reviewing our current website and understanding our business requirements to designing, developing, testing, launching, and maintaining our digital platforms.
-
-The scope of work includes enhancing our existing website, developing the Platform and its required features, improving the user experience, implementing relevant integrations, and ensuring security, performance, and scalability. The project may also include mobile application development and ongoing technical support, depending on the proposed solution.
-
-Interested freelancers are invited to share their portfolios, relevant experience, proposed technical approach, estimated timeline, and quotation. Please also specify the technologies you recommend and whether your proposal covers both web and mobile app development.
-
-We look forward to working with a reliable developer who can help us enhance our digital presence and bring the Platform to life.</description></item>
 <item><title>Build Complete eCommerce Store</title><link>https://www.freelancer.com/projects/ecommerce/Build-Complete-eCommerce-Store</link><guid isPermaLink="false">freelancer:40787273</guid><pubDate>Mon, 26 Oct 2026 09:12:29 GMT</pubDate><description>2-8 USD/hr | I want to launch an online store that sells physical products which will be shipped to customers. At first the catalogue will hold no more than 20 items, yet I need every core storefront function in place from day one.
 
 The project covers:
