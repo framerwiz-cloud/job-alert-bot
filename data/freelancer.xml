@@ -75,64 +75,6 @@ Deliverables
 3. Brief walkthrough call or video showing how to add new features or adjust subscription tiers.
 
 If you’ve built similar SaaS tools, especially around music tech, I’d love to see them. Let’s discuss timelines and the best path to an MVP.</description></item>
-<item><title>Website Usability UX Audit -- 2</title><link>https://www.freelancer.com/projects/php/Website-Usability-Audit</link><guid isPermaLink="false">freelancer:40793021</guid><pubDate>Thu, 29 Oct 2026 12:23:41 GMT</pubDate><description>3000-5000 EUR | MENZER Corporate Website and Online Shop | Shopware
-We are looking for a professional web agency to independently assess our corporate website and the MENZER online shop and develop a concrete, prioritised improvement plan. This will inform our decisions on recommended actions, budget and potential subsequent implementation.
-
-What it is about:
-https://www.menzer-tools.com/de, including the associated MENZER online shop.
-Corporate website
-Brand, product, know-how, company and service pages, including their links to the online shop.
-Online shop
-Shop entry point, categories, search, product detail pages, cart, registration, customer account and the full checkout process.
-
-Technical platform
-Our existing Shopware system. The concept must not be based on switching to a different CMS or platform.
-
-Engagement
-Phase 1: Analysis and concept development. Phase 2: Implementation only following a separate decision and commission.
-1. Purpose of the engagement
-We are not looking for a generic assessment along the lines of “make it more modern”, but a sound basis for decision-making: What should be changed, and where? Why is the change worthwhile? What benefit can we expect, and how can it be implemented within our Shopware system?
-2. Objectives and target audiences
-The website should present MENZER as a specialist in sanding equipment, dust extraction and abrasives, with a high-quality brand presence. Visitors should be able to understand and select suitable products and system solutions, and buy them in the shop as easily as possible. Brand information, buying advice, order completion and service should be assessed as one coherent user experience.
-The primary target audiences are professional users and ambitious DIY enthusiasts. Existing customers seeking repeat purchases, service and information must also be considered. Company and careers content is included, but should not become the focus of a separate recruitment project.
-3. Principles of collaboration
-Our existing brand identity and MENZER design guidelines form the foundation. We are seeking justified improvements, not a blanket rebranding exercise or a predetermined full website relaunch. Elements that already work well should be explicitly identified and retained wherever possible.
-
-Audit scope and approach
-
-4. Common basis for pricing
-Please quote for an overview of the structure of the German-language corporate website and MENZER online shop, plus an in-depth review of 20 representative pages or views: 12 corporate pages and 8 shop pages/views. Three end-to-end purchase journeys and the customer account must also be reviewed. The selection will be agreed at kick-off.
-
-We'll let you know of which pages are required, after first contact.</description></item>
-<item><title>Website Usability UX Audit</title><link>https://www.freelancer.com/projects/web-design/Website-Usability-Audit</link><guid isPermaLink="false">freelancer:40792997</guid><pubDate>Thu, 29 Oct 2026 12:01:07 GMT</pubDate><description>5000-10000 EUR | MENZER Corporate Website and Online Shop | Shopware
-We are looking for a professional web agency to independently assess our corporate website and the MENZER online shop and develop a concrete, prioritised improvement plan. This will inform our decisions on recommended actions, budget and potential subsequent implementation.
-
-What it is about:
-https://www.menzer-tools.com/de, including the associated MENZER online shop.
-Corporate website
-Brand, product, know-how, company and service pages, including their links to the online shop.
-Online shop
-Shop entry point, categories, search, product detail pages, cart, registration, customer account and the full checkout process.
-
-Technical platform
-Our existing Shopware system. The concept must not be based on switching to a different CMS or platform.
-
-Engagement
-Phase 1: Analysis and concept development. Phase 2: Implementation only following a separate decision and commission.
-1. Purpose of the engagement
-We are not looking for a generic assessment along the lines of “make it more modern”, but a sound basis for decision-making: What should be changed, and where? Why is the change worthwhile? What benefit can we expect, and how can it be implemented within our Shopware system?
-2. Objectives and target audiences
-The website should present MENZER as a specialist in sanding equipment, dust extraction and abrasives, with a high-quality brand presence. Visitors should be able to understand and select suitable products and system solutions, and buy them in the shop as easily as possible. Brand information, buying advice, order completion and service should be assessed as one coherent user experience.
-The primary target audiences are professional users and ambitious DIY enthusiasts. Existing customers seeking repeat purchases, service and information must also be considered. Company and careers content is included, but should not become the focus of a separate recruitment project.
-3. Principles of collaboration
-Our existing brand identity and MENZER design guidelines form the foundation. We are seeking justified improvements, not a blanket rebranding exercise or a predetermined full website relaunch. Elements that already work well should be explicitly identified and retained wherever possible.
-
-Audit scope and approach
-
-4. Common basis for pricing
-Please quote for an overview of the structure of the German-language corporate website and MENZER online shop, plus an in-depth review of 20 representative pages or views: 12 corporate pages and 8 shop pages/views. Three end-to-end purchase journeys and the customer account must also be reviewed. The selection will be agreed at kick-off.
-
-We'll let you know of which pages are required, after first contact.</description></item>
 <item><title>Design Three Distinct Business Websites</title><link>https://www.freelancer.com/projects/web-development/Design-Three-Distinct-Business-Websites</link><guid isPermaLink="false">freelancer:40792988</guid><pubDate>Thu, 29 Oct 2026 11:50:49 GMT</pubDate><description>30-250 AUD | I need three separate websites built for three different businesses. Each site will present information about its company or service, but the look, layout, colour palette, and overall user experience must be unique to that brand.  I used AI and produced the basic structure for each website.
 
 Core features for every site  
@@ -614,6 +556,48 @@ Acceptance
 The project is complete when the storefront is public, a test order processes without issues, and I feel confident managing the essentials on my own.
 
 If you have a portfolio of Shopify sites for physical products and enjoy guiding first-time store owners, I’d love to work with you.</description></item>
+<item><title>SaaS 500 Error Fix &amp; Enhancements</title><link>https://www.freelancer.com/projects/saas/SaaS-Error-Fix-Enhancements</link><guid isPermaLink="false">freelancer:40789980</guid><pubDate>Tue, 27 Oct 2026 19:05:13 GMT</pubDate><description>30-250 CAD | Our first priority is eliminating the 500 “Internal Server Error” that users hit when they try to book and pay for an appointment section of the SaaS platform. Once that is stable, I’d like to move straight into a small round of feature improvements for both the platform and the public marketing site.
+
+What I need you to do  
+• Trace and resolve the root cause of the 500 error on the affected account-settings area.  
+• Confirm the fix holds under normal traffic and during edge-case actions (e.g., plan upgrades, password changes, team-member invites).  
+• Implement a handful of minor UX tweaks I will outline after the error is gone—think adding a missing field, surfacing a notification, or tightening a form flow.  
+• Push the same visual and functional polish to the brochure website so the brand experience stays consistent.
+
+Acceptance  
+– No 500 errors when opening Settings, Billing, or User-Management for any role.  
+– Existing data remains intact.  
+– New tweaks work in the latest Chrome, Firefox, and Safari.  
+– All code is committed with clear comments and a brief change log.
+
+I’m happy to provide access to logs, the current repo, and staging once we agree on the approach. Let me know how you would tackle the diagnostics and roughly how long the initial fix should take.</description></item>
+<item><title>Custom WordPress Affiliate Deals Website</title><link>https://www.freelancer.com/projects/web-development/Custom-WordPress-Affiliate-Deals-Website</link><guid isPermaLink="false">freelancer:40789920</guid><pubDate>Tue, 27 Oct 2026 18:11:27 GMT</pubDate><description>800-1000 USD | WordPress Developer Needed for a Deals &amp; Savings Website
+
+I am looking for an experienced WordPress developer to build a modern, responsive, affiliate deals website featuring discounts from multiple retailers.
+
+I already have a homepage design reference. I need you to implement the existing design, not create a new one from scratch.
+
+Required Features
+
+* Custom WordPress website that closely follows my design reference.
+* User-friendly admin dashboard to manually add, edit, and manage deals without coding.
+* Custom deal fields: product name, image, retailer, current price, original price, discount percentage, SKU, affiliate link, category, and expiration date.
+* Automatically display published deals on the homepage, relevant retailer pages, category pages, and search results.
+* Automatically hide expired deals from active listings.
+* Individual product deal pages with a clear “View Deal” button.
+* Search and filtering by retailer and category.
+* Mobile-friendly design, SEO optimization, and fast loading speed.
+* Affiliate disclosure and outgoing affiliate click tracking.
+
+Future Expansion
+
+The website should be structured to support future affiliate API integrations and deal automation. Automation is not required for the initial launch and should not be included in this quote.
+Requirements
+
+* Strong experience with custom WordPress development.
+* Ability to create custom functionality beyond standard themes and plugins.
+* Full website ownership, source code, and administrator access.
+* Deployment, testing, and basic documentation included.</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
