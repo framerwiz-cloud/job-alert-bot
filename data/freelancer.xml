@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Blog Subfolder Migration</title><link>https://www.freelancer.com/projects/api/WordPress-Blog-Subfolder-Migration</link><guid isPermaLink="false">freelancer:40793479</guid><pubDate>Thu, 29 Oct 2026 17:37:36 GMT</pubDate><description>250-750 USD | I’m moving my WordPress blog from **blog.joyandchaosshop.com** to **joyandchaosshop.com/blog** within our BigCommerce storefront. WordPress itself will stay on its current server; Cloudflare Workers will handle the reverse proxy that makes the blog appear under joyandchaosshop.com/blog.
+
+Here’s what I need done:
+
+• **Configure the reverse proxy and permanent redirects.** Set up a Cloudflare Worker and any supporting rules so the public-facing blog lives at joyandchaosshop.com/blog. Anyone visiting an old blog URL should automatically be sent to its exact matching new page using a **301 permanent redirect**, rather than being sent to the blog homepage. For example, blog.joyandchaosshop.com/post-name should redirect to joyandchaosshop.com/blog/post-name. Preserve existing links and SEO signals, and identify any URLs that need individual mapping.
+
+• **Keep all WordPress functions working through the proxy.** This includes posts, categories, tags, on-site search, images, internal links, comments, contact forms, email sign-ups, free file downloads, RSS feeds, Yoast, and WP-Admin access. Internal links, canonical URLs, and XML sitemaps should use the new public-facing URLs where appropriate. BigCommerce pages and domain email should remain unaffected.
+
+• Preserve existing redirects. Audit and carry over all existing WordPress and Cloudflare redirects, including older or renamed post URLs. Update them to send visitors directly to the correct final page under joyandchaosshop.com/blog using a 301 redirect, avoiding redirect chains or loops. Include these redirects in the testing checklist.
+
+• **Test before launch.** Use staging to verify the proxy, redirects, and functions listed above. Check for broken links, redirect loops, and conflicts with BigCommerce’s existing /blog route. Please flag any limitations or additional requirements before starting.
+
+• **Provide a concise hand-off document.** Include the Worker code, supporting rules, any DNS or BigCommerce changes, a completed test checklist, and instructions for rolling back if needed.
+
+I’ll provide the necessary Cloudflare and hosting access, plus staging URLs for testing before we go live.
+
+Please confirm that this approach is feasible with our setup and let me know your proposed scope, timeline, and cost.</description></item>
 <item><title>Booking-Style Hotel Site MVP</title><link>https://www.freelancer.com/projects/web-development/Booking-Style-Hotel-Site-MVP</link><guid isPermaLink="false">freelancer:40793460</guid><pubDate>Thu, 29 Oct 2026 17:26:35 GMT</pubDate><description>250-750 EUR | I need an MVP that lets travellers search for hotels, see real-time availability, and secure a room in just a few clicks. For this first release the scope is intentionally narrow: hotels only—no apartments, hostels, or holiday homes—and the only module I care about right now is search-and-booking.
 
 Core flow
@@ -574,21 +591,6 @@ Acceptance
 The project is complete when the storefront is public, a test order processes without issues, and I feel confident managing the essentials on my own.
 
 If you have a portfolio of Shopify sites for physical products and enjoy guiding first-time store owners, I’d love to work with you.</description></item>
-<item><title>SaaS 500 Error Fix &amp; Enhancements</title><link>https://www.freelancer.com/projects/saas/SaaS-Error-Fix-Enhancements</link><guid isPermaLink="false">freelancer:40789980</guid><pubDate>Tue, 27 Oct 2026 19:05:13 GMT</pubDate><description>30-250 CAD | Our first priority is eliminating the 500 “Internal Server Error” that users hit when they try to book and pay for an appointment section of the SaaS platform. Once that is stable, I’d like to move straight into a small round of feature improvements for both the platform and the public marketing site.
-
-What I need you to do  
-• Trace and resolve the root cause of the 500 error on the affected account-settings area.  
-• Confirm the fix holds under normal traffic and during edge-case actions (e.g., plan upgrades, password changes, team-member invites).  
-• Implement a handful of minor UX tweaks I will outline after the error is gone—think adding a missing field, surfacing a notification, or tightening a form flow.  
-• Push the same visual and functional polish to the brochure website so the brand experience stays consistent.
-
-Acceptance  
-– No 500 errors when opening Settings, Billing, or User-Management for any role.  
-– Existing data remains intact.  
-– New tweaks work in the latest Chrome, Firefox, and Safari.  
-– All code is committed with clear comments and a brief change log.
-
-I’m happy to provide access to logs, the current repo, and staging once we agree on the approach. Let me know how you would tackle the diagnostics and roughly how long the initial fix should take.</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
