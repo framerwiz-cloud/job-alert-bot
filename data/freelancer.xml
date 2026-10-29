@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Bug Fix – Broken Page Links and Quick Resolution</title><link>https://www.freelancer.com/projects/web-development/Website-Bug-Fix-Broken-Page</link><guid isPermaLink="false">freelancer:40792406</guid><pubDate>Thu, 29 Oct 2026 05:31:48 GMT</pubDate><description>20-250 GBP | Website Bug Fix – Broken Page Links and Quick Resolution
+
+Project Overview
+We are looking for a reliable, US-based web developer to fix broken page links on our company's website and ensure all pages and navigation links work correctly.
+
+Since our team operates in the United States, we prefer a freelancer in a similar time zone so we can communicate in real time, coordinate troubleshooting efficiently, and resolve issues quickly during our regular business hours.
+
+Responsibilities
+- Identify and fix broken page links, navigation issues, and incorrect URLs.
+- Investigate the root cause of pages failing to load or links leading to errors.
+- Test internal links, buttons, redirects, and navigation across the website.
+- Check functionality on desktop and mobile devices.
+- Verify that all fixes work correctly without affecting existing website features.
+- Provide a brief summary of the issues found and the fixes implemented.
+
+Requirements
+- Must be based in the United States to support convenient time-zone overlap.
+- Experience debugging websites and resolving broken links and routing issues.
+- Familiarity with HTML, CSS, JavaScript, and our website's underlying platform.
+- Responsive communication and availability during US business hours.
+- Ability to diagnose problems quickly and deliver reliable fixes.
+
+Project Details
+This is a focused bug-fixing project, with potential for additional website maintenance and performance improvements after successful completion.
+Please include your relevant experience, estimated turnaround time, hourly or fixed-price rate, and availability during US business hours in your proposal.
+We value clear communication, quick troubleshooting, and a dependable working relationship.</description></item>
 <item><title>Diagnose &amp; Fix  Website Error</title><link>https://www.freelancer.com/projects/website-development/Diagnose-Fix-Website-Error</link><guid isPermaLink="false">freelancer:40792314</guid><pubDate>Thu, 29 Oct 2026 04:16:48 GMT</pubDate><description>30-250 AUD | My website is currently down for everyone—no page, admin area, or feature will load. All we see is a corruption error that blocks the entire site.  
 
 I need a developer to jump in, trace the root cause, and tell me exactly what it will take to bring the site back online. I’m aiming to keep the full job within about AUD 130, so please look over the codebase, server logs, database, or anything else you deem relevant, then send me:
@@ -587,16 +613,6 @@ Acceptance criteria
 3. Pages load in under three seconds on a standard mobile connection.  
 
 When you reply, focus on experience building similar community or nonprofit sites and briefly outline the approach you would take to hit the above criteria.</description></item>
-<item><title>Visitor Q&amp;A Submission Module</title><link>https://www.freelancer.com/projects/laravel/Visitor-Submission-Module</link><guid isPermaLink="false">freelancer:40788722</guid><pubDate>Tue, 27 Oct 2026 04:02:23 GMT</pubDate><description>250-750 AUD | I need a clean, self-contained question-submission feature added to my website. Visitors will see a simple form where they can type their question and hit “Send.” Nothing should appear publicly until I approve it in an admin view; once I click “Approve,” the question (and its answer, once I add it) should publish automatically in the site’s public Q&amp;A area.
-
-Key goals  
-• Front-end form that works on desktop and mobile  
-• Moderation dashboard where I can read, approve, edit, or delete each submission  
-• Public Q&amp;A page or section that lists the approved questions in reverse-chronological order (newest first) with space for my answers beneath each one  
-
-Please keep the workflow lightweight: no user login required for the visitor, a straightforward approval toggle for me, and code that is easy for another developer to maintain later (clear comments and sensible file structure). Whether you prefer PHP, WordPress plugin development, Laravel, or a small React component backed by a simple API, I’m open to the stack you’re most comfortable with—just outline your plan up front.  
-
-Once built, hand over the source files, brief setup instructions, and any database changes. I’ll test by submitting sample questions and confirming they remain hidden until I approve them.</description></item>
 <item><title>Publish Case Facts Online</title><link>https://www.freelancer.com/projects/content-writing/Publish-Case-Facts-Online</link><guid isPermaLink="false">freelancer:40788391</guid><pubDate>Mon, 26 Oct 2026 22:52:33 GMT</pubDate><description>15-25 USD/hr | My name and professional standing were questioned in a recent dispute, yet every formal finding shows the accusers were untruthful. I now need a concise, fully verifiable account of the case published on a public website or blog so anyone searching the matter can quickly see the documented facts—nothing more, nothing less.
 
 Scope of work  
