@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Music Link Landing Page Platform</title><link>https://www.freelancer.com/projects/web-development/Music-Link-Landing-Page-Platform</link><guid isPermaLink="false">freelancer:40793087</guid><pubDate>Thu, 29 Oct 2026 13:04:33 GMT</pubDate><description>750-1500 USD | I want to build a web-based landing-page generator geared toward musicians who need a single, shareable link for every new release. Think of the core experience of Hypeddit or Soundplate blended with the simplicity of Linktr.ee, but focused first on music release and streaming links.
+
+Scope of the first version
+• Users create an account, choose a subscription tier (Stripe or similar is fine), and start building pages immediately.  
+• Each page must display the artwork, release title, and one-click buttons to every major music service—Spotify, Apple Music, YouTube, Deezer, Tidal, SoundCloud, Bandcamp, Audiomack, etc.  
+• Optional blocks that the user can toggle on/off: email-collection form and follow buttons, an embedded 30-second preview player, real-time visitor statistics, plus a simple social-media links/feed section.  
+• Pages and dashboards need to be fully responsive and load fast on mobile.
+
+Back-end essentials
+A clean admin area to manage subscribers, plans, and overall site settings; user dashboards where artists can upload artwork, paste their ISRC/UPC or streaming URLs, reorder buttons, and view analytics.
+
+Tech preferences
+I’m open on the stack—Laravel, Node, or a modern headless CMS paired with React/Vue all work for me—as long as the codebase is clean, documented, and easy to extend to video or more general creator pages later.
+
+Deliverables
+1. Production-ready website hosted on my domain.  
+2. Source code in a private Git repository with setup instructions.  
+3. Brief walkthrough call or video showing how to add new features or adjust subscription tiers.
+
+If you’ve built similar SaaS tools, especially around music tech, I’d love to see them. Let’s discuss timelines and the best path to an MVP.</description></item>
 <item><title>Website Usability UX Audit -- 2</title><link>https://www.freelancer.com/projects/php/Website-Usability-Audit</link><guid isPermaLink="false">freelancer:40793021</guid><pubDate>Thu, 29 Oct 2026 12:23:41 GMT</pubDate><description>3000-5000 EUR | MENZER Corporate Website and Online Shop | Shopware
 We are looking for a professional web agency to independently assess our corporate website and the MENZER online shop and develop a concrete, prioritised improvement plan. This will inform our decisions on recommended actions, budget and potential subsequent implementation.
 
@@ -604,16 +624,6 @@ How soon do you need your project completed? Within a month</description></item>
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
 Description: It introduces both brands. It says plainly that you don’t want anyone from the betting or gambling space, and that you want fresh eyes and taste in art and design. The work is: audit both sites, propose a design direction with mockups, implement the designs, and get mobile right. The portfolio is the top requirement. Applicants have to name their 2 or 3 best projects and say what they notice first on a new website, which filters out copy-paste proposals.</description></item>
-<item><title>Edit Auto-Response Order Email</title><link>https://www.freelancer.com/projects/email-marketing/Edit-Auto-Response-Order-Email</link><guid isPermaLink="false">freelancer:40789657</guid><pubDate>Tue, 27 Oct 2026 15:03:17 GMT</pubDate><description>30-250 USD | I need to update the wording or layout of the automatic order confirmation email sent to customers after they place an order on my website. The message should primarily confirm the order and explain next steps.
-
-Ideal Skills and Experience:
-- Experience with email templates and auto-response systems
-- Attention to detail
-- Familiarity with website order management systems
-- Experience with Wordpress
-- Experience with Hostinger backend web app
-
-Please provide samples of similar work if available.</description></item>
 <item><title>Optimize Wix Art Portfolio</title><link>https://www.freelancer.com/projects/graphic-design/Optimize-Wix-Art-Portfolio</link><guid isPermaLink="false">freelancer:40789425</guid><pubDate>Tue, 27 Oct 2026 12:10:32 GMT</pubDate><description>10-15 GBP/hr | I already host my artwork on a Wix site, but right now it feels more like a storage room than a gallery. I need someone who knows Wix inside-out to turn this into a clean, engaging portfolio that keeps visitors browsing—and ideally clicking on well-placed ads so the site can begin generating revenue.
 
 Here’s what I’m after:
