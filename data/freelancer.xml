@@ -3,25 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Homepage Buttons &amp; Form Update</title><link>https://www.freelancer.com/projects/web-development/Homepage-Buttons-Form-Update</link><guid isPermaLink="false">freelancer:40793383</guid><pubDate>Thu, 29 Oct 2026 16:31:38 GMT</pubDate><description>250-750 USD | Need an update on the way visitors interact with our site and need help updating both the homepage calls-to-action and the related application forms.
-
-First, please replace the two current buttons (“Pregnant” and “Looking to Adopt”) with three new ones:
-• “I’m Pregnant”  
-• “My Baby Has Been Born”  
-• “I’m Hoping to Adopt”
-
-Next, create an online application for the new “My Baby Has Been Born” path. Everything in the attached Word document—Parts 1A through 4—must appear, but Parts 1A and 1B should display together on a single page before the remaining sections. When the form is submitted, the information needs to flow to the exact same email/system that receives our existing “I’m Pregnant” submissions.
-
-Finally, update the current “I’m Pregnant” form by removing its opening question (“Has your baby been born – yes or no”) so the flow is cleaner.
-
-Deliverables
-1. Three new homepage buttons styled to match the site and linked to their respective forms.  
-2. Fully functional “My Baby Has Been Born” application containing Parts 1A–4, with 1A + 1B presented side-by-side on the same page.  
-3. Adjusted “I’m Pregnant” form with the first question removed.  
-4. Confirmation that both forms send data to the existing destination.  
-5. Any revised template, script, or CSS files needed for easy future edits.
-
-Please keep the code clean, comment where helpful, and test thoroughly so that parents experience a smooth, mobile-friendly journey from the moment they click a button through to form submission.</description></item>
 <item><title>WooCommerce Interactive Product Gallery Revamp</title><link>https://www.freelancer.com/projects/html/WooCommerce-Interactive-Product-Gallery</link><guid isPermaLink="false">freelancer:40793377</guid><pubDate>Thu, 29 Oct 2026 16:31:00 GMT</pubDate><description>1500-3000 EUR | I need a developer to overhaul the WooCommerce product gallery so shoppers can examine every item in detail without extra clicks or page reloads.  
 
 What the finished gallery must do:
@@ -621,6 +602,21 @@ Acceptance
 The project is complete when the storefront is public, a test order processes without issues, and I feel confident managing the essentials on my own.
 
 If you have a portfolio of Shopify sites for physical products and enjoy guiding first-time store owners, I’d love to work with you.</description></item>
+<item><title>SaaS 500 Error Fix &amp; Enhancements</title><link>https://www.freelancer.com/projects/saas/SaaS-Error-Fix-Enhancements</link><guid isPermaLink="false">freelancer:40789980</guid><pubDate>Tue, 27 Oct 2026 19:05:13 GMT</pubDate><description>30-250 CAD | Our first priority is eliminating the 500 “Internal Server Error” that users hit when they try to book and pay for an appointment section of the SaaS platform. Once that is stable, I’d like to move straight into a small round of feature improvements for both the platform and the public marketing site.
+
+What I need you to do  
+• Trace and resolve the root cause of the 500 error on the affected account-settings area.  
+• Confirm the fix holds under normal traffic and during edge-case actions (e.g., plan upgrades, password changes, team-member invites).  
+• Implement a handful of minor UX tweaks I will outline after the error is gone—think adding a missing field, surfacing a notification, or tightening a form flow.  
+• Push the same visual and functional polish to the brochure website so the brand experience stays consistent.
+
+Acceptance  
+– No 500 errors when opening Settings, Billing, or User-Management for any role.  
+– Existing data remains intact.  
+– New tweaks work in the latest Chrome, Firefox, and Safari.  
+– All code is committed with clear comments and a brief change log.
+
+I’m happy to provide access to logs, the current repo, and staging once we agree on the approach. Let me know how you would tackle the diagnostics and roughly how long the initial fix should take.</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
