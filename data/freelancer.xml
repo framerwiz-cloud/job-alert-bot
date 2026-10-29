@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Diagnose &amp; Fix  Website Error</title><link>https://www.freelancer.com/projects/website-development/Diagnose-Fix-Website-Error</link><guid isPermaLink="false">freelancer:40792314</guid><pubDate>Thu, 29 Oct 2026 04:16:48 GMT</pubDate><description>30-250 AUD | My website is currently down for everyone—no page, admin area, or feature will load. All we see is a corruption error that blocks the entire site.  
+
+I need a developer to jump in, trace the root cause, and tell me exactly what it will take to bring the site back online. I’m aiming to keep the full job within about AUD 130, so please look over the codebase, server logs, database, or anything else you deem relevant, then send me:
+
+• a concise diagnosis of what’s broken  
+• the steps (and estimated hours) required to fix it  
+• whether the repair can realistically stay inside the AUD 130 cap
+
+If the solution fits the budget, you can move ahead and implement it straight away; if not, I’ll review your findings and decide on next steps.  
+
+I’d like the initial assessment as soon as possible.</description></item>
 <item><title>WordPress Site Build</title><link>https://www.freelancer.com/projects/branding/WordPress-Site-Build</link><guid isPermaLink="false">freelancer:40792270</guid><pubDate>Thu, 29 Oct 2026 03:39:38 GMT</pubDate><description>200-350 USD | I want to turn my sustainable packaging consultancy concept into a clean, modern WordPress website that feels expert, trustworthy and easy to contact at a glance.
 
 The site will be around 3–6 pages (for example: Home, Services, About, Case Studies/Impact, Contact). I already have a brand direction and want the design to use sustainability-focused visuals, clear typography and simple navigation.
@@ -586,25 +597,6 @@ Key goals
 Please keep the workflow lightweight: no user login required for the visitor, a straightforward approval toggle for me, and code that is easy for another developer to maintain later (clear comments and sensible file structure). Whether you prefer PHP, WordPress plugin development, Laravel, or a small React component backed by a simple API, I’m open to the stack you’re most comfortable with—just outline your plan up front.  
 
 Once built, hand over the source files, brief setup instructions, and any database changes. I’ll test by submitting sample questions and confirming they remain hidden until I approve them.</description></item>
-<item><title>WordPress Arabic Language Integration</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Arabic-Language-Integration</link><guid isPermaLink="false">freelancer:40788716</guid><pubDate>Tue, 27 Oct 2026 03:57:36 GMT</pubDate><description>250-750 USD | I need my existing English WooCommerce site to run flawlessly in Arabic without touching the current design. All Arabic copy is ready to upload; your job is strictly technical implementation and quality assurance.
-
-Here’s the setup I’m after:
-• Use whatever multilingual plugin you feel is best—WPML, Polylang, or another solid option—so long as it stays well-supported and future-proof.  
-• Serve the Arabic version from a language folder ( website.com/ar ).  
-• Duplicate every English page in Arabic and apply proper RTL styling, spacing, and typography.  
-• Extend localisation to all WooCommerce elements: product pages, cart, checkout, customer emails, and any dynamic messages.  
-• Mirror menus, buttons, footers, header widgets, and forms in Arabic.  
-• Add a visible Arabic ↔ English switcher on both desktop and mobile.  
-• Keep responsiveness identical across breakpoints.  
-• Run end-to-end testing: links, forms, checkout flow, email triggers, and overall UX before hand-off.
-
-Deliverables will be approved when:
-1. Every page/product loads in Arabic at /​ar with correct RTL layout.  
-2. Language switcher toggles seamlessly between English and Arabic without URL or cart issues.  
-3. WooCommerce emails reach the inbox in Arabic where appropriate.  
-4. No console errors or style breakages appear on major browsers and devices.
-
-If this is clear, let me know which plugin you plan to use and your estimated timeline for completion.</description></item>
 <item><title>Publish Case Facts Online</title><link>https://www.freelancer.com/projects/content-writing/Publish-Case-Facts-Online</link><guid isPermaLink="false">freelancer:40788391</guid><pubDate>Mon, 26 Oct 2026 22:52:33 GMT</pubDate><description>15-25 USD/hr | My name and professional standing were questioned in a recent dispute, yet every formal finding shows the accusers were untruthful. I now need a concise, fully verifiable account of the case published on a public website or blog so anyone searching the matter can quickly see the documented facts—nothing more, nothing less.
 
 Scope of work  
