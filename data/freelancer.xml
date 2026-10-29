@@ -204,32 +204,6 @@ When finished, I expect:
 • Testing to confirm all forms, maps, and links work correctly across modern browsers
 
 Let me know your preferred build stack and a realistic timeline for delivering all three sites.</description></item>
-<item><title>Website Bug Fix – Broken Page Links and Quick Resolution</title><link>https://www.freelancer.com/projects/web-development/Website-Bug-Fix-Broken-Page</link><guid isPermaLink="false">freelancer:40792406</guid><pubDate>Thu, 29 Oct 2026 05:31:48 GMT</pubDate><description>20-250 GBP | Website Bug Fix – Broken Page Links and Quick Resolution
-
-Project Overview
-We are looking for a reliable, US-based web developer to fix broken page links on our company's website and ensure all pages and navigation links work correctly.
-
-Since our team operates in the United States, we prefer a freelancer in a similar time zone so we can communicate in real time, coordinate troubleshooting efficiently, and resolve issues quickly during our regular business hours.
-
-Responsibilities
-- Identify and fix broken page links, navigation issues, and incorrect URLs.
-- Investigate the root cause of pages failing to load or links leading to errors.
-- Test internal links, buttons, redirects, and navigation across the website.
-- Check functionality on desktop and mobile devices.
-- Verify that all fixes work correctly without affecting existing website features.
-- Provide a brief summary of the issues found and the fixes implemented.
-
-Requirements
-- Must be based in the United States to support convenient time-zone overlap.
-- Experience debugging websites and resolving broken links and routing issues.
-- Familiarity with HTML, CSS, JavaScript, and our website's underlying platform.
-- Responsive communication and availability during US business hours.
-- Ability to diagnose problems quickly and deliver reliable fixes.
-
-Project Details
-This is a focused bug-fixing project, with potential for additional website maintenance and performance improvements after successful completion.
-Please include your relevant experience, estimated turnaround time, hourly or fixed-price rate, and availability during US business hours in your proposal.
-We value clear communication, quick troubleshooting, and a dependable working relationship.</description></item>
 <item><title>Diagnose &amp; Fix  Website Error</title><link>https://www.freelancer.com/projects/website-development/Diagnose-Fix-Website-Error</link><guid isPermaLink="false">freelancer:40792314</guid><pubDate>Thu, 29 Oct 2026 04:16:48 GMT</pubDate><description>30-250 AUD | My website is currently down for everyone—no page, admin area, or feature will load. All we see is a corruption error that blocks the entire site.  
 
 I need a developer to jump in, trace the root cause, and tell me exactly what it will take to bring the site back online. I’m aiming to keep the full job within about AUD 130, so please look over the codebase, server logs, database, or anything else you deem relevant, then send me:
@@ -670,6 +644,21 @@ Acceptance
 The project is complete when the storefront is public, a test order processes without issues, and I feel confident managing the essentials on my own.
 
 If you have a portfolio of Shopify sites for physical products and enjoy guiding first-time store owners, I’d love to work with you.</description></item>
+<item><title>SaaS 500 Error Fix &amp; Enhancements</title><link>https://www.freelancer.com/projects/saas/SaaS-Error-Fix-Enhancements</link><guid isPermaLink="false">freelancer:40789980</guid><pubDate>Tue, 27 Oct 2026 19:05:13 GMT</pubDate><description>30-250 CAD | Our first priority is eliminating the 500 “Internal Server Error” that users hit when they try to book and pay for an appointment section of the SaaS platform. Once that is stable, I’d like to move straight into a small round of feature improvements for both the platform and the public marketing site.
+
+What I need you to do  
+• Trace and resolve the root cause of the 500 error on the affected account-settings area.  
+• Confirm the fix holds under normal traffic and during edge-case actions (e.g., plan upgrades, password changes, team-member invites).  
+• Implement a handful of minor UX tweaks I will outline after the error is gone—think adding a missing field, surfacing a notification, or tightening a form flow.  
+• Push the same visual and functional polish to the brochure website so the brand experience stays consistent.
+
+Acceptance  
+– No 500 errors when opening Settings, Billing, or User-Management for any role.  
+– Existing data remains intact.  
+– New tweaks work in the latest Chrome, Firefox, and Safari.  
+– All code is committed with clear comments and a brief change log.
+
+I’m happy to provide access to logs, the current repo, and staging once we agree on the approach. Let me know how you would tackle the diagnostics and roughly how long the initial fix should take.</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
