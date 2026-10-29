@@ -3,6 +3,77 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Mountain Resort SaaS MVP Development -- 2</title><link>https://www.freelancer.com/projects/saas-development/Mountain-Resort-SaaS-MVP-Development-40793520</link><guid isPermaLink="false">freelancer:40793520</guid><pubDate>Thu, 29 Oct 2026 18:01:41 GMT</pubDate><description>250-750 USD | Hi,
+
+I'm building a SaaS for mountain tourism complexes and I need a developer (or a small team) to build the MVP.
+
+A mountain complex is one site with everything a mountain guest needs: hotel, chalets and huts, restaurants from valley to summit, gear rental, spa and sports, lifts, and transport. Most run each part on a separate system or on paper. A guest arrives by train, takes the shuttle up, rents skis, eats at the summit, books the sauna, and at checkout nobody has the full bill. When the wind closes the cable car, staff find out too late.
+
+The MVP has to prove one thing: one platform can run a full day of a mountain complex, put everything on one guest bill, and warn staff before the weather hits. I'll pilot it with 2-3 real complexes, then build the full SaaS on top.
+
+MVP SCOPE
+
+1) Core
+- Complexes (tenants), buildings with altitude (hotel, chalets, huts, lift stations), outlets, staff roles
+- Winter and summer seasons with their own prices
+- Multi-tenant from day one, no self-signup (I create complexes)
+
+2) Hotel
+- Rooms in different buildings, hut beds, season prices
+- Board plans (B&amp;B, half board, full board)
+- Reservations, calendar, check-in / check-out
+
+3) Guest folio
+- One bill per stay, every outlet can "charge to room"
+- Cash or card recorded (no gateway), split payment, printable invoice
+
+4) Food, shop and rental
+- POS for restaurants and huts, knows which meals the board plan includes
+- Mountain gear shop
+- Rental: skis, boots, helmets, bikes, e-bikes, with sizes, deposit, return, damage fee
+
+5) Hotel services
+- One booking engine for sauna, bath, spa, game room, sports, ski school and guided hikes: time slots, capacity, staff, price
+
+6) Transport and lifts
+- Types: shuttle bus, taxi, car, bicycle, motorbike, lifts (cable car, chairlift, funicular, elevator) and external (plane, train, metro)
+- Own vehicles and drivers: schedules, routes on a map, bookings, no double-booking
+- Lifts: open / closed / on hold, lift passes charged to room
+- A guest's train or flight arrival creates a pickup
+
+7) Weather (very important)
+- Forecast per building and lift station, because valley and summit differ: wind and gusts, snow or rain, fog, temperature
+- Limits per complex, warnings on affected lifts, trips and outdoor services
+- "Cancel for weather" that fixes the guest bills
+- Lobby TV screen: weather, lift status, avalanche level
+
+8) Owner dashboard and reports
+
+NOT IN THE MVP: online payments, guest portal, lift gate hardware, real train or flight ticket booking, offline mode.
+
+Web platform only: everything runs in the browser on laptop, tablet and phone. No mobile apps.
+
+HOSTING AND CI/CD
+No domain yet, no Docker. Node.js, PostgreSQL and Nginx directly on my Ubuntu 24.04 VPS, which already runs other sites.
+GitHub Actions: tests on every pull request, auto deploy to my VPS on merge to main, rollback if the new version fails.
+
+TECH
+Next.js + NestJS (or Laravel) + PostgreSQL. Free services only, no paid APIs or keys: weather from MET Norway, maps from OpenStreetMap.
+
+WHAT I EXPECT
+- You've built a multi-tenant SaaS or a hotel / booking / POS system and can show it running
+- Code in my GitHub, CI/CD working from milestone 1
+- Tests on the money parts
+- README, server setup script, database backup script
+
+5 milestones, about 12 weeks, details in the attached PDF. The list is long for an MVP and I've kept each part simple. If you think something should be cut, tell me.
+
+IN YOUR BID, PLEASE ANSWER
+1. A similar system you built (link or video).
+2. A guest charges a summit lunch and a ski lesson to the room, the lesson is cancelled for wind, and they pay the rest half card, half cash. How would you model that so each outlet still sees its own correct revenue?
+3. Your timeline, and the riskiest part.
+
+Thanks.</description></item>
 <item><title>WordPress Blog Subfolder Migration</title><link>https://www.freelancer.com/projects/api/WordPress-Blog-Subfolder-Migration</link><guid isPermaLink="false">freelancer:40793479</guid><pubDate>Thu, 29 Oct 2026 17:37:36 GMT</pubDate><description>250-750 USD | I’m moving my WordPress blog from **blog.joyandchaosshop.com** to **joyandchaosshop.com/blog** within our BigCommerce storefront. WordPress itself will stay on its current server; Cloudflare Workers will handle the reverse proxy that makes the blog appear under joyandchaosshop.com/blog.
 
 Here’s what I need done:
@@ -573,24 +644,6 @@ Ideal skills and experience:
 - Experience with API integrations.
 - Familiarity with Vagaro and calendar systems.
 - Strong development skills to ensure reliable sync.</description></item>
-<item><title>Shopify Store Setup &amp; Coaching</title><link>https://www.freelancer.com/projects/shopify-site/Shopify-Store-Setup-Coaching-40790066</link><guid isPermaLink="false">freelancer:40790066</guid><pubDate>Tue, 27 Oct 2026 20:21:08 GMT</pubDate><description>20-250 GBP | I opened a Shopify account a while back but never got beyond the default template. I’m ready to launch now and need a seasoned Shopify specialist to transform the bare store into a polished, sales-ready site.
-
-What you’ll be working with  
-• Product type: physical items that I will ship to customers.  
-• Initial catalogue: up to 20 products.  
-• Current assets: I still need help sourcing or creating most photos, copy, pricing, size/colour details and shipping information.
-
-Scope of work  
-1. Theme customisation – choose or refine a theme so the storefront looks professional and matches the brand style we discuss.  
-2. Product build-out – photograph or source images, write concise SEO-friendly descriptions, input variants, pricing, stock levels and organise everything into clear collections.  
-3. Store settings – configure payment gateways, tax, shipping zones and policies so checkout works smoothly.  
-4. Launch checklist – test orders, mobile responsiveness, speed tweaks, basic on-page SEO and any essential apps.  
-5. Handover coaching – once the store is live, walk me through day-to-day tasks such as adding products, fulfilling orders and running promotions. A short written or recorded guide would be ideal so I can reference it later.
-
-Acceptance  
-The project is complete when the storefront is public, a test order processes without issues, and I feel confident managing the essentials on my own.
-
-If you have a portfolio of Shopify sites for physical products and enjoy guiding first-time store owners, I’d love to work with you.</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
