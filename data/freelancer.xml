@@ -3,6 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Install Nexoply on VPS Site</title><link>https://www.freelancer.com/projects/Install-Nexoply-VPS-Site-fix</link><guid isPermaLink="false">freelancer:40793736</guid><pubDate>Thu, 29 Oct 2026 21:31:10 GMT</pubDate><description>8-15 USD/hr | I need someone comfortable with a quick turnaround to deploy Nexoply onto my existing personal website. The site sits on an Ubuntu-based VPS, and I’ll hand over direct SSH credentials so you can work without delay.  
+
+The task is straightforward: clone or upload the Nexoply package, run any required dependency installs, configure environment variables, and confirm that the dashboard and public-facing widgets load correctly on my domain. From past experience it should take no longer than half an hour, so I’m expecting an efficient, clean install rather than an extended build.  
+
+Deliverable  
+– Nexoply fully installed, accessible in the browser, and confirmed working with real-time tracking on my live site.  
+
+I’ll stay online while you work in case you need quick answers or to test the final setup.</description></item>
 <item><title>Shopify Store Setup Screen-Share Coaching</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-Screen-Share</link><guid isPermaLink="false">freelancer:40793684</guid><pubDate>Thu, 29 Oct 2026 20:28:36 GMT</pubDate><description>25-50 USD/hr | I have already built the public-facing site on GoDaddy and now I’m moving the shopping cart over to Shopify. What I need is a patient Shopify expert who will work with me live, by the hour, through screen-sharing (Zoom, Google Meet, or similar).  
 
 First priority: show me how to design the store and link it cleanly to my existing GoDaddy domain so the transition feels seamless to visitors. We will be selling physical items that require shipping, so any theme or settings we touch must keep that in mind.
