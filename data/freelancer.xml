@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Sportspress Minor Fixes</title><link>https://www.freelancer.com/projects/wordpress-plugin/WordPress-Sportspress-Minor-Fixes</link><guid isPermaLink="false">freelancer:40794971</guid><pubDate>Fri, 30 Oct 2026 15:58:45 GMT</pubDate><description>30-250 CAD | I need a WordPress developer familiar with the SportsPress plugin to tackle a handful of small but important adjustments on https://redriverreapers.com. Everything has to blend seamlessly with the existing design—no restyling beyond what is required to solve each issue.
+
+Scope of work  
+• Home page spacing – tighten the gap between the hero image and the first block of content.  
+• Footer spacing – reduce the space between the grey footer top edge and its text.  
+• Scoreboard on mobile – make the game scores appear on both iPhone and Android phones; the desktop view already works.  
+• Header search bar – replace it with a flexible widget area. I’ll add my own social-icon widget once the spot is in place.  
+• Tab menu typography – adjust the CSS so the active tab (e.g., “Statistics”) shows white bold text, while inactive tabs remain white regular weight.
+
+All fixes must match the current layout and styling exactly; think “surgical tweaks,” not a redesign. Please test changes on standard iPhone and Android phone browsers before delivery and confirm the SportsPress elements still behave as expected.
+
+Deliverable: an updated theme (or child-theme) / custom CSS &amp; template snippets, clearly commented so I can maintain them later, plus a brief note describing where each change was made.</description></item>
 <item><title>E-Commerce Store Build Needed</title><link>https://www.freelancer.com/projects/woocommerce/Commerce-Store-Build-Needed-40794766</link><guid isPermaLink="false">freelancer:40794766</guid><pubDate>Fri, 30 Oct 2026 13:09:43 GMT</pubDate><description>250-750 GBP | I’m launching a brand-new online shop that will sell physical products requiring shipping, and I want the full buying journey to feel fast, intuitive, and trustworthy. The store must include:
 
 • Product search with clear category filters so visitors can reach any item in just a few clicks.  
@@ -737,27 +749,6 @@ Ideal skills and experience:
 
 Please provide examples of previous Shopify stores you have built.</description></item>
 <item><title>Rebuild Minimalist E-Commerce Storefront</title><link>https://www.freelancer.com/projects/shopify-site/Rebuild-Minimalist-Commerce-Storefront</link><guid isPermaLink="false">freelancer:40790820</guid><pubDate>Wed, 28 Oct 2026 07:38:26 GMT</pubDate><description>250-750 USD | E-Commerce Developer Needed to Clone/Rebuild Minimalist Storefront (Shopify or WooCommerce)</description></item>
-<item><title>Taxi Dispatch &amp; Fleet Management System</title><link>https://www.freelancer.com/projects/mobile-app-development/Taxi-Dispatch-Fleet-Management-System</link><guid isPermaLink="false">freelancer:40790781</guid><pubDate>Wed, 28 Oct 2026 07:13:08 GMT</pubDate><description>10-5000 GBP | I'm looking for a comprehensive taxi dispatch and fleet management system. The main goal is to help dispatchers assign jobs and monitor vehicles efficiently.
-
-Key Features:
-- Job Assignment:
-  - Dispatchers can manually choose a driver from a live map.
-  - System automatically sends jobs to the nearest available driver.
-  - Drivers can accept or decline offered jobs.
-Full fleet management with defect and all  reporting. 
-  
-- Live Map Monitoring:
-  - Display driver location and availability.
-  - Show passenger pickup and drop-off locations.
-  - Indicate vehicle status: idle, busy, or offline.
-
-Ideal Skills and Experience:
-- Experience in developing real-time tracking and dispatch systems.
-- Strong skills in map integrations and UI/UX design.
-- Background in fleet management software is a plus.
-- Knowledge of mobile and web application development.
-Please review the attached documents, as they offer greater clarity.
-I'm looking for a developer who can create a robust and user-friendly system to streamline our operations.</description></item>
 <item><title>WordPress Layout Redesign</title><link>https://www.freelancer.com/projects/shopify-development/WordPress-Layout-Redesign</link><guid isPermaLink="false">freelancer:40790740</guid><pubDate>Wed, 28 Oct 2026 06:49:24 GMT</pubDate><description>2-8 USD/hr | Our company currently has numerous WordPress websites that require secondary development and modification. Most of these issues are related to the UI, while some require a complete re-development. I am in need of a long-term, full-time partner who can respond promptly. This person must be proficient in WordPress and Shopify development. Since we only have websites on these two platforms, we must be highly skilled in the development of these platforms. The daily work hours are at least 8-10 hours. The tasks are quite simple. My salary is not very high, but it is very stable. I will first present a test contract for work testing. I will first give a few simple tasks for modification, and then proceed with other task development. My weekly compensation is around $120. The price is not very high, but it is very stable. We have a large number of websites, and I need a sincere and cooperative developer with strong capabilities to join us.</description></item>
 <item><title>Brilliant Directories Setup &amp; Configuration for a wholesale directory</title><link>https://www.freelancer.com/projects/web-development/Brilliant-Directories-Setup</link><guid isPermaLink="false">freelancer:40790483</guid><pubDate>Wed, 28 Oct 2026 03:26:38 GMT</pubDate><description>2-8 AUD/hr | The Brilliant Directories framework is already installed on my server; it now needs a full, production-ready configuration so the site functions as a business directory that showcases company listings and collects enquiries through lead forms.  
 
