@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>URGENT PROJECT -- Open House Funnel &amp; Ads </title><link>https://www.freelancer.com/projects/digital-marketing/URGENT-PROJECT-Open-House-Funnel</link><guid isPermaLink="false">freelancer:40793946</guid><pubDate>Fri, 30 Oct 2026 01:59:52 GMT</pubDate><description>30-250 CAD | I need a streamlined marketing funnel that sends the right people to my upcoming open house and gets them to register on the spot. The goal is to sell the property directly, so every element—from ad click to confirmation email—must nudge prospects closer to purchase.
+
+Here’s what I’m after: a persuasive, mobile-first landing page that showcases the property, highlights its selling points, and features a friction-free registration form. Once visitors sign up to attend the open house, they should land on a brief thank-you page with directions and an “add to calendar” link so they’re locked in.
+
+To feed that page, I also need you to build and launch targeted Facebook/Instagram ads (Google Display or YouTube are welcome additions if they make sense) aimed at local buyers. Pixel installation, event tracking, and a basic split test on headlines or visuals should be in place so I can monitor cost-per-lead in real time.
+
+Deliverables  
+• Responsive landing page with on-page registration form and CRM/email integration  
+• Thank-you page with directions and calendar link  
+• 3–5 ad creatives (static or short video) with copy variations  
+• Campaign setup, pixel &amp; event tracking, and one round of post-launch optimisation  
+
+I’ll provide photos, floor plans, and brand guidelines; you handle design, copy, and campaign structure. If you have examples of successful real-estate or event funnels, I’d love to see them. Let’s get this live within the next week.</description></item>
 <item><title>Finish Shopify Website</title><link>https://www.freelancer.com/projects/shopify-development/Finish-Shopify-Website</link><guid isPermaLink="false">freelancer:40793884</guid><pubDate>Fri, 30 Oct 2026 00:51:42 GMT</pubDate><description>2-8 USD/hr | Shopify Developer Needed ASAP – Complete Existing Website
 
 I'm looking for an experienced and affordable Shopify developer to help finish my existing children's Christian entertainment and merchandise website, 
@@ -42,6 +55,24 @@ Requirements:
 - Must explain what can realistically be completed within 40 hours.
 
 I'm looking for a reliable developer for this project and potentially ongoing work.</description></item>
+<item><title>GoDaddy Airo Store Setup</title><link>https://www.freelancer.com/projects/godaddy/GoDaddy-Airo-Store-Setup</link><guid isPermaLink="false">freelancer:40793877</guid><pubDate>Fri, 30 Oct 2026 00:42:21 GMT</pubDate><description>30-250 USD | I’ve built the core of my website using GoDaddy Airo, but I’m having trouble completing some of the functionality. I’m looking for someone to finish the website and make the subscriber experience work smoothly.
+
+Here’s what I need:
+
+1. After a customer subscribes and completes checkout, they should receive two separate emails: a welcome email and an email with a secure link to their library.
+
+2. The checkout confirmation page should have a button labeled “Take Me to My Library.” Customers should already be signed in after subscribing, so this button takes them directly to their library without requiring another login.
+
+3. Their library page should display the clubs they subscribe to. Each club should link to its own club page, where clicking the door opens that club’s library. Access should be limited to their active subscriptions.
+
+4. When returning subscribers sign in, they should be taken directly to their library.
+
+
+5. The transition from the club page into the library currently feels abrupt. I would like a smoother, more immersive animation: the door opens, and the view moves forward as though the subscriber is walking into the library, without a sudden jump between pages.
+
+6. The “Library” tab in the navigation bar should link to the subscriber’s library page.
+I need an admin panel to upload content to my website without using airo. 
+I’d like to keep the existing design while improving these features. Please let me know whether you can complete this within my current GoDaddy Airo setup, along with your estimated timeline and cost.</description></item>
 <item><title>Complete PyroProductions Site Overhaul</title><link>https://www.freelancer.com/projects/web-design/Complete-PyroProductions-Site-Overhaul</link><guid isPermaLink="false">freelancer:40793794</guid><pubDate>Thu, 29 Oct 2026 22:49:04 GMT</pubDate><description>15-25 USD/hr | I’m ready to give pyroproductions.com a fresh start from top to bottom. Every page—home, services, gallery, blog, contact, you name it—needs a modern look, mobile-first layout, and faster load times so the brand feels as dynamic online as it does in person.
 
 The single must-have feature is a friction-free way for visitors to send an inquiry or request a quote. A prominent call-to-action and a short, reliable form that drops messages straight into my inbox (or another tool you recommend) will be critical to measuring success.
@@ -75,6 +106,316 @@ During the sessions I want to learn, hands-on, how to:
 I’ll share my screen, you guide me, I do the clicks. After each hour I should be able to repeat the steps on my own. If you’re comfortable coaching in real time and can explain why we’re doing each step—not just what buttons to press—let’s line up our first session this week.
 
 Would prefer applicants in the United States who speak english as a first language, but will consider others</description></item>
+<item><title>Mountain Resort SaaS MVP Development -- 2</title><link>https://www.freelancer.com/projects/saas-development/Mountain-Resort-SaaS-MVP-Development-40793520</link><guid isPermaLink="false">freelancer:40793520</guid><pubDate>Thu, 29 Oct 2026 18:01:41 GMT</pubDate><description>250-750 USD | Hi,
+
+I'm building a SaaS for mountain tourism complexes and I need a developer (or a small team) to build the MVP.
+
+A mountain complex is one site with everything a mountain guest needs: hotel, chalets and huts, restaurants from valley to summit, gear rental, spa and sports, lifts, and transport. Most run each part on a separate system or on paper. A guest arrives by train, takes the shuttle up, rents skis, eats at the summit, books the sauna, and at checkout nobody has the full bill. When the wind closes the cable car, staff find out too late.
+
+The MVP has to prove one thing: one platform can run a full day of a mountain complex, put everything on one guest bill, and warn staff before the weather hits. I'll pilot it with 2-3 real complexes, then build the full SaaS on top.
+
+MVP SCOPE
+
+1) Core
+- Complexes (tenants), buildings with altitude (hotel, chalets, huts, lift stations), outlets, staff roles
+- Winter and summer seasons with their own prices
+- Multi-tenant from day one, no self-signup (I create complexes)
+
+2) Hotel
+- Rooms in different buildings, hut beds, season prices
+- Board plans (B&amp;B, half board, full board)
+- Reservations, calendar, check-in / check-out
+
+3) Guest folio
+- One bill per stay, every outlet can "charge to room"
+- Cash or card recorded (no gateway), split payment, printable invoice
+
+4) Food, shop and rental
+- POS for restaurants and huts, knows which meals the board plan includes
+- Mountain gear shop
+- Rental: skis, boots, helmets, bikes, e-bikes, with sizes, deposit, return, damage fee
+
+5) Hotel services
+- One booking engine for sauna, bath, spa, game room, sports, ski school and guided hikes: time slots, capacity, staff, price
+
+6) Transport and lifts
+- Types: shuttle bus, taxi, car, bicycle, motorbike, lifts (cable car, chairlift, funicular, elevator) and external (plane, train, metro)
+- Own vehicles and drivers: schedules, routes on a map, bookings, no double-booking
+- Lifts: open / closed / on hold, lift passes charged to room
+- A guest's train or flight arrival creates a pickup
+
+7) Weather (very important)
+- Forecast per building and lift station, because valley and summit differ: wind and gusts, snow or rain, fog, temperature
+- Limits per complex, warnings on affected lifts, trips and outdoor services
+- "Cancel for weather" that fixes the guest bills
+- Lobby TV screen: weather, lift status, avalanche level
+
+8) Owner dashboard and reports
+
+NOT IN THE MVP: online payments, guest portal, lift gate hardware, real train or flight ticket booking, offline mode.
+
+Web platform only: everything runs in the browser on laptop, tablet and phone. No mobile apps.
+
+HOSTING AND CI/CD
+No domain yet, no Docker. Node.js, PostgreSQL and Nginx directly on my Ubuntu 24.04 VPS, which already runs other sites.
+GitHub Actions: tests on every pull request, auto deploy to my VPS on merge to main, rollback if the new version fails.
+
+TECH
+Next.js + NestJS (or Laravel) + PostgreSQL. Free services only, no paid APIs or keys: weather from MET Norway, maps from OpenStreetMap.
+
+WHAT I EXPECT
+- You've built a multi-tenant SaaS or a hotel / booking / POS system and can show it running
+- Code in my GitHub, CI/CD working from milestone 1
+- Tests on the money parts
+- README, server setup script, database backup script
+
+5 milestones, about 12 weeks, details in the attached PDF. The list is long for an MVP and I've kept each part simple. If you think something should be cut, tell me.
+
+IN YOUR BID, PLEASE ANSWER
+1. A similar system you built (link or video).
+2. A guest charges a summit lunch and a ski lesson to the room, the lesson is cancelled for wind, and they pay the rest half card, half cash. How would you model that so each outlet still sees its own correct revenue?
+3. Your timeline, and the riskiest part.
+
+Thanks.</description></item>
+<item><title>WordPress Blog Subfolder Migration</title><link>https://www.freelancer.com/projects/api/WordPress-Blog-Subfolder-Migration</link><guid isPermaLink="false">freelancer:40793479</guid><pubDate>Thu, 29 Oct 2026 17:37:36 GMT</pubDate><description>250-750 USD | I’m moving my WordPress blog from **blog.joyandchaosshop.com** to **joyandchaosshop.com/blog** within our BigCommerce storefront. WordPress itself will stay on its current server; Cloudflare Workers will handle the reverse proxy that makes the blog appear under joyandchaosshop.com/blog.
+
+Here’s what I need done:
+
+• **Configure the reverse proxy and permanent redirects.** Set up a Cloudflare Worker and any supporting rules so the public-facing blog lives at joyandchaosshop.com/blog. Anyone visiting an old blog URL should automatically be sent to its exact matching new page using a **301 permanent redirect**, rather than being sent to the blog homepage. For example, blog.joyandchaosshop.com/post-name should redirect to joyandchaosshop.com/blog/post-name. Preserve existing links and SEO signals, and identify any URLs that need individual mapping.
+
+• **Keep all WordPress functions working through the proxy.** This includes posts, categories, tags, on-site search, images, internal links, comments, contact forms, email sign-ups, free file downloads, RSS feeds, Yoast, and WP-Admin access. Internal links, canonical URLs, and XML sitemaps should use the new public-facing URLs where appropriate. BigCommerce pages and domain email should remain unaffected.
+
+• Preserve existing redirects. Audit and carry over all existing WordPress and Cloudflare redirects, including older or renamed post URLs. Update them to send visitors directly to the correct final page under joyandchaosshop.com/blog using a 301 redirect, avoiding redirect chains or loops. Include these redirects in the testing checklist.
+
+• **Test before launch.** Use staging to verify the proxy, redirects, and functions listed above. Check for broken links, redirect loops, and conflicts with BigCommerce’s existing /blog route. Please flag any limitations or additional requirements before starting.
+
+• **Provide a concise hand-off document.** Include the Worker code, supporting rules, any DNS or BigCommerce changes, a completed test checklist, and instructions for rolling back if needed.
+
+I’ll provide the necessary Cloudflare and hosting access, plus staging URLs for testing before we go live.
+
+Please confirm that this approach is feasible with our setup and let me know your proposed scope, timeline, and cost.</description></item>
+<item><title>Booking-Style Hotel Site MVP</title><link>https://www.freelancer.com/projects/web-development/Booking-Style-Hotel-Site-MVP</link><guid isPermaLink="false">freelancer:40793460</guid><pubDate>Thu, 29 Oct 2026 17:26:35 GMT</pubDate><description>250-750 EUR | I need an MVP that lets travellers search for hotels, see real-time availability, and secure a room in just a few clicks. For this first release the scope is intentionally narrow: hotels only—no apartments, hostels, or holiday homes—and the only module I care about right now is search-and-booking.
+
+Core flow
+• Guests enter destination, dates, and guest count.
+• Results show available hotels with photos, amenities, room types, and up-to-date pricing.
+• On the hotel page they choose a room, then either pay online in full (Stripe, PayPal, or a similar gateway) or select “pay at the hotel.”
+• A confirmation email with a reservation code is sent automatically in both cases.
+
+What’s out of scope for this phase: an owner extranet, loyalty programmes, reviews, or other post-stay features. Build the architecture with future modules in mind, but keep the current deliverable lean.
+
+Deliverables (hand-off ready)
+• Responsive web application (frontend, backend, database schema) running on a test server plus all source code in Git.
+• Clear setup instructions and brief technical documentation.
+
+Acceptance criteria
+• Search, booking, and the dual-payment option work end-to-end without errors.
+• Confirmation emails arrive within one minute.
+• Code is clean, readable, and modular for future expansion.</description></item>
+<item><title>WooCommerce Interactive Product Gallery Revamp</title><link>https://www.freelancer.com/projects/html/WooCommerce-Interactive-Product-Gallery</link><guid isPermaLink="false">freelancer:40793377</guid><pubDate>Thu, 29 Oct 2026 16:31:00 GMT</pubDate><description>1500-3000 EUR | I need a developer to overhaul the WooCommerce product gallery so shoppers can examine every item in detail without extra clicks or page reloads.  
+
+What the finished gallery must do:
+• Hover-based lens zoom on desktop  
+• Click-to-open, full-screen lightbox with navigation  
+• Horizontal, scrollable thumbnail strip under the main image  
+• Seamless video support—whether I paste a YouTube link or upload an MP4, it should appear in the same gallery flow  
+• Mobile-friendly swipe gestures for images and videos  
+• Automatic image switch when a customer picks a variation (colour, size, etc.)  
+• Lazy loading to keep Core Web Vitals healthy  
+• Visible corner badges (Sale, New, Best Seller) layered on the gallery images, pulled from product data or an easy custom field  
+
+Please work within standard WooCommerce hooks so the solution survives theme updates, and keep any added JavaScript/CSS lightweight. I’m happy with a custom plugin or a well-documented functions.php implementation—whichever is cleaner.  
+
+Deliverables:
+1. Working gallery integrated on my staging site  
+2. Clear installation and rollback instructions  
+3. Source files and brief code comments for future maintenance  
+
+If you’ve tackled similar galleries, share a link. I’m ready to start as soon as I find the right fit.</description></item>
+<item><title>Europe-Focused Tech Business Articles</title><link>https://www.freelancer.com/projects/content-writing/Europe-Focused-Tech-Business-Articles</link><guid isPermaLink="false">freelancer:40793371</guid><pubDate>Thu, 29 Oct 2026 16:23:47 GMT</pubDate><description>250-750 USD | I need a skilled writer who can deliver sharp, well-researched articles that resonate with readers across Europe. Every piece will be published in English and must bridge cultural nuances so that professionals in Berlin, Barcelona, or Brussels feel equally addressed.  
+
+My priority topics sit at the crossroads of business and technology: emerging EU regulations, SaaS trends, fintech innovations, cross-border e-commerce, sustainability in manufacturing—anything that helps European companies and decision-makers stay ahead of the curve. You should be comfortable interviewing sources when needed, citing recent reports, and weaving in local case studies to keep the content credible and engaging.  
+
+A typical assignment is 1,000–1,500 words, SEO-optimised for the keywords we agree on, and formatted for quick publication in WordPress or a similar CMS. I value clear structure, data-backed insights, and an approachable tone—think Economist-style depth with the readability of a leading tech blog.  
+
+Deliverables for each article:  
+• Draft in Google Docs, ready for edits  
+• Final version in clean HTML or Markdown  
+• Meta title, meta description, and three tweet-length snippets  
+
+I plan to commission one article first; if it fits our standards, there’s steady work available. Please share one or two links to past pieces that show you can tackle European-centric business or tech themes with authority.</description></item>
+<item><title>Web Designer Needed for GigResource Refinement -- 2</title><link>https://www.freelancer.com/projects/website-design/Web-Designer-Needed-for-GigResource</link><guid isPermaLink="false">freelancer:40786369</guid><pubDate>Thu, 29 Oct 2026 15:32:04 GMT</pubDate><description>250-750 USD | GigResource — Web Designer JD
+Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
+Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
+Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
+Scope is open-ended, up to 100+ pages per user— Client, Professional, Influencer, Admin and Affiliate pages across all five user types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
+Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
+
+Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings (2 skipped = work rejected); act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4–6 months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid... https://docs.google.com/document/d/1fjD0bI1yv_z0O-WM5qd9XU1Pek-9zSWk4feLLS1RjBI/edit?tab=t.0</description></item>
+<item><title>Music Link Landing Page Platform</title><link>https://www.freelancer.com/projects/web-development/Music-Link-Landing-Page-Platform</link><guid isPermaLink="false">freelancer:40793087</guid><pubDate>Thu, 29 Oct 2026 13:04:33 GMT</pubDate><description>750-1500 USD | I want to build a web-based landing-page generator geared toward musicians who need a single, shareable link for every new release. Think of the core experience of Hypeddit or Soundplate blended with the simplicity of Linktr.ee, but focused first on music release and streaming links.
+
+Scope of the first version
+• Users create an account, choose a subscription tier (Stripe or similar is fine), and start building pages immediately.  
+• Each page must display the artwork, release title, and one-click buttons to every major music service—Spotify, Apple Music, YouTube, Deezer, Tidal, SoundCloud, Bandcamp, Audiomack, etc.  
+• Optional blocks that the user can toggle on/off: email-collection form and follow buttons, an embedded 30-second preview player, real-time visitor statistics, plus a simple social-media links/feed section.  
+• Pages and dashboards need to be fully responsive and load fast on mobile.
+
+Back-end essentials
+A clean admin area to manage subscribers, plans, and overall site settings; user dashboards where artists can upload artwork, paste their ISRC/UPC or streaming URLs, reorder buttons, and view analytics.
+
+Tech preferences
+I’m open on the stack—Laravel, Node, or a modern headless CMS paired with React/Vue all work for me—as long as the codebase is clean, documented, and easy to extend to video or more general creator pages later.
+
+Deliverables
+1. Production-ready website hosted on my domain.  
+2. Source code in a private Git repository with setup instructions.  
+3. Brief walkthrough call or video showing how to add new features or adjust subscription tiers.
+
+If you’ve built similar SaaS tools, especially around music tech, I’d love to see them. Let’s discuss timelines and the best path to an MVP.</description></item>
+<item><title>Design Three Distinct Business Websites</title><link>https://www.freelancer.com/projects/web-development/Design-Three-Distinct-Business-Websites</link><guid isPermaLink="false">freelancer:40792988</guid><pubDate>Thu, 29 Oct 2026 11:50:49 GMT</pubDate><description>30-250 AUD | I need three separate websites built for three different businesses. Each site will present information about its company or service, but the look, layout, colour palette, and overall user experience must be unique to that brand.  I used AI and produced the basic structure for each website.
+
+Core features for every site  
+• A clear “Services / What We Do” section, plus pages for team bios and company details  
+• Contact form that routes enquiries to a designated email address  
+• Embedded map with opening hours and clickable social-media icons  
+
+Responsive design, clean code, and fast load times are essential. A CMS such as WordPress, Webflow, or a lightweight custom setup is fine—whatever lets me update text and images easily later on. Please include basic on-page SEO structure and ensure the sites display flawlessly on mobile, tablet, and desktop.
+
+When finished, I expect:  
+• Three fully functional websites hosted on my chosen servers  
+• Source files, admin credentials, and a short hand-over guide for edits  
+• Testing to confirm all forms, maps, and links work correctly across modern browsers
+
+Let me know your preferred build stack and a realistic timeline for delivering all three sites.</description></item>
+<item><title>Diagnose &amp; Fix  Website Error</title><link>https://www.freelancer.com/projects/website-development/Diagnose-Fix-Website-Error</link><guid isPermaLink="false">freelancer:40792314</guid><pubDate>Thu, 29 Oct 2026 04:16:48 GMT</pubDate><description>30-250 AUD | My website is currently down for everyone—no page, admin area, or feature will load. All we see is a corruption error that blocks the entire site.  
+
+I need a developer to jump in, trace the root cause, and tell me exactly what it will take to bring the site back online. I’m aiming to keep the full job within about AUD 130, so please look over the codebase, server logs, database, or anything else you deem relevant, then send me:
+
+• a concise diagnosis of what’s broken  
+• the steps (and estimated hours) required to fix it  
+• whether the repair can realistically stay inside the AUD 130 cap
+
+If the solution fits the budget, you can move ahead and implement it straight away; if not, I’ll review your findings and decide on next steps.  
+
+I’d like the initial assessment as soon as possible.</description></item>
+<item><title>WordPress Site Build</title><link>https://www.freelancer.com/projects/branding/WordPress-Site-Build</link><guid isPermaLink="false">freelancer:40792270</guid><pubDate>Thu, 29 Oct 2026 03:39:38 GMT</pubDate><description>200-350 USD | I want to turn my sustainable packaging consultancy concept into a clean, modern WordPress website that feels expert, trustworthy and easy to contact at a glance.
+
+The site will be around 3–6 pages (for example: Home, Services, About, Case Studies/Impact, Contact). I already have a brand direction and want the design to use sustainability-focused visuals, clear typography and simple navigation.
+
+A key requirement is a very prominent quick-call button on both mobile and desktop, always easy to find and linked directly to my phone number. Visitors should immediately understand what I do and be able to call me within seconds of landing on the site.
+
+I’d like you to:
+- Design the page layouts and overall look and feel within WordPress
+- Build fully responsive templates that work smoothly on mobile, tablet and desktop
+- Configure and test the quick-call button so it works reliably across devices
+
+Please share examples of B2B or consultancy WordPress sites you’ve built, especially where clear calls to action and fast performance were important. I’m looking for someone who can move from idea to a polished live site in a straightforward, collaborative way.</description></item>
+<item><title>Town Planning Consultant</title><link>https://www.freelancer.com/projects/planning-consulting/Planning-Consultant-for-Town-Compliance</link><guid isPermaLink="false">freelancer:40792124</guid><pubDate>Thu, 29 Oct 2026 01:37:29 GMT</pubDate><description>1500-3000 AUD | I need an experienced planning consultant to resolve deemed to comply issues with the Town of Cambridge in Western Australia. 
+
+The main issue is with building height, but may also involve setbacks and site coverage. 
+
+Key Tasks:
+- Evaluate current building design against Town of Cambridge regulations.
+- Provide solutions to modify building height and potentially address setbacks and site coverage.
+- Prepare and submit necessary documentation for council approval.
+
+Ideal Skills and Experience:
+- In-depth knowledge of Town of Cambridge planning regulations
+- Proven track record in resolving planning compliance issues
+- Strong communication skills for liaising with council
+- Ability to work quickly and efficiently as I need this resolved ASAP
+
+Please provide examples of similar projects you’ve completed and your approach to this task.</description></item>
+<item><title>WordPress Site Content Refresh | Colibri | New Freelancer Welcome</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Site-Content-Refresh-Colibri</link><guid isPermaLink="false">freelancer:40792113</guid><pubDate>Thu, 29 Oct 2026 01:22:41 GMT</pubDate><description>30-250 USD | WordPress Website Content Updates - $100 USD Fixed Price
+
+We are hiring an experienced WordPress freelancer to update an existing website using the Colibri theme.
+
+This is primarily a simple copy-and-paste project, NOT a website redesign. All text, images, links, and detailed instructions will be provided.
+
+ Scope of Work
+
+1. Homepage: Replace approximately 1,350 words across 12 sections, update supplied images, adjust section order, and preserve existing testimonials.
+2. Services Page: Replace approximately 350 words, preserving the existing CTA.
+3. Credentials Page: Replace approximately 400 words, preserving images, tables, and links.
+4. Learn Section: Upload 40 completed blogs of varying lengths , link approximately 40 existing YouTube videos, and update the navigation dropdown. 
+5. FAQ Page: Copy and paste approximately 1,440 words, including 28 prepared questions and answers.
+6. About Us Page: Replace approximately 1,120 words and remove outdated content.
+7. Two Contact Pages: Replace approximately 85 words per page, using identical text and preserving existing forms.
+
+Total prepared page content: Approximately 4,800 words, plus 20 completed blogs and 40 YouTube links.
+
+Requirements
+
+- WordPress experience; Colibri familiarity preferred.
+- Work consists primarily of copying, pasting, and formatting supplied content.
+- No research, writing, image creation, or redesign required.
+- Preserve existing layouts, fonts, colors, buttons, and functionality.
+- Follow instructions exactly.
+- Verify all links, forms, and desktop/mobile formatting.
+- Correct implementation errors before final acceptance.
+- Complete the WordPress project within 4 days.
+
+Payment Terms
+
+$100 USD fixed price for the entire project.
+
+FULL payment upon completion and approval of all work. NO milestone or partial payments. You'll be paid immediately upon the project being approved by me, just like the hundreds of other freelancers who have worked on our projects.
+
+To Apply
+
+Provide your WordPress experience, examples of similar projects, and estimated completion time.
+
+Only apply if you agree to complete the entire project for $100 USD.
+
+-Rob
+
+
+-</description></item>
+<item><title>GoHighLevel Appointment Funnel Setup</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-Appointment-Funnel-Setup</link><guid isPermaLink="false">freelancer:40792105</guid><pubDate>Thu, 29 Oct 2026 01:07:52 GMT</pubDate><description>250-750 USD | I’m ready to expand my booking capacity and want the entire journey managed inside GoHighLevel. Here’s what I need assembled and running smoothly:
+
+• A conversion-focused sales funnel and matching landing page that drives visitors straight toward scheduling.  
+• Automated messages and follow-ups (email, SMS, or both) that nurture prospects from first click through confirmed appointment.  
+• A clean customer pipeline that shows exactly where every lead sits so I can track progress at a glance.  
+• An online calendar embedded in the funnel with clearly displayed, real-time time-slot availability.
+
+The core objective is simple: increase the number of qualified appointments and consultations. Everything you build should point to that metric—fast loading pages, clear CTAs, and a friction-free booking flow.
+
+I’ll provide branding assets, copy, and access to my GoHighLevel workspace. You return a fully implemented setup, briefly walk me through how to tweak it, and ensure test bookings run end-to-end without hiccups. If this sounds like your wheelhouse, let’s get started.</description></item>
+<item><title>Systeme.io Sales Funnel Build</title><link>https://www.freelancer.com/projects/web-design/Systeme-Sales-Funnel-Build</link><guid isPermaLink="false">freelancer:40792030</guid><pubDate>Wed, 28 Oct 2026 23:44:52 GMT</pubDate><description>30-250 AUD | I have a ready-to-sell digital product and want it presented inside a high-converting Systeme.io funnel. Your job is to hop into my account and craft the full customer journey—from first click on the landing page to final download.
+
+The objective is simple: sell the product. That means clear copy, sharp design, fast-loading pages, mobile responsiveness, and all the automations that make the sale (and follow-up) seamless.
+
+Deliverables I need from you:
+• A cohesive funnel: sales page, order form, thank-you/download page, all linked and tested inside Systeme.io  
+• create a website with my products displayed.
+
+When you reply, please share at least one live Systeme.io project you built, an estimated timeline, and any clarifying questions you have. If you’re comfortable adding an order bump or simple upsell, let me know—I’m open to it after the core funnel is in place.
+
+I’m ready to move fast and launch within days, so if you’re a Systeme.io specialist who thrives on building funnels that convert, let’s get started.</description></item>
+<item><title>Modern Responsive Website Design for a Service Business</title><link>https://www.freelancer.com/projects/web-design/Modern-Responsive-Website-Design-for-40791942</link><guid isPermaLink="false">freelancer:40791942</guid><pubDate>Wed, 28 Oct 2026 21:51:42 GMT</pubDate><description>30-250 USD | We run a service-based business and need a new website that shows visitors, within seconds, who we are, what we offer, and how to contact us.
+
+What we need
+
+Fresh, brand-aligned design for Home, About, Services and Contact pages
+Fully responsive layout for desktop, tablet and mobile
+Built on WordPress or Webflow so our team can edit content without coding
+Basic SEO set up (page titles, descriptions, clean URLs, image alt text) and fast loading
+Working contact form plus click-to-call and email links
+A short walkthrough or guide at handover
+
+How we’d like to work
+
+Homepage design for our approval first, then the remaining pages
+Two rounds of revisions per stage and payment by milestone
+
+Please include in your proposal
+
+Links to 2-3 websites you’ve designed that are closest to this brief
+Your estimated timeline
+The word “Lighthouse” at the start, so we know you read this
+
+Good work will lead to more projects</description></item>
+<item><title>Redesign Website Pages from Existing Draft</title><link>https://www.freelancer.com/projects/website-design/Redesign-Website-Pages-from-Existing</link><guid isPermaLink="false">freelancer:40791761</guid><pubDate>Wed, 28 Oct 2026 19:06:14 GMT</pubDate><description>30-250 CAD | Need to design few pages of my website..Already have a draft, need to redesign</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
@@ -96,6 +437,29 @@ Show me past work that proves you can:
 • Add multilingual capability cleanly  
 
 PROVIDE AN OUTLINE OF YOUR APPROCH, SUGGESTED WEBSITE BUILDER, AND TIMELINE.  </description></item>
+<item><title>Ongoing Python Automation &amp; Integration -- 2</title><link>https://www.freelancer.com/projects/php/Ongoing-Python-Automation-Integration</link><guid isPermaLink="false">freelancer:40791679</guid><pubDate>Wed, 28 Oct 2026 17:38:39 GMT</pubDate><description>30-250 USD | Scope of Work:
+- Development tasks based on written specifications (web, automation, integrations, or related IT work)
+- Deliverables defined per project, with clear acceptance criteria
+- Milestones agreed upfront before work begins
+- Revisions handled within the agreed scope
+
+Requirements:
+- Professional experience in IT / software development
+- Ability to work from a written spec and meet deadlines
+- Reliable communication and availability for check-ins
+- Able to work independently with minimal hand-holding
+
+Preferred Skills:
+Web Development, Python, Automation, API Integration, JavaScript, WordPress
+
+What We Provide:
+- Complete written specs for each project
+- All client communication handled on our side
+- 50% upfront / 50% on delivery per project
+- Agreed terms documented before each project starts
+
+Timeline: Ongoing / as projects are assigned
+Location: Open to freelancers in the Americas or Europe</description></item>
 <item><title>Property Listing &amp; Guest Support</title><link>https://www.freelancer.com/projects/customer-service/Property-Listing-Guest-Support</link><guid isPermaLink="false">freelancer:40791659</guid><pubDate>Wed, 28 Oct 2026 17:30:18 GMT</pubDate><description>10-15 GBP/hr | If you’re already comfortable inside the Airbnb and Vrbo dashboards, use tools like a basic channel manager, and enjoy customer interaction, let’s talk.
 
 ’m looking for a proactive coordinator who can take full ownership of my short-term rental portfolio’s online presence while keeping incoming guests happy through quick live-chat responses.  
@@ -112,6 +476,170 @@ Key deliverables
 • Weekly summary report covering listing changes, chat volume, common questions, and any issues flagged  
 
 If you’re already comfortable inside the Airbnb and Vrbo dashboards, use tools like a basic channel manager, and enjoy customer interaction, let’s talk.</description></item>
+<item><title>Interactive 3D Recovery App Developer - 28/10/2026 12:32 EDT</title><link>https://www.freelancer.com/projects/rendering/Interactive-Recovery-App-Developer-EDT</link><guid isPermaLink="false">freelancer:40791572</guid><pubDate>Wed, 28 Oct 2026 16:32:00 GMT</pubDate><description>750-1500 GBP | I'm seeking a senior creative full-stack developer proficient in React and TypeScript to build an interactive 3D experience. The project involves developing a 3D world representing a recovery app.
+
+Key Requirements:
+- 3D Navigation: Create an immersive 3D environment for user exploration.
+- React &amp; TypeScript: Utilize these technologies for a robust and scalable application.
+- Interactive Elements: Integrate engaging, interactive components within the 3D space.
+- AI Integration: Implement AI-driven features that enhance user experience based on input.
+- Aesthetic Appeal: Ensure the environment is visually impressive and aligns with the app's recovery theme.
+
+Ideal Skills and Experience:
+- Proven experience in 3D development and interactive design.
+- Strong portfolio showcasing similar projects.
+- Expertise in front-end development with React and TypeScript.
+- Familiarity with AI technologies and their application in interactive environments.
+- Ability to create a 'lovable' user experience that captivates and retains users.
+
+Please share your relevant work and a brief proposal.</description></item>
+<item><title>Convert Hardcoded Website into WordPress Theme -- 2</title><link>https://www.freelancer.com/projects/php/Convert-Hardcoded-Website-into-WordPress</link><guid isPermaLink="false">freelancer:40791432</guid><pubDate>Wed, 28 Oct 2026 15:00:18 GMT</pubDate><description>30-250 USD | ## WordPress Developer Needed – Convert Existing Hardcoded Website into Theme Template Structure
+
+We are looking for an experienced **WordPress developer** to convert an existing WordPress website that is currently built with mostly **hardcoded page layouts/content** into a properly structured, reusable **WordPress theme/template system**. 
+
+The goal is to keep the existing website's appearance and functionality while restructuring the code so that the site is easier to maintain, edit, and expand through WordPress.
+
+Do not use third party free theme.
+
+### Scope of Work
+
+The developer will be responsible for:
+
+* Review the existing WordPress website and current theme/code structure.
+* Convert hardcoded pages into proper reusable WordPress templates.
+* Create appropriate theme files such as:
+
+  * `header.php`
+  * `footer.php`
+  * `page.php`
+  * `single.php`
+  * `archive.php`
+  * Custom product emplates page
+  * Reusable template parts/components
+* Move repeated hardcoded sections into reusable theme components.
+* Convert hardcoded navigation into WordPress menu locations.
+* Convert editable page content so it can be managed through the WordPress admin area.
+* Use WordPress best practices for:
+
+  * Theme structure
+  * Template hierarchy
+  * PHP
+  * HTML/CSS
+  * JavaScript
+  * WordPress hooks and functions
+* Properly enqueue CSS and JavaScript instead of hardcoding scripts/styles where applicable.
+* Preserve the existing responsive design and frontend appearance.
+* Preserve existing URLs and SEO structure wherever possible.
+* Make sure existing forms, scripts, plugins, and functionality continue to work.
+* Remove unnecessary or duplicated hardcoded code where appropriate.
+* Ensure the finished theme is clean, organized, and easy for another developer to maintain.
+
+### Important
+
+We are **not looking for a complete website redesign**.
+
+The existing website design should remain substantially the same. The main objective is to improve the **WordPress theme architecture and backend maintainability**.
+
+We would prefer that the website remain lightweight and avoid unnecessary page-builder dependencies unless there is a specific reason to use one.
+
+### Desired Result
+
+After completion:
+
+1. The website should look essentially the same as the existing site.
+2. Common elements should be controlled through reusable theme templates rather than duplicated hardcoded HTML.
+3. Page content should be editable through WordPress where appropriate.
+4. The theme should follow standard WordPress development practices.
+5. Future pages should be easier to create using the established templates.
+6. The code should be organized and documented sufficiently for another WordPress developer to continue working on it.
+
+### Required Experience
+
+Please apply only if you have strong experience with:
+
+* Custom WordPress theme development
+* WordPress Template Hierarchy
+* PHP
+* HTML5
+* CSS / responsive design
+* JavaScript
+* WordPress hooks and functions
+* Converting static or hardcoded websites into dynamic WordPress themes
+
+Experience restructuring an existing custom WordPress website without changing its frontend design is strongly preferred.
+
+### When Applying
+
+Please include:
+
+* Examples of custom WordPress themes you have developed.
+* Examples of websites you converted from hardcoded/static layouts into reusable WordPress templates.
+* A brief explanation of how you would approach this project.
+* Whether you will personally perform the development work.
+* Your estimated project cost or hourly rate.
+
+Please begin your proposal with **“WORDPRESS THEME CONVERSION”** so we know you have read the complete project description.</description></item>
+<item><title>Home Stereo Installation Website Development</title><link>https://www.freelancer.com/projects/php/Home-Stereo-Installation-Website</link><guid isPermaLink="false">freelancer:40791426</guid><pubDate>Wed, 28 Oct 2026 14:56:24 GMT</pubDate><description>3000-5000 USD | I need a professional website to showcase my company's expertise in home stereo installations. The site should clearly explain our services and installation process, targeting homeowners, builders, and designers. 
+
+Key services to include:
+- In-wall and in-ceiling speaker installation
+- Whole-home audio systems with app control
+- Home cinema and TV installation
+
+The ideal freelancer should have:
+- Strong web development skills
+- Experience in creating service-oriented websites
+- Ability to present technical information in an engaging, easy-to-understand manner
+- SEO knowledge to ensure the site ranks well for relevant searches
+
+Please provide samples of similar work done.</description></item>
+<item><title>Shopify Store Redesign</title><link>https://www.freelancer.com/projects/web-design/Shopify-Store-Redesign-40791320</link><guid isPermaLink="false">freelancer:40791320</guid><pubDate>Wed, 28 Oct 2026 13:42:21 GMT</pubDate><description>250-750 USD | I'm looking to give my Shopify store a fresh, new look. The primary focus of this project will be updating the homepage.
+
+Key Requirements:
+- The new homepage should be designed to make it easy for visitors to browse featured products and collections.
+
+Ideal Skills and Experience:
+- Proven experience with Shopify store design and layout.
+- Strong understanding of user experience, particularly in e-commerce.
+- Proficient in creating visually appealing, intuitive homepages.
+- Ability to work within a specified budget and timeline.
+
+I’m looking forward to collaborating with a skilled designer to enhance my store’s appearance and functionality.
+We have the images and content already created.</description></item>
+<item><title>Shopify T-Shirt Store Setup</title><link>https://www.freelancer.com/projects/ecommerce/Shopify-Shirt-Store-Setup</link><guid isPermaLink="false">freelancer:40791065</guid><pubDate>Wed, 28 Oct 2026 10:18:02 GMT</pubDate><description>250-750 CAD | I need an experienced Shopify developer to create an online store for selling T-shirts. The store should include:
+
+- Product size and color choices
+- Online card and wallet payments
+- Print-on-demand order fulfillment
+
+Ideal skills and experience:
+- Proficient in Shopify
+- Experience with print-on-demand services
+- Strong understanding of e-commerce payment systems
+
+Please provide examples of previous Shopify stores you have built.</description></item>
+<item><title>Rebuild Minimalist E-Commerce Storefront</title><link>https://www.freelancer.com/projects/shopify-site/Rebuild-Minimalist-Commerce-Storefront</link><guid isPermaLink="false">freelancer:40790820</guid><pubDate>Wed, 28 Oct 2026 07:38:26 GMT</pubDate><description>250-750 USD | E-Commerce Developer Needed to Clone/Rebuild Minimalist Storefront (Shopify or WooCommerce)</description></item>
+<item><title>Taxi Dispatch &amp; Fleet Management System</title><link>https://www.freelancer.com/projects/mobile-app-development/Taxi-Dispatch-Fleet-Management-System</link><guid isPermaLink="false">freelancer:40790781</guid><pubDate>Wed, 28 Oct 2026 07:13:08 GMT</pubDate><description>10-5000 GBP | I'm looking for a comprehensive taxi dispatch and fleet management system. The main goal is to help dispatchers assign jobs and monitor vehicles efficiently.
+
+Key Features:
+- Job Assignment:
+  - Dispatchers can manually choose a driver from a live map.
+  - System automatically sends jobs to the nearest available driver.
+  - Drivers can accept or decline offered jobs.
+Full fleet management with defect and all  reporting. 
+  
+- Live Map Monitoring:
+  - Display driver location and availability.
+  - Show passenger pickup and drop-off locations.
+  - Indicate vehicle status: idle, busy, or offline.
+
+Ideal Skills and Experience:
+- Experience in developing real-time tracking and dispatch systems.
+- Strong skills in map integrations and UI/UX design.
+- Background in fleet management software is a plus.
+- Knowledge of mobile and web application development.
+Please review the attached documents, as they offer greater clarity.
+I'm looking for a developer who can create a robust and user-friendly system to streamline our operations.</description></item>
 <item><title>WordPress Layout Redesign</title><link>https://www.freelancer.com/projects/shopify-development/WordPress-Layout-Redesign</link><guid isPermaLink="false">freelancer:40790740</guid><pubDate>Wed, 28 Oct 2026 06:49:24 GMT</pubDate><description>2-8 USD/hr | Our company currently has numerous WordPress websites that require secondary development and modification. Most of these issues are related to the UI, while some require a complete re-development. I am in need of a long-term, full-time partner who can respond promptly. This person must be proficient in WordPress and Shopify development. Since we only have websites on these two platforms, we must be highly skilled in the development of these platforms. The daily work hours are at least 8-10 hours. The tasks are quite simple. My salary is not very high, but it is very stable. I will first present a test contract for work testing. I will first give a few simple tasks for modification, and then proceed with other task development. My weekly compensation is around $120. The price is not very high, but it is very stable. We have a large number of websites, and I need a sincere and cooperative developer with strong capabilities to join us.</description></item>
 <item><title>Brilliant Directories Setup &amp; Configuration for a wholesale directory</title><link>https://www.freelancer.com/projects/web-development/Brilliant-Directories-Setup</link><guid isPermaLink="false">freelancer:40790483</guid><pubDate>Wed, 28 Oct 2026 03:26:38 GMT</pubDate><description>2-8 AUD/hr | The Brilliant Directories framework is already installed on my server; it now needs a full, production-ready configuration so the site functions as a business directory that showcases company listings and collects enquiries through lead forms.  
 
@@ -124,6 +652,52 @@ I need someone who works with Brilliant Directories on a regular basis and under
 • Test everything before hand-off, ensuring visitors can browse listings smoothly and send enquiries without glitches.
 
 Please plan the work so it’s handed back as a turn-key directory: all settings documented, demo listings in place to prove functionality, and clear instructions for day-to-day management. If you’ve launched other BD sites, let me know; that experience will be the deciding factor.</description></item>
+<item><title>Beauty &amp; Wellness Shopify Store Design</title><link>https://www.freelancer.com/projects/shopify-development/Beauty-Wellness-Shopify-Store-Design</link><guid isPermaLink="false">freelancer:40790435</guid><pubDate>Wed, 28 Oct 2026 02:40:01 GMT</pubDate><description>1500-3000 USD | I’m launching a line of beauty and wellness products and I need a Shopify store that is ready to start selling physical items from day one. The heart of the build is an attractive, conversion-focused theme that feels trustworthy and fresh, while also making it simple for shoppers to explore ingredients, benefits, and routines.
+
+A key requirement is native support for product bundles and subscription options. Whether you implement this with Shopify’s built-in functions or a proven app, customers must be able to mix-and-match items into discounted sets and opt into auto-replenish deliveries at intervals I can control from the admin.
+
+Deliverables
+• Fully responsive Shopify theme installed, customised, and branded  
+• Product catalogue structure with one example collection and three sample products so I can duplicate the format  
+• Bundles &amp; subscription flow configured, tested, and documented for future edits  
+• Basic pages (About, Contact, Shipping/Returns) styled to match the theme  
+• Checkout, tax, and shipping settings reviewed for a US launch  
+
+Acceptance Criteria
+The store loads in under 3 seconds on mobile, all bundle/subscription selections calculate correct pricing through to checkout, and every editable area is explained briefly in a hand-off guide.
+
+If you have a portfolio of live beauty or wellness shops, please share a couple of links so I can see your approach.</description></item>
+<item><title>Acoustic Installations</title><link>https://www.freelancer.com/projects/web-design/Acoustic-Installations</link><guid isPermaLink="false">freelancer:40790273</guid><pubDate>Tue, 27 Oct 2026 23:45:48 GMT</pubDate><description>3000-5000 USD | I need a bright, visually engaging website that immediately tells visitors they’ve found the most knowledgeable, formally trained home-audio team in the business. The very first action on the landing page should be a clear “Request a Home Audio Consultation” path—prominent button, slider call-out, whatever works best—as long as it stands out.
+
+When users open the request form, it must collect three specific blocks of information:
+• Contact details along with their preferred appointment time  
+• A brief description of the room and type of audio system they have in mind  
+• Their home address and whether any pre-wiring is already in place  
+
+Once the form is submitted, confirmations and all follow-up communication will be handled exclusively by email, routed to my inbox.
+
+Beyond the form, every section of the site should reinforce our credibility: two decades of field experience (since 1999), formal schooling in room acoustics, and a wholesale approach that lets us hand-pick the best equipment for each project. I’m looking for a colourful, modern layout—responsive on mobile and tablet—that pairs strong visuals with straightforward navigation so clients don’t get lost before hitting that consultation button.
+
+Please deliver the finished site ready for deployment, preferably as a lightweight static build (HTML/CSS/JS or a similarly fast framework) so I can host it anywhere without extra overhead. Include instructions for updating text and images, and make sure the form can be pointed to my preferred email address with minimal configuration.</description></item>
+<item><title>Audio Equipment Installation Booking Site</title><link>https://www.freelancer.com/projects/web-development/Audio-Equipment-Installation-Booking</link><guid isPermaLink="false">freelancer:40790190</guid><pubDate>Tue, 27 Oct 2026 22:35:24 GMT</pubDate><description>3000-5000 USD | I'm seeking an experienced web developer to create a user-friendly site that allows customers to book audio equipment installation visits.
+
+Key Features:
+- Service Booking: Customers can book installation visits for:
+  - Home theater and surround sound
+  - Whole-home audio and smart speakers
+  - Professional studio and recording equipment
+- Information Submission: Customers need to provide:
+  - Preferred date and time
+  - Home address and room details
+
+Ideal Skills and Experience:
+- Web development expertise, particularly in building booking systems
+- Experience in creating intuitive user interfaces
+- Familiarity with audio equipment installation is a plus
+- Strong communication skills for project collaboration
+-Totally engineered systems
+
+Please provide samples of similar work and a timeline for completion. Looking forward to your bids!</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
