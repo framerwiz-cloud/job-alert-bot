@@ -455,6 +455,17 @@ What We Provide:
 
 Timeline: Ongoing / as projects are assigned
 Location: Open to freelancers in the Americas or Europe</description></item>
+<item><title>Braintree Checkout Integration Needed</title><link>https://www.freelancer.com/projects/braintree/Braintree-Checkout-Integration-Needed</link><guid isPermaLink="false">freelancer:40791674</guid><pubDate>Wed, 28 Oct 2026 17:35:38 GMT</pubDate><description>15-25 USD/hr | I need Braintree’s Drop-in (or a custom-hosted) checkout added to my custom-built website so visitors can make one-time payments. At a minimum the flow must accept credit and debit cards, PayPal, Apple Pay, Google Pay, and Venmo through a single, seamless UI, then return a confirmed transaction ID to my server.
+
+The site already handles shopping-cart logic and order confirmation; what’s missing is the secure payment layer. You’ll be responsible for both the client-side tokenization and the server-side transaction call, using the official Braintree SDKs in whichever language you prefer. Everything has to run in production as well as in the Braintree sandbox for testing.
+
+Deliverables
+• Fully working checkout embedded in the existing payment page  
+• Server-side code that creates and submits the transaction  
+• Callback/wh webhook handling for success, failure, and duplicate protection  
+• Clear setup notes so I can swap keys and deploy to staging/production
+
+I’ll supply design assets, access to the repo, and Braintree credentials as soon as we start.</description></item>
 <item><title>Property Listing &amp; Guest Support</title><link>https://www.freelancer.com/projects/customer-service/Property-Listing-Guest-Support</link><guid isPermaLink="false">freelancer:40791659</guid><pubDate>Wed, 28 Oct 2026 17:30:18 GMT</pubDate><description>10-15 GBP/hr | If you’re already comfortable inside the Airbnb and Vrbo dashboards, use tools like a basic channel manager, and enjoy customer interaction, let’s talk.
 
 ’m looking for a proactive coordinator who can take full ownership of my short-term rental portfolio’s online presence while keeping incoming guests happy through quick live-chat responses.  
