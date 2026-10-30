@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>GoDaddy Airo Store Setup</title><link>https://www.freelancer.com/projects/godaddy/GoDaddy-Airo-Store-Setup</link><guid isPermaLink="false">freelancer:40793877</guid><pubDate>Fri, 30 Oct 2026 00:42:21 GMT</pubDate><description>30-250 USD | I’ve built the core of my website using GoDaddy Airo, but I’m having trouble completing some of the functionality. I’m looking for someone to finish the website and make the subscriber experience work smoothly.
+
+Here’s what I need:
+
+1. After a customer subscribes and completes checkout, they should receive two separate emails: a welcome email and an email with a secure link to their library.
+
+2. The checkout confirmation page should have a button labeled “Take Me to My Library.” Customers should already be signed in after subscribing, so this button takes them directly to their library without requiring another login.
+
+3. Their library page should display the clubs they subscribe to. Each club should link to its own club page, where clicking the door opens that club’s library. Access should be limited to their active subscriptions.
+
+4. When returning subscribers sign in, they should be taken directly to their library.
+
+
+5. The transition from the club page into the library currently feels abrupt. I would like a smoother, more immersive animation: the door opens, and the view moves forward as though the subscriber is walking into the library, without a sudden jump between pages.
+
+6. The “Library” tab in the navigation bar should link to the subscriber’s library page.
+I need an admin panel to upload content to my website without using airo. 
+I’d like to keep the existing design while improving these features. Please let me know whether you can complete this within my current GoDaddy Airo setup, along with your estimated timeline and cost.</description></item>
 <item><title>Build a Modern, Responsive Business Website</title><link>https://www.freelancer.com/projects/frontend-development/Build-Modern-Responsive-Business-Website</link><guid isPermaLink="false">freelancer:40793860</guid><pubDate>Fri, 30 Oct 2026 00:15:48 GMT</pubDate><description>15-25 USD/hr | I'm looking for an experienced web developer to build a modern, professional, and responsive website for my business.
 
 The website should have a clean design, user-friendly navigation, and excellent performance across desktop and mobile devices.
@@ -674,24 +692,6 @@ Ideal skills and experience:
 - Experience with API integrations.
 - Familiarity with Vagaro and calendar systems.
 - Strong development skills to ensure reliable sync.</description></item>
-<item><title>Shopify Store Setup &amp; Coaching</title><link>https://www.freelancer.com/projects/shopify-site/Shopify-Store-Setup-Coaching-40790066</link><guid isPermaLink="false">freelancer:40790066</guid><pubDate>Tue, 27 Oct 2026 20:21:08 GMT</pubDate><description>20-250 GBP | I opened a Shopify account a while back but never got beyond the default template. I’m ready to launch now and need a seasoned Shopify specialist to transform the bare store into a polished, sales-ready site.
-
-What you’ll be working with  
-• Product type: physical items that I will ship to customers.  
-• Initial catalogue: up to 20 products.  
-• Current assets: I still need help sourcing or creating most photos, copy, pricing, size/colour details and shipping information.
-
-Scope of work  
-1. Theme customisation – choose or refine a theme so the storefront looks professional and matches the brand style we discuss.  
-2. Product build-out – photograph or source images, write concise SEO-friendly descriptions, input variants, pricing, stock levels and organise everything into clear collections.  
-3. Store settings – configure payment gateways, tax, shipping zones and policies so checkout works smoothly.  
-4. Launch checklist – test orders, mobile responsiveness, speed tweaks, basic on-page SEO and any essential apps.  
-5. Handover coaching – once the store is live, walk me through day-to-day tasks such as adding products, fulfilling orders and running promotions. A short written or recorded guide would be ideal so I can reference it later.
-
-Acceptance  
-The project is complete when the storefront is public, a test order processes without issues, and I feel confident managing the essentials on my own.
-
-If you have a portfolio of Shopify sites for physical products and enjoy guiding first-time store owners, I’d love to work with you.</description></item>
 <item><title>Senior UX/UI Designer to Review and Elevate Two Brand Websites</title><link>https://www.freelancer.com/projects/web-design/Senior-Designer-Review-Elevate-Two</link><guid isPermaLink="false">freelancer:40789827</guid><pubDate>Tue, 27 Oct 2026 16:54:41 GMT</pubDate><description>15-25 USD/hr | Category: UX/UI Design. Upwork had auto-tagged it “Logo Design”, so I changed it.
 Skills: Figma, Web Design, UX Design, UI Design, Visual Communication, Responsive Design, Style Guide.
 Scope: Medium, 1 to 3 months, Expert level, not contract-to-hire, worldwide talent.
