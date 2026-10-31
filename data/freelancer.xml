@@ -3,6 +3,7 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>USSD Top-Up Payment Gateway</title><link>https://www.freelancer.com/projects/payment-gateway-integration/USSD-Top-Payment-Gateway</link><guid isPermaLink="false">freelancer:40796337</guid><pubDate>Sat, 31 Oct 2026 16:51:31 GMT</pubDate><description>1500-3000 USD | please read the requirement in the PDF file</description></item>
 <item><title>WordPress Redesign with 3D Tours</title><link>https://www.freelancer.com/projects/3d-modelling/WordPress-Redesign-with-Tours</link><guid isPermaLink="false">freelancer:40795395</guid><pubDate>Sat, 31 Oct 2026 15:28:51 GMT</pubDate><description>30-250 EUR | I want to give cfhansen.com a fresh, timeless look that does justice to C. F. Hansen’s neo-classical legacy. The site already runs on WordPress, so your job is to craft a new theme or child-theme that feels elegant, restrained and modern while subtly echoing the architect’s proportions, colours, and typography.
 
 The first experience I want visitors to have is exploring the heritage buildings. At launch this will be through simple interactive 3-D models embedded on the relevant pages (Sketchfab, Three.js or another lightweight solution you recommend). Your build should also leave room for me to swap those models out for full walk-through Matterport–style tours later without a major re-work.
@@ -788,92 +789,6 @@ Ideal Skills and Experience:
 - Ability to create a 'lovable' user experience that captivates and retains users.
 
 Please share your relevant work and a brief proposal.</description></item>
-<item><title>Convert Hardcoded Website into WordPress Theme -- 2</title><link>https://www.freelancer.com/projects/php/Convert-Hardcoded-Website-into-WordPress</link><guid isPermaLink="false">freelancer:40791432</guid><pubDate>Wed, 28 Oct 2026 15:00:18 GMT</pubDate><description>30-250 USD | ## WordPress Developer Needed – Convert Existing Hardcoded Website into Theme Template Structure
-
-We are looking for an experienced **WordPress developer** to convert an existing WordPress website that is currently built with mostly **hardcoded page layouts/content** into a properly structured, reusable **WordPress theme/template system**. 
-
-The goal is to keep the existing website's appearance and functionality while restructuring the code so that the site is easier to maintain, edit, and expand through WordPress.
-
-Do not use third party free theme.
-
-### Scope of Work
-
-The developer will be responsible for:
-
-* Review the existing WordPress website and current theme/code structure.
-* Convert hardcoded pages into proper reusable WordPress templates.
-* Create appropriate theme files such as:
-
-  * `header.php`
-  * `footer.php`
-  * `page.php`
-  * `single.php`
-  * `archive.php`
-  * Custom product emplates page
-  * Reusable template parts/components
-* Move repeated hardcoded sections into reusable theme components.
-* Convert hardcoded navigation into WordPress menu locations.
-* Convert editable page content so it can be managed through the WordPress admin area.
-* Use WordPress best practices for:
-
-  * Theme structure
-  * Template hierarchy
-  * PHP
-  * HTML/CSS
-  * JavaScript
-  * WordPress hooks and functions
-* Properly enqueue CSS and JavaScript instead of hardcoding scripts/styles where applicable.
-* Preserve the existing responsive design and frontend appearance.
-* Preserve existing URLs and SEO structure wherever possible.
-* Make sure existing forms, scripts, plugins, and functionality continue to work.
-* Remove unnecessary or duplicated hardcoded code where appropriate.
-* Ensure the finished theme is clean, organized, and easy for another developer to maintain.
-
-### Important
-
-We are **not looking for a complete website redesign**.
-
-The existing website design should remain substantially the same. The main objective is to improve the **WordPress theme architecture and backend maintainability**.
-
-We would prefer that the website remain lightweight and avoid unnecessary page-builder dependencies unless there is a specific reason to use one.
-
-### Desired Result
-
-After completion:
-
-1. The website should look essentially the same as the existing site.
-2. Common elements should be controlled through reusable theme templates rather than duplicated hardcoded HTML.
-3. Page content should be editable through WordPress where appropriate.
-4. The theme should follow standard WordPress development practices.
-5. Future pages should be easier to create using the established templates.
-6. The code should be organized and documented sufficiently for another WordPress developer to continue working on it.
-
-### Required Experience
-
-Please apply only if you have strong experience with:
-
-* Custom WordPress theme development
-* WordPress Template Hierarchy
-* PHP
-* HTML5
-* CSS / responsive design
-* JavaScript
-* WordPress hooks and functions
-* Converting static or hardcoded websites into dynamic WordPress themes
-
-Experience restructuring an existing custom WordPress website without changing its frontend design is strongly preferred.
-
-### When Applying
-
-Please include:
-
-* Examples of custom WordPress themes you have developed.
-* Examples of websites you converted from hardcoded/static layouts into reusable WordPress templates.
-* A brief explanation of how you would approach this project.
-* Whether you will personally perform the development work.
-* Your estimated project cost or hourly rate.
-
-Please begin your proposal with **“WORDPRESS THEME CONVERSION”** so we know you have read the complete project description.</description></item>
 <item><title>WordPress Layout Redesign</title><link>https://www.freelancer.com/projects/shopify-development/WordPress-Layout-Redesign</link><guid isPermaLink="false">freelancer:40790740</guid><pubDate>Wed, 28 Oct 2026 06:49:24 GMT</pubDate><description>2-8 USD/hr | Our company currently has numerous WordPress websites that require secondary development and modification. Most of these issues are related to the UI, while some require a complete re-development. I am in need of a long-term, full-time partner who can respond promptly. This person must be proficient in WordPress and Shopify development. Since we only have websites on these two platforms, we must be highly skilled in the development of these platforms. The daily work hours are at least 8-10 hours. The tasks are quite simple. My salary is not very high, but it is very stable. I will first present a test contract for work testing. I will first give a few simple tasks for modification, and then proceed with other task development. My weekly compensation is around $120. The price is not very high, but it is very stable. We have a large number of websites, and I need a sincere and cooperative developer with strong capabilities to join us.</description></item>
 <item><title>Brilliant Directories Setup &amp; Configuration for a wholesale directory</title><link>https://www.freelancer.com/projects/web-development/Brilliant-Directories-Setup</link><guid isPermaLink="false">freelancer:40790483</guid><pubDate>Wed, 28 Oct 2026 03:26:38 GMT</pubDate><description>2-8 AUD/hr | The Brilliant Directories framework is already installed on my server; it now needs a full, production-ready configuration so the site functions as a business directory that showcases company listings and collects enquiries through lead forms.  
 
