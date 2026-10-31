@@ -305,7 +305,6 @@ I would like an initial homepage mock-up showing your proposed layout, typograph
 - All additional or recurring costs.
 - What you need from me to begin.
 - Details of post-launch support.</description></item>
-<item><title>USSD Top-Up Payment Gateway</title><link>https://www.freelancer.com/projects/payment-gateway-integration/USSD-Top-Payment-Gateway</link><guid isPermaLink="false">freelancer:40796337</guid><pubDate>Sat, 31 Oct 2026 16:51:31 GMT</pubDate><description>1500-3000 USD | please read the requirement in the PDF file</description></item>
 <item><title>WordPress Redesign with 3D Tours</title><link>https://www.freelancer.com/projects/3d-modelling/WordPress-Redesign-with-Tours</link><guid isPermaLink="false">freelancer:40795395</guid><pubDate>Sat, 31 Oct 2026 15:28:51 GMT</pubDate><description>30-250 EUR | I want to give cfhansen.com a fresh, timeless look that does justice to C. F. Hansen’s neo-classical legacy. The site already runs on WordPress, so your job is to craft a new theme or child-theme that feels elegant, restrained and modern while subtly echoing the architect’s proportions, colours, and typography.
 
 The first experience I want visitors to have is exploring the heritage buildings. At launch this will be through simple interactive 3-D models embedded on the relevant pages (Sketchfab, Three.js or another lightweight solution you recommend). Your build should also leave room for me to swap those models out for full walk-through Matterport–style tours later without a major re-work.
@@ -856,6 +855,26 @@ Acceptance criteria
 • Search, booking, and the dual-payment option work end-to-end without errors.
 • Confirmation emails arrive within one minute.
 • Code is clean, readable, and modular for future expansion.</description></item>
+<item><title>WooCommerce Interactive Product Gallery Revamp</title><link>https://www.freelancer.com/projects/html/WooCommerce-Interactive-Product-Gallery</link><guid isPermaLink="false">freelancer:40793377</guid><pubDate>Thu, 29 Oct 2026 16:31:00 GMT</pubDate><description>1500-3000 EUR | I need a developer to overhaul the WooCommerce product gallery so shoppers can examine every item in detail without extra clicks or page reloads.  
+
+What the finished gallery must do:
+• Hover-based lens zoom on desktop  
+• Click-to-open, full-screen lightbox with navigation  
+• Horizontal, scrollable thumbnail strip under the main image  
+• Seamless video support—whether I paste a YouTube link or upload an MP4, it should appear in the same gallery flow  
+• Mobile-friendly swipe gestures for images and videos  
+• Automatic image switch when a customer picks a variation (colour, size, etc.)  
+• Lazy loading to keep Core Web Vitals healthy  
+• Visible corner badges (Sale, New, Best Seller) layered on the gallery images, pulled from product data or an easy custom field  
+
+Please work within standard WooCommerce hooks so the solution survives theme updates, and keep any added JavaScript/CSS lightweight. I’m happy with a custom plugin or a well-documented functions.php implementation—whichever is cleaner.  
+
+Deliverables:
+1. Working gallery integrated on my staging site  
+2. Clear installation and rollback instructions  
+3. Source files and brief code comments for future maintenance  
+
+If you’ve tackled similar galleries, share a link. I’m ready to start as soon as I find the right fit.</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
