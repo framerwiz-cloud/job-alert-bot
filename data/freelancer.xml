@@ -3,24 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Rebuild Lost Website (includes book store, audio/video interface)</title><link>https://www.freelancer.com/projects/web-development/Rebuild-Lost-Website-includes-book</link><guid isPermaLink="false">freelancer:40796607</guid><pubDate>Sat, 31 Oct 2026 22:39:31 GMT</pubDate><description>30-250 USD | The original site is gone, but I still have screenshots of nearly every page. Your first task is to recreate those pages so they visually match the images; once that baseline is in place we can polish the look and make sure everything is fully responsive for phones and tablets.
-
-After the core pages are rebuilt, I need an e-commerce section where visitors can buy my books using either card payments (Stripe) or PayPal. A separate page will host short audio and video clips—embedding from YouTube or other sites with the audio/video may be is fine as long as it fits the restored design.  It should also have option to load short clips on site.
-
-Because I will manage the site myself, a clear, step-by-step admin guide (plain English, screenshots welcome) is required. If you cannot provide straightforward documentation, this project is not a fit for you.
-
-Deliverables
-• Pixel-accurate rebuild of all pages from the provided images  
-• Mobile-friendly, refreshed styling that preserves the original spirit  
-• Bookstore with Stripe and PayPal checkout flows fully tested  
-• Media page for audio/video clip uploads or embeds  
-• Concise maintenance guide covering page edits, product updates and media uploads  
-
-I’m flexible on the stack—WordPress + WooCommerce, Shopify, or another proven CMS  as long as you meet every deliverable above and it can be maintained by me going forward.  
-
-We would need to agree on what that is before you begin.
-
-I need this up and working this week.</description></item>
 <item><title>Kickstarter Landing Page &amp; Shopify Setup</title><link>https://www.freelancer.com/projects/email-marketing/Kickstarter-Landing-Page-Shopify-Setup</link><guid isPermaLink="false">freelancer:40796580</guid><pubDate>Sat, 31 Oct 2026 21:44:40 GMT</pubDate><description>250-750 USD | I'm looking for a skilled developer to create a landing page for my upcoming Kickstarter project. The primary function of this page is to allow customers to reserve my product by paying a fixed deposit.
 
 Key requirements:
@@ -874,6 +856,26 @@ Scope is open-ended, up to 100+ pages per user— Client, Professional, Influenc
 Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
 
 Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings (2 skipped = work rejected); act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4–6 months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid... https://docs.google.com/document/d/1fjD0bI1yv_z0O-WM5qd9XU1Pek-9zSWk4feLLS1RjBI/edit?tab=t.0</description></item>
+<item><title>Music Link Landing Page Platform</title><link>https://www.freelancer.com/projects/web-development/Music-Link-Landing-Page-Platform</link><guid isPermaLink="false">freelancer:40793087</guid><pubDate>Thu, 29 Oct 2026 13:04:33 GMT</pubDate><description>750-1500 USD | I want to build a web-based landing-page generator geared toward musicians who need a single, shareable link for every new release. Think of the core experience of Hypeddit or Soundplate blended with the simplicity of Linktr.ee, but focused first on music release and streaming links.
+
+Scope of the first version
+• Users create an account, choose a subscription tier (Stripe or similar is fine), and start building pages immediately.  
+• Each page must display the artwork, release title, and one-click buttons to every major music service—Spotify, Apple Music, YouTube, Deezer, Tidal, SoundCloud, Bandcamp, Audiomack, etc.  
+• Optional blocks that the user can toggle on/off: email-collection form and follow buttons, an embedded 30-second preview player, real-time visitor statistics, plus a simple social-media links/feed section.  
+• Pages and dashboards need to be fully responsive and load fast on mobile.
+
+Back-end essentials
+A clean admin area to manage subscribers, plans, and overall site settings; user dashboards where artists can upload artwork, paste their ISRC/UPC or streaming URLs, reorder buttons, and view analytics.
+
+Tech preferences
+I’m open on the stack—Laravel, Node, or a modern headless CMS paired with React/Vue all work for me—as long as the codebase is clean, documented, and easy to extend to video or more general creator pages later.
+
+Deliverables
+1. Production-ready website hosted on my domain.  
+2. Source code in a private Git repository with setup instructions.  
+3. Brief walkthrough call or video showing how to add new features or adjust subscription tiers.
+
+If you’ve built similar SaaS tools, especially around music tech, I’d love to see them. Let’s discuss timelines and the best path to an MVP.</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
