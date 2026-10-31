@@ -3,15 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Astro.js Clean Portfolio Build</title><link>https://www.freelancer.com/projects/web-development/Astro-Clean-Portfolio-Build</link><guid isPermaLink="false">freelancer:40796613</guid><pubDate>Sat, 31 Oct 2026 22:57:15 GMT</pubDate><description>30-250 CAD | I am looking for the complete design, architecture, and deployment of my personal academic portfolio, research repository, blog, and administrative publishing dashboard.
-
-I need the platform to accomplish the following goals:
-
-Establish a dignified, authoritative scholarly presence for my research,
-
-Serve as an interactive, open-access repository for my peer-reviewed publications,
-
-Empower me to self-manage, publish, and edit all website content via an intuitive browser-based  admin dashboard without requiring any local code or CLI commands.</description></item>
 <item><title>Rebuild Lost Website (includes book store, audio/video interface)</title><link>https://www.freelancer.com/projects/web-development/Rebuild-Lost-Website-includes-book</link><guid isPermaLink="false">freelancer:40796607</guid><pubDate>Sat, 31 Oct 2026 22:39:31 GMT</pubDate><description>30-250 USD | The original site is gone, but I still have screenshots of nearly every page. Your first task is to recreate those pages so they visually match the images; once that baseline is in place we can polish the look and make sure everything is fully responsive for phones and tablets.
 
 After the core pages are rebuilt, I need an e-commerce section where visitors can buy my books using either card payments (Stripe) or PayPal. A separate page will host short audio and video clips—embedding from YouTube or other sites with the audio/video may be is fine as long as it fits the restored design.  It should also have option to load short clips on site.
@@ -875,6 +866,14 @@ Deliverables:
 3. Source files and brief code comments for future maintenance  
 
 If you’ve tackled similar galleries, share a link. I’m ready to start as soon as I find the right fit.</description></item>
+<item><title>Web Designer Needed for GigResource Refinement -- 2</title><link>https://www.freelancer.com/projects/website-design/Web-Designer-Needed-for-GigResource</link><guid isPermaLink="false">freelancer:40786369</guid><pubDate>Thu, 29 Oct 2026 15:32:04 GMT</pubDate><description>250-750 USD | GigResource — Web Designer JD
+Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
+Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
+Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
+Scope is open-ended, up to 100+ pages per user— Client, Professional, Influencer, Admin and Affiliate pages across all five user types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
+Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
+
+Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings (2 skipped = work rejected); act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4–6 months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid... https://docs.google.com/document/d/1fjD0bI1yv_z0O-WM5qd9XU1Pek-9zSWk4feLLS1RjBI/edit?tab=t.0</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
