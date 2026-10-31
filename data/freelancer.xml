@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Sabre API Flight Hotel Engine</title><link>https://www.freelancer.com/projects/api-developmet/Sabre-API-Flight-Hotel-Engine</link><guid isPermaLink="false">freelancer:40796457</guid><pubDate>Sat, 31 Oct 2026 18:43:08 GMT</pubDate><description>150-300 USD | I need a lightweight OTA front-end built around the Sabre API that lets users search flights and hotels on the same website, see live availability, and then hand the booking off to me for manual ticketing.  
+
+Core flow  
+• Home page with a combined flight &amp; hotel search panel.  
+• Flight search must offer three date modes: exact date, ±1 day, or ±3 days.  
+• After a traveller chooses an itinerary or property and submits their details, the system should:  
+  – Create a Sabre PNR in my PCC.  
+  – Store the quoted fare in the PNR.  
+  – Fire an email (or webhook) notification to me containing the booking summary so I can verify everything and issue the ticket offline.  
+No online payment gateway is required at this stage.
+
+Please use Sabre’s latest REST/JSON services where possible; fallback to SOAP calls if a feature is missing. A clean, responsive UI (plain HTML/CSS/JavaScript or a light framework like React) is fine as long as the code is easy for me to maintain.
+
+Deliverables  
+1. Source code for the search and booking modules.  
+2. Simple front page template wired to the search logic.  
+3. Documentation: setup, environment variables, and Sabre credentials required.  
+4. Brief hand-off call or video explaining deployment and PNR flow.
+
+If you have previous Sabre or other GDS experience, let me know—speed of delivery and API accuracy are key for me.</description></item>
 <item><title>Unique Modern Engagement Ring Design</title><link>https://www.freelancer.com/projects/3d-design/Unique-Modern-Engagement-Ring-Design</link><guid isPermaLink="false">freelancer:40796423</guid><pubDate>Sat, 31 Oct 2026 18:11:56 GMT</pubDate><description>20-250 GBP | I'm seeking a talented engagement ring designer to create a modern and unique ring. I already have the engagement ring but the company that I designed it with is able to re design it for me, however I want to work with a designer that can give me a few options &amp; also bring my ideas to life 
 
 
@@ -828,7 +848,6 @@ Only apply if you agree to complete the entire project for $100 USD.
 The core objective is simple: increase the number of qualified appointments and consultations. Everything you build should point to that metric—fast loading pages, clear CTAs, and a friction-free booking flow.
 
 I’ll provide branding assets, copy, and access to my GoHighLevel workspace. You return a fully implemented setup, briefly walk me through how to tweak it, and ensure test bookings run end-to-end without hiccups. If this sounds like your wheelhouse, let’s get started.</description></item>
-<item><title>Redesign Website Pages from Existing Draft</title><link>https://www.freelancer.com/projects/website-design/Redesign-Website-Pages-from-Existing</link><guid isPermaLink="false">freelancer:40791761</guid><pubDate>Wed, 28 Oct 2026 19:06:14 GMT</pubDate><description>30-250 CAD | Need to design few pages of my website..Already have a draft, need to redesign</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
