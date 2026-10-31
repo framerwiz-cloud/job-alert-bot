@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Astro.js Clean Portfolio Build</title><link>https://www.freelancer.com/projects/web-development/Astro-Clean-Portfolio-Build</link><guid isPermaLink="false">freelancer:40796613</guid><pubDate>Sat, 31 Oct 2026 22:57:15 GMT</pubDate><description>30-250 CAD | I am looking for the complete design, architecture, and deployment of my personal academic portfolio, research repository, blog, and administrative publishing dashboard.
+
+I need the platform to accomplish the following goals:
+
+Establish a dignified, authoritative scholarly presence for my research,
+
+Serve as an interactive, open-access repository for my peer-reviewed publications,
+
+Empower me to self-manage, publish, and edit all website content via an intuitive browser-based  admin dashboard without requiring any local code or CLI commands.</description></item>
 <item><title>Rebuild Lost Website (includes book store, audio/video interface)</title><link>https://www.freelancer.com/projects/web-development/Rebuild-Lost-Website-includes-book</link><guid isPermaLink="false">freelancer:40796607</guid><pubDate>Sat, 31 Oct 2026 22:39:31 GMT</pubDate><description>30-250 USD | The original site is gone, but I still have screenshots of nearly every page. Your first task is to recreate those pages so they visually match the images; once that baseline is in place we can polish the look and make sure everything is fully responsive for phones and tablets.
 
 After the core pages are rebuilt, I need an e-commerce section where visitors can buy my books using either card payments (Stripe) or PayPal. A separate page will host short audio and video clips—embedding from YouTube or other sites with the audio/video may be is fine as long as it fits the restored design.  It should also have option to load short clips on site.
@@ -847,26 +856,6 @@ Acceptance criteria
 • Search, booking, and the dual-payment option work end-to-end without errors.
 • Confirmation emails arrive within one minute.
 • Code is clean, readable, and modular for future expansion.</description></item>
-<item><title>WooCommerce Interactive Product Gallery Revamp</title><link>https://www.freelancer.com/projects/html/WooCommerce-Interactive-Product-Gallery</link><guid isPermaLink="false">freelancer:40793377</guid><pubDate>Thu, 29 Oct 2026 16:31:00 GMT</pubDate><description>1500-3000 EUR | I need a developer to overhaul the WooCommerce product gallery so shoppers can examine every item in detail without extra clicks or page reloads.  
-
-What the finished gallery must do:
-• Hover-based lens zoom on desktop  
-• Click-to-open, full-screen lightbox with navigation  
-• Horizontal, scrollable thumbnail strip under the main image  
-• Seamless video support—whether I paste a YouTube link or upload an MP4, it should appear in the same gallery flow  
-• Mobile-friendly swipe gestures for images and videos  
-• Automatic image switch when a customer picks a variation (colour, size, etc.)  
-• Lazy loading to keep Core Web Vitals healthy  
-• Visible corner badges (Sale, New, Best Seller) layered on the gallery images, pulled from product data or an easy custom field  
-
-Please work within standard WooCommerce hooks so the solution survives theme updates, and keep any added JavaScript/CSS lightweight. I’m happy with a custom plugin or a well-documented functions.php implementation—whichever is cleaner.  
-
-Deliverables:
-1. Working gallery integrated on my staging site  
-2. Clear installation and rollback instructions  
-3. Source files and brief code comments for future maintenance  
-
-If you’ve tackled similar galleries, share a link. I’m ready to start as soon as I find the right fit.</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
