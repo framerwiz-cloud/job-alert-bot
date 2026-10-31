@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Unique Modern Engagement Ring Design</title><link>https://www.freelancer.com/projects/3d-design/Unique-Modern-Engagement-Ring-Design</link><guid isPermaLink="false">freelancer:40796423</guid><pubDate>Sat, 31 Oct 2026 18:11:56 GMT</pubDate><description>20-250 GBP | I'm seeking a talented engagement ring designer to create a modern and unique ring. I already have the engagement ring but the company that I designed it with is able to re design it for me, however I want to work with a designer that can give me a few options &amp; also bring my ideas to life 
+
+
+Key Requirements:
+- Expertise in modern and unique jewelry design
+- Experience with unconventional settings and asymmetrical designs
+- Proficiency in working with diamonds
+
+Ideal Skills and Experience:
+- Previous engagement ring design work
+- Strong portfolio showcasing modern and unique designs
+- Knowledge of diamond characteristics and settings
+
+Please provide a portfolio with your bids.</description></item>
 <item><title>Website Site Refresh</title><link>https://www.freelancer.com/projects/website-design/Website-Site-Refresh</link><guid isPermaLink="false">freelancer:40796348</guid><pubDate>Sat, 31 Oct 2026 16:55:15 GMT</pubDate><description>20-250 GBP | **Premium Pizza Website Redesign
 
 I’m looking for a talented website designer and WordPress developer to redesign **www.jianis.co.uk** into a premium, engaging website that builds credibility, attracts customers and generates event catering enquiries.
@@ -836,29 +850,6 @@ Show me past work that proves you can:
 • Add multilingual capability cleanly  
 
 PROVIDE AN OUTLINE OF YOUR APPROCH, SUGGESTED WEBSITE BUILDER, AND TIMELINE.  </description></item>
-<item><title>Ongoing Python Automation &amp; Integration -- 2</title><link>https://www.freelancer.com/projects/php/Ongoing-Python-Automation-Integration</link><guid isPermaLink="false">freelancer:40791679</guid><pubDate>Wed, 28 Oct 2026 17:38:39 GMT</pubDate><description>30-250 USD | Scope of Work:
-- Development tasks based on written specifications (web, automation, integrations, or related IT work)
-- Deliverables defined per project, with clear acceptance criteria
-- Milestones agreed upfront before work begins
-- Revisions handled within the agreed scope
-
-Requirements:
-- Professional experience in IT / software development
-- Ability to work from a written spec and meet deadlines
-- Reliable communication and availability for check-ins
-- Able to work independently with minimal hand-holding
-
-Preferred Skills:
-Web Development, Python, Automation, API Integration, JavaScript, WordPress
-
-What We Provide:
-- Complete written specs for each project
-- All client communication handled on our side
-- 50% upfront / 50% on delivery per project
-- Agreed terms documented before each project starts
-
-Timeline: Ongoing / as projects are assigned
-Location: Open to freelancers in the Americas or Europe</description></item>
 <item><title>Braintree Checkout Integration Needed</title><link>https://www.freelancer.com/projects/braintree/Braintree-Checkout-Integration-Needed</link><guid isPermaLink="false">freelancer:40791674</guid><pubDate>Wed, 28 Oct 2026 17:35:38 GMT</pubDate><description>15-25 USD/hr | I need Braintree’s Drop-in (or a custom-hosted) checkout added to my custom-built website so visitors can make one-time payments. At a minimum the flow must accept credit and debit cards, PayPal, Apple Pay, Google Pay, and Venmo through a single, seamless UI, then return a confirmed transaction ID to my server.
 
 The site already handles shopping-cart logic and order confirmation; what’s missing is the secure payment layer. You’ll be responsible for both the client-side tokenization and the server-side transaction call, using the official Braintree SDKs in whichever language you prefer. Everything has to run in production as well as in the Braintree sandbox for testing.
