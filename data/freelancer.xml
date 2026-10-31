@@ -937,17 +937,6 @@ Deliverables
 • Final deployment on my hosting plus a short admin walk-through so I can manage products and orders myself  
 
 If you normally work in WordPress + WooCommerce, Shopify, or another modern e-commerce stack, let me know which you prefer and why; I’m open as long as it delivers the identical experience and easy self-management afterward.</description></item>
-<item><title>Google Workspace Access &amp; ChatGPT Linking</title><link>https://www.freelancer.com/projects/api-integration/Google-Workspace-Access-ChatGPT-Linking</link><guid isPermaLink="false">freelancer:40784630</guid><pubDate>Sat, 24 Oct 2026 12:50:57 GMT</pubDate><description>15-25 USD/hr | I have a small Google Workspace domain already running, but new staff still can’t see what they need. Your first task is to grant them the right level of access to both our shared email inboxes and the Drive folders we rely on every day. They only need to view and reply to messages and to open files—no editing, deleting, or resharing privileges.
-
-Once that’s sorted, I’d like to connect a few simple website functions to ChatGPT so that certain prompts on the site pull data or trigger responses through the API. The integration itself is straightforward; what’s holding me back is making sure account-level permissions and OAuth scopes on Workspace line up cleanly before I switch the code to production.
-
-Deliverables
-• Configure user-level permissions so each new staff member can view/reply in shared mailboxes and view files in the designated Drive folders.  
-• Verify that delegated mailbox access and Drive link sharing behave exactly as intended from two test accounts.  
-• Provide concise, step-by-step notes or a short Loom explaining where to repeat these steps for future hires.  
-• Confirm ChatGPT API calls authenticate without exposing broader Workspace scopes, then demonstrate one working website function tied to the model.
-
-If you’re comfortable juggling Google Admin Console settings, IAM/OAuth concerns, and a quick ChatGPT webhook, this should be a smooth engagement.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
