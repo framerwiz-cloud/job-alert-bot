@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Retail POS System Development</title><link>https://www.freelancer.com/projects/c-sharp-programming/Retail-POS-System-Development</link><guid isPermaLink="false">freelancer:40797021</guid><pubDate>Sun, 01 Nov 2026 08:41:13 GMT</pubDate><description>250-750 AUD | I'm looking for a comprehensive POS system tailored for my retail shop. 
+
+Key functionalities should include:
+- Sales and receipts management
+- Stock tracking
+- GST calculation
+- Discount application
+
+Payment methods should accommodate cash, card, and mobile payments.
+
+Ideal skills and experience:
+- Proven expertise in developing POS systems
+- Strong background in retail operations and requirements
+- Familiarity with GST regulations and multi-payment integration
+- Experience in user-friendly interface design
+
+Please provide examples of similar work done.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
@@ -910,24 +927,6 @@ During the sessions I want to learn, hands-on, how to:
 I’ll share my screen, you guide me, I do the clicks. After each hour I should be able to repeat the steps on my own. If you’re comfortable coaching in real time and can explain why we’re doing each step—not just what buttons to press—let’s line up our first session this week.
 
 Would prefer applicants in the United States who speak english as a first language, but will consider others</description></item>
-<item><title>Booking-Style Hotel Site MVP</title><link>https://www.freelancer.com/projects/web-development/Booking-Style-Hotel-Site-MVP</link><guid isPermaLink="false">freelancer:40793460</guid><pubDate>Thu, 29 Oct 2026 17:26:35 GMT</pubDate><description>250-750 EUR | I need an MVP that lets travellers search for hotels, see real-time availability, and secure a room in just a few clicks. For this first release the scope is intentionally narrow: hotels only—no apartments, hostels, or holiday homes—and the only module I care about right now is search-and-booking.
-
-Core flow
-• Guests enter destination, dates, and guest count.
-• Results show available hotels with photos, amenities, room types, and up-to-date pricing.
-• On the hotel page they choose a room, then either pay online in full (Stripe, PayPal, or a similar gateway) or select “pay at the hotel.”
-• A confirmation email with a reservation code is sent automatically in both cases.
-
-What’s out of scope for this phase: an owner extranet, loyalty programmes, reviews, or other post-stay features. Build the architecture with future modules in mind, but keep the current deliverable lean.
-
-Deliverables (hand-off ready)
-• Responsive web application (frontend, backend, database schema) running on a test server plus all source code in Git.
-• Clear setup instructions and brief technical documentation.
-
-Acceptance criteria
-• Search, booking, and the dual-payment option work end-to-end without errors.
-• Confirmation emails arrive within one minute.
-• Code is clean, readable, and modular for future expansion.</description></item>
 <item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
 
 Platform &amp; editing
