@@ -3,6 +3,46 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Sidebar Dropdown Functionality</title><link>https://www.freelancer.com/projects/dreamweaver/Fix-Sidebar-Dropdown-Functionality</link><guid isPermaLink="false">freelancer:40797935</guid><pubDate>Sun, 01 Nov 2026 23:20:46 GMT</pubDate><description>30-250 USD | I need help making existing sidebar dropdown boxes work across all sections of my Dreamweaver website. Currently, the dropdown options link to pages, but only within one main section. I need them to link correctly to pages in the same folder as the sidebar.
+
+Requirements:
+- Ensure dropdown options function correctly on all pages within the same folder as the sidebar.
+- Maintain current design and functionality of the website.
+
+Ideal Skills &amp; Experience:
+- Proficient in Adobe Dreamweaver
+- Experience with HTML/CSS and website navigation
+- Attention to detail and problem-solving skills
+
+More info from potential client:
+The Dreamweaver site in question is vistabookencore.com. To get to the problem issue, bring up the site and click on an e for encore and that will take to a list of the three sections: VistaBooks History Reprints, VistaBooksOnline, and VistaBooks Vintage,
+
+Cuirrently I am concerned with only the left sidebar "sidebar-l.html". It is located in the VistaBooks Online section, "vbonline" foider. (There is a "sidebar-l copy" file in the site but only there if needed for a backup restore. Another recent backup is in a separate disk on the computerr.)
+
+Go to VistaBooks Online where a home page will come up with sidebars (sidebars also appear on other pages in this section.) In the left sidebar are three sections. 
+Test the dropdown boxes in the VistaBooks History Reprints section; their links to pages all work, ' though sidebars need to be set up on those pages, too.
+Test links in the VistaBooks Online section; none work, links just stall. 
+Links in the VistaBooks Vintage section do not work as I have not finished them pending resolution of the problem in VistaBooks Online, but would seem to have the same fix once found.
+I have also below the VistaBooks Vintage section inserted a test dropdown box with links to pages in another published website, VistaBooks Outlet; all these work.
+The code used for each of the dropdown box lists is like this:
+"&lt;select id="setit1" size="1" name="test1"&gt;    
+    &lt;option value = "https:/www.vistabooksencore.com/vbreprint/pagesvb/vbnogo.html" style="background-color:     #69359c"&gt;REPRINTS SUBJECTS&lt;/option&gt;
+&lt;/select&gt; 
+  &lt;input type="button" value="GO"
+onClick="window.open(setit1.options[setit1.selectedIndex].value)" style="background-color: #69359c"&gt;
+There are 20 dropdown box lists like the above example in the sidebar, with the "setit1" and "test1" values rising one at a time to "setit20" and "test20" but with the size ="1" staying the same.
+The first 5 dropdown boxes are for VistaBooks History Reprints; all work. 
+The dropdownboxes from 6 thru 12 are for VistaBooks Online; all fail.
+The dropdownboxes from 13 thru 19 are for VistaBooks Vintage; all fail but are mainly yet to be set up).
+The dropdown box 20 for VistaBooks Outlet all works, this to an external published website that is intended to be replaced by vistabooksencore.com.
+The links in all the dropdown boxes are presently set, as an example, to "https://www.vistabooksencore.com/vbreprint/pagesvb/vbwest.html" but I have tried other combinations, omitting folders and subfolders to only using the file name in the links. I have not found a format for this that works.
+Some navigation links are still to be added, which I will do once the sidebar issue is resolved.
+
+Assuming the site and sidebar with dropdown boxes can stay in their current format it may be that I can make needed changes with guidance. For instance, what is the correct format for the links in the dropdown boxes, in what folders or main file should the sidebar files be placed? Do the files need to be adjusted if they are to be placed in different folders, and how?
+
+Please advise what solution(s) there might be for this issue?
+
+William "Bill"" Jones</description></item>
 <item><title>Highlight video of sons football season</title><link>https://www.freelancer.com/projects/website-design/Highlight-video-sons-football-season</link><guid isPermaLink="false">freelancer:40797930</guid><pubDate>Sun, 01 Nov 2026 23:09:06 GMT</pubDate><description>30-250 USD | I want someone to make a professional looking highlight video with raw footage and or phone videos of highlights of my son’s football season. Both defense and offense but separated. To music</description></item>
 <item><title>i need management app inside my wp site - Quotation Request</title><link>https://www.freelancer.com/projects/php/need-management-app-inside-site</link><guid isPermaLink="false">freelancer:40797866</guid><pubDate>Sun, 01 Nov 2026 22:01:59 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
 
@@ -813,43 +853,6 @@ Ideal Skills and Experience:
 EDIT:  The response has been quite overwhelming.  I will need a few days to sort through the proposals.
 I am unfamiliar with the various programs and systems, so if you asked me "What _____ do you prefer?" The answer is "I don't know".  I will also be talking with my printer this week to see what systems he prefers.
 Thank you all for your input.  I will get back to you.</description></item>
-<item><title>Australian Web Developer Referral Partners</title><link>https://www.freelancer.com/projects/web-development/Australian-Web-Developer-Referral</link><guid isPermaLink="false">freelancer:40796733</guid><pubDate>Sun, 01 Nov 2026 03:04:07 GMT</pubDate><description>30-250 AUD | Earn $200 for Referring Your Website Development Clients
-
-Hi,
-
-I'm Andrew Radics, founder of LabRank Digital and co-founder of Mad Scientist Digital. I've spent more than 20 years working in SEO and digital marketing, helping businesses improve their online visibility and generate more business through search engines.
-
-I'm currently looking to connect with Australian freelance web developers and small web development businesses for a straightforward referral partnership.
-
-Here's the opportunity.
-
-You build websites for Australian businesses. Many of those businesses will eventually need SEO to attract visitors, generate enquiries and get more value from the websites you've built for them.
-
-That's where LabRank Digital comes in.
-
-We pay you $200 for every successful referral who signs up for our ongoing SEO service.
-
-It's a one-off upfront commission, not an ongoing arrangement.
-
-How it works:
-
-You introduce a suitable client to LabRank Digital.
-
-They purchase one of our ongoing SEO packages.
-
-Once their first payment clears, we pay you $200.
-
-We take care of everything from there, including the SEO work, reporting and client communication.
-
-There are no joining fees, no targets, no SEO work required and no ongoing obligations.
-
-Our ongoing SEO service starts at $499 per month and is specifically designed to make professional SEO more accessible to Australian small businesses.
-
-Having spent over two decades in this industry, I understand the importance of building a website properly and making sure it actually delivers value to the business behind it.
-
-I'm not looking to sell you anything or create extra work for you. I'm simply offering developers an opportunity to earn additional income from clients they already work with.
-
-If this sounds interesting, I'd be happy to explain how the referral arrangement works.</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
