@@ -3,6 +3,46 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build AI Sales Automation System</title><link>https://www.freelancer.com/projects/n8n/Build-Sales-Automation-System</link><guid isPermaLink="false">freelancer:40797210</guid><pubDate>Sun, 01 Nov 2026 12:27:38 GMT</pubDate><description>250-750 AUD | AI Sales Agent Developer Required — n8n, OpenAI &amp; WooCommerce
+
+We are seeking an experienced AI automation developer to build a fully integrated AI Sales Agent using n8n, OpenAI and our existing business systems.
+
+Project Objectives
+
+Develop an intelligent sales automation system capable of:
+
+* Instant lead response: Automatically engage new website, email and advertising enquiries via two-way SMS.
+* AI sales conversations: Qualify customers, answer product questions and collect detailed requirements.
+* Automated quotations: Connect to WooCommerce, identify suitable products, calculate accurate pricing using custom measurement and product options, and generate quotations through YITH Request a Quote.
+* CRM integration: Synchronise conversations, customer details, quotations and sales opportunities.
+* Automated follow-ups: Re-engage unanswered enquiries, outstanding quotations and previous customers through SMS and email.
+* Appointment scheduling: Integrate calendars and book qualified sales appointments.
+* Lead reactivation: Personalise outreach to existing CRM contacts.
+* Sales intelligence: Use a custom knowledge base containing product specifications, pricing rules and business procedures.
+
+Existing Platforms
+
+n8n Cloud, OpenAI, WordPress, WooCommerce, YITH Request a Quote, Microsoft 365, HubSpot and Bitrix24.
+
+Our n8n connection to WooCommerce is already operational.
+
+Required Experience
+
+Proven expertise in n8n, OpenAI API, WooCommerce REST API, custom WooCommerce pricing, conversational AI, SMS automation, CRM integrations and workflow development.
+
+Experience with WooCommerce Measurement Price Calculator, Product Add-ons and YITH Request a Quote is particularly important.
+
+Project Goal
+
+Build a reliable, scalable AI sales workforce that manages customer enquiries from initial contact through qualification, quotation, follow-up and conversion, with minimal manual intervention.
+
+Freelancer Requirements
+
+Please provide examples of similar projects, your proposed technical approach, estimated fixed-price cost and delivery timeframe.
+
+We are seeking an experienced developer who can deliver a complete working solution, not simply a basic AI chatbot.
+
+The project will be delivered in milestones, beginning with WooCommerce product selection, pricing accuracy and automated quotations.</description></item>
 <item><title>Retail POS System Development</title><link>https://www.freelancer.com/projects/c-sharp-programming/Retail-POS-System-Development</link><guid isPermaLink="false">freelancer:40797021</guid><pubDate>Sun, 01 Nov 2026 08:41:13 GMT</pubDate><description>250-750 AUD | I'm looking for a comprehensive POS system tailored for my retail shop. 
 
 Key functionalities should include:
@@ -889,24 +929,6 @@ Requirements:
 - Must explain what can realistically be completed within 40 hours.
 
 I'm looking for a reliable developer for this project and potentially ongoing work.</description></item>
-<item><title>GoDaddy Airo Store Setup</title><link>https://www.freelancer.com/projects/godaddy/GoDaddy-Airo-Store-Setup</link><guid isPermaLink="false">freelancer:40793877</guid><pubDate>Fri, 30 Oct 2026 00:42:21 GMT</pubDate><description>30-250 USD | I’ve built the core of my website using GoDaddy Airo, but I’m having trouble completing some of the functionality. I’m looking for someone to finish the website and make the subscriber experience work smoothly.
-
-Here’s what I need:
-
-1. After a customer subscribes and completes checkout, they should receive two separate emails: a welcome email and an email with a secure link to their library.
-
-2. The checkout confirmation page should have a button labeled “Take Me to My Library.” Customers should already be signed in after subscribing, so this button takes them directly to their library without requiring another login.
-
-3. Their library page should display the clubs they subscribe to. Each club should link to its own club page, where clicking the door opens that club’s library. Access should be limited to their active subscriptions.
-
-4. When returning subscribers sign in, they should be taken directly to their library.
-
-
-5. The transition from the club page into the library currently feels abrupt. I would like a smoother, more immersive animation: the door opens, and the view moves forward as though the subscriber is walking into the library, without a sudden jump between pages.
-
-6. The “Library” tab in the navigation bar should link to the subscriber’s library page.
-I need an admin panel to upload content to my website without using airo. 
-I’d like to keep the existing design while improving these features. Please let me know whether you can complete this within my current GoDaddy Airo setup, along with your estimated timeline and cost.</description></item>
 <item><title>Install Nexoply on VPS Site</title><link>https://www.freelancer.com/projects/Install-Nexoply-VPS-Site-fix</link><guid isPermaLink="false">freelancer:40793736</guid><pubDate>Thu, 29 Oct 2026 21:31:10 GMT</pubDate><description>8-15 USD/hr | I need someone comfortable with a quick turnaround to deploy Nexoply onto my existing personal website. The site sits on an Ubuntu-based VPS, and I’ll hand over direct SSH credentials so you can work without delay.  
 
 The task is straightforward: clone or upload the Nexoply package, run any required dependency installs, configure environment variables, and confirm that the dashboard and public-facing widgets load correctly on my domain. From past experience it should take no longer than half an hour, so I’m expecting an efficient, clean install rather than an extended build.  
