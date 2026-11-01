@@ -3,6 +3,58 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modifications completed on Website - Quotation Request</title><link>https://www.freelancer.com/projects/php/Modifications-completed-Website</link><guid isPermaLink="false">freelancer:40797794</guid><pubDate>Sun, 01 Nov 2026 20:49:54 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+Project Description:
+I am looking for a freelancer to make some modifications to my existing business website. The ideal candidate should have experience in content updates and be able to work efficiently to make the necessary changes. 
+
+Requirements:
+- Previous experience in website content updates and WordPress
+- Proficient in HTML, CSS, and website management platforms
+- Attention to detail and ability to ensure accuracy in content updates
+- Ability to work within a given timeframe and meet deadlines
+
+Scope of Work:
+- Review the existing content and make necessary updates based on the provided materials
+- Ensure that the updated content is accurate and well-presented
+- Coordinate with the client to address any specific requirements or preferences for the content updates
+- Test the changes to ensure that they are functioning properly and are visually appealing
+
+Deliverables:
+- Updated website content that meets the client's specifications
+- Documentation of any changes made to the website
+- Testing report to ensure that all changes are functioning properly
+
+Content additions:
+-I would like to add these testimonials to the rotating list on the home page:
+
+-Wayne Johnson, Thief River Falls Utilities
+“We retained the services of The Shpigler Group to perform an operational analysis on our system and identify solutions that would enhance our capabilities.  We are very pleased with the professional support and guidance we receive from The Shpigler Group, from the initial project kickoff to the financial analysis, to negotiating they perform on our behalf. The Shpigler Group is truly an advocate for their clients to get the greatest return on investment as well as enhancing our customers’ experience with our utility.”
+
+-Justin Cruise, Rappahannock Electric Cooperative
+“The team at The Shpigler Group has worked closely with our organization to understand our operations, our needs, and our strategic direction.  Their tailored approach to providing solutions has increased our confidence in projecting outcomes and bolstered our decision-making ability.  The Shpigler Group is a force multiplier and is building a reputation among our management team as a trusted consultant.”
+
+-Patrick Jackson, Starr-Iva Water District
+“Our relationship with The Shpigler Group empowers our mid-sized utility to make educated, data driven decisions to expedite the accomplishment of our strategic initiatives.  Utilities of our size could not have a more professional, efficient, and objective business consultant.  Simply put, we move forward faster because of The Shpigler Group and their competent team.”
+
+-Jim Chiasson, City of Rio Rancho
+“The Shpigler Group staff worked diligently to educate us and plan an effective AMI phased installation plan for our city.”
+
+
+If you have the necessary skills and experience, and are able to work efficiently and accurately on this project, please submit your proposal.
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2023-10-13 (historical project ID 37306309). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Shopify Developer &amp; Designer Needed for E-Scooter Store - Quotation Request</title><link>https://www.freelancer.com/projects/website-design/Shopify-Developer-Designer-Needed-for</link><guid isPermaLink="false">freelancer:40797765</guid><pubDate>Sun, 01 Nov 2026 20:29:21 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
 
 REFERENCE SCENARIO — historical requirements, not instructions to begin work:
@@ -833,26 +885,6 @@ If you have handled construction or other city-level bids before and can turn th
 Please provide your experience, availability, and rate.
 
 Immediate start needed.</description></item>
-<item><title>Sabre API Flight Hotel Engine</title><link>https://www.freelancer.com/projects/api-developmet/Sabre-API-Flight-Hotel-Engine</link><guid isPermaLink="false">freelancer:40796457</guid><pubDate>Sat, 31 Oct 2026 18:43:08 GMT</pubDate><description>150-300 USD | I need a lightweight OTA front-end built around the Sabre API that lets users search flights and hotels on the same website, see live availability, and then hand the booking off to me for manual ticketing.  
-
-Core flow  
-• Home page with a combined flight &amp; hotel search panel.  
-• Flight search must offer three date modes: exact date, ±1 day, or ±3 days.  
-• After a traveller chooses an itinerary or property and submits their details, the system should:  
-  – Create a Sabre PNR in my PCC.  
-  – Store the quoted fare in the PNR.  
-  – Fire an email (or webhook) notification to me containing the booking summary so I can verify everything and issue the ticket offline.  
-No online payment gateway is required at this stage.
-
-Please use Sabre’s latest REST/JSON services where possible; fallback to SOAP calls if a feature is missing. A clean, responsive UI (plain HTML/CSS/JavaScript or a light framework like React) is fine as long as the code is easy for me to maintain.
-
-Deliverables  
-1. Source code for the search and booking modules.  
-2. Simple front page template wired to the search logic.  
-3. Documentation: setup, environment variables, and Sabre credentials required.  
-4. Brief hand-off call or video explaining deployment and PNR flow.
-
-If you have previous Sabre or other GDS experience, let me know—speed of delivery and API accuracy are key for me.</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
