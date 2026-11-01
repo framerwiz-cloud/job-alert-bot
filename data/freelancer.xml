@@ -3,17 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>DTF Gang Sheet Builder and Shipping Setup</title><link>https://www.freelancer.com/projects/backend-development/DTF-Gang-Sheet-Builder-Shipping</link><guid isPermaLink="false">freelancer:40797333</guid><pubDate>Sun, 01 Nov 2026 14:22:38 GMT</pubDate><description>3000-5000 USD | I need a custom DTF (Direct to Film) gang sheet builder. This tool should allow customers to upload their designs, edit them, and preview the final sheet before ordering.
+<item><title>DTF Gang Sheet Builder with UPS Integration and User-Friendly Design</title><link>https://www.freelancer.com/projects/backend-development/DTF-Gang-Sheet-Builder-Shipping</link><guid isPermaLink="false">freelancer:40797333</guid><pubDate>Sun, 01 Nov 2026 14:22:38 GMT</pubDate><description>3000-5000 USD | I need a custom DTF (Direct to Film) gang sheet builder. This tool should allow customers to upload their designs, edit them, and preview the final sheet before ordering.
 
 Key Features:
 - Design Upload and Editing: Customers can upload their designs, resize, move, rotate, add text, and remove backgrounds.
 - Preview Functionality: Users can preview the final sheet before placing an order.
-- Shipping Options: At checkout, customers should see local pickup, standard shipping, and express shipping options.
+- Shipping Options: At checkout, customers should see local pickup, standard shipping, and express shipping options. Integration with UPS for real-time shipping cost calculations based on weight and dimensions of purchases is required. The system should also adapt to current box sizes (4x4x24 inches) and allow flexibility for future packaging adjustments.
+- User-Friendly Interface: The platform must be simple and intuitive for customers to use seamlessly.
 
 Ideal Skills and Experience:
 - Experience in developing web-based design tools.
 - Proficiency in image editing functionalities.
-- Knowledge of e-commerce and shipping integration.
+- Knowledge of e-commerce and shipping integration (specifically UPS).
 
 Looking for a seamless, user-friendly interface.</description></item>
 <item><title>Amazon-Style Multi-Seller Platform Build</title><link>https://www.freelancer.com/projects/stripe/Amazon-Style-Multi-Seller-Platform</link><guid isPermaLink="false">freelancer:40797263</guid><pubDate>Sun, 01 Nov 2026 13:14:09 GMT</pubDate><description>750-1500 USD | # Eagle Vision Edge – Amazon-Style Multi-Tenant E-Commerce Platform
@@ -910,153 +911,6 @@ All accounts, campaign data and creative assets must remain under our ownership.
 We do not want purchased traffic, fake engagement, spam backlinks or guaranteed-sales claims. We value clear reporting, controlled testing and commercially realistic recommendations.
 
 Please begin your proposal with "Prime Wraps" and include one specific observation about our website.</description></item>
-<item><title>Clickable Electronic DJ Press Kit</title><link>https://www.freelancer.com/projects/adobe-creative-cloud/Clickable-Electronic-Press-Kit</link><guid isPermaLink="false">freelancer:40794414</guid><pubDate>Fri, 30 Oct 2026 08:17:27 GMT</pubDate><description>30-250 AUD | I need an eye-catching, edgy, and fun electronic press kit that a promoter can open and immediately interact with. Each clearly labeled button must launch either a streaming track (Spotify, SoundCloud) or a video (YouTube, Vimeo); no extra clicks or redirects. The layout should flow: headline, short DJ bio and music-style summary, a gallery strip of photos with past-event highlights, then the action buttons, and finally my booking contacts and social links.
-
-Looks and speed both matter, so please balance clean design with quick load times. I’m open to format suggestions—single-page mini-site preferred—as long as the buttons behave exactly as described and the kit is easy for me to swap in fresh links later.
-
-Style preferences: bold, feminine, edgy with a color scheme of pink, maroon, dark aqua, and dark blue.
-
-Deliverables:
-• Finished, fully tested kit ready to send to promoters  
-• Editable source files so I can update links and imagery in the future  
-• Simple hand-off notes covering how to change links and assets  
-
-If you’ve built musician or DJ EPKs before, include a sample; otherwise, let me know how you’ll approach the button logic and design style.</description></item>
-<item><title>Complete Website Audit with Detailed Issues, Solutions &amp; Implementation Guidelines</title><link>https://www.freelancer.com/projects/seo/Complete-Website-Audit-with-Detailed</link><guid isPermaLink="false">freelancer:40794401</guid><pubDate>Fri, 30 Oct 2026 08:09:37 GMT</pubDate><description>50-100 USD | ## Project Description
-
-I am looking for an experienced website auditor or technical SEO specialist to conduct a **comprehensive audit of my website** and provide a detailed report covering all major issues, their root causes, and practical, step-by-step solutions.
-
-My goal is not simply to receive a list of errors generated by automated tools. I need a professional, in-depth analysis of my website, with clear explanations of every significant issue discovered and specific instructions on how to resolve each one.
-
-The audit should help me understand what is wrong with my website, why each issue matters, how it affects website performance or SEO, and exactly what needs to be done to fix it.
-
-## Scope of Work
-
-### 1. Technical SEO Audit
-- Identify crawling and indexing issues.
-- Review robots.txt, XML sitemap, canonical tags, and meta robots directives.
-- Identify broken links, redirect chains, redirect loops, and 404 errors.
-- Check URL structure and website architecture.
-- Audit duplicate content, orphan pages, and crawlability issues.
-- Review structured data and schema markup.
-- Identify Core Web Vitals and other technical SEO problems.
-
-### 2. On-Page SEO Audit
-- Analyze title tags and meta descriptions.
-- Review heading structure (H1, H2, H3, etc.).
-- Identify missing, duplicated, or poorly optimized metadata.
-- Evaluate keyword targeting and search intent alignment.
-- Review internal linking and anchor text.
-- Analyze image optimization, alt text, and image file sizes.
-- Identify thin, duplicate, outdated, or poorly structured content.
-- Review canonicalization and other on-page SEO best practices.
-
-### 3. Website Speed and Performance Audit
-- Test website performance on desktop and mobile.
-- Analyze loading speed and Core Web Vitals.
-- Identify oversized images, unnecessary scripts, and render-blocking resources.
-- Review CSS and JavaScript optimization opportunities.
-- Check caching, compression, and resource-loading strategies.
-- Identify server response time or other performance bottlenecks where measurable.
-
-### 4. Mobile Responsiveness and User Experience (UX)
-- Identify layout problems on different screen sizes.
-- Check navigation, menus, buttons, forms, and interactive elements.
-- Identify usability issues that may confuse or frustrate visitors.
-- Review readability, accessibility, and visual consistency.
-- Highlight friction points in important user journeys and conversion paths.
-
-### 5. Website Security and Best Practices
-- Check HTTPS implementation and mixed-content issues.
-- Review security headers and other externally observable security configurations where applicable.
-- Identify exposed information or obvious security misconfigurations within the agreed scope.
-- Review outdated software or components where reliable evidence is available.
-- Provide recommendations for improving website security.
-
-Security testing must remain within the authorized scope and should not involve destructive testing or unauthorized access.
-
-### 6. Content and Website Structure Audit
-- Review the quality, organization, and relevance of website content.
-- Identify content gaps, cannibalization, duplication, and weak internal linking.
-- Evaluate navigation structure and important page accessibility.
-- Identify opportunities to improve content organization and topical relevance.
-
-### 7. Accessibility and Technical Best Practices
-- Identify common accessibility issues, including missing labels, insufficient color contrast, image alternatives, and keyboard-navigation problems.
-- Review HTML structure, semantic elements, and other relevant implementation practices.
-- Recommend improvements aligned with recognized accessibility standards, where applicable.
-
-### 8. Analytics and Conversion Tracking Review
-- Review Google Analytics 4 and Google Search Console configuration if access is provided.
-- Identify obvious tracking gaps, duplicate tracking, or improperly configured events.
-- Review conversion tracking for relevant forms, buttons, leads, or purchases.
-- Provide recommendations for improving measurement and reporting.
-
-## Most Important Requirement: Detailed Solutions for Every Issue
-
-**Finding an issue is not enough. Every reported issue must include a clear, practical, and detailed solution.**
-
-For each issue identified, I expect the report to include:
-
-1. **Issue Title:** A clear name for the problem.
-2. **Affected URL(s):** The exact pages or resources where the issue occurs.
-3. **Evidence:** Screenshots, tool results, code examples, test results, or other supporting evidence.
-4. **Explanation:** What the issue is and why it matters.
-5. **Root Cause:** The likely reason behind the issue, supported by evidence where possible.
-6. **Impact:** How it may affect SEO, website speed, user experience, accessibility, security, or conversions.
-7. **Priority Level:** Critical, High, Medium, or Low, based on severity and business impact.
-8. **Detailed Solution:** The recommended fix, explained in straightforward language.
-9. **Step-by-Step Implementation Guide:** Exactly what to do, where to do it, and how to do it.
-10. **Code Examples or Settings:** Where applicable, provide corrected code snippets, configuration examples, recommended settings, or before-and-after examples.
-11. **Required Tools or Access:** Specify any CMS access, developer assistance, plugins, or tools needed.
-12. **Verification Method:** Explain how to confirm that the issue has been fixed and which tools or tests to use.
-
-For example, if a page has a missing canonical tag, I do not want the report to simply say "Add a canonical tag." I expect the freelancer to identify the affected page, explain why the tag is needed, provide the appropriate canonical URL, show an example of the correct implementation, explain where to add it in my CMS or website code, and describe how to verify the fix.
-
-The same level of detail should be provided for every significant issue found.
-
-## Expected Deliverables
-
-- A complete website audit report in PDF, Google Docs, or another mutually agreed format.
-- A prioritized list of all identified issues, organized by category.
-- A detailed, issue-by-issue solution and implementation guide.
-- Relevant screenshots, evidence, and affected URLs.
-- Code snippets, configuration examples, or before-and-after examples wherever useful.
-- A prioritized action plan showing what should be fixed first, next, and later.
-- A summary of quick wins, major problems, and long-term improvement opportunities.
-- A final checklist that I can use to track implementation and verify completed fixes.
-
-A spreadsheet containing the issues, affected URLs, priorities, recommended fixes, and verification status would also be appreciated.
-
-## Quality Expectations
-
-- The audit must be specific to my website, not a generic template.
-- Automated tools may be used, but their findings must be manually reviewed and interpreted.
-- Recommendations must be practical, technically accurate, and tailored to my website's platform and configuration.
-- Clearly distinguish confirmed issues from potential problems that require further investigation.
-- Avoid vague recommendations such as "improve SEO," "optimize speed," or "fix technical errors" without explaining the actual steps required.
-- Do not recommend unnecessary changes or guarantee rankings, traffic, or business results.
-- Clearly identify any limitations caused by missing access or unavailable data.
-
-## Please Include in Your Proposal
-
-When applying for this project, please explain:
-
-1. Your experience conducting comprehensive website audits.
-2. The tools you intend to use, such as Google Search Console, Google Analytics 4, PageSpeed Insights, Screaming Frog, Ahrefs, Semrush, or other relevant tools.
-3. How you will investigate issues and validate your findings rather than relying solely on automated reports.
-4. How you will document detailed, step-by-step solutions for each issue.
-5. An example of a previous audit report or a sample issue with its recommended solution, if available.
-6. Your estimated delivery time and fixed project price.
-7. Whether you can also implement the fixes or provide recommendations only.
-
-## Final Objective
-
-I want a thorough, professional, and actionable website audit that gives me a clear understanding of my website's current condition and a practical roadmap for resolving the identified issues.
-
-**The key requirement is simple: every significant issue must be accompanied by a detailed explanation of what to do, how to do it, where to implement the fix, and how to verify that it has been resolved.**
-
-Please review the complete scope before submitting your proposal. I value the quality, accuracy, depth, and practical usefulness of the audit more than a short report containing a large number of unexplained errors.</description></item>
 <item><title>Finish Shopify Website</title><link>https://www.freelancer.com/projects/shopify-development/Finish-Shopify-Website</link><guid isPermaLink="false">freelancer:40793884</guid><pubDate>Fri, 30 Oct 2026 00:51:42 GMT</pubDate><description>2-8 USD/hr | Shopify Developer Needed ASAP – Complete Existing Website
 
 I'm looking for an experienced and affordable Shopify developer to help finish my existing children's Christian entertainment and merchandise website, 
