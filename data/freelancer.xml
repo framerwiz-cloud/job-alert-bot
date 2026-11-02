@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Customize FlutterFlow LMS Marketplace</title><link>https://www.freelancer.com/projects/flutter/Customize-FlutterFlow-LMS-Marketplace</link><guid isPermaLink="false">freelancer:40799354</guid><pubDate>Mon, 02 Nov 2026 16:48:25 GMT</pubDate><description>30-250 USD | I have a course marketplace business called HOSTORE (Host Your Knowledge) for Nigeria. I want to launch Android + iOS app in 5 days.
+
+WHAT I HAVE:
+- FlutterFlow LMS / Udemy template already bought (I will give you access)
+- Logo, colors, brand name: HOSTORE
+- 3 courses videos hosted on Bunny.net (I will give links)
+- Paystack account
+
+WHAT YOU WILL DO (3 DAYS ONLY):
+1. Customize template branding to HOSTORE - Black + Yellow theme, clean, professional like Udemy, not too local
+2. Integrate Paystack with SPLIT PAYMENT: When user pays N15,000, 90% goes to instructor subaccount, 10% to admin. Use Paystack Split API
+3. Video player must stream from Bunny.net (not Firebase storage)
+4. Features for MVP ONLY:
+   - Onboarding, Login/Signup (Email + Google)
+   - Home: List of courses, Search, Categories (Importation, Tech, Business, Japa Skills)
+   - Course Detail: Title, Instructor, Price in Naira, Preview video, Curriculum, Buy button
+   - Video Player: After purchase, user can watch videos, mark progress
+   - Instructor Dashboard: Simple upload course (title, price, add videos) - for now we can do via web admin
+   - Admin gets 10% automatically
+   - My Courses page
+5. Generate Android AAB and iOS IPA ready for Play Store and App Store submission via Codemagic (I don't have Mac)
+6. Connect to Supabase or Firebase backend
+
+BUDGET: $200 fixed, $50 bonus if you deliver in 3 days with build files.
+TIMELINE: Start tomorrow, deliver Day 3.
+
+To apply, type "HOSTORE 3 DAYS" at top of proposal and show 1 LMS app you built before.
+
+Nigeria/India devs preferred for timezone.</description></item>
 <item><title>Channeling Blog Website Build</title><link>https://www.freelancer.com/projects/blogging/Channeling-Blog-Website-Build</link><guid isPermaLink="false">freelancer:40799338</guid><pubDate>Mon, 02 Nov 2026 16:32:55 GMT</pubDate><description>250-750 USD | I need a clean, intuitive blog where I can publish my channeling messages and related content without fuss. The core site should let me post written pieces, and I’d like the structure to be flexible enough to add audio or video entries later if I decide. Think of a light, distraction-free reading space with a simple navigation bar, search, tags or categories, and an easy-to-use back-end editor (WordPress, Ghost, or any comparable CMS you’re comfortable with).
 
 Key points
@@ -1289,17 +1318,6 @@ Our budget is $250 USD per website.
 
 PLEASE DO NOT SUBMIT GENERIC PROPOSALS.
 We want developers who have reviewed the websites and understand the quality expected. Quality, reliability, technical expertise, and attention to detail are our highest priorities.</description></item>
-<item><title>Minimalist Spiritual Blog Creation</title><link>https://www.freelancer.com/projects/content-management-system/Minimalist-Spiritual-Blog-Creation</link><guid isPermaLink="false">freelancer:40796502</guid><pubDate>Sat, 31 Oct 2026 19:43:18 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to create a serene and minimalist blog. The blog will feature my spiritual channeled messages. 
-
-Key requirements:
-- A clean, calm, and minimalist design with soft colors.
-- Easy navigation for reading channeled messages and browsing past posts.
-- Subscription option for visitors to receive new messages via email.
-
-Ideal Skills and Experience:
-- Experience with blogging platforms (WordPress, Blogger, etc.)
-- Strong design skills for minimalist aesthetics.
-- Familiarity with email subscription integrations.</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
