@@ -3,6 +3,70 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Channeling Blog Website Build</title><link>https://www.freelancer.com/projects/blogging/Channeling-Blog-Website-Build</link><guid isPermaLink="false">freelancer:40799338</guid><pubDate>Mon, 02 Nov 2026 16:32:55 GMT</pubDate><description>250-750 USD | I need a clean, intuitive blog where I can publish my channeling messages and related content without fuss. The core site should let me post written pieces, and I’d like the structure to be flexible enough to add audio or video entries later if I decide. Think of a light, distraction-free reading space with a simple navigation bar, search, tags or categories, and an easy-to-use back-end editor (WordPress, Ghost, or any comparable CMS you’re comfortable with).
+
+Key points
+•  Mobile-friendly layout that keeps focus on the text.  
+•  Home page that shows recent posts plus an about section I can update.  
+•  Individual post pages with social-share buttons and a comment area I can moderate.  
+•  Basic SEO setup (meta, sitemap, and clean URLs) so people can find the messages organically.  
+•  Clear instructions or a short screen-share walk-through so I know how to publish the first post myself.
+
+I’d like the site ready to launch within a month. You’re welcome to suggest a lightweight theme or build a custom one—speed and clarity matter more than elaborate design. Let me know your approach, which CMS you propose, and any similar spiritual or personal-blog work you’ve done.</description></item>
+<item><title>Secure Multi-Tenant AI Video Editing, Distribution, and Project Manager Platform</title><link>https://www.freelancer.com/projects/claude-code/Secure-Multi-Tenant-Video-Editing</link><guid isPermaLink="false">freelancer:40799337</guid><pubDate>Mon, 02 Nov 2026 16:32:13 GMT</pubDate><description>250-750 USD | Title: Senior engineer (Claude Code + security) to turn our AI video-editing factory into a secure, multi-client product
+
+About us
+We’re a media distribution brand that makes a lot of short vertical video ads for TikTok and Instagram. Over the last few months we built an in-house AI “creative factory” with Claude Code. It does the work of a video editor: it picks up tasks from our project board and edits the raw creator footage into a finished ad. A human reviews and approves, and only then is the final file rendered and delivered.
+
+It works, but it’s a prototype: it runs on one Mac, the keys sit in a .env file, and it’s built for one company. We want an engineer to make it professional, secure and repeatable so it can run for several businesses, each with its own brand, accounts and data.
+
+What exists today
+
+Pipeline: Node 22 server with SQLite. Stations are Intake → Edit → QA → Human review → Render → Delivery. A live “factory floor” web UI shows the jobs moving between stations.
+Workers: Python plus ffmpeg. Transcription (ElevenLabs Scribe), an assembly cut (best take of each line, retakes and dead air removed), and an LLM-planned main edit (captions, overlays, product shots, zooms) through OpenRouter (Claude, plus Gemini as a QA judge).
+Editor: each ad is an editable timeline project in an open-source web video editor (a customised OpenFilm Studio). The reviewer can open each timeline, change it and approve it.
+Integrations: the Asana API (task pickup, custom fields), the Frame.io V4 API (delivery) and Google Drive (footage).
+Guardrails: Claude Code hooks, subagents and skills, plus spend caps per day and per job.
+
+What we want built
+
+A cloud deployment. Everything runs on a server: footage never touches a laptop, and nothing is rendered until a human approves.
+A desktop workstation app for Mac. It’s a thin client: several jobs open at once, each in its own timeline window, all streamed from the cloud.
+Multi-tenancy. Each business gets its own isolated workspace: data, footage, brand kit, API connections, spend limits and users.
+Repeatable onboarding. Adding a new business should be config, not code: connect Asana, Drive and Frame.io, upload brand assets, set the rules.
+Production quality: CI, tests, monitoring, logs, backups and documentation.
+
+Must-haves
+
+Strong, hands-on Claude Code experience: CLAUDE.md, subagents, skills, hooks, MCP servers, and ideally the Claude Agent SDK and headless runs. Please show real examples.
+Cybersecurity, applied. We will test you on:
+secrets management and least-privilege service accounts
+tenant isolation (one client can never see another client’s footage or keys)
+zero-trust access to internal tools (no exposed admin ports)
+webhook signature checks
+prompt-injection defence: our agents read task text, scripts and comments, which are untrusted input
+supply-chain hygiene (pinned dependencies) and audit logs
+Node.js and Python in production, Linux servers, ffmpeg or other media-pipeline experience.
+Clear written English and async communication.
+
+Nice to have
+
+Swift or desktop-app experience (Tauri or native macOS)
+Experience with video at scale (proxies, streaming, GPU or headless rendering)
+Hetzner, Modal, AWS, or Cloudflare (Access/Tunnel)
+SOC 2-style thinking: access reviews, data retention, incident response
+
+How to apply (answers without these will be skipped)
+
+Start your bid with the word “VSRL”.
+Describe a Claude Code hook, subagent or MCP server you’ve built, and what it did.
+In 3–5 sentences: how would you stop an AI agent from following instructions hidden in a client’s task description?
+How would you isolate tenants’ files and API keys on a shared server?
+Links to relevant work (GitHub, case studies).
+
+Budget: $300 / Month (negotiable)  · Longterm job - at least for the next 6 months.
+We’ll share the full architecture under an NDA after an interview.
+Contract under USA cybersecurity and copyright laws.</description></item>
 <item><title>Enchanting Animated Mail Club Doors</title><link>https://www.freelancer.com/projects/web-development/Enchanting-Animated-Mail-Club-Doors</link><guid isPermaLink="false">freelancer:40799121</guid><pubDate>Mon, 02 Nov 2026 14:27:58 GMT</pubDate><description>30-250 USD | I’m looking for a creative web developer to bring a touch of magic to my existing website through smooth, thoughtfully designed animations. The site was built using Airo and is hosted by GoDaddy. The current animations feel choppy and don’t create the fantasy atmosphere I’m looking for.
 
 I want visitors to feel as though they’re entering a welcoming, dreamlike world that makes them happy to explore. The experience must remain fast, easy to navigate, and responsive on both desktop and mobile.
@@ -1232,23 +1296,6 @@ Ideal Skills and Experience:
 - Experience with blogging platforms (WordPress, Blogger, etc.)
 - Strong design skills for minimalist aesthetics.
 - Familiarity with email subscription integrations.</description></item>
-<item><title>Pomona Construction Bid Forms Assistance</title><link>https://www.freelancer.com/projects/construction/Pomona-Construction-Bid-Forms-Assistance</link><guid isPermaLink="false">freelancer:40796495</guid><pubDate>Sat, 31 Oct 2026 19:34:55 GMT</pubDate><description>250-750 USD | I’m finalising a construction / city-contract submission for the City of Pomona and need the bid proposal and pricing forms completed accurately and in the proper municipal format. The RFP package and blank forms are ready; what I’m missing is someone who already knows how California public-works paperwork is supposed to look.
-
-You will:
-
-• Populate every field in the City of Pomona bid proposal and all associated pricing schedules.  
-• Make sure unit prices, subtotals, and grand totals calculate correctly and match the scope language.  
-• Apply any standard boilerplate (company details, CSLB licence, DIR registration, etc.) and flag missing items I must supply.  
-• Return the forms as a clean, ready-to-submit PDF (and the editable original).
-
-Acceptance will be based on the city procurement portal accepting the packet without revision requests.
-
-If you have handled construction or other city-level bids before and can turn this around quickly, let’s get started today.</description></item>
-<item><title>Website Audit &amp; Missing Page Fix</title><link>https://www.freelancer.com/projects/web-development/Website-Audit-Missing-Page-Fix</link><guid isPermaLink="false">freelancer:40796493</guid><pubDate>Sat, 31 Oct 2026 19:28:11 GMT</pubDate><description>30-250 USD | We need an experienced web developer to perform a quick audit of our website. We are looking for someone who can identify and restore missing pages, links, menus, content, or functionality, and review the overall website for any issues that may affect user experience, performance, or operation.
-
-Please provide your experience, availability, and rate.
-
-Immediate start needed.</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
