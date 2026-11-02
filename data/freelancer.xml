@@ -3,6 +3,93 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Display date subscription n otomatic remove spesific role - Quotation Request</title><link>https://www.freelancer.com/projects/php/Display-date-subscription-otomatic-40799203</link><guid isPermaLink="false">freelancer:40799203</guid><pubDate>Mon, 02 Nov 2026 14:57:40 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+I have a problem setting up woocommerce Subscription with a time setting: If a customer buys more than 1 product, then the membership period (month) will accumulate it. Not only that, it also accumulates the remaining previous membership automatically. In general, this must be flexible, for example, someone buys product A on the 1st of January and product B on the 5th of January, then if they buy 2 products A and 1 product B on the 25th of January, I want the payment display and membership history of product A to be extended until the 1st of January and product B until the 5th of January. 
+
+I created a code to assign roles specifically based on product ID and wcpa that can be assigned specifically, but it is not certain that it can be deleted specifically if the above problem has not been resolved.
+
+I want to work with a developer who can really complete the project, not just try to take it and who is also ready to be asked about the progress. Because I am also a developer, so I hope there is someone who is much more professional and can finish as soon as possible. For the budget, give a reasonable budget.
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2024-09-13 (historical project ID 38568420). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
+<item><title>Build Real Estate Landing Page + 20 Local Pages in WordPress Using Elementor - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-Real-Estate-Landing-Page-40799196</link><guid isPermaLink="false">freelancer:40799196</guid><pubDate>Mon, 02 Nov 2026 14:56:26 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+I'm a real estate broker building a WordPress site with Elementor. I need:
+1.	A Flat Fee MLS landing page with 4 listing packages
+ – Desktop: 4-column layout
+ – Mobile: tabbed or swipeable
+ – Styled like:
+  • flatfeegroup.com/RhodeIsland
+  • isoldmyhouse.com/purchase
+  • entryonly.com
+2.	Twenty Rhode Island town pages
+ – I’ll provide all content in a spreadsheet
+ – You format it using Elementor
+ – Each page includes:
+  • Town intro
+  • Average real estate price info
+  • Accordion dropdowns for neighborhoods
+  • Helpful outbound links (GIS, tax assessor, zoning)
+  • SEO-friendly layout and mobile responsiveness
+Requirements:
+– Elementor experience
+– Clean layout and mobile-first design
+– Basic SEO formatting
+– Attention to detail
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2025-08-02 (historical project ID 39663477). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
+<item><title>Multi Categories Listing Website in PHP , Laravel -- 2 - Quotation Request</title><link>https://www.freelancer.com/projects/php/Multi-Categories-Listing-Website-PHP-40799194</link><guid isPermaLink="false">freelancer:40799194</guid><pubDate>Mon, 02 Nov 2026 14:55:49 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+I am looking for a skilled PHP developer with experience in Laravel to create a multi categories listing website. The main purpose of the website is to provide a platform for users to list their businesses, similar to Google business listings. 
+
+Design preferences:
+- The client has a specific design in mind for the website. 
+
+Data population:
+- The data for the website will be manually entered by users. 
+
+Ideal skills and experience:
+- Proficiency in PHP and Laravel framework
+- Strong understanding of database management
+- Experience in developing listing websites
+- Ability to implement a specific design as per client's requirements 
+- Attention to detail and ability to handle user-generated content 
+- Familiarity with SEO best practices for directory websites
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2023-07-29 (historical project ID 36966887). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Custom WordPress Business Showcase</title><link>https://www.freelancer.com/projects/web-development/Custom-WordPress-Business-Showcase</link><guid isPermaLink="false">freelancer:40799190</guid><pubDate>Mon, 02 Nov 2026 14:54:56 GMT</pubDate><description>1500-3000 USD | I’m ready to build a WordPress site whose sole purpose is to present my business and services in a polished, professional way. The number and names of pages aren’t fixed yet—I’ll decide on the exact sitemap with you once we map the user journey—but every page must follow a carefully planned layout and structure that we establish together up-front.
 
 Here’s what matters most to me:  
@@ -71,36 +158,6 @@ Estimating assumptions and context:
 The scenario is based on a Freelancer listing from 2021-04-04 (historical project ID 29775615). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
 
 The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Professional E-commerce Website Creation - Quotation Request</title><link>https://www.freelancer.com/projects/php/Professional-commerce-Website-Creation</link><guid isPermaLink="false">freelancer:40799175</guid><pubDate>Mon, 02 Nov 2026 14:51:46 GMT</pubDate><description>750-1500 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm in need of a seasoned web developer who can design and build a top-notch e-commerce site from the ground up. The site should be similar in functionality and aesthetic to https://burnbox.health. 
-
-Key requirements:
-- Extensive experience in creating e-commerce websites
-- Proficiency in web development languages 
-- Ability to replicate the desired site 
-- Understanding of user-friendly interface design 
-- SEO knowledge is a plus 
-
-The primary function of the website will be to sell physical products. Therefore, your expertise should include:
-- Setting up secure payment gateways 
-- Creating an efficient inventory management system 
-- Designing engaging product display pages 
-
-Please provide samples of previous e-commerce projects you've completed. I look forward to working with a professional who can bring my vision to life.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2025-03-28 (historical project ID 39253732). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 750–1500 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
 
 Research use
 
@@ -763,68 +820,6 @@ Estimating assumptions and context:
 The scenario is based on a Freelancer listing from 2021-07-09 (historical project ID 30790322). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
 
 The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>create mobile app for a store that was built with wordpress, woocommerce and XStore theme - Quotation Request</title><link>https://www.freelancer.com/projects/mobile-app-development/create-mobile-app-for-store</link><guid isPermaLink="false">freelancer:40798399</guid><pubDate>Mon, 02 Nov 2026 06:15:14 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I am seeking an experienced developer to create a mobile application for my online store, which is built using WooCommerce and the XStore theme. The mobile app will use WordPress as the backend and should be developed with React Native to ensure it is available on both Android and iOS platforms.
-
-* Project Requirements:
-
-Platform Compatibility: 
- - The app must be compatible with both Android and iOS devices.
-Technology Stack: 
- - The mobile app should be developed using React Native.
-Backend Integration: 
- - The app must seamlessly integrate with the existing WordPress WooCommerce backend.
-Feature Parity: 
- - All features available on the website should be available on the mobile app. This includes product listings, categories, user accounts, cart, checkout, and payment processing.
-User Authentication: 
- - The app should support user authentication using email/username and social media accounts (Facebook and Twitter).
-Push Notifications: 
- - Implement push notifications for order updates, promotions, and other relevant information.
-Performance Optimization: Ensure the app is optimized for performance and provides a smooth user experience.
-Testing: 
- - Comprehensive testing on various devices to ensure functionality, usability, and performance.
-App Store Acceptance: 
- - The project will be considered complete upon the successful acceptance of the app on both the Google Play Store and the Apple App Store.
-
-* Project Timeline:
- - Start Date: The project will commence once the store is fully completed and all final touches are applied.
- - Completion Date: The project should be completed within a reasonable timeframe agreed upon during the initial discussions.
-
-* Deliverables:
- - Mobile App for Android and iOS: Fully functional and tested apps ready for submission to the respective app stores.
- - Source Code: Full source code of the mobile app, with documentation.
- - Integration Documentation: Detailed documentation on how the mobile app integrates with the WordPress WooCommerce backend.
- - Support for Submission: Assistance with the submission process to both the Google Play Store and the Apple App Store, including any necessary revisions to meet store guidelines.
-
-Acceptance Criteria:
- - The app must pass all functional and performance tests.
- - The app must be accepted and published on both the Google Play Store and the Apple App Store.
- - The app should offer a seamless user experience similar to the website.
-
-Required Skills:
-
- - Strong experience with React Native and mobile app development for both Android and iOS.
- - Proficiency in integrating mobile apps with WordPress and WooCommerce backends.
- - Experience with user authentication and push notification implementation.
- - Knowledge of app store submission processes and guidelines.
-
-Please provide your portfolio showcasing similar projects you have worked on, along with a detailed proposal outlining your approach to this project, estimated timeline, and cost. Additionally, include any questions or clarifications you might need to ensure a successful collaboration.
-
-I look forward to working with a talented developer to bring this mobile app to life!
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-07-02 (historical project ID 38292033). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
 
 Research use
 
