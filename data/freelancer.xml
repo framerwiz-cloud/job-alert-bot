@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI-Powered Ecommerce Traffic Boost</title><link>https://www.freelancer.com/projects/ai-automation/Powered-Ecommerce-Traffic-Boost</link><guid isPermaLink="false">freelancer:40799744</guid><pubDate>Mon, 02 Nov 2026 22:33:09 GMT</pubDate><description>250-750 USD | I run an ecommerce store that already attracts a steady flow of visitors, but I now want to turn that traffic into noticeably more sales. The priority is clear: channel qualified buyers toward my current best-selling products and lift overall revenue, not just clicks.
+
+To get there, I’m ready to test and scale AI-generated traffic solutions. Whether you tap into Google’s Performance Max, smart bidding on Search and Shopping, Meta’s Advantage+ campaigns, or another machine-learning platform, the mandate is the same—let the algorithms hunt for high-intent audiences and optimise in real time for conversions.
+
+Scope of work  
+• Audit my existing product feed, pixel and conversion tracking to be sure the AI models receive clean, reliable data.  
+• Build and launch AI-driven campaigns that push my top-selling SKUs to the front of the queue on the channels you judge most effective.  
+• Continuously train the campaigns, adjust creative, bids and budgets, and keep funnels free of waste.  
+• Deliver concise weekly reports showing spend, sales, ROAS and actionable next steps so we can scale with confidence.
+
+Acceptance criteria  
+• A measurable uplift in online sales attributed to the new campaigns within the first 30 days.  
+• Minimum break-even ROAS achieved by day 14 and improved by at least 20 % by day 30.  
+• Transparent tracking in Google Analytics (or GA4) with events clearly mapped to each ad group.
+
+If you have a proven track record with AI-centric ad platforms and can translate that know-how into profitable, data-driven growth for my store, let’s move forward.</description></item>
 <item><title>Intelligent Automation System</title><link>https://www.freelancer.com/projects/mobile-app-development/Project-for-Zeeshan-40795332</link><guid isPermaLink="false">freelancer:40795332</guid><pubDate>Mon, 02 Nov 2026 21:34:00 GMT</pubDate><description>20-20 USD/hr | Looking for an Experienced Developer to Build an Intelligent Automation System for SHAHEM Platform
 
 1. Develop a fully automated order management system with minimal human intervention.
@@ -77,35 +93,6 @@ Please provide concise answers:
 5. State your best hourly rate and your proposed monthly price for a regular 20-hour working week. Specify included monthly hours, any minimum commitment and the rate for additional agreed hours. Give your weekly availability, UK working-hour overlap and earliest start date. Include any relevant certification and a code sample you have permission to share, if available.
 
 Company details will be shared privately with shortlisted candidates. Please apply through this platform.</description></item>
-<item><title>Customize FlutterFlow LMS Marketplace</title><link>https://www.freelancer.com/projects/flutter/Customize-FlutterFlow-LMS-Marketplace</link><guid isPermaLink="false">freelancer:40799354</guid><pubDate>Mon, 02 Nov 2026 16:48:25 GMT</pubDate><description>30-250 USD | I have a course marketplace business called HOSTORE (Host Your Knowledge) for Nigeria. I want to launch Android + iOS app in 5 days.
-
-WHAT I HAVE:
-- FlutterFlow LMS / Udemy template already bought (I will give you access)
-- Logo, colors, brand name: HOSTORE
-- 3 courses videos hosted on Bunny.net (I will give links)
-- Paystack account
-
-WHAT YOU WILL DO (3 DAYS ONLY):
-1. Customize template branding to HOSTORE - Black + Yellow theme, clean, professional like Udemy, not too local
-2. Integrate Paystack with SPLIT PAYMENT: When user pays N15,000, 90% goes to instructor subaccount, 10% to admin. Use Paystack Split API
-3. Video player must stream from Bunny.net (not Firebase storage)
-4. Features for MVP ONLY:
-   - Onboarding, Login/Signup (Email + Google)
-   - Home: List of courses, Search, Categories (Importation, Tech, Business, Japa Skills)
-   - Course Detail: Title, Instructor, Price in Naira, Preview video, Curriculum, Buy button
-   - Video Player: After purchase, user can watch videos, mark progress
-   - Instructor Dashboard: Simple upload course (title, price, add videos) - for now we can do via web admin
-   - Admin gets 10% automatically
-   - My Courses page
-5. Generate Android AAB and iOS IPA ready for Play Store and App Store submission via Codemagic (I don't have Mac)
-6. Connect to Supabase or Firebase backend
-
-BUDGET: $200 fixed, $50 bonus if you deliver in 3 days with build files.
-TIMELINE: Start tomorrow, deliver Day 3.
-
-To apply, type "HOSTORE 3 DAYS" at top of proposal and show 1 LMS app you built before.
-
-Nigeria/India devs preferred for timezone.</description></item>
 <item><title>Channeling Blog Website Build</title><link>https://www.freelancer.com/projects/blogging/Channeling-Blog-Website-Build</link><guid isPermaLink="false">freelancer:40799338</guid><pubDate>Mon, 02 Nov 2026 16:32:55 GMT</pubDate><description>250-750 USD | I need a clean, intuitive blog where I can publish my channeling messages and related content without fuss. The core site should let me post written pieces, and I’d like the structure to be flexible enough to add audio or video entries later if I decide. Think of a light, distraction-free reading space with a simple navigation bar, search, tags or categories, and an easy-to-use back-end editor (WordPress, Ghost, or any comparable CMS you’re comfortable with).
 
 Key points
