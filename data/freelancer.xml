@@ -3,6 +3,68 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>create mobile app for a store that was built with wordpress, woocommerce and XStore theme - Quotation Request</title><link>https://www.freelancer.com/projects/mobile-app-development/create-mobile-app-for-store</link><guid isPermaLink="false">freelancer:40798399</guid><pubDate>Mon, 02 Nov 2026 06:15:14 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+I am seeking an experienced developer to create a mobile application for my online store, which is built using WooCommerce and the XStore theme. The mobile app will use WordPress as the backend and should be developed with React Native to ensure it is available on both Android and iOS platforms.
+
+* Project Requirements:
+
+Platform Compatibility: 
+ - The app must be compatible with both Android and iOS devices.
+Technology Stack: 
+ - The mobile app should be developed using React Native.
+Backend Integration: 
+ - The app must seamlessly integrate with the existing WordPress WooCommerce backend.
+Feature Parity: 
+ - All features available on the website should be available on the mobile app. This includes product listings, categories, user accounts, cart, checkout, and payment processing.
+User Authentication: 
+ - The app should support user authentication using email/username and social media accounts (Facebook and Twitter).
+Push Notifications: 
+ - Implement push notifications for order updates, promotions, and other relevant information.
+Performance Optimization: Ensure the app is optimized for performance and provides a smooth user experience.
+Testing: 
+ - Comprehensive testing on various devices to ensure functionality, usability, and performance.
+App Store Acceptance: 
+ - The project will be considered complete upon the successful acceptance of the app on both the Google Play Store and the Apple App Store.
+
+* Project Timeline:
+ - Start Date: The project will commence once the store is fully completed and all final touches are applied.
+ - Completion Date: The project should be completed within a reasonable timeframe agreed upon during the initial discussions.
+
+* Deliverables:
+ - Mobile App for Android and iOS: Fully functional and tested apps ready for submission to the respective app stores.
+ - Source Code: Full source code of the mobile app, with documentation.
+ - Integration Documentation: Detailed documentation on how the mobile app integrates with the WordPress WooCommerce backend.
+ - Support for Submission: Assistance with the submission process to both the Google Play Store and the Apple App Store, including any necessary revisions to meet store guidelines.
+
+Acceptance Criteria:
+ - The app must pass all functional and performance tests.
+ - The app must be accepted and published on both the Google Play Store and the Apple App Store.
+ - The app should offer a seamless user experience similar to the website.
+
+Required Skills:
+
+ - Strong experience with React Native and mobile app development for both Android and iOS.
+ - Proficiency in integrating mobile apps with WordPress and WooCommerce backends.
+ - Experience with user authentication and push notification implementation.
+ - Knowledge of app store submission processes and guidelines.
+
+Please provide your portfolio showcasing similar projects you have worked on, along with a detailed proposal outlining your approach to this project, estimated timeline, and cost. Additionally, include any questions or clarifications you might need to ensure a successful collaboration.
+
+I look forward to working with a talented developer to bring this mobile app to life!
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2024-07-02 (historical project ID 38292033). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Clean Shopify Fitness Store</title><link>https://www.freelancer.com/projects/web-development/Clean-Shopify-Fitness-Store</link><guid isPermaLink="false">freelancer:40798317</guid><pubDate>Mon, 02 Nov 2026 05:31:57 GMT</pubDate><description>250-750 CAD | I’m launching an online shop that focuses solely on fitness and gym equipment—from adjustable dumbbells to full-size racks—and I want the storefront to feel as streamlined and motivating as the products themselves. The entire site must sit on Shopify, use a clean, modern aesthetic, and make it effortless for customers to browse, compare, and purchase items of varying sizes and weights.
 
 Key priorities  
