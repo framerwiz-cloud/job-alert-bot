@@ -3,6 +3,103 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Security Guard &amp; Yard Management Web App Development - Quotation Request</title><link>https://www.freelancer.com/projects/php/Security-Guard-Yard-Management-Web</link><guid isPermaLink="false">freelancer:40798538</guid><pubDate>Mon, 02 Nov 2026 07:43:38 GMT</pubDate><description>1000-1500 CAD | Please provide your estimated total development price in CAD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+Project Overview
+We are seeking a skilled and experienced full-stack developer to build a secure, mobile-friendly web application for real-time security and yard management. The application will be the central hub for our operations, used by security guards, customers, and the site owner to efficiently track trucks, trailers, and on-site activities.
+
+The primary goal is to replace our manual processes with a streamlined digital solution for logging truck entry/exit, reporting damages, managing customer schedules, and providing a live, comprehensive dashboard for the owner.
+
+Key Features &amp; Deliverables
+The ideal candidate will be responsible for developing and delivering a fully functional, tested, and documented web application with the following core features:
+
+Guard Portal (Mobile-First UI):
+
+Reporting: A quick-entry form to log truck/trailer numbers, full/empty status, and entry/exit timestamps.
+
+Damage Reports: Ability to submit detailed reports with photo uploads.
+
+Event Log: A section for adding custom notes and event details.
+
+Customer Portal:
+
+Emergency Contacts: Each customer's page must display their emergency contact information.
+
+Visitor Management: Customers can add and delete approved visitors (trucks/drivers) directly.
+
+Real-time Tracking: A live view showing all of the customer's trucks and trailers currently inside and outside the yard, along with their loaded status (full/empty).
+
+Pre-Scheduling: A simple interface for customers to pre-submit scheduled truck/trailer arrivals.
+
+Approval Queue: Customers will have an interface to approve or deny visitor access requests made via QR code.
+
+Owner/Master Portal:
+
+User Management: Functionality to assign guards to specific sites and manage user roles.
+
+Reporting &amp; Analytics: Advanced filtering and export capabilities for all reports.
+
+Real-time Dashboard: A live dashboard showing all vehicles currently in the yard, updated instantly via WebSockets or similar technology.
+
+The QR Code &amp; Access Approval Workflow
+This is a critical part of the project. The system must support the following multi-step approval process:
+
+A first-time visitor (e.g., a truck driver) will scan a QR code at the property entrance.
+
+The QR code directs them to a secure web form where they can request access.
+
+This request then enters an approval queue that is visible to the relevant customer and the site's security guard.
+
+Both the customer and the guard must be able to manually review and approve or deny the request. Access is not granted automatically.
+
+Upon approval, the guard's portal is updated, allowing them to proceed with the truck's check-in.
+
+Technical Stack &amp; Requirements
+We are looking for a developer with hands-on experience in building scalable solutions. Our preferred tech stack for this project is:
+
+Frontend: React (with a mobile-first, responsive design).
+
+Backend: Node.js (Express) or Laravel (PHP).
+
+Database: MySQL or PostgreSQL.
+
+Hosting: Experience with AWS, Azure, or GCP is required.
+
+Security: Robust, role-based access control and secure authentication (e.g., JWT).
+
+Real-time: Proficient with WebSockets or similar technology for live updates (for both the owner and customer portals).
+
+Additional Skills: Experience with file/photo uploads and multi-stage approval workflows.
+
+Ideal Candidate &amp; How to Apply
+We are seeking a freelancer or small team with a proven track record of developing complex, secure applications that incorporate reporting and real-time features.
+
+Please include the following in your application:
+
+A brief overview of your relevant experience.
+
+Links to past projects or live demos, especially those involving dashboards or reporting.
+
+Your suggested tech stack for this specific project, including any libraries or frameworks you'd recommend.
+
+Your estimated timeline for completion and a proposed budget.
+
+We are ready to start this project immediately with the right partner.
+
+Thank you for your interest!
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2025-09-15 (historical project ID 39791113). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed CAD 1000–1500 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Quick WordPress Bug Resolution</title><link>https://www.freelancer.com/projects/web-development/Quick-WordPress-Bug-Resolution</link><guid isPermaLink="false">freelancer:40798506</guid><pubDate>Mon, 02 Nov 2026 07:20:16 GMT</pubDate><description>2-8 USD/hr | Several of our websites need to be adjusted. Currently, there are some issues with the UI and functionality. I need a friend who is skilled in WordPress development to help me complete a series of tasks. We previously used Codex to create several websites, but now we are encountering problems. We are unable to modify some of the images and layouts because the code written by AI seems a bit messy. I need an expert to help me solve this. The problems with the other websites are caused by the UI layout. In addition to fixing the bugs, we also need to start the development tasks for several websites quickly. We will collaborate based on weekly tasks. The cost may not be high, but our work is stable. I need a full-time developer. I will provide a contract to test your development and modification capabilities. The applicant must showcase your recent cases. Responses need to be prompt.</description></item>
 <item><title>Customization to Woocommerce Plugin - Quotation Request</title><link>https://www.freelancer.com/projects/php/Customization-Woocommerce-Plugin-40798449</link><guid isPermaLink="false">freelancer:40798449</guid><pubDate>Mon, 02 Nov 2026 06:45:20 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
 
