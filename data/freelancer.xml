@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website or App Creation</title><link>https://www.freelancer.com/projects/web-development/Website-App-Creation</link><guid isPermaLink="false">freelancer:40798561</guid><pubDate>Mon, 02 Nov 2026 09:29:47 GMT</pubDate><description>250-750 USD | I’m ready to move an idea from concept to reality and need a skilled professional to take charge of the website or app work involved. Although the final feature set is still open for discussion, the end goal is a polished, user-friendly product that can scale.  
+
+Here’s what I have so far: a clear vision of the problem I want to solve, some wireframe sketches, and brand assets. What I need next is your expertise to refine the technical approach, choose the right stack, design an intuitive UI/UX, and then build, test, and launch. Whether you lean toward React, Flutter, Next.js, or another framework, I’m happy to hear your reasoning and suggestions.  
+
+Code quality, clean architecture, and maintainability are priorities. Please be comfortable handling everything from front-end interactions to back-end integration and deployment. If you prefer to collaborate with specialists (e.g., a separate designer or DevOps engineer) let me know—flexibility is built into this project.  
+
+When you reply, share a concise overview of comparable web or mobile apps you’ve delivered, highlighting the technologies you used and any measurable results (traffic, conversions, app-store ratings, etc.). From there we can discuss timelines, milestones, and anything else you need to craft an accurate proposal.</description></item>
 <item><title>AI Automation Coaching for Non-Tech Founders</title><link>https://www.freelancer.com/projects/website-design/Automation-Coaching-for-Non-Tech</link><guid isPermaLink="false">freelancer:40798646</guid><pubDate>Mon, 02 Nov 2026 08:55:27 GMT</pubDate><description>25-50 AUD/hr | I'm seeking a 1:1 coaching session with an expert to help me automate business tasks and workflows using AI, leveraging tools like Claude Code.  
 
 Key Focus Areas:  
@@ -912,40 +919,6 @@ Estimating assumptions and context:
 The scenario is based on a Freelancer listing from 2024-04-27 (historical project ID 38037897). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
 
 The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Go-Kart Race Management &amp; Live Display System - Quotation Request</title><link>https://www.freelancer.com/projects/php/Kart-Race-Management-Live-Display-40797745</link><guid isPermaLink="false">freelancer:40797745</guid><pubDate>Sun, 01 Nov 2026 20:11:59 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm in need of an experienced web developer with PHP and MySQL expertise, for a comprehensive go-kart race management website. This site will also be integrated with a mobile app for scanning drivers in and out.
-
-Key Features of the Website:
-- Driver registration and profiles
-- Race scheduling and tracking
-- Race results and statistics
-- Building of Championships, rounds in championships, teams, drivers, etc.
-
-In addition, the website will serve a very specific purpose of displaying live race results on TV screens. Therefore, experience in creating dynamic content is essential. 
-
-The ideal freelancer for this project should have:
-- Proven experience in PHP and MySQL
-- Prior work with e-commerce or community/ forum websites
-- Skills in mobile app integration
-- Ability to create dynamic content
-
-Please include examples of similar projects you've worked on in your proposal.
-
-Developers who live in Thailand and speak English preferred.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-11-18 (historical project ID 38801700). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
 
 Research use
 
