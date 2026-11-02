@@ -1450,27 +1450,6 @@ During the sessions I want to learn, hands-on, how to:
 I’ll share my screen, you guide me, I do the clicks. After each hour I should be able to repeat the steps on my own. If you’re comfortable coaching in real time and can explain why we’re doing each step—not just what buttons to press—let’s line up our first session this week.
 
 Would prefer applicants in the United States who speak english as a first language, but will consider others</description></item>
-<item><title> Rebuild for JSMA.com</title><link>https://www.freelancer.com/projects/web-design/Modern-Rebuild-for-JSMA-com</link><guid isPermaLink="false">freelancer:40790152</guid><pubDate>Wed, 28 Oct 2026 18:57:12 GMT</pubDate><description>8-15 USD/hr | My current site, www.jsma.com, has out-grown its original WordPress template—the controls are broken and the look feels dated. I want the whole site rebuilt so it feels fresh, contemporary, and responsive on every device while still letting me manage content without technical headaches.
-
-Platform &amp; editing
-The new build must sit on a website builder that offers free core updates. WordPress remains an option, yet I’m open to builders that are genuinely easier to edit (Webflow, Wix Studio, Squarespace 7.1, etc.). Whatever you recommend, show me how simple it will be for me to tweak copy or swap photos later.
-
-Design direction
-The primary goal is a more modern look and feel: clean lines, generous white space, intuitive navigation, and strong calls-to-action that guide visitors to enquire. I’m not attached to the current template—replace it entirely. Key pages can stay in place conceptually, but they may need new layouts or reorganised content to match the refreshed design.
-
-International reach
-Please include an optional Spanish version toggle. If the chosen platform supports native multilingual tools (e.g., Weglot, Polylang, Squarespace Translate), note that in your plan.
-
-Hosting
-I’m likely to move away from the current host, so advise on a reliable alternative that pairs well with the builder you propose.
-
-Submission notes
-Show me past work that proves you can:
-• Transform an outdated site into a modern, mobile-friendly one  
-• Implement user-friendly editors or CMS collections  
-• Add multilingual capability cleanly  
-
-PROVIDE AN OUTLINE OF YOUR APPROCH, SUGGESTED WEBSITE BUILDER, AND TIMELINE.  </description></item>
 <item><title>Braintree Checkout Integration Needed</title><link>https://www.freelancer.com/projects/braintree/Braintree-Checkout-Integration-Needed</link><guid isPermaLink="false">freelancer:40791674</guid><pubDate>Wed, 28 Oct 2026 17:35:38 GMT</pubDate><description>15-25 USD/hr | I need Braintree’s Drop-in (or a custom-hosted) checkout added to my custom-built website so visitors can make one-time payments. At a minimum the flow must accept credit and debit cards, PayPal, Apple Pay, Google Pay, and Venmo through a single, seamless UI, then return a confirmed transaction ID to my server.
 
 The site already handles shopping-cart logic and order confirmation; what’s missing is the secure payment layer. You’ll be responsible for both the client-side tokenization and the server-side transaction call, using the official Braintree SDKs in whichever language you prefer. Everything has to run in production as well as in the Braintree sandbox for testing.
