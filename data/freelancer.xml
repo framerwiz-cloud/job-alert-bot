@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix WordPress Header/Footer Layout</title><link>https://www.freelancer.com/projects/javascript/Fix-WordPress-Header-Footer-Layout</link><guid isPermaLink="false">freelancer:40797986</guid><pubDate>Mon, 02 Nov 2026 00:30:45 GMT</pubDate><description>20-250 GBP | A recent WordPress update broke the site-wide header and footer built with my header-footer plugin. Both elements still render, yet everything is out of place: the menu, logo and navigation links have shifted, spacing and alignment are off, and text, colours and buttons no longer match the theme. The problem appears on every single page, not just the home page.
+
+The task is to trace whatever changed in the update—whether it is the plugin, theme overrides, or custom CSS/JS—then correct the code so the header and footer regain their original layout and styling across the entire site. Please make the fix in a child theme or custom CSS file so future core, theme or plugin updates do not undo the work.
+
+Deliverables  
+• Header and footer display correctly on all pages, desktop and mobile  
+• Menu, logo and links are positioned as before and work normally  
+• Spacing, alignment, colours and button styles are restored to match the rest of the theme  
+• Brief changelog or notes outlining what was modified for future reference
+
+Testing in multiple modern browsers before hand-off will confirm the issue is fully resolved.
+
+The two images show before and after the WP update.</description></item>
 <item><title>ClickFunnels Website Improvements &amp; Click Funnells Utilisation </title><link>https://www.freelancer.com/projects/ab-testing/ClickFunnels-Website-Improvements-Click</link><guid isPermaLink="false">freelancer:40797940</guid><pubDate>Sun, 01 Nov 2026 23:27:23 GMT</pubDate><description>250-750 AUD | I'm a director of  a small Australian business specialising in Positive Behaviour Support (PBS).
 
 We have an existing ClickFunnels website, but our original developer is no longer available. I'm looking for an experienced ClickFunnels freelancer who can help with two main areas.
@@ -851,23 +864,6 @@ Please provide examples of similar projects, your proposed technical approach, e
 We are seeking an experienced developer who can deliver a complete working solution, not simply a basic AI chatbot.
 
 The project will be delivered in milestones, beginning with WooCommerce product selection, pricing accuracy and automated quotations.</description></item>
-<item><title>Retail POS System Development</title><link>https://www.freelancer.com/projects/c-sharp-programming/Retail-POS-System-Development</link><guid isPermaLink="false">freelancer:40797021</guid><pubDate>Sun, 01 Nov 2026 08:41:13 GMT</pubDate><description>250-750 AUD | I'm looking for a comprehensive POS system tailored for my retail shop. 
-
-Key functionalities should include:
-- Sales and receipts management
-- Stock tracking
-- GST calculation
-- Discount application
-
-Payment methods should accommodate cash, card, and mobile payments.
-
-Ideal skills and experience:
-- Proven expertise in developing POS systems
-- Strong background in retail operations and requirements
-- Familiarity with GST regulations and multi-payment integration
-- Experience in user-friendly interface design
-
-Please provide examples of similar work done.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
