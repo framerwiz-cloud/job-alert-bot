@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Appointment Booking Website</title><link>https://www.freelancer.com/projects/web-development/WordPress-Appointment-Booking-Website</link><guid isPermaLink="false">freelancer:40798052</guid><pubDate>Mon, 02 Nov 2026 01:40:00 GMT</pubDate><description>250-750 USD | I’m looking for someone who can design and build a 15-20 page WordPress site whose single focus is to turn visitors into confirmed appointments.  
+
+Here’s what I’m after:  
+• A clean, responsive layout that highlights our services, builds trust, and makes the “Book Now” path obvious on every page.  
+• An appointment system where visitors pick a service, see real-time availability, choose their preferred date/time, and lock it in instantly. (A plugin like Amelia, Bookly, or any proven equivalent is fine—just be sure it’s easy for my staff to manage from the dashboard.)  
+• A live Google Reviews feed so prospects can read unfiltered feedback right on the site.  
+• SEO foundations baked in—fast loading, technical setup, on-page metadata, and keyword-ready service pages so we start ranking from day one.  
+• Standard pages such as Home, About, individual Service pages, Blog/News, and Contact are expected; feel free to suggest any others that help meet the 15-20 page range with all locations and services inside.
+Each page will have different content with interial links.
+
+Once the build is complete, handoff should include login credentials, theme/plugin licenses (if any), and a quick walkthrough video so my team can add or edit content without needing a developer each time.</description></item>
 <item><title>Outbid.lol Clobuild a competitive ranking and claiming platformne With Admin</title><link>https://www.freelancer.com/projects/html/Outbid-lol-Clobuild-competitive-ranking</link><guid isPermaLink="false">freelancer:40798023</guid><pubDate>Mon, 02 Nov 2026 01:28:16 GMT</pubDate><description>250-750 USD | build a website similar to Outbid.lol, but with addons such as allowing users to post unranked listings. Users can create posts, compete for ranked positions, and claim or take over a position on a public leaderboard.
 
 The idea is to build a competitive ranking and claiming platform.
@@ -828,178 +839,6 @@ Please provide:
 **Our Goal:** Start lean, acquire our first 5 paying customers organically, build a repeatable sales process, and then scale using paid advertising and additional marketing resources.
 
 We are looking for someone interested in growing with us long-term.</description></item>
-<item><title>Amazon-Style Multi-Seller Platform Build</title><link>https://www.freelancer.com/projects/stripe/Amazon-Style-Multi-Seller-Platform</link><guid isPermaLink="false">freelancer:40797263</guid><pubDate>Sun, 01 Nov 2026 13:14:09 GMT</pubDate><description>750-1500 USD | # Eagle Vision Edge – Amazon-Style Multi-Tenant E-Commerce Platform
-
-I am developing Eagle Vision Edge, a custom, multi-tenant e-commerce platform that provides an Amazon-style shopping experience while integrating with multiple suppliers through Spark Shipping API v1.
-
-The platform will allow customers to browse and purchase physical products. Suppliers such as Keystone Automotive will handle product fulfillment and shipping, while Eagle Vision Edge manages the storefront, checkout, supplier selection, order processing, customer communication, and tracking.
-
-We already have an existing application and approved prototype. The selected developer will complete the platform according to our Software Development, Confidentiality, Intellectual Property &amp; Security Agreement (Version 4).
-
-**Project Budget:** $1,600 USD (Fixed Price)  
-**Timeline:** 30 Calendar Days  
-**Client:** Eagle Vision Edge LLC
-
-## 1. Customer Shopping Experience
-
-- Amazon-style homepage and responsive storefront.
-- Advanced product search, filters, categories, and sorting.
-- Detailed product pages with images, specifications, pricing, and availability.
-- Customer registration, login, and account management.
-- Wishlists and saved products.
-- Shopping cart and secure Stripe checkout.
-- Supported card and digital-wallet payments through Stripe.
-- Customer order history and order-status dashboard.
-- Product reviews and ratings.
-- Promotional pricing and discount functionality.
-- Inventory and price revalidation before order submission.
-
-## 2. Supplier and Product Integration
-
-- Spark Shipping API v1 integration.
-- Initial supplier integration with Keystone Automotive.
-- Automated product catalog synchronization.
-- Product inventory and pricing updates.
-- Lowest-cost eligible supplier selection with administrative override.
-- Minimum Advertised Price (MAP) compliance.
-- Configurable supplier integrations.
-- Automated order submission to supported suppliers.
-- Split-shipment support when multiple suppliers fulfill an order.
-
-### Missing Product Image Handling
-
-Some Spark Shipping products may not include images.
-
-The developer must implement a process to match these products with images and descriptions maintained by Eagle Vision Edge LLC.
-
-Matching should use reliable product identifiers, including SKU, manufacturer part number, brand, and product attributes. Administrators must be able to review uncertain matches.
-
-## 3. ZIP Code-Based Shipping Calculation
-
-The platform must calculate shipping costs based on:
-
-- Customer destination ZIP code.
-- Supplier or warehouse origin ZIP code.
-- Product weight and dimensions.
-- Shipping method and available carrier rates.
-- Multiple suppliers and split shipments.
-
-Customers must see the calculated shipping cost before completing payment.
-
-The system must recalculate shipping charges when delivery details change.
-
-If live carrier rates are unavailable, an approved configurable rate table must be supported.
-
-## 4. Order Tracking and Google Maps
-
-Customers must be able to track orders from purchase through delivery.
-
-Required functionality includes:
-
-- Order confirmation and processing status.
-- Supplier shipment status and tracking number.
-- Carrier tracking integration.
-- Google Maps API visualization when shipment-location data is available.
-- Estimated delivery information where supported.
-- Tracking of multiple shipments for one order.
-- Email and SMS shipment notifications.
-
-Google Maps must not be represented as a source of live carrier GPS data unless the carrier provides that information.
-
-## 5. Multi-Tenant Architecture
-
-The platform must support multiple independent storefronts.
-
-Requirements include:
-
-- Tenant-specific storefront configuration.
-- Tenant data isolation.
-- Tenant-specific product catalogs and settings.
-- Administrative controls for tenant management.
-- Secure authentication and role-based access.
-- Audit logs and activity tracking.
-
-## 6. Administrative Dashboard
-
-Provide administrative functionality for:
-
-- Product and catalog management.
-- Supplier integration configuration.
-- Inventory and pricing management.
-- Order management and fulfillment monitoring.
-- Customer management.
-- Shipment tracking.
-- Promotions and discounts.
-- User permissions and audit logs.
-- Reporting and operational analytics.
-
-## 7. Mandatory Technology Stack
-
-The developer must use:
-
-- **Frontend:** React, Vite, Tailwind CSS.
-- **Backend:** Java Spring Boot.
-- **Database:** PostgreSQL or MySQL.
-- **Payments:** Stripe.
-- **Supplier Integration:** Spark Shipping API v1.
-- **Maps:** Google Maps API.
-- **Source Control:** Private Git repository controlled by Eagle Vision Edge LLC.
-
-Technology substitutions require prior written approval.
-
-## 8. Independent Development and UAT Environment
-
-Spark Shipping does not provide a general-purpose sandbox for this project.
-
-The developer must establish a separate development and UAT environment that includes:
-
-- Mock Spark Shipping API services.
-- Simulated product catalogs and inventory.
-- Test pricing and supplier selection.
-- Simulated order submission and shipment tracking.
-- Stripe test-mode payments.
-- Test scenarios for missing product images.
-- ZIP-code shipping calculation tests.
-- Multi-tenant security and data-isolation testing.
-- End-to-end checkout and order lifecycle tests.
-
-Testing must not accidentally create real supplier orders or production charges.
-
-## 9. Milestones and Payments
-
-**Phase 1 — $250: Technical Review and Setup**
-
-Review existing code, architecture, integration requirements, and development environment.
-
-**Phase 2 — $400: Catalog and Storefront Integration**
-
-Complete agreed storefront functionality, supplier catalog integration, product synchronization, and image-matching workflows.
-
-**Phase 3 — $450: Checkout and Order Workflow**
-
-Complete Stripe checkout, shipping cost calculation, order processing, supplier fulfillment integration, and tracking workflows.
-
-**Phase 4 — $500: Full Testing, UAT, and Handover**
-
-Complete system testing, defect correction, UAT, source code delivery, documentation, and deployment handover.
-
-**Total Fixed Budget: $1,600 USD**
-
-Milestone funds may be secured through Freelancer.com, but payment will be released only after the corresponding work is completed, tested, delivered, and accepted in writing.
-
-## 10. Ownership and Final Acceptance
-
-All development must take place in an Eagle Vision Edge LLC-controlled private repository.
-
-Existing client intellectual property remains protected. Project-specific deliverables must be transferred in accordance with the signed agreement.
-
-The final product must materially match the approved prototype and satisfy all agreed functional requirements.
-
-The project must be completed within 30 calendar days of the mutually agreed commencement date. Any extension requires written approval.
-
-The signed Eagle Vision Edge Development Agreement  and its approved exhibits govern the project.
-
-This project is intended for our previously selected developer, Delaine Technologies Pvt. Ltd.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
