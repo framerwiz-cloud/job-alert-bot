@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Pay-Walled Live Stream Integration</title><link>https://www.freelancer.com/projects/web-development/Pay-Walled-Live-Stream-Integration</link><guid isPermaLink="false">freelancer:40798973</guid><pubDate>Mon, 02 Nov 2026 12:48:05 GMT</pubDate><description>250-750 USD | I’m ready to turn my existing website into a venue where visitors can purchase one-time access to a live stream. The site is already up; what it lacks is a secure paywall and a smooth viewer experience.
+
+Here’s what I need you to handle:
+
+• Recommend and configure the streaming platform that best fits a pay-per-event model—whether that ends up being YouTube Live, Vimeo Live, or another service you trust.  
+• Build the payment flow so users complete a single transaction (Stripe or PayPal are fine) and are then granted immediate, automated access to the live player.  
+• Embed the player neatly into my current site, locking the event behind the paywall and preventing direct URL sharing.  
+• Provide a simple way for me to schedule future events with the same workflow.
+
+I’ll supply site credentials, branding assets, and test content. Your work is complete when I can run a private dry-run: I pay, the video appears for me, and it stays protected from non-payers.</description></item>
 <item><title>AWS Website Migration &amp; SEO Preservation</title><link>https://www.freelancer.com/projects/aws-lambda/AWS-Website-Migration-SEO-Preservation</link><guid isPermaLink="false">freelancer:40798931</guid><pubDate>Mon, 02 Nov 2026 12:18:00 GMT</pubDate><description>250-750 USD | Website Migration, Domain Restructuring &amp; AWS Infrastructure Setup – sanaco.com.sa to sana.com.sa
 
 Project Overview
@@ -1001,46 +1011,6 @@ Here is what I expect at a minimum:
 Feel free to suggest whether the focus should be an AI content service, chatbot setup, or digital product line; I am flexible as long as the path to profit is straightforward and the workload stays light.
 
 Please outline your approach, the specific platforms or frameworks you plan to use (e.g., OpenAI, Zapier, Make, Bubble), and an estimated timeline for each milestone.</description></item>
-<item><title>Built a Webpage für a Contractor / Freelancer - Quotation Request</title><link>https://www.freelancer.com/projects/php/Built-Webpage-Contractor-Freelancer</link><guid isPermaLink="false">freelancer:40797856</guid><pubDate>Sun, 01 Nov 2026 21:55:59 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Project Description: 
-I am looking for a skilled web developer to build an informational website for my contractor/freelancer business. in GRC / Information Security with focus on Banking Industrz, Financial Services, Pharma and Chemicals Industry, IT Services Industry
-
- The ideal candidate should have experience in creating modern and minimalist designs.
-
-Specific features I want the website to have are:
-
-- Contact form: I want my potential clients to be able to easily get in touch with me through the website.
-- Experience sections, for example in the form of a rondel where website visitors can clock on any icon and see a description of experience (completed.
-- competence section - for example in the same manner as the experience section, i.e. a form of rondell where customers click on icons to read more about comptences
-- the same for credentials
-- webpage should also have a "jobs" section where I can post jobs in GRC / Information Security
-
-In terms of design, I prefer a modern and minimalist style that highlights the professionalism of my business.
-
-Skills and experience needed for this project:
-
-- Strong web development skills, including proficiency in HTML, CSS, and JavaScript.
-- Experience in building informational websites with contact forms.
-- Knowledge of modern and minimalist design principles.
-- Ability to create a visually appealing and user-friendly website.
-
-If you are confident in your skills and can deliver a high-quality, modern website that meets my requirements, please submit your proposal.
-
-Please fix-price offers that include support in publishing the webpage and maintaining the webpage (occasionally). The domain is currently hosted with one.com
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2023-08-22 (historical project ID 37095477). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Creative Graphical Web Design, Social Platform Branding</title><link>https://www.freelancer.com/projects/adobe-xd/Creative-Graphical-Web-Design-Social</link><guid isPermaLink="false">freelancer:40797609</guid><pubDate>Sun, 01 Nov 2026 17:35:50 GMT</pubDate><description>18-36 GBP/hr | I’m spearheading a new social-media-meets-service hub that will seamlessly unite Business, Education &amp; Community, Health, Lifestyle &amp; Technology, and Travel, Shopping &amp; Local Services, while also offering users a secure digital vault. The primary goal is to help people connect with one another and with their communities, so every design decision must reinforce that purpose. Visually, I need a modern, professional look that still feels welcoming the moment someone lands on the site.  
 
 This first phase is 100 % graphical. Once the creative direction is locked, we may commission the front-end build, so layered source files and clear component naming are essential.  
