@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress College Application Site</title><link>https://www.freelancer.com/projects/web-development/WordPress-College-Application-Site</link><guid isPermaLink="false">freelancer:40798697</guid><pubDate>Mon, 02 Nov 2026 09:35:02 GMT</pubDate><description>96-156 CAD | I’m building a new WordPress-powered website for our college and the single most important feature is a smooth online application experience for prospective students. I need a developer who can set up the site, design a clean interface that matches our branding, and create a secure application form that captures:
+
+• Basic personal and contact details  
+• Education history plus the course the student is applying for  
+• Document uploads (certificates, ID, etc.)
+
+Each submission must trigger an email to our admissions team that contains every field and any uploaded files, so nothing slips through the cracks. While alternatives like a private dashboard or downloadable spreadsheets were considered, email notifications are the workflow our staff is comfortable with right now.
+
+You’re free to use tools such as Elementor, Gutenberg, Gravity Forms, WPForms, or similar—whatever delivers a reliable, responsive form and keeps spam at bay. Please ensure the form is GDPR-friendly, works flawlessly on mobile, and can be extended later if we decide to add payment or course-selection logic.
+
+Deliverables:  
+• Fully functional WordPress site hosted on our server  
+• Styled application page and form with validation and upload capability  
+• Email notification setup and tested with real data  
+• Brief hand-off guide (plugin list, how to update fields, etc.)
+
+If you’ve built comparable education or admission portals before, that’s a plus—share a link or two so I can see your approach. I’m ready to move quickly once I find the right fit.</description></item>
 <item><title>Website or App Creation</title><link>https://www.freelancer.com/projects/web-development/Website-App-Creation</link><guid isPermaLink="false">freelancer:40798561</guid><pubDate>Mon, 02 Nov 2026 09:29:47 GMT</pubDate><description>250-750 USD | I’m ready to move an idea from concept to reality and need a skilled professional to take charge of the website or app work involved. Although the final feature set is still open for discussion, the end goal is a polished, user-friendly product that can scale.  
 
 Here’s what I have so far: a clear vision of the problem I want to solve, some wireframe sketches, and brand assets. What I need next is your expertise to refine the technical approach, choose the right stack, design an intuitive UI/UX, and then build, test, and launch. Whether you lean toward React, Flutter, Next.js, or another framework, I’m happy to hear your reasoning and suggestions.  
@@ -890,33 +907,6 @@ Implement best practices for website development and design.
 
 Estimating assumptions and context:
 The scenario is based on a Freelancer listing from 2024-06-13 (historical project ID 38218465). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Urgent WordPress E-commerce Web Development - Quotation Request</title><link>https://www.freelancer.com/projects/php/Urgent-WordPress-commerce-Web-40797761</link><guid isPermaLink="false">freelancer:40797761</guid><pubDate>Sun, 01 Nov 2026 20:25:56 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I need an experienced web developer to build my e-commerce website on the WordPress platform. It's a time-sensitive project, so I need a freelancer who can deliver with speed and quality.
-
-Key Points:
-- The website should be built on WordPress, with a professional and user-friendly layout.
-- While I haven't specified any payment gateways for integration, I'm open to suggestions and would appreciate expert input on the best options.
-- As my priority is speed, I'm looking for a developer with proven experience in working efficiently on WordPress e-commerce sites.
-
-Ideal Skills:
-- WordPress Development
-- E-commerce Website Building
-- Payment Gateway Integration
-- Fast turnaround time
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-04-27 (historical project ID 38037897). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
 
 The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
 
