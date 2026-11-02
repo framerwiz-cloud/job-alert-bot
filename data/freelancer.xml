@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Ecommerce Store With Secure Checkout</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Ecommerce-Store-With-Secure-Checkout</link><guid isPermaLink="false">freelancer:40798003</guid><pubDate>Mon, 02 Nov 2026 00:50:40 GMT</pubDate><description>20-250 GBP | I need a clean, user-friendly ecommerce website where customers can browse my physical products, add items to a cart, and check out smoothly. The site must accept both credit/debit cards and PayPal, with a single fixed shipping fee automatically applied to every order.  
+
+Key details  
+• Products are tangible and will be shipped to buyers.  
+• Payments go straight into my account via an integrated card gateway and PayPal.  
+• A flat-rate shipping charge should be configured globally so I don’t have to set it per item.  
+
+I’m open to popular platforms such as Shopify, WooCommerce, or another solution you recommend, as long as I can easily update inventory, track orders, and view sales reports. The design should be responsive, secure (SSL, PCI-compliant gateways), and optimised for quick load times and basic SEO.  
+
+Deliverables  
+– Fully functional online store built on an industry-standard platform  
+– Payment gateway setup for cards and PayPal, tested end-to-end  
+– Shipping settings configured with the fixed fee  
+– Admin dashboard walkthrough so I can manage products, orders, and refunds  
+– Launch assistance to point my domain and make the site live  
+
+Once done, I want to log in, add a product, and start selling immediately with funds landing in my account.</description></item>
 <item><title>Fix WordPress Header/Footer Layout</title><link>https://www.freelancer.com/projects/javascript/Fix-WordPress-Header-Footer-Layout</link><guid isPermaLink="false">freelancer:40797986</guid><pubDate>Mon, 02 Nov 2026 00:30:45 GMT</pubDate><description>20-250 GBP | A recent WordPress update broke the site-wide header and footer built with my header-footer plugin. Both elements still render, yet everything is out of place: the menu, logo and navigation links have shifted, spacing and alignment are off, and text, colours and buttons no longer match the theme. The problem appears on every single page, not just the home page.
 
 The task is to trace whatever changed in the update—whether it is the plugin, theme overrides, or custom CSS/JS—then correct the code so the header and footer regain their original layout and styling across the entire site. Please make the fix in a child theme or custom CSS file so future core, theme or plugin updates do not undo the work.
@@ -824,46 +841,6 @@ The project must be completed within 30 calendar days of the mutually agreed com
 The signed Eagle Vision Edge Development Agreement  and its approved exhibits govern the project.
 
 This project is intended for our previously selected developer, Delaine Technologies Pvt. Ltd.</description></item>
-<item><title>Build AI Sales Automation System</title><link>https://www.freelancer.com/projects/n8n/Build-Sales-Automation-System</link><guid isPermaLink="false">freelancer:40797210</guid><pubDate>Sun, 01 Nov 2026 12:27:38 GMT</pubDate><description>250-750 AUD | AI Sales Agent Developer Required — n8n, OpenAI &amp; WooCommerce
-
-We are seeking an experienced AI automation developer to build a fully integrated AI Sales Agent using n8n, OpenAI and our existing business systems.
-
-Project Objectives
-
-Develop an intelligent sales automation system capable of:
-
-* Instant lead response: Automatically engage new website, email and advertising enquiries via two-way SMS.
-* AI sales conversations: Qualify customers, answer product questions and collect detailed requirements.
-* Automated quotations: Connect to WooCommerce, identify suitable products, calculate accurate pricing using custom measurement and product options, and generate quotations through YITH Request a Quote.
-* CRM integration: Synchronise conversations, customer details, quotations and sales opportunities.
-* Automated follow-ups: Re-engage unanswered enquiries, outstanding quotations and previous customers through SMS and email.
-* Appointment scheduling: Integrate calendars and book qualified sales appointments.
-* Lead reactivation: Personalise outreach to existing CRM contacts.
-* Sales intelligence: Use a custom knowledge base containing product specifications, pricing rules and business procedures.
-
-Existing Platforms
-
-n8n Cloud, OpenAI, WordPress, WooCommerce, YITH Request a Quote, Microsoft 365, HubSpot and Bitrix24.
-
-Our n8n connection to WooCommerce is already operational.
-
-Required Experience
-
-Proven expertise in n8n, OpenAI API, WooCommerce REST API, custom WooCommerce pricing, conversational AI, SMS automation, CRM integrations and workflow development.
-
-Experience with WooCommerce Measurement Price Calculator, Product Add-ons and YITH Request a Quote is particularly important.
-
-Project Goal
-
-Build a reliable, scalable AI sales workforce that manages customer enquiries from initial contact through qualification, quotation, follow-up and conversion, with minimal manual intervention.
-
-Freelancer Requirements
-
-Please provide examples of similar projects, your proposed technical approach, estimated fixed-price cost and delivery timeframe.
-
-We are seeking an experienced developer who can deliver a complete working solution, not simply a basic AI chatbot.
-
-The project will be delivered in milestones, beginning with WooCommerce product selection, pricing accuracy and automated quotations.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
