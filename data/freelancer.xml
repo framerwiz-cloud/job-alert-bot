@@ -3,235 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Display date subscription n otomatic remove spesific role - Quotation Request</title><link>https://www.freelancer.com/projects/php/Display-date-subscription-otomatic-40799203</link><guid isPermaLink="false">freelancer:40799203</guid><pubDate>Mon, 02 Nov 2026 14:57:40 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I have a problem setting up woocommerce Subscription with a time setting: If a customer buys more than 1 product, then the membership period (month) will accumulate it. Not only that, it also accumulates the remaining previous membership automatically. In general, this must be flexible, for example, someone buys product A on the 1st of January and product B on the 5th of January, then if they buy 2 products A and 1 product B on the 25th of January, I want the payment display and membership history of product A to be extended until the 1st of January and product B until the 5th of January. 
-
-I created a code to assign roles specifically based on product ID and wcpa that can be assigned specifically, but it is not certain that it can be deleted specifically if the above problem has not been resolved.
-
-I want to work with a developer who can really complete the project, not just try to take it and who is also ready to be asked about the progress. Because I am also a developer, so I hope there is someone who is much more professional and can finish as soon as possible. For the budget, give a reasonable budget.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-09-13 (historical project ID 38568420). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Build Real Estate Landing Page + 20 Local Pages in WordPress Using Elementor - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-Real-Estate-Landing-Page-40799196</link><guid isPermaLink="false">freelancer:40799196</guid><pubDate>Mon, 02 Nov 2026 14:56:26 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm a real estate broker building a WordPress site with Elementor. I need:
-1.	A Flat Fee MLS landing page with 4 listing packages
- – Desktop: 4-column layout
- – Mobile: tabbed or swipeable
- – Styled like:
-  • flatfeegroup.com/RhodeIsland
-  • isoldmyhouse.com/purchase
-  • entryonly.com
-2.	Twenty Rhode Island town pages
- – I’ll provide all content in a spreadsheet
- – You format it using Elementor
- – Each page includes:
-  • Town intro
-  • Average real estate price info
-  • Accordion dropdowns for neighborhoods
-  • Helpful outbound links (GIS, tax assessor, zoning)
-  • SEO-friendly layout and mobile responsiveness
-Requirements:
-– Elementor experience
-– Clean layout and mobile-first design
-– Basic SEO formatting
-– Attention to detail
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2025-08-02 (historical project ID 39663477). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Multi Categories Listing Website in PHP , Laravel -- 2 - Quotation Request</title><link>https://www.freelancer.com/projects/php/Multi-Categories-Listing-Website-PHP-40799194</link><guid isPermaLink="false">freelancer:40799194</guid><pubDate>Mon, 02 Nov 2026 14:55:49 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I am looking for a skilled PHP developer with experience in Laravel to create a multi categories listing website. The main purpose of the website is to provide a platform for users to list their businesses, similar to Google business listings. 
-
-Design preferences:
-- The client has a specific design in mind for the website. 
-
-Data population:
-- The data for the website will be manually entered by users. 
-
-Ideal skills and experience:
-- Proficiency in PHP and Laravel framework
-- Strong understanding of database management
-- Experience in developing listing websites
-- Ability to implement a specific design as per client's requirements 
-- Attention to detail and ability to handle user-generated content 
-- Familiarity with SEO best practices for directory websites
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2023-07-29 (historical project ID 36966887). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Build me a website - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-website-Quotation-Request</link><guid isPermaLink="false">freelancer:40799184</guid><pubDate>Mon, 02 Nov 2026 14:53:57 GMT</pubDate><description>250-750 GBP | Please provide your estimated total development price in GBP and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I need an e commerce Wordpress website for my new business selling makeup and beauty products. 
-I need about 5 pages and need it in 2weeks 
-Details will be provided upon approval
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2022-01-02 (historical project ID 32525343). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed GBP 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Shopify Store for Healthcare Consumables - Quotation Request</title><link>https://www.freelancer.com/projects/website-design/Shopify-Store-for-Healthcare-Consumables</link><guid isPermaLink="false">freelancer:40799182</guid><pubDate>Mon, 02 Nov 2026 14:53:19 GMT</pubDate><description>250-750 NZD | Please provide your estimated total development price in NZD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I run a small healthcare-supplies company in New Zealand and need a basic Shopify store set up from scratch. The focus is healthcare consumables, so the catalogue will be straightforward—no large equipment pages—just items like gloves, dressings, wipes, and similar necessities.
-
-Here’s what I’m after:
-• Choose or recommend a minimalist, clean Shopify theme and apply my brand colours (I’ll supply logo and palette).  
-• Build the core storefront: Home, Shop, About, Contact, and standard policy pages.  
-• Add the initial product structure (up to 20 SKUs) with clear categories, prices in NZD, and high-quality placeholder images if mine aren’t ready yet.  
-• Configure secure checkout with Shopify Payments plus PayPal, and set up domestic shipping rates across New Zealand.  
-• Optimise basic SEO fields—titles, meta descriptions, and alt tags—so we launch search-ready.  
-• Show me how to update products and fulfil orders via a quick screen-share or concise PDF guide.
-
-I don’t need advanced custom coding, subscriptions, or complex filters at this stage; a clean, functional store that’s launch-ready is the goal. If you have healthcare-industry experience or local NZ tax/shipping know-how, let me know—it’s a plus.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2025-11-03 (historical project ID 39942833). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed NZD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Beacon Landing Page - Quotation Request</title><link>https://www.freelancer.com/projects/javascript/Beacon-Landing-Page-Quotation-Request</link><guid isPermaLink="false">freelancer:40799176</guid><pubDate>Mon, 02 Nov 2026 14:52:05 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Looking to commission someone to build our website using provided designs and images. It is scrolling website for our company that allows users to sign up to stay informed. The website scrolls and must be able to scale for both desktop and mobile devices. Sign up must make an API call to our server and display a confirmation message on success. Must have knowledge and experience in HTML, CSS and Javascript.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2021-04-04 (historical project ID 29775615). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Modern Website for Budget Rental Car Company - Quotation Request</title><link>https://www.freelancer.com/projects/php/Modern-Website-for-Budget-Rental-40799174</link><guid isPermaLink="false">freelancer:40799174</guid><pubDate>Mon, 02 Nov 2026 14:51:28 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm looking for a seasoned web developer with a strong background in creating rental car websites. I need a sleek, modern website that's affordable and user-friendly.
-
-Key Requirements:
-- Design and develop a modern, sleek website
-- Integrate an online booking system
-- Incorporate a vehicle comparison tool
-- Feature customer testimonials
-
-Additional Services:
-- Set up social media integration
-- Implement an email marketing setup
-
-The ideal candidate will also be proficient in content creation and writing, sourcing vehicle stock photos, and providing relevant information about each vehicle. 
-
-Please note, experience in building rental car websites is a significant plus. A portfolio showcasing similar past projects would be highly beneficial.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-12-26 (historical project ID 38927600). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>shopify : find and install the good affiliate app - Quotation Request</title><link>https://www.freelancer.com/projects/php/shopify-find-install-the-good</link><guid isPermaLink="false">freelancer:40799169</guid><pubDate>Mon, 02 Nov 2026 14:50:32 GMT</pubDate><description>30-250 EUR | Please provide your estimated total development price in EUR and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-The problem with all affiliate applications is that it is absolutely necessary to open a second account on the affiliate network platform.
-I want to avoid this
-
-I would like my clients on the site to be automatically sponsored or sponsored . Without having to ask them to register on another site to manage this... 
-
-
-
-Objective: to give 10% of the godchild's orders to his godfather (in a sustainable way not only for the first order). 
-
-Thank you
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2021-01-29 (historical project ID 29114112). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed EUR 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Shopify Theme Development for Fish Store - Quotation Request</title><link>https://www.freelancer.com/projects/website-design/Shopify-Theme-Development-for-Fish</link><guid isPermaLink="false">freelancer:40799148</guid><pubDate>Mon, 02 Nov 2026 14:41:11 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I need a Shopify theme built based on a ChatGPT mockup for my fish store. 
-
-Requirements:
-- Design a bright and vibrant color scheme
-- Include a feature product slider on the homepage
-
-Ideal Skills and Experience:
-- Expertise in Shopify theme development
-- Strong design skills with a focus on bright and vibrant color schemes
-- Experience implementing homepage features like product sliders
-
-Looking forward to your bids!
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2025-06-23 (historical project ID 39539134). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Enchanting Animated Mail Club Doors</title><link>https://www.freelancer.com/projects/web-development/Enchanting-Animated-Mail-Club-Doors</link><guid isPermaLink="false">freelancer:40799121</guid><pubDate>Mon, 02 Nov 2026 14:27:58 GMT</pubDate><description>30-250 USD | I’m looking for a creative web developer to bring a touch of magic to my existing website through smooth, thoughtfully designed animations. The site was built using Airo and is hosted by GoDaddy. The current animations feel choppy and don’t create the fantasy atmosphere I’m looking for.
 
 I want visitors to feel as though they’re entering a welcoming, dreamlike world that makes them happy to explore. The experience must remain fast, easy to navigate, and responsive on both desktop and mobile.
@@ -246,32 +17,6 @@ Please include the following with your proposal:
 
 Please do not submit placeholder bids or bid low simply to win the project and then request more money for the agreed scope. If you need clarification before quoting accurately, please ask. Proposals without a clear creative idea and a reference link will not be considered.
 I attached two videos. One currently shows how the library is set up. The other shows how I would like it to look.</description></item>
-<item><title>Minimalistic Ecommerce Fashion Website Development - Quotation Request</title><link>https://www.freelancer.com/projects/php/Minimalistic-Ecommerce-Fashion-Website</link><guid isPermaLink="false">freelancer:40799120</guid><pubDate>Mon, 02 Nov 2026 14:27:17 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm looking to establish an ecommerce platform specializing in Men's and Women's clothing, as well as Accessories. The site should embody a minimalistic design style and feature essential functionalities including product reviews and ratings.
-
-Key Requirements:
-- Design and develop a user-friendly, minimalistic ecommerce website.
-- Ensure the site is equipped to sell a range of fashion items.
-- Incorporate a robust product review and rating system.
-
-Ideal Skills and Experience:
-- Proven experience in ecommerce website development.
-- Strong understanding of minimalistic design principles.
-- Experience with integrating product review and rating systems on ecommerce platforms.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-12-26 (historical project ID 38928585). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Recover Lost WordPress.com Access</title><link>https://www.freelancer.com/projects/wordpress-security/Recover-Lost-WordPress-com-Access</link><guid isPermaLink="false">freelancer:40799031</guid><pubDate>Mon, 02 Nov 2026 13:33:04 GMT</pubDate><description>250-750 USD | I’ve lost access to my WordPress.com account and the usual password-reset route is blocked because I can’t recall the email address I used during registration. What I do have is the public URL of the site and the username that appears on posts, so we have some solid reference points to prove ownership. The blog is still live and publicly visible, but I’m locked out of the dashboard.
 
 I need a specialist who knows the WordPress.com recovery workflow inside out—contacting Automattic support, preparing ownership proofs (DNS, post content, billing lookup, or any other recognised method), and guiding or handling the entire ticket until I can sign in again with a fresh email and password. Clear, step-by-step updates are essential so I always know where we stand with support.
@@ -455,31 +200,6 @@ What is your estimated project timeline?
 What is your estimated total project cost?
 What post-migration support do you provide?
 We prefer freelancers who can demonstrate previous successful projects involving AWS infrastructure, large database migration and SEO-preserving domain migration.</description></item>
-<item><title>Build a Similar Pages with PHP &amp; JQuery. - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-Similar-Pages-with-PHP-40798825</link><guid isPermaLink="false">freelancer:40798825</guid><pubDate>Mon, 02 Nov 2026 11:04:08 GMT</pubDate><description>240-2000 HKD | Please provide your estimated total development price in HKD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Please help to build a similar page &amp; design to the below link. We need the first 2 pages, Get a Quote, and Application Details. 
-
-Get a Quote Page: *We need the functions, input fields, validation, and price selection based on input. (the logic doesn't have to be the same, only need to be well documented that the value changes will also update the select price)
-
-Application Details: *We need the functions, input fields, validation, especially allows to dynamically create the additional traveler and remove it if no need. 
-The Travel Destination field will able to select after type in some text.
-
-With Documented and using free license codes/add-on
-
-https://gi.zurich.com.hk/page/public/en/us/process/enter/TravelPlusProcess.html?productId=TravelPlus&amp;data=X9ZKHwlAFHgG9X5N8YCNJ2aquNwZoBCJKITQWO19zpwqiTmwvfSDmgZwB6I2CZRlDh9qy5l3TbJl-YFWVUX7EInRsattiP4pEcpRbsLMK9d61htxFlvhdxJAwumWTc55FIpzSqYCnfbXydFR_acztAjI0nq2Y6YqbOka-XTXH0pF9Fa3-vYshzgYf0JHNMF4HO3GvHk9g3MWW5mmqODoE2hG2yQbrjDgnSc5jEhCj7L7MksUqK1hiHZM48bDIaZ_yJ7QsTCIXMBRYL9JxIpM9w&amp;initProcessAction=Step1CreateQuoteTravelPlus&amp;_ga=2.25806013.1267608859.1624876633-1673736256.1624876633
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2021-06-29 (historical project ID 30689524). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed HKD 240–2000 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Fashion E-Commerce &amp; Wholesale PWA</title><link>https://www.freelancer.com/projects/web-development/Fashion-Commerce-Wholesale-PWA</link><guid isPermaLink="false">freelancer:40798819</guid><pubDate>Mon, 02 Nov 2026 11:02:42 GMT</pubDate><description>750-1500 AUD | I distribute several premium clothing brands and now need a single platform that sells to two groups—regular online shoppers and my network of approved wholesale retailers. The project covers three tightly connected areas:
 
 • Public retail store: shoppers must be able to browse by brand, colour and size, add items to a cart, pay securely with cards and digital wallets (Apple Pay, Google Pay), and track delivery from dispatch to doorstep on any desktop browser, iPhone or Android device.  
@@ -513,71 +233,6 @@ Please include the following with your proposal:
 - A realistic price and an explanation of what it includes.
 
 Please do not submit placeholder bids or bid low simply to win the project and then request more money for the agreed scope. If you need clarification before quoting accurately, please ask. Proposals without a clear creative idea and a reference link will not be considered.</description></item>
-<item><title>Wordpress Changes &amp; New System Development - Quotation Request</title><link>https://www.freelancer.com/projects/php/Wordpress-Changes-New-System-Development-40798750</link><guid isPermaLink="false">freelancer:40798750</guid><pubDate>Mon, 02 Nov 2026 10:09:10 GMT</pubDate><description>4080-4080 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Wordpress Changes
-
-- We will make all pages of the website responsive which are mentioned in pages.xml sitemap  
-- We will integrate multi language plugin in the website, client will require to purchase yearly membership of it of 99 usd 
-- We will create one section and put it on home screen showing product categories just like : https://us.misumi-ec.com (as shown in below screenshot)
-
-New System Development
-
-Admin panel (As mentioned in chat proposal message)
-Customer panel (As mentioned in chat proposal message)
-
-Notes
-- We will develop this in either React.js-Node.js-MongoDB or Laravel-MySQL
-- System will be web based &amp; desktop resolution using suitable admin template
-- Admin &amp; customer panel will be in single language Spanish only
-- Hosting setup is not included, we will host the panel on the server
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2022-11-09 (historical project ID 35168258). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 4080–4080 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Beauty and Wellness Marketplace Web App Development - Quotation Request</title><link>https://www.freelancer.com/projects/website-design/Beauty-Wellness-Marketplace-Web-App-40798700</link><guid isPermaLink="false">freelancer:40798700</guid><pubDate>Mon, 02 Nov 2026 09:36:20 GMT</pubDate><description>1000-2000 GBP | Please provide your estimated total development price in GBP and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm seeking a proficient web developer to assist in bringing my vision to life: a custom web app booking platform tailored for the beauty and wellness industry. This platform will serve as a marketplace, connecting customers with businesses in the said sector. 
-
-Key Features Required:
-- **Appointment Booking**: Users should be able to book appointments easily through the platform.
-- **Service Reviews and Ratings**: A robust review and rating system are essential to foster trust.
-- **Online Payment Integration**: Seamless integration of online payment system will be necessary for user convenience.
-- **Chatbots**: Integrating chatbots will enhance user experience, providing instant and automated responses.
-- **Map Integration**: Including map functionality will help users locate and navigate to businesses easily.
-- **Search Filters**: A search filter feature will allow users to refine their search for specific services.
-- **Help Page**: This should be a chatbot for easy setup aimed at improving customer experience.
-- **Sign Up Pages**: These should be user-friendly and intuitive.
-- **Analytics**: The platform should have a tracking system to provide insights into user behavior.
-- **Profile**: Users and businesses should be able to create and manage their profiles.
-- **Languages**: Multi-language support to cater to a wider audience.
-- **Dashboard**: Users should have a personalized dashboard to manage their activities.
-- **Services and Pricing**: Businesses should be able to list their services and corresponding pricing.
-- **Appointments**: A feature to manage and view scheduled appointments.
-
-Ideal candidate should have extensive experience in creating clean and user-friendly web applications, particularly in the marketplace and booking domain. Proficiency in integrating various features such as chatbots, maps, payment gateways, and analytics will be crucial. Experience in developing similar platforms, especially in the beauty and wellness industry, will be a definite advantage. A proactive and creative approach to problem-solving and a keen eye for detail are highly desirable.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-04-27 (historical project ID 38042576). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed GBP 1000–2000 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>WordPress College Application Site</title><link>https://www.freelancer.com/projects/web-development/WordPress-College-Application-Site</link><guid isPermaLink="false">freelancer:40798697</guid><pubDate>Mon, 02 Nov 2026 09:35:02 GMT</pubDate><description>96-156 CAD | I’m building a new WordPress-powered website for our college and the single most important feature is a smooth online application experience for prospective students. I need a developer who can set up the site, design a clean interface that matches our branding, and create a secure application form that captures:
 
 • Basic personal and contact details  
@@ -615,203 +270,349 @@ Ideal Skills and Experience:
 - Strong coaching and communication skills  
 
 Looking forward to your expertise to boost my efficiency!</description></item>
-<item><title>Desarrollo de aplicaciones iOS y Android desde una página con Woocommerce - Quotation Request</title><link>https://www.freelancer.com/projects/php/Desarrollo-aplicaciones-iOS-Android</link><guid isPermaLink="false">freelancer:40798644</guid><pubDate>Mon, 02 Nov 2026 08:53:15 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Se requiere realizar ambas aplicaciones en tecnologías como Reac Native o similares desde una tienda en línea creada con woocommerce, además de las páginas informativas que están creadas con elementor, por lo que quizá se tengan que convertir datos en API y que todo lo que se cree en la web pueda transferirse a la App.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2021-03-17 (historical project ID 29591987). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Professional Frontend Designer for Laravel Project - Quotation Request</title><link>https://www.freelancer.com/projects/php/Professional-Frontend-Designer-for-40798620</link><guid isPermaLink="false">freelancer:40798620</guid><pubDate>Mon, 02 Nov 2026 08:34:47 GMT</pubDate><description>300-500 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm currently developing a Laravel backend for a project and I'm in need of a highly skilled, professional frontend designer. Your job would be to create a design for our frontend website in Figma, based on a sample website that I'll provide.
-
-Key Responsibilities:
-- Create a professional and corporate design in Figma
-- Design the full website, including the homepage, dashboard, and user profile
-- Convert the approved design into HTML and CSS
-
-Ideal Skills and Experience:
-- Expertise in Figma and frontend design
-- Proficient in HTML and CSS
-- Experience with Laravel projects
-- Ability to create a design that aligns with a provided sample website
-- Strong understanding of professional and corporate design styles
-
-If you have a keen eye for detail and a passion for creating clean, modern, and user-friendly designs, please get in touch. I look forward to seeing your portfolio and discussing this project further.
-https://www.transfeero.com/en/   and our website is https://easyairporttransferz.com/
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-08-25 (historical project ID 38497373). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 300–500 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Build PHP Website to receive and resell SOFTWARE CD KEYS -- 2 - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-PHP-Website-receive-resell-40798603</link><guid isPermaLink="false">freelancer:40798603</guid><pubDate>Mon, 02 Nov 2026 08:22:46 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I’m looking for somebody to build PHP website.
-I want receive software cd keys from my partner to delivery this keys in my region.
-The admin will create business account to vendor and they will upload their keys and get paid on his balance if admin mark as sold.
-After 14 days of sale the Business account can request payout to bank details.
-
-Admin features
-Create and manage user manually. 
-Setup product to user
-Approve withdraw request
-Cancel sold order in case of dispute
-Mark as sold (We will deliver the key to our customer and mark as sold on vendor keys stock)
-
-Check attached files I draw a sample.
-I will provide you html template to use.
-I only reply if you solve this quiz , 1+1=?
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2023-03-05 (historical project ID 36128520). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Security Guard &amp; Yard Management Web App Development - Quotation Request</title><link>https://www.freelancer.com/projects/php/Security-Guard-Yard-Management-Web</link><guid isPermaLink="false">freelancer:40798538</guid><pubDate>Mon, 02 Nov 2026 07:43:38 GMT</pubDate><description>1000-1500 CAD | Please provide your estimated total development price in CAD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Project Overview
-We are seeking a skilled and experienced full-stack developer to build a secure, mobile-friendly web application for real-time security and yard management. The application will be the central hub for our operations, used by security guards, customers, and the site owner to efficiently track trucks, trailers, and on-site activities.
-
-The primary goal is to replace our manual processes with a streamlined digital solution for logging truck entry/exit, reporting damages, managing customer schedules, and providing a live, comprehensive dashboard for the owner.
-
-Key Features &amp; Deliverables
-The ideal candidate will be responsible for developing and delivering a fully functional, tested, and documented web application with the following core features:
-
-Guard Portal (Mobile-First UI):
-
-Reporting: A quick-entry form to log truck/trailer numbers, full/empty status, and entry/exit timestamps.
-
-Damage Reports: Ability to submit detailed reports with photo uploads.
-
-Event Log: A section for adding custom notes and event details.
-
-Customer Portal:
-
-Emergency Contacts: Each customer's page must display their emergency contact information.
-
-Visitor Management: Customers can add and delete approved visitors (trucks/drivers) directly.
-
-Real-time Tracking: A live view showing all of the customer's trucks and trailers currently inside and outside the yard, along with their loaded status (full/empty).
-
-Pre-Scheduling: A simple interface for customers to pre-submit scheduled truck/trailer arrivals.
-
-Approval Queue: Customers will have an interface to approve or deny visitor access requests made via QR code.
-
-Owner/Master Portal:
-
-User Management: Functionality to assign guards to specific sites and manage user roles.
-
-Reporting &amp; Analytics: Advanced filtering and export capabilities for all reports.
-
-Real-time Dashboard: A live dashboard showing all vehicles currently in the yard, updated instantly via WebSockets or similar technology.
-
-The QR Code &amp; Access Approval Workflow
-This is a critical part of the project. The system must support the following multi-step approval process:
-
-A first-time visitor (e.g., a truck driver) will scan a QR code at the property entrance.
-
-The QR code directs them to a secure web form where they can request access.
-
-This request then enters an approval queue that is visible to the relevant customer and the site's security guard.
-
-Both the customer and the guard must be able to manually review and approve or deny the request. Access is not granted automatically.
-
-Upon approval, the guard's portal is updated, allowing them to proceed with the truck's check-in.
-
-Technical Stack &amp; Requirements
-We are looking for a developer with hands-on experience in building scalable solutions. Our preferred tech stack for this project is:
-
-Frontend: React (with a mobile-first, responsive design).
-
-Backend: Node.js (Express) or Laravel (PHP).
-
-Database: MySQL or PostgreSQL.
-
-Hosting: Experience with AWS, Azure, or GCP is required.
-
-Security: Robust, role-based access control and secure authentication (e.g., JWT).
-
-Real-time: Proficient with WebSockets or similar technology for live updates (for both the owner and customer portals).
-
-Additional Skills: Experience with file/photo uploads and multi-stage approval workflows.
-
-Ideal Candidate &amp; How to Apply
-We are seeking a freelancer or small team with a proven track record of developing complex, secure applications that incorporate reporting and real-time features.
-
-Please include the following in your application:
-
-A brief overview of your relevant experience.
-
-Links to past projects or live demos, especially those involving dashboards or reporting.
-
-Your suggested tech stack for this specific project, including any libraries or frameworks you'd recommend.
-
-Your estimated timeline for completion and a proposed budget.
-
-We are ready to start this project immediately with the right partner.
-
-Thank you for your interest!
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2025-09-15 (historical project ID 39791113). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed CAD 1000–1500 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Quick WordPress Bug Resolution</title><link>https://www.freelancer.com/projects/web-development/Quick-WordPress-Bug-Resolution</link><guid isPermaLink="false">freelancer:40798506</guid><pubDate>Mon, 02 Nov 2026 07:20:16 GMT</pubDate><description>2-8 USD/hr | Several of our websites need to be adjusted. Currently, there are some issues with the UI and functionality. I need a friend who is skilled in WordPress development to help me complete a series of tasks. We previously used Codex to create several websites, but now we are encountering problems. We are unable to modify some of the images and layouts because the code written by AI seems a bit messy. I need an expert to help me solve this. The problems with the other websites are caused by the UI layout. In addition to fixing the bugs, we also need to start the development tasks for several websites quickly. We will collaborate based on weekly tasks. The cost may not be high, but our work is stable. I need a full-time developer. I will provide a contract to test your development and modification capabilities. The applicant must showcase your recent cases. Responses need to be prompt.</description></item>
-<item><title>Customization to Woocommerce Plugin - Quotation Request</title><link>https://www.freelancer.com/projects/php/Customization-Woocommerce-Plugin-40798449</link><guid isPermaLink="false">freelancer:40798449</guid><pubDate>Mon, 02 Nov 2026 06:45:20 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+<item><title>Pet Brand Online Store Setup</title><link>https://www.freelancer.com/projects/shopify-site/Pet-Brand-Online-Store-Setup</link><guid isPermaLink="false">freelancer:40798260</guid><pubDate>Mon, 02 Nov 2026 04:51:32 GMT</pubDate><description>250-750 GBP | I need help setting up an online store for my new pet accessories brand. I'm looking for someone who can get this done quickly, as I need it ASAP.
 
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+The ideal candidate should have:
+- Experience with Shopify, WooCommerce, or similar platforms
+- Strong design skills to create an appealing, user-friendly interface
+- Knowledge of SEO and digital marketing to help drive traffic to the store
 
-You will need to personalize the values that appear on the invoice of the Woocommerce PDF Invoices, also modify the template they include.
+Please include past work in your application, especially any relevant to e-commerce or brand launches.</description></item>
+<item><title>Clean, modern website for a small HR systems consultancy (WordPress, about 6 pages)</title><link>https://www.freelancer.com/projects/web-development/Consulting-Site-Build</link><guid isPermaLink="false">freelancer:40798108</guid><pubDate>Mon, 02 Nov 2026 03:01:50 GMT</pubDate><description>30-250 USD | About the business
+Passerelle HR LLC is a new Chicago-based consultancy that builds customized HR systems for small companies and then supports them month to month. We also offer HR administration (payroll, onboarding, hiring support) as an add-on. I’m looking for a clear, credible, professional website that explains this simply and makes it easy to get in touch.
 
-They give a documentation very explanatory to custom the values shown on the PDF: https://docs.woocommerce.com/document/pdf-invoice-developer-tools/
+Pages needed
+Home: a short statement of what we do, who it’s for, and how it works in three steps, with a clear “Contact us” button.
+Services: the System Build, Monthly Support, and HR Administration, with a short description of each and a link to the contact form. A list of the ten HR systems we can build (I will supply the text).
+How it works: our 5-step method and a typical 4 to 8 week timeline per system.
+About: my background and credentials, with a photo (I will supply the text).
+Resources: a simple blog or guides section for future articles.
+Contact: a simple form that sends to my business email, plus the Chicago address and phone number.
 
-Example: Meaning that if subtotal is equal to USD1,000 only the 15% will appear.
+Also needed: privacy policy and terms pages (a template is fine), and a short note that we do not use AI to screen or rank job candidates.
 
-Things to do: Personalize template, modify the values with calculation (Subtotal, Shipping and total).
+Not needed now: online payments, client login, or an online shop. Testimonials and case studies will be added later by me, so please include an easy-to-edit section for them, but no placeholder reviews.
 
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2021-07-09 (historical project ID 30790322). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+Technical requirements
+Built on WordPress or a similarly easy platform, so I can edit text, images and posts myself.
+Mobile-first, fast-loading, working on all major browsers and devices.
+Basic on-page SEO, Google Analytics, and a contact form that reliably delivers email.
+English-language site. A French version of the home page is a possible later add-on, so please say if your quote could include it.
 
-The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+Important constraints
+My domain is registered at Namecheap and my email is on Zoho Mail. Please do not change or delete any mail-related DNS records (MX, SPF, DKIM, DMARC), and only add the records needed to point the domain at the website. If possible, host the site so that I keep control of the domain.
+The domain, hosting account, WordPress admin and all files must be in my name and handed over to me at the end.
 
-Research use
+Acceptance criteria
+The site displays correctly on all major browsers and devices.
+Test submissions of the contact form reach my inbox.
+I receive a short video or live session showing how to edit pages, add a blog post and update images.
+I have all logins, source files and licences for any themes or plugins.
 
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+Please include in your reply
+Your proposed platform and theme or plugin approach
+A fixed price and timeline
+Two or three relevant portfolio sites, ideally for small service businesses
+What is included after launch (for example, 30 days of bug fixes), and the yearly costs I should expect (hosting, plugins)</description></item>
+<item><title>Meta Ads &amp; Retargeting Setup</title><link>https://www.freelancer.com/projects/google-analytics/Meta-Ads-Retargeting-Setup</link><guid isPermaLink="false">freelancer:40798123</guid><pubDate>Mon, 02 Nov 2026 02:47:28 GMT</pubDate><description>30-250 AUD | We are an Australian Automotive brand and we're looking for an experienced person to set up reliable once off Meta Pixel setup for tracking and retargeting.
+Our website uses Wordpress/Elementor and Stripe checkout. We need someone to check any existing setup, set up tracking for website visits, purchase button clicks, and completed purchases, and test that everything reports correctly in Meta Events manager.
 
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
+Our goal is to use this data for retargeting ads, so we only need initial set up and not ongoing ads management.
+
+Here’s what success looks like:
+• Meta Pixel correctly installed on WordPress, firing all standard and purchase events tied to Stripe’s checkout flow.  
+• Custom and look-alike audiences built from previous site visitors.  
+• Creative strategy designed around dynamic product ads so each shopper sees exactly what they viewed or abandoned.  
+• Clear reporting inside Ads Manager that lets me monitor cost-per-purchase and ROAS at a glance.  
+• A walkthrough showing the structure you built, how to tweak budgets, and how to expand into new segments later.
+
+If you’ve set up profitable retargeting loops before and are comfortable marrying WordPress, Stripe, and Meta Ads Manager, please send me examples of similar projects, your turnaround time for initial Pixel set-up. All accounts and assets must remain under our business ownership</description></item>
+<item><title>Outbid.lol Clobuild a competitive ranking and claiming platformne With Admin</title><link>https://www.freelancer.com/projects/html/Outbid-lol-Clobuild-competitive-ranking</link><guid isPermaLink="false">freelancer:40798023</guid><pubDate>Mon, 02 Nov 2026 01:28:16 GMT</pubDate><description>250-750 USD | build a website similar to Outbid.lol, but with addons such as allowing users to post unranked listings. Users can create posts, compete for ranked positions, and claim or take over a position on a public leaderboard.
+
+The idea is to build a competitive ranking and claiming platform.
+Here's how I would approach it.
+1. Website concept
+The website would allow users to:
+Create a listing: 	A user posts something they want to rank.
+A User could have no account as like outbid.lol if he    only to post a ranked listing. if the user wants to post unranked listings or both, he needs to have an account.
+Claim a position: Other users can claim an available ranking position.
+Compete for rankings: Users can challenge or outbid the current position holder.
+Display a leaderboard: Show who currently holds each position (1st to 20th). Listings below 20th are unranked and positioned by random searching.
+Track activity: Show recent claims, challenges, and ranking changes.
+Manage profiles: Users have accounts, usernames, and ranking histories.
+
+2. Main website pages
+Page
+Features
+Home
+Home button, categories button;
+Register button, Login button, 
+Trending lists and popular rankings
+15 or more ranked listing (under :all: category) and randomly drawn listings
+and related information, such as privacy
+Explore
+Browse all public lists
+Create list
+Publish a new ranking list
+List details
+View positions and claim them
+Leaderboard
+Show top-ranked users
+User profile
+Claimed positions and history
+Dashboard
+Admin panel: manage categories (one level or two levels, the total number of categories is unlimited, theoretically) and fees for ranking
+Fees for ranked and unranked listings
+
+Poster: Manage your lists and claims
+Only post ranked listings, no need an account
+
+
+
+
+
+
+
+
+
+
+Image 
+title
+Ranked /unranked 
+categories
+position
+Amount 
+
+
+URL or #candle
+
+
+Home / 
+cat 1
+
+
+(pay)
+
+
+description
+
+
+
+
+
+
+
+
+
+
+A fees table will show
+Comparing minimum amount for position and the amount user choosing, if user’s amount greater than the minimum amount for the position, the process will proceed
+Use dodopayments.com as payment processor
+Should be able to take ApplePay, GooglePay, PayPal, Credit cards, ACH
+3. How the ranking system should work
+
+Based on the actual Outbid.lol model, the central mechanic is:
+A person submits their website, product, or social media profile.
+They choose how much they want to pay.
+Higher payments receive higher positions (an increment must be met for a higher position).
+Anyone can submit a higher bid to climb the leaderboard.
+If someone increases their own bid, they only pay the difference.
+Once payment is confirmed, the leaderboard updates automatically.
+With more higher bidding, the lowered previous bidding will be kept to lower position in order, for example, with 2 higher biddings added on, the initial 10th bidding will be moved down to 12th position, always above unranked listings
+
+For example:
+Rank
+Product
+Total bid
+#1
+Product A
+$500
+#2
+Product B
+$300
+#3
+Product C
+$150
+#4
+Product D
+$50
+
+If someone bids $550 (suppose the minimum increment is $50), they become #1. Equal bids should be ordered by who paid first. This follows the core ranking model described by Outbid.lol.
+
+If the minimum increment is $20, a user bids $320 will get his listing the #2 position.
+
+A difference from outbid.lol:
+A poster can submit an unranked listing at a plain fee, for example $10 per month, or at a discounted fee: $100 for a year, and this fee is nonrefundable.
+Unranked listing can’t be upgraded to ranked listing
+
+
+4. Recommended technology
+I'd recommend this stack for a scalable first version:
+Component
+Technology
+Frontend
+Next.js
+Design
+Tailwind CSS
+Database
+Supabase / PostgreSQL
+Authentication
+Supabase Auth
+Payments
+Stripe or another supported payment provider, or use payment processor such as dodopayments.com
+
+
+Hosting
+Vercel
+AI features
+OpenAI API
+
+
+
+Important backend features:
+Automatic ranking calculations.
+Secure payment verification through webhooks.
+Duplicate listing detection.
+User account management.
+Bid and payment history.
+Admin dashboard and moderation.
+Important: Never update a ranking just because the user clicked Pay. Only update it after verified payment confirmation.
+
+
+5. Design direction
+I'd suggest a modern dark interface with:
+Black or charcoal background.
+Purple/blue accent colors.
+Large #1 leaderboard spotlight.
+Clear bid amounts.
+Green claim buttons.
+Live ranking updates.
+Responsive mobile layout.
+
+
+How should people claim a ranked position?
+1. Ranking / claiming method
+Paid bidding — users pay to claim or outbid positions, like Outbid.lol.
+Free claiming — users claim available positions without paying.
+Both — free listings with paid upgrades to higher positions.
+
+2. What can people post?
+Websites, products, and AI tools
+Anything — users create their own lists and rankings
+People, profiles, and social media accounts
+Custom categories and user-created leaderboards
+
+the complete website, including frontend, backend, database, payment integration, and admin and poster dashboard.</description></item>
+<item><title>ClickFunnels Website Improvements &amp; Click Funnells Utilisation </title><link>https://www.freelancer.com/projects/ab-testing/ClickFunnels-Website-Improvements-Click</link><guid isPermaLink="false">freelancer:40797940</guid><pubDate>Sun, 01 Nov 2026 23:27:23 GMT</pubDate><description>250-750 AUD | I'm a director of  a small Australian business specialising in Positive Behaviour Support (PBS).
+
+We have an existing ClickFunnels website, but our original developer is no longer available. I'm looking for an experienced ClickFunnels freelancer who can help with two main areas.
+
+1. Website Review &amp; Improvements
+
+Review our existing website and recommend practical improvements.
+
+Improve messaging layout (I will provide messaging and wording), layout (including grapics) and overall user experience.
+
+Ensure the website clearly communicates our services, philosophy and approach.
+
+Make basic content updates and ensure the site works well on mobile devices.
+
+2. ClickFunnels Training &amp; Better Utilisation
+
+I'd also like someone who can work alongside me and teach me how to better use the platform, including:
+
+Publishing blogs and educational content.
+
+Building and managing an email subscriber list.
+
+Creating newsletters and simple email campaigns.
+
+Setting up basic automations and follow-ups.
+
+Identifying other useful ClickFunnels features that could benefit a small business.
+
+What I'm Looking For
+
+We're a small, growing business, so I'm not looking for a complete website rebuild or an expensive ongoing marketing package.
+
+Ideally, I'd like someone who can provide practical, one-on-one guidance via Zoom, help implement some initial improvements and teach me how to manage things myself moving forward.
+
+I'm reasonably comfortable using technology and more so AI tools )(albeit would love someone who can help me better utilize AI - widgets etc for our business) 
+
+I'd prefer to start with a paid website review and improve, then agree on priorities and any additional work required.
+
+I'm based in Australia but happy to work with freelancers anywhere in the world.  Good English is essential.  
+
+Please let me know your relevant ClickFunnels experience, hourly rate and approach to this type of project.
+
+Thanks,
+Shaun</description></item>
+<item><title>Fix Sidebar Dropdown Functionality</title><link>https://www.freelancer.com/projects/dreamweaver/Fix-Sidebar-Dropdown-Functionality</link><guid isPermaLink="false">freelancer:40797935</guid><pubDate>Sun, 01 Nov 2026 23:20:46 GMT</pubDate><description>30-250 USD | I need help making existing sidebar dropdown boxes work across all sections of my Dreamweaver website. Currently, the dropdown options link to pages, but only within one main section. I need them to link correctly to pages in the same folder as the sidebar.
+
+Requirements:
+- Ensure dropdown options function correctly on all pages within the same folder as the sidebar.
+- Maintain current design and functionality of the website.
+
+Ideal Skills &amp; Experience:
+- Proficient in Adobe Dreamweaver
+- Experience with HTML/CSS and website navigation
+- Attention to detail and problem-solving skills
+
+More info from potential client:
+The Dreamweaver site in question is vistabookencore.com. To get to the problem issue, bring up the site and click on an e for encore and that will take to a list of the three sections: VistaBooks History Reprints, VistaBooksOnline, and VistaBooks Vintage,
+
+Cuirrently I am concerned with only the left sidebar "sidebar-l.html". It is located in the VistaBooks Online section, "vbonline" foider. (There is a "sidebar-l copy" file in the site but only there if needed for a backup restore. Another recent backup is in a separate disk on the computerr.)
+
+Go to VistaBooks Online where a home page will come up with sidebars (sidebars also appear on other pages in this section.) In the left sidebar are three sections. 
+Test the dropdown boxes in the VistaBooks History Reprints section; their links to pages all work, ' though sidebars need to be set up on those pages, too.
+Test links in the VistaBooks Online section; none work, links just stall. 
+Links in the VistaBooks Vintage section do not work as I have not finished them pending resolution of the problem in VistaBooks Online, but would seem to have the same fix once found.
+I have also below the VistaBooks Vintage section inserted a test dropdown box with links to pages in another published website, VistaBooks Outlet; all these work.
+The code used for each of the dropdown box lists is like this:
+"&lt;select id="setit1" size="1" name="test1"&gt;    
+    &lt;option value = "https:/www.vistabooksencore.com/vbreprint/pagesvb/vbnogo.html" style="background-color:     #69359c"&gt;REPRINTS SUBJECTS&lt;/option&gt;
+&lt;/select&gt; 
+  &lt;input type="button" value="GO"
+onClick="window.open(setit1.options[setit1.selectedIndex].value)" style="background-color: #69359c"&gt;
+There are 20 dropdown box lists like the above example in the sidebar, with the "setit1" and "test1" values rising one at a time to "setit20" and "test20" but with the size ="1" staying the same.
+The first 5 dropdown boxes are for VistaBooks History Reprints; all work. 
+The dropdownboxes from 6 thru 12 are for VistaBooks Online; all fail.
+The dropdownboxes from 13 thru 19 are for VistaBooks Vintage; all fail but are mainly yet to be set up).
+The dropdown box 20 for VistaBooks Outlet all works, this to an external published website that is intended to be replaced by vistabooksencore.com.
+The links in all the dropdown boxes are presently set, as an example, to "https://www.vistabooksencore.com/vbreprint/pagesvb/vbwest.html" but I have tried other combinations, omitting folders and subfolders to only using the file name in the links. I have not found a format for this that works.
+Some navigation links are still to be added, which I will do once the sidebar issue is resolved.
+
+Assuming the site and sidebar with dropdown boxes can stay in their current format it may be that I can make needed changes with guidance. For instance, what is the correct format for the links in the dropdown boxes, in what folders or main file should the sidebar files be placed? Do the files need to be adjusted if they are to be placed in different folders, and how?
+
+Copies of pertinent Dreamweaver files could be made available if there is a way to do this.</description></item>
+<item><title>Highlight video of sons football season</title><link>https://www.freelancer.com/projects/website-design/Highlight-video-sons-football-season</link><guid isPermaLink="false">freelancer:40797930</guid><pubDate>Sun, 01 Nov 2026 23:09:06 GMT</pubDate><description>30-250 USD | I want someone to make a professional looking highlight video with raw footage and or phone videos of highlights of my son’s football season. Both defense and offense but separated. To music</description></item>
+<item><title>Launch Profitable AI Venture</title><link>https://www.freelancer.com/projects/ai-chatbot/Launch-Profitable-Venture</link><guid isPermaLink="false">freelancer:40797858</guid><pubDate>Sun, 01 Nov 2026 21:56:49 GMT</pubDate><description>20-250 GBP | I want a complete, ready-to-operate AI business that can start generating revenue quickly without requiring deep technical involvement on my end. Your job is to identify a viable niche, package a clear offer, build the core digital assets, and hand everything over in a turnkey state.
+
+Here is what I expect at a minimum:
+• A concise business concept validated with basic market research and a revenue model I can understand at a glance  
+• A lightweight, conversion-focused website (WordPress, Webflow, or comparable no-code tool) that explains the offer and accepts payments  
+• Any AI-driven tools, workflows, or automations necessary to deliver the service or product, already configured with step-by-step usage instructions  
+• An initial client-acquisition kit—email copy, social posts, or ad creatives—so I can begin outreach immediately after launch  
+• Clear documentation covering daily operations, costs, and growth levers
+
+Feel free to suggest whether the focus should be an AI content service, chatbot setup, or digital product line; I am flexible as long as the path to profit is straightforward and the workload stays light.
+
+Please outline your approach, the specific platforms or frameworks you plan to use (e.g., OpenAI, Zapier, Make, Bubble), and an estimated timeline for each milestone.</description></item>
+<item><title>Fix a WordPress website; required NOW</title><link>https://www.freelancer.com/projects/wordpress/Fix-WordPress-website-required-NOW</link><guid isPermaLink="false">freelancer:40797849</guid><pubDate>Sun, 01 Nov 2026 21:49:17 GMT</pubDate><description>30-250 CAD | I have a WordPress website, and the freelancer disappeared on me. I am not going to wait for him 
+
+If you cannot complete the job before the end of Monday Nov. 02, 2026, please DO NOT BID 
+
+If you are one of "those" who try to take advantage of the client because he is in a hurry: DO NOT BID 
+
+If you intend to take the project and do a partial work on it; i.e., not finish it before the end of Monday Nov. 02, 2026, DO NOT BID
+
+In short, I'm coming out of a bas experience, and do NOT want another one
+
+I have faced an issue with this freelancer: he has a team, and, while he has plenty of five-star reviews, he has assigned my project to an incompetent member of his team. So, I will talk ONLY to people who have many reviews, and the job must be done by a team member who is at that level and expertise 
+
+Budget: CAD$200 
+Needed: NOW</description></item>
 <item><title>Creative Graphical Web Design, Social Platform Branding</title><link>https://www.freelancer.com/projects/adobe-xd/Creative-Graphical-Web-Design-Social</link><guid isPermaLink="false">freelancer:40797609</guid><pubDate>Sun, 01 Nov 2026 17:35:50 GMT</pubDate><description>18-36 GBP/hr | I’m spearheading a new social-media-meets-service hub that will seamlessly unite Business, Education &amp; Community, Health, Lifestyle &amp; Technology, and Travel, Shopping &amp; Local Services, while also offering users a secure digital vault. The primary goal is to help people connect with one another and with their communities, so every design decision must reinforce that purpose. Visually, I need a modern, professional look that still feels welcoming the moment someone lands on the site.  
 
 This first phase is 100 % graphical. Once the creative direction is locked, we may commission the front-end build, so layered source files and clear component naming are essential.  
@@ -906,6 +707,321 @@ Your hourly rate and availability during US Central Time business hours.
 Confirmation that you are comfortable teaching and building collaboratively during live sessions.
 
 Important: I'm not looking for a developer who simply delivers a completed project. I want someone who will build this with me, explain each step, and help me become comfortable managing and expanding the system independently.</description></item>
+<item><title>Concrete5 Website Refresh &amp; CMS Migration</title><link>https://www.freelancer.com/projects/seo/Concrete-Website-Refresh-CMS-Migration</link><guid isPermaLink="false">freelancer:40797469</guid><pubDate>Sun, 01 Nov 2026 15:57:38 GMT</pubDate><description>250-750 GBP | Our current site—www.amethystassociates.co.uk—runs on Concrete5. While the content still reflects who we are, the platform makes day-to-day edits far harder than they should be. I’d like you to rebuild the site on a system you feel best suits a small team that wants to be entirely self-sufficient once the project is finished. WordPress with a friendly block editor, Squarespace, or any other platform you can justify are all on the table; the key is future ease of use for us.
+
+Primary objective  
+Visitors must be able to grasp our services quickly and intuitively. Design, navigation, and copy layout should all guide people toward that understanding.
+
+Content scope  
+Every existing page and asset needs to come across intact. You’re free to modernise styling and improve structure, but nothing should be lost or hidden behind extra clicks. Please migrate images, PDFs, meta data, and any SEO-critical elements so rankings remain stable.
+
+Deliverables  
+• Fully responsive website on the recommended CMS  
+• Complete migration of all current pages, files, and on-page SEO settings  
+• Fresh, user-centred design that clarifies our service offering  
+• Written or video hand-over showing our team how to update pages, add news items, and manage basic maintenance  
+• Two weeks’ post-launch support for bug fixes and minor tweaks
+
+I’ll supply access to the Concrete5 backend, hosting credentials, branding assets, and any further copy you might need. Let me know which platform you propose, the plugins or integrations you’d rely on, and how long the migration will take.</description></item>
+<item><title>Commission-Based Business Development &amp; Lead Generation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/Commission-Based-Business-Development-40797434</link><guid isPermaLink="false">freelancer:40797434</guid><pubDate>Sun, 01 Nov 2026 15:24:27 GMT</pubDate><description>250-750 USD | # Commission-Based Business Development &amp; Lead Generation Specialist
+**White-Label GoHighLevel (GHL) Services**
+
+### About the Opportunity
+We are building a business offering white-label GoHighLevel (GHL) services to small and medium-sized businesses. Our services include:
+
+- Professional website development
+- CRM and sales pipeline setup
+- Appointment booking and scheduling
+- Reputation management and automated review generation
+- AI chatbots and automated customer follow-ups
+- Email and SMS marketing automation
+- Lead capture and business automation
+
+We are looking for a motivated, resourceful individual who can identify prospective businesses, generate leads, and convert them into paying customers.
+
+### Initial Compensation – Performance Based
+We are starting with an organic customer acquisition strategy.
+
+- Earn **$100 for every paying customer successfully onboarded.**
+- Your responsibility is to find prospective businesses, introduce our services, help generate interest, and bring customers through the onboarding process.
+- Once you successfully onboard your first **5 paying customers**, we will transition you to a monthly payment/retainer PLUS ongoing commissions.
+
+This is an opportunity to grow with the business rather than simply work on a one-time commission basis.
+
+### Initial Marketing Strategy – Organic Lead Generation
+Initially, we want to focus on cost-effective, organic methods to acquire customers without spending money on advertising.
+
+You will be responsible for developing and implementing strategies such as:
+
+- **Google Maps &amp; Google Scraping:** Identify local businesses that need better websites, booking systems, CRM solutions, or automated follow-ups.
+- **LinkedIn:** Find business owners, decision-makers, and potential customers through organic outreach and networking.
+- **Social Media:** Create and publish posts on Facebook, Instagram, LinkedIn, and other relevant platforms.
+- **Lead Generation Automation:** Use automation tools to identify prospects, organize leads, and manage follow-up campaigns.
+- **Cold Outreach:** Contact businesses through personalized emails, messages, and phone calls.
+- **Business Research:** Identify companies with outdated websites, poor online reviews, no booking systems, or limited customer follow-up.
+
+We want someone who can think creatively and consistently find new ways to generate customers organically.
+
+### Growth Strategy – After 5 Paying Customers
+Once we reach our first 5 paying customers, we plan to expand our marketing efforts and invest in additional customer acquisition channels.
+
+These may include:
+- Meta advertising (Facebook and Instagram Ads)
+- Google Ads
+- Paid lead-generation platforms
+- Advanced marketing automation tools
+- SMS and email marketing campaigns
+- Other paid platforms to accelerate customer acquisition.
+
+At that stage, you will transition to a **monthly retainer plus commission**, with the opportunity to take on greater responsibility as we grow.
+
+### Who We Are Looking For
+- Experience with GoHighLevel is a strong advantage.
+- Experience in lead generation, sales, or digital marketing.
+- Familiarity with Google Maps scraping and prospecting tools.
+- Knowledge of LinkedIn and social media marketing.
+- Ability to use AI tools and automation to increase productivity.
+- Self-motivated, organized, and results-oriented.
+- Someone entrepreneurial who wants to help build and grow a business.
+
+### How to Apply
+Please provide:
+1. A brief description of your experience with GoHighLevel, lead generation, or digital marketing.
+2. Examples of how you would find your first 20 prospective customers organically.
+3. If you have GHL experience, explain how you would use it to help acquire and onboard customers.
+
+**Our Goal:** Start lean, acquire our first 5 paying customers organically, build a repeatable sales process, and then scale using paid advertising and additional marketing resources.
+
+We are looking for someone interested in growing with us long-term.</description></item>
+<item><title>Amazon-Style Multi-Seller Platform Build</title><link>https://www.freelancer.com/projects/stripe/Amazon-Style-Multi-Seller-Platform</link><guid isPermaLink="false">freelancer:40797263</guid><pubDate>Sun, 01 Nov 2026 13:14:09 GMT</pubDate><description>750-1500 USD | # Eagle Vision Edge – Amazon-Style Multi-Tenant E-Commerce Platform
+
+I am developing Eagle Vision Edge, a custom, multi-tenant e-commerce platform that provides an Amazon-style shopping experience while integrating with multiple suppliers through Spark Shipping API v1.
+
+The platform will allow customers to browse and purchase physical products. Suppliers such as Keystone Automotive will handle product fulfillment and shipping, while Eagle Vision Edge manages the storefront, checkout, supplier selection, order processing, customer communication, and tracking.
+
+We already have an existing application and approved prototype. The selected developer will complete the platform according to our Software Development, Confidentiality, Intellectual Property &amp; Security Agreement (Version 4).
+
+**Project Budget:** $1,600 USD (Fixed Price)  
+**Timeline:** 30 Calendar Days  
+**Client:** Eagle Vision Edge LLC
+
+## 1. Customer Shopping Experience
+
+- Amazon-style homepage and responsive storefront.
+- Advanced product search, filters, categories, and sorting.
+- Detailed product pages with images, specifications, pricing, and availability.
+- Customer registration, login, and account management.
+- Wishlists and saved products.
+- Shopping cart and secure Stripe checkout.
+- Supported card and digital-wallet payments through Stripe.
+- Customer order history and order-status dashboard.
+- Product reviews and ratings.
+- Promotional pricing and discount functionality.
+- Inventory and price revalidation before order submission.
+
+## 2. Supplier and Product Integration
+
+- Spark Shipping API v1 integration.
+- Initial supplier integration with Keystone Automotive.
+- Automated product catalog synchronization.
+- Product inventory and pricing updates.
+- Lowest-cost eligible supplier selection with administrative override.
+- Minimum Advertised Price (MAP) compliance.
+- Configurable supplier integrations.
+- Automated order submission to supported suppliers.
+- Split-shipment support when multiple suppliers fulfill an order.
+
+### Missing Product Image Handling
+
+Some Spark Shipping products may not include images.
+
+The developer must implement a process to match these products with images and descriptions maintained by Eagle Vision Edge LLC.
+
+Matching should use reliable product identifiers, including SKU, manufacturer part number, brand, and product attributes. Administrators must be able to review uncertain matches.
+
+## 3. ZIP Code-Based Shipping Calculation
+
+The platform must calculate shipping costs based on:
+
+- Customer destination ZIP code.
+- Supplier or warehouse origin ZIP code.
+- Product weight and dimensions.
+- Shipping method and available carrier rates.
+- Multiple suppliers and split shipments.
+
+Customers must see the calculated shipping cost before completing payment.
+
+The system must recalculate shipping charges when delivery details change.
+
+If live carrier rates are unavailable, an approved configurable rate table must be supported.
+
+## 4. Order Tracking and Google Maps
+
+Customers must be able to track orders from purchase through delivery.
+
+Required functionality includes:
+
+- Order confirmation and processing status.
+- Supplier shipment status and tracking number.
+- Carrier tracking integration.
+- Google Maps API visualization when shipment-location data is available.
+- Estimated delivery information where supported.
+- Tracking of multiple shipments for one order.
+- Email and SMS shipment notifications.
+
+Google Maps must not be represented as a source of live carrier GPS data unless the carrier provides that information.
+
+## 5. Multi-Tenant Architecture
+
+The platform must support multiple independent storefronts.
+
+Requirements include:
+
+- Tenant-specific storefront configuration.
+- Tenant data isolation.
+- Tenant-specific product catalogs and settings.
+- Administrative controls for tenant management.
+- Secure authentication and role-based access.
+- Audit logs and activity tracking.
+
+## 6. Administrative Dashboard
+
+Provide administrative functionality for:
+
+- Product and catalog management.
+- Supplier integration configuration.
+- Inventory and pricing management.
+- Order management and fulfillment monitoring.
+- Customer management.
+- Shipment tracking.
+- Promotions and discounts.
+- User permissions and audit logs.
+- Reporting and operational analytics.
+
+## 7. Mandatory Technology Stack
+
+The developer must use:
+
+- **Frontend:** React, Vite, Tailwind CSS.
+- **Backend:** Java Spring Boot.
+- **Database:** PostgreSQL or MySQL.
+- **Payments:** Stripe.
+- **Supplier Integration:** Spark Shipping API v1.
+- **Maps:** Google Maps API.
+- **Source Control:** Private Git repository controlled by Eagle Vision Edge LLC.
+
+Technology substitutions require prior written approval.
+
+## 8. Independent Development and UAT Environment
+
+Spark Shipping does not provide a general-purpose sandbox for this project.
+
+The developer must establish a separate development and UAT environment that includes:
+
+- Mock Spark Shipping API services.
+- Simulated product catalogs and inventory.
+- Test pricing and supplier selection.
+- Simulated order submission and shipment tracking.
+- Stripe test-mode payments.
+- Test scenarios for missing product images.
+- ZIP-code shipping calculation tests.
+- Multi-tenant security and data-isolation testing.
+- End-to-end checkout and order lifecycle tests.
+
+Testing must not accidentally create real supplier orders or production charges.
+
+## 9. Milestones and Payments
+
+**Phase 1 — $250: Technical Review and Setup**
+
+Review existing code, architecture, integration requirements, and development environment.
+
+**Phase 2 — $400: Catalog and Storefront Integration**
+
+Complete agreed storefront functionality, supplier catalog integration, product synchronization, and image-matching workflows.
+
+**Phase 3 — $450: Checkout and Order Workflow**
+
+Complete Stripe checkout, shipping cost calculation, order processing, supplier fulfillment integration, and tracking workflows.
+
+**Phase 4 — $500: Full Testing, UAT, and Handover**
+
+Complete system testing, defect correction, UAT, source code delivery, documentation, and deployment handover.
+
+**Total Fixed Budget: $1,600 USD**
+
+Milestone funds may be secured through Freelancer.com, but payment will be released only after the corresponding work is completed, tested, delivered, and accepted in writing.
+
+## 10. Ownership and Final Acceptance
+
+All development must take place in an Eagle Vision Edge LLC-controlled private repository.
+
+Existing client intellectual property remains protected. Project-specific deliverables must be transferred in accordance with the signed agreement.
+
+The final product must materially match the approved prototype and satisfy all agreed functional requirements.
+
+The project must be completed within 30 calendar days of the mutually agreed commencement date. Any extension requires written approval.
+
+The signed Eagle Vision Edge Development Agreement  and its approved exhibits govern the project.
+
+This project is intended for our previously selected developer, Delaine Technologies Pvt. Ltd.</description></item>
+<item><title>Build AI Sales Automation System</title><link>https://www.freelancer.com/projects/n8n/Build-Sales-Automation-System</link><guid isPermaLink="false">freelancer:40797210</guid><pubDate>Sun, 01 Nov 2026 12:27:38 GMT</pubDate><description>250-750 AUD | AI Sales Agent Developer Required — n8n, OpenAI &amp; WooCommerce
+
+We are seeking an experienced AI automation developer to build a fully integrated AI Sales Agent using n8n, OpenAI and our existing business systems.
+
+Project Objectives
+
+Develop an intelligent sales automation system capable of:
+
+* Instant lead response: Automatically engage new website, email and advertising enquiries via two-way SMS.
+* AI sales conversations: Qualify customers, answer product questions and collect detailed requirements.
+* Automated quotations: Connect to WooCommerce, identify suitable products, calculate accurate pricing using custom measurement and product options, and generate quotations through YITH Request a Quote.
+* CRM integration: Synchronise conversations, customer details, quotations and sales opportunities.
+* Automated follow-ups: Re-engage unanswered enquiries, outstanding quotations and previous customers through SMS and email.
+* Appointment scheduling: Integrate calendars and book qualified sales appointments.
+* Lead reactivation: Personalise outreach to existing CRM contacts.
+* Sales intelligence: Use a custom knowledge base containing product specifications, pricing rules and business procedures.
+
+Existing Platforms
+
+n8n Cloud, OpenAI, WordPress, WooCommerce, YITH Request a Quote, Microsoft 365, HubSpot and Bitrix24.
+
+Our n8n connection to WooCommerce is already operational.
+
+Required Experience
+
+Proven expertise in n8n, OpenAI API, WooCommerce REST API, custom WooCommerce pricing, conversational AI, SMS automation, CRM integrations and workflow development.
+
+Experience with WooCommerce Measurement Price Calculator, Product Add-ons and YITH Request a Quote is particularly important.
+
+Project Goal
+
+Build a reliable, scalable AI sales workforce that manages customer enquiries from initial contact through qualification, quotation, follow-up and conversion, with minimal manual intervention.
+
+Freelancer Requirements
+
+Please provide examples of similar projects, your proposed technical approach, estimated fixed-price cost and delivery timeframe.
+
+We are seeking an experienced developer who can deliver a complete working solution, not simply a basic AI chatbot.
+
+The project will be delivered in milestones, beginning with WooCommerce product selection, pricing accuracy and automated quotations.</description></item>
+<item><title>Retail POS System Development</title><link>https://www.freelancer.com/projects/c-sharp-programming/Retail-POS-System-Development</link><guid isPermaLink="false">freelancer:40797021</guid><pubDate>Sun, 01 Nov 2026 08:41:13 GMT</pubDate><description>250-750 AUD | I'm looking for a comprehensive POS system tailored for my retail shop. 
+
+Key functionalities should include:
+- Sales and receipts management
+- Stock tracking
+- GST calculation
+- Discount application
+
+Payment methods should accommodate cash, card, and mobile payments.
+
+Ideal skills and experience:
+- Proven expertise in developing POS systems
+- Strong background in retail operations and requirements
+- Familiarity with GST regulations and multi-payment integration
+- Experience in user-friendly interface design
+
+Please provide examples of similar work done.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
@@ -917,6 +1033,222 @@ Deliverables
 • One post-launch revision round for tweaks and polish  
 
 Tell me which platform you recommend, outline your approach, and share a couple of community or club sites you’ve created. I’m keen to move quickly once I find the right developer.</description></item>
+<item><title>Automated Photo Sale E-Cart</title><link>https://www.freelancer.com/projects/payment-processing/Automated-Photo-Sale-Cart</link><guid isPermaLink="false">freelancer:40796853</guid><pubDate>Sun, 01 Nov 2026 06:00:33 GMT</pubDate><description>250-750 USD | I need an e-cart system for selling photos online. The setup should seamlessly integrate print orders with payment splits. 
+
+Key Requirements:
+- When a customer buys a photo, automatically send order details to the printer via email.
+- Payment should be split automatically: a fixed amount goes to the printer, the remainder to the artist.
+- Customers should provide shipping address, contact details, and print size.
+
+Ideal Skills and Experience:
+- Experience in developing e-commerce platforms
+- Familiarity with payment processing and automation
+- Ability to set up email notification systems
+- Knowledge of integrating order management systems with third-party services
+***********
+EDIT:  The response has been quite overwhelming.  I will need a few days to sort through the proposals.
+I am unfamiliar with the various programs and systems, so if you asked me "What _____ do you prefer?" The answer is "I don't know".  I will also be talking with my printer this week to see what systems he prefers.
+Thank you all for your input.  I will get back to you.</description></item>
+<item><title>Australian Web Developer Referral Partners</title><link>https://www.freelancer.com/projects/web-development/Australian-Web-Developer-Referral</link><guid isPermaLink="false">freelancer:40796733</guid><pubDate>Sun, 01 Nov 2026 03:04:07 GMT</pubDate><description>30-250 AUD | Earn $200 for Referring Your Website Development Clients
+
+Hi,
+
+I'm Andrew Radics, founder of LabRank Digital and co-founder of Mad Scientist Digital. I've spent more than 20 years working in SEO and digital marketing, helping businesses improve their online visibility and generate more business through search engines.
+
+I'm currently looking to connect with Australian freelance web developers and small web development businesses for a straightforward referral partnership.
+
+Here's the opportunity.
+
+You build websites for Australian businesses. Many of those businesses will eventually need SEO to attract visitors, generate enquiries and get more value from the websites you've built for them.
+
+That's where LabRank Digital comes in.
+
+We pay you $200 for every successful referral who signs up for our ongoing SEO service.
+
+It's a one-off upfront commission, not an ongoing arrangement.
+
+How it works:
+
+You introduce a suitable client to LabRank Digital.
+
+They purchase one of our ongoing SEO packages.
+
+Once their first payment clears, we pay you $200.
+
+We take care of everything from there, including the SEO work, reporting and client communication.
+
+There are no joining fees, no targets, no SEO work required and no ongoing obligations.
+
+Our ongoing SEO service starts at $499 per month and is specifically designed to make professional SEO more accessible to Australian small businesses.
+
+Having spent over two decades in this industry, I understand the importance of building a website properly and making sure it actually delivers value to the business behind it.
+
+I'm not looking to sell you anything or create extra work for you. I'm simply offering developers an opportunity to earn additional income from clients they already work with.
+
+If this sounds interesting, I'd be happy to explain how the referral arrangement works.</description></item>
+<item><title>Rooted Libraries Project</title><link>https://www.freelancer.com/projects/social-media-management/Rooted-Libraries-Project</link><guid isPermaLink="false">freelancer:40796720</guid><pubDate>Sun, 01 Nov 2026 02:39:12 GMT</pubDate><description>30-250 CAD | Can you turn social media followers into people who donate, share, and stay with a cause? We're looking for a nonprofit-savvy social media and brand manager to help a young organization build trust from day one.
+
+**ABOUT US**
+The AVID Foundation is a Canadian non-profit that refurbishes and sustains libraries in under-resourced Nigerian schools, starting in Lagos. Every library project covers five things: renovating the space, locally built furniture, books weighted toward Nigerian and African authors and aligned with the national curriculum, a simple cataloguing system, and training for school staff.
+
+We're at an early stage. Our first cohort of schools is about to begin, and our Instagram and LinkedIn accounts are just getting started. 
+
+Website: www.theavidfoundation.org
+
+**WHAT YOU'LL DO**
+• **Content creation:** Design graphics, carousels and short videos, with captions that fit our established brand (logo, colours, voice). Build reusable templates so everything we post looks consistent.
+• **Impact storytelling:** Turn field updates from Lagos into clear visual stories that show progress and accountability. These include before-and-after photos, furniture builds, book deliveries, teacher training, and students using their new library.
+• **Audience and hashtag research:** Find the hashtags, communities and accounts that reach our audiences. These are individual donors in Canada, the Nigerian diaspora, educators, literacy and book communities, and institutional and grant funders on LinkedIn.
+• **Platform management:** Plan a monthly content calendar. Schedule posts on Instagram and LinkedIn (our priorities), plus Facebook and Threads.
+• **Fundraising engagement:** Plan and run social campaigns around giving moments such as GivingTuesday, International Literacy Day and our school launches. Each campaign needs clear calls to action that move followers to our website and donation page.
+• **Community management:** Respond to comments and messages, and engage with partner and peer organizations.
+• **Brand stewardship:** Keep everything we publish on-brand, and help shape our short-, medium- and long-term social media strategy.
+• **Reporting:** Send a short monthly report covering what we posted, what worked, and how followers are turning into website visits, sign-ups and donations.
+
+**WHAT WE'RE LOOKING FOR**
+• A portfolio of social media work for nonprofits, NGOs or charities
+• Strong design skills in Canva, and excellent written English
+• Experience with ethical, dignity-first storytelling. Our work involves children, so you'll follow consent and safeguarding practices. That means no identifying details without permission and no pity-driven imagery.
+• Familiarity with both Nigerian and Canadian audiences (a strong asset)
+
+
+**SCOPE**
+• 2-3 posts per week across Instagram and LinkedIn, plus campaign content as needed
+• Ongoing monthly engagement, starting with a paid one-month trial
+• Fully remote
+
+**HOW TO APPLY**
+Start your proposal with the words "Turning Page" so we know you've read this. Then share:
+1. 2–3 nonprofit social media projects you've worked on, and what they achieved
+2. How you would turn a single photo of a newly renovated school library into a post that builds donor trust
+3. Your proposed monthly rate and what it includes</description></item>
+<item><title>Kickstarter Landing Page &amp; Shopify Setup</title><link>https://www.freelancer.com/projects/email-marketing/Kickstarter-Landing-Page-Shopify-Setup</link><guid isPermaLink="false">freelancer:40796580</guid><pubDate>Sat, 31 Oct 2026 21:44:40 GMT</pubDate><description>250-750 USD | I'm looking for a skilled developer to create a landing page for my upcoming Kickstarter project. The primary function of this page is to allow customers to reserve my product by paying a fixed deposit.
+
+Key requirements:
+- A reservation section where users can pay a fixed deposit to reserve one product.
+- After payment, users should receive an email confirmation and a reservation number.
+- A link to a Shopify page where they can view and purchase the product later.
+
+Ideal skills and experience:
+- Experience with landing page development, especially for Kickstarter or similar platforms.
+- Proficiency in integrating payment systems.
+- Familiarity with Shopify and can create a seamless link between the landing page and the Shopify store.
+
+Looking forward to your bids!</description></item>
+<item><title>Custom WordPress Music Store Website</title><link>https://www.freelancer.com/projects/woocommerce/Custom-WordPress-Music-Store-Website</link><guid isPermaLink="false">freelancer:40796545</guid><pubDate>Sat, 31 Oct 2026 20:48:32 GMT</pubDate><description>250-750 USD | **Project Title:** Custom WordPress Website Development &amp; E-Commerce Integration
+
+I'm looking for an experienced WordPress developer to create a professional, visually engaging website for my music and creative brand.
+
+The website should feature a modern, colorful design that reflects my creative identity while providing visitors with a smooth browsing and purchasing experience.
+
+**Project Requirements:**
+
+* Modern, responsive WordPress website.
+* Music library featuring 77 original songs.
+* Individual song pages with artwork, lyrics and audio previews.
+* WooCommerce integration for secure music purchases and digital downloads.
+* Custom pricing: $1.29 per song, $5 for any 5 songs and $8 for any 10 songs.
+* Biography and personal brand information.
+* Books showcase and podcast sections.
+* Blog and contact functionality.
+* Social media integration.
+* Sections for future creative projects.
+* Basic SEO, security and mobile optimization.
+* Easy-to-use WordPress administration dashboard.
+
+**Timeline:**
+
+The website should be developed and tested ahead of the planned public launch around February 1, 2027.
+
+**Expected Deliverables:**
+
+A fully functional WordPress website with working payment processing, secure music downloads, responsive design and complete administrative access.
+
+The developer should also provide final testing, deployment and a basic handover explaining how to manage the web
+View Messages</description></item>
+<item><title>Expert Website Developer Needed to Recreate and Improve 6 Premium Websites</title><link>https://www.freelancer.com/projects/web-development/Expert-Website-Developer-Needed-Recreate</link><guid isPermaLink="false">freelancer:40796528</guid><pubDate>Sat, 31 Oct 2026 20:25:14 GMT</pubDate><description>250-251 USD | Senior / Expert • Fixed-price or milestone-based • Long-term collaboration potential
+
+Project scope: Rebuild and enhance six existing websites
+Primary objective: Same or better design quality and functionality
+
+Project Overview
+We are seeking a highly skilled website developer or professional development team to recreate six of our existing company websites. Our websites already have established designs, branding, content, and visual presentations.
+
+Our primary requirement is to reproduce these websites with the same or better design quality, appearance, and functionality. We do not want basic templates, simplified designs, or lower-quality replacements.
+
+Existing Website Examples
+1. https://concord-pacific-investments.vercel.app/
+2. https://master-craft-international.vercel.app/
+3. https://concordpacificcorp.com/
+4. https://sprinter-3364.vercel.app/
+5. https://sprinterone.us/
+6. Additional website to be provided.
+Please examine these websites carefully before submitting your proposal.
+
+Development Requirements
+1. Accurate website reproduction. Recreate layouts, graphics, typography, colors, visual presentation, navigation, and applicable functionality. Deliver design quality equal to or better than the originals.
+2. Professional improvements. Recommend enhancements to design, loading speed, navigation, responsiveness, and user experience without diminishing the current professional appearance.
+3. Advanced front-end development. Demonstrate experience with responsive design, custom interfaces, animation, and interactive elements. React, Next.js, Vercel, or comparable technologies are preferred.
+4. Functionality. Reproduce all agreed existing functions, including navigation, forms, and relevant interactive components. Any new backend systems or application functionality will be scoped separately.
+5. Complete ownership. Transfer all completed source code, design assets, administrative access, and deployment configurations. We require full control of the websites without ongoing developer dependency.
+
+Developer Qualifications &amp; Proposal Details
+We are seeking proven expertise, attention to detail, and reliable project delivery.
+
+Who We Want to Hire
+• Experience producing premium corporate websites.
+• Ability to accurately reproduce sophisticated existing designs.
+• Excellent visual design and front-end development skills.
+• Capability with responsive interfaces, animations, and interactive features.
+• Independent technical problem-solving and clear communication.
+• Ability to meet agreed timelines and interest in long-term collaboration.
+
+Initial Paid Test Project
+We prefer to begin with one website as an initial paid project. The developer must demonstrate the ability to reproduce the existing level of quality before we proceed with the remaining five websites.
+
+Our objective is to establish a reliable, long-term relationship with a talented developer or development team.
+
+What to Include in Your Proposal
+1. Links to your three best completed websites.
+2. Examples of sophisticated websites you personally developed.
+3. Your recommended technology stack.
+4. Your estimated budget for reproducing all six websites.
+5. Your estimated completion timeline.
+6. Confirmation that you can match or exceed the existing quality.
+7. Details of your experience with animation, responsive design, and custom functionality.
+
+Our budget is $250 USD per website.
+
+PLEASE DO NOT SUBMIT GENERIC PROPOSALS.
+We want developers who have reviewed the websites and understand the quality expected. Quality, reliability, technical expertise, and attention to detail are our highest priorities.</description></item>
+<item><title>Minimalist Spiritual Blog Creation</title><link>https://www.freelancer.com/projects/content-management-system/Minimalist-Spiritual-Blog-Creation</link><guid isPermaLink="false">freelancer:40796502</guid><pubDate>Sat, 31 Oct 2026 19:43:18 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to create a serene and minimalist blog. The blog will feature my spiritual channeled messages. 
+
+Key requirements:
+- A clean, calm, and minimalist design with soft colors.
+- Easy navigation for reading channeled messages and browsing past posts.
+- Subscription option for visitors to receive new messages via email.
+
+Ideal Skills and Experience:
+- Experience with blogging platforms (WordPress, Blogger, etc.)
+- Strong design skills for minimalist aesthetics.
+- Familiarity with email subscription integrations.</description></item>
+<item><title>Pomona Construction Bid Forms Assistance</title><link>https://www.freelancer.com/projects/construction/Pomona-Construction-Bid-Forms-Assistance</link><guid isPermaLink="false">freelancer:40796495</guid><pubDate>Sat, 31 Oct 2026 19:34:55 GMT</pubDate><description>250-750 USD | I’m finalising a construction / city-contract submission for the City of Pomona and need the bid proposal and pricing forms completed accurately and in the proper municipal format. The RFP package and blank forms are ready; what I’m missing is someone who already knows how California public-works paperwork is supposed to look.
+
+You will:
+
+• Populate every field in the City of Pomona bid proposal and all associated pricing schedules.  
+• Make sure unit prices, subtotals, and grand totals calculate correctly and match the scope language.  
+• Apply any standard boilerplate (company details, CSLB licence, DIR registration, etc.) and flag missing items I must supply.  
+• Return the forms as a clean, ready-to-submit PDF (and the editable original).
+
+Acceptance will be based on the city procurement portal accepting the packet without revision requests.
+
+If you have handled construction or other city-level bids before and can turn this around quickly, let’s get started today.</description></item>
+<item><title>Website Audit &amp; Missing Page Fix</title><link>https://www.freelancer.com/projects/web-development/Website-Audit-Missing-Page-Fix</link><guid isPermaLink="false">freelancer:40796493</guid><pubDate>Sat, 31 Oct 2026 19:28:11 GMT</pubDate><description>30-250 USD | We need an experienced web developer to perform a quick audit of our website. We are looking for someone who can identify and restore missing pages, links, menus, content, or functionality, and review the overall website for any issues that may affect user experience, performance, or operation.
+
+Please provide your experience, availability, and rate.
+
+Immediate start needed.</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
