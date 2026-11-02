@@ -3,6 +3,52 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Senior Magento 2 Developer — Ongoing Part-Time Contract</title><link>https://www.freelancer.com/projects/magento-2/Senior-Magento-Developer-Ongoing-Part</link><guid isPermaLink="false">freelancer:40799359</guid><pubDate>Mon, 02 Nov 2026 16:56:23 GMT</pubDate><description>10-15 GBP/hr | Remote worldwide | Initially 15–20 hours per week | Rate negotiable based on demonstrated Magento expertise
+
+We are an established UK ecommerce business seeking a hands-on senior Magento 2 developer for a long-term working relationship. You will work directly with the business owner to maintain and improve an existing store, investigate technical problems and deliver carefully scoped projects. Candidates worldwide are welcome, with agreed UK working-hour overlap.
+
+The role starts part-time, with potential to grow towards full-time as the workload and working relationship develop. Increased hours are not guaranteed.
+
+THE WORK
+- Assess, install and update third-party extensions, resolve compatibility issues and test their effect on existing functionality.
+- Investigate checkout, payment, shipping and tax issues.
+- Improve performance, including database queries, caching and frontend behaviour.
+- Develop and maintain custom modules, inventory workflows, imports and API integrations.
+- Make practical frontend improvements within an existing theme.
+- Maintain clear estimates, source control, release notes, test evidence and rollback procedures.
+
+TECHNICAL EXPERIENCE
+Our platform is Magento Open Source 2.4.x with approximately 25,000 SKUs, an established Luma/Porto-based frontend and multiple third-party extensions. Experience maintaining a catalogue of this scale is important.
+
+You should have:
+- Substantial hands-on Magento 2 experience, ideally five or more years, including ongoing ownership of live stores.
+- Strong PHP, MySQL, JavaScript, Knockout.js, RequireJS, HTML and CSS skills.
+- Practical understanding of Magento MSI, reservations, salable quantity, indexing, cron and queues.
+- Experience diagnosing Redis/Varnish caching and performance issues.
+- Confidence with Composer, Git, Linux, staging environments and controlled deployments.
+- Experience creating maintainable Magento modules and working with REST APIs and data imports.
+- Clear written and spoken English and the ability to explain technical trade-offs to a business owner.
+
+Adobe/Magento certification is welcome, but demonstrated delivery and sound judgement matter most.
+
+WORKING ARRANGEMENT
+We expect to begin with a small paid technical trial on staging, with scope and an hours cap agreed in advance. A successful trial would lead to an initial 6–8-week part-time engagement, reviewed together before extending.
+
+Please propose regular availability and at least two hours of overlap with UK business hours on agreed working days. Release support and any out-of-hours work will be agreed separately; this is not a 24/7 on-call role.
+
+Work will follow a prioritised backlog. Estimates and additional scope must be agreed before work starts. Production changes require approval, appropriate testing and a rollback plan. Code and technical documentation must be maintained in the client's repository.
+
+We prefer to work directly with the developer doing the work. Please disclose any agency arrangement or proposed subcontracting in your application.
+
+TO APPLY
+Please provide concise answers:
+1. Describe two Magento 2 stores or projects you have personally maintained, your responsibilities and one difficult problem you solved. Anonymised examples are welcome where client confidentiality applies.
+2. Describe an extension conflict, checkout fault or caching issue you diagnosed. How did you find the cause and verify the fix?
+3. How would you test shared inventory across different product SKUs, including simultaneous orders, cancellations and refunds? A short explanation is sufficient; no unpaid implementation is requested.
+4. Explain your normal staging, source-control, testing, deployment and rollback workflow.
+5. State your best hourly rate and your proposed monthly price for a regular 20-hour working week. Specify included monthly hours, any minimum commitment and the rate for additional agreed hours. Give your weekly availability, UK working-hour overlap and earliest start date. Include any relevant certification and a code sample you have permission to share, if available.
+
+Company details will be shared privately with shortlisted candidates. Please apply through this platform.</description></item>
 <item><title>Customize FlutterFlow LMS Marketplace</title><link>https://www.freelancer.com/projects/flutter/Customize-FlutterFlow-LMS-Marketplace</link><guid isPermaLink="false">freelancer:40799354</guid><pubDate>Mon, 02 Nov 2026 16:48:25 GMT</pubDate><description>30-250 USD | I have a course marketplace business called HOSTORE (Host Your Knowledge) for Nigeria. I want to launch Android + iOS app in 5 days.
 
 WHAT I HAVE:
