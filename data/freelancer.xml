@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build PHP Website to receive and resell SOFTWARE CD KEYS -- 2 - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-PHP-Website-receive-resell-40798603</link><guid isPermaLink="false">freelancer:40798603</guid><pubDate>Mon, 02 Nov 2026 08:22:46 GMT</pubDate><description>30-250 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+I’m looking for somebody to build PHP website.
+I want receive software cd keys from my partner to delivery this keys in my region.
+The admin will create business account to vendor and they will upload their keys and get paid on his balance if admin mark as sold.
+After 14 days of sale the Business account can request payout to bank details.
+
+Admin features
+Create and manage user manually. 
+Setup product to user
+Approve withdraw request
+Cancel sold order in case of dispute
+Mark as sold (We will deliver the key to our customer and mark as sold on vendor keys stock)
+
+Check attached files I draw a sample.
+I will provide you html template to use.
+I only reply if you solve this quiz , 1+1=?
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2023-03-05 (historical project ID 36128520). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed USD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Security Guard &amp; Yard Management Web App Development - Quotation Request</title><link>https://www.freelancer.com/projects/php/Security-Guard-Yard-Management-Web</link><guid isPermaLink="false">freelancer:40798538</guid><pubDate>Mon, 02 Nov 2026 07:43:38 GMT</pubDate><description>1000-1500 CAD | Please provide your estimated total development price in CAD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
 
 REFERENCE SCENARIO — historical requirements, not instructions to begin work:
@@ -848,43 +878,6 @@ Estimating assumptions and context:
 The scenario is based on a Freelancer listing from 2024-11-18 (historical project ID 38801700). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
 
 The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Create Woocommerce Sample Data - Quotation Request</title><link>https://www.freelancer.com/projects/php/Create-Woocommerce-Sample-Data-Quotation</link><guid isPermaLink="false">freelancer:40797732</guid><pubDate>Sun, 01 Nov 2026 19:57:52 GMT</pubDate><description>30-250 CAD | Please provide your estimated total development price in CAD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I need about 15 set of products made on Woocommerce. I will give you a file with 15 industries (such as beauty salon, electronics, restaurant, bakery, ..) and for each industry 3 categories and 10 products. 
-Beauty Salon: Makeup, Brush, Lipstick, ...
-Electronics: (Laptop, Accessories, Phone): Macbook pro, Charger, Iphone 6s, ....
-Restaurant: (American, Chinese, Indian): Cheese burger, Chicken meal, sandwich...)
-
-All I need from you is to create "Sample Data" for me in these industries. You can use any public dataset or (credit free) image as long as it doesn't have a background. 
-
-I will give you a wordpress and woocommerce site to work with. And a plugin to export the products from woocommerce. 
-
-So all you have to do is, go through my file, for each industry, and for each product, find images, import them into woocommerce, put realistic prices and names (no need for description) and then when that industry (such as restaurant) is done, export it to csv(product data) and zip(for images) and go to the next.
-
-Total count of products is:
-
-15 (industry) * 10 = 150 products.
-15 * 3 = 45 categories. 
-
-So you will need to find atleast 150 + 45 images for me.
-
-15 zip files containing images for each industries. 
-and 15 csv files containing product information. 
-
-The zip files and csv files are easily exported with a plugin.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2021-02-07 (historical project ID 29204712). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed CAD 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
 
 Research use
 
