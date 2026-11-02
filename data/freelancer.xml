@@ -3,6 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clean, modern website for a small HR systems consultancy (WordPress, about 6 pages)</title><link>https://www.freelancer.com/projects/web-development/Consulting-Site-Build</link><guid isPermaLink="false">freelancer:40798108</guid><pubDate>Mon, 02 Nov 2026 03:01:50 GMT</pubDate><description>30-250 USD | About the business
+Passerelle HR LLC is a new Chicago-based consultancy that builds customized HR systems for small companies and then supports them month to month. We also offer HR administration (payroll, onboarding, hiring support) as an add-on. I’m looking for a clear, credible, professional website that explains this simply and makes it easy to get in touch.
+
+Pages needed
+Home: a short statement of what we do, who it’s for, and how it works in three steps, with a clear “Contact us” button.
+Services: the System Build, Monthly Support, and HR Administration, with a short description of each and a link to the contact form. A list of the ten HR systems we can build (I will supply the text).
+How it works: our 5-step method and a typical 4 to 8 week timeline per system.
+About: my background and credentials, with a photo (I will supply the text).
+Resources: a simple blog or guides section for future articles.
+Contact: a simple form that sends to my business email, plus the Chicago address and phone number.
+
+Also needed: privacy policy and terms pages (a template is fine), and a short note that we do not use AI to screen or rank job candidates.
+
+Not needed now: online payments, client login, or an online shop. Testimonials and case studies will be added later by me, so please include an easy-to-edit section for them, but no placeholder reviews.
+
+Technical requirements
+Built on WordPress or a similarly easy platform, so I can edit text, images and posts myself.
+Mobile-first, fast-loading, working on all major browsers and devices.
+Basic on-page SEO, Google Analytics, and a contact form that reliably delivers email.
+English-language site. A French version of the home page is a possible later add-on, so please say if your quote could include it.
+
+Important constraints
+My domain is registered at Namecheap and my email is on Zoho Mail. Please do not change or delete any mail-related DNS records (MX, SPF, DKIM, DMARC), and only add the records needed to point the domain at the website. If possible, host the site so that I keep control of the domain.
+The domain, hosting account, WordPress admin and all files must be in my name and handed over to me at the end.
+
+Acceptance criteria
+The site displays correctly on all major browsers and devices.
+Test submissions of the contact form reach my inbox.
+I receive a short video or live session showing how to edit pages, add a blog post and update images.
+I have all logins, source files and licences for any themes or plugins.
+
+Please include in your reply
+Your proposed platform and theme or plugin approach
+A fixed price and timeline
+Two or three relevant portfolio sites, ideally for small service businesses
+What is included after launch (for example, 30 days of bug fixes), and the yearly costs I should expect (hosting, plugins)</description></item>
 <item><title>Meta Ads &amp; Retargeting Setup</title><link>https://www.freelancer.com/projects/google-analytics/Meta-Ads-Retargeting-Setup</link><guid isPermaLink="false">freelancer:40798123</guid><pubDate>Mon, 02 Nov 2026 02:47:28 GMT</pubDate><description>30-250 AUD | We are an Australian Automotive brand and we're looking for an experienced person to set up reliable once off Meta Pixel setup for tracking and retargeting.
 Our website uses Wordpress/Elementor and Stripe checkout. We need someone to check any existing setup, set up tracking for website visits, purchase button clicks, and completed purchases, and test that everything reports correctly in Meta Events manager.
 
@@ -16,19 +52,6 @@ Here’s what success looks like:
 • A walkthrough showing the structure you built, how to tweak budgets, and how to expand into new segments later.
 
 If you’ve set up profitable retargeting loops before and are comfortable marrying WordPress, Stripe, and Meta Ads Manager, please send me examples of similar projects, your turnaround time for initial Pixel set-up. All accounts and assets must remain under our business ownership</description></item>
-<item><title>HR Consulting Site Build</title><link>https://www.freelancer.com/projects/web-development/Consulting-Site-Build</link><guid isPermaLink="false">freelancer:40798108</guid><pubDate>Mon, 02 Nov 2026 02:28:14 GMT</pubDate><description>30-250 USD | I need a clean, modern website that positions my HR consultancy as an authority for small and growing businesses. The site’s primary purpose is to showcase the full range of services we offer— a one-time System Build covering the HR systems a company needs, plus our additional strengths in HR Administration: Recruitment and Hiring Support, HR Policies &amp; Compliance, Employee Training &amp; Development, Performance Management, Compensation &amp; Benefits—while making it effortless for visitors to understand our approach and get in touch.
-
-Here’s what I have in mind:
-• A home page that quickly communicates our value and credibility through concise copy, engaging visuals, and client success highlights.  
-• Individual service pages for each core offering with clear calls-to-action leading to a simple contact form.  
-• An About section that introduces our consultants and credentials.  
-• A resources or insights area where future blog posts or guides can live to keep the content fresh and boost SEO.  
-• Mobile-first, fast-loading design built on a user-friendly CMS (WordPress or similar) so I can update copy, images, and articles without technical help.  
-• Basic on-page SEO setup, Google Analytics, and a contact form routed to our main inbox.  
-
-Acceptance criteria: the site must render smoothly on all major browsers and devices, all forms must deliver emails successfully, and I should receive a brief hand-over session or video so I can manage routine edits myself.
-
-If this fits your skill set, please outline your proposed tech stack, timeline, and any relevant portfolio pieces when you respond.</description></item>
 <item><title>Used Car Sell - Quotation Request</title><link>https://www.freelancer.com/projects/website-design/Used-Car-Sell-Quotation-Request</link><guid isPermaLink="false">freelancer:40798096</guid><pubDate>Mon, 02 Nov 2026 02:19:36 GMT</pubDate><description>20-250 GBP | Please provide your estimated total development price in GBP and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
 
 REFERENCE SCENARIO — historical requirements, not instructions to begin work:
