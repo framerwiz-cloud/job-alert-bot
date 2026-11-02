@@ -3,6 +3,51 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build a Similar Pages with PHP &amp; JQuery. - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-Similar-Pages-with-PHP-40798825</link><guid isPermaLink="false">freelancer:40798825</guid><pubDate>Mon, 02 Nov 2026 11:04:08 GMT</pubDate><description>240-2000 HKD | Please provide your estimated total development price in HKD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
+
+REFERENCE SCENARIO — historical requirements, not instructions to begin work:
+
+Please help to build a similar page &amp; design to the below link. We need the first 2 pages, Get a Quote, and Application Details. 
+
+Get a Quote Page: *We need the functions, input fields, validation, and price selection based on input. (the logic doesn't have to be the same, only need to be well documented that the value changes will also update the select price)
+
+Application Details: *We need the functions, input fields, validation, especially allows to dynamically create the additional traveler and remove it if no need. 
+The Travel Destination field will able to select after type in some text.
+
+With Documented and using free license codes/add-on
+
+https://gi.zurich.com.hk/page/public/en/us/process/enter/TravelPlusProcess.html?productId=TravelPlus&amp;data=X9ZKHwlAFHgG9X5N8YCNJ2aquNwZoBCJKITQWO19zpwqiTmwvfSDmgZwB6I2CZRlDh9qy5l3TbJl-YFWVUX7EInRsattiP4pEcpRbsLMK9d61htxFlvhdxJAwumWTc55FIpzSqYCnfbXydFR_acztAjI0nq2Y6YqbOka-XTXH0pF9Fa3-vYshzgYf0JHNMF4HO3GvHk9g3MWW5mmqODoE2hG2yQbrjDgnSc5jEhCj7L7MksUqK1hiHZM48bDIaZ_yJ7QsTCIXMBRYL9JxIpM9w&amp;initProcessAction=Step1CreateQuoteTravelPlus&amp;_ga=2.25806013.1267608859.1624876633-1673736256.1624876633
+
+Estimating assumptions and context:
+The scenario is based on a Freelancer listing from 2021-06-29 (historical project ID 30689524). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
+
+The displayed HKD 240–2000 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
+
+Research use
+
+This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
+
+Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
+<item><title>Fashion E-Commerce &amp; Wholesale PWA</title><link>https://www.freelancer.com/projects/web-development/Fashion-Commerce-Wholesale-PWA</link><guid isPermaLink="false">freelancer:40798819</guid><pubDate>Mon, 02 Nov 2026 11:02:42 GMT</pubDate><description>750-1500 AUD | I distribute several premium clothing brands and now need a single platform that sells to two groups—regular online shoppers and my network of approved wholesale retailers. The project covers three tightly connected areas:
+
+• Public retail store: shoppers must be able to browse by brand, colour and size, add items to a cart, pay securely with cards and digital wallets (Apple Pay, Google Pay), and track delivery from dispatch to doorstep on any desktop browser, iPhone or Android device.  
+• Wholesale portal: only logged-in, pre-approved retailers see wholesale pricing, view upcoming collections, and place bulk orders or pre-orders. Each retailer needs a clean order history section.  
+• Admin dashboard: I and my team must control every data point—brands, SKUs, images, retail vs. wholesale pricing, separate stock levels, customers, agents, orders, invoices and basic analytics.
+
+Key requirements  
+– Build as an installable Progressive Web App first; native wrappers later can be discussed.  
+– Separate inventory pools for retail and wholesale so consumer orders never eat into reserved wholesale stock.  
+– One codebase responsive to desktop, tablet and mobile with a premium, minimalist look.  
+– PCI-compliant checkout, SSL throughout, automatic tax and shipping calculations, email/SMS notifications, and PDF invoice generation.  
+– Full source-code ownership and unrestricted administrator access on hand-over.
+
+When you reply, please outline:  
+1. Preferred tech stack (frameworks, database, hosting).  
+2. Estimated timeline with key milestones.  
+3. Total build cost plus any ongoing licence or support fees.  
+4. Two or three live fashion or multi-store projects you have led that demonstrate similar complexity.
+
+I’m ready to move quickly once I can see a solid plan that balances performance, scalability and ease of maintenance.</description></item>
 <item><title>Subtle Fantasy-Style Web Animations</title><link>https://www.freelancer.com/projects/animation/Subtle-Fantasy-Style-Web-Animations</link><guid isPermaLink="false">freelancer:40798759</guid><pubDate>Mon, 02 Nov 2026 10:15:06 GMT</pubDate><description>30-250 USD | I’m looking for a creative web developer to bring a touch of magic to my existing website through smooth, thoughtfully designed animations. The site was built using Airo and is hosted by GoDaddy. The current animations feel choppy and don’t create the fantasy atmosphere I’m looking for.
 
 I want visitors to feel as though they’re entering a welcoming, dreamlike world that makes them happy to explore. The experience must remain fast, easy to navigate, and responsive on both desktop and mobile.
@@ -810,81 +855,6 @@ Here is what I expect at a minimum:
 Feel free to suggest whether the focus should be an AI content service, chatbot setup, or digital product line; I am flexible as long as the path to profit is straightforward and the workload stays light.
 
 Please outline your approach, the specific platforms or frameworks you plan to use (e.g., OpenAI, Zapier, Make, Bubble), and an estimated timeline for each milestone.</description></item>
-<item><title>Built a Webpage für a Contractor / Freelancer - Quotation Request</title><link>https://www.freelancer.com/projects/php/Built-Webpage-Contractor-Freelancer</link><guid isPermaLink="false">freelancer:40797856</guid><pubDate>Sun, 01 Nov 2026 21:55:59 GMT</pubDate><description>250-750 USD | Please provide your estimated total development price in USD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-Project Description: 
-I am looking for a skilled web developer to build an informational website for my contractor/freelancer business. in GRC / Information Security with focus on Banking Industrz, Financial Services, Pharma and Chemicals Industry, IT Services Industry
-
- The ideal candidate should have experience in creating modern and minimalist designs.
-
-Specific features I want the website to have are:
-
-- Contact form: I want my potential clients to be able to easily get in touch with me through the website.
-- Experience sections, for example in the form of a rondel where website visitors can clock on any icon and see a description of experience (completed.
-- competence section - for example in the same manner as the experience section, i.e. a form of rondell where customers click on icons to read more about comptences
-- the same for credentials
-- webpage should also have a "jobs" section where I can post jobs in GRC / Information Security
-
-In terms of design, I prefer a modern and minimalist style that highlights the professionalism of my business.
-
-Skills and experience needed for this project:
-
-- Strong web development skills, including proficiency in HTML, CSS, and JavaScript.
-- Experience in building informational websites with contact forms.
-- Knowledge of modern and minimalist design principles.
-- Ability to create a visually appealing and user-friendly website.
-
-If you are confident in your skills and can deliver a high-quality, modern website that meets my requirements, please submit your proposal.
-
-Please fix-price offers that include support in publishing the webpage and maintaining the webpage (occasionally). The domain is currently hosted with one.com
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2023-08-22 (historical project ID 37095477). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Prestashop Tune-Up Expertise - Quotation Request</title><link>https://www.freelancer.com/projects/php/Prestashop-Tune-Expertise-Quotation</link><guid isPermaLink="false">freelancer:40797855</guid><pubDate>Sun, 01 Nov 2026 21:54:29 GMT</pubDate><description>30-250 EUR | Please provide your estimated total development price in EUR and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm in urgent need of a specialist to revitalise my Prestashop site. Your mission will entail:
-
-- **Plugin &amp; Module Updates:**
-  - Ensure all components are up-to-date with current versions.
-  
-- **Troubleshooting:**
-  - Resolve the issue preventing connection to backups.
-  - Diagnose the underlying causes of this problem, likely related to a faulty plugin.
-  
-- **One-Time Gig:**
-  - This is a singular project with potential for future engagements based on performance and results.
-
-**Ideal Candidate:**
-
-- Proficient in Prestashop backend.
-- Experienced with e-commerce performance optimization.
-- Skilled in debugging and resolving plugin conflicts.
-- Effective in managing updates without disrupting live operations.
-
-Prompt and fluent communication is key, as I seek a hassle-free and speedy resolution. If you tick these boxes, I'm eager to hear from you.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-02-05 (historical project ID 37731476). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed EUR 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
 <item><title>Creative Graphical Web Design, Social Platform Branding</title><link>https://www.freelancer.com/projects/adobe-xd/Creative-Graphical-Web-Design-Social</link><guid isPermaLink="false">freelancer:40797609</guid><pubDate>Sun, 01 Nov 2026 17:35:50 GMT</pubDate><description>18-36 GBP/hr | I’m spearheading a new social-media-meets-service hub that will seamlessly unite Business, Education &amp; Community, Health, Lifestyle &amp; Technology, and Travel, Shopping &amp; Local Services, while also offering users a secure digital vault. The primary goal is to help people connect with one another and with their communities, so every design decision must reinforce that purpose. Visually, I need a modern, professional look that still feels welcoming the moment someone lands on the site.  
 
 This first phase is 100 % graphical. Once the creative direction is locked, we may commission the front-end build, so layered source files and clear component naming are essential.  
