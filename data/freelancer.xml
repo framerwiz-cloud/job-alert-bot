@@ -3,6 +3,171 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AWS Website Migration &amp; SEO Preservation</title><link>https://www.freelancer.com/projects/aws-lambda/AWS-Website-Migration-SEO-Preservation</link><guid isPermaLink="false">freelancer:40798931</guid><pubDate>Mon, 02 Nov 2026 12:18:00 GMT</pubDate><description>250-750 USD | Website Migration, Domain Restructuring &amp; AWS Infrastructure Setup – sanaco.com.sa to sana.com.sa
+
+Project Overview
+We are looking for an experienced Website Migration Specialist / AWS Cloud Architect to manage a website migration and infrastructure restructuring project.
+
+Our existing website, sanaco.com.sa, is currently hosted on Amazon AWS Lightsail. The website has a database exceeding 150 GB and contains substantial business content, products, categories and SEO-optimised pages.
+
+Management has decided to use sana.com.sa for the existing website content and business activities, while retaining sanaco.com.sa for a different business purpose with separate content and functionality.
+
+We need an experienced professional to plan and execute this migration without losing existing website data, SEO value, organic search visibility or business functionality.
+
+Project Objectives
+Migrate the existing website from sanaco.com.sa to sana.com.sa.
+Preserve all existing products, categories, website content, images and relevant database records.
+Protect the SEO investment made on 268 optimised product pages.
+Implement appropriate 301 redirects from the old domain to the new domain.
+Retain sanaco.com.sa and prepare it for a completely different website and business purpose.
+Establish an efficient, secure and scalable AWS hosting architecture.
+Minimise website downtime and avoid data loss during migration.
+Scope of Work
+1. Existing Website and Infrastructure Audit
+Analyse the existing website architecture.
+Review the AWS Lightsail hosting environment.
+Identify the website technology, programming language and database engine.
+Audit the existing database (150+ GB).
+Analyse website files, media storage, plugins and integrations.
+Identify unnecessary database records and technical issues.
+Evaluate the existing server's performance and resource utilisation.
+2. Website Migration to sana.com.sa
+Create the new production environment for sana.com.sa.
+Migrate the existing website application and required files.
+Migrate the database and associated media.
+Preserve products, categories, attributes, variations and relevant business records.
+Preserve customer and historical transaction data where required.
+Configure domain DNS, SSL and server settings.
+Test all website functionalities before launch.
+3. SEO Preservation and Migration
+SEO preservation is a critical requirement of this project.
+
+We have already completed SEO optimisation for 268 products on sanaco.com.sa.
+
+The selected freelancer must ensure:
+
+Preservation of existing product URLs wherever possible.
+Migration of all SEO titles and meta descriptions.
+Preservation of product descriptions and headings.
+Preservation of image ALT tags and relevant image assets.
+Preservation of structured data and schema markup.
+Correct canonical tag configuration.
+Updated internal linking structure.
+Updated XML sitemap.
+Updated robots.txt configuration.
+Individual 301 redirects from old URLs to corresponding new URLs.
+No unnecessary redirect chains or redirect loops.
+Verification of Google Search Console and indexing configuration.
+All 268 SEO-optimised products must be checked after migration.
+
+Important: Redirecting all old URLs to the new homepage will not be accepted. Redirects must point to relevant equivalent pages.
+
+4. Repurposing sanaco.com.sa
+After migrating the existing website to sana.com.sa:
+
+sanaco.com.sa must remain operational.
+The domain will be used for a different business purpose.
+The new website must have an independent application and content structure.
+The new website must have a separate database.
+Historical URLs from the old website must continue to redirect appropriately to their corresponding pages on sana.com.sa.
+The new website must not interfere with the existing SEO migration strategy.
+5. AWS Infrastructure and Database Optimisation
+We are open to recommendations regarding the best AWS architecture.
+
+Potential technologies include:
+
+AWS Lightsail
+Amazon EC2
+Amazon RDS
+Amazon S3
+Amazon CloudFront
+AWS Route 53
+AWS Backup
+Amazon CloudWatch
+The freelancer should recommend whether to:
+
+Retain and optimise the existing Lightsail infrastructure.
+Move to EC2 and RDS.
+Implement another cost-effective AWS architecture.
+The two websites should have independent applications and databases, even if they share appropriate AWS infrastructure.
+
+The proposed solution must consider security, scalability, performance, backup and disaster recovery.
+
+6. Testing and Quality Assurance
+Before final deployment, the freelancer must verify:
+
+All 268 SEO product pages.
+Product images and media files.
+Product categories and variations.
+Website navigation and internal links.
+Forms and integrations.
+Customer accounts and historical records where applicable.
+Database integrity.
+SSL certificates.
+Website loading speed.
+Mobile responsiveness.
+HTTP status codes and redirects.
+Google indexing and sitemap configuration.
+7. Post-Migration Support
+The freelancer should provide post-launch technical support to resolve migration-related issues.
+
+We also require documentation of:
+
+New AWS architecture.
+Database migration procedure.
+Website deployment process.
+Backup and recovery procedures.
+DNS and domain configuration.
+Redirect mapping.
+Technical handover documentation.
+Expected Deliverables
+Technical audit report of the existing website.
+Recommended AWS infrastructure architecture.
+Fully migrated website on sana.com.sa.
+Independent website infrastructure for sanaco.com.sa.
+Migrated database and website files.
+SEO migration and URL redirect mapping.
+Verification report for all 268 SEO-optimised products.
+Performance and security testing report.
+AWS configuration and technical documentation.
+Post-migration support.
+Required Freelancer Skills
+We are looking for a professional with proven experience in:
+
+AWS Lightsail.
+Amazon EC2 and RDS.
+MySQL / MariaDB / PostgreSQL, as applicable.
+Large database migrations (100 GB+).
+Website domain migrations.
+SEO migration and 301 redirects.
+Google Search Console.
+Website performance optimisation.
+Cloud infrastructure and server administration.
+Database backup and disaster recovery.
+Experience with complex production website migrations is highly preferred.
+
+Important Project Requirements
+Experience with large databases is mandatory.
+SEO migration experience is essential.
+The freelancer must provide a clear migration strategy before implementation.
+Full backups must be taken before any production changes.
+The migration must be tested in a staging environment.
+No existing website data should be deleted without approval.
+Website downtime should be kept to a minimum.
+All website and infrastructure credentials must be handled securely.
+All project work and documentation must be handed over upon completion.
+What to Include in Your Proposal
+Please provide the following information when submitting your bid:
+
+Describe your experience migrating websites with databases exceeding 100 GB.
+Have you previously migrated websites between two domains while preserving SEO rankings?
+What AWS architecture would you recommend for this project?
+How would you handle the migration of the 150+ GB database?
+How would you preserve the SEO value of 268 optimised product pages?
+What is your estimated project timeline?
+What is your estimated total project cost?
+What post-migration support do you provide?
+We prefer freelancers who can demonstrate previous successful projects involving AWS infrastructure, large database migration and SEO-preserving domain migration.</description></item>
 <item><title>Build a Similar Pages with PHP &amp; JQuery. - Quotation Request</title><link>https://www.freelancer.com/projects/php/Build-Similar-Pages-with-PHP-40798825</link><guid isPermaLink="false">freelancer:40798825</guid><pubDate>Mon, 02 Nov 2026 11:04:08 GMT</pubDate><description>240-2000 HKD | Please provide your estimated total development price in HKD and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
 
 REFERENCE SCENARIO — historical requirements, not instructions to begin work:
@@ -870,41 +1035,6 @@ Estimating assumptions and context:
 The scenario is based on a Freelancer listing from 2023-08-22 (historical project ID 37095477). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
 
 The displayed USD 250–750 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
-
-Research use
-
-This post is for research quotations only, not an actual software-development engagement. No development contract will be awarded. Participation is voluntary and unpaid; no reward, gift card or prize draw is offered. Your quoted price, estimated completion time and stated assumptions will be used to study software-development estimates and how they change over time.
-
-Thank you for your time and consideration. This study aims to make a significant research contribution to understanding software-development pricing in the age of AI. We appreciate any estimate you choose to share.</description></item>
-<item><title>Prestashop Tune-Up Expertise - Quotation Request</title><link>https://www.freelancer.com/projects/php/Prestashop-Tune-Expertise-Quotation</link><guid isPermaLink="false">freelancer:40797855</guid><pubDate>Sun, 01 Nov 2026 21:54:29 GMT</pubDate><description>30-250 EUR | Please provide your estimated total development price in EUR and estimated completion time for the historical software-development scenario below. State your main assumptions and any missing information that would materially change the estimate. Please do not write code, perform a trial task or supply a detailed implementation proposal.
-
-REFERENCE SCENARIO — historical requirements, not instructions to begin work:
-
-I'm in urgent need of a specialist to revitalise my Prestashop site. Your mission will entail:
-
-- **Plugin &amp; Module Updates:**
-  - Ensure all components are up-to-date with current versions.
-  
-- **Troubleshooting:**
-  - Resolve the issue preventing connection to backups.
-  - Diagnose the underlying causes of this problem, likely related to a faulty plugin.
-  
-- **One-Time Gig:**
-  - This is a singular project with potential for future engagements based on performance and results.
-
-**Ideal Candidate:**
-
-- Proficient in Prestashop backend.
-- Experienced with e-commerce performance optimization.
-- Skilled in debugging and resolving plugin conflicts.
-- Effective in managing updates without disrupting live operations.
-
-Prompt and fluent communication is key, as I seek a hassle-free and speedy resolution. If you tick these boxes, I'm eager to hear from you.
-
-Estimating assumptions and context:
-The scenario is based on a Freelancer listing from 2024-02-05 (historical project ID 37731476). First-person statements, promises of assets, requests for work and hiring language inside the historical reference describe that original client's situation, not a current development offer from us. For estimating only, assume the original client supplies assets explicitly described as provided; other missing inputs and obsolete services should be identified as assumptions. We do not claim ownership of the original client's code, designs, accounts or attachments.
-
-The displayed EUR 30–250 range reproduces the historical listing's budget field. It is not participation compensation or a binding development offer. Please give your realistic estimate even if outside that range.
 
 Research use
 
