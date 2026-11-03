@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>HTML Contact Form Integration</title><link>https://www.freelancer.com/projects/lamp/HTML-Contact-Form-Integration</link><guid isPermaLink="false">freelancer:40801550</guid><pubDate>Tue, 03 Nov 2026 22:54:27 GMT</pubDate><description>30-250 USD | I need to add a simple contact form to my existing website, styled to match the current look and feel. The form only needs three fields—name, email address, and message—and, once submitted, it should fire a PHP script that emails the collected details to a single recipient address I’ll supply. After a successful send, visitors must be redirected automatically to a separate thank-you page (not just an on-page message).
+
+I already have the php POST script and form HTML, just need it to work and CSS it.
+
+Please code the form in clean, standards-compliant HTML5, validate inputs server-side in PHP, and keep everything lightweight—no external frameworks are required. Make sure the mail function is dependable on a typical LAMP stack, with clear variables so I can change the destination address later if needed.
+
+Deliverables:
+• Contact-form markup and CSS that blends with my site  
+• PHP handler script with input sanitization and email delivery  
+• Brief read-me outlining where to drop the files and how to change the destination address
+
+Once I confirm the form redirects properly and the test message reaches my inbox, we’re done.</description></item>
 <item><title>Healing Soul Market</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/Healing-Soul-Market</link><guid isPermaLink="false">freelancer:40801425</guid><pubDate>Tue, 03 Nov 2026 20:25:28 GMT</pubDate><description>250-750 USD | I’m launching an online store that will carry well over 100 physical products and I want the entire shopping experience to feel fast, trustworthy, and unmistakably on-brand. The platform will be Shopify, so deep knowledge of Liquid, theme customization, product‐bulk-upload workflows, and Shopify’s native SEO settings is essential. Beyond getting the catalogue online, I also need rock-solid payment, tax, and shipping rules configured so every order can be fulfilled without manual fixes.
 
 Strong conversion rate optimisation is equally important. That means clean information architecture, persuasive product pages, upsell opportunities, abandoned-cart flows, and a checkout that loads in seconds on both mobile and desktop. Page speed targets are sub-3 s with a Google PageSpeed score of 85 +.
@@ -881,20 +893,6 @@ Here is what I expect at a minimum:
 Feel free to suggest whether the focus should be an AI content service, chatbot setup, or digital product line; I am flexible as long as the path to profit is straightforward and the workload stays light.
 
 Please outline your approach, the specific platforms or frameworks you plan to use (e.g., OpenAI, Zapier, Make, Bubble), and an estimated timeline for each milestone.</description></item>
-<item><title>Fix a WordPress website; required NOW</title><link>https://www.freelancer.com/projects/wordpress/Fix-WordPress-website-required-NOW</link><guid isPermaLink="false">freelancer:40797849</guid><pubDate>Sun, 01 Nov 2026 21:49:17 GMT</pubDate><description>30-250 CAD | I have a WordPress website, and the freelancer disappeared on me. I am not going to wait for him 
-
-If you cannot complete the job before the end of Monday Nov. 02, 2026, please DO NOT BID 
-
-If you are one of "those" who try to take advantage of the client because he is in a hurry: DO NOT BID 
-
-If you intend to take the project and do a partial work on it; i.e., not finish it before the end of Monday Nov. 02, 2026, DO NOT BID
-
-In short, I'm coming out of a bas experience, and do NOT want another one
-
-I have faced an issue with this freelancer: he has a team, and, while he has plenty of five-star reviews, he has assigned my project to an incompetent member of his team. So, I will talk ONLY to people who have many reviews, and the job must be done by a team member who is at that level and expertise 
-
-Budget: CAD$200 
-Needed: NOW</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
