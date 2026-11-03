@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Team &amp; Countries Updates</title><link>https://www.freelancer.com/projects/web-development/Website-Team-Countries-Updates</link><guid isPermaLink="false">freelancer:40801185</guid><pubDate>Tue, 03 Nov 2026 17:40:03 GMT</pubDate><description>20-250 GBP | I need to refresh the “Meet the Team” and “Countries” areas on my website. The scope is limited to updating the text, photos, and profile details—I’m happy with the current layout and design, so no structural changes are required.
+
+I’ll supply the new copy and images; you’ll handle swapping them in, optimising each photo for fast load times, and checking that styling, alt-text, and links remain intact on both desktop and mobile. Access to the site’s back-end (CMS/FTP) will be provided as soon as we start.
+
+Deliverables
+• “Meet the Team” page showing the correct names, titles, bios, and photos  
+• “Countries” section updated with the new content  
+• Images compressed and properly tagged  
+• Final pages pushed live once I sign off on a brief staging review
+
+If you’ve handled similar content updates before and can complete this quickly and cleanly, I’d love to hear from you.
+
+important to have AI-Powered Features to an Existing Next.js Application skills</description></item>
+<item><title>Rebuild Solo Site on Webnames</title><link>https://www.freelancer.com/projects/web-development/Rebuild-Solo-Site-Webnames</link><guid isPermaLink="false">freelancer:40801208</guid><pubDate>Tue, 03 Nov 2026 17:39:33 GMT</pubDate><description>250-750 CAD | I have just downloaded my entire Solo AI site as a ZIP because Mozilla is shuttering the platform. I’m launching a new venture and need that content repurposed into a fresh, fully responsive site hosted through a webnames.ca .  
+
+What I already have  
+• The Solo export ZIP with all pages, images, and assets.  
+• A Webnames.ca hosting account ready for files or a CMS install.  
+
+What I need from you  
+Please unpack the archive, keep the look-and-feel as close as practical, and rebuild the site so visitors can quickly learn about our services and reach us through a clean contact page. If you prefer WordPress or another framework that Webnames supports, that’s fine—the end result just has to live on my Webnames server without breaking any current styling or media.  
+
+Timing &amp; hand-off  
+I’d like the finished site, tested and live, within a month. Once it’s up, hand over any source files, theme tweaks, and simple instructions so I can handle routine updates myself.  
+
+If this sounds straightforward and you’ve migrated or rebuilt sites from proprietary platforms before, let’s talk—please share a quick outline of your approach and any similar work you’ve completed.</description></item>
 <item><title>Site-wide Content Update</title><link>https://www.freelancer.com/projects/content-management-system/Site-wide-Content-Update</link><guid isPermaLink="false">freelancer:40801194</guid><pubDate>Tue, 03 Nov 2026 17:27:22 GMT</pubDate><description>20-250 GBP | I need every page of my website brought up to date—copy, images, and any out-of-date details—while leaving the current layout and theme exactly as they are. The job is straightforward content administration: log in to the back-end, replace old wording with the new text I’ll supply (proof-reading for clarity and consistency is welcome), swap in fresh images I provide, and check that links, menus, and metadata stay intact after each edit.
 
 Scope  
@@ -17,17 +43,6 @@ A fully updated live site plus a short change log (page list, key edits, and any
 If you’re comfortable working directly in the CMS  (Onepage.io) and can turn around precise, error-free content updates, let’s get started.
 
 Pages roughly needed 25 to 35 pages update, no design work involved.</description></item>
-<item><title>Website Team &amp; Countries Updates</title><link>https://www.freelancer.com/projects/web-development/Website-Team-Countries-Updates</link><guid isPermaLink="false">freelancer:40801185</guid><pubDate>Tue, 03 Nov 2026 17:21:44 GMT</pubDate><description>20-250 GBP | I need to refresh the “Meet the Team” and “Countries” areas on my website. The scope is limited to updating the text, photos, and profile details—I’m happy with the current layout and design, so no structural changes are required.
-
-I’ll supply the new copy and images; you’ll handle swapping them in, optimising each photo for fast load times, and checking that styling, alt-text, and links remain intact on both desktop and mobile. Access to the site’s back-end (CMS/FTP) will be provided as soon as we start.
-
-Deliverables
-• “Meet the Team” page showing the correct names, titles, bios, and photos  
-• “Countries” section updated with the new content  
-• Images compressed and properly tagged  
-• Final pages pushed live once I sign off on a brief staging review
-
-If you’ve handled similar content updates before and can complete this quickly and cleanly, I’d love to hear from you.</description></item>
 <item><title>Magazine Production &amp; Digital Operations VA</title><link>https://www.freelancer.com/projects/wordpress/Magazine-Production-Digital-Operations</link><guid isPermaLink="false">freelancer:40800991</guid><pubDate>Tue, 03 Nov 2026 15:08:42 GMT</pubDate><description>5-10 GBP/hr | # Magazine Production &amp; Digital Operations VA | WordPress, Facebook &amp; AI
 
 **Remote | 10–15 hours per week initially | Potential 40 hours per week from January 2027**
@@ -1072,22 +1087,6 @@ Deliverables
 • One post-launch revision round for tweaks and polish  
 
 Tell me which platform you recommend, outline your approach, and share a couple of community or club sites you’ve created. I’m keen to move quickly once I find the right developer.</description></item>
-<item><title>Automated Photo Sale E-Cart</title><link>https://www.freelancer.com/projects/payment-processing/Automated-Photo-Sale-Cart</link><guid isPermaLink="false">freelancer:40796853</guid><pubDate>Sun, 01 Nov 2026 06:00:33 GMT</pubDate><description>250-750 USD | I need an e-cart system for selling photos online. The setup should seamlessly integrate print orders with payment splits. 
-
-Key Requirements:
-- When a customer buys a photo, automatically send order details to the printer via email.
-- Payment should be split automatically: a fixed amount goes to the printer, the remainder to the artist.
-- Customers should provide shipping address, contact details, and print size.
-
-Ideal Skills and Experience:
-- Experience in developing e-commerce platforms
-- Familiarity with payment processing and automation
-- Ability to set up email notification systems
-- Knowledge of integrating order management systems with third-party services
-***********
-EDIT:  The response has been quite overwhelming.  I will need a few days to sort through the proposals.
-I am unfamiliar with the various programs and systems, so if you asked me "What _____ do you prefer?" The answer is "I don't know".  I will also be talking with my printer this week to see what systems he prefers.
-Thank you all for your input.  I will get back to you.</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
