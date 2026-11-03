@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Add Search Functionality to Website</title><link>https://www.freelancer.com/projects/web-development/Add-Search-Functionality-Website</link><guid isPermaLink="false">freelancer:40801382</guid><pubDate>Tue, 03 Nov 2026 19:35:06 GMT</pubDate><description>30-250 USD | I need a stop and search criteria added to the cart section of my website. I need this section to recognize a specific class of items stop the transaction and allow visitors to search for a business near them. Visitors should be able to search for locations by postcode or ZIP code.
+
+Requirements:
+- Search for locations/areas
+- Narrow by postcode/ZIP
+- Show results within chosen distance
+
+Ideal Skills and Experience:
+- Web development expertise
+- Experience with search functionalities
+- Familiarity with location-based services</description></item>
 <item><title>Donations SaaS MVP Build</title><link>https://www.freelancer.com/projects/nodejs/Donations-SaaS-MVP-Build</link><guid isPermaLink="false">freelancer:40801359</guid><pubDate>Tue, 03 Nov 2026 19:15:00 GMT</pubDate><description>5000-10000 GBP | I’m ready to commission the first production-ready release of Taleevo, a multi-tenant donations and engagement platform for UK churches and charities. The goal is to take the project from architecture to deployment on AWS, handing me a fully documented codebase and live environment that my team will own outright.
 
 Scope of the MVP  
@@ -895,22 +906,6 @@ I have faced an issue with this freelancer: he has a team, and, while he has ple
 
 Budget: CAD$200 
 Needed: NOW</description></item>
-<item><title>Concrete5 Website Refresh &amp; CMS Migration</title><link>https://www.freelancer.com/projects/seo/Concrete-Website-Refresh-CMS-Migration</link><guid isPermaLink="false">freelancer:40797469</guid><pubDate>Sun, 01 Nov 2026 15:57:38 GMT</pubDate><description>250-750 GBP | Our current site—www.amethystassociates.co.uk—runs on Concrete5. While the content still reflects who we are, the platform makes day-to-day edits far harder than they should be. I’d like you to rebuild the site on a system you feel best suits a small team that wants to be entirely self-sufficient once the project is finished. WordPress with a friendly block editor, Squarespace, or any other platform you can justify are all on the table; the key is future ease of use for us.
-
-Primary objective  
-Visitors must be able to grasp our services quickly and intuitively. Design, navigation, and copy layout should all guide people toward that understanding.
-
-Content scope  
-Every existing page and asset needs to come across intact. You’re free to modernise styling and improve structure, but nothing should be lost or hidden behind extra clicks. Please migrate images, PDFs, meta data, and any SEO-critical elements so rankings remain stable.
-
-Deliverables  
-• Fully responsive website on the recommended CMS  
-• Complete migration of all current pages, files, and on-page SEO settings  
-• Fresh, user-centred design that clarifies our service offering  
-• Written or video hand-over showing our team how to update pages, add news items, and manage basic maintenance  
-• Two weeks’ post-launch support for bug fixes and minor tweaks
-
-I’ll supply access to the Concrete5 backend, hosting credentials, branding assets, and any further copy you might need. Let me know which platform you propose, the plugins or integrations you’d rely on, and how long the migration will take.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
