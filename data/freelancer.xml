@@ -226,171 +226,6 @@ Here’s what I need you to handle:
 • Provide a simple way for me to schedule future events with the same workflow.
 
 I’ll supply site credentials, branding assets, and test content. Your work is complete when I can run a private dry-run: I pay, the video appears for me, and it stays protected from non-payers.</description></item>
-<item><title>AWS Website Migration &amp; SEO Preservation</title><link>https://www.freelancer.com/projects/aws-lambda/AWS-Website-Migration-SEO-Preservation</link><guid isPermaLink="false">freelancer:40798931</guid><pubDate>Mon, 02 Nov 2026 12:18:00 GMT</pubDate><description>250-750 USD | Website Migration, Domain Restructuring &amp; AWS Infrastructure Setup – sanaco.com.sa to sana.com.sa
-
-Project Overview
-We are looking for an experienced Website Migration Specialist / AWS Cloud Architect to manage a website migration and infrastructure restructuring project.
-
-Our existing website, sanaco.com.sa, is currently hosted on Amazon AWS Lightsail. The website has a database exceeding 150 GB and contains substantial business content, products, categories and SEO-optimised pages.
-
-Management has decided to use sana.com.sa for the existing website content and business activities, while retaining sanaco.com.sa for a different business purpose with separate content and functionality.
-
-We need an experienced professional to plan and execute this migration without losing existing website data, SEO value, organic search visibility or business functionality.
-
-Project Objectives
-Migrate the existing website from sanaco.com.sa to sana.com.sa.
-Preserve all existing products, categories, website content, images and relevant database records.
-Protect the SEO investment made on 268 optimised product pages.
-Implement appropriate 301 redirects from the old domain to the new domain.
-Retain sanaco.com.sa and prepare it for a completely different website and business purpose.
-Establish an efficient, secure and scalable AWS hosting architecture.
-Minimise website downtime and avoid data loss during migration.
-Scope of Work
-1. Existing Website and Infrastructure Audit
-Analyse the existing website architecture.
-Review the AWS Lightsail hosting environment.
-Identify the website technology, programming language and database engine.
-Audit the existing database (150+ GB).
-Analyse website files, media storage, plugins and integrations.
-Identify unnecessary database records and technical issues.
-Evaluate the existing server's performance and resource utilisation.
-2. Website Migration to sana.com.sa
-Create the new production environment for sana.com.sa.
-Migrate the existing website application and required files.
-Migrate the database and associated media.
-Preserve products, categories, attributes, variations and relevant business records.
-Preserve customer and historical transaction data where required.
-Configure domain DNS, SSL and server settings.
-Test all website functionalities before launch.
-3. SEO Preservation and Migration
-SEO preservation is a critical requirement of this project.
-
-We have already completed SEO optimisation for 268 products on sanaco.com.sa.
-
-The selected freelancer must ensure:
-
-Preservation of existing product URLs wherever possible.
-Migration of all SEO titles and meta descriptions.
-Preservation of product descriptions and headings.
-Preservation of image ALT tags and relevant image assets.
-Preservation of structured data and schema markup.
-Correct canonical tag configuration.
-Updated internal linking structure.
-Updated XML sitemap.
-Updated robots.txt configuration.
-Individual 301 redirects from old URLs to corresponding new URLs.
-No unnecessary redirect chains or redirect loops.
-Verification of Google Search Console and indexing configuration.
-All 268 SEO-optimised products must be checked after migration.
-
-Important: Redirecting all old URLs to the new homepage will not be accepted. Redirects must point to relevant equivalent pages.
-
-4. Repurposing sanaco.com.sa
-After migrating the existing website to sana.com.sa:
-
-sanaco.com.sa must remain operational.
-The domain will be used for a different business purpose.
-The new website must have an independent application and content structure.
-The new website must have a separate database.
-Historical URLs from the old website must continue to redirect appropriately to their corresponding pages on sana.com.sa.
-The new website must not interfere with the existing SEO migration strategy.
-5. AWS Infrastructure and Database Optimisation
-We are open to recommendations regarding the best AWS architecture.
-
-Potential technologies include:
-
-AWS Lightsail
-Amazon EC2
-Amazon RDS
-Amazon S3
-Amazon CloudFront
-AWS Route 53
-AWS Backup
-Amazon CloudWatch
-The freelancer should recommend whether to:
-
-Retain and optimise the existing Lightsail infrastructure.
-Move to EC2 and RDS.
-Implement another cost-effective AWS architecture.
-The two websites should have independent applications and databases, even if they share appropriate AWS infrastructure.
-
-The proposed solution must consider security, scalability, performance, backup and disaster recovery.
-
-6. Testing and Quality Assurance
-Before final deployment, the freelancer must verify:
-
-All 268 SEO product pages.
-Product images and media files.
-Product categories and variations.
-Website navigation and internal links.
-Forms and integrations.
-Customer accounts and historical records where applicable.
-Database integrity.
-SSL certificates.
-Website loading speed.
-Mobile responsiveness.
-HTTP status codes and redirects.
-Google indexing and sitemap configuration.
-7. Post-Migration Support
-The freelancer should provide post-launch technical support to resolve migration-related issues.
-
-We also require documentation of:
-
-New AWS architecture.
-Database migration procedure.
-Website deployment process.
-Backup and recovery procedures.
-DNS and domain configuration.
-Redirect mapping.
-Technical handover documentation.
-Expected Deliverables
-Technical audit report of the existing website.
-Recommended AWS infrastructure architecture.
-Fully migrated website on sana.com.sa.
-Independent website infrastructure for sanaco.com.sa.
-Migrated database and website files.
-SEO migration and URL redirect mapping.
-Verification report for all 268 SEO-optimised products.
-Performance and security testing report.
-AWS configuration and technical documentation.
-Post-migration support.
-Required Freelancer Skills
-We are looking for a professional with proven experience in:
-
-AWS Lightsail.
-Amazon EC2 and RDS.
-MySQL / MariaDB / PostgreSQL, as applicable.
-Large database migrations (100 GB+).
-Website domain migrations.
-SEO migration and 301 redirects.
-Google Search Console.
-Website performance optimisation.
-Cloud infrastructure and server administration.
-Database backup and disaster recovery.
-Experience with complex production website migrations is highly preferred.
-
-Important Project Requirements
-Experience with large databases is mandatory.
-SEO migration experience is essential.
-The freelancer must provide a clear migration strategy before implementation.
-Full backups must be taken before any production changes.
-The migration must be tested in a staging environment.
-No existing website data should be deleted without approval.
-Website downtime should be kept to a minimum.
-All website and infrastructure credentials must be handled securely.
-All project work and documentation must be handed over upon completion.
-What to Include in Your Proposal
-Please provide the following information when submitting your bid:
-
-Describe your experience migrating websites with databases exceeding 100 GB.
-Have you previously migrated websites between two domains while preserving SEO rankings?
-What AWS architecture would you recommend for this project?
-How would you handle the migration of the 150+ GB database?
-How would you preserve the SEO value of 268 optimised product pages?
-What is your estimated project timeline?
-What is your estimated total project cost?
-What post-migration support do you provide?
-We prefer freelancers who can demonstrate previous successful projects involving AWS infrastructure, large database migration and SEO-preserving domain migration.</description></item>
 <item><title>Fashion E-Commerce &amp; Wholesale PWA</title><link>https://www.freelancer.com/projects/web-development/Fashion-Commerce-Wholesale-PWA</link><guid isPermaLink="false">freelancer:40798819</guid><pubDate>Mon, 02 Nov 2026 11:02:42 GMT</pubDate><description>750-1500 AUD | I distribute several premium clothing brands and now need a single platform that sells to two groups—regular online shoppers and my network of approved wholesale retailers. The project covers three tightly connected areas:
 
 • Public retail store: shoppers must be able to browse by brand, colour and size, add items to a cart, pay securely with cards and digital wallets (Apple Pay, Google Pay), and track delivery from dispatch to doorstep on any desktop browser, iPhone or Android device.  
@@ -1310,6 +1145,19 @@ Start your proposal with the words "Turning Page" so we know you've read this. T
 1. 2–3 nonprofit social media projects you've worked on, and what they achieved
 2. How you would turn a single photo of a newly renovated school library into a post that builds donor trust
 3. Your proposed monthly rate and what it includes</description></item>
+<item><title>Kickstarter Landing Page &amp; Shopify Setup</title><link>https://www.freelancer.com/projects/email-marketing/Kickstarter-Landing-Page-Shopify-Setup</link><guid isPermaLink="false">freelancer:40796580</guid><pubDate>Sat, 31 Oct 2026 21:44:40 GMT</pubDate><description>250-750 USD | I'm looking for a skilled developer to create a landing page for my upcoming Kickstarter project. The primary function of this page is to allow customers to reserve my product by paying a fixed deposit.
+
+Key requirements:
+- A reservation section where users can pay a fixed deposit to reserve one product.
+- After payment, users should receive an email confirmation and a reservation number.
+- A link to a Shopify page where they can view and purchase the product later.
+
+Ideal skills and experience:
+- Experience with landing page development, especially for Kickstarter or similar platforms.
+- Proficiency in integrating payment systems.
+- Familiarity with Shopify and can create a seamless link between the landing page and the Shopify store.
+
+Looking forward to your bids!</description></item>
 <item><title>Build Retro Gaming E-Commerce Store</title><link>https://www.freelancer.com/projects/shopify-site/Build-Retro-Gaming-Commerce-Store</link><guid isPermaLink="false">freelancer:40795554</guid><pubDate>Sat, 31 Oct 2026 04:06:27 GMT</pubDate><description>8-15 USD/hr | HIRING: Experienced E-Commerce Website Developer
 
 I'm looking to hire an experienced website developer to build a professional online retail business specializing in retro video games, gaming consoles, accessories, and vintage CRT televisions.
