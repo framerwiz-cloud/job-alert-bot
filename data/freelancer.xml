@@ -32,20 +32,6 @@ Ideal Skills and Experience:
 - Strong communication skills for collaboration and updates
 
 Please include detailed project proposals in your application.</description></item>
-<item><title>Squarespace 20-Page Website Clone</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Page-Website-Clone</link><guid isPermaLink="false">freelancer:40801563</guid><pubDate>Tue, 03 Nov 2026 23:12:02 GMT</pubDate><description>30-250 AUD | I need my existing business site—about twenty pages in total—recreated inside Squarespace. I own or have full permission to use every piece of text, image, and downloadable file, and I will give you direct access to both the current site and the Squarespace account so you can work without delays.
-
-The brief is straightforward: mirror the structure and navigation, paste over all copy, drop in the same images, and choose a standard Squarespace template that keeps everything clean and mobile-friendly. No custom code or fancy redesigns are necessary; consistency and accuracy matter more than pixel-perfect replication.
-
-Alongside the page build I’d like the practical extras handled so the launch is seamless: move the website address, email settings, and existing contact forms into Squarespace before we go live.
-
-Deliverables
-• Twenty pages rebuilt with all current content  
-• Navigation that matches the original site  
-• Squarespace template configured for responsive display  
-• Domain, email routing, and contact forms transferred and tested  
-• Final review to confirm links, images, and formatting are intact on desktop and mobile
-
-Let me know your fixed price for this job and an estimated turnaround time so we can schedule access and get started right away.</description></item>
 <item><title>HTML Contact Form Integration</title><link>https://www.freelancer.com/projects/lamp/HTML-Contact-Form-Integration</link><guid isPermaLink="false">freelancer:40801550</guid><pubDate>Tue, 03 Nov 2026 22:54:27 GMT</pubDate><description>30-250 USD | I need to add a simple contact form to my existing website, styled to match the current look and feel. The form only needs three fields—name, email address, and message—and, once submitted, it should fire a PHP script that emails the collected details to a single recipient address I’ll supply. After a successful send, visitors must be redirected automatically to a separate thank-you page (not just an on-page message).
 
 I already have the php POST script and form HTML, just need it to work and CSS it.
@@ -865,6 +851,44 @@ Please let me know your relevant ClickFunnels experience, hourly rate and approa
 
 Thanks,
 Shaun</description></item>
+<item><title>Fix Sidebar Dropdown Functionality</title><link>https://www.freelancer.com/projects/dreamweaver/Fix-Sidebar-Dropdown-Functionality</link><guid isPermaLink="false">freelancer:40797935</guid><pubDate>Sun, 01 Nov 2026 23:20:46 GMT</pubDate><description>30-250 USD | I need help making existing sidebar dropdown boxes work across all sections of my Dreamweaver website. Currently, the dropdown options link to pages, but only within one main section. I need them to link correctly to pages in the same folder as the sidebar.
+
+Requirements:
+- Ensure dropdown options function correctly on all pages within the same folder as the sidebar.
+- Maintain current design and functionality of the website.
+
+Ideal Skills &amp; Experience:
+- Proficient in Adobe Dreamweaver
+- Experience with HTML/CSS and website navigation
+- Attention to detail and problem-solving skills
+
+More info from potential client:
+The Dreamweaver site in question is vistabookencore.com. To get to the problem issue, bring up the site and click on an e for encore and that will take to a list of the three sections: VistaBooks History Reprints, VistaBooksOnline, and VistaBooks Vintage,
+
+Cuirrently I am concerned with only the left sidebar "sidebar-l.html". It is located in the VistaBooks Online section, "vbonline" foider. (There is a "sidebar-l copy" file in the site but only there if needed for a backup restore. Another recent backup is in a separate disk on the computerr.)
+
+Go to VistaBooks Online where a home page will come up with sidebars (sidebars also appear on other pages in this section.) In the left sidebar are three sections. 
+Test the dropdown boxes in the VistaBooks History Reprints section; their links to pages all work, ' though sidebars need to be set up on those pages, too.
+Test links in the VistaBooks Online section; none work, links just stall. 
+Links in the VistaBooks Vintage section do not work as I have not finished them pending resolution of the problem in VistaBooks Online, but would seem to have the same fix once found.
+I have also below the VistaBooks Vintage section inserted a test dropdown box with links to pages in another published website, VistaBooks Outlet; all these work.
+The code used for each of the dropdown box lists is like this:
+"&lt;select id="setit1" size="1" name="test1"&gt;    
+    &lt;option value = "https:/www.vistabooksencore.com/vbreprint/pagesvb/vbnogo.html" style="background-color:     #69359c"&gt;REPRINTS SUBJECTS&lt;/option&gt;
+&lt;/select&gt; 
+  &lt;input type="button" value="GO"
+onClick="window.open(setit1.options[setit1.selectedIndex].value)" style="background-color: #69359c"&gt;
+There are 20 dropdown box lists like the above example in the sidebar, with the "setit1" and "test1" values rising one at a time to "setit20" and "test20" but with the size ="1" staying the same.
+The first 5 dropdown boxes are for VistaBooks History Reprints; all work. 
+The dropdownboxes from 6 thru 12 are for VistaBooks Online; all fail.
+The dropdownboxes from 13 thru 19 are for VistaBooks Vintage; all fail but are mainly yet to be set up).
+The dropdown box 20 for VistaBooks Outlet all works, this to an external published website that is intended to be replaced by vistabooksencore.com.
+The links in all the dropdown boxes are presently set, as an example, to "https://www.vistabooksencore.com/vbreprint/pagesvb/vbwest.html" but I have tried other combinations, omitting folders and subfolders to only using the file name in the links. I have not found a format for this that works.
+Some navigation links are still to be added, which I will do once the sidebar issue is resolved.
+
+Assuming the site and sidebar with dropdown boxes can stay in their current format it may be that I can make needed changes with guidance. For instance, what is the correct format for the links in the dropdown boxes, in what folders or main file should the sidebar files be placed? Do the files need to be adjusted if they are to be placed in different folders, and how?
+
+Copies of pertinent Dreamweaver files could be made available if there is a way to do this.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
