@@ -3,6 +3,31 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fantasy Novel Website Development</title><link>https://www.freelancer.com/projects/graphic-design/Fantasy-Novel-Website-Development</link><guid isPermaLink="false">freelancer:40801310</guid><pubDate>Tue, 03 Nov 2026 18:46:16 GMT</pubDate><description>250-750 USD | I'm seeking a skilled web developer to create an engaging website for my fantasy novel. The site should primarily introduce the novel and its intricate world.
+
+Key Features:
+- In-depth sections on characters and their stories
+- Detailed maps, places, and historical background
+- Visually appealing and easy-to-navigate design
+- Mobile-friendly and SEO-optimized
+
+Ideal Skills &amp; Experience:
+- Proven web development portfolio
+- Experience in creating fantasy or book-related websites
+- Strong design aesthetics
+- SEO and mobile optimization expertise
+
+Please include relevant experience in your application.</description></item>
+<item><title>Moderne Unternehmenswebsite entwickeln</title><link>https://www.freelancer.com/projects/web-design/Moderne-Unternehmenswebsite-entwickeln</link><guid isPermaLink="false">freelancer:40801303</guid><pubDate>Tue, 03 Nov 2026 18:42:00 GMT</pubDate><description>250-750 EUR | Ich benötige eine schlanke, professionell gestaltete Unternehmens-/Dienstleistungs­website, die unsere Leistungen und Angebote klar in den Mittelpunkt stellt.  
+
+Was ich mir vorstelle:  
+• Eine responsive Startseite mit sofortigem Überblick über unsere Kern­services.  
+• Detaillierte Unterseiten, auf denen jede Leistung strukturiert beschrieben wird – gern mit Icons, kurzen Nutzen­-Highlights und ansprechenden Bildern.  
+• Ein flexibel erweiterbares CMS (z. B. WordPress, Webflow oder vergleichbar), damit mein Team später Texte und Bilder selbst pflegen kann.  
+• Saubere Grundoptimierung für schnelle Ladezeiten und Suchmaschinen (strukturierte Überschriften, Meta-Tags, Alt-Texte).  
+• Einheitliches Corporate Design – moderne Typografie, abgestimmte Farbwelt, dezente Animationen.  
+
+Ich liefere Logo, Farbcodes und Basis­inhalte; du kümmerst dich um Layout, Umsetzung und eine kurze Einweisung per Video-Call oder Screencast. Bitte zeig mir Beispiele ähnlich aufgebauter Seiten, die du bereits realisiert hast, und nenne mir deinen geschätzten Zeitrahmen bis zum Go-live.</description></item>
 <item><title>Comprehensive Business Management System Development</title><link>https://www.freelancer.com/projects/business-management/Comprehensive-Business-Management-System</link><guid isPermaLink="false">freelancer:40801299</guid><pubDate>Tue, 03 Nov 2026 18:39:21 GMT</pubDate><description>10-3000 USD | I need a customized business management platform that integrates multiple functions to streamline our operations. I run a non-profit and using multiple platforms everyday is annoying.
 
 Key functionalities include:
@@ -878,218 +903,6 @@ Deliverables
 • Two weeks’ post-launch support for bug fixes and minor tweaks
 
 I’ll supply access to the Concrete5 backend, hosting credentials, branding assets, and any further copy you might need. Let me know which platform you propose, the plugins or integrations you’d rely on, and how long the migration will take.</description></item>
-<item><title>Amazon-Style Multi-Seller Platform Build</title><link>https://www.freelancer.com/projects/stripe/Amazon-Style-Multi-Seller-Platform</link><guid isPermaLink="false">freelancer:40797263</guid><pubDate>Sun, 01 Nov 2026 13:14:09 GMT</pubDate><description>750-1500 USD | # Eagle Vision Edge – Amazon-Style Multi-Tenant E-Commerce Platform
-
-I am developing Eagle Vision Edge, a custom, multi-tenant e-commerce platform that provides an Amazon-style shopping experience while integrating with multiple suppliers through Spark Shipping API v1.
-
-The platform will allow customers to browse and purchase physical products. Suppliers such as Keystone Automotive will handle product fulfillment and shipping, while Eagle Vision Edge manages the storefront, checkout, supplier selection, order processing, customer communication, and tracking.
-
-We already have an existing application and approved prototype. The selected developer will complete the platform according to our Software Development, Confidentiality, Intellectual Property &amp; Security Agreement (Version 4).
-
-**Project Budget:** $1,600 USD (Fixed Price)  
-**Timeline:** 30 Calendar Days  
-**Client:** Eagle Vision Edge LLC
-
-## 1. Customer Shopping Experience
-
-- Amazon-style homepage and responsive storefront.
-- Advanced product search, filters, categories, and sorting.
-- Detailed product pages with images, specifications, pricing, and availability.
-- Customer registration, login, and account management.
-- Wishlists and saved products.
-- Shopping cart and secure Stripe checkout.
-- Supported card and digital-wallet payments through Stripe.
-- Customer order history and order-status dashboard.
-- Product reviews and ratings.
-- Promotional pricing and discount functionality.
-- Inventory and price revalidation before order submission.
-
-## 2. Supplier and Product Integration
-
-- Spark Shipping API v1 integration.
-- Initial supplier integration with Keystone Automotive.
-- Automated product catalog synchronization.
-- Product inventory and pricing updates.
-- Lowest-cost eligible supplier selection with administrative override.
-- Minimum Advertised Price (MAP) compliance.
-- Configurable supplier integrations.
-- Automated order submission to supported suppliers.
-- Split-shipment support when multiple suppliers fulfill an order.
-
-### Missing Product Image Handling
-
-Some Spark Shipping products may not include images.
-
-The developer must implement a process to match these products with images and descriptions maintained by Eagle Vision Edge LLC.
-
-Matching should use reliable product identifiers, including SKU, manufacturer part number, brand, and product attributes. Administrators must be able to review uncertain matches.
-
-## 3. ZIP Code-Based Shipping Calculation
-
-The platform must calculate shipping costs based on:
-
-- Customer destination ZIP code.
-- Supplier or warehouse origin ZIP code.
-- Product weight and dimensions.
-- Shipping method and available carrier rates.
-- Multiple suppliers and split shipments.
-
-Customers must see the calculated shipping cost before completing payment.
-
-The system must recalculate shipping charges when delivery details change.
-
-If live carrier rates are unavailable, an approved configurable rate table must be supported.
-
-## 4. Order Tracking and Google Maps
-
-Customers must be able to track orders from purchase through delivery.
-
-Required functionality includes:
-
-- Order confirmation and processing status.
-- Supplier shipment status and tracking number.
-- Carrier tracking integration.
-- Google Maps API visualization when shipment-location data is available.
-- Estimated delivery information where supported.
-- Tracking of multiple shipments for one order.
-- Email and SMS shipment notifications.
-
-Google Maps must not be represented as a source of live carrier GPS data unless the carrier provides that information.
-
-## 5. Multi-Tenant Architecture
-
-The platform must support multiple independent storefronts.
-
-Requirements include:
-
-- Tenant-specific storefront configuration.
-- Tenant data isolation.
-- Tenant-specific product catalogs and settings.
-- Administrative controls for tenant management.
-- Secure authentication and role-based access.
-- Audit logs and activity tracking.
-
-## 6. Administrative Dashboard
-
-Provide administrative functionality for:
-
-- Product and catalog management.
-- Supplier integration configuration.
-- Inventory and pricing management.
-- Order management and fulfillment monitoring.
-- Customer management.
-- Shipment tracking.
-- Promotions and discounts.
-- User permissions and audit logs.
-- Reporting and operational analytics.
-
-## 7. Mandatory Technology Stack
-
-The developer must use:
-
-- **Frontend:** React, Vite, Tailwind CSS.
-- **Backend:** Java Spring Boot.
-- **Database:** PostgreSQL or MySQL.
-- **Payments:** Stripe.
-- **Supplier Integration:** Spark Shipping API v1.
-- **Maps:** Google Maps API.
-- **Source Control:** Private Git repository controlled by Eagle Vision Edge LLC.
-
-Technology substitutions require prior written approval.
-
-## 8. Independent Development and UAT Environment
-
-Spark Shipping does not provide a general-purpose sandbox for this project.
-
-The developer must establish a separate development and UAT environment that includes:
-
-- Mock Spark Shipping API services.
-- Simulated product catalogs and inventory.
-- Test pricing and supplier selection.
-- Simulated order submission and shipment tracking.
-- Stripe test-mode payments.
-- Test scenarios for missing product images.
-- ZIP-code shipping calculation tests.
-- Multi-tenant security and data-isolation testing.
-- End-to-end checkout and order lifecycle tests.
-
-Testing must not accidentally create real supplier orders or production charges.
-
-## 9. Milestones and Payments
-
-**Phase 1 — $250: Technical Review and Setup**
-
-Review existing code, architecture, integration requirements, and development environment.
-
-**Phase 2 — $400: Catalog and Storefront Integration**
-
-Complete agreed storefront functionality, supplier catalog integration, product synchronization, and image-matching workflows.
-
-**Phase 3 — $450: Checkout and Order Workflow**
-
-Complete Stripe checkout, shipping cost calculation, order processing, supplier fulfillment integration, and tracking workflows.
-
-**Phase 4 — $500: Full Testing, UAT, and Handover**
-
-Complete system testing, defect correction, UAT, source code delivery, documentation, and deployment handover.
-
-**Total Fixed Budget: $1,600 USD**
-
-Milestone funds may be secured through Freelancer.com, but payment will be released only after the corresponding work is completed, tested, delivered, and accepted in writing.
-
-## 10. Ownership and Final Acceptance
-
-All development must take place in an Eagle Vision Edge LLC-controlled private repository.
-
-Existing client intellectual property remains protected. Project-specific deliverables must be transferred in accordance with the signed agreement.
-
-The final product must materially match the approved prototype and satisfy all agreed functional requirements.
-
-The project must be completed within 30 calendar days of the mutually agreed commencement date. Any extension requires written approval.
-
-The signed Eagle Vision Edge Development Agreement  and its approved exhibits govern the project.
-
-This project is intended for our previously selected developer, Delaine Technologies Pvt. Ltd.</description></item>
-<item><title>Build AI Sales Automation System</title><link>https://www.freelancer.com/projects/n8n/Build-Sales-Automation-System</link><guid isPermaLink="false">freelancer:40797210</guid><pubDate>Sun, 01 Nov 2026 12:27:38 GMT</pubDate><description>250-750 AUD | AI Sales Agent Developer Required — n8n, OpenAI &amp; WooCommerce
-
-We are seeking an experienced AI automation developer to build a fully integrated AI Sales Agent using n8n, OpenAI and our existing business systems.
-
-Project Objectives
-
-Develop an intelligent sales automation system capable of:
-
-* Instant lead response: Automatically engage new website, email and advertising enquiries via two-way SMS.
-* AI sales conversations: Qualify customers, answer product questions and collect detailed requirements.
-* Automated quotations: Connect to WooCommerce, identify suitable products, calculate accurate pricing using custom measurement and product options, and generate quotations through YITH Request a Quote.
-* CRM integration: Synchronise conversations, customer details, quotations and sales opportunities.
-* Automated follow-ups: Re-engage unanswered enquiries, outstanding quotations and previous customers through SMS and email.
-* Appointment scheduling: Integrate calendars and book qualified sales appointments.
-* Lead reactivation: Personalise outreach to existing CRM contacts.
-* Sales intelligence: Use a custom knowledge base containing product specifications, pricing rules and business procedures.
-
-Existing Platforms
-
-n8n Cloud, OpenAI, WordPress, WooCommerce, YITH Request a Quote, Microsoft 365, HubSpot and Bitrix24.
-
-Our n8n connection to WooCommerce is already operational.
-
-Required Experience
-
-Proven expertise in n8n, OpenAI API, WooCommerce REST API, custom WooCommerce pricing, conversational AI, SMS automation, CRM integrations and workflow development.
-
-Experience with WooCommerce Measurement Price Calculator, Product Add-ons and YITH Request a Quote is particularly important.
-
-Project Goal
-
-Build a reliable, scalable AI sales workforce that manages customer enquiries from initial contact through qualification, quotation, follow-up and conversion, with minimal manual intervention.
-
-Freelancer Requirements
-
-Please provide examples of similar projects, your proposed technical approach, estimated fixed-price cost and delivery timeframe.
-
-We are seeking an experienced developer who can deliver a complete working solution, not simply a basic AI chatbot.
-
-The project will be delivered in milestones, beginning with WooCommerce product selection, pricing accuracy and automated quotations.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
