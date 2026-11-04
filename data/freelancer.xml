@@ -3,6 +3,67 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Website Update and Theme Review</title><link>https://www.freelancer.com/projects/accessibiliy/WordPress-Website-Update-Theme-Review</link><guid isPermaLink="false">freelancer:40803349</guid><pubDate>Wed, 04 Nov 2026 23:03:42 GMT</pubDate><description>250-750 USD | # Experienced WordPress Developer Needed to Complete Website Update
+
+I'm looking for an experienced WordPress developer to complete the updating and development of my existing website, **https://dyslexiatech.com**.
+
+The website provides information and resources about dyslexia, assistive technology, and accommodations for students with learning disabilities.
+
+A development/staging version of the website already exists. I'm looking for someone who can evaluate the work completed so far, resolve outstanding technical issues, and prepare the updated website for launch.
+
+### Current Technical Issues
+
+The website currently uses:
+
+- **WordPress**, hosted by CloudAccess.net
+- **Skyetheme 2.0**, developed by Edge Themes (Qode Interactive)
+- **WPBakery Page Builder**, currently version 8.4.1
+- Other plugins, including Elementor
+
+Two important concerns need attention:
+
+1. **WPBakery requires a security update**, but attempts to update it have failed with the error: `Malformed URL: "key" is required`.
+2. **Skyetheme may no longer be supported.** We need to determine whether it can be safely maintained or should be replaced with a modern, supported WordPress theme.
+
+### Scope of Work
+
+I'm looking for a developer who can:
+
+- Review the existing production and staging websites.
+- Evaluate the current theme, plugins, and compatibility issues.
+- Recommend whether to retain Skyetheme or migrate to a supported theme.
+- Resolve the WPBakery update problem or recommend an appropriate replacement.
+- Complete any remaining website development and design work.
+- Preserve existing content, functionality, and important design elements.
+- Ensure the website is secure, responsive, accessible, and easy to maintain.
+- Test the completed staging site before deploying changes to the live website.
+
+### Qualifications
+
+The ideal developer will have:
+
+- Strong experience with WordPress development, maintenance, and troubleshooting.
+- Experience migrating websites between WordPress themes and page builders.
+- Familiarity with WPBakery and Elementor.
+- Experience working with staging environments and website migrations.
+- An understanding of website accessibility, particularly for people with disabilities.
+- Good communication skills and a willingness to explain technical decisions clearly.
+
+### Project Arrangement
+
+This is a **freelance, project-based opportunity**.
+
+I'd like to begin with an assessment of the existing website and staging environment, followed by a proposal outlining the recommended work, estimated cost, and timeline.
+
+Please respond with:
+
+- A brief description of your relevant WordPress experience.
+- Examples of similar projects you've completed.
+- Your availability.
+- Your approach to evaluating and completing this project.
+- Your hourly rate or preferred project-pricing arrangement.
+
+I'm interested in finding someone reliable who can complete the project and help ensure the website remains maintainable over time.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
@@ -822,14 +883,6 @@ Links to relevant work (GitHub, case studies).
 Budget: $300 / Month (negotiable)  · Longterm job - at least for the next 6 months.
 We’ll share the full architecture under an NDA after an interview.
 Contract under USA cybersecurity and copyright laws.</description></item>
-<item><title>Recover Lost WordPress.com Access</title><link>https://www.freelancer.com/projects/wordpress-security/Recover-Lost-WordPress-com-Access</link><guid isPermaLink="false">freelancer:40799031</guid><pubDate>Mon, 02 Nov 2026 13:33:04 GMT</pubDate><description>250-750 USD | I’ve lost access to my WordPress.com account and the usual password-reset route is blocked because I can’t recall the email address I used during registration. What I do have is the public URL of the site and the username that appears on posts, so we have some solid reference points to prove ownership. The blog is still live and publicly visible, but I’m locked out of the dashboard.
-
-I need a specialist who knows the WordPress.com recovery workflow inside out—contacting Automattic support, preparing ownership proofs (DNS, post content, billing lookup, or any other recognised method), and guiding or handling the entire ticket until I can sign in again with a fresh email and password. Clear, step-by-step updates are essential so I always know where we stand with support.
-
-Deliverable:
-• Working WordPress.com login credentials (or verified recovery link) tied to an email I control, plus a brief outline of the steps you took so I can reference them in future.
-
-Once I’m back inside the account, the project is complete.</description></item>
 <item><title>AI Automation Coaching for Non-Tech Founders</title><link>https://www.freelancer.com/projects/website-design/Automation-Coaching-for-Non-Tech</link><guid isPermaLink="false">freelancer:40798646</guid><pubDate>Mon, 02 Nov 2026 08:55:27 GMT</pubDate><description>25-50 AUD/hr | I'm seeking a 1:1 coaching session with an expert to help me automate business tasks and workflows using AI, leveraging tools like Claude Code.  
 
 Key Focus Areas:  
