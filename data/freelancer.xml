@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Cargo Pickup CRM &amp; Invoicing</title><link>https://www.freelancer.com/projects/crm/Cargo-Pickup-CRM-Invoicing</link><guid isPermaLink="false">freelancer:40803100</guid><pubDate>Wed, 04 Nov 2026 19:05:19 GMT</pubDate><description>250-750 USD | I need a streamlined CRM and invoicing system that supports our door-to-door cargo service from the moment a booking is taken to the final proof-of-delivery.  
+
+Here’s how the flow should work:
+
+• Admin staff create each booking with the customer’s basic details, pickup address, rough item description (e.g., “2 suitcases, 3 boxes, electricals”), and an estimated total weight. They must also be able to attach collection and extra charges, raise invoices, record payments, and assign the job to a driver.
+
+• Drivers log in, see only the collections assigned to them, and update the status as they go. While on site they add or edit receiver details, list every item type with its exact weight, note the number of pieces, snap photos of what they collected, and mark whether payment was by card, cash, or bank transfer. Once delivered, they confirm completion and upload a final proof-of-delivery photo.
+
+• Back in the office, the admin team track delivery status in real time, review all driver-submitted photos, generate or adjust invoices, and pull basic reports (daily pickups, outstanding payments, weight summaries, etc.).
+
+Acceptance criteria  
+– Clean, responsive interface with separate permission levels for admin staff and drivers  
+– Booking form that stores estimated weights yet lets drivers overwrite with actuals  
+– Secure image upload for collection and proof-of-delivery photos  
+– Automatic invoice generation that reflects collection fees, extra charges, and recorded payment method  
+– Status timeline visible to both admin and driver (“Booked → Assigned → Collected → In Transit → Delivered”)  
+– Exportable reports (CSV or PDF) for deliveries, payments, and charges
+
+I am open to your preferred tech stack as long as the final system is web-based, fast, and easy for non-technical staff to maintain. Please outline your proposed approach, tools, and a realistic timeline in your bid.
+
+either build a new system or offer me a system already build just need editing what ever is cost-effective and reliable</description></item>
 <item><title>Mailchimp New Email Builder Specialist Needed</title><link>https://www.freelancer.com/projects/digital-marketing/Mailchimp-New-Email-Builder-Specialist</link><guid isPermaLink="false">freelancer:40801630</guid><pubDate>Wed, 04 Nov 2026 18:42:54 GMT</pubDate><description>30-250 USD | Fixed Amount: $55
 
 We are looking for an experienced Mailchimp Specialist with proven expertise in Mailchimp's New Email Builder and native editable content blocks. The freelancer must have hands-on experience personally building complete, fully editable email templates using Mailchimp's New Email Builder, not just general email development or custom HTML.
@@ -823,14 +844,6 @@ Ideal Skills and Experience:
 
 Looking forward to your expertise to boost my efficiency!</description></item>
 <item><title>Quick WordPress Bug Resolution</title><link>https://www.freelancer.com/projects/web-development/Quick-WordPress-Bug-Resolution</link><guid isPermaLink="false">freelancer:40798506</guid><pubDate>Mon, 02 Nov 2026 07:20:16 GMT</pubDate><description>2-8 USD/hr | Several of our websites need to be adjusted. Currently, there are some issues with the UI and functionality. I need a friend who is skilled in WordPress development to help me complete a series of tasks. We previously used Codex to create several websites, but now we are encountering problems. We are unable to modify some of the images and layouts because the code written by AI seems a bit messy. I need an expert to help me solve this. The problems with the other websites are caused by the UI layout. In addition to fixing the bugs, we also need to start the development tasks for several websites quickly. We will collaborate based on weekly tasks. The cost may not be high, but our work is stable. I need a full-time developer. I will provide a contract to test your development and modification capabilities. The applicant must showcase your recent cases. Responses need to be prompt.</description></item>
-<item><title>Pet Brand Online Store Setup</title><link>https://www.freelancer.com/projects/shopify-site/Pet-Brand-Online-Store-Setup</link><guid isPermaLink="false">freelancer:40798260</guid><pubDate>Mon, 02 Nov 2026 04:51:32 GMT</pubDate><description>250-750 GBP | I need help setting up an online store for my new pet accessories brand. I'm looking for someone who can get this done quickly, as I need it ASAP.
-
-The ideal candidate should have:
-- Experience with Shopify, WooCommerce, or similar platforms
-- Strong design skills to create an appealing, user-friendly interface
-- Knowledge of SEO and digital marketing to help drive traffic to the store
-
-Please include past work in your application, especially any relevant to e-commerce or brand launches.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
