@@ -14,256 +14,6 @@ Here’s what I’m looking for:
 • Basic on-page SEO and fast loading times to keep the experience seamless.
 
 I’ll supply logo, colour palette, product photos, and copy; you handle design, build, and a short hand-over session so I’m comfortable adding future pieces on my own. Let me know which platform you’d prefer, show me a couple of jewellery or fashion sites you’ve built, and give me an estimated timeline.</description></item>
-<item><title>Build Scalable English Tutor Marketplace</title><link>https://www.freelancer.com/projects/web-development/Build-Scalable-English-Tutor-Marketplace</link><guid isPermaLink="false">freelancer:40802407</guid><pubDate>Wed, 04 Nov 2026 10:36:22 GMT</pubDate><description>250-750 CAD | Project Title
-
-Build a Professional International Online English Learning Platform – Scalable, Interactive Website &amp; Teacher Marketplace
-
-Project Overview
-
-We are looking for an experienced web development team or senior full-stack developer to design and develop a high-quality international online English learning platform connecting students worldwide with qualified English teachers.
-
-The platform will operate as an international marketplace where students can discover teachers, compare profiles, book lessons, make secure online payments, attend online classes, and track their learning progress.
-
-We want a modern, professional, highly interactive website with excellent user experience, responsive design, and a scalable technical foundation.
-
-Important: This is not a basic informational website or a standard WordPress template project. We need a functional online learning marketplace with separate student and teacher dashboards, booking systems, payment integration, and administrative controls.
-
-1. Technical Requirements &amp; Development Approach
-
-We already have an active Hostinger hosting plan and prefer to use our existing infrastructure if technically suitable.
-
-The developer must recommend the best technology and architecture based on:
-
-- High performance and website speed.
-- Security and protection of user information.
-- Scalability for international expansion.
-- Easy future maintenance and development.
-- Ability to add new services and features without rebuilding the platform.
-- Clean, documented, and well-organized code.
-- Avoiding unnecessary expensive plugins and monthly subscriptions.
-
-We are open to WordPress with a suitable LMS and marketplace architecture, or a custom development solution if it provides significantly better long-term value.
-
-The developer must explain the recommended technology, hosting compatibility, limitations, and ongoing costs before development begins.
-
-2. Main Website Features
-
-Public Website
-
-- Professional homepage and modern branding.
-- About Us and Contact pages.
-- Browse and search English teachers.
-- Teacher profile pages with photos, introduction videos, qualifications and experience.
-- Course and learning program pages.
-- Pricing and subscription pages.
-- FAQ and educational resources.
-- SEO-friendly website structure.
-
-Student Dashboard
-
-- Student registration and login.
-- Personal profile and account management.
-- Search and select teachers.
-- View teacher availability.
-- Book, reschedule and cancel lessons.
-- Online payment and booking history.
-- Upcoming lessons and notifications.
-- Access to online classrooms.
-- Learning progress and lesson history.
-- Teacher reviews and ratings.
-
-Teacher Dashboard
-
-- Teacher registration and application.
-- Profile creation and management.
-- Upload qualifications and supporting documents.
-- Identity and credential verification workflow.
-- Approval by administrator before becoming publicly available.
-- Set availability and working hours.
-- International time-zone management.
-- Manage bookings and students.
-- View completed lessons and earnings.
-- Track payments and payout history.
-
-Online Booking &amp; Scheduling
-
-- International time-zone compatibility.
-- Automatic conversion of lesson times to the student's local time.
-- Teacher availability calendar.
-- Real-time or near-real-time booking management.
-- Automated booking confirmations and reminders.
-- Cancellation and rescheduling policies.
-- Prevention of double bookings.
-
-Online Classroom
-
-- Integrated video lessons.
-- Student and teacher communication.
-- Secure classroom access.
-- Screen sharing and interactive learning tools where supported.
-- Integration with a reliable third-party video provider if necessary.
-
-Payment System
-
-- Secure international payment processing.
-- Student payments for individual lessons.
-- Future subscription and package options.
-- Automatic commission calculation.
-- Teacher earnings dashboard.
-- Teacher payout management.
-- Refund and cancellation workflows.
-- Payment records and transaction history.
-
-The payment architecture should support a marketplace model where the platform earns a commission from each completed lesson.
-
-Administrator Dashboard
-
-- Manage students and teachers.
-- Review and approve teacher applications.
-- Verify qualifications and documents.
-- Manage courses and learning programs.
-- Manage bookings and disputes.
-- Monitor payments, commissions and payouts.
-- Manage website content and pricing.
-- View platform statistics and reports.
-- Manage reviews, complaints and user accounts.
-
-3. International Expansion &amp; Future Features
-
-The website must be designed to allow future development, including:
-
-- Multiple languages, initially English and Arabic.
-- Additional countries and international markets.
-- Multiple currencies.
-- Monthly and annual student subscriptions.
-- IELTS and TOEFL preparation.
-- Business English programs.
-- Corporate and university partnerships.
-- Group lessons and classroom sessions.
-- AI-assisted learning features.
-- Mobile application integration in the future.
-- Referral and affiliate programs.
-- Advanced reporting and analytics.
-
-These features do not all need to be developed in the first phase. However, the architecture must allow them to be added without major redevelopment.
-
-4. Design &amp; User Experience
-
-We expect:
-
-- Premium, modern and trustworthy design.
-- Simple navigation.
-- Excellent mobile, tablet and desktop compatibility.
-- Fast loading times.
-- Professional teacher profile layouts.
-- Interactive dashboards.
-- Clear booking and payment journeys.
-- Accessible and user-friendly interfaces.
-
-We will provide design references and branding direction during development.
-
-5. SEO, Security &amp; Performance
-
-The developer must implement:
-
-- SEO-friendly URLs and website structure.
-- Technical SEO foundations.
-- Schema markup where appropriate.
-- XML sitemap and robots.txt.
-- SSL and secure authentication.
-- Role-based access permissions.
-- Secure document uploads.
-- Data protection and privacy controls.
-- Website backups.
-- Performance optimization.
-- Basic security hardening.
-- Error monitoring and logging.
-
-6. Development Quality &amp; Future Maintenance
-
-This is a critical requirement.
-
-We need a platform that another professional developer or development company can take over easily in the future.
-
-The developer must provide:
-
-- Clean and maintainable code.
-- Properly structured database.
-- Technical documentation.
-- Installation and deployment documentation.
-- API documentation where applicable.
-- Complete source code ownership and access.
-- All administrator credentials.
-- Plugin and third-party service inventory.
-- Clear instructions for future modifications.
-- No proprietary developer lock-in.
-- No unnecessary dependency on expensive proprietary tools.
-
-All website files, source code, database, design assets and configurations must be handed over upon completion.
-
-7. Hosting &amp; Infrastructure
-
-Our existing Hostinger plan should be evaluated before development.
-
-We prefer to use it if it can reliably support the selected architecture.
-
-If the proposed platform requires VPS, cloud hosting, external video infrastructure or other services, the developer must explain why and provide estimated monthly costs.
-
-We do not want unexpected infrastructure expenses.
-
-8. Project Delivery &amp; Milestones
-
-We prefer milestone-based development:
-
-1. Technical consultation and architecture recommendation.
-2. Website design and user interface approval.
-3. Core website and database development.
-4. Student and teacher registration and dashboards.
-5. Booking, scheduling and time-zone integration.
-6. Video classroom and payment integration.
-7. Administrator dashboard.
-8. Security, SEO and performance testing.
-9. Final testing, deployment and documentation.
-10. Complete handover and developer training.
-
-Each milestone must be demonstrated and approved before payment.
-
-9. Developer Qualifications
-
-We are looking for developers with proven experience in:
-
-- Online learning platforms (LMS).
-- Multi-vendor marketplaces.
-- Booking and scheduling systems.
-- International payment integrations.
-- API integrations.
-- WordPress or custom full-stack development.
-- Scalable database architecture.
-- Security and performance optimization.
-
-Previous experience building tutoring platforms, teacher marketplaces or similar booking systems is highly preferred.
-
-10. What to Include in Your Proposal
-
-Please provide:
-
-1. Your recommended technology stack and why.
-2. Whether our Hostinger plan is suitable.
-3. Examples of similar platforms you have developed.
-4. Your proposed development architecture.
-5. Estimated development timeline.
-6. Total development cost, broken down by milestone.
-7. Estimated monthly third-party and hosting costs.
-8. Post-launch maintenance options.
-9. Confirmation that full source code and ownership will be transferred.
-
-Our Priority
-
-We are looking for the best long-term technical solution, not simply the cheapest website.
-
-We want professional finishing, reliable functionality, excellent user experience, manageable operating costs, and a scalable platform that can grow into an international online education business.
-
-Please do not submit generic proposals or recommend a ready-made template without explaining how it will meet the complete project requirements.</description></item>
 <item><title>Build WordPress E-Commerce Store</title><link>https://www.freelancer.com/projects/frontend-development/Build-WordPress-Commerce-Store</link><guid isPermaLink="false">freelancer:40802395</guid><pubDate>Wed, 04 Nov 2026 10:27:33 GMT</pubDate><description>15-25 USD/hr | Currently, we have a business website that needs to be developed urgently. I need the assistance of a senior WordPress website developer. I need to complete the entire website within 2 days. The website does not have a shopping function; all it has is front-end UI display. The developer must be highly proficient in front-end development and must be a senior WordPress developer. The project will take 2 weeks. We have two similar websites that need to be processed. The MVP version should be completed within 2 days, and then 3-4 days will be spent on modifications and iterative updates. After that, we will start the second website. The developer is required to be fully committed to my project around the clock.And it is necessary to start working immediately.</description></item>
 <item><title>Senior WordPress &amp; Elementor Developer | Potential Long-Term Monthly Contract</title><link>https://www.freelancer.com/projects/css/Senior-WordPress-Elementor-Developer</link><guid isPermaLink="false">freelancer:40802122</guid><pubDate>Wed, 04 Nov 2026 07:23:03 GMT</pubDate><description>250-750 USD | I'm looking for a rockstar WordPress developer to become my go-to technical partner for managing multiple client websites.
 
@@ -933,6 +683,182 @@ Here’s what success looks like:
 • A walkthrough showing the structure you built, how to tweak budgets, and how to expand into new segments later.
 
 If you’ve set up profitable retargeting loops before and are comfortable marrying WordPress, Stripe, and Meta Ads Manager, please send me examples of similar projects, your turnaround time for initial Pixel set-up. All accounts and assets must remain under our business ownership</description></item>
+<item><title>Outbid.lol Clobuild a competitive ranking and claiming platformne With Admin</title><link>https://www.freelancer.com/projects/html/Outbid-lol-Clobuild-competitive-ranking</link><guid isPermaLink="false">freelancer:40798023</guid><pubDate>Mon, 02 Nov 2026 01:28:16 GMT</pubDate><description>250-750 USD | build a website similar to Outbid.lol, but with addons such as allowing users to post unranked listings. Users can create posts, compete for ranked positions, and claim or take over a position on a public leaderboard.
+
+The idea is to build a competitive ranking and claiming platform.
+Here's how I would approach it.
+1. Website concept
+The website would allow users to:
+Create a listing: 	A user posts something they want to rank.
+A User could have no account as like outbid.lol if he    only to post a ranked listing. if the user wants to post unranked listings or both, he needs to have an account.
+Claim a position: Other users can claim an available ranking position.
+Compete for rankings: Users can challenge or outbid the current position holder.
+Display a leaderboard: Show who currently holds each position (1st to 20th). Listings below 20th are unranked and positioned by random searching.
+Track activity: Show recent claims, challenges, and ranking changes.
+Manage profiles: Users have accounts, usernames, and ranking histories.
+
+2. Main website pages
+Page
+Features
+Home
+Home button, categories button;
+Register button, Login button, 
+Trending lists and popular rankings
+15 or more ranked listing (under :all: category) and randomly drawn listings
+and related information, such as privacy
+Explore
+Browse all public lists
+Create list
+Publish a new ranking list
+List details
+View positions and claim them
+Leaderboard
+Show top-ranked users
+User profile
+Claimed positions and history
+Dashboard
+Admin panel: manage categories (one level or two levels, the total number of categories is unlimited, theoretically) and fees for ranking
+Fees for ranked and unranked listings
+
+Poster: Manage your lists and claims
+Only post ranked listings, no need an account
+
+
+
+
+
+
+
+
+
+
+Image 
+title
+Ranked /unranked 
+categories
+position
+Amount 
+
+
+URL or #candle
+
+
+Home / 
+cat 1
+
+
+(pay)
+
+
+description
+
+
+
+
+
+
+
+
+
+
+A fees table will show
+Comparing minimum amount for position and the amount user choosing, if user’s amount greater than the minimum amount for the position, the process will proceed
+Use dodopayments.com as payment processor
+Should be able to take ApplePay, GooglePay, PayPal, Credit cards, ACH
+3. How the ranking system should work
+
+Based on the actual Outbid.lol model, the central mechanic is:
+A person submits their website, product, or social media profile.
+They choose how much they want to pay.
+Higher payments receive higher positions (an increment must be met for a higher position).
+Anyone can submit a higher bid to climb the leaderboard.
+If someone increases their own bid, they only pay the difference.
+Once payment is confirmed, the leaderboard updates automatically.
+With more higher bidding, the lowered previous bidding will be kept to lower position in order, for example, with 2 higher biddings added on, the initial 10th bidding will be moved down to 12th position, always above unranked listings
+
+For example:
+Rank
+Product
+Total bid
+#1
+Product A
+$500
+#2
+Product B
+$300
+#3
+Product C
+$150
+#4
+Product D
+$50
+
+If someone bids $550 (suppose the minimum increment is $50), they become #1. Equal bids should be ordered by who paid first. This follows the core ranking model described by Outbid.lol.
+
+If the minimum increment is $20, a user bids $320 will get his listing the #2 position.
+
+A difference from outbid.lol:
+A poster can submit an unranked listing at a plain fee, for example $10 per month, or at a discounted fee: $100 for a year, and this fee is nonrefundable.
+Unranked listing can’t be upgraded to ranked listing
+
+
+4. Recommended technology
+I'd recommend this stack for a scalable first version:
+Component
+Technology
+Frontend
+Next.js
+Design
+Tailwind CSS
+Database
+Supabase / PostgreSQL
+Authentication
+Supabase Auth
+Payments
+Stripe or another supported payment provider, or use payment processor such as dodopayments.com
+
+
+Hosting
+Vercel
+AI features
+OpenAI API
+
+
+
+Important backend features:
+Automatic ranking calculations.
+Secure payment verification through webhooks.
+Duplicate listing detection.
+User account management.
+Bid and payment history.
+Admin dashboard and moderation.
+Important: Never update a ranking just because the user clicked Pay. Only update it after verified payment confirmation.
+
+
+5. Design direction
+I'd suggest a modern dark interface with:
+Black or charcoal background.
+Purple/blue accent colors.
+Large #1 leaderboard spotlight.
+Clear bid amounts.
+Green claim buttons.
+Live ranking updates.
+Responsive mobile layout.
+
+
+How should people claim a ranked position?
+1. Ranking / claiming method
+Paid bidding — users pay to claim or outbid positions, like Outbid.lol.
+Free claiming — users claim available positions without paying.
+Both — free listings with paid upgrades to higher positions.
+
+2. What can people post?
+Websites, products, and AI tools
+Anything — users create their own lists and rankings
+People, profiles, and social media accounts
+Custom categories and user-created leaderboards
+
+the complete website, including frontend, backend, database, payment integration, and admin and poster dashboard.</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
