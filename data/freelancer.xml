@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Mortgage Broker Education Website</title><link>https://www.freelancer.com/projects/wordpress/Mortgage-Broker-Education-Website</link><guid isPermaLink="false">freelancer:40802883</guid><pubDate>Wed, 04 Nov 2026 16:40:17 GMT</pubDate><description>250-750 CAD | I’m a licensed mortgage broker based in Canada and I’m ready to build a polished online presence that focuses on educating my visitors. The site’s core goal is to provide clear, trustworthy guidance on reverse mortgages so homeowners aged 55 and over, their adult children, and anyone considering home-equity-based retirement income can quickly find the answers they need.
+
+What I need:
+• A clean, modern website (WordPress or a similarly easy-to-manage CMS) with intuitive navigation and responsive design.  
+• Engaging copy and visuals that explain how reverse mortgages work, the pros and cons, typical rates and fees, and the overall qualification process—all written in plain language that positions me as the go-to expert.  
+• Dedicated sections that speak directly to each key audience: older homeowners, adult children supporting parents, and retirees looking to unlock equity.  
+• Basic on-page SEO so Canadians searching for reverse-mortgage information can find me quickly.  
+• Simple lead-capture forms integrated with my CRM or email platform so prospects can request a consultation in one click.  
+
+Acceptance criteria:
+1. The finished site loads correctly on mobile, tablet, and desktop.  
+2. Content is original, fact-checked, and clearly outlines reverse-mortgage benefits, risks, and next steps.  
+3. Contact/consultation form successfully delivers data to my specified email or CRM.  
+4. I receive full admin access plus a brief walkthrough so I can update rates, articles, or FAQs myself.
+
+If you’ve built finance or real-estate sites before—and can translate complex lending concepts into friendly, actionable content—I’d love to see your portfolio and discuss timelines.</description></item>
 <item><title>Website Revamp, API Integration &amp; Deployment</title><link>https://www.freelancer.com/projects/api-integration/Website-Revamp-API-Integration</link><guid isPermaLink="false">freelancer:40802785</guid><pubDate>Wed, 04 Nov 2026 15:38:48 GMT</pubDate><description>30-250 USD | Take code created by a 3rd party in Claude to revamp the aesthetics of an existing website and add functionality wire-framed separately in Claude by me that would call an API to look up a status. The need is to put it all together and deploy it.</description></item>
 <item><title>Virtual Clinic Website, EMR &amp; Marketing</title><link>https://www.freelancer.com/projects/web-development/Virtual-Clinic-Website-EMR-Marketing</link><guid isPermaLink="false">freelancer:40802663</guid><pubDate>Wed, 04 Nov 2026 14:04:27 GMT</pubDate><description>1500-3000 USD | I want to launch a polished virtual-clinic website that not only looks professional but actively drives new patients to our providers. The site must:
 
@@ -670,19 +686,6 @@ Your proposed platform and theme or plugin approach
 A fixed price and timeline
 Two or three relevant portfolio sites, ideally for small service businesses
 What is included after launch (for example, 30 days of bug fixes), and the yearly costs I should expect (hosting, plugins)</description></item>
-<item><title>Meta Ads &amp; Retargeting Setup</title><link>https://www.freelancer.com/projects/google-analytics/Meta-Ads-Retargeting-Setup</link><guid isPermaLink="false">freelancer:40798123</guid><pubDate>Mon, 02 Nov 2026 02:47:28 GMT</pubDate><description>30-250 AUD | We are an Australian Automotive brand and we're looking for an experienced person to set up reliable once off Meta Pixel setup for tracking and retargeting.
-Our website uses Wordpress/Elementor and Stripe checkout. We need someone to check any existing setup, set up tracking for website visits, purchase button clicks, and completed purchases, and test that everything reports correctly in Meta Events manager.
-
-Our goal is to use this data for retargeting ads, so we only need initial set up and not ongoing ads management.
-
-Here’s what success looks like:
-• Meta Pixel correctly installed on WordPress, firing all standard and purchase events tied to Stripe’s checkout flow.  
-• Custom and look-alike audiences built from previous site visitors.  
-• Creative strategy designed around dynamic product ads so each shopper sees exactly what they viewed or abandoned.  
-• Clear reporting inside Ads Manager that lets me monitor cost-per-purchase and ROAS at a glance.  
-• A walkthrough showing the structure you built, how to tweak budgets, and how to expand into new segments later.
-
-If you’ve set up profitable retargeting loops before and are comfortable marrying WordPress, Stripe, and Meta Ads Manager, please send me examples of similar projects, your turnaround time for initial Pixel set-up. All accounts and assets must remain under our business ownership</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
