@@ -3,6 +3,256 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Scalable English Tutor Marketplace</title><link>https://www.freelancer.com/projects/web-development/Build-Scalable-English-Tutor-Marketplace</link><guid isPermaLink="false">freelancer:40802407</guid><pubDate>Wed, 04 Nov 2026 10:36:22 GMT</pubDate><description>250-750 CAD | Project Title
+
+Build a Professional International Online English Learning Platform – Scalable, Interactive Website &amp; Teacher Marketplace
+
+Project Overview
+
+We are looking for an experienced web development team or senior full-stack developer to design and develop a high-quality international online English learning platform connecting students worldwide with qualified English teachers.
+
+The platform will operate as an international marketplace where students can discover teachers, compare profiles, book lessons, make secure online payments, attend online classes, and track their learning progress.
+
+We want a modern, professional, highly interactive website with excellent user experience, responsive design, and a scalable technical foundation.
+
+Important: This is not a basic informational website or a standard WordPress template project. We need a functional online learning marketplace with separate student and teacher dashboards, booking systems, payment integration, and administrative controls.
+
+1. Technical Requirements &amp; Development Approach
+
+We already have an active Hostinger hosting plan and prefer to use our existing infrastructure if technically suitable.
+
+The developer must recommend the best technology and architecture based on:
+
+- High performance and website speed.
+- Security and protection of user information.
+- Scalability for international expansion.
+- Easy future maintenance and development.
+- Ability to add new services and features without rebuilding the platform.
+- Clean, documented, and well-organized code.
+- Avoiding unnecessary expensive plugins and monthly subscriptions.
+
+We are open to WordPress with a suitable LMS and marketplace architecture, or a custom development solution if it provides significantly better long-term value.
+
+The developer must explain the recommended technology, hosting compatibility, limitations, and ongoing costs before development begins.
+
+2. Main Website Features
+
+Public Website
+
+- Professional homepage and modern branding.
+- About Us and Contact pages.
+- Browse and search English teachers.
+- Teacher profile pages with photos, introduction videos, qualifications and experience.
+- Course and learning program pages.
+- Pricing and subscription pages.
+- FAQ and educational resources.
+- SEO-friendly website structure.
+
+Student Dashboard
+
+- Student registration and login.
+- Personal profile and account management.
+- Search and select teachers.
+- View teacher availability.
+- Book, reschedule and cancel lessons.
+- Online payment and booking history.
+- Upcoming lessons and notifications.
+- Access to online classrooms.
+- Learning progress and lesson history.
+- Teacher reviews and ratings.
+
+Teacher Dashboard
+
+- Teacher registration and application.
+- Profile creation and management.
+- Upload qualifications and supporting documents.
+- Identity and credential verification workflow.
+- Approval by administrator before becoming publicly available.
+- Set availability and working hours.
+- International time-zone management.
+- Manage bookings and students.
+- View completed lessons and earnings.
+- Track payments and payout history.
+
+Online Booking &amp; Scheduling
+
+- International time-zone compatibility.
+- Automatic conversion of lesson times to the student's local time.
+- Teacher availability calendar.
+- Real-time or near-real-time booking management.
+- Automated booking confirmations and reminders.
+- Cancellation and rescheduling policies.
+- Prevention of double bookings.
+
+Online Classroom
+
+- Integrated video lessons.
+- Student and teacher communication.
+- Secure classroom access.
+- Screen sharing and interactive learning tools where supported.
+- Integration with a reliable third-party video provider if necessary.
+
+Payment System
+
+- Secure international payment processing.
+- Student payments for individual lessons.
+- Future subscription and package options.
+- Automatic commission calculation.
+- Teacher earnings dashboard.
+- Teacher payout management.
+- Refund and cancellation workflows.
+- Payment records and transaction history.
+
+The payment architecture should support a marketplace model where the platform earns a commission from each completed lesson.
+
+Administrator Dashboard
+
+- Manage students and teachers.
+- Review and approve teacher applications.
+- Verify qualifications and documents.
+- Manage courses and learning programs.
+- Manage bookings and disputes.
+- Monitor payments, commissions and payouts.
+- Manage website content and pricing.
+- View platform statistics and reports.
+- Manage reviews, complaints and user accounts.
+
+3. International Expansion &amp; Future Features
+
+The website must be designed to allow future development, including:
+
+- Multiple languages, initially English and Arabic.
+- Additional countries and international markets.
+- Multiple currencies.
+- Monthly and annual student subscriptions.
+- IELTS and TOEFL preparation.
+- Business English programs.
+- Corporate and university partnerships.
+- Group lessons and classroom sessions.
+- AI-assisted learning features.
+- Mobile application integration in the future.
+- Referral and affiliate programs.
+- Advanced reporting and analytics.
+
+These features do not all need to be developed in the first phase. However, the architecture must allow them to be added without major redevelopment.
+
+4. Design &amp; User Experience
+
+We expect:
+
+- Premium, modern and trustworthy design.
+- Simple navigation.
+- Excellent mobile, tablet and desktop compatibility.
+- Fast loading times.
+- Professional teacher profile layouts.
+- Interactive dashboards.
+- Clear booking and payment journeys.
+- Accessible and user-friendly interfaces.
+
+We will provide design references and branding direction during development.
+
+5. SEO, Security &amp; Performance
+
+The developer must implement:
+
+- SEO-friendly URLs and website structure.
+- Technical SEO foundations.
+- Schema markup where appropriate.
+- XML sitemap and robots.txt.
+- SSL and secure authentication.
+- Role-based access permissions.
+- Secure document uploads.
+- Data protection and privacy controls.
+- Website backups.
+- Performance optimization.
+- Basic security hardening.
+- Error monitoring and logging.
+
+6. Development Quality &amp; Future Maintenance
+
+This is a critical requirement.
+
+We need a platform that another professional developer or development company can take over easily in the future.
+
+The developer must provide:
+
+- Clean and maintainable code.
+- Properly structured database.
+- Technical documentation.
+- Installation and deployment documentation.
+- API documentation where applicable.
+- Complete source code ownership and access.
+- All administrator credentials.
+- Plugin and third-party service inventory.
+- Clear instructions for future modifications.
+- No proprietary developer lock-in.
+- No unnecessary dependency on expensive proprietary tools.
+
+All website files, source code, database, design assets and configurations must be handed over upon completion.
+
+7. Hosting &amp; Infrastructure
+
+Our existing Hostinger plan should be evaluated before development.
+
+We prefer to use it if it can reliably support the selected architecture.
+
+If the proposed platform requires VPS, cloud hosting, external video infrastructure or other services, the developer must explain why and provide estimated monthly costs.
+
+We do not want unexpected infrastructure expenses.
+
+8. Project Delivery &amp; Milestones
+
+We prefer milestone-based development:
+
+1. Technical consultation and architecture recommendation.
+2. Website design and user interface approval.
+3. Core website and database development.
+4. Student and teacher registration and dashboards.
+5. Booking, scheduling and time-zone integration.
+6. Video classroom and payment integration.
+7. Administrator dashboard.
+8. Security, SEO and performance testing.
+9. Final testing, deployment and documentation.
+10. Complete handover and developer training.
+
+Each milestone must be demonstrated and approved before payment.
+
+9. Developer Qualifications
+
+We are looking for developers with proven experience in:
+
+- Online learning platforms (LMS).
+- Multi-vendor marketplaces.
+- Booking and scheduling systems.
+- International payment integrations.
+- API integrations.
+- WordPress or custom full-stack development.
+- Scalable database architecture.
+- Security and performance optimization.
+
+Previous experience building tutoring platforms, teacher marketplaces or similar booking systems is highly preferred.
+
+10. What to Include in Your Proposal
+
+Please provide:
+
+1. Your recommended technology stack and why.
+2. Whether our Hostinger plan is suitable.
+3. Examples of similar platforms you have developed.
+4. Your proposed development architecture.
+5. Estimated development timeline.
+6. Total development cost, broken down by milestone.
+7. Estimated monthly third-party and hosting costs.
+8. Post-launch maintenance options.
+9. Confirmation that full source code and ownership will be transferred.
+
+Our Priority
+
+We are looking for the best long-term technical solution, not simply the cheapest website.
+
+We want professional finishing, reliable functionality, excellent user experience, manageable operating costs, and a scalable platform that can grow into an international online education business.
+
+Please do not submit generic proposals or recommend a ready-made template without explaining how it will meet the complete project requirements.</description></item>
 <item><title>Build WordPress E-Commerce Store</title><link>https://www.freelancer.com/projects/frontend-development/Build-WordPress-Commerce-Store</link><guid isPermaLink="false">freelancer:40802395</guid><pubDate>Wed, 04 Nov 2026 10:27:33 GMT</pubDate><description>15-25 USD/hr | Currently, we have a business website that needs to be developed urgently. I need the assistance of a senior WordPress website developer. I need to complete the entire website within 2 days. The website does not have a shopping function; all it has is front-end UI display. The developer must be highly proficient in front-end development and must be a senior WordPress developer. The project will take 2 weeks. We have two similar websites that need to be processed. The MVP version should be completed within 2 days, and then 3-4 days will be spent on modifications and iterative updates. After that, we will start the second website. The developer is required to be fully committed to my project around the clock.And it is necessary to start working immediately.</description></item>
 <item><title>Senior WordPress &amp; Elementor Developer | Potential Long-Term Monthly Contract</title><link>https://www.freelancer.com/projects/css/Senior-WordPress-Elementor-Developer</link><guid isPermaLink="false">freelancer:40802122</guid><pubDate>Wed, 04 Nov 2026 07:23:03 GMT</pubDate><description>250-750 USD | I'm looking for a rockstar WordPress developer to become my go-to technical partner for managing multiple client websites.
 
@@ -621,23 +871,6 @@ Please include the following with your proposal:
 - A realistic price and an explanation of what it includes.
 
 Please do not submit placeholder bids or bid low simply to win the project and then request more money for the agreed scope. If you need clarification before quoting accurately, please ask. Proposals without a clear creative idea and a reference link will not be considered.</description></item>
-<item><title>WordPress College Application Site</title><link>https://www.freelancer.com/projects/web-development/WordPress-College-Application-Site</link><guid isPermaLink="false">freelancer:40798697</guid><pubDate>Mon, 02 Nov 2026 09:35:02 GMT</pubDate><description>96-156 CAD | I’m building a new WordPress-powered website for our college and the single most important feature is a smooth online application experience for prospective students. I need a developer who can set up the site, design a clean interface that matches our branding, and create a secure application form that captures:
-
-• Basic personal and contact details  
-• Education history plus the course the student is applying for  
-• Document uploads (certificates, ID, etc.)
-
-Each submission must trigger an email to our admissions team that contains every field and any uploaded files, so nothing slips through the cracks. While alternatives like a private dashboard or downloadable spreadsheets were considered, email notifications are the workflow our staff is comfortable with right now.
-
-You’re free to use tools such as Elementor, Gutenberg, Gravity Forms, WPForms, or similar—whatever delivers a reliable, responsive form and keeps spam at bay. Please ensure the form is GDPR-friendly, works flawlessly on mobile, and can be extended later if we decide to add payment or course-selection logic.
-
-Deliverables:  
-• Fully functional WordPress site hosted on our server  
-• Styled application page and form with validation and upload capability  
-• Email notification setup and tested with real data  
-• Brief hand-off guide (plugin list, how to update fields, etc.)
-
-If you’ve built comparable education or admission portals before, that’s a plus—share a link or two so I can see your approach. I’m ready to move quickly once I find the right fit.</description></item>
 <item><title>AI Automation Coaching for Non-Tech Founders</title><link>https://www.freelancer.com/projects/website-design/Automation-Coaching-for-Non-Tech</link><guid isPermaLink="false">freelancer:40798646</guid><pubDate>Mon, 02 Nov 2026 08:55:27 GMT</pubDate><description>25-50 AUD/hr | I'm seeking a 1:1 coaching session with an expert to help me automate business tasks and workflows using AI, leveraging tools like Claude Code.  
 
 Key Focus Areas:  
