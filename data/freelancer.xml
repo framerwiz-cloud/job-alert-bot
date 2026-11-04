@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Virtual Clinic Website, EMR &amp; Marketing</title><link>https://www.freelancer.com/projects/web-development/Virtual-Clinic-Website-EMR-Marketing</link><guid isPermaLink="false">freelancer:40802663</guid><pubDate>Wed, 04 Nov 2026 14:04:27 GMT</pubDate><description>1500-3000 USD | I want to launch a polished virtual-clinic website that not only looks professional but actively drives new patients to our providers. The site must:
+
+• Let patients pick a Primary Care and Obesity Medicine ; Longevity Provider and an open time slot  
+• Accept secure online payments at booking  
+• Send automated text or email reminders  
+
+For the actual visit, patients should enter a video call that runs through our existing EMR system, so seamless EMR integration is essential—scheduling, chart access, and video all need to sync without forcing patients to leave the site.
+
+Beyond the build, I also need help positioning the clinic online: clear service pages, SEO-friendly copy, basic social media hooks, and any quick-win tactics you recommend to attract traffic once we go live.
+
+Please outline:
+– Your preferred tech stack or platform for rapid deployment  
+– How you will handle the EMR API or iframe integration for video calls and records  
+– A simple plan for launch-phase promotion and metrics you will track  
+
+If you can take the project from concept through go-live marketing, let’s talk timelines and milestones.</description></item>
 <item><title>Jewellery Showcase Website Build</title><link>https://www.freelancer.com/projects/web-design/Jewellery-Showcase-Website-Build</link><guid isPermaLink="false">freelancer:40802426</guid><pubDate>Wed, 04 Nov 2026 10:57:49 GMT</pubDate><description>15-25 USD/hr | I need a clean, elegant website that lets visitors browse my fine-jewellery and everyday pieces, fall in love with them, and get in touch with me instantly via WhatsApp or a click-to-call button. The site is for showcasing, not direct checkout, so the focus is on beautiful product galleries, smooth navigation between collections, and prominent contact triggers on every item page.
 
 Here’s what I’m looking for:
@@ -130,23 +146,6 @@ Ideal Skills and Experience:
 - Strong communication skills for collaboration and updates
 
 Please include detailed project proposals in your application.</description></item>
-<item><title>Healing Soul Market</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/Healing-Soul-Market</link><guid isPermaLink="false">freelancer:40801425</guid><pubDate>Tue, 03 Nov 2026 20:25:28 GMT</pubDate><description>250-750 USD | I’m launching an online store that will carry well over 100 physical products and I want the entire shopping experience to feel fast, trustworthy, and unmistakably on-brand. The platform will be Shopify, so deep knowledge of Liquid, theme customization, product‐bulk-upload workflows, and Shopify’s native SEO settings is essential. Beyond getting the catalogue online, I also need rock-solid payment, tax, and shipping rules configured so every order can be fulfilled without manual fixes.
-
-Strong conversion rate optimisation is equally important. That means clean information architecture, persuasive product pages, upsell opportunities, abandoned-cart flows, and a checkout that loads in seconds on both mobile and desktop. Page speed targets are sub-3 s with a Google PageSpeed score of 85 +.
-
-To make expectations crystal-clear, here’s what I consider a complete hand-off:
-
-• Custom Shopify theme that mirrors my brand guidelines, is responsive, and passes WCAG AA colour/contrast checks  
-• Bulk upload (CSV or API) of the initial product set with variants, high-res images, meta data, and collection tags in place  
-• Fully configured checkout, payment gateways, automated tax, and zone-based shipping rates  
-• Core on-page SEO: schema markup, meta titles/descriptions, clean URLs, and compressed media  
-• Speed optimisation: lazy loading, code minification, and image/webP implementation  
-• Google Analytics 4 and Facebook/Meta Pixel installed and firing correctly for each funnel step  
-• Written SOP or short Loom walkthrough showing my team how to add new products and manage orders
-
-I’m ready to provide brand assets, product data, and copy as soon as we kick off, and I’m happy to work in milestones—design approval, theme build, catalogue import, then final QA—so you’re never waiting on feedback. If you have recent large-SKU Shopify builds in your portfolio, I’d love to see them.
-
-Please begin your proposal with the words "Shopify Expert" and include links to at least three Shopify stores you have personally built or optimized.</description></item>
 <item><title>Holistic Women’s Wellness Website and app</title><link>https://www.freelancer.com/projects/web-development/Holistic-Women-Wellness-Website</link><guid isPermaLink="false">freelancer:40801417</guid><pubDate>Tue, 03 Nov 2026 20:20:39 GMT</pubDate><description>30-250 AUD | Yoga and massage and birth/women's work website with app</description></item>
 <item><title>Add Search Functionality to Website</title><link>https://www.freelancer.com/projects/web-development/Add-Search-Functionality-Website</link><guid isPermaLink="false">freelancer:40801382</guid><pubDate>Tue, 03 Nov 2026 19:35:06 GMT</pubDate><description>30-250 USD | I need a stop and search criteria added to the cart section of my website. I need this section to recognize a specific class of items stop the transaction and allow visitors to search for a business near them. Visitors should be able to search for locations by postcode or ZIP code.
 
