@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
+The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
+Scope of Work
+Review the supplied project requirements and help develop a complete technical proposal with a clear implementation approach, architecture diagrams, staffing plan, effort estimates, delivery milestones, risks and requirements traceability.
+Define the Azure hosting architecture, including separate staging and production environments, infrastructure as code using Bicep, CI/CD pipelines, monitoring, backup, disaster recovery, security controls and a migration plan with validation and rollback procedures.
+Plan Umbraco modernization from existing v8 or v13 installations to an appropriate supported version. Assess content migration, custom integrations, back-office extensions, ASP.NET Core compatibility and editor workflows.
+Develop prototype wireframes and presentation materials demonstrating responsive navigation, searchable document libraries, metadata filtering, glossary and citation interactions, bookmarks, saved searches and content review workflows.
+Address Section 508 accessibility, WCAG conformance, USWDS design, automated and manual testing, accessible PDFs, security assessment evidence and Google Analytics reporting.
+Required Skills and Certifications
+I am looking for the following qualifications across the proposed team. Individual specialists may apply for their area of expertise; one person is not expected to hold every certification.
+Solutions Architect / Technical Lead: 10+ years of experience; strong .NET and Azure architecture skills; Microsoft Certified: Azure Solutions Architect Expert; experience supporting federal cloud authorization.
+Senior Umbraco / .NET Developer: Umbraco certification; 6+ years of ASP.NET Core experience; demonstrated Umbraco upgrades or migrations from v8 and v13.
+Azure / DevSecOps Engineer: Azure certifications covering AZ-104 and AZ-305; Bicep expertise; 5+ years of regulated hosting experience.
+Accessibility Specialist: DHS Trusted Tester certification; 5+ years of accessibility testing and remediation experience, including Section 508 and accessibility conformance reporting.
+Information Security Specialist: CISSP or CISM; hands-on NIST SP 800-53 assessment experience; familiarity with RMF, authorization documentation and continuous monitoring.
+UX/UI Designer: Federal USWDS project experience and a relevant portfolio.
+QA / Test Engineer: ISTQB certification or equivalent qualification; practical Playwright experience.
+Analytics Specialist: Google Analytics certification and experience with GA4 configuration, reporting and website performance measurement.</description></item>
 <item><title>Revamp My Duda Site</title><link>https://www.freelancer.com/projects/web-design/Revamp-Duda-Site</link><guid isPermaLink="false">freelancer:40803145</guid><pubDate>Wed, 04 Nov 2026 19:43:55 GMT</pubDate><description>25-50 USD/hr | I built my website have had a Duda site for life and need it modern and clear look and 
 
 Here’s what I need from you:  
