@@ -3,6 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Humanitarian Mission Showcase Website - NO</title><link>https://www.freelancer.com/projects/web-design/Humanitarian-Mission-Showcase-Website</link><guid isPermaLink="false">freelancer:40802569</guid><pubDate>Wed, 04 Nov 2026 12:53:10 GMT</pubDate><description>250-750 EUR | I’m looking for a developer-designer who can build a clean, accessible site that tells our humanitarian organisation’s story and inspires donors and volunteers to act. The chief aim is to explain our mission and the work we carry out in the field, so the site must prioritise clear narrative flow, strong imagery and concise impact data.
+
+A lightweight CMS such as WordPress will work. The look and feel should match our existing logo and colour palette (brand files supplied) and meet modern standards for responsiveness, page-speed and WCAG 2.1 AA accessibility.
+
+Deliverables
+• Fully functional, responsive website on our domain  
+• Editable CMS with page templates for Mission, Projects, Impact, Volunteer and Contact  
+• Handover assets: source files, credentials and a short guide or screen-recorded walkthrough for future updates</description></item>
 <item><title>Jewellery Showcase Website Build</title><link>https://www.freelancer.com/projects/web-design/Jewellery-Showcase-Website-Build</link><guid isPermaLink="false">freelancer:40802426</guid><pubDate>Wed, 04 Nov 2026 10:57:49 GMT</pubDate><description>15-25 USD/hr | I need a clean, elegant website that lets visitors browse my fine-jewellery and everyday pieces, fall in love with them, and get in touch with me instantly via WhatsApp or a click-to-call button. The site is for showcasing, not direct checkout, so the focus is on beautiful product galleries, smooth navigation between collections, and prominent contact triggers on every item page.
 
 Here’s what I’m looking for:
@@ -911,42 +919,6 @@ The ideal candidate should have:
 - Knowledge of SEO and digital marketing to help drive traffic to the store
 
 Please include past work in your application, especially any relevant to e-commerce or brand launches.</description></item>
-<item><title>Clean, modern website for a small HR systems consultancy (WordPress, about 6 pages)</title><link>https://www.freelancer.com/projects/web-development/Consulting-Site-Build</link><guid isPermaLink="false">freelancer:40798108</guid><pubDate>Mon, 02 Nov 2026 03:01:50 GMT</pubDate><description>30-250 USD | About the business
-Passerelle HR LLC is a new Chicago-based consultancy that builds customized HR systems for small companies and then supports them month to month. We also offer HR administration (payroll, onboarding, hiring support) as an add-on. I’m looking for a clear, credible, professional website that explains this simply and makes it easy to get in touch.
-
-Pages needed
-Home: a short statement of what we do, who it’s for, and how it works in three steps, with a clear “Contact us” button.
-Services: the System Build, Monthly Support, and HR Administration, with a short description of each and a link to the contact form. A list of the ten HR systems we can build (I will supply the text).
-How it works: our 5-step method and a typical 4 to 8 week timeline per system.
-About: my background and credentials, with a photo (I will supply the text).
-Resources: a simple blog or guides section for future articles.
-Contact: a simple form that sends to my business email, plus the Chicago address and phone number.
-
-Also needed: privacy policy and terms pages (a template is fine), and a short note that we do not use AI to screen or rank job candidates.
-
-Not needed now: online payments, client login, or an online shop. Testimonials and case studies will be added later by me, so please include an easy-to-edit section for them, but no placeholder reviews.
-
-Technical requirements
-Built on WordPress or a similarly easy platform, so I can edit text, images and posts myself.
-Mobile-first, fast-loading, working on all major browsers and devices.
-Basic on-page SEO, Google Analytics, and a contact form that reliably delivers email.
-English-language site. A French version of the home page is a possible later add-on, so please say if your quote could include it.
-
-Important constraints
-My domain is registered at Namecheap and my email is on Zoho Mail. Please do not change or delete any mail-related DNS records (MX, SPF, DKIM, DMARC), and only add the records needed to point the domain at the website. If possible, host the site so that I keep control of the domain.
-The domain, hosting account, WordPress admin and all files must be in my name and handed over to me at the end.
-
-Acceptance criteria
-The site displays correctly on all major browsers and devices.
-Test submissions of the contact form reach my inbox.
-I receive a short video or live session showing how to edit pages, add a blog post and update images.
-I have all logins, source files and licences for any themes or plugins.
-
-Please include in your reply
-Your proposed platform and theme or plugin approach
-A fixed price and timeline
-Two or three relevant portfolio sites, ideally for small service businesses
-What is included after launch (for example, 30 days of bug fixes), and the yearly costs I should expect (hosting, plugins)</description></item>
 <item><title> Glenunga Croquet Club Inc</title><link>https://www.freelancer.com/projects/content-management-system/Glenunga-Croquet-Club-Inc</link><guid isPermaLink="false">freelancer:40796948</guid><pubDate>Sun, 01 Nov 2026 07:28:44 GMT</pubDate><description>8-15 AUD/hr | I’m ready to give our sporting club a fresh, modern online hub focused squarely on attracting new members. When a visitor lands on the site, I want them to see at a glance what it costs to join, the perks they’ll enjoy, and the exact steps they need to follow. From there, the path to membership should be obvious: pick up the phone or drop us an email—no forms or payment gateways for now.
 
 A clean, mobile-first design is critical. I’d like a simple structure—home page, membership &amp; joining info, an “about the club” snapshot, plus an easy-to-spot contact section—built on a platform such as WordPress, Webflow, or something similarly user-friendly so I can refresh photos and text myself. Fast load times, clear navigation, and basic on-page SEO setup are all part of the brief because local search visibility really matters.
