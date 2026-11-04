@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>US &amp; Canada Local Photo Contributors</title><link>https://www.freelancer.com/projects/content-creation/Canada-Local-Photo-Contributors</link><guid isPermaLink="false">freelancer:40803390</guid><pubDate>Wed, 04 Nov 2026 23:35:40 GMT</pubDate><description>30-250 USD | Title: Photographers Needed in the US and Canada — US$0.50 per Approved Photo
+
+I’m looking for freelancers currently located in the United States or Canada to take original photos for my new website.
+
+Photos may include places, local scenery, everyday life, and people. I will provide specific subjects and instructions before you begin.
+
+Requirements:
+- You must be physically located in the US or Canada.
+- Photos must be clear, well-lit, in focus, and follow the provided instructions.
+- Good smartphone photos are welcome.
+- All photos must be original and taken by you. No stock photos, copied images, or AI-generated images.
+- You must have the necessary permissions for website use, including consent from recognizable people.
+
+Payment and Review:
+- Payment is US$0.50 per approved photo.
+- I will check each submitted photo against the requirements agreed before work begins.
+- Only photos that pass the review will be paid for.
+- Rejected photos will not be paid for or used.
+- We will agree on the subjects, number of photos, submission deadline, and review timeframe before starting.
+- Approved and paid photos will be used on my website.
+
+To Apply:
+Please include your city and country, a few examples of your photography, and the types of subjects or locations you can photograph.</description></item>
 <item><title>AI-Powered Ecommerce Traffic Boost</title><link>https://www.freelancer.com/projects/ai-automation/Powered-Ecommerce-Traffic-Boost</link><guid isPermaLink="false">freelancer:40799744</guid><pubDate>Wed, 04 Nov 2026 23:27:20 GMT</pubDate><description>250-750 USD | I run an ecommerce store that already attracts a steady flow of visitors, but I want to explore unconventional methods to boost sales and drive high-quality traffic. I’m looking for innovative approaches beyond traditional Google SEO and Facebook ads, such as leveraging AI or any cutting-edge marketing strategies. The focus is on channeling qualified buyers toward my top-performing products and increasing overall revenue, not just clicks.
 
 Scope of work:
@@ -818,60 +841,6 @@ Additional preferences:
 • Clear communication without heavy accents due to my slight hearing difficulty.
 
 I’d like the site ready to launch within a month. You’re welcome to suggest a lightweight theme or build a custom one—speed and clarity matter more than elaborate design. Let me know your approach, which CMS you propose, and any similar spiritual or personal-blog work you’ve done.</description></item>
-<item><title>Secure Multi-Tenant AI Video Editing, Distribution, and Project Manager Platform</title><link>https://www.freelancer.com/projects/claude-code/Secure-Multi-Tenant-Video-Editing</link><guid isPermaLink="false">freelancer:40799337</guid><pubDate>Mon, 02 Nov 2026 16:32:13 GMT</pubDate><description>250-750 USD | Title: Senior engineer (Claude Code + security) to turn our AI video-editing factory into a secure, multi-client product
-
-About us
-We’re a media distribution brand that makes a lot of short vertical video ads for TikTok and Instagram. Over the last few months we built an in-house AI “creative factory” with Claude Code. It does the work of a video editor: it picks up tasks from our project board and edits the raw creator footage into a finished ad. A human reviews and approves, and only then is the final file rendered and delivered.
-
-It works, but it’s a prototype: it runs on one Mac, the keys sit in a .env file, and it’s built for one company. We want an engineer to make it professional, secure and repeatable so it can run for several businesses, each with its own brand, accounts and data.
-
-What exists today
-
-Pipeline: Node 22 server with SQLite. Stations are Intake → Edit → QA → Human review → Render → Delivery. A live “factory floor” web UI shows the jobs moving between stations.
-Workers: Python plus ffmpeg. Transcription (ElevenLabs Scribe), an assembly cut (best take of each line, retakes and dead air removed), and an LLM-planned main edit (captions, overlays, product shots, zooms) through OpenRouter (Claude, plus Gemini as a QA judge).
-Editor: each ad is an editable timeline project in an open-source web video editor (a customised OpenFilm Studio). The reviewer can open each timeline, change it and approve it.
-Integrations: the Asana API (task pickup, custom fields), the Frame.io V4 API (delivery) and Google Drive (footage).
-Guardrails: Claude Code hooks, subagents and skills, plus spend caps per day and per job.
-
-What we want built
-
-A cloud deployment. Everything runs on a server: footage never touches a laptop, and nothing is rendered until a human approves.
-A desktop workstation app for Mac. It’s a thin client: several jobs open at once, each in its own timeline window, all streamed from the cloud.
-Multi-tenancy. Each business gets its own isolated workspace: data, footage, brand kit, API connections, spend limits and users.
-Repeatable onboarding. Adding a new business should be config, not code: connect Asana, Drive and Frame.io, upload brand assets, set the rules.
-Production quality: CI, tests, monitoring, logs, backups and documentation.
-
-Must-haves
-
-Strong, hands-on Claude Code experience: CLAUDE.md, subagents, skills, hooks, MCP servers, and ideally the Claude Agent SDK and headless runs. Please show real examples.
-Cybersecurity, applied. We will test you on:
-secrets management and least-privilege service accounts
-tenant isolation (one client can never see another client’s footage or keys)
-zero-trust access to internal tools (no exposed admin ports)
-webhook signature checks
-prompt-injection defence: our agents read task text, scripts and comments, which are untrusted input
-supply-chain hygiene (pinned dependencies) and audit logs
-Node.js and Python in production, Linux servers, ffmpeg or other media-pipeline experience.
-Clear written English and async communication.
-
-Nice to have
-
-Swift or desktop-app experience (Tauri or native macOS)
-Experience with video at scale (proxies, streaming, GPU or headless rendering)
-Hetzner, Modal, AWS, or Cloudflare (Access/Tunnel)
-SOC 2-style thinking: access reviews, data retention, incident response
-
-How to apply (answers without these will be skipped)
-
-Start your bid with the word “VSRL”.
-Describe a Claude Code hook, subagent or MCP server you’ve built, and what it did.
-In 3–5 sentences: how would you stop an AI agent from following instructions hidden in a client’s task description?
-How would you isolate tenants’ files and API keys on a shared server?
-Links to relevant work (GitHub, case studies).
-
-Budget: $300 / Month (negotiable)  · Longterm job - at least for the next 6 months.
-We’ll share the full architecture under an NDA after an interview.
-Contract under USA cybersecurity and copyright laws.</description></item>
 <item><title>AI Automation Coaching for Non-Tech Founders</title><link>https://www.freelancer.com/projects/website-design/Automation-Coaching-for-Non-Tech</link><guid isPermaLink="false">freelancer:40798646</guid><pubDate>Mon, 02 Nov 2026 08:55:27 GMT</pubDate><description>25-50 AUD/hr | I'm seeking a 1:1 coaching session with an expert to help me automate business tasks and workflows using AI, leveraging tools like Claude Code.  
 
 Key Focus Areas:  
