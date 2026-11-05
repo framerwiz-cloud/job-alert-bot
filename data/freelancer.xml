@@ -3,41 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Interactive Overture Website Redesign</title><link>https://www.freelancer.com/projects/frontend-development/Interactive-Overture-Website-Redesign</link><guid isPermaLink="false">freelancer:40804251</guid><pubDate>Thu, 05 Nov 2026 10:45:56 GMT</pubDate><description>30-250 USD | Freelance Frontend Designer — Overture Website Redesign
-Remote · Fixed-price project ·· Delivery by 12 November 2026
-
-Overture helps experienced professionals explore career pathways grounded in their experience and research businesses where they could contribute.
-
-We’re looking for a frontend designer to redesign our public website, myoverture.xyz, making the product clear within seconds through thoughtful design, interactive demonstrations and purposeful motion.
-The project
-Design four public-facing pages:
-- Homepage: Show the journey from someone’s own words to possible career pathways and researched businesses.
-- AI Guidance: Explain what people provide, the guidance they receive and how they can use it.
-- Ongoing plans: Compare options and explain how ongoing research works.
-- Request an invite: Explain the invitation process and what happens after submission.
-The website should clearly distinguish career possibilities from vacancies or promises, and show that users retain control over decisions and outreach.
-First milestone
-Start with two distinct homepage concepts, then develop the selected direction into:
-- Desktop and mobile designs.
-- A working React prototype demonstrating the key interactions.
-Please quote this milestone separately from the three follow-on page designs. This is a design engagement with an interactive prototype as a deliverable.
-Design direction
-Build on Overture’s existing v6.1 product interface, using Manrope and Instrument Sans, a neutral palette and burnt-orange actions.
-
-We’re looking for a clear, product-led visual direction with visible network connections and motion that helps explain the experience. Avoid editorial styling. Use Three.js only where it adds clarity to an interaction.
-
-The supplied stack is Next.js, React, React Aria Components and Tailwind CSS.
-Who we’re looking for
-A designer with strong experience in interactive product websites, responsive layouts and React prototyping. You should be able to turn a complex product into a clear visual story and use motion with purpose.
-
-Strong work may lead to a separate platform design engagement.
-How to apply
-Please include:
-- Two live examples of interactive product work.
-- Your specific contribution to each.
-- A fixed price and timeline for the homepage milestone.
-- A separate quote for the three follow-on pages.
-- Confirmation of your availability to deliver by 12 November 2026.</description></item>
 <item><title>Ongoing Webflow Site Enhancements</title><link>https://www.freelancer.com/projects/web-design/Ongoing-Webflow-Site-Enhancements</link><guid isPermaLink="false">freelancer:40804005</guid><pubDate>Thu, 05 Nov 2026 08:11:42 GMT</pubDate><description>30-250 AUD | We are looking for an experienced Webflow designer/developer to help us make ongoing updates and improvements to our website. This includes editing and updating photos, text, website content, and general design elements.
 
 As a startup, we are currently working with a limited budget, so we are looking for someone who is flexible, budget-conscious, and willing to work with us to find affordable solutions.
@@ -821,6 +786,18 @@ Ideal Skills and Experience:
 - Strong communication skills for collaboration and updates
 
 Please include detailed project proposals in your application.</description></item>
+<item><title>HTML Contact Form Integration</title><link>https://www.freelancer.com/projects/lamp/HTML-Contact-Form-Integration</link><guid isPermaLink="false">freelancer:40801550</guid><pubDate>Tue, 03 Nov 2026 22:54:27 GMT</pubDate><description>30-250 USD | I need to add a simple contact form to my existing website, styled to match the current look and feel. The form only needs three fields—name, email address, and message—and, once submitted, it should fire a PHP script that emails the collected details to a single recipient address I’ll supply. After a successful send, visitors must be redirected automatically to a separate thank-you page (not just an on-page message).
+
+I already have the php POST script and form HTML, just need it to work and CSS it.
+
+Please code the form in clean, standards-compliant HTML5, validate inputs server-side in PHP, and keep everything lightweight—no external frameworks are required. Make sure the mail function is dependable on a typical LAMP stack, with clear variables so I can change the destination address later if needed.
+
+Deliverables:
+• Contact-form markup and CSS that blends with my site  
+• PHP handler script with input sanitization and email delivery  
+• Brief read-me outlining where to drop the files and how to change the destination address
+
+Once I confirm the form redirects properly and the test message reaches my inbox, we’re done.</description></item>
 <item><title>Magazine Production &amp; Digital Operations VA</title><link>https://www.freelancer.com/projects/wordpress/Magazine-Production-Digital-Operations</link><guid isPermaLink="false">freelancer:40800991</guid><pubDate>Tue, 03 Nov 2026 15:08:42 GMT</pubDate><description>5-10 GBP/hr | # Magazine Production &amp; Digital Operations VA | WordPress, Facebook &amp; AI
 
 **Remote | 10–15 hours per week initially | Potential 40 hours per week from January 2027**
