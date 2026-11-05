@@ -40,30 +40,6 @@ Deliverables
 
 I’m aiming to have everything live within a week, so please factor that timeline into your proposal.</description></item>
 <item><title>Boutique Real Estate Brand Refresh</title><link>https://www.freelancer.com/projects/branding/Boutique-Real-Estate-Brand-Refresh</link><guid isPermaLink="false">freelancer:40799983</guid><pubDate>Thu, 05 Nov 2026 05:50:27 GMT</pubDate><description>250-750 USD | I’m ready to elevate my personal real-estate identity. I already have a logo and website created but part of the naming on it I cannot use due to a state regulation. My branding colors are fine but I am open to tweaking things. Because I’m a single agent operating under a larger brokerage, this brand will be my calling card, and I want a creative partner who can help me clarify exactly who I am in this space before we put pixels on a screen.Here’s what I’m after: a boutique, high-end look that still welcomes every kind of buyer and seller. First-time homeowners, growing families, even luxury clients should immediately feel competence and integrity when they see my materials. Think clean lines, refined details, and a finish that feels custom rather than corporate.  I am open to changing the naming of my current branding if that makes sense.Once we’ve explored the positioning together, I’ll need:  • An updated primary logo delivered in fully editable vector and web formats  • A complementary color palette, typography set, and concise style guide so I can keep everything on-brand going forward  • Real-world mock-ups—business card, social-media header, email signature—to show how the new look lives across channelsAdobe Illustrator or equivalent pro tools are a must so I can make future tweaks. If you’re the kind of designer who enjoys acting as a strategic sounding board as much as a visual problem-solver, let’s talk and craft a brand that will carry me confidently into the market.I'm seeking a creative professional with experience in branding for real estate agents who can collaborate as a true thought partner. Beyond design, I need strategic input to position my brand successfully in a competitive market. Please share relevant examples of similar branding work and, if possible, your initial ideas or approach for this project.</description></item>
-<item><title>WordPress Hero Image Speed Optimization</title><link>https://www.freelancer.com/projects/web-development/WordPress-Hero-Image-Speed-Optimization</link><guid isPermaLink="false">freelancer:40803685</guid><pubDate>Thu, 05 Nov 2026 04:07:14 GMT</pubDate><description>30-250 USD | My homepage hero currently relies on a CSS background­-image. That approach is hurting Largest Contentful Paint and delaying the overall load, especially on mobile. I want the section rebuilt so the hero graphic is delivered as a regular &lt;img&gt; element that browsers can preload and lazy-load intelligently.
-
-Key objectives  
-• Primary goal: shorter page-load times, with measurable Lighthouse improvements.  
-• Highest priority device group: mobile phones.  
-• Visual requirement: the entire image must remain visible on small screens; no cropping or alternate artwork—just scale it down proportionally.
-
-Scope of work  
-1. Refactor the hero section in my WordPress theme (PHP + HTML + CSS) to swap the background property for an inline &lt;img&gt;.  
-2. Maintain existing layout, buttons, overlays, and responsive behaviour.  
-3. Apply best-practice performance tweaks—width/height attributes, srcset/sizes, lazy loading, and preload where appropriate.  
-4. Test thoroughly across major mobile browsers and desktop to confirm no layout shifts or CLS issues.  
-5. Provide before/after Lighthouse or PageSpeed Insights screenshots so we can quantify the gain.
-
-Deliverables  
-• Updated theme files or a child-theme patch.  
-• Any custom CSS/JS added.  
-• A concise read-me explaining edits and rollback steps.  
-• Performance report demonstrating improvement on mobile.
-
-Acceptance criteria  
-The page achieves noticeably faster LCP (&lt;2.5 s on 4G) without breaking the hero design, and the full image shows on all screen sizes.
-
-Tools you’ll probably touch: WordPress theme editor, PHP, HTML5 picture/img, responsive CSS, Lighthouse, PageSpeed Insights.</description></item>
 <item><title>WordPress Paid Course Website</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Paid-Course-Website</link><guid isPermaLink="false">freelancer:40803676</guid><pubDate>Thu, 05 Nov 2026 04:00:42 GMT</pubDate><description>250-750 USD | I’m launching a site that sells digital products—think guides, templates, and mini-courses—through one-time purchases. After checkout, each buyer needs a secure account area where they can immediately download only the files they’ve paid for and return later to retrieve them again.
 
 Here’s the flow I want:
@@ -775,6 +751,25 @@ Deliverables
 • Brief status summary each week outlining completed and pending tasks
 
 If you have a strong track record in hosting management and can commit to dependable response times, let’s talk and get the first batch of tasks on your plate.</description></item>
+<item><title>Estate Planning Website Development</title><link>https://www.freelancer.com/projects/web-development/Estate-Planning-Website-Development</link><guid isPermaLink="false">freelancer:40801571</guid><pubDate>Tue, 03 Nov 2026 23:19:46 GMT</pubDate><description>250-750 USD | I’m looking to have a clean, professional-looking website put together for my estate-planning firm. The primary purpose is to clearly explain what we do—people who visit need to leave with a solid understanding of our services rather than feeling pushed to book immediately.  
+
+Scope  
+• Size: 3–4 pages is plenty for this first phase.  
+• Tone &amp; design: professional and traditional—think reassuring serif fonts, muted colors, straightforward navigation, and an elegant but conservative layout that builds trust.  
+• Core content areas:  
+  – Wills and Trusts  
+  – Power of Attorney and Healthcare Documents  
+  – Probate and Estate Administration  
+
+What I need from you  
+• A fully responsive site (WordPress, Webflow, or another lightweight CMS you’re comfortable with) that I can edit later without touching code.  
+• Thoughtful placement of service explanations, a concise “About” section, and an easy-to-spot contact form so visitors can reach out when they are ready.  
+• Basic on-page SEO setup (titles, meta descriptions, alt tags) to help local prospects find us.  
+• Deployment to my hosting once we sign-off on the final design.  
+
+Because I’m starting on a lean budget, please outline how you’d keep costs low—whether that’s through a well-chosen template, staged milestones, or another efficient workflow—while still delivering a site that reflects the gravitas and trustworthiness of an estate-planning practice.  
+
+If you have portfolio examples that show similar professional, traditional styling, I’d love to see them along with your estimated timeline for wrapping up this small but important project.</description></item>
 <item><title>Magazine Production &amp; Digital Operations VA</title><link>https://www.freelancer.com/projects/wordpress/Magazine-Production-Digital-Operations</link><guid isPermaLink="false">freelancer:40800991</guid><pubDate>Tue, 03 Nov 2026 15:08:42 GMT</pubDate><description>5-10 GBP/hr | # Magazine Production &amp; Digital Operations VA | WordPress, Facebook &amp; AI
 
 **Remote | 10–15 hours per week initially | Potential 40 hours per week from January 2027**
