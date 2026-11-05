@@ -3,6 +3,68 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>UAE Tyre E-Commerce Platform Development -- 2</title><link>https://www.freelancer.com/projects/api-integration/UAE-Tyre-Commerce-Platform-Development</link><guid isPermaLink="false">freelancer:40803618</guid><pubDate>Thu, 05 Nov 2026 03:18:24 GMT</pubDate><description>5000-10000 USD | UAE ONLINE TYRE STORE – WEBSITE DEVELOPMENT PROJECT
+
+We require a professional B2C tyre e-commerce 
+The website must cover all 7 Emirates and support 1,000+ tyre products,  to 10,000+.
+1. CUSTOMER WEBSITE
+Modern, mobile-friendly design.
+English and Arabic
+Search tyres by size, brand and vehicle (make, model, year).
+Product images, specifications, warranty, DOT and pricing.
+Filters, comparison, offers
+Customer registration, cart, checkout and order tracking.
+Online payments: Visa, Mastercard, Apple Pay, Tabby and Tamara.
+VAT invoices and customer order history.
+2. ADMIN 
+Complete control of products, prices, stock and orders.
+Manage customers, suppliers, garages and mobile vans.
+Manage payments, refunds, delivery and bookings.
+Sales, purchase, expenses and profit reports.
+User permissions and performance monitoring.
+3. SUPPLIER DASHBOARD
+Separate login for each UAE supplier.
+Upload products and stock through Excel/CSV.
+Automatic stock and price updates through APIs.
+Receive and manage orders.
+Accept/reject orders and update dispatch status.
+Supplier-wise stock, pricing and reports.
+Support multiple suppliers offering the same tyre.
+4. GARAGE 
+Individual garage login and profile.
+Location, working hours and installation charges.
+Receive and accept installation bookings.
+Manage appointments and availability.
+Update job status and completion.
+View customer details and payment statements.
+5. MOBILE VAN / TECHNICIAN 
+Register and manage multiple mobile fitting vans.
+Individual technician login.
+Assign jobs manually or automatically.
+View customer location through Google Maps.
+Accept jobs and update status: Assigned, On the Way, Arrived, Started and Completed.
+Upload job completion photos and customer confirmation.
+Manage service charges and job history.
+6. DELIVERY &amp; AUTOMATION
+Delivery across all 7 Emirates.
+Area-wise delivery charges and tracking.
+Garage installation and mobile fitting bookings.
+WhatsApp, SMS and email notifications.
+Automatic supplier stock synchronisation.
+Excel uploads and API integrations.
+Prevent overselling and duplicate products.
+7. TECHNOLOGY &amp; SECURITY
+WordPress + WooCommerce.
+Custom theme and plugins.
+MySQL database and cloud hosting.
+SSL, security and automatic backups.
+SEO, Google Analytics and advertising integration.
+uture iPhone and Android app compatibility through APIs.
+. WEBSITE 
+ww.pitstoparabia.com
+www.tyresonline.ae
+www.tyrescart.ae
+www.tireex.ae</description></item>
 <item><title>UAE Tyre E-Commerce Platform Development</title><link>https://www.freelancer.com/projects/woocommerce/UAE-Tyre-Commerce-Platform-Development</link><guid isPermaLink="false">freelancer:40803603</guid><pubDate>Thu, 05 Nov 2026 03:07:43 GMT</pubDate><description>750-1500 USD | UAE ONLINE TYRE STORE – WEBSITE DEVELOPMENT PROJECT
 
 We require a professional B2C tyre e-commerce website for the UAE using WordPress + WooCommerce with custom development.
@@ -743,29 +805,6 @@ Ideal Skills and Experience:
 - Web development expertise
 - Experience with search functionalities
 - Familiarity with location-based services</description></item>
-<item><title>Donations SaaS MVP Build</title><link>https://www.freelancer.com/projects/nodejs/Donations-SaaS-MVP-Build</link><guid isPermaLink="false">freelancer:40801359</guid><pubDate>Tue, 03 Nov 2026 19:15:00 GMT</pubDate><description>5000-10000 GBP | I’m ready to commission the first production-ready release of Taleevo, a multi-tenant donations and engagement platform for UK churches and charities. The goal is to take the project from architecture to deployment on AWS, handing me a fully documented codebase and live environment that my team will own outright.
-
-Scope of the MVP  
-• Donation flow: day-one support for NFC tap donations only (QR journeys can remain stubbed for future sprints).  
-• Payments: Stripe Connect integration covering one-off, weekly and monthly recurring gifts, plus donor-selectable funds and full reconciliation logic.  
-• Gift Aid: capture declarations and surface them in finance reports—no need to generate HMRC files or handle direct submission at this stage.  
-• Multi-tenancy: each church or charity sits in its own tenant, with role-based access limited to administrators and finance staff.  
-• Core admin: dashboards, user management, fund setup, basic reporting.  
-• Security &amp; DevOps: infrastructure as code, CI/CD, GDPR-compliant data handling and a documented AWS deployment playbook.
-
-What I need from you  
-1. Evidence of similar payment or SaaS products you’ve shipped.  
-2. Your proposed tech stack (I’m open, though TypeScript/Node, React, PostgreSQL and AWS serverless are attractive).  
-3. A high-level delivery plan with milestones, timeline and fixed-price quote.  
-4. Post-launch support terms.
-
-Acceptance criteria  
-• All features above implemented, passing agreed test cases.  
-• Source code, IaC scripts and AWS accounts transferred to my organisation.  
-• Clean README and developer hand-over documentation.  
-• Successful end-to-end test: donor taps NFC tag, completes Stripe payment, Gift Aid declaration is stored, finance report reflects transaction in the correct tenant.
-
-If this fits your expertise, let’s discuss your approach and firm up scope quickly so we can move into build.</description></item>
 <item><title>Magazine Production &amp; Digital Operations VA</title><link>https://www.freelancer.com/projects/wordpress/Magazine-Production-Digital-Operations</link><guid isPermaLink="false">freelancer:40800991</guid><pubDate>Tue, 03 Nov 2026 15:08:42 GMT</pubDate><description>5-10 GBP/hr | # Magazine Production &amp; Digital Operations VA | WordPress, Facebook &amp; AI
 
 **Remote | 10–15 hours per week initially | Potential 40 hours per week from January 2027**
