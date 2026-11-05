@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix WordPress White Screen</title><link>https://www.freelancer.com/projects/debugging/Fix-WordPress-White-Screen</link><guid isPermaLink="false">freelancer:40803439</guid><pubDate>Thu, 05 Nov 2026 00:28:36 GMT</pubDate><description>30-250 USD | My site, collagogyinstitute.com, suddenly began showing a blank white page on every public URL. Strangely, I can still log in to the WordPress admin area without a problem. I did not run any updates or make changes immediately before the issue appeared, so I need an experienced WordPress troubleshooter to track down whatever is causing the white-screen and restore the front-end display.
+
+What you’ll actually do is isolate the fault—whether it’s a silent PHP error, a theme or plugin conflict, or a corrupted core file—then apply the fix and confirm the site loads normally again. You are free to use whichever tools suit you best (debug mode, server error logs, health-check plugins, WP-CLI, etc.); I just need the site back online quickly and cleanly.
+
+Deliverables:
+• Working public site—no white screen, all pages rendering
+• A brief note outlining what was broken and the corrective steps you took
+• Any optional recommendations to prevent a repeat issue
+
+I’ll supply admin and hosting access as soon as we start, and I’m ready to test live as soon as you say it’s fixed.</description></item>
 <item><title>Build WooCommerce Store with Advanced Filters</title><link>https://www.freelancer.com/projects/woocommerce/Build-WooCommerce-Store-with-Advanced</link><guid isPermaLink="false">freelancer:40803424</guid><pubDate>Thu, 05 Nov 2026 00:16:53 GMT</pubDate><description>250-750 CAD | ’m launching an online shop that will sell tangible items which need to be packed and shipped out to customers. The site must be built on WordPress with WooCommerce (or another solid e-commerce plugin if you can justify the choice) and set up ready for me to add inventory and start taking orders.
 
 Core requirement
@@ -790,22 +800,6 @@ Acceptance criteria
 The site should pass a complete test order from product page to confirmation email, load smoothly on both desktop and mobile, and reflect the agreed luxury color palette and typography. At hand-off, I expect administrator credentials, a short guide on updating products, and any design source files.
 
 If you have recent WooCommerce beauty or fashion builds in your portfolio, show me and let’s get started.</description></item>
-<item><title>AI-Optimized Locating Equipment Website</title><link>https://www.freelancer.com/projects/web-development/Optimized-Locating-Equipment-Website</link><guid isPermaLink="false">freelancer:40800365</guid><pubDate>Tue, 03 Nov 2026 08:04:28 GMT</pubDate><description>250-750 AUD | I need a multi-page business site that showcases our locating and detection equipment to construction and utility companies and, most importantly, turns their interest into booked demos or quote requests.  
-
-Here’s the experience I’m after: the structure and markup must be clear enough that AI assistants such as ChatGPT, Gemini, and Perplexity can effortlessly pull accurate answers about our products, pricing tiers, and service areas, then recommend us when users ask for locating solutions. At the same time, every page has to load almost instantly on mobile and feel as smooth as a native app—no lag, no pinching, no guessing where to tap.  
-
-Interactive conversion triggers are essential. Think smart CTAs that adapt to the visitor’s scroll depth, a friction-free inquiry form that auto-fills when possible, and an optional booking widget that drops confirmed appointments straight into our calendar.  
-
-Deliverables  
-• A modern, responsive site with at least: Home, About, Services, Contact, and a purpose-built Request-a-Demo page  
-• Schema, meta, and voice-search tweaks for maximum AI discoverability  
-• Lightning-fast performance (90+ on Lighthouse) and clean, accessible code  
-• Integrated lead capture and automated follow-up email/booking flow  
-• Final hand-over with documentation so my team can update copy or add new products without touching code  
-
-If you have a track record of combining crisp UX, technical SEO, and conversion-focused design, I’d love to see how you’d approach this build.
-
-Full seo</description></item>
 <item><title>Intelligent Automation System</title><link>https://www.freelancer.com/projects/mobile-app-development/Project-for-Zeeshan-40795332</link><guid isPermaLink="false">freelancer:40795332</guid><pubDate>Mon, 02 Nov 2026 21:34:00 GMT</pubDate><description>20-20 USD/hr | Looking for an Experienced Developer to Build an Intelligent Automation System for SHAHEM Platform
 
 1. Develop a fully automated order management system with minimal human intervention.
