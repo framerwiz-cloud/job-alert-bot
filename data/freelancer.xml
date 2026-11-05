@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce to Shopify Full Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Full-Migration-40804795</link><guid isPermaLink="false">freelancer:40804795</guid><pubDate>Thu, 05 Nov 2026 17:34:40 GMT</pubDate><description>250-750 USD | I need my current WooCommerce store—around 80-90 products—moved over to Shopify. All data must come across: products, images, descriptions (if possible customer accounts, order history, pages, and core settings). I’m not attached to the existing design, so you’re free to select or configure a fresh Shopify theme as long as every item, collection, and basic store function is intact and easy for me to manage afterward.
+
+Here’s what I consider a complete hand-off:
+• Every product showing correctly with pricing.
+• Taxes, shipping zones, and payment gateways mirrored on Shopify and tested.
+• A clean, responsive storefront using a standard Shopify theme (free or reasonably priced) that reflects my current branding.
+• Post-migration testing with me to verify links, checkout, and account log-ins before we point the domain.
+
+If you have proven experience moving WooCommerce stores to Shopify and can handle the data transfer, theme setup, and final QA, let’s discuss timeline and any access you’ll need.</description></item>
+<item><title>E-Commerce Site for Physical Goods</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Commerce-Site-for-Physical-Goods-40804789</link><guid isPermaLink="false">freelancer:40804789</guid><pubDate>Thu, 05 Nov 2026 17:30:04 GMT</pubDate><description>250-750 USD | I need a clean, reliable online store where I can list my physical products, capture orders, and arrange shipping without hassles. Customers must be able to pay with credit or debit cards as well as PayPal, so the build has to include secure gateway integrations for both.
+
+A simple product-management dashboard is important to me—I want to add new items, adjust stock levels, and print shipping labels in just a few clicks. Responsive design is essential so shoppers can browse and purchase comfortably on mobile or desktop.
+
+Deliverables I expect:
+• Fully designed, responsive storefront connected to a user-friendly admin panel  
+• Product pages that support images, descriptions, price edits, and real-time stock tracking  
+• Integrated checkout with credit/debit card processing and PayPal  
+• Automated order emails and a section for customers to check their order status  
+• Basic shipping calculator tied into common carriers, ready for label generation  
+
+Everything should be ready for me to start uploading products and taking real orders as soon as we launch.</description></item>
 <item><title>Shopify Designer / Developer Needed – Website Improvements (48-Hour Deadline)</title><link>https://www.freelancer.com/projects/css/Shopify-Designer-Developer-Needed</link><guid isPermaLink="false">freelancer:40804762</guid><pubDate>Thu, 05 Nov 2026 17:07:07 GMT</pubDate><description>250-750 USD | We're looking for an experienced Shopify designer/developer to make several improvements to our existing e-commerce website.
 
 Our Shopify store is already live and fully functional. We're not looking for a complete redesign, but rather someone who can improve the shopping experience, add functionality, and help us better organize a growing product catalog.
@@ -783,23 +804,6 @@ PAYMENT GATEWAY AND INTEGRATION
 AND PERSONAL BANKING METHODS
 
 If you have a preferred tech stack—Shopify, WooCommerce, or another solution—let me know why it suits this project and how you’ll keep future scaling in mind.</description></item>
-<item><title>Mortgage Broker Education Website</title><link>https://www.freelancer.com/projects/wordpress/Mortgage-Broker-Education-Website</link><guid isPermaLink="false">freelancer:40802883</guid><pubDate>Wed, 04 Nov 2026 16:40:17 GMT</pubDate><description>250-750 CAD | I’m a licensed mortgage broker based in Canada and I’m ready to build a polished online presence that focuses on educating my visitors. The site’s core goal is to provide clear, trustworthy guidance on reverse mortgages so homeowners aged 55 and over, their adult children, and anyone considering home-equity-based retirement income can quickly find the answers they need.
-
-What I need:
-• A clean, modern website (WordPress or a similarly easy-to-manage CMS) with intuitive navigation and responsive design.  
-• Engaging copy and visuals that explain how reverse mortgages work, the pros and cons, typical rates and fees, and the overall qualification process—all written in plain language that positions me as the go-to expert.  
-• Dedicated sections that speak directly to each key audience: older homeowners, adult children supporting parents, and retirees looking to unlock equity.  
-• Basic on-page SEO so Canadians searching for reverse-mortgage information can find me quickly.  
-• Simple lead-capture forms integrated with my CRM or email platform so prospects can request a consultation in one click.  
-
-Acceptance criteria:
-1. The finished site loads correctly on mobile, tablet, and desktop.  
-2. Content is original, fact-checked, and clearly outlines reverse-mortgage benefits, risks, and next steps.  
-3. Contact/consultation form successfully delivers data to my specified email or CRM.  
-4. I receive full admin access plus a brief walkthrough so I can update rates, articles, or FAQs myself.
-
-If you’ve built finance or real-estate sites before—and can translate complex lending concepts into friendly, actionable content—I’d love to see your portfolio and discuss timelines.</description></item>
-<item><title>Website Revamp, API Integration &amp; Deployment</title><link>https://www.freelancer.com/projects/api-integration/Website-Revamp-API-Integration</link><guid isPermaLink="false">freelancer:40802785</guid><pubDate>Wed, 04 Nov 2026 15:38:48 GMT</pubDate><description>30-250 USD | Take code created by a 3rd party in Claude to revamp the aesthetics of an existing website and add functionality wire-framed separately in Claude by me that would call an API to look up a status. The need is to put it all together and deploy it.</description></item>
 <item><title>Jewellery Showcase Website Build</title><link>https://www.freelancer.com/projects/web-design/Jewellery-Showcase-Website-Build</link><guid isPermaLink="false">freelancer:40802426</guid><pubDate>Wed, 04 Nov 2026 10:57:49 GMT</pubDate><description>15-25 USD/hr | I need a clean, elegant website that lets visitors browse my fine-jewellery and everyday pieces, fall in love with them, and get in touch with me instantly via WhatsApp or a click-to-call button. The site is for showcasing, not direct checkout, so the focus is on beautiful product galleries, smooth navigation between collections, and prominent contact triggers on every item page.
 
 Here’s what I’m looking for:
