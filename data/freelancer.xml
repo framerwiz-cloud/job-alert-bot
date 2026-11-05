@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Paid Course Website</title><link>https://www.freelancer.com/projects/woocommerce/WordPress-Paid-Course-Website</link><guid isPermaLink="false">freelancer:40803676</guid><pubDate>Thu, 05 Nov 2026 04:00:42 GMT</pubDate><description>250-750 USD | I’m launching a site that sells digital products—think guides, templates, and mini-courses—through one-time purchases. After checkout, each buyer needs a secure account area where they can immediately download only the files they’ve paid for and return later to retrieve them again.
+
+Here’s the flow I want:
+1. Visitor selects a file or bundle, adds it to cart, and pays (credit card, PayPal, or Stripe—whichever is quickest for you to configure).
+2. Upon successful payment, WordPress automatically creates their account, logs them in, and unlocks the corresponding download page.
+3. Inside “My Account,” they see a clean list of their purchases with download buttons, file size, and a limited number of download attempts to discourage sharing.
+4. I receive order notifications and can add or revoke access from the dashboard.
+
+Preferred stack is WooCommerce or Easy Digital Downloads paired with a lightweight membership plugin if necessary; I’m open to your suggestion as long as it stays maintainable and doesn’t bloat the site. Design can start from a modern, responsive theme—no need for a pixel-perfect custom build—just ensure branding colors and a clear call-to-action are in place.
+
+Deliverables
+• WordPress installation and theme setup on my hosting  
+• Payment gateway integration and test transaction proof  
+• Product upload example with protected download link  
+• Customer “My Account” area fully functional  
+• Brief video or written guide showing how I add future products and view orders
+
+I’ll handle copy and imagery; you focus on structure, security, and a friction-free checkout. Let me know your preferred plugin combo and estimated timeline when you bid.</description></item>
 <item><title>Build Scalable Christian Ministry Website Kenya</title><link>https://www.freelancer.com/projects/web-development/Build-Scalable-Christian-Ministry</link><guid isPermaLink="false">freelancer:40803626</guid><pubDate>Thu, 05 Nov 2026 03:23:25 GMT</pubDate><description>200-350 USD | WordPress Website Developer — A Christian Ministry, Kenya
 Project: Modern, affordable and scalable Christian music ministry website
 Budget: $200–$350 fixed price for initial launch
@@ -817,17 +835,6 @@ Ideal Skills and Experience:
 
 Please include detailed project proposals in your application.</description></item>
 <item><title>Holistic Women’s Wellness Website and app</title><link>https://www.freelancer.com/projects/web-development/Holistic-Women-Wellness-Website</link><guid isPermaLink="false">freelancer:40801417</guid><pubDate>Tue, 03 Nov 2026 20:20:39 GMT</pubDate><description>30-250 AUD | Yoga and massage and birth/women's work website with app</description></item>
-<item><title>Add Search Functionality to Website</title><link>https://www.freelancer.com/projects/web-development/Add-Search-Functionality-Website</link><guid isPermaLink="false">freelancer:40801382</guid><pubDate>Tue, 03 Nov 2026 19:35:06 GMT</pubDate><description>30-250 USD | I need a stop and search criteria added to the cart section of my website. I need this section to recognize a specific class of items stop the transaction and allow visitors to search for a business near them. Visitors should be able to search for locations by postcode or ZIP code.
-
-Requirements:
-- Search for locations/areas
-- Narrow by postcode/ZIP
-- Show results within chosen distance
-
-Ideal Skills and Experience:
-- Web development expertise
-- Experience with search functionalities
-- Familiarity with location-based services</description></item>
 <item><title>Magazine Production &amp; Digital Operations VA</title><link>https://www.freelancer.com/projects/wordpress/Magazine-Production-Digital-Operations</link><guid isPermaLink="false">freelancer:40800991</guid><pubDate>Tue, 03 Nov 2026 15:08:42 GMT</pubDate><description>5-10 GBP/hr | # Magazine Production &amp; Digital Operations VA | WordPress, Facebook &amp; AI
 
 **Remote | 10–15 hours per week initially | Potential 40 hours per week from January 2027**
