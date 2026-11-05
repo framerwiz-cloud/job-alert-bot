@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Age Gate &amp; Checkout Tweaks</title><link>https://www.freelancer.com/projects/javascript/WordPress-Age-Gate-Checkout-Tweaks</link><guid isPermaLink="false">freelancer:40805096</guid><pubDate>Thu, 05 Nov 2026 22:07:44 GMT</pubDate><description>30-250 USD | I’m looking to tidy up a few key user-experience points on my WooCommerce site.
+
+First, every new visitor must pass a 21+ age gate that appears as a pop-up when the site loads. If someone clicks “I’m under 21,” they should be taken straight to a simple “You must be 21 or older” page and barred from browsing further.
+
+Second, I’d like the major credit-card logos displayed consistently in the footer, on every product page, and again on the checkout screen so shoppers instantly know their payment options.
+
+Finally, before any payment is processed I want an Order Review page inserted—essentially a final summary step that lets customers double-check items, quantities, totals, and shipping details before they commit.
+
+Deliverables
+• Age-verification pop-up with under-21 redirect  
+• “You must be 21 or older” landing page  
+• Credit-card icon placement in footer, product pages, and checkout  
+• Order Review step added just prior to payment submission  
+
+The site runs on the latest WordPress + WooCommerce stack, so you’ll need solid PHP, JS, and CSS skills to implement and style these features cleanly without breaking existing functionality. Let me know your timeline and any plugin or custom-code approach you prefer so we can get started right away.</description></item>
 <item><title>Accelerate Online Store Speed</title><link>https://www.freelancer.com/projects/google-website-optimizer/Accelerate-Online-Store-Speed</link><guid isPermaLink="false">freelancer:40805055</guid><pubDate>Thu, 05 Nov 2026 21:19:46 GMT</pubDate><description>30-250 AUD | My online store feels sluggish from the moment a visitor lands, and I want every page to snap open instantly. The primary goal is simple: make the entire site load faster so shoppers stay engaged and move smoothly from browsing to checkout.  
 
 Here’s what I need:  
@@ -62,25 +77,6 @@ Deliverables I expect:
 • Basic shipping calculator tied into common carriers, ready for label generation  
 
 Everything should be ready for me to start uploading products and taking real orders as soon as we launch.</description></item>
-<item><title>High-Fidelity Shopify Outdoor Store Design</title><link>https://www.freelancer.com/projects/ui-design/High-Fidelity-Shopify-Outdoor-Store</link><guid isPermaLink="false">freelancer:40804730</guid><pubDate>Thu, 05 Nov 2026 16:40:02 GMT</pubDate><description>250-750 USD | Foreverlee Photography LLC is looking for an experienced UI/UX designer to design the front-end experience for our new Shopify store. We need a clean, modern, and conversion-focused design that highlights our product line and makes shopping effortless.
- 
-Scope of work:
-• Design high-fidelity layouts (desktop and mobile) for key pages: Homepage, Product Listing Page (PLP), Product Detail Page (PDP), Cart, and Checkout
-• Create a cohesive visual system (typography, color palette, buttons, forms, and icons) aligned with our brand guide
-• Focus on user experience: clear navigation, strong calls to action, and a frictionless path to purchase
-• Prepare the final design in Figma with organized components, styles, and auto-layout, ready for handoff to our Shopify developer
-• Deliver an interactive prototype demonstrating the main user flow 
-We provide:
-• Brand guide (logo, fonts, colors)
-• High-res product and lifestyle photography
-• Reference examples of modern e-commerce store designs
-• 2 rounds of revisions 
-Freelancer requirements:
-• Strong portfolio of e-commerce UI/UX projects (links required)
-• Advanced skills in Figma (components, auto-layout, prototyping)
-• Deep understanding of e-commerce UX best practices and conversion optimization
-• Experience designing for platforms like Shopify or similar is a big plus
-• Communication only via Freelancer chat</description></item>
 <item><title>Harrow Now Local Guide Content Development</title><link>https://www.freelancer.com/projects/web-development/Harrow-Now-Local-Guide-Development</link><guid isPermaLink="false">freelancer:40804634</guid><pubDate>Thu, 05 Nov 2026 16:10:34 GMT</pubDate><description>250-750 GBP | www.harrownow.com is ready for a full rebuild and fresh content that turns it into the go-to guide for visitors and anyone living, working or visiting Harrow. The single, clear objective is to help visitors quickly discover local businesses, services, and attractions, so every design and copy decision must keep ease-of-use front and center.  
 
 The focus will be on creating engaging content that highlights restaurants, facilities, businesses, local news, and gossip to attract visitors. No commercial features are required at this stage; the goal is to create a visitor-friendly guide that showcases Harrow’s character.
