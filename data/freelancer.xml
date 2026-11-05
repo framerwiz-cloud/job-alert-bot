@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Secure WordPress Hardening &amp; Code Integration</title><link>https://www.freelancer.com/projects/web-development/Secure-WordPress-Hardening-Code</link><guid isPermaLink="false">freelancer:40805120</guid><pubDate>Thu, 05 Nov 2026 22:37:57 GMT</pubDate><description>20-250 GBP | Quick Turnaround: WordPress Hardening &amp; Code Integration for Simple 1-Page Club Website
+
+
+Project Description:
+
+We are looking for a meticulous, security-conscious WordPress developer to finalize a website project. This is a straightforward, small-budget task with a quick turnaround because we have already prepared the technical assets.
+The active malware from a previous developer has been fully removed, and the site is completely clean. Our primary goal now is absolute prevention. We need a professional who can safely integrate our provided updates without reintroducing vulnerabilities, ensuring that the system is fully hardened against future exploits.
+
+What we provide:
+
+	•	The exact PHP code snippets required for the updates.
+	•	A clear written explanation of how to apply them.
+	•	A comprehensive Theme Guide.
+	•	3 clear JPEG screenshots detailing the final layout adjustments.
+Your job is to safely implement this provided material, ensure the code is fully sanitized, and guarantee that the website functions perfectly with or without the new code enabled (robust fallback logic).
+
+Scope of Work:
+
+	1.	Security Hardening &amp; Prevention: Review the environment to implement strict security guardrails. Ensure no backdoors exist, file permissions are secure, and unauthorized file execution is blocked so malware cannot be reintroduced.
+	2.	Safe Code Integration: Apply the provided PHP code snippets to functions.php / shortcodes.php to register a new text/pricing field inside our "Club Content" admin panel (alongside existing Stripe/Printify fields).
+	3.	Fallback &amp; Graceful Degradation: Build defensive checks so that the site, admin panel, and the [gw_membership_dialog] shortcode function flawlessly, whether this new code is actively running or temporarily disabled.
+	4.	Final Layout Adjustments: Implement the straightforward layout and content changes explicitly outlined across our 3 attached JPEG screenshots.
+	5.	Secure Handover Documentation: Provide a short, concise guide detailing how we can handle routine updates safely moving forward without risking code regression or security slips.
+
+Requirements:
+	•	Proven experience in WordPress Security Hardening and secure coding (input sanitization, data validation).
+	•	Strong PHP skills, specifically with WordPress hooks, shortcodes, and defensive coding (preventing site crashes if a function is missing).
+	•	High attention to detail—the ability to strictly follow provided technical instructions.
+	•	Fast availability to complete this small task efficiently.
+All files, pre-written code snippets, and visual guides are ready to go. Please bid with your fastest turnaround time and your realistic fixed price for a streamlined task of this size.</description></item>
 <item><title>Professional bstoddard.com Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Professional-bstoddard-com-Website</link><guid isPermaLink="false">freelancer:40805105</guid><pubDate>Thu, 05 Nov 2026 22:21:15 GMT</pubDate><description>30-250 USD | My current site, https://www.bstoddard.com/, does the job functionally but it feels generic and doesn’t give visitors the polished, trustworthy first impression I need. I want a complete visual refresh—especially of the homepage—so the brand projects an edgy yet professional personality while still feeling reliable.
 
 Here’s what I’m after:
@@ -543,31 +573,6 @@ Acceptance criteria
 I am open to your preferred tech stack as long as the final system is web-based, fast, and easy for non-technical staff to maintain. Please outline your proposed approach, tools, and a realistic timeline in your bid.
 
 either build a new system or offer me a system already build just need editing what ever is cost-effective and reliable</description></item>
-<item><title>Mailchimp New Email Builder Specialist Needed</title><link>https://www.freelancer.com/projects/digital-marketing/Mailchimp-New-Email-Builder-Specialist</link><guid isPermaLink="false">freelancer:40801630</guid><pubDate>Wed, 04 Nov 2026 18:42:54 GMT</pubDate><description>30-250 USD | Fixed Amount: $55
-
-We are looking for an experienced Mailchimp Specialist with proven expertise in Mailchimp's New Email Builder and native editable content blocks. The freelancer must have hands-on experience personally building complete, fully editable email templates using Mailchimp's New Email Builder, not just general email development or custom HTML.
-
-We have five existing email templates in Mail chimp that need to be audited, corrected to ensure they are fully editable and reusable by our team. No HTML, no coding, and no entire email sections converted into static JPG or PNG images. Before the project is awarded, shortlisted freelancers must demonstrate their ability to build and edit a complete email template directly inside Mailchimp's New Email Builder using native content blocks.
-
-The demonstration must show the actual Mailchimp editing interface, including how to edit text, replace images, modify buttons and links, and add, delete, duplicate, and rearrange content sections.
-
-A finished design, screenshot, or portfolio image alone will not be accepted as proof of technical experience.
-
-The project also includes fully editable video integration using Mailchimp's native Video Content Block, with the expertise to configure and manage video content correctly for email campaigns. Previous hands-on experience with Mailchimp's native Video Content Block is required. The freelancer must be able to demonstrate how to replace the video thumbnail and independently update its destination URL.
-
-Additionally, the freelancer must provide a customized PDF user manual with actual screenshots, clear step-by-step instructions, and video tutorials demonstrating how to manage and edit each template section. The training materials must show our team how to use, manage, customize, duplicate, and reuse the templates to create independently, all five templates for future different marketing campaigns, without requiring coding or technical assistance. Our goal is to have a complete, user-friendly Mailchimp system that allows our team to independently manage, customize, duplicate, and reuse all five templates for future campaigns.
-
-A separate document will be deliver after award. It contains the complete list of tasks, technical requirements and deliverables.
-
-Our deadline is 10 calendar days, including Saturdays and excluding Sundays, from the project award date. Is required daily updates follow Eastern Time (ET). We expect prompt communication, regular progress updates, and strict adherence to the agreed deadline.
-
-All deliverables, including the five templates, PDF manual, video tutorials, must be completed within this period. The freelancer must demonstrate the ability to create these training materials based on the actual completed templates, not generic Mailchimp instructions.
-
-Payment will be released after all deliverables are completed, tested, reviewed, and approved. Please note, this is an urgent project and failure to deliver before or on 10 days after awarded the project there will be a 15% penalty to deduct from the full payment of the project. 
-
-Please apply only if you can meet the complete project requirements.
-
-</description></item>
 <item><title>Manual QA Tester for Web Projects - O-1 Pathway</title><link>https://www.freelancer.com/projects/web-testing/Manual-Tester-for-Web-Projects</link><guid isPermaLink="false">freelancer:40803035</guid><pubDate>Wed, 04 Nov 2026 18:23:13 GMT</pubDate><description>50+ USD/hr | Work with innovative startups, technology companies, and entertainment brands while building your international professional profile.
 
 About O1D Match
