@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Accelerate Online Store Speed</title><link>https://www.freelancer.com/projects/google-website-optimizer/Accelerate-Online-Store-Speed</link><guid isPermaLink="false">freelancer:40805055</guid><pubDate>Thu, 05 Nov 2026 21:19:46 GMT</pubDate><description>30-250 AUD | My online store feels sluggish from the moment a visitor lands, and I want every page to snap open instantly. The primary goal is simple: make the entire site load faster so shoppers stay engaged and move smoothly from browsing to checkout.  
+
+Here’s what I need:  
+
+• A quick but thorough performance audit using Lighthouse, GTmetrix, or similar tools to identify render-blocking scripts, oversized images, and any bottlenecks in the theme or plugins.  
+• Hands-on optimisation—minifying CSS/JS, compressing images, enabling browser and server-side caching, refining database queries, and configuring a CDN if it will help.  
+• Concrete before-and-after metrics: I’m aiming for a Largest Contentful Paint under 2 seconds and Google PageSpeed scores in the green for both mobile and desktop.  
+
+Please be comfortable working on live e-commerce sites where downtime must be kept to an absolute minimum. Share a brief outline of your approach and examples of stores you have already sped up, and we can get started right away.
+
+removing all the not required processes, old WP installations, updating plugins, removing or disabling unnecessary plugins, etc. Could be the speed problem</description></item>
 <item><title>Interactive Dust-Collection Configurator</title><link>https://www.freelancer.com/projects/vue-js/Interactive-Dust-Collection-Configurator</link><guid isPermaLink="false">freelancer:40804964</guid><pubDate>Thu, 05 Nov 2026 19:56:17 GMT</pubDate><description>750-1500 EUR | I need an in-browser configurator that lets woodworkers drag-and-drop straight pipe, 90°, 45°, 22.5° and other fittings to lay out a complete dust-collection system. While they build, the tool must keep an accurate bill of materials: SKU, description, quantity and current price pulled from my WooCommerce shop.  
 
 When the layout is done the user should be able to  
@@ -716,22 +727,6 @@ PAYMENT GATEWAY AND INTEGRATION
 AND PERSONAL BANKING METHODS
 
 If you have a preferred tech stack—Shopify, WooCommerce, or another solution—let me know why it suits this project and how you’ll keep future scaling in mind.</description></item>
-<item><title>Mortgage Broker Education Website</title><link>https://www.freelancer.com/projects/wordpress/Mortgage-Broker-Education-Website</link><guid isPermaLink="false">freelancer:40802883</guid><pubDate>Wed, 04 Nov 2026 16:40:17 GMT</pubDate><description>250-750 CAD | I’m a licensed mortgage broker based in Canada and I’m ready to build a polished online presence that focuses on educating my visitors. The site’s core goal is to provide clear, trustworthy guidance on reverse mortgages so homeowners aged 55 and over, their adult children, and anyone considering home-equity-based retirement income can quickly find the answers they need.
-
-What I need:
-• A clean, modern website (WordPress or a similarly easy-to-manage CMS) with intuitive navigation and responsive design.  
-• Engaging copy and visuals that explain how reverse mortgages work, the pros and cons, typical rates and fees, and the overall qualification process—all written in plain language that positions me as the go-to expert.  
-• Dedicated sections that speak directly to each key audience: older homeowners, adult children supporting parents, and retirees looking to unlock equity.  
-• Basic on-page SEO so Canadians searching for reverse-mortgage information can find me quickly.  
-• Simple lead-capture forms integrated with my CRM or email platform so prospects can request a consultation in one click.  
-
-Acceptance criteria:
-1. The finished site loads correctly on mobile, tablet, and desktop.  
-2. Content is original, fact-checked, and clearly outlines reverse-mortgage benefits, risks, and next steps.  
-3. Contact/consultation form successfully delivers data to my specified email or CRM.  
-4. I receive full admin access plus a brief walkthrough so I can update rates, articles, or FAQs myself.
-
-If you’ve built finance or real-estate sites before—and can translate complex lending concepts into friendly, actionable content—I’d love to see your portfolio and discuss timelines.</description></item>
 <item><title>Jewellery Showcase Website Build</title><link>https://www.freelancer.com/projects/web-design/Jewellery-Showcase-Website-Build</link><guid isPermaLink="false">freelancer:40802426</guid><pubDate>Wed, 04 Nov 2026 10:57:49 GMT</pubDate><description>15-25 USD/hr | I need a clean, elegant website that lets visitors browse my fine-jewellery and everyday pieces, fall in love with them, and get in touch with me instantly via WhatsApp or a click-to-call button. The site is for showcasing, not direct checkout, so the focus is on beautiful product galleries, smooth navigation between collections, and prominent contact triggers on every item page.
 
 Here’s what I’m looking for:
