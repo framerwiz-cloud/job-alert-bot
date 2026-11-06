@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Booking &amp; Subscription Integration</title><link>https://www.freelancer.com/projects/web-development/Website-Booking-Subscription-Integration</link><guid isPermaLink="false">freelancer:40806052</guid><pubDate>Fri, 06 Nov 2026 13:30:24 GMT</pubDate><description>250-750 USD | I have a working company site that I generated with an AI builder; now I need it to do real business. Specifically, I want visitors to be able to (1) reach out or reserve a slot with us through a streamlined booking form and (2) purchase our digital service subscriptions securely, then jump straight into a members-only area without any manual hand-holding.
+
+Here is what I’m after:
+
+• A contact/booking flow that’s easy to use on both desktop and mobile—basic calendar selection and automated confirmations are plenty for now.  
+• A payment pipeline (Stripe or comparable gateway) that handles single payments and recurring subscriptions, issues receipts, and ties each successful transaction to the correct user account.  
+• An instant-access members area where paid users land automatically, protected behind login credentials and ready to host our digital content.  
+
+The front end is already styled, so you’d mainly focus on wiring up the back-end logic, database/auth layer, and any required middleware or APIs. I’m happy to take your guidance on the best stack or plugins as long as the end result is reliable and easy for me to maintain after hand-off.
+
+Deliverables will be:
+1. Fully functional booking/contact form integrated into the existing site.  
+2. Payment + subscription flow live in production, tested end-to-end.  
+3. Secure member login area automatically provisioned on successful payment, with a clear way for me to manage users.  
+4. Short walkthrough or screencast showing me how to tweak settings, plans, and user roles moving forward.
+
+If this sounds like your kind of build, let’s talk timelines and the best approach.</description></item>
 <item><title>Single Product Checkout Page Creation</title><link>https://www.freelancer.com/projects/css/Single-Product-Checkout-Page-Creation</link><guid isPermaLink="false">freelancer:40805934</guid><pubDate>Fri, 06 Nov 2026 11:39:26 GMT</pubDate><description>15-25 USD/hr | I need a simple, user-friendly cart page for a single product. 
 
 Requirements:
@@ -526,24 +543,6 @@ Because speed is critical, I’d like the first functional version live ASAP, wi
 When you respond, focus on a detailed project proposal: outline the tools or frameworks you’ll use (e.g., Figma API, Midjourney, Stable Diffusion, or custom React components), the main milestones, and the expected turnaround for an MVP. That structured plan is more valuable to me than a portfolio link alone.
 
 I’m ready to move quickly once I see a solid path forward.</description></item>
-<item><title>Build WooCommerce Store with Advanced Filters</title><link>https://www.freelancer.com/projects/woocommerce/Build-WooCommerce-Store-with-Advanced</link><guid isPermaLink="false">freelancer:40803424</guid><pubDate>Thu, 05 Nov 2026 00:16:53 GMT</pubDate><description>250-750 CAD | ’m launching an online shop that will sell tangible items which need to be packed and shipped out to customers. The site must be built on WordPress with WooCommerce (or another solid e-commerce plugin if you can justify the choice) and set up ready for me to add inventory and start taking orders.
-
-Core requirement
-• An intuitive product catalogue with fast search and layered filters so shoppers can drill down by category, price, size and other attributes we define.
-
-Nice-to-have extras (let me know if you can include them)
-– Real-time shipping calculators
-– Customer accounts with order tracking
-https://docs.google.com/document/d/1uJ2tVL4mnkjiK02i3P1b2DAtZvRo0bHfAbC6Udi4Ko8/edit?usp=sharing
-
-Design &amp; build scope
-• Clean, mobile-first theme styled to match my logo and colour palette
-• Essential pages: home, shop, product detail, cart, checkout, privacy / terms
-• Payment gateway integration (PayPal and credit cards)
-• Basic SEO setup, speed optimisation and security hardening
-• Walk-through or short doc on how I update products myself
-
-To be considered, please point me to past WordPress or WooCommerce stores you’ve built that demonstrate similar functionality. A concise note on how you’ll tackle the search &amp; filters will also help me choose the right partner.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
