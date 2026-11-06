@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Artistic Music &amp; Writing Redesign</title><link>https://www.freelancer.com/projects/web-design/Artistic-Music-Writing-Redesign</link><guid isPermaLink="false">freelancer:40806532</guid><pubDate>Fri, 06 Nov 2026 20:38:12 GMT</pubDate><description>750-1500 USD | I want to give my existing music-and-writing website a full visual refresh so that every visitor instantly feels the creative atmosphere behind my work. The driving goal is to showcase both my songs and my written pieces far more professionally, without losing personality.
+
+Scope of the makeover  
+• Home page: a striking landing experience that sets an artistic, almost cinematic tone and guides people clearly toward my latest releases and writings.  
+• Music section: modern, responsive audio players, attractive release pages with cover art, lyrics, and easy streaming or download links.  
+• Writing section: improved typography, better hierarchy for poems, essays, and stories, plus an intuitive way to browse by theme or date.  
+• Site-wide styling: cohesive colour palette, refined fonts, subtle textures or animations that create an atmospheric feel while keeping load times fast on mobile and desktop.
+
+Deliverables  
+1. High-fidelity design mock-ups for all key pages (desktop &amp; mobile).  
+2. Style guide covering colours, fonts, iconography, and reusable components.  
+3. Implementation on the current platform (or a recommended alternative) with tested responsiveness and browser compatibility.  
+4. Handoff package: source files, instructions for future updates, and a brief training call or screencast.
+
+Acceptance criteria  
+• Visuals match the approved mock-ups and “artistic &amp; atmospheric” brief.  
+• Audio players, download/stream links, and writing archives function flawlessly on all major browsers and screen sizes.  
+• Core Web Vitals stay within recommended ranges after launch.
+
+I will provide the existing site link, branding assets, and content as soon as we begin. If you have recent examples of similarly styled creative sites—or ideas for enhancing the visitor experience—please include them when you respond so I can see how we might collaborate.</description></item>
 <item><title>Luxury Car Dealership Website</title><link>https://www.freelancer.com/projects/web-development/Luxury-Car-Dealership-Website</link><guid isPermaLink="false">freelancer:40806478</guid><pubDate>Fri, 06 Nov 2026 19:45:39 GMT</pubDate><description>5000-10000 USD | I run a boutique showroom that specialises in luxury and high-performance vehicles and I need a website that turns online visitors into serious buyers. The look and feel must echo the premium brands I stock—think clean lines, high-resolution imagery, subtle animations, and a friction-free browsing flow on both mobile and desktop.
 
 What matters most is the ability to showcase each vehicle with rich photos, detailed specifications, provenance information, and a prominent enquiry form that drops leads straight into my CRM. I also want an inventory section I can update myself without touching code, along with basic SEO foundations so new stock is indexed quickly.
@@ -444,17 +464,6 @@ As a startup, we are currently working with a limited budget, so we are looking 
 Ideally, we would love to build a long-term working relationship with someone who understands the challenges of a growing startup and is happy to support us as the company develops.
 
 If you have solid Webflow experience and are interested in an ongoing collaboration, we would love to hear from you!</description></item>
-<item><title>Simple Business Showcase Website</title><link>https://www.freelancer.com/projects/web-design/Simple-Business-Showcase-Website-40803915</link><guid isPermaLink="false">freelancer:40803915</guid><pubDate>Thu, 05 Nov 2026 07:08:03 GMT</pubDate><description>250-750 USD | I need a clean, responsive website that introduces my business and clearly presents the services I offer. The build is intentionally lean: just three core pages—Home, About, and Services—styled to match my brand (logo, colours, and copy supplied by me).  
-
-A user-friendly CMS such as WordPress, Wix, or anything similarly intuitive is preferred so I can edit text and photos on my own later. Fast load times, mobile optimisation, and tidy on-page SEO (page titles and meta descriptions) should be in place from the start.
-
-Deliverables  
-• Fully functional site on my domain  
-• Home, About, and Services pages populated with placeholder or final content  
-• Basic SEO setup and responsive design checks  
-• Short hand-over guide or walkthrough so I can update content myself  
-
-I’m aiming to have everything live within a week, so please factor that timeline into your proposal.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
