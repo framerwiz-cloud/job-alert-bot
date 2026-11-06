@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Contractor Website and Email Migration</title><link>https://www.freelancer.com/projects/web-development/Contractor-Website-Email-Migration</link><guid isPermaLink="false">freelancer:40806124</guid><pubDate>Fri, 06 Nov 2026 14:30:35 GMT</pubDate><description>250-750 USD | Our construction group has just merged and rebranded, so I need a fresh website launched under the new domain and our company email moved to Google Workspace.   
+
+Website scope  
+– Purpose: present our commercial construction, residential work, and renovation / remodel portfolio, generate enquiries, and offer clear company information with up-to-date contact details.  
+– Look &amp; feel: clean, professional, mobile-friendly, and easy for our staff to update.  
+– Core sections: project gallery with filterable Commercial, Residential, and Renovation categories; an enquiry form that feeds directly to our new Gmail addresses; team/about page; news or blog area for future posts.  
+– Platform/CMS: open to your recommendation (WordPress, Webflow, custom) as long as non-technical staff can add photos, edit text, and publish new pages without touching code.  
+– SEO basics, analytics, and on-page optimisation included so we start ranking for local contracting searches.  
+
+Email &amp; domain work  
+– Register or point the new domain, create all user accounts in Google Workspace, migrate existing mail and contacts, set up SPF/DKIM/DMARC, and configure aliases and groups.  
+
+Ongoing support  
+After launch I’d like to keep you on call for content updates, adding new email users, and small site tweaks as projects complete. Please outline the best way to structure this (hourly or maintenance block).  
+
+If you have experience building contractor sites and handling Google Workspace migrations, I’d love to see examples and hear how quickly you can get us live.</description></item>
 <item><title>Website Booking &amp; Subscription Integration</title><link>https://www.freelancer.com/projects/web-development/Website-Booking-Subscription-Integration</link><guid isPermaLink="false">freelancer:40806052</guid><pubDate>Fri, 06 Nov 2026 13:30:24 GMT</pubDate><description>250-750 USD | I have a working company site that I generated with an AI builder; now I need it to do real business. Specifically, I want visitors to be able to (1) reach out or reserve a slot with us through a streamlined booking form and (2) purchase our digital service subscriptions securely, then jump straight into a members-only area without any manual hand-holding.
 
 Here is what I’m after:
@@ -253,17 +269,6 @@ Deliverables
 • Order Review step added just prior to payment submission  
 
 The site runs on the latest WordPress + WooCommerce stack, so you’ll need solid PHP, JS, and CSS skills to implement and style these features cleanly without breaking existing functionality. Let me know your timeline and any plugin or custom-code approach you prefer so we can get started right away.</description></item>
-<item><title>Accelerate Online Store Speed</title><link>https://www.freelancer.com/projects/google-website-optimizer/Accelerate-Online-Store-Speed</link><guid isPermaLink="false">freelancer:40805055</guid><pubDate>Thu, 05 Nov 2026 21:19:46 GMT</pubDate><description>30-250 AUD | My online store feels sluggish from the moment a visitor lands, and I want every page to snap open instantly. The primary goal is simple: make the entire site load faster so shoppers stay engaged and move smoothly from browsing to checkout.  
-
-Here’s what I need:  
-
-• A quick but thorough performance audit using Lighthouse, GTmetrix, or similar tools to identify render-blocking scripts, oversized images, and any bottlenecks in the theme or plugins.  
-• Hands-on optimisation—minifying CSS/JS, compressing images, enabling browser and server-side caching, refining database queries, and configuring a CDN if it will help.  
-• Concrete before-and-after metrics: I’m aiming for a Largest Contentful Paint under 2 seconds and Google PageSpeed scores in the green for both mobile and desktop.  
-
-Please be comfortable working on live e-commerce sites where downtime must be kept to an absolute minimum. Share a brief outline of your approach and examples of stores you have already sped up, and we can get started right away.
-
-removing all the not required processes, old WP installations, updating plugins, removing or disabling unnecessary plugins, etc. Could be the speed problem</description></item>
 <item><title>Interactive Dust-Collection Configurator</title><link>https://www.freelancer.com/projects/vue-js/Interactive-Dust-Collection-Configurator</link><guid isPermaLink="false">freelancer:40804964</guid><pubDate>Thu, 05 Nov 2026 19:56:17 GMT</pubDate><description>750-1500 EUR | I need an in-browser configurator that lets woodworkers drag-and-drop straight pipe, 90°, 45°, 22.5° and other fittings to lay out a complete dust-collection system. While they build, the tool must keep an accurate bill of materials: SKU, description, quantity and current price pulled from my WooCommerce shop.  
 
 When the layout is done the user should be able to  
