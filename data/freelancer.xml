@@ -126,6 +126,15 @@ Acceptance criteria:
 3. Stock adjustments sent from the external system respect existing back-order rules.  
 
 Please confirm familiarity with WooCommerce REST API, PHP 8, and other plugins. If you have questions about the target platform, let me know .</description></item>
+<item><title>Restore WordPress Site Suspension</title><link>https://www.freelancer.com/projects/website-management/Restore-WordPress-Site-Suspension</link><guid isPermaLink="false">freelancer:40805278</guid><pubDate>Fri, 06 Nov 2026 01:25:01 GMT</pubDate><description>30-250 CAD | My WordPress site has suddenly been replaced by an “Account Suspended” notice. I haven’t received any explanation from Squarespace, so I need someone who can jump in, diagnose the root cause, apply the latest WordPress core, theme, plugin and PHP security patches, and bring the site back online quickly.
+
+You will need to:
+• Investigate why the hosting account was flagged, including possible PHP vulnerabilities or malware.
+• Update WordPress, themes and plugins to their secure versions, removing or repairing anything that is compromised.
+• Liaise with Squarespace support if a ticket or verification is required to lift the suspension.
+• Verify that the home page and all key sub-pages load correctly after the fix.
+
+I can provide current login credentials to WordPress admin, SFTP/SSH, and the hosting dashboard as soon as we start. Once the site is visible to the public again and scans clean, the job is complete.</description></item>
 <item><title>WordPress Website Sections Enhancement &amp; Fixes</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Website-Sections-Enhancement</link><guid isPermaLink="false">freelancer:40805226</guid><pubDate>Fri, 06 Nov 2026 00:37:22 GMT</pubDate><description>2-8 USD/hr | I’m looking for a skilled WordPress developer to give our existing sites a tidy upgrade. The job centres on updating text and images, adjusting page layouts for a smoother flow, and squashing a handful of bugs that have crept into the navigation and contact-form areas. Our home page and other core pages will be your main canvas, with menus and internal links needing the most immediate attention.  
 
 Alongside the fixes, I also need a couple of fresh pages and minor feature additions rolled out. Think of light visual polish—subtle spacing, typography tweaks, maybe a smarter call-to-action placement—while staying true to the brand look we already have.  
@@ -529,20 +538,6 @@ ww.pitstoparabia.com
 www.tyresonline.ae
 www.tyrescart.ae
 www.tireex.ae</description></item>
-<item><title>AI-Driven eCommerce Design Workflow</title><link>https://www.freelancer.com/projects/ai-app-development/Driven-eCommerce-Design-Workflow</link><guid isPermaLink="false">freelancer:40803508</guid><pubDate>Thu, 05 Nov 2026 01:28:04 GMT</pubDate><description>250-750 USD | I need a rapid, AI-powered workflow that can take loose concepts—sketches, mood boards, even a paragraph of copy—and turn them into polished, on-brand eCommerce page designs ready for review. The end goal is to shorten the distance between an idea and a fully rendered storefront section, so I can experiment, iterate, and go live in hours rather than weeks.
-
-Here is what I’m looking for you to build or configure:
-
-• An intuitive front-end interface where I can enter an idea (text prompt, rough wireframe, or uploaded reference) and instantly receive multiple design variations.
-• AI assistance that respects brand guidelines—colors, typography, imagery style—while still proposing fresh layouts.
-• Output that I can export or push straight into my preferred store builder (Shopify, WooCommerce, or a neutral HTML/CSS package) with minimal manual cleanup.
-• Clear documentation of the workflow so my team can maintain or extend it after hand-off.
-
-Because speed is critical, I’d like the first functional version live ASAP, with incremental improvements possible afterward.
-
-When you respond, focus on a detailed project proposal: outline the tools or frameworks you’ll use (e.g., Figma API, Midjourney, Stable Diffusion, or custom React components), the main milestones, and the expected turnaround for an MVP. That structured plan is more valuable to me than a portfolio link alone.
-
-I’m ready to move quickly once I see a solid path forward.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
