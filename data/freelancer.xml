@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
+
+Current setup:
+• WordPress + WooCommerce running on the latest stable versions  
+• A child theme with light customisation (no edits to core files)  
+• Existing connections all done with Wordpress API to AWS EC2
+
+What I expect from you:
+• A clean, self-contained plugin or an extension of an existing one that handles the API handshake, authentication, and data sync  
+• Use of WordPress standards—actions, filters, nonces, proper enqueuing—so future updates do not break anything  
+• Configuration screen inside the WooCommerce settings tab where I can paste API keys, pick update intervals, and toggle features  
+• Error logging and basic debug mode to help trace issues in production  
+• Brief documentation outlining installation, settings, and any cron or web-hook URLs required  
+
+Acceptance criteria:
+1. New orders created in WooCommerce instantly appear in the external system through a webhook / push.  
+2. WooCommerce products not aligned or deleted are notified to the source system.  
+3. Stock adjustments sent from the external system respect existing back-order rules.  
+
+Please confirm familiarity with WooCommerce REST API, PHP 8, and other plugins. If you have questions about the target platform, let me know .</description></item>
 <item><title>Restore WordPress Site Suspension</title><link>https://www.freelancer.com/projects/website-management/Restore-WordPress-Site-Suspension</link><guid isPermaLink="false">freelancer:40805278</guid><pubDate>Fri, 06 Nov 2026 01:25:01 GMT</pubDate><description>30-250 CAD | My WordPress site has suddenly been replaced by an “Account Suspended” notice. I haven’t received any explanation from Squarespace, so I need someone who can jump in, diagnose the root cause, apply the latest WordPress core, theme, plugin and PHP security patches, and bring the site back online quickly.
 
 You will need to:
