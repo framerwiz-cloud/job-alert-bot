@@ -3,6 +3,95 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Senior AI Engineer Required – AI Search, RAG &amp; API Development for SaaS Platform</title><link>https://www.freelancer.com/projects/api-developmet/Senior-Engineer-Required-Search-RAG</link><guid isPermaLink="false">freelancer:40806619</guid><pubDate>Fri, 06 Nov 2026 22:03:46 GMT</pubDate><description>250-750 CAD | Senior AI Engineer Required – AI Search, RAG &amp; API Development for SaaS Platform
+
+We are looking for an experienced AI engineer or specialist development team to build the AI integration and search intelligence layer for a commercial, multi-tenant website search SaaS platform.
+
+The platform will enable organizations to add AI-powered search and conversational chatbots to their websites. It will support multiple content sources, including Drupal, website crawlers, sitemaps and APIs.
+
+Scope of Work
+
+Integrate multiple AI providers, including OpenAI, Anthropic (Claude) and Microsoft Azure OpenAI.
+
+Develop a provider-independent AI abstraction layer.
+
+Implement secure Bring Your Own Key (BYOK) functionality.
+
+Build content processing, metadata extraction and AI classification.
+
+Generate embeddings and implement vector and hybrid search using OpenSearch or Elasticsearch.
+
+Develop automatic search filter generation based on website content, tags and categories.
+
+Implement RAG-based conversational search with accurate source citations.
+
+Develop documented REST APIs for chatbot, search, content processing and metadata management.
+
+Support English and French throughout the AI functionality.
+
+Support public and authenticated content with permission-aware retrieval.
+
+Implement AI usage tracking, daily/monthly token allowances and subscription-based limits.
+
+Automatically switch to basic keyword-search chatbot mode when AI allowances expire.
+
+Integrate usage-exhaustion events with email and SMS notification services.
+
+Technical Experience Required
+
+Production-grade RAG and AI search implementations.
+
+OpenAI, Anthropic and Azure OpenAI APIs.
+
+Embeddings, vector databases and semantic search.
+
+OpenSearch / Elasticsearch.
+
+Python and/or Laravel API integration.
+
+Multi-tenant SaaS architecture.
+
+Secure API development and access control.
+
+Multilingual AI applications.
+
+Expected Deliverables
+
+Complete AI integration architecture.
+
+Working AI provider integrations.
+
+Content processing and metadata intelligence engine.
+
+Search and chatbot APIs.
+
+RAG and hybrid search implementation.
+
+BYOK functionality.
+
+Usage metering and quota enforcement.
+
+API documentation and automated tests.
+
+Deployment documentation and complete source-code handover.
+
+When Applying, Please Provide
+
+Examples of production AI search or RAG projects you have developed.
+
+Your proposed technical architecture.
+
+Relevant experience with the AI providers listed above.
+
+Proposed team structure, if applying as an agency.
+
+Estimated timeline and milestone-based cost breakdown.
+
+We are looking for someone capable of building a production-ready AI intelligence platform, not simply integrating a basic chatbot.
+
+This is part of a larger commercial SaaS project, with potential for ongoing development and long-term collaboration.
+
+Please apply only if you have demonstrable experience delivering production AI and search systems.</description></item>
 <item><title>Build a Multi-Payment Ecommerce Shop</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Build-Multi-Payment-Ecommerce-Shop</link><guid isPermaLink="false">freelancer:40806601</guid><pubDate>Fri, 06 Nov 2026 21:50:02 GMT</pubDate><description>20-250 GBP | I'm seeking an experienced developer to create an online shop from scratch. The shop will primarily sell physical products that require delivery.
 
 Key Requirements:
