@@ -3,6 +3,113 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build a marketplace website..</title><link>https://www.freelancer.com/projects/web-development/Build-marketplace-website-40806589</link><guid isPermaLink="false">freelancer:40806589</guid><pubDate>Fri, 06 Nov 2026 21:41:15 GMT</pubDate><description>250-750 USD | Free Moving Marketplace — Website Development Project
+Project Overview
+We are seeking an experienced Bubble developer to build Free Moving Marketplace, a customer-facing moving-services marketplace initially serving the San Francisco Bay Area. We are a marketplace, not a moving company. Customers will submit moving information, receive manually prepared guaranteed price quotes, and either book at that price or participate in a moving-date auction.
+The website should be professional, mobile-friendly, easy to navigate, and built primarily using Bubble's existing functionality. We want a straightforward, cost-effective implementation with minimal custom development. Most administrative operations will be handled manually.
+Customer Accounts and Moving Inventory
+Customers can register, log in, and access their own moving information.
+Customers enter their moving date, pickup address, and delivery address.
+Customers can upload multiple furniture photos, upload written inventory lists, or manually select furniture and quantities from our predefined furniture catalog.
+We will provide the master furniture catalog, including item descriptions and cubic-foot values.
+The catalog must remain editable within Bubble.
+All customer submissions must be stored in Bubble's database and accessible to us through its built-in administrative tools.
+We will manually review inventories, calculate cubic footage and mileage, and determine guaranteed moving prices outside the website.
+We will enter the guaranteed price into Bubble and communicate it to the customer. Customers can accept their guaranteed price or enter the auction.
+Simplified Moving-Date Auctions
+We will operate one auction per moving date, with one winning customer per date.
+Customers click "Enter Auction" and submit a dollar bid through a simple website form.
+Each bid must be associated with the customer's account, moving date, and guaranteed price quote.
+Bid information will be recorded in Google Sheets for manual auction management.
+Customers compete only against others with the same moving date.
+We will manually calculate scores, manage rankings, close auctions, and select winners.
+Auction scoring formula:
+Score = (Customer Bid ÷ Customer Guaranteed Quote × 100) + Approved Social Media Tokens
+Customers are ranked by their scores, not simply by their dollar bids. Each approved social media post adds one token, equivalent to one additional score point.
+The website must display a simple leaderboard for each moving date showing anonymous bidder IDs, rankings, and scores.
+We will manage leaderboard data in Google Sheets.
+The website should display the leaderboard and reflect our spreadsheet updates.
+Customers can click "View Auction Rankings" to see their moving date's leaderboard.
+No automated scoring, live bidding engine, or automatic winner-selection system is required.
+We will manually announce the winner. The winning customer pays their winning dollar bid amount, not their guaranteed quote. They have 24 hours after the auction closes to submit payment.
+We will arrange moving-company fulfillment separately, outside the website.
+Referral and Social Media Tokens
+We will use Google Forms and Google Sheets to manage the referral program.
+Each auction participant receives a unique referral link or code to share with friends and family.
+Customers and their friends or family can submit links to qualifying social media posts through a Google Form.
+Friends and family do not need website accounts.
+Submissions are collected in Google Sheets.
+We manually review and approve social media posts.
+Each approved post earns one token, adding one point to the customer's auction score.
+We manually update token totals and auction rankings in our Google Sheets leaderboard.
+The website should provide customers with their referral link or code and straightforward access to the referral submission form.
+No custom referral-management system or automatic token approval is required.
+Bubble Database and Administration
+We want to use Bubble's existing database editor and administrative functionality rather than build a custom admin dashboard.
+Bubble must support:
+Customer accounts and login.
+Moving dates and pickup/delivery addresses.
+Furniture selections, quantities, uploaded photos, and inventory lists.
+Viewing and managing customer submissions.
+Manual entry and updating of guaranteed price quotes.
+Customer bids and auction information.
+Basic customer records and booking/payment statuses.
+Google Sheets will handle auction scoring, rankings, and referral tokens. Google Forms will collect social media post submissions. Stripe will handle payments.
+We will manually manage quotes, referral approvals, auctions, winners, payment verification, and booking confirmations.
+No custom administrative dashboard or reporting system is required. Any additional administrative functionality must be approved in advance.
+Payments and Bookings
+When a customer accepts their guaranteed quote, we manually send a Stripe payment link for the quoted amount.
+Auction winners receive a manually issued Stripe payment link for their winning bid amount, with payment due within 24 hours of auction closing.
+We manually email customers payment instructions and booking confirmations.
+We manually verify payments through Stripe and update booking/payment statuses in Bubble.
+Bubble only needs to store customer quotes, booking details, and payment/booking statuses.
+No custom Stripe integration, saved payment cards, automatic charging, or automated payment workflows are required.
+Customer-Facing Information
+Customers must be able to access the following information on the website:
+Their submitted moving details, inventory, and guaranteed price quote.
+Their submitted auction bid and moving date.
+Their moving-date auction leaderboard.
+Their booking status, such as pending or confirmed.
+Their referral link or code and access to the social media submission form.
+This information can appear on basic account pages, a simple dashboard, or other appropriate website pages.
+We do not require a dedicated custom dashboard. Please use whichever Bubble implementation is simplest and most cost-effective.
+Website Design and Technical Requirements
+Build the website using Bubble, within our own Bubble account.
+Responsive, professional design for desktop and mobile.
+Simple navigation and customer-friendly forms.
+Use Bubble's native functionality wherever practical.
+Google Forms and Google Sheets will support referrals and auction administration.
+No AI recognition, automated pricing engine, or Google Maps API integration is required.
+Avoid unnecessary custom code, plugins, and external services.
+Ownership, Accounts, Plugins, and Documentation
+Full ownership and independent maintainability are essential requirements.
+All development must take place within our Bubble account, which we create, own, and control.
+We will provide individually revocable developer access. We will not transfer ownership or share master login credentials.
+All third-party accounts, integrations, subscriptions, API credentials, and licenses must be registered under our ownership and control.
+Before using any external service or plugin, the freelancer must identify its purpose, provide the service link, explain any costs, and obtain our approval.
+Wherever possible, access must be granted through individual permissions rather than shared passwords.
+Any necessary custom code must be stored in our private GitHub repository.
+Any custom Bubble plugins must remain under our ownership and control, with their source code accessible and editable by future developers.
+The website must not depend on the original freelancer's personal accounts, private integrations, or inaccessible code.
+Provide basic documentation explaining the Bubble database structure, website functionality, integrations, plugins, and any custom code.
+All necessary access credentials, account ownership, and administrative permissions must remain under our control.
+Independent Technical Audit and Final Acceptance
+Before final acceptance and payment, an independent technical auditor will review the completed project to verify:
+Full ownership and access to the Bubble application and required external services.
+Accessibility and editability of any custom code or plugins.
+Proper functionality of the agreed website features and integrations.
+Documentation and future maintainability.
+The freelancer must correct any issues identified during the audit before final acceptance and payment.
+Freelancer Proposal Requirements
+Please provide:
+Your experience building websites with Bubble and examples of relevant completed projects.
+Your total fixed-price bid for the complete scope described above.
+Your estimated completion timeline.
+Any necessary Bubble plan, plugins, third-party services, subscriptions, or other ongoing costs.
+Confirmation that all development, accounts, code, and plugins will remain under our ownership and control.
+Confirmation that you agree to the independent audit and correction requirements.
+Any questions or additional information you need before beginning.
+Our priority is a fully functional, professional, affordable first version of Free Moving Marketplace using Bubble's existing capabilities, simple forms, Google Sheets, and manual administration wherever practical.</description></item>
 <item><title>Shopify Fashion Store Revamp</title><link>https://www.freelancer.com/projects/web-design/Shopify-Fashion-Store-Revamp-40806579</link><guid isPermaLink="false">freelancer:40806579</guid><pubDate>Fri, 06 Nov 2026 21:25:26 GMT</pubDate><description>250-750 USD | Need a complete visual and functional refresh of a women's clothing website that looks modern yet understated—think clean lines, generous white space, and elegant typography that lets the garments speak for themselves.
 
 Scope of the redesign  
@@ -458,7 +565,6 @@ Once the booking flow is polished, I want to layer in a full e-commerce section 
 I’ll need an easy-to-use admin area to update service menus, prices, staff schedules, and product details without touching code. Responsive design is essential; most of my clients browse on their phones. Payment gateway integration, automated email/SMS reminders, and basic SEO setup round out the must-haves.
 
 If you’ve built calendar-based booking systems tied to online stores before—whether in WordPress + WooCommerce, Shopify apps, or another platform—let’s talk. I’m open to your suggested stack as long as it delivers the seamless multi-service booking and storefront I’ve described.</description></item>
-<item><title>Chiropractor Payment Plan Automation</title><link>https://www.freelancer.com/projects/software-development/Chiropractor-Payment-Plan-Automation</link><guid isPermaLink="false">freelancer:40804543</guid><pubDate>Thu, 05 Nov 2026 14:41:31 GMT</pubDate><description>250-750 USD | I am looking for a developer to create a tool that simplifies financial arrangements for my chiropractic patients. The tool should calculate patient payment plans automatically and generate printable financial agreement forms. I prefer this tool to run on a computer in my clinic. It should utilize various inputs for payment calculations, including total treatment cost, down payment, number of payments, insurance amount, patient share, payment frequency, treatment visits, cost per visit, and financing charges. Ideal skills include experience in software development, user-friendly interface design, and knowledge of financial calculations.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
