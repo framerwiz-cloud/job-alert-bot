@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Migration &amp; Enhancements</title><link>https://www.freelancer.com/projects/website-development/Website-Migration-Enhancements</link><guid isPermaLink="false">freelancer:40806139</guid><pubDate>Fri, 06 Nov 2026 14:45:46 GMT</pubDate><description>250-750 USD | I need my current website copied to a brand-new domain while preserving its overall design and structure. Once it is live on the new address, I’d like a handful of focussed updates:
+
+• Add or retire specific service / product pages so the navigation reflects my current offering.  
+• Integrate a simple contact form that lets visitors send an enquiry message; no scheduling calendar or online payment is required at this stage.  
+• Remove any now-irrelevant sections and make sure internal links, images and meta data are all pointing to the new domain.
+
+Please handle the full migration (files, database, redirects if needed), apply the page changes, test the enquiry form, and confirm everything works across desktop and mobile before sign-off.</description></item>
 <item><title>Contractor Website and Email Migration</title><link>https://www.freelancer.com/projects/web-development/Contractor-Website-Email-Migration</link><guid isPermaLink="false">freelancer:40806124</guid><pubDate>Fri, 06 Nov 2026 14:30:35 GMT</pubDate><description>250-750 USD | Our construction group has just merged and rebranded, so I need a fresh website launched under the new domain and our company email moved to Google Workspace.   
 
 Website scope  
@@ -422,68 +429,6 @@ We are looking for excellent value, long-term maintainability and a modern profe
 <item><title>UAE Tyre E-Commerce Platform Development -- 2</title><link>https://www.freelancer.com/projects/api-integration/UAE-Tyre-Commerce-Platform-Development</link><guid isPermaLink="false">freelancer:40803618</guid><pubDate>Thu, 05 Nov 2026 03:18:24 GMT</pubDate><description>5000-10000 USD | UAE ONLINE TYRE STORE – WEBSITE DEVELOPMENT PROJECT
 
 We require a professional B2C tyre e-commerce 
-The website must cover all 7 Emirates and support 1,000+ tyre products,  to 10,000+.
-1. CUSTOMER WEBSITE
-Modern, mobile-friendly design.
-English and Arabic
-Search tyres by size, brand and vehicle (make, model, year).
-Product images, specifications, warranty, DOT and pricing.
-Filters, comparison, offers
-Customer registration, cart, checkout and order tracking.
-Online payments: Visa, Mastercard, Apple Pay, Tabby and Tamara.
-VAT invoices and customer order history.
-2. ADMIN 
-Complete control of products, prices, stock and orders.
-Manage customers, suppliers, garages and mobile vans.
-Manage payments, refunds, delivery and bookings.
-Sales, purchase, expenses and profit reports.
-User permissions and performance monitoring.
-3. SUPPLIER DASHBOARD
-Separate login for each UAE supplier.
-Upload products and stock through Excel/CSV.
-Automatic stock and price updates through APIs.
-Receive and manage orders.
-Accept/reject orders and update dispatch status.
-Supplier-wise stock, pricing and reports.
-Support multiple suppliers offering the same tyre.
-4. GARAGE 
-Individual garage login and profile.
-Location, working hours and installation charges.
-Receive and accept installation bookings.
-Manage appointments and availability.
-Update job status and completion.
-View customer details and payment statements.
-5. MOBILE VAN / TECHNICIAN 
-Register and manage multiple mobile fitting vans.
-Individual technician login.
-Assign jobs manually or automatically.
-View customer location through Google Maps.
-Accept jobs and update status: Assigned, On the Way, Arrived, Started and Completed.
-Upload job completion photos and customer confirmation.
-Manage service charges and job history.
-6. DELIVERY &amp; AUTOMATION
-Delivery across all 7 Emirates.
-Area-wise delivery charges and tracking.
-Garage installation and mobile fitting bookings.
-WhatsApp, SMS and email notifications.
-Automatic supplier stock synchronisation.
-Excel uploads and API integrations.
-Prevent overselling and duplicate products.
-7. TECHNOLOGY &amp; SECURITY
-WordPress + WooCommerce.
-Custom theme and plugins.
-MySQL database and cloud hosting.
-SSL, security and automatic backups.
-SEO, Google Analytics and advertising integration.
-uture iPhone and Android app compatibility through APIs.
-. WEBSITE 
-ww.pitstoparabia.com
-www.tyresonline.ae
-www.tyrescart.ae
-www.tireex.ae</description></item>
-<item><title>UAE Tyre E-Commerce Platform Development</title><link>https://www.freelancer.com/projects/woocommerce/UAE-Tyre-Commerce-Platform-Development</link><guid isPermaLink="false">freelancer:40803603</guid><pubDate>Thu, 05 Nov 2026 03:07:43 GMT</pubDate><description>750-1500 USD | UAE ONLINE TYRE STORE – WEBSITE DEVELOPMENT PROJECT
-
-We require a professional B2C tyre e-commerce website for the UAE using WordPress + WooCommerce with custom development.
 The website must cover all 7 Emirates and support 1,000+ tyre products,  to 10,000+.
 1. CUSTOMER WEBSITE
 Modern, mobile-friendly design.
