@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Luxury Car Dealership Website</title><link>https://www.freelancer.com/projects/web-development/Luxury-Car-Dealership-Website</link><guid isPermaLink="false">freelancer:40806478</guid><pubDate>Fri, 06 Nov 2026 19:45:39 GMT</pubDate><description>5000-10000 USD | I run a boutique showroom that specialises in luxury and high-performance vehicles and I need a website that turns online visitors into serious buyers. The look and feel must echo the premium brands I stock—think clean lines, high-resolution imagery, subtle animations, and a friction-free browsing flow on both mobile and desktop.
+
+What matters most is the ability to showcase each vehicle with rich photos, detailed specifications, provenance information, and a prominent enquiry form that drops leads straight into my CRM. I also want an inventory section I can update myself without touching code, along with basic SEO foundations so new stock is indexed quickly.
+
+Deliverables
+• Fully responsive site built on WordPress, Webflow, or another easy-to-maintain CMS  
+• Custom inventory manager and vehicle page template (gallery, specs table, enquiry form)  
+• Elegant landing, about, finance info, and contact pages matching the dealership’s brand palette  
+• Lead-capture integration with my existing CRM and Google Analytics set-up  
+• One-page style guide plus brief hand-over video showing how to add/edit cars and images  
+
+Acceptance criteria
+• Page load under 3 seconds on mobile (Lighthouse 90+ score)  
+• Inventory edits visible live within 60 seconds of publishing  
+• All enquiry submissions reach my CRM and send a confirmation email to the prospect  
+
+If this sounds within your wheelhouse, let’s discuss timelines and any design assets you need from me.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
@@ -492,17 +509,6 @@ As a startup, we are currently working with a limited budget, so we are looking 
 Ideally, we would love to build a long-term working relationship with someone who understands the challenges of a growing startup and is happy to support us as the company develops.
 
 If you have solid Webflow experience and are interested in an ongoing collaboration, we would love to hear from you!</description></item>
-<item><title>Simple Business Showcase Website</title><link>https://www.freelancer.com/projects/web-design/Simple-Business-Showcase-Website-40803915</link><guid isPermaLink="false">freelancer:40803915</guid><pubDate>Thu, 05 Nov 2026 07:08:03 GMT</pubDate><description>250-750 USD | I need a clean, responsive website that introduces my business and clearly presents the services I offer. The build is intentionally lean: just three core pages—Home, About, and Services—styled to match my brand (logo, colours, and copy supplied by me).  
-
-A user-friendly CMS such as WordPress, Wix, or anything similarly intuitive is preferred so I can edit text and photos on my own later. Fast load times, mobile optimisation, and tidy on-page SEO (page titles and meta descriptions) should be in place from the start.
-
-Deliverables  
-• Fully functional site on my domain  
-• Home, About, and Services pages populated with placeholder or final content  
-• Basic SEO setup and responsive design checks  
-• Short hand-over guide or walkthrough so I can update content myself  
-
-I’m aiming to have everything live within a week, so please factor that timeline into your proposal.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
