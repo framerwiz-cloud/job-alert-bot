@@ -84,35 +84,6 @@ Deliverables
 • Documentation outlining how to add new interest sites and maintain the network
 
 I’m happy to work with popular stacks like WordPress Multisite, Laravel with a multisite plugin, or another framework you prefer, as long as it’s future-proof and easy for an in-house team to extend later. Let me know which tools you would use, how you will ensure performance as the network grows, and a realistic timeline to reach a launch-ready MVP.</description></item>
-<item><title>Build a Local Home-Services Marketplace (MVP) - "HandyHub"</title><link>https://www.freelancer.com/projects/web-development/Build-Local-Home-Services-Marketplace</link><guid isPermaLink="false">freelancer:40806724</guid><pubDate>Sat, 07 Nov 2026 01:11:00 GMT</pubDate><description>250-750 USD | I need an experienced developer/team to build the MVP of a two-sided
-home-services marketplace - a website connecting local customers with
-verified service providers (cleaners, plumbers, electricians, tutors, etc.)
-in one city. Think a focused, trust-first Thumbtack / Urban Company.
-
-I'll run this as my own product, so I need clean, documented, maintainable
-code and a live deployment - not a throwaway demo.
-
-CORE MVP FEATURES
-• Customers: search/filter providers, view profiles, request bookings, leave reviews
-• Providers: create profile, list services + pricing, accept/decline bookings
-• Basic online payment (Stripe) with a platform commission
-• Admin panel: verify providers, manage listings, view stats
-• Mobile-first responsive, secure login, email notifications
-
-OUT OF SCOPE (phase 2 - don't quote): mobile apps, in-app chat,
-escrow/payouts, multi-city. Keep the quote to the MVP above.
-
-TECH: You may propose your own modern stack (I suggest React/Next.js +
-Node/Laravel/Django + PostgreSQL + Stripe). Code and all accounts must be
-owned by me on completion.
-
-BUDGET: $1000 ~ 1500, milestone-based.
-TIMELINE: by next Monday.
-
-In your bid, include: 2–3 similar marketplaces you've built, your proposed
-stack, a milestone breakdown, and your timeline.
-
-To show you read this, start your bid with the word "HANDYHUB".</description></item>
 <item><title>Scalable AI Business OS Automation</title><link>https://www.freelancer.com/projects/automation/Scalable-Business-Automation</link><guid isPermaLink="false">freelancer:40806708</guid><pubDate>Sat, 07 Nov 2026 00:35:51 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build an automated, scalable AI Business Operating System using GoHighLevel, n8n, Stripe and AI integrations.
 
 Required Features:
@@ -908,6 +879,15 @@ Please handle:
 • Styling headings, thumbnails, and spacing so the page looks polished on desktop and mobile  
 
 I’ll supply the video files and category list as soon as the project starts. The work is complete when the page is live, fully responsive, and I can easily add or rename categories on my own from the Squarespace editor.</description></item>
+<item><title>WooCommerce to Shopify Full Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Full-Migration-40804795</link><guid isPermaLink="false">freelancer:40804795</guid><pubDate>Thu, 05 Nov 2026 17:34:40 GMT</pubDate><description>250-750 USD | I need my current WooCommerce store—around 80-90 products—moved over to Shopify. All data must come across: products, images, descriptions (if possible customer accounts, order history, pages, and core settings). I’m not attached to the existing design, so you’re free to select or configure a fresh Shopify theme as long as every item, collection, and basic store function is intact and easy for me to manage afterward.
+
+Here’s what I consider a complete hand-off:
+• Every product showing correctly with pricing.
+• Taxes, shipping zones, and payment gateways mirrored on Shopify and tested.
+• A clean, responsive storefront using a standard Shopify theme (free or reasonably priced) that reflects my current branding.
+• Post-migration testing with me to verify links, checkout, and account log-ins before we point the domain.
+
+If you have proven experience moving WooCommerce stores to Shopify and can handle the data transfer, theme setup, and final QA, let’s discuss timeline and any access you’ll need.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
