@@ -3,11 +3,52 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>AI Bot UX Enhancement</title><link>https://www.freelancer.com/projects/ui-design/Bot-Enhancement</link><guid isPermaLink="false">freelancer:40806834</guid><pubDate>Sat, 07 Nov 2026 04:17:47 GMT</pubDate><description>250-750 AUD | I'm developing an AI bot for private use and need to refine its design and user experience. 
+<item><title>AI Bot development issues </title><link>https://www.freelancer.com/projects/ui-design/Bot-Enhancement</link><guid isPermaLink="false">freelancer:40806834</guid><pubDate>Sat, 07 Nov 2026 04:48:19 GMT</pubDate><description>250-750 AUD | I'm developing an AI bot for private use and need to refine its design and user experience. 
 
 Key improvements needed:
 - Streamlining the bot's functionality for efficiency
 - Enhancing overall design for better usability
+**Title: cTrader C# Developer Needed to Audit and Align an Adaptive Demo and Live Trading Bot**
+
+I’m looking for an experienced cTrader Automate/C# developer to investigate and fix differences between my cloud demo bot and local live-account bot.
+
+The project is **Jye Gold V8 Adaptive**, currently used for **XAUUSD on five-minute candles with Pepperstone**. I have the existing source code, compiled builds, parameter exports, journals, test results and saved local learning checkpoints.
+
+**The main problem**
+
+The demo and live versions were intended to use the same adaptive strategy, with the additional account permissions needed for live trading. In practice, their behaviour and results have differed.
+
+The live bot has sometimes opened and closed trades within seconds, including taking very small profits or losses. Logs show that some of these exits came from the model deciding its expected edge had faded or reversed, rather than the trailing stop being hit. I need the developer to establish whether those decisions are correct, whether the forecasts are being applied consistently, and why the demo behaves differently.
+
+**What has already been identified**
+
+- The demo and live instances have separate learned model states. Copying the strategy code and parameters did not transfer the demo’s accumulated learning.
+- An earlier exit-buffer change was applied only to the live version. That change was subsequently removed, and the latest live candidate’s decision engine was matched to the demo engine and checked with replay tests.
+- Other repairs have addressed quote changes during saving that cancelled entry attempts, a delayed trade-closure/checkpoint issue, and position ownership problems caused by shared labels between bot copies.
+- Local learning restoration has been implemented and observed working through restarts of the same instance.
+- The cloud demo’s model is currently held in memory for that run. A verified export and durable recovery mechanism for its exact learned state remains unresolved.
+
+These are the recorded findings so far. I want the current installed versions and native logs audited, rather than assuming every earlier issue is still present or that all repairs are fully proven.
+
+**What I need done**
+
+1. Compare the actual demo and live builds, parameters, model states and execution paths.
+2. Reproduce the rapid exits and explain the precise entry and exit decisions, including conflicting short- and longer-horizon forecasts.
+3. Check candle timing, tick updates, bid/ask prices, spread, commissions, slippage and execution delays.
+4. Establish a reliable model-only export/import process where supported. Keep account-specific positions, orders and ownership records separate.
+5. Verify restart recovery, duplicate-order prevention and isolation between multiple instances.
+6. Preserve the intended stop-loss, trailing-stop and sizing behaviour. Any strategy changes should be clearly explained and tested against the baseline.
+7. Reconcile results using this bot’s confirmed trades and net results after costs, separately from manual trades and unrelated account history.
+
+**Deliverables**
+
+I want a clear root-cause report, corrected source and compiled package, a documented list of changes, and reproducible test evidence. Given identical model state and market inputs, the strategy decisions should match; genuine broker/execution differences should be explained.
+
+Initial testing should use simulation or demo. Live activation will remain under my control.
+
+Please include your relevant cTrader/C# experience, how you would investigate this, and separate estimates for the initial audit and subsequent fixes. I’m looking for reliable, measurable engineering work—not a promise of guaranteed profits.
+
+Source code and redacted supporting records can be provided privately.
 
 Ideal Skills and Experience:
 - Expertise in AI bot design
