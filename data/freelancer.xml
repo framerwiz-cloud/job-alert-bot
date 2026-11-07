@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Website Speed Optimization Specialist Required</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-Website-Speed-Optimization-40806919</link><guid isPermaLink="false">freelancer:40806919</guid><pubDate>Sat, 07 Nov 2026 05:38:38 GMT</pubDate><description>15-25 AUD/hr | WordPress Website Speed Optimization Specialist Required
+
+We require a specialist with proven WordPress speed optimization experience to improve Google PageSpeed Insights and GTmetrix scores across our website, particularly mobile performance, currently around 30–45 on Google PageSpeed Insights. Our target is 90+ where technically achievable, with improvements to Core Web Vitals, including LCP and CLS.
+
+Expected Deliverables: Improved mobile and desktop performance scores, faster page loading times, and before-and-after performance reports using Google PageSpeed Insights and GTmetrix.
+
+We are looking to commence this project as soon as possible. Please contact for further details.
+
+Thank you.</description></item>
 <item><title>EspoCRM Migration &amp; Facelift</title><link>https://www.freelancer.com/projects/web-development/EspoCRM-Migration-Facelift</link><guid isPermaLink="false">freelancer:40806911</guid><pubDate>Sat, 07 Nov 2026 05:25:26 GMT</pubDate><description>250-750 CAD | I need our existing EspoCRM instance moved seamlessly from MilesWeb to Hostinger and then given a cleaner, more modern look. After the migration is complete and the DNS is pointing correctly to the new Hostinger environment, I want you to freshen up the visual layer so my team immediately feels the upgrade.
 
 Scope
@@ -930,21 +939,6 @@ Here’s what I’m after:
 • Final hand-off of all design files and, if you’re handling the build, a fully implemented responsive version of the new layout on the live domain
 
 If you plan to tackle only design or both design and development, just let me know your preferred workflow. Clean code, accessibility considerations, and clear documentation are must-haves for acceptance.</description></item>
-<item><title>WordPress Age Gate &amp; Checkout Tweaks</title><link>https://www.freelancer.com/projects/javascript/WordPress-Age-Gate-Checkout-Tweaks</link><guid isPermaLink="false">freelancer:40805096</guid><pubDate>Thu, 05 Nov 2026 22:07:44 GMT</pubDate><description>30-250 USD | I’m looking to tidy up a few key user-experience points on my WooCommerce site.
-
-First, every new visitor must pass a 21+ age gate that appears as a pop-up when the site loads. If someone clicks “I’m under 21,” they should be taken straight to a simple “You must be 21 or older” page and barred from browsing further.
-
-Second, I’d like the major credit-card logos displayed consistently in the footer, on every product page, and again on the checkout screen so shoppers instantly know their payment options.
-
-Finally, before any payment is processed I want an Order Review page inserted—essentially a final summary step that lets customers double-check items, quantities, totals, and shipping details before they commit.
-
-Deliverables
-• Age-verification pop-up with under-21 redirect  
-• “You must be 21 or older” landing page  
-• Credit-card icon placement in footer, product pages, and checkout  
-• Order Review step added just prior to payment submission  
-
-The site runs on the latest WordPress + WooCommerce stack, so you’ll need solid PHP, JS, and CSS skills to implement and style these features cleanly without breaking existing functionality. Let me know your timeline and any plugin or custom-code approach you prefer so we can get started right away.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
