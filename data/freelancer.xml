@@ -3,6 +3,31 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Cozy Coffee Shop One-Page Website</title><link>https://www.freelancer.com/projects/web-design/Cozy-Coffee-Shop-One-Page</link><guid isPermaLink="false">freelancer:40807694</guid><pubDate>Sat, 07 Nov 2026 18:37:18 GMT</pubDate><description>250-750 USD | Hey there! We’re the cozy coffee shop you might remember, and now we need a simple, beautiful one-page website to show off our menu, our story, and our vibe. We’re not looking for a massive e-commerce store—just a clean, fast-loading landing page that makes people want to visit us. If you love warm aesthetics and clean code, this is for you.
+ 
+Your Mission:
+We need a responsive, one-page website (desktop and mobile) that includes: a hero section with a strong call to action ("Visit Us" or "See Menu"), a short "About Us" section, a visual menu (just images and prices, no complex ordering system), a photo gallery of the shop, and a footer with our address, hours, and social links. We want smooth scrolling and subtle, cozy animations (like fade-ins) to make the experience feel premium.
+ 
+What’s in Our Toolkit for You:
+We’ll provide our logo, brand colors, high-res photos of the shop and drinks, and all the text and menu details. We’ll also share a Figma mockup (or a reference site) that captures the exact layout and vibe we want.
+ 
+What We’re Looking For:
+We want to see a portfolio of clean, modern landing pages—especially in the food, lifestyle, or hospitality space. You should be comfortable with HTML, CSS, JavaScript, and a framework like React, Next.js, or even a CMS like Webflow or WordPress if you can make it look custom. We need someone who understands responsive design, fast load times, and basic SEO.
+ 
+The Logistics:
+• Budget: Our budget for the complete website is $250-$750
+Timeline: Let’s aim for 7–10 days.</description></item>
+<item><title>Design &amp; Maintain Course Website</title><link>https://www.freelancer.com/projects/web-development/Design-Maintain-Course-Website</link><guid isPermaLink="false">freelancer:40807731</guid><pubDate>Sat, 07 Nov 2026 18:36:46 GMT</pubDate><description>8-15 USD/hr | I’m launching a platform to sell my online courses and I need someone who can take the site from idea to smooth day-to-day operation. The job starts with full front-end and back-end design: a clean storefront, secure checkout, and a student dashboard that tracks progress automatically. Once the framework is in place, you’ll upload and neatly organise the first batch of videos, quizzes, and downloadable resources for me, so everything is ready for learners the moment we go live.
+
+After launch I want ongoing support—software updates, minor design tweaks, and quick fixes to keep payments flowing and student data safe—so please be comfortable stepping in as a long-term site manager.
+
+Key deliverables:  
+• Complete website design and development tailored for selling courses  
+• Integration of student accounts with progress tracking and protected course access after purchase  
+• Secure payment set-up and thorough testing with sample transactions  
+• Initial course catalogue uploaded and organised through the admin dashboard, ready for me to add more content later
+
+If you’ve built similar learning sites and can commit to continued maintenance, let’s talk about timelines and the best tech stack for the job.</description></item>
 <item><title>Travel Agency Website Development</title><link>https://www.freelancer.com/projects/web-development/Travel-Agency-Website-Development-40807604</link><guid isPermaLink="false">freelancer:40807604</guid><pubDate>Sat, 07 Nov 2026 16:32:43 GMT</pubDate><description>250-750 USD | I'm looking for a skilled web developer to manage a Chinese travel agency website. MUST BE ABLE TO READ AND WRITE CHINESE - NO EXCEPTIONS.  This would be on an ongoing, part-time basis.  The primary function of this site is to showcase our holiday packages and tours, and to collect enquiry requests from potential customers.
 
 Key Requirements:
@@ -961,36 +986,6 @@ Ideal Skills and Experience:
 - Proficient in making text and image updates
 
 Looking for a reliable professional to ensure my site runs smoothly.</description></item>
-<item><title>Secure WordPress Hardening &amp; Code Integration</title><link>https://www.freelancer.com/projects/web-development/Secure-WordPress-Hardening-Code</link><guid isPermaLink="false">freelancer:40805120</guid><pubDate>Thu, 05 Nov 2026 22:37:57 GMT</pubDate><description>20-250 GBP | Quick Turnaround: WordPress Hardening &amp; Code Integration for Simple 1-Page Club Website
-
-
-Project Description:
-
-We are looking for a meticulous, security-conscious WordPress developer to finalize a website project. This is a straightforward, small-budget task with a quick turnaround because we have already prepared the technical assets.
-The active malware from a previous developer has been fully removed, and the site is completely clean. Our primary goal now is absolute prevention. We need a professional who can safely integrate our provided updates without reintroducing vulnerabilities, ensuring that the system is fully hardened against future exploits.
-
-What we provide:
-
-	•	The exact PHP code snippets required for the updates.
-	•	A clear written explanation of how to apply them.
-	•	A comprehensive Theme Guide.
-	•	3 clear JPEG screenshots detailing the final layout adjustments.
-Your job is to safely implement this provided material, ensure the code is fully sanitized, and guarantee that the website functions perfectly with or without the new code enabled (robust fallback logic).
-
-Scope of Work:
-
-	1.	Security Hardening &amp; Prevention: Review the environment to implement strict security guardrails. Ensure no backdoors exist, file permissions are secure, and unauthorized file execution is blocked so malware cannot be reintroduced.
-	2.	Safe Code Integration: Apply the provided PHP code snippets to functions.php / shortcodes.php to register a new text/pricing field inside our "Club Content" admin panel (alongside existing Stripe/Printify fields).
-	3.	Fallback &amp; Graceful Degradation: Build defensive checks so that the site, admin panel, and the [gw_membership_dialog] shortcode function flawlessly, whether this new code is actively running or temporarily disabled.
-	4.	Final Layout Adjustments: Implement the straightforward layout and content changes explicitly outlined across our 3 attached JPEG screenshots.
-	5.	Secure Handover Documentation: Provide a short, concise guide detailing how we can handle routine updates safely moving forward without risking code regression or security slips.
-
-Requirements:
-	•	Proven experience in WordPress Security Hardening and secure coding (input sanitization, data validation).
-	•	Strong PHP skills, specifically with WordPress hooks, shortcodes, and defensive coding (preventing site crashes if a function is missing).
-	•	High attention to detail—the ability to strictly follow provided technical instructions.
-	•	Fast availability to complete this small task efficiently.
-All files, pre-written code snippets, and visual guides are ready to go. Please bid with your fastest turnaround time and your realistic fixed price for a streamlined task of this size.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
