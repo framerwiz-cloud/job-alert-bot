@@ -3,6 +3,75 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Modern Pushpay-Integrated Church Platform</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Pushpay-Integrated-Church</link><guid isPermaLink="false">freelancer:40806768</guid><pubDate>Sat, 07 Nov 2026 02:11:16 GMT</pubDate><description>200-300 USD | Project Title: Developer Needed for Modern Mega-Church Web Platform (Pushpay Integration &amp; Zero-Cost Architecture)
+
+Project Overview:
+Our goal is to build a contemporary, engaging platform that communicates our vision, welcomes first-time visitors, showcases our ministries, and gives easy access to sermons and church activities, with the overarching purpose of pointing everyone who visits to Jesus.
+
+We are looking for an experienced developer who can build a high-performance, mobile-first web platform while adhering strictly to our architectural, security, and integration requirements.
+
+Key Requirements &amp; Scope of Work
+1. Pushpay as Our Central Repository
+Pushpay ChMS must remain the authoritative source for all church-management information to avoid creating separate databases or duplicating information locally on the website. Specifically:
+
+Calendar &amp; Groups: Church calendar and public group listings must pull directly from Pushpay via API or approved embeds.
+
+Forms &amp; Registrations: Connection cards, event registrations, and other forms must utilize secure Pushpay forms so information stays in the central repository.
+
+Children’s Pre-Registration: Must use a secure, approved Pushpay form process so children’s sensitive information is never stored locally on the platform.
+
+Prayer Requests: Must utilize a confidential submission process with clear permission rules.
+
+Online Giving: Must link seamlessly to our existing Pushpay giving platform rather than a custom payment portal.
+
+Note on API: Please specify your technical approach for connecting the platform to Pushpay, which APIs or embeds you intend to use, and how data caching/refresh rates will be managed.
+
+2. Design and User Experience
+The platform must feature:
+
+A video-enhanced homepage hero section.
+
+A dedicated "Plan a Visit" feature for first-time guests.
+
+A church history timeline and member testimonials ("Why I choose and love this church").
+
+A dedicated livestream page and a searchable, filterable sermon library.
+
+Modern, visually appealing, mobile-friendly design with lightning-fast load times.
+
+Clear organization for essential information: mission, vision, beliefs, leadership, ministries, service times, and physical location.
+
+3. Content Management and Ownership
+
+The backend must be structured so our administrative staff can easily update text, photographs, ministry information, and announcements on their own without needing developer assistance for routine changes.
+
+4. Chatbot and Ongoing Costs
+
+We are open to introducing a chatbot to act as a digital usher, but it must be a 100% free-tier or open-source implementation with zero recurring monthly subscription costs for hosting, usage, or maintenance. Please outline your approach for keeping all third-party tool costs at $0.
+
+5. Security and Maintenance
+Please detail your proposed approach to:
+
+Data security and protection of personal information.
+
+Secure storage and protection of Pushpay API credentials (e.g., using environment variables).
+
+Role-based access permissions for staff and volunteers.
+
+Automated backups and ongoing maintenance/updates.
+
+Disaster recovery if the platform or a connected service goes down.
+
+6. Additional Considerations
+
+Emergency Alert Banner: Staff must have an intuitive toggle in the backend to quickly post a site-wide notice when services are canceled or changed because of severe weather or other emergencies.
+
+To Apply, Please Provide:
+Links to 2-3 recent modern web platforms you have built from scratch (church or non-profit projects are preferred).
+
+Your technical approach to integrating Pushpay forms/embeds and handling data securely without local storage.
+
+Your proposed milestone structure, timeline, and cost estimate.</description></item>
 <item><title>Interest Communities Listings Network Development</title><link>https://www.freelancer.com/projects/content-management-system/Interest-Communities-Listings-Network</link><guid isPermaLink="false">freelancer:40806737</guid><pubDate>Sat, 07 Nov 2026 01:29:43 GMT</pubDate><description>15-25 USD/hr | I’m setting up a large-scale network of interconnected sites that bring people together around their interests. Each site will revolve around groups and events, allowing members to create their own profile, join or form groups, and post as well as manage events tied to those interests. Messaging and forums are not a priority for this first release; the core experience is discovery, grouping, and event management.
 
 What I need is the full technical and design build-out of this network: a solid, scalable architecture that lets me spin up new interest niches quickly, a unified user database so members keep one profile across sites, and an intuitive front-end that makes browsing groups or events effortless on mobile and desktop. The development will be done in phases, starting with one website at a time until all 10 are linked together.
@@ -839,15 +908,6 @@ Please handle:
 • Styling headings, thumbnails, and spacing so the page looks polished on desktop and mobile  
 
 I’ll supply the video files and category list as soon as the project starts. The work is complete when the page is live, fully responsive, and I can easily add or rename categories on my own from the Squarespace editor.</description></item>
-<item><title>WooCommerce to Shopify Full Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Full-Migration-40804795</link><guid isPermaLink="false">freelancer:40804795</guid><pubDate>Thu, 05 Nov 2026 17:34:40 GMT</pubDate><description>250-750 USD | I need my current WooCommerce store—around 80-90 products—moved over to Shopify. All data must come across: products, images, descriptions (if possible customer accounts, order history, pages, and core settings). I’m not attached to the existing design, so you’re free to select or configure a fresh Shopify theme as long as every item, collection, and basic store function is intact and easy for me to manage afterward.
-
-Here’s what I consider a complete hand-off:
-• Every product showing correctly with pricing.
-• Taxes, shipping zones, and payment gateways mirrored on Shopify and tested.
-• A clean, responsive storefront using a standard Shopify theme (free or reasonably priced) that reflects my current branding.
-• Post-migration testing with me to verify links, checkout, and account log-ins before we point the domain.
-
-If you have proven experience moving WooCommerce stores to Shopify and can handle the data transfer, theme setup, and final QA, let’s discuss timeline and any access you’ll need.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
