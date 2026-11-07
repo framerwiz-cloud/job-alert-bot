@@ -3,21 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>AI-Powered CRM Automation Specialist</title><link>https://www.freelancer.com/projects/ai-chatbot/Powered-CRM-Automation-Specialist</link><guid isPermaLink="false">freelancer:40806701</guid><pubDate>Sat, 07 Nov 2026 00:23:41 GMT</pubDate><description>250-750 USD | I'm seeking an experienced freelancer to build an AI-powered CRM with automated lead follow-up capabilities. The ideal candidate should have a strong background in AI integrations, CRM development, and workflow automation.
+<item><title>Scalable AI Business OS Automation</title><link>https://www.freelancer.com/projects/automation/Scalable-Business-Automation</link><guid isPermaLink="false">freelancer:40806708</guid><pubDate>Sat, 07 Nov 2026 00:35:51 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build an automated, scalable AI Business Operating System using GoHighLevel, n8n, Stripe and AI integrations.
 
-Key requirements:
-- Automate sending text messages to old leads
-- Integrate AI SMS and phone call functionalities
-- Set up ClickFunnels with website widgets
-- Create workflows for old lead follow-up
+Required Features:
 
-Ideal Skills:
-- Proficiency in CRM platforms
-- Experience with AI tools and automation
-- Knowledge of ClickFunnels and website integration
-- Strong project management and communication skills
+* AI phone receptionist (24/7 answering, lead qualification and bookings).
+* AI chatbots, WhatsApp, SMS and email automation.
+* CRM and automated lead management.
+* Social media content creation, scheduling and management.
+* SEO and AI Search Optimisation (AIO).
+* Automated funnels and lead generation.
+* Business workflow automation.
+* Stripe subscriptions and payments.
+* Automated client onboarding and account creation.
+* Client and internal admin dashboards.
+* Automated reporting and system monitoring.
 
-Please include relevant experience in your application.</description></item>
+Critical Requirement: BUILD ONCE, DEPLOY REPEATEDLY.
+
+New customers must automatically receive their configured platform using reusable GoHighLevel snapshots, n8n workflows and industry templates. No manual rebuilding for each customer.
+
+The system should support multiple industries and hundreds of businesses with minimal human involvement.
+
+Budget:
+I am a startup with a strict budget. Cost is a major deciding factor. Prioritise existing tools and cost-effective solutions over unnecessary custom development.
+
+If you cannot deliver within your proposed budget, please do not bid.
+
+When applying, provide:
+
+1. Total development cost.
+2. Estimated timeframe.
+3. Ongoing monthly costs.
+4. Relevant portfolio and experience.
+5. Proposed architecture and development approach.
+
+I require ownership of custom source code, workflows and documentation. Open to milestone-based development.</description></item>
 <item><title>Alumni Membership Website Build -- 2</title><link>https://www.freelancer.com/projects/buddypress/Alumni-Membership-Website-Build</link><guid isPermaLink="false">freelancer:40806699</guid><pubDate>Sat, 07 Nov 2026 00:20:55 GMT</pubDate><description>250-750 CAD | I’m launching a dedicated website for my high-school alumni community and want to roll it out in phases. Phase 1 is all about getting a smooth membership system online and giving every approved alumnus a rich profile page.
 
 Core scope for this first release  
