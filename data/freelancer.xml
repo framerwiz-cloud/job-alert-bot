@@ -5,7 +5,7 @@
 <description>New Freelancer.com projects matching the saved search</description>
 <item><title>Interest Communities Listings Network Development</title><link>https://www.freelancer.com/projects/content-management-system/Interest-Communities-Listings-Network</link><guid isPermaLink="false">freelancer:40806737</guid><pubDate>Sat, 07 Nov 2026 01:29:43 GMT</pubDate><description>15-25 USD/hr | I’m setting up a large-scale network of interconnected sites that bring people together around their interests. Each site will revolve around groups and events, allowing members to create their own profile, join or form groups, and post as well as manage events tied to those interests. Messaging and forums are not a priority for this first release; the core experience is discovery, grouping, and event management.
 
-What I need is the full technical and design build-out of this network: a solid, scalable architecture that lets me spin up new interest niches quickly, a unified user database so members keep one profile across sites, and an intuitive front-end that makes browsing groups or events effortless on mobile and desktop.
+What I need is the full technical and design build-out of this network: a solid, scalable architecture that lets me spin up new interest niches quickly, a unified user database so members keep one profile across sites, and an intuitive front-end that makes browsing groups or events effortless on mobile and desktop. The development will be done in phases, starting with one website at a time until all 10 are linked together.
 
 Deliverables
 • Multisite installation (or equivalent) configured and deployed  
