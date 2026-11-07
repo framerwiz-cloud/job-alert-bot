@@ -3,6 +3,111 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>BigCommerce Legacy Theme Migration to Modern Stencil – IXIL USA</title><link>https://www.freelancer.com/projects/website-testing/BigCommerce-Legacy-Theme-Migration</link><guid isPermaLink="false">freelancer:40807549</guid><pubDate>Sat, 07 Nov 2026 15:40:12 GMT</pubDate><description>750-1500 USD | # BigCommerce Legacy Theme Migration to Modern Stencil – IXIL USA
+
+**Project Type:** Fixed Price  
+**Budget:** $750–$1,500 USD  
+**Website:** https://www.ixilusa.com  
+**Preferred Theme:** BigCommerce Cornerstone Light (Stencil)  
+**Timeline:** Approximately 2–4 weeks
+
+## Project Overview
+
+We are seeking an experienced BigCommerce developer to migrate our established motorcycle exhaust e-commerce website from the legacy **BigCommerce Default v6.6 (Blueprint) theme** to a modern Stencil theme.
+
+We want to preserve our existing website's appearance, branding, navigation, products, and functionality while improving mobile responsiveness, performance, and compatibility.
+
+**This is a theme migration, NOT a complete redesign or platform change.**
+
+## 1. Theme Migration and Design
+
+- Use the free BigCommerce Cornerstone Light theme or recommend a suitable alternative.
+- Preserve our existing logo, colors, branding, homepage, banners, menus, and general appearance.
+- Maintain product and category layouts as closely as practical.
+- Improve performance and compatibility.
+- Deliver a fully responsive website for desktop, tablet, and mobile.
+
+**Mobile optimization is essential**, including navigation, product pages, fitment searches, cart, and checkout.
+
+## 2. Motorcycle Fitment Selector – Search Magic
+
+Our existing "Select Your Ride" motorcycle make/model/year selector is powered by the BigCommerce **Search Magic app ($49/month)**.
+
+- Preserve the existing app and all fitment data.
+- Integrate it correctly with the new Stencil theme.
+- Ensure accurate motorcycle make/model/year searches.
+- Test full functionality on desktop and mobile.
+
+This is an existing third-party app. We are NOT requesting a new fitment system.
+
+## 3. CRITICAL – Google SEO and URL Preservation
+
+**Protecting our existing Google rankings and indexed pages is a top priority.**
+
+The developer MUST:
+
+- Preserve ALL existing product, category, and informational page URLs exactly as they currently exist.
+- Preserve SEO titles, meta descriptions, canonical tags, structured data, and existing 301 redirects.
+- Maintain internal links, Google Search Console verification, analytics, and sitemap functionality.
+- Prevent broken links, duplicate pages, and accidental indexing restrictions.
+- Document and audit existing URLs before migration and verify them after launch.
+- Obtain written approval before changing ANY existing URL.
+- Implement proper 301 redirects if an approved URL change is unavoidable.
+
+The migration must follow SEO best practices to minimize any risk to our established Google traffic. SEO verification must be included in the fixed price.
+
+## 4. Customer Accounts, Checkout, and Integrations
+
+Our current legacy theme has a customer registration issue involving reCAPTCHA.
+
+Requirements:
+
+- Fix customer registration and ensure BigCommerce-supported CAPTCHA protection works correctly.
+- Preserve existing customer accounts and order history.
+- Verify customer login and account management.
+- Preserve and test PayPal and BigCommerce checkout.
+- Confirm compatibility with our existing ShipStation integration.
+- Test the complete purchase process on desktop and mobile.
+
+## 5. Development, Testing, and Launch
+
+- Develop using an unpublished theme or separate development environment.
+- Keep our existing live website operational throughout development.
+- Provide a working preview for approval.
+- Test navigation, Search Magic, customer accounts, checkout, mobile functionality, and SEO.
+- Back up the existing theme and establish a rollback plan.
+- Launch ONLY after receiving our written approval.
+
+## 6. Ownership and Post-Launch Support
+
+- Deliver all completed custom theme files and newly developed code.
+- Transfer ownership of newly created custom work to IXIL USA upon final payment, excluding third-party licensed components.
+- Disclose any additional software or licensing costs before proceeding.
+- Include **14 days of post-launch support** to correct migration-related issues involving SEO, links, Search Magic, checkout, customer accounts, or mobile functionality.
+
+## 7. Developer Qualifications and Bidding Requirements
+
+We require demonstrated experience with **BigCommerce Stencil development**, preferably including legacy Blueprint-to-Stencil migrations.
+
+Please include in your proposal:
+
+1. Examples of BigCommerce websites you have developed or migrated.
+2. Your experience migrating Blueprint themes to Stencil.
+3. Whether you recommend Cornerstone Light or another theme.
+4. Confirmation you can preserve existing URLs, SEO, and Search Magic functionality.
+5. Your approach to fixing the customer registration/reCAPTCHA issue.
+6. Your complete fixed-price quote and estimated completion time.
+7. Confirmation that 14 days of post-launch support are included.
+
+**Please review https://www.ixilusa.com before bidding. Generic proposals without relevant BigCommerce experience will not be considered.**
+
+## Final Priorities
+
+Our priorities are preserving existing Google visibility and URLs, maintaining our IXIL USA branding, upgrading desktop/mobile functionality, keeping Search Magic operational, and ensuring a smooth migration without disrupting our business.
+
+**Fixed Budget: $750–$1,500 USD.**
+
+We are looking for a reliable BigCommerce specialist who can complete the migration correctly and potentially assist with future website improvements.</description></item>
 <item><title>Mountain Biking Streetwear Brand Website</title><link>https://www.freelancer.com/projects/web-development/Mountain-Biking-Streetwear-Brand-Website</link><guid isPermaLink="false">freelancer:40807025</guid><pubDate>Sat, 07 Nov 2026 07:43:06 GMT</pubDate><description>30-250 AUD | Create a premium, modern, high-converting website for my mountain biking brand, **OUTLAW STUDIO**.
 
 The website should feel like a high-end mountain biking and streetwear brand. It needs to look professionally designed, modern, minimalistic and visually impressive.
@@ -888,15 +993,6 @@ Requirements:
 	•	High attention to detail—the ability to strictly follow provided technical instructions.
 	•	Fast availability to complete this small task efficiently.
 All files, pre-written code snippets, and visual guides are ready to go. Please bid with your fastest turnaround time and your realistic fixed price for a streamlined task of this size.</description></item>
-<item><title>Professional bstoddard.com Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Professional-bstoddard-com-Website</link><guid isPermaLink="false">freelancer:40805105</guid><pubDate>Thu, 05 Nov 2026 22:21:15 GMT</pubDate><description>30-250 USD | My current site, https://www.bstoddard.com/, does the job functionally but it feels generic and doesn’t give visitors the polished, trustworthy first impression I need. I want a complete visual refresh—especially of the homepage—so the brand projects an edgy yet professional personality while still feeling reliable.
-
-Here’s what I’m after:
-• A redesigned homepage that immediately communicates expertise, with sharper typography, more intentional spacing, and stronger visual hierarchy  
-• Cohesive colour palette and imagery choices that feel contemporary and confident, without slipping into anything too flashy  
-• Cleaner navigation and subtle micro-interactions to make the site feel premium and engaging on desktop and mobile  
-• Final hand-off of all design files and, if you’re handling the build, a fully implemented responsive version of the new layout on the live domain
-
-If you plan to tackle only design or both design and development, just let me know your preferred workflow. Clean code, accessibility considerations, and clear documentation are must-haves for acceptance.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
