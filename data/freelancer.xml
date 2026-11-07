@@ -3,6 +3,34 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Doula Site Overhaul</title><link>https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul</link><guid isPermaLink="false">freelancer:40806795</guid><pubDate>Sat, 07 Nov 2026 02:54:47 GMT</pubDate><description>30-250 USD | I need a WordPress specialist to refresh and relaunch my site so it fully reflects our new brand, “THE DOULA ALLIANCE – Maternal Education • Advocacy • Doula Support”.
+
+Scope of work  
+• Audit every page for consistency, tidy up spacing, fonts and overall cohesion.  
+• Replace “DMVR Birth Alliance” with “The Doula Alliance” everywhere it appears (about seven instances) and remove the single word “Culturally” from the right-hand block on page 1.  
+• Swap in the new logo, phone, fax, email and updated social media links (Facebook, Instagram, TikTok, YouTube).  
+• Update four existing paragraphs with the supplied copy and add two new FAQs in the FAQ section.  
+• Insert a new paragraph on insurance coverage and create a dedicated block where I can regularly embed fresh YouTube videos.  
+• Adjust the first section’s tabs so “Request Doula” becomes “Request Information” and “Request Services” becomes “Book Now!”.  
+• Revamp the “See if I’m eligible” page header to a colour background and refresh the Contact Us button styling.
+
+Booking &amp; payments  
+The site must let visitors pick an available date for doula service appointments and pay a deposit online. A straightforward calendar/booking plug-in (Amelia, Bookly, WooCommerce Bookings or similar) with Stripe or PayPal deposit capability is perfect, provided it integrates cleanly with WordPress and sends automated confirmations.
+
+Launch &amp; migration  
+Once all changes are approved, migrate the entire website to a new domain I will provide, ensuring SEO settings and existing backlinks are preserved.
+
+Deliverables  
+• Fully updated WordPress site matching the checklist above  
+• Working booking calendar with deposit payment flow for doula appointments  
+• All new content, links, buttons and blocks implemented and tested  
+• Seamless migration to the new domain, with redirects configured  
+• One-page hand-off guide summarising how to add future FAQs, YouTube videos and calendar slots
+
+Acceptance criteria  
+The updated site must load without errors, display the new branding everywhere, process a test booking with deposit successfully, and remain fully functional after domain migration.
+
+That’s the whole brief—please let me know your estimated turnaround and any plug-ins you plan to use.</description></item>
 <item><title>Build Modern Pushpay-Integrated Church Platform</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Pushpay-Integrated-Church</link><guid isPermaLink="false">freelancer:40806768</guid><pubDate>Sat, 07 Nov 2026 02:11:16 GMT</pubDate><description>200-300 USD | Project Title: Developer Needed for Modern Mega-Church Web Platform (Pushpay Integration &amp; Zero-Cost Architecture)
 
 Project Overview:
@@ -879,15 +907,6 @@ Please handle:
 • Styling headings, thumbnails, and spacing so the page looks polished on desktop and mobile  
 
 I’ll supply the video files and category list as soon as the project starts. The work is complete when the page is live, fully responsive, and I can easily add or rename categories on my own from the Squarespace editor.</description></item>
-<item><title>WooCommerce to Shopify Full Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Full-Migration-40804795</link><guid isPermaLink="false">freelancer:40804795</guid><pubDate>Thu, 05 Nov 2026 17:34:40 GMT</pubDate><description>250-750 USD | I need my current WooCommerce store—around 80-90 products—moved over to Shopify. All data must come across: products, images, descriptions (if possible customer accounts, order history, pages, and core settings). I’m not attached to the existing design, so you’re free to select or configure a fresh Shopify theme as long as every item, collection, and basic store function is intact and easy for me to manage afterward.
-
-Here’s what I consider a complete hand-off:
-• Every product showing correctly with pricing.
-• Taxes, shipping zones, and payment gateways mirrored on Shopify and tested.
-• A clean, responsive storefront using a standard Shopify theme (free or reasonably priced) that reflects my current branding.
-• Post-migration testing with me to verify links, checkout, and account log-ins before we point the domain.
-
-If you have proven experience moving WooCommerce stores to Shopify and can handle the data transfer, theme setup, and final QA, let’s discuss timeline and any access you’ll need.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
