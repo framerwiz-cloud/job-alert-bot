@@ -3,6 +3,35 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build a Local Home-Services Marketplace (MVP) - "HandyHub"</title><link>https://www.freelancer.com/projects/web-development/Build-Local-Home-Services-Marketplace</link><guid isPermaLink="false">freelancer:40806724</guid><pubDate>Sat, 07 Nov 2026 01:11:00 GMT</pubDate><description>250-750 USD | I need an experienced developer/team to build the MVP of a two-sided
+home-services marketplace - a website connecting local customers with
+verified service providers (cleaners, plumbers, electricians, tutors, etc.)
+in one city. Think a focused, trust-first Thumbtack / Urban Company.
+
+I'll run this as my own product, so I need clean, documented, maintainable
+code and a live deployment - not a throwaway demo.
+
+CORE MVP FEATURES
+• Customers: search/filter providers, view profiles, request bookings, leave reviews
+• Providers: create profile, list services + pricing, accept/decline bookings
+• Basic online payment (Stripe) with a platform commission
+• Admin panel: verify providers, manage listings, view stats
+• Mobile-first responsive, secure login, email notifications
+
+OUT OF SCOPE (phase 2 - don't quote): mobile apps, in-app chat,
+escrow/payouts, multi-city. Keep the quote to the MVP above.
+
+TECH: You may propose your own modern stack (I suggest React/Next.js +
+Node/Laravel/Django + PostgreSQL + Stripe). Code and all accounts must be
+owned by me on completion.
+
+BUDGET: $1000 ~ 1500, milestone-based.
+TIMELINE: by next Monday.
+
+In your bid, include: 2–3 similar marketplaces you've built, your proposed
+stack, a milestone breakdown, and your timeline.
+
+To show you read this, start your bid with the word "HANDYHUB".</description></item>
 <item><title>Scalable AI Business OS Automation</title><link>https://www.freelancer.com/projects/automation/Scalable-Business-Automation</link><guid isPermaLink="false">freelancer:40806708</guid><pubDate>Sat, 07 Nov 2026 00:35:51 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build an automated, scalable AI Business Operating System using GoHighLevel, n8n, Stripe and AI integrations.
 
 Required Features:
@@ -807,18 +836,6 @@ Here’s what I consider a complete hand-off:
 • Post-migration testing with me to verify links, checkout, and account log-ins before we point the domain.
 
 If you have proven experience moving WooCommerce stores to Shopify and can handle the data transfer, theme setup, and final QA, let’s discuss timeline and any access you’ll need.</description></item>
-<item><title>E-Commerce Site for Physical Goods</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Commerce-Site-for-Physical-Goods-40804789</link><guid isPermaLink="false">freelancer:40804789</guid><pubDate>Thu, 05 Nov 2026 17:30:04 GMT</pubDate><description>250-750 USD | I need a clean, reliable online store where I can list my physical products, capture orders, and arrange shipping without hassles. Customers must be able to pay with credit or debit cards as well as PayPal, so the build has to include secure gateway integrations for both.
-
-A simple product-management dashboard is important to me—I want to add new items, adjust stock levels, and print shipping labels in just a few clicks. Responsive design is essential so shoppers can browse and purchase comfortably on mobile or desktop.
-
-Deliverables I expect:
-• Fully designed, responsive storefront connected to a user-friendly admin panel  
-• Product pages that support images, descriptions, price edits, and real-time stock tracking  
-• Integrated checkout with credit/debit card processing and PayPal  
-• Automated order emails and a section for customers to check their order status  
-• Basic shipping calculator tied into common carriers, ready for label generation  
-
-Everything should be ready for me to start uploading products and taking real orders as soon as we launch.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
