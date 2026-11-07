@@ -3,63 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Shopify Christmas Launch &amp; Ads Manager</title><link>https://www.freelancer.com/projects/advertising/Shopify-Christmas-Launch-Ads-Manager-40807355</link><guid isPermaLink="false">freelancer:40807355</guid><pubDate>Sat, 07 Nov 2026 13:04:20 GMT</pubDate><description>3000-5000 USD | Shopify E-commerce Manager – Christmas Product Launch &amp; Advertising
-
-We are looking for an experienced Shopify E-commerce Manager to help manage our online store and support our upcoming Christmas seasonal campaign targeting customers in the U.S. market.
-
-This is a freelance project focused on store management, product launches, product optimization, and advertising support.
-
-Responsibilities
-
-Manage and maintain our Shopify store
-
-Research and add new Christmas-themed products
-
-Create and optimize product listings, including:
-
-Product titles
-
-Product descriptions
-
-Product images
-
-Pricing and promotional offers
-
-Basic SEO optimization
-
-Organize products and collections for the Christmas season
-
-Review the storefront and identify opportunities to improve conversion rates
-
-Prepare products for advertising campaigns
-
-Assist with Meta/Facebook Ads campaign setup and optimization
-
-Monitor advertising performance and provide regular reports
-
-Test different products, creatives, audiences, and offers
-
-Identify products with strong potential and recommend scaling opportunities
-
-Coordinate with our creative team when new advertising materials are needed
-
-Requirements
-
-Previous experience managing Shopify stores
-
-Experience launching and optimizing e-commerce products
-
-Understanding of Meta/Facebook advertising
-
-Experience with seasonal e-commerce campaigns is preferred
-
-Strong attention to detail
-
-Good communication and reporting skills
-
-Ability to work independently and meet deadlines
-
-Experience with the U.S. e-commerce market is a plus</description></item>
 <item><title>Shopify Holiday Sales Manager 2026</title><link>https://www.freelancer.com/projects/html/Shopify-Holiday-Sales-Manager-fix</link><guid isPermaLink="false">freelancer:40807246</guid><pubDate>Sat, 07 Nov 2026 11:08:59 GMT</pubDate><description>1500-3000 USD | Shopify Store Manager Needed for Christmas &amp; Holiday Sales 2026
 
 We are looking for an experienced Shopify Store Manager to help manage and optimize our online store during the upcoming Christmas and Holiday sales season.
@@ -984,6 +927,36 @@ Ideal Skills and Experience:
 - Proficient in making text and image updates
 
 Looking for a reliable professional to ensure my site runs smoothly.</description></item>
+<item><title>Secure WordPress Hardening &amp; Code Integration</title><link>https://www.freelancer.com/projects/web-development/Secure-WordPress-Hardening-Code</link><guid isPermaLink="false">freelancer:40805120</guid><pubDate>Thu, 05 Nov 2026 22:37:57 GMT</pubDate><description>20-250 GBP | Quick Turnaround: WordPress Hardening &amp; Code Integration for Simple 1-Page Club Website
+
+
+Project Description:
+
+We are looking for a meticulous, security-conscious WordPress developer to finalize a website project. This is a straightforward, small-budget task with a quick turnaround because we have already prepared the technical assets.
+The active malware from a previous developer has been fully removed, and the site is completely clean. Our primary goal now is absolute prevention. We need a professional who can safely integrate our provided updates without reintroducing vulnerabilities, ensuring that the system is fully hardened against future exploits.
+
+What we provide:
+
+	•	The exact PHP code snippets required for the updates.
+	•	A clear written explanation of how to apply them.
+	•	A comprehensive Theme Guide.
+	•	3 clear JPEG screenshots detailing the final layout adjustments.
+Your job is to safely implement this provided material, ensure the code is fully sanitized, and guarantee that the website functions perfectly with or without the new code enabled (robust fallback logic).
+
+Scope of Work:
+
+	1.	Security Hardening &amp; Prevention: Review the environment to implement strict security guardrails. Ensure no backdoors exist, file permissions are secure, and unauthorized file execution is blocked so malware cannot be reintroduced.
+	2.	Safe Code Integration: Apply the provided PHP code snippets to functions.php / shortcodes.php to register a new text/pricing field inside our "Club Content" admin panel (alongside existing Stripe/Printify fields).
+	3.	Fallback &amp; Graceful Degradation: Build defensive checks so that the site, admin panel, and the [gw_membership_dialog] shortcode function flawlessly, whether this new code is actively running or temporarily disabled.
+	4.	Final Layout Adjustments: Implement the straightforward layout and content changes explicitly outlined across our 3 attached JPEG screenshots.
+	5.	Secure Handover Documentation: Provide a short, concise guide detailing how we can handle routine updates safely moving forward without risking code regression or security slips.
+
+Requirements:
+	•	Proven experience in WordPress Security Hardening and secure coding (input sanitization, data validation).
+	•	Strong PHP skills, specifically with WordPress hooks, shortcodes, and defensive coding (preventing site crashes if a function is missing).
+	•	High attention to detail—the ability to strictly follow provided technical instructions.
+	•	Fast availability to complete this small task efficiently.
+All files, pre-written code snippets, and visual guides are ready to go. Please bid with your fastest turnaround time and your realistic fixed price for a streamlined task of this size.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
