@@ -271,30 +271,6 @@ Take inspiration from high-end streetwear, mountain biking brands and modern eco
 Do not make it look like a basic template. Focus on exceptional design, strong branding, premium photography, fast performance and a shopping experience that converts visitors into customers.
 
 Use the Outlaw Studio black and pink identity consistently throughout the entire website.</description></item>
-<item><title>Migrate Lovable Store to Square</title><link>https://www.freelancer.com/projects/inventory-management/Migrate-Lovable-Store-Square</link><guid isPermaLink="false">freelancer:40807002</guid><pubDate>Sat, 07 Nov 2026 07:21:59 GMT</pubDate><description>250-750 USD | I need help moving my entire Lovable online store from its current platform to Square. The store holds about 2,092 products with1,160 of the total items already sync live with eBay. Each item carries multiple photos and, in many cases, a short video. All images sit safely in Cloudflare, and the site is running smoothly right now, so downtime must be kept to an absolute minimum.
-
-Here is the flow I’m aiming for:
-
-• Products, photos, videos, and the existing eBay link have to be the first assets live on Square.
-• Square will become the single source of truth for inventory; every stock change on Square should automatically update eBay. Only change eBay should make is to decrease count to square when an item sells. 
-• The full customer email list and newsletter need to move over as well, then continue to send from within Square’s marketing tools.
-* A list of live train events need to move and allow vendors to purchase vendor tables for each event. A separate page needs moved to track vendor tables sales along with an approval vendor form. 
-*Sell your collection page can be duplicated to square. 
-*"Contact us" will need to be placed on each page. 
-*A page on lovable contains, Profile
-Purchases
-Addresses
-Payment Methods
-Wanted List
-Gift Registry
-Gift Cards
-Membership    This same type of page needs to exist on square. 
-
-If Square’s native email limits become an issue, I’m open to your suggestions for retaining the same newsletter frequency without losing deliverability, but my preference is to keep everything under one roof.
-
-This is a 1 price bid. We will NOT pay more money that quoted. We will pay ONLY when the job is completed to the necessary information stated above. 
-
-Please outline your approach for data export/import, how you will maintain URL integrity (for SEO), and the approximate timeline you’ll need to complete each milestone.</description></item>
 <item><title>WordPress Website Speed Optimization Specialist Required</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-Website-Speed-Optimization-40806919</link><guid isPermaLink="false">freelancer:40806919</guid><pubDate>Sat, 07 Nov 2026 05:38:38 GMT</pubDate><description>15-25 AUD/hr | WordPress Website Speed Optimization Specialist Required
 
 We require a specialist with proven WordPress speed optimization experience to improve Google PageSpeed Insights and GTmetrix scores across our website, particularly mobile performance, currently around 30–45 on Google PageSpeed Insights. Our target is 90+ where technically achievable, with improvements to Core Web Vitals, including LCP and CLS.
@@ -985,6 +961,36 @@ Ideal Skills and Experience:
 - Proficient in making text and image updates
 
 Looking for a reliable professional to ensure my site runs smoothly.</description></item>
+<item><title>Secure WordPress Hardening &amp; Code Integration</title><link>https://www.freelancer.com/projects/web-development/Secure-WordPress-Hardening-Code</link><guid isPermaLink="false">freelancer:40805120</guid><pubDate>Thu, 05 Nov 2026 22:37:57 GMT</pubDate><description>20-250 GBP | Quick Turnaround: WordPress Hardening &amp; Code Integration for Simple 1-Page Club Website
+
+
+Project Description:
+
+We are looking for a meticulous, security-conscious WordPress developer to finalize a website project. This is a straightforward, small-budget task with a quick turnaround because we have already prepared the technical assets.
+The active malware from a previous developer has been fully removed, and the site is completely clean. Our primary goal now is absolute prevention. We need a professional who can safely integrate our provided updates without reintroducing vulnerabilities, ensuring that the system is fully hardened against future exploits.
+
+What we provide:
+
+	•	The exact PHP code snippets required for the updates.
+	•	A clear written explanation of how to apply them.
+	•	A comprehensive Theme Guide.
+	•	3 clear JPEG screenshots detailing the final layout adjustments.
+Your job is to safely implement this provided material, ensure the code is fully sanitized, and guarantee that the website functions perfectly with or without the new code enabled (robust fallback logic).
+
+Scope of Work:
+
+	1.	Security Hardening &amp; Prevention: Review the environment to implement strict security guardrails. Ensure no backdoors exist, file permissions are secure, and unauthorized file execution is blocked so malware cannot be reintroduced.
+	2.	Safe Code Integration: Apply the provided PHP code snippets to functions.php / shortcodes.php to register a new text/pricing field inside our "Club Content" admin panel (alongside existing Stripe/Printify fields).
+	3.	Fallback &amp; Graceful Degradation: Build defensive checks so that the site, admin panel, and the [gw_membership_dialog] shortcode function flawlessly, whether this new code is actively running or temporarily disabled.
+	4.	Final Layout Adjustments: Implement the straightforward layout and content changes explicitly outlined across our 3 attached JPEG screenshots.
+	5.	Secure Handover Documentation: Provide a short, concise guide detailing how we can handle routine updates safely moving forward without risking code regression or security slips.
+
+Requirements:
+	•	Proven experience in WordPress Security Hardening and secure coding (input sanitization, data validation).
+	•	Strong PHP skills, specifically with WordPress hooks, shortcodes, and defensive coding (preventing site crashes if a function is missing).
+	•	High attention to detail—the ability to strictly follow provided technical instructions.
+	•	Fast availability to complete this small task efficiently.
+All files, pre-written code snippets, and visual guides are ready to go. Please bid with your fastest turnaround time and your realistic fixed price for a streamlined task of this size.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
