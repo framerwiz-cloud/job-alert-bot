@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>EspoCRM Migration &amp; Facelift</title><link>https://www.freelancer.com/projects/web-development/EspoCRM-Migration-Facelift</link><guid isPermaLink="false">freelancer:40806911</guid><pubDate>Sat, 07 Nov 2026 05:25:26 GMT</pubDate><description>250-750 CAD | I need our existing EspoCRM instance moved seamlessly from MilesWeb to Hostinger and then given a cleaner, more modern look. After the migration is complete and the DNS is pointing correctly to the new Hostinger environment, I want you to freshen up the visual layer so my team immediately feels the upgrade.
+
+Scope
+
+• Migrate the full working application, its database, and supporting files so all records, users, attachments, and settings are intact.  
+• Re-skin the main dashboard and menus with a contemporary theme.  
+• Apply the new design to customer, lead, and deal pages so the flow is consistent.  
+• Extend the facelift to the login page, reports, and all existing email templates, matching fonts, colors, and spacing across the board.  
+
+Acceptance
+
+The system must load on Hostinger with every page listed above should reflect the updated styling without breaking existing functionality, user permissions, or automations. Once live, provide a short hand-off note that explains where you placed any custom CSS or theme assets so we can maintain them in the future.</description></item>
 <item><title>AI Bot development issues </title><link>https://www.freelancer.com/projects/ui-design/Bot-Enhancement</link><guid isPermaLink="false">freelancer:40806834</guid><pubDate>Sat, 07 Nov 2026 04:48:19 GMT</pubDate><description>250-750 AUD | I'm developing an AI bot for private use and need to refine its design and user experience. 
 
 Key improvements needed:
@@ -933,23 +945,6 @@ Deliverables
 • Order Review step added just prior to payment submission  
 
 The site runs on the latest WordPress + WooCommerce stack, so you’ll need solid PHP, JS, and CSS skills to implement and style these features cleanly without breaking existing functionality. Let me know your timeline and any plugin or custom-code approach you prefer so we can get started right away.</description></item>
-<item><title>Interactive Dust-Collection Configurator</title><link>https://www.freelancer.com/projects/vue-js/Interactive-Dust-Collection-Configurator</link><guid isPermaLink="false">freelancer:40804964</guid><pubDate>Thu, 05 Nov 2026 19:56:17 GMT</pubDate><description>750-1500 EUR | I need an in-browser configurator that lets woodworkers drag-and-drop straight pipe, 90°, 45°, 22.5° and other fittings to lay out a complete dust-collection system. While they build, the tool must keep an accurate bill of materials: SKU, description, quantity and current price pulled from my WooCommerce shop.  
-
-When the layout is done the user should be able to  
-• send the item list directly to me as a quote request, and  
-• save the design with a unique link they can share with any dealer.  
-
-The builder has to run both on my own WordPress site and, via an embeddable snippet or white-label sub-domain, on partner dealer sites for a small monthly licence. A lightweight admin panel where I can add or suspend dealers and set their monthly fee will cover that side.  
-
-Core expectations  
-• Responsive drag-and-drop canvas (2D or simple 3D) built with modern JS—React, Vue, Three.js or similar.  
-• Real-time BOM and pricing pulled from the existing product database.  
-• Export design as JSON/PDF, plus shareable URL.  
-• Clean, branded UI that matches my current site.  
-• Documentation so I can maintain pipe parts, prices and dealer accounts myself.  
-
-I have no fixed deadline, so you can propose a realistic schedule and milestone breakdown that fits the scope.
-It don´t need a high resoultion rendering, cause its on a website, live.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
