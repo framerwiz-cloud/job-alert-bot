@@ -20,18 +20,6 @@ Looking for a freelancer who can ensure my AI bot is user-friendly and visually 
 Ideal Skills:
 - Proven experience in plugin development and related technologies.
 -needs to be reliable and can communicate in English fluently.</description></item>
-<item><title>Homepage Redesign Needed</title><link>https://www.freelancer.com/projects/web-design/Homepage-Redesign-Needed</link><guid isPermaLink="false">freelancer:40806829</guid><pubDate>Sat, 07 Nov 2026 03:41:08 GMT</pubDate><description>30-250 USD | This is a revamp of an existing site
-
-I’m overhauling my website so the home page feels less like a marketing brochure and more like an active social hub. When visitors land, I want their first instinct to be scrolling through my latest posts and updates—no sales pitch up front, just fresh content that invites engagement.  
-
-The spotlight should be on photos and videos. Rather than embedding feeds from my external channels, I’ll be uploading these assets directly to the site, so the layout must showcase native galleries or video blocks that are easy for me to manage through the existing CMS.  
-
-Here’s the immediate goal:  
-• Design a modern, responsive home page that leads with a dynamic “Latest Updates” section featuring my own photo and video uploads.  
-• Keep navigation intuitive, but dial back service-centric messaging in favor of social-style storytelling.  
-• Ensure load times stay snappy and the design looks great on mobile, tablet, and desktop.  
-
-If this initial redesign hits the mark, I’ll roll the new look and feel across the rest of the site next. Let’s start with a concept or wireframe, refine it together, and move on to full implementation once approved.</description></item>
 <item><title>WordPress Doula Site Overhaul</title><link>https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul</link><guid isPermaLink="false">freelancer:40806795</guid><pubDate>Sat, 07 Nov 2026 02:54:47 GMT</pubDate><description>30-250 USD | I need a WordPress specialist to refresh and relaunch my site so it fully reflects our new brand, “THE DOULA ALLIANCE – Maternal Education • Advocacy • Doula Support”.
 
 Scope of work  
@@ -894,6 +882,21 @@ Here’s what I’m after:
 • Final hand-off of all design files and, if you’re handling the build, a fully implemented responsive version of the new layout on the live domain
 
 If you plan to tackle only design or both design and development, just let me know your preferred workflow. Clean code, accessibility considerations, and clear documentation are must-haves for acceptance.</description></item>
+<item><title>WordPress Age Gate &amp; Checkout Tweaks</title><link>https://www.freelancer.com/projects/javascript/WordPress-Age-Gate-Checkout-Tweaks</link><guid isPermaLink="false">freelancer:40805096</guid><pubDate>Thu, 05 Nov 2026 22:07:44 GMT</pubDate><description>30-250 USD | I’m looking to tidy up a few key user-experience points on my WooCommerce site.
+
+First, every new visitor must pass a 21+ age gate that appears as a pop-up when the site loads. If someone clicks “I’m under 21,” they should be taken straight to a simple “You must be 21 or older” page and barred from browsing further.
+
+Second, I’d like the major credit-card logos displayed consistently in the footer, on every product page, and again on the checkout screen so shoppers instantly know their payment options.
+
+Finally, before any payment is processed I want an Order Review page inserted—essentially a final summary step that lets customers double-check items, quantities, totals, and shipping details before they commit.
+
+Deliverables
+• Age-verification pop-up with under-21 redirect  
+• “You must be 21 or older” landing page  
+• Credit-card icon placement in footer, product pages, and checkout  
+• Order Review step added just prior to payment submission  
+
+The site runs on the latest WordPress + WooCommerce stack, so you’ll need solid PHP, JS, and CSS skills to implement and style these features cleanly without breaking existing functionality. Let me know your timeline and any plugin or custom-code approach you prefer so we can get started right away.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
