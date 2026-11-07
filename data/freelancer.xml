@@ -15,11 +15,6 @@ Ideal Skills and Experience:
 - Experience in optimizing bot interactions
 
 Looking for a freelancer who can ensure my AI bot is user-friendly and visually appealing. It’s currently demo trial has had great results but the live trial seems to be not working the same the project has been developed with chat gpt and vis code on ctrader platform </description></item>
-<item><title>Website Plugin Updates Needed - Payment Plugins for Stripe WooCommerce &amp; WooCommerce One Page Checkout with custom coding</title><link>https://www.freelancer.com/projects/php/Website-Plugin-Updates-Needed-Payment</link><guid isPermaLink="false">freelancer:40806833</guid><pubDate>Sat, 07 Nov 2026 03:54:05 GMT</pubDate><description>30-250 AUD | I need an experienced developer who can update the plugin - Payment Plugins for Stripe WooCommerce and retain custom coding that has been written on another plugin - WooCommerce One Page Checkout.
-
-Ideal Skills:
-- Proven experience in plugin development and related technologies.
--needs to be reliable and can communicate in English fluently.</description></item>
 <item><title>WordPress Doula Site Overhaul</title><link>https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul</link><guid isPermaLink="false">freelancer:40806795</guid><pubDate>Sat, 07 Nov 2026 02:54:47 GMT</pubDate><description>30-250 USD | I need a WordPress specialist to refresh and relaunch my site so it fully reflects our new brand, “THE DOULA ALLIANCE – Maternal Education • Advocacy • Doula Support”.
 
 Scope of work  
@@ -897,6 +892,23 @@ Deliverables
 • Order Review step added just prior to payment submission  
 
 The site runs on the latest WordPress + WooCommerce stack, so you’ll need solid PHP, JS, and CSS skills to implement and style these features cleanly without breaking existing functionality. Let me know your timeline and any plugin or custom-code approach you prefer so we can get started right away.</description></item>
+<item><title>Interactive Dust-Collection Configurator</title><link>https://www.freelancer.com/projects/vue-js/Interactive-Dust-Collection-Configurator</link><guid isPermaLink="false">freelancer:40804964</guid><pubDate>Thu, 05 Nov 2026 19:56:17 GMT</pubDate><description>750-1500 EUR | I need an in-browser configurator that lets woodworkers drag-and-drop straight pipe, 90°, 45°, 22.5° and other fittings to lay out a complete dust-collection system. While they build, the tool must keep an accurate bill of materials: SKU, description, quantity and current price pulled from my WooCommerce shop.  
+
+When the layout is done the user should be able to  
+• send the item list directly to me as a quote request, and  
+• save the design with a unique link they can share with any dealer.  
+
+The builder has to run both on my own WordPress site and, via an embeddable snippet or white-label sub-domain, on partner dealer sites for a small monthly licence. A lightweight admin panel where I can add or suspend dealers and set their monthly fee will cover that side.  
+
+Core expectations  
+• Responsive drag-and-drop canvas (2D or simple 3D) built with modern JS—React, Vue, Three.js or similar.  
+• Real-time BOM and pricing pulled from the existing product database.  
+• Export design as JSON/PDF, plus shareable URL.  
+• Clean, branded UI that matches my current site.  
+• Documentation so I can maintain pipe parts, prices and dealer accounts myself.  
+
+I have no fixed deadline, so you can propose a realistic schedule and milestone breakdown that fits the scope.
+It don´t need a high resoultion rendering, cause its on a website, live.</description></item>
 <item><title>Azure and .NET Website Modernization: Umbraco, Security, Accessibility and Technical Proposal Support (US Citizens Only)</title><link>https://www.freelancer.com/projects/dot-net/Azure-NET-Website-Modernization-Umbraco</link><guid isPermaLink="false">freelancer:40803188</guid><pubDate>Wed, 04 Nov 2026 20:17:26 GMT</pubDate><description>8-15 USD/hr | We ara seeking experienced freelancers or a qualified technical team to support a proposal for a multi-website hosting, maintenance and modernization project. The initial engagement covers technical planning, solution architecture, prototype wireframes and a client demonstration presentation. Implementation and ongoing support may follow, subject to project award and a separate agreement.
 The project involves public-facing websites, an Umbraco-based knowledge portal, static content, document libraries, event archives and video hosting. The proposed solution must address secure Azure hosting, CMS upgrades, accessible design, advanced search, content management, operational reliability and federal security requirements.
 Scope of Work
