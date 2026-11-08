@@ -3,6 +3,45 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modernize Real Estate Auction Platform</title><link>https://www.freelancer.com/projects/nextjs/Modernize-Real-Estate-Auction-Platform</link><guid isPermaLink="false">freelancer:40809033</guid><pubDate>Sun, 08 Nov 2026 22:26:31 GMT</pubDate><description>750-1500 USD | Seeking Experienced Development Team – Real Estate Auction Platform Modernization
+
+We are seeking an experienced software development team to take over and modernize an existing real estate auction and transparent-offer marketplace, SimpliOffer.com.
+
+Our platform is currently built using PHP (Slim Framework), MySQL, and AWS. We own the source code and are looking for a long-term development partner with experience in auction platforms, real estate technology, SaaS, and online marketplaces.
+
+Project Objectives:
+
+Review and evaluate our existing source code and architecture.
+
+Completely modernize the UI/UX with a professional, mobile-first design.
+
+Improve buyer, seller, broker, and administrative dashboards.
+
+Enhance the existing bidding and offer-management experience.
+
+Improve performance, security, and scalability.
+
+Explore future white-label SaaS functionality for independent real estate brokerages and auction companies.
+
+Preserve and improve existing technology wherever practical rather than rebuilding unnecessarily.
+
+Required Experience:
+
+PHP / Slim Framework and MySQL
+
+AWS infrastructure
+
+React / Next.js or comparable modern frontend technologies
+
+Marketplace or auction platform development
+
+API integration and real-time bidding systems
+
+We are initially seeking proposals for a technical assessment, modernization strategy, estimated development timeline, and project pricing.
+
+Please include examples of auction platforms, marketplaces, or SaaS products your team has developed, along with your hourly rates and experience taking over existing software projects.
+
+We are interested in establishing a long-term development relationship with the right team.</description></item>
 <item><title>Luxury Car Dealership Website -- 2</title><link>https://www.freelancer.com/projects/php/Luxury-Car-Dealership-Website</link><guid isPermaLink="false">freelancer:40809006</guid><pubDate>Sun, 08 Nov 2026 21:53:02 GMT</pubDate><description>1500-3000 USD | I run a boutique showroom that specialises in luxury and high-performance vehicles and I need a website that turns online visitors into serious buyers. The look and feel must echo the premium brands I stock—think clean lines, high-resolution imagery, subtle animations, and a friction-free browsing flow on both mobile and desktop.
 
 What matters most is the ability to showcase each vehicle with rich photos, detailed specifications, provenance information, and a prominent enquiry form that drops leads straight into my CRM. I also want an inventory section I can update myself without touching code, along with basic SEO foundations so new stock is indexed quickly.
@@ -1152,47 +1191,6 @@ Once finished, I’ll need:
 • A short walk-through so I can update products and images myself
 
 If this sounds like your kind of creative build, please tell me how you’d approach the design, which platform you suggest, and your estimated timeline.</description></item>
-<item><title>Zynga Poker chips Management Dashboard</title><link>https://www.freelancer.com/projects/web-development/Zynga-Poker-chips-Management-Dashboard</link><guid isPermaLink="false">freelancer:40806148</guid><pubDate>Fri, 06 Nov 2026 14:52:12 GMT</pubDate><description>30-250 EUR | # Zynga Poker Chip Generation System – Private Project
-
-## Project Description
-
-I am looking for an experienced developer to build a private web-based system for Zynga Poker.
-
-The main goal is to develop a system capable of generating Zynga Poker chips, subject to technical feasibility and permitted methods.
-
-This system is for my personal use only.
-
-## Required Features
-
-1. Private web-based admin panel.
-2. Manage multiple Zynga Poker accounts.
-3. Monitor chip balances.
-4. Track transfer and transaction statuses.
-5. Dashboard displaying account balances and statistics.
-6. Responsive design for Windows, Android and iPhone.
-7. Secure administrator login.
-8. Complete source code and installation instructions.
-
-## Important Technical Questions
-
-Before development begins, the developer must explain:
-
-1. What technical method would the system use?
-2. Does the system generate new chips or transfer existing chips?
-3. Can you provide a working prototype?
-4. Is the proposed method permitted by Zynga?
-
-## Questions for Developers
-
-1. Have you previously developed a similar system?
-2. Can you provide a working demo or screenshots?
-3. What is your estimated development time and total cost?
-
-## Budget
-
-$50–$200, depending on the functionality and technical feasibility.
-
-**Important:** I am looking for a developer with proven practical experience, not someone who can only build a standard dashboard.</description></item>
 <item><title>Single Product Checkout Page Creation</title><link>https://www.freelancer.com/projects/css/Single-Product-Checkout-Page-Creation</link><guid isPermaLink="false">freelancer:40805934</guid><pubDate>Fri, 06 Nov 2026 11:39:26 GMT</pubDate><description>15-25 USD/hr | I need a simple, user-friendly cart page for a single product. 
 
 Requirements:
