@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Lead-Generating Civil Engineering Website</title><link>https://www.freelancer.com/projects/web-design/Lead-Generating-Civil-Engineering</link><guid isPermaLink="false">freelancer:40808702</guid><pubDate>Sun, 08 Nov 2026 15:25:29 GMT</pubDate><description>30-250 USD | I need a clean, fully responsive website that turns visitors into qualified enquiries for our civil engineering firm. The single most important outcome is to encourage prospects to request a site visit, so every design choice should steer them toward that action while presenting our company history and values with clarity and authority.
+
+The build must look sharp on desktop, tablet, and mobile, load fast, and be search-engine friendly. A modern CMS—WordPress, Webflow, or a comparable platform—will let my team update text and add new projects without coding. Integrate an intuitive “Request a Site Visit” form or scheduling widget that emails our office and stores entries in the back-end for easy follow-up.
+
+Deliverables
+• Custom design and front-end development (HTML5, CSS3, JavaScript, Bootstrap or equivalent)  
+• CMS setup with reusable templates for future pages  
+• On-page SEO basics, Google Analytics, and essential security hardening  
+• Handoff package: style guide, editable files, and a brief video or PDF showing how to manage content
+
+Acceptance criteria
+1. Pages render flawlessly across major browsers and common screen sizes  
+2. Site-visit request workflow sends notifications and logs data reliably  
+3. Core pages load in under three seconds on a 4G mobile connection  
+4. I can edit menus, text, and images without developer assistance
+
+Please share a realistic timeline; a clickable draft within two weeks of kickoff would be ideal.</description></item>
 <item><title>We need a stunning one-page website for our real estate brand!</title><link>https://www.freelancer.com/projects/web-design/need-stunning-one-page-website</link><guid isPermaLink="false">freelancer:40808699</guid><pubDate>Sun, 08 Nov 2026 15:19:20 GMT</pubDate><description>250-750 USD | Hey there! We’re LUX &amp; MAIN, INC., a real estate and property management company that deals with high-end residential and commercial spaces. We’re looking for a talented web developer to build us a beautiful, modern one-page website that really shows off what we do.
  
 Here’s the deal: we want something clean, fast, and elegant. The page should open with a big, immersive photo, then show off a grid of our best properties, highlight our core services, and end with a simple contact form for private inquiries. We want it to feel premium, with lots of white space and smooth animations when you scroll.
@@ -964,17 +981,6 @@ Ideal skills and experience:
 - Experience in creating e-commerce pages
 - Familiarity with secure payment integrations
 - Attention to detail and ensuring a seamless user experience</description></item>
-<item><title>Business Info WordPress Build</title><link>https://www.freelancer.com/projects/wordpress-design/Business-Info-WordPress-Build</link><guid isPermaLink="false">freelancer:40805900</guid><pubDate>Fri, 06 Nov 2026 11:09:37 GMT</pubDate><description>30-250 USD | I need a clean, modern WordPress site whose sole focus is presenting clear information about my business and the services I offer. The structure is straightforward: Home, About Us, Services, and Contact.  
-
-Each page should be easy to edit through the standard WordPress admin panel, load quickly, and display perfectly on mobile and desktop. I’m happy for you to recommend and configure a lightweight theme or a well-supported page builder—Elementor, Gutenberg blocks, or another tool you trust—as long as the final result is fast, SEO-friendly, and simple for me to maintain.
-
-Key deliverables  
-• Fully configured WordPress installation on my hosting  
-• Four finished pages populated with placeholder text I can swap out later  
-• Contact page set up with my email and phone details clearly visible  
-• Basic on-page SEO (titles, meta descriptions, responsive images)
-
-Once the site is live, I’d appreciate a short walkthrough (screenshare or concise PDF) showing where I update text and images so I can manage content myself.</description></item>
 <item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
 
 Current setup:
