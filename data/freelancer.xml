@@ -3,6 +3,69 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>GoHighLevel Real Estate Systems Architect</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-Real-Estate-Systems</link><guid isPermaLink="false">freelancer:40808913</guid><pubDate>Sun, 08 Nov 2026 19:33:19 GMT</pubDate><description>30-250 CAD | GoHighLevel (GHL) Systems Architect – Full Account Audit, Multi-Segment Setup &amp; Automation
+
+
+Project Overview
+
+I am looking for an experienced GoHighLevel (GHL) CRM, Automation &amp; Systems Architect to audit, organize, and fully build out my existing GHL account. I run a solo real estate business that spans multiple segments (Residential Buyers/Sellers, Leasing, Commercial Real Estate, and Business Brokerage).
+I am not looking for a basic landing page builder. I need someone who understands CRM strategy + data segmentation + advanced deliverability, who can clean up my existing assets while implementing a precise technical blueprint I have already mapped out.
+
+What I Have Already
+
+• An active GHL account and custom website with multiple features.
+• Existing leads, contacts, and past client databases (needs cleaning/segmenting).
+• Scraped lists and business registries ready for outbound prospecting.
+• Scattershot funnels and automations that need to be audited, improved, or replaced.
+
+Scope of Work &amp; Technical Blueprint
+
+Phase 1: Audit, Cleanup &amp; Data Segmentation
+
+• System Audit: Review all existing workflows, forms, and triggers. Delete or archive broken or redundant automations to clean up the account.
+• Master Sub-Account Structure: Organize all data within one single master sub-account (no fragmented sub-accounts).
+• Contact Cleansing: Clean, deduplicate, and segment my existing contact database using specific master tags (Segment: Buyer, Segment: Seller, Segment: Commercial, etc.).
+
+Phase 2: Core Architecture &amp; 6 Custom Pipelines
+
+You will build and configure 6 distinct Kanban pipelines with unique milestone stages tailored to each asset class:
+1. Residential Buyers
+2. Residential Sellers
+3. Residential Leasing (Application, background check, lease stages)
+4. Commercial Real Estate (Buyers/Sellers) (NDA, LOI, due diligence stages)
+5. Business For Sale (Valuation, CIM prep, marketing stages)
+6. Outbound Prospecting Pipeline (A dedicated "buffer" pipeline to filter raw/scraped cold leads before they hit my main business metrics)
+
+Phase 3: Outbound Isolation &amp; Deliverability Configuration
+
+• Domain Isolation: Integrate a secondary "lookalike" cold email domain specifically for outbound prospecting to protect my main website domain’s sender reputation. Configure SPF, DKIM, and DMARC.
+• Outbound Phone Setup: Configure a secondary GHL tracking line with A2P 10DLC parameters strictly for manual outbound sprints.
+
+Phase 4: Workflow Automations &amp; Handraiser Controls
+
+• The Inbound Reply Stop: Build an automated trigger where any reply to a cold outbound campaign instantly pauses the automation, moves the contact to Handraiser / Reply Received in the Prospecting Pipeline, and shoots an Instant Push Notification to my phone via the LeadConnector app (linking directly to the conversation).
+• Mobile Call-Logging Triggers: Build workflows mapped to 4 custom tags (Call: Left Voicemail, Call: No Answer, Call: Callback Requested, Call: Gatekeeper Block). When I apply these tags in the GHL mobile power-dialer, GHL must automatically update the opportunity stage and schedule the next follow-up task.
+
+Phase 5: Nurturing, Reporting &amp; Training
+
+• Re-engagement Campaigns: Set up automated past-client, referral, and database re-engagement campaigns.
+• Attribution Reporting: Configure dashboard widgets so I can filter conversion rates and pipeline values by individual business segments.
+• Hand-off &amp; Training: Provide a live walkthrough or short recorded training session showing me exactly how to navigate the new, cleaned system.
+
+Proposed Project Milestones (Escrow Release)
+
+Payment will be split into three strict milestones based on deliverables:
+• Milestone 1 (20%): Completion of the GHL account audit, database cleanup, domain isolation setup, and tag restructuring.
+• Milestone 2 (50%): Successful build of all 6 pipelines, conditional custom fields, cold outreach workflows, and mobile app call-logging automations (Fully Tested).
+• Milestone 3 (30%): Re-engagement campaigns live, dashboard reporting verified, and final training/hand-off completed.
+
+Submission Requirements (Proposals ignoring this will be archived)
+
+To be considered, your proposal MUST include:
+1. Fixed-Price Quote: Provide the total, all-inclusive price for the complete project based on the scope above. No placeholder bids.
+2. Timeline: How many days will this take you from start to finish?
+3. Work Samples: Provide screenshots or a short video of a GHL architecture, pipeline system, or multi-channel workflow you have personally built (real estate focus is a massive plus).
+4. Screening Question: Answer this in your application: “How do you prevent a cold lead from continuing to receive automated emails once they manually reply to a GHL workflow?” (This proves you read the description.)</description></item>
 <item><title>Pool Cleaning Service Landing Page</title><link>https://www.freelancer.com/projects/web-design/Pool-Cleaning-Service-Landing-Page</link><guid isPermaLink="false">freelancer:40808844</guid><pubDate>Sun, 08 Nov 2026 18:20:57 GMT</pubDate><description>250-750 USD | Hey! I run a local pool cleaning and maintenance business, and I really need a simple, professional website to get more clients. I don't need anything complicated, just a clean one-page site that shows people what we do and makes it easy for them to call us.
  
 Basically, it should have a nice header photo of a sparkling clean pool, a section listing our main services (weekly cleaning, repairs, and opening/closing for the season), a few customer reviews, and a big contact button with our phone number. It absolutely has to look great and work perfectly on mobile phones, since that's how most people will find us when they search online.
@@ -948,22 +1011,6 @@ $50–$200, depending on the functionality and technical feasibility.
 • Remove any now-irrelevant sections and make sure internal links, images and meta data are all pointing to the new domain.
 
 Please handle the full migration (files, database, redirects if needed), apply the page changes, test the enquiry form, and confirm everything works across desktop and mobile before sign-off.</description></item>
-<item><title>Contractor Website and Email Migration</title><link>https://www.freelancer.com/projects/web-development/Contractor-Website-Email-Migration</link><guid isPermaLink="false">freelancer:40806124</guid><pubDate>Fri, 06 Nov 2026 14:30:35 GMT</pubDate><description>250-750 USD | Our construction group has just merged and rebranded, so I need a fresh website launched under the new domain and our company email moved to Google Workspace.   
-
-Website scope  
-– Purpose: present our commercial construction, residential work, and renovation / remodel portfolio, generate enquiries, and offer clear company information with up-to-date contact details.  
-– Look &amp; feel: clean, professional, mobile-friendly, and easy for our staff to update.  
-– Core sections: project gallery with filterable Commercial, Residential, and Renovation categories; an enquiry form that feeds directly to our new Gmail addresses; team/about page; news or blog area for future posts.  
-– Platform/CMS: open to your recommendation (WordPress, Webflow, custom) as long as non-technical staff can add photos, edit text, and publish new pages without touching code.  
-– SEO basics, analytics, and on-page optimisation included so we start ranking for local contracting searches.  
-
-Email &amp; domain work  
-– Register or point the new domain, create all user accounts in Google Workspace, migrate existing mail and contacts, set up SPF/DKIM/DMARC, and configure aliases and groups.  
-
-Ongoing support  
-After launch I’d like to keep you on call for content updates, adding new email users, and small site tweaks as projects complete. Please outline the best way to structure this (hourly or maintenance block).  
-
-If you have experience building contractor sites and handling Google Workspace migrations, I’d love to see examples and hear how quickly you can get us live.</description></item>
 <item><title>Single Product Checkout Page Creation</title><link>https://www.freelancer.com/projects/css/Single-Product-Checkout-Page-Creation</link><guid isPermaLink="false">freelancer:40805934</guid><pubDate>Fri, 06 Nov 2026 11:39:26 GMT</pubDate><description>15-25 USD/hr | I need a simple, user-friendly cart page for a single product. 
 
 Requirements:
