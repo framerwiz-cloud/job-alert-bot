@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Expert Webmaster for Site Recovery</title><link>https://www.freelancer.com/projects/cpanel/Expert-Webmaster-for-Site-Recovery</link><guid isPermaLink="false">freelancer:40808322</guid><pubDate>Sun, 08 Nov 2026 08:11:28 GMT</pubDate><description>250-750 USD | I’m looking for an engineer-level webmaster who can partner with us long term. Right now, every minute counts because several of our sites across two different hosts are offline. Although Blue Host engineers performed an initial recovery, the files and databases are still scattered—I need someone who can dig in, locate every piece, and bring each site back exactly as it was.
+
+You will have full hosting-control-panel logins and domain management access for both accounts, so you can work directly inside cPanel, phpMyAdmin, SSH or any other interface you prefer. The first objective is crystal clear: restore all websites on both hosting accounts, not just the public-facing ones we think are most important. Once everything is up and running flawlessly, we’ll move on to ongoing maintenance, performance tuning, security hardening and any new development that pops up.
+
+I value deep programming knowledge—PHP, MySQL, JavaScript, DNS configuration, version control, and troubleshooting at the server level. If you’ve rebuilt broken WordPress, custom PHP, or similar stacks from partial backups before, you’ll fit right in.
+
+Initial deliverables
+• Locate every backup file and database for both hosts  
+• Reassemble and configure each site until it mirrors its pre-outage state  
+• Verify functionality: design layout, links, dynamic features, contact forms, log-ins, payment flows, emails—everything must work without errors  
+• Document the restoration steps so future maintenance is faster  
+
+Acceptance criteria
+• Every domain loads publicly without 404 or PHP errors  
+• SSL certs active, no mixed-content warnings  
+• Admin areas accessible with original credentials  
+• Page-speed and basic security scans pass at least the same thresholds as before the outage  
+
+Once this phase is complete, we’ll set up a retainer for continuous improvements, backups, monitoring, and new feature rollouts. If you thrive on solving messy recoveries and then keeping systems rock-solid, let’s talk.</description></item>
 <item><title>WordPress Site Migration Specialist</title><link>https://www.freelancer.com/projects/elementor/WordPress-Site-Migration-Specialist</link><guid isPermaLink="false">freelancer:40808314</guid><pubDate>Sun, 08 Nov 2026 08:01:40 GMT</pubDate><description>15-25 AUD/hr | I'm looking for a skilled WordPress developer with experience using Elementor to help migrate my website from an agency to in-house management. The site is currently hosted on the same provider, so no changes to the hosting environment are needed.
 
 Key Requirements:
@@ -376,6 +395,28 @@ Take inspiration from high-end streetwear, mountain biking brands and modern eco
 Do not make it look like a basic template. Focus on exceptional design, strong branding, premium photography, fast performance and a shopping experience that converts visitors into customers.
 
 Use the Outlaw Studio black and pink identity consistently throughout the entire website.</description></item>
+<item><title>Improving SEO for Service Website</title><link>https://www.freelancer.com/projects/web-development/Improving-SEO-for-Service-Website</link><guid isPermaLink="false">freelancer:40806959</guid><pubDate>Sat, 07 Nov 2026 06:23:26 GMT</pubDate><description>30-250 USD | need to fix Heading structure,Non-clickable phone numbers ,Missing quotes on attributes, AVIF support , 
+Missing image alt attributes
+Missing aria labels
+Missing roles	
+Missing html lang attribute
+Missing form labels
+Header	OK	Notice	Warning	Critical	Recommendation
+Strict-Transport-Security	0	0	0	120	Strict-Transport-Security header is not set. It enforces secure connections and protects against MITM attacks.
+X-XSS-Protection	44	0	0	76	X-XSS-Protection header is not set. It enables browser's built-in defenses against XSS attacks.
+Content-Security-Policy	117	0	0	3	Content-Security-Policy header is not set. It restricts resources the page can load and prevents XSS attacks.
+X-Powered-By	0	0	0	115	X-Powered-By header is set to 'PHP/8.1.34'. It is better not to reveal the technologies used and especially their versions.
+X-Frame-Options	0	45	75	0	X-Frame-Options header is set to SAMEORIGIN which allows this origin to embed the resource in a frame.
+X-Frame-Options header is not set. It prevents clickjacking attacks when set to 'deny' or 'sameorigin.
+X-Content-Type-Options	45	0	75	0	X-Content-Type-Options header is not set. It stops MIME type sniffing and mitigates content type attacks.
+Referrer-Policy	45	0	75	0	Referrer-Policy header is not set. It controls referrer header sharing and enhances privacy and security.
+Feature-Policy	0	0	120	0	Feature-Policy header is not set. It allows enabling/disabling browser APIs and features for security. Not important if Permissions-Policy is set.
+Permissions-Policy	0	0	120	0	Permissions-Policy header is not set. It allows enabling/disabling browser APIs and features for security.
+Set-Cookie	0	0	2	0	Set-Cookie header for 'PHPSESSID' does not have 'HttpOnly' flag. Attacker can steal the cookie using XSS. Consider using 'HttpOnly' when cookie is not used by JavaScript.
+Server	0	120	0	0	Server header is set to 'hcdn'. It is better not to reveal used technologies.
+SEO metadata for all pages
+etc etc
+we need this for whole website</description></item>
 <item><title>WordPress Website Speed Optimization Specialist Required</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-Website-Speed-Optimization-40806919</link><guid isPermaLink="false">freelancer:40806919</guid><pubDate>Sat, 07 Nov 2026 05:38:38 GMT</pubDate><description>15-25 AUD/hr | WordPress Website Speed Optimization Specialist Required
 
 We require a specialist with proven WordPress speed optimization experience to improve Google PageSpeed Insights and GTmetrix scores across our website, particularly mobile performance, currently around 30–45 on Google PageSpeed Insights. Our target is 90+ where technically achievable, with improvements to Core Web Vitals, including LCP and CLS.
@@ -912,54 +953,6 @@ Key deliverables
 
 Once the site is live, I’d appreciate a short walkthrough (screenshare or concise PDF) showing where I update text and images so I can manage content myself.</description></item>
 <item><title>E commerce Website</title><link>https://www.freelancer.com/projects/web-development/commerce-Website-40805646</link><guid isPermaLink="false">freelancer:40805646</guid><pubDate>Fri, 06 Nov 2026 07:20:20 GMT</pubDate><description>30-250 USD | Design and develop e commerce website (English and Arabic)</description></item>
-<item><title>WordPress Store Maintenance &amp; AI SEO monthly project </title><link>https://www.freelancer.com/projects/wordpress-security/WordPress-Store-Maintenance-SEO-monthly</link><guid isPermaLink="false">freelancer:40805583</guid><pubDate>Fri, 06 Nov 2026 06:19:23 GMT</pubDate><description>30-250 AUD | I run an online store built on WordPress and need a reliable partner to keep it healthy, profitable, and visible each month. The work is ongoing and touches three main areas: keeping the site secure and up-to-date, enhancing the catalogue and shopping experience.
-
-WordPress care  
-Core, theme, and plugin updates must be applied promptly, security holes patched, and any bugs you find fixed before they affect customers. I expect zero downtime and a quick heads-up if a major issue is spotted.
-
-Store growth  
-New products appear monthly, so I’ll send you photos, prices, and descriptions to upload and format. You will also refine existing listings and variations, . Beyond catalogue work, I’d like you to streamline checkout, payments, shipping rules, and anything else that reduces cart abandonment.
-
-AI-driven SEO / GEO / AEO  
-I rely on organic traffic, so structured data, on-page optimisation, and fresh content all matter. Using current AI and local-search tools, please improve rankings for both traditional and answer-engine queries, then report back so we can see progress.
-
-Because I’m in GMT+7, someone already based in South-East Asia will match my working hours best and make real-time handovers smooth.
-
-Monthly deliverables  
-• All WordPress core, plugin, and theme updates applied and tested  
-• Security scan with any issues resolved  
-• New and updated product listings live and accurate, updating of banners , articles  
-• Checkout, payment, and shipping refinements released (as needed)  
-• AI/GEO/AEO SEO actions completed with short performance report  
-
-I believe the work should onyl take around 8 hours per month. 
-
-If this aligns with your skills and schedule, I’m ready to start our first month right away.</description></item>
-<item><title>Dropshipping E-Commerce Website Build</title><link>https://www.freelancer.com/projects/woocommerce/Dropshipping-Commerce-Website-Build</link><guid isPermaLink="false">freelancer:40801283</guid><pubDate>Fri, 06 Nov 2026 06:09:06 GMT</pubDate><description>30-250 AUD | I need a complete, ready-to-sell dropshipping website focused on two main verticals: fashion (women/mens) and hair and beauty products, plus home &amp; kitchen items. 
-
-The store must feel polished on both desktop and mobile, with intuitive navigation so shoppers can quickly locate products through a robust search bar and fine-grained filters (size, colour, price, category, etc.).
-
-Customer accounts are essential. Shoppers should be able to register or sign in, view their order history, and track shipments in real time from their dashboard. Secure checkout, multiple payment gateways, and automated confirmation emails are also expected.
-
-While I haven’t chosen a supplier integration yet, platforms like Shopify are preferred. I am open to strong recommendations for services like AliExpress, CJdropshipping, or any others that sync inventory, automate order forwarding, and update tracking data back to my store.
-
-Key requirement: This site must be 100% self-serving without requiring my direct interaction with customers. It should automate all order processing, customer service responses (via FAQs or support automation), and tracking updates to avoid manual customer handling.
-
-Deliverables:
-• Fully responsive shopfront with separate fashion for MEN AND WOMEN, INCLUDING SHOES, HAIR AND BEAUTY PRODUCTS AND ACCESSORIES.
-• Home/kitchen collections 
-• Advanced product search and filter functionality  
-• Customer account system with order tracking  
-• Seamless dropshipping supplier integration, tested and live  
-• Payment gateway setup and basic on-page SEO  
-• Handover of admin credentials and brief walkthrough
-
-Additionally:
-- Candidates must demonstrate prior experience building fully automated dropshipping websites (please provide samples or references).
-- Must have clear English communication skills for smooth collaboration.
-- Freelancers should not contact with proposals outside the stated budget range.
-
-If you prefer another tech stack solution beyond Shopify or WooCommerce that aligns with this project and future scaling needs—let me know why it suits.</description></item>
 <item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
 
 Current setup:
