@@ -39,33 +39,6 @@ Acceptance criteria
 5. I receive a brief video walkthrough and written guide covering routine updates.
 
 If you have deep experience with Wix Members, Wix Payments, Corvid (for any custom logic), and can advise on the best way for clients to consume their personalised plans, I’m ready to get started.</description></item>
-<item><title>WooCommerce Auto Parts Inventory Integration</title><link>https://www.freelancer.com/projects/inventory-management/WooCommerce-Auto-Parts-Inventory</link><guid isPermaLink="false">freelancer:40807890</guid><pubDate>Sat, 07 Nov 2026 22:10:37 GMT</pubDate><description>10000-20000 USD | We need an experienced WooCommerce developer to create an independent inventory integration and parts-search solution for ABC Auto Wrecking in Tucson, Arizona.
-
-Our current website is https://abcautowreckingaz.com. It uses WordPress/WooCommerce and URG’s IIS inventory plugin. We want to replace our dependence on URG while retaining our existing website where practical.
-
-We use Checkmate for yard inventory management. Buddy Automotive Innovations currently participates in transferring our inventory to URG. Direct access to that feed and website interchange licensing still need to be confirmed.
-
-Project requirements:
-
-• Automatically import and update a large inventory catalog, including prices, descriptions, photos, stock numbers, mileage, and availability.
-• Reliably remove or mark sold parts unavailable.
-• Provide vehicle and part searches using properly licensed interchange/fitment data.
-• Support our freight and small-package shipping rules, terminal pickup, and residential surcharges.
-• Maintain reliable, fast cart and checkout functionality.
-• Connect inventory to our existing Google Merchant Center and Google Ads accounts, preserving product IDs and URLs where possible.
-• Preserve order history and existing payment and ShipStation integrations.
-• Develop and test on a staging site before making changes to the live store.
-• Include monitoring for failed inventory updates and documentation another developer can follow.
-
-Ownership and support:
-
-ABC must own the custom code and receive complete, readable source code under a written ownership agreement. Hosting and code repository accounts must be controlled by ABC. Identify all third-party software, licenses, and recurring charges in your proposal.
-
-We also need ongoing maintenance and clearly stated emergency-support availability, including evenings and weekends.
-
-Please provide examples of inventory integrations and large WooCommerce stores you personally developed. Experience with Checkmate, Buddy, Hollander interchange, or auto recyclers is strongly preferred.
-
-We want to begin with a paid technical assessment to confirm data access, licensing requirements, architecture, timeline, and a milestone-based development quote. Please explain which existing plugins you would use and which components require custom development.</description></item>
 <item><title>Ecam and Rodecaster Setup</title><link>https://www.freelancer.com/projects/av-design/Ecam-Rodecaster-Setup</link><guid isPermaLink="false">freelancer:40807797</guid><pubDate>Sat, 07 Nov 2026 19:49:04 GMT</pubDate><description>250-750 USD | I need a professional to connect my Ecam and Rodecaster Pro II to receive iPhone calls during my live radio show.
 
 Requirements:
@@ -980,6 +953,22 @@ Alongside the fixes, I also need a couple of fresh pages and minor feature addit
 You’ll be working directly in WordPress, so experience with Elementor or Gutenberg, custom CSS, and a bit of PHP to handle odd glitches will come in handy. Clean, well-commented changes and a quick turnaround are priorities; I’d like the updated sections ready for review as soon as practical.  
 
 If this sounds like a comfortable fit, let’s get started.</description></item>
+<item><title>Shopify Store Refresh &amp; Bundles Setup</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-Refresh-Bundles-Setup</link><guid isPermaLink="false">freelancer:40805207</guid><pubDate>Fri, 06 Nov 2026 00:16:08 GMT</pubDate><description>30-250 USD | I need to refresh my Shopify store so it speaks clearly to shoppers and encourages larger cart sizes. The first priority is updating existing copy and images while adding a few new sections—an expanded About page, a streamlined FAQ, and several category landing pages.  
+
+Because I ship only physical products, I also want to boost average order value with two types of offers: ready-made bundles that appear directly on the product page and automatic tiered discounts that trigger when a customer adds more units of the same item. I’m open to whichever apps you feel suit these goals best, as long as they integrate smoothly with Shopify’s native checkout and do not slow page speed.  
+
+Alongside the content and promotional work, the overall design and navigation need polish. Think cleaner menus, consistent font styles, and an improved mobile layout so shoppers can find items quickly. I’ll provide brand guidelines and product photos; you handle theme adjustments, app connections, and testing.  
+
+Deliverables  
+• Updated store pages with new content live and formatted correctly  
+• A functioning bundle feature on selected products, complete with pricing rules, images, and tracking in analytics  
+• Volume-based discount logic applied store-wide, visible in the cart and at checkout  
+• Refined navigation and theme tweaks for a cohesive, mobile-first look  
+• Brief hand-off notes so I can manage future edits on my own  
+
+Everything should be implemented directly in Shopify using Liquid, Theme Editor, and the chosen apps, with minimal custom code unless necessary. Once complete, I’ll run a final review and sign off.
+
+The website is innercourt.net</description></item>
 <item><title>WordPress Maintenance Specialist Needed</title><link>https://www.freelancer.com/projects/css/WordPress-Maintenance-Specialist-Needed</link><guid isPermaLink="false">freelancer:40805173</guid><pubDate>Thu, 05 Nov 2026 23:36:44 GMT</pubDate><description>8-15 USD/hr | I need a WordPress expert for standard maintenance tasks and small content changes. 
 
 Key tasks include:
