@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>CCBill Model Video Platform</title><link>https://www.freelancer.com/projects/web-development/CCBill-Model-Video-Platform</link><guid isPermaLink="false">freelancer:40808834</guid><pubDate>Sun, 08 Nov 2026 18:08:05 GMT</pubDate><description>1500-3000 USD | I’m launching a subscription-and-pay-per-download video site where independent models can earn directly from their content. Members must be able to unlock every clip through a recurring monthly plan or buy single videos outright; both options need to coexist cleanly in the storefront and catalogue.  
+
+Each model will have a personal creator account to upload, tag, price and manage their own videos. The system then pays them a configurable percentage of every sale, tracked automatically, with clear earnings reports they can export. I only step in as the site admin to set the global revenue split, handle support tickets and, if necessary, approve or remove content.  
+
+CCBill is the required payment gateway for all recurring subscriptions, single-item purchases and model payouts, so the build has to meet CCBill compliance standards from day one. Beyond that, I’m flexible on tech stack—whether you prefer WordPress with specialised plugins, a Laravel or Node back-end, or another secure framework—so long as it scales, runs smoothly on mobile and desktop, and keeps uploaded files secure.  
+
+Key deliverables  
+• Fully responsive website with member, model and admin roles configured  
+• Dual access system: monthly subscription unlocking all videos + individual video purchase/ download flow  
+• Seamless CCBill integration for both revenue streams and automated model payout tracking  
+• Model dashboard: upload interface, pricing controls, sales analytics, payout history  
+• Admin dashboard: user moderation, content oversight, adjustable revenue-share percentage, manual override tools  
+• Basic SEO setup, analytics hooks and documentation for ongoing maintenance  
+
+If you’ve built creator marketplaces or handled CCBill integrations before, let’s talk timelines and a sensible milestone plan so I can get this platform live without cutting corners on security or user experience.</description></item>
 <item><title>Lead-Generating Civil Engineering Website</title><link>https://www.freelancer.com/projects/web-design/Lead-Generating-Civil-Engineering</link><guid isPermaLink="false">freelancer:40808702</guid><pubDate>Sun, 08 Nov 2026 15:25:29 GMT</pubDate><description>30-250 USD | I need a clean, fully responsive website that turns visitors into qualified enquiries for our civil engineering firm. The single most important outcome is to encourage prospects to request a site visit, so every design choice should steer them toward that action while presenting our company history and values with clarity and authority.
 
 The build must look sharp on desktop, tablet, and mobile, load fast, and be search-engine friendly. A modern CMS—WordPress, Webflow, or a comparable platform—will let my team update text and add new projects without coding. Integrate an intuitive “Request a Site Visit” form or scheduling widget that emails our office and stores entries in the back-end for easy follow-up.
@@ -972,17 +987,6 @@ Ideal skills and experience:
 - Experience in creating e-commerce pages
 - Familiarity with secure payment integrations
 - Attention to detail and ensuring a seamless user experience</description></item>
-<item><title>Business Info WordPress Build</title><link>https://www.freelancer.com/projects/wordpress-design/Business-Info-WordPress-Build</link><guid isPermaLink="false">freelancer:40805900</guid><pubDate>Fri, 06 Nov 2026 11:09:37 GMT</pubDate><description>30-250 USD | I need a clean, modern WordPress site whose sole focus is presenting clear information about my business and the services I offer. The structure is straightforward: Home, About Us, Services, and Contact.  
-
-Each page should be easy to edit through the standard WordPress admin panel, load quickly, and display perfectly on mobile and desktop. I’m happy for you to recommend and configure a lightweight theme or a well-supported page builder—Elementor, Gutenberg blocks, or another tool you trust—as long as the final result is fast, SEO-friendly, and simple for me to maintain.
-
-Key deliverables  
-• Fully configured WordPress installation on my hosting  
-• Four finished pages populated with placeholder text I can swap out later  
-• Contact page set up with my email and phone details clearly visible  
-• Basic on-page SEO (titles, meta descriptions, responsive images)
-
-Once the site is live, I’d appreciate a short walkthrough (screenshare or concise PDF) showing where I update text and images so I can manage content myself.</description></item>
 <item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
 
 Current setup:
