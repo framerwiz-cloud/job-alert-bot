@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Auto Parts Integration Assessment</title><link>https://www.freelancer.com/projects/api-integration/WooCommerce-Auto-Parts-Integration</link><guid isPermaLink="false">freelancer:40808740</guid><pubDate>Sun, 08 Nov 2026 16:21:36 GMT</pubDate><description>250-750 USD | We are an established auto recycling business seeking an experienced WooCommerce developer for a paid technical assessment and discovery phase before starting a larger website integration project.
+
+We use Checkmate by Car-Part.com to manage our used auto parts inventory. We want to connect that inventory to a WooCommerce website through a custom integration that our business will own.
+
+Our inventory includes approximately 170,000 parts, so reliable updates, accurate availability, and fast website performance are essential.
+
+This initial project is for assessment and planning. Please quote the assessment separately from the full development work.
+
+What we need assessed:
+
+• Inventory integration: Determine how inventory can be obtained from Checkmate, including stock numbers, VINs, vehicle year/make/model, descriptions, prices, mileage, condition, availability, and photos. Confirm the available feed format and access requirements rather than assuming an API exists.
+
+• Inventory updates: Plan automated nightly updates to upload new inventory, update existing listings, and remove sold parts. Identify whether more frequent updates are possible.
+
+• Interchange and fitment: Determine how customers can search by year, make, model, and part, using the appropriate interchange information. Identify any licensing or permission requirements that must be confirmed with Checkmate/Car-Part.com or the data owner.
+
+• Shipping: Plan configurable shipping prices by part type and distance from our Tucson, Arizona location. Desired zones include 0–100, 100–200, 200–300, 300–400, 400–500, 500–700, and 700+ miles.
+
+• Combined shipping: Assess rules for combining multiple parts onto one pallet and applying a configurable shipping cap. For example, an eligible order of up to five parts might have a $550 cap, depending on the destination and what fits on the pallet.
+
+• Delivery options: Include local pickup, freight terminal pickup, commercial delivery, and applicable residential or liftgate charges.
+
+• Performance and hosting: Recommend a hosting setup and integration approach suitable for this inventory size, with fast searches, product pages, add-to-cart actions, and checkout.
+
+• Google Merchant Center: Plan an automated product feed with accurate prices, availability, images, and shipping information.
+
+Required deliverables:
+
+1. A written assessment of feasibility, dependencies, and unresolved questions.
+2. A recommended technical approach, including any custom plugins and third-party services.
+3. A clear inventory and photo transfer plan based on confirmed access.
+4. A detailed scope for the full build, including milestones and acceptance criteria.
+5. An estimated development timeline, itemized build cost, and expected ongoing costs.
+6. An ownership and handover plan covering source code, documentation, hosting, and account access.
+
+We can participate in a call with Checkmate/Car-Part.com so you can ask technical questions directly. Please coordinate any vendor contact through us. Any review of our live website must be read-only unless changes are approved in advance.
+
+Please include your relevant WooCommerce experience, examples of large inventory integrations, your fixed price and turnaround time for this assessment, and exactly what your assessment fee includes.</description></item>
 <item><title>Lead-Generating Civil Engineering Website</title><link>https://www.freelancer.com/projects/web-design/Lead-Generating-Civil-Engineering</link><guid isPermaLink="false">freelancer:40808702</guid><pubDate>Sun, 08 Nov 2026 15:25:29 GMT</pubDate><description>30-250 USD | I need a clean, fully responsive website that turns visitors into qualified enquiries for our civil engineering firm. The single most important outcome is to encourage prospects to request a site visit, so every design choice should steer them toward that action while presenting our company history and values with clarity and authority.
 
 The build must look sharp on desktop, tablet, and mobile, load fast, and be search-engine friendly. A modern CMS—WordPress, Webflow, or a comparable platform—will let my team update text and add new projects without coding. Integrate an intuitive “Request a Site Visit” form or scheduling widget that emails our office and stores entries in the back-end for easy follow-up.
@@ -951,23 +989,6 @@ Ongoing support
 After launch I’d like to keep you on call for content updates, adding new email users, and small site tweaks as projects complete. Please outline the best way to structure this (hourly or maintenance block).  
 
 If you have experience building contractor sites and handling Google Workspace migrations, I’d love to see examples and hear how quickly you can get us live.</description></item>
-<item><title>Website Booking &amp; Subscription Integration</title><link>https://www.freelancer.com/projects/web-development/Website-Booking-Subscription-Integration</link><guid isPermaLink="false">freelancer:40806052</guid><pubDate>Fri, 06 Nov 2026 13:30:24 GMT</pubDate><description>250-750 USD | I have a working company site that I generated with an AI builder; now I need it to do real business. Specifically, I want visitors to be able to (1) reach out or reserve a slot with us through a streamlined booking form and (2) purchase our digital service subscriptions securely, then jump straight into a members-only area without any manual hand-holding.
-
-Here is what I’m after:
-
-• A contact/booking flow that’s easy to use on both desktop and mobile—basic calendar selection and automated confirmations are plenty for now.  
-• A payment pipeline (Stripe or comparable gateway) that handles single payments and recurring subscriptions, issues receipts, and ties each successful transaction to the correct user account.  
-• An instant-access members area where paid users land automatically, protected behind login credentials and ready to host our digital content.  
-
-The front end is already styled, so you’d mainly focus on wiring up the back-end logic, database/auth layer, and any required middleware or APIs. I’m happy to take your guidance on the best stack or plugins as long as the end result is reliable and easy for me to maintain after hand-off.
-
-Deliverables will be:
-1. Fully functional booking/contact form integrated into the existing site.  
-2. Payment + subscription flow live in production, tested end-to-end.  
-3. Secure member login area automatically provisioned on successful payment, with a clear way for me to manage users.  
-4. Short walkthrough or screencast showing me how to tweak settings, plans, and user roles moving forward.
-
-If this sounds like your kind of build, let’s talk timelines and the best approach.</description></item>
 <item><title>Single Product Checkout Page Creation</title><link>https://www.freelancer.com/projects/css/Single-Product-Checkout-Page-Creation</link><guid isPermaLink="false">freelancer:40805934</guid><pubDate>Fri, 06 Nov 2026 11:39:26 GMT</pubDate><description>15-25 USD/hr | I need a simple, user-friendly cart page for a single product. 
 
 Requirements:
