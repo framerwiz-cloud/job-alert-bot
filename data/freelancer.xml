@@ -3,13 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Flower Shop One-Page Website</title><link>https://www.freelancer.com/projects/web-design/Flower-Shop-One-Page-Website</link><guid isPermaLink="false">freelancer:40808758</guid><pubDate>Sun, 08 Nov 2026 16:41:17 GMT</pubDate><description>250-750 USD | Hey! It’s been a while. I hope things are going great on your end.
- 
-Listen, I’m finally taking the plunge and expanding my flower business, Bloom &amp; Petal. We’ve got a solid Instagram following, but I desperately need a proper one-page website to look legit and handle our local orders. I immediately thought of you because I know you build websites that actually look good and don't take three months to load.
- 
-I don't need anything fancy—no e-commerce or crazy databases. Just one beautiful page. I want a big, gorgeous hero photo of our arrangements, a simple section showing our top three bouquets with prices (just images and text, no "add to cart"), a short bit about our delivery areas, and a contact form. It has to look amazing on phones because that's where 90% of my customers come from.
- 
-I’ve got all the photos and the logo ready for you. Budget is around $250, and I’d love to get it done in about 5 days. We’ll do it all through Freelancer Milestones so it’s fair for both of us. Let me know if you’re up for it and send me a link to something similar you’ve built recently!</description></item>
 <item><title>Lead-Generating Civil Engineering Website</title><link>https://www.freelancer.com/projects/web-design/Lead-Generating-Civil-Engineering</link><guid isPermaLink="false">freelancer:40808702</guid><pubDate>Sun, 08 Nov 2026 15:25:29 GMT</pubDate><description>30-250 USD | I need a clean, fully responsive website that turns visitors into qualified enquiries for our civil engineering firm. The single most important outcome is to encourage prospects to request a site visit, so every design choice should steer them toward that action while presenting our company history and values with clarity and authority.
 
 The build must look sharp on desktop, tablet, and mobile, load fast, and be search-engine friendly. A modern CMS—WordPress, Webflow, or a comparable platform—will let my team update text and add new projects without coding. Integrate an intuitive “Request a Site Visit” form or scheduling widget that emails our office and stores entries in the back-end for easy follow-up.
@@ -979,6 +972,17 @@ Ideal skills and experience:
 - Experience in creating e-commerce pages
 - Familiarity with secure payment integrations
 - Attention to detail and ensuring a seamless user experience</description></item>
+<item><title>Business Info WordPress Build</title><link>https://www.freelancer.com/projects/wordpress-design/Business-Info-WordPress-Build</link><guid isPermaLink="false">freelancer:40805900</guid><pubDate>Fri, 06 Nov 2026 11:09:37 GMT</pubDate><description>30-250 USD | I need a clean, modern WordPress site whose sole focus is presenting clear information about my business and the services I offer. The structure is straightforward: Home, About Us, Services, and Contact.  
+
+Each page should be easy to edit through the standard WordPress admin panel, load quickly, and display perfectly on mobile and desktop. I’m happy for you to recommend and configure a lightweight theme or a well-supported page builder—Elementor, Gutenberg blocks, or another tool you trust—as long as the final result is fast, SEO-friendly, and simple for me to maintain.
+
+Key deliverables  
+• Fully configured WordPress installation on my hosting  
+• Four finished pages populated with placeholder text I can swap out later  
+• Contact page set up with my email and phone details clearly visible  
+• Basic on-page SEO (titles, meta descriptions, responsive images)
+
+Once the site is live, I’d appreciate a short walkthrough (screenshare or concise PDF) showing where I update text and images so I can manage content myself.</description></item>
 <item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
 
 Current setup:
