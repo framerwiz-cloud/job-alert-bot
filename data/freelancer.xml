@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Pool Cleaning Service Landing Page</title><link>https://www.freelancer.com/projects/web-design/Pool-Cleaning-Service-Landing-Page</link><guid isPermaLink="false">freelancer:40808844</guid><pubDate>Sun, 08 Nov 2026 18:20:57 GMT</pubDate><description>250-750 USD | Hey! I run a local pool cleaning and maintenance business, and I really need a simple, professional website to get more clients. I don't need anything complicated, just a clean one-page site that shows people what we do and makes it easy for them to call us.
+ 
+Basically, it should have a nice header photo of a sparkling clean pool, a section listing our main services (weekly cleaning, repairs, and opening/closing for the season), a few customer reviews, and a big contact button with our phone number. It absolutely has to look great and work perfectly on mobile phones, since that's how most people will find us when they search online.
+ 
+I already have our logo, some good photos, and the text ready. My budget for this is $250, and I'd love to have it done in about 4 days. We'll use the Freelancer Milestone system to keep things safe, and all our chats should stay right here on the platform.
+ 
+If you can build a clean, fast website, please send me a link to some of your previous work. Thanks!</description></item>
 <item><title>CCBill Model Video Platform</title><link>https://www.freelancer.com/projects/web-development/CCBill-Model-Video-Platform</link><guid isPermaLink="false">freelancer:40808834</guid><pubDate>Sun, 08 Nov 2026 18:08:05 GMT</pubDate><description>1500-3000 USD | I’m launching a subscription-and-pay-per-download video site where independent models can earn directly from their content. Members must be able to unlock every clip through a recurring monthly plan or buy single videos outright; both options need to coexist cleanly in the storefront and catalogue.  
 
 Each model will have a personal creator account to upload, tag, price and manage their own videos. The system then pays them a configurable percentage of every sale, tracked automatically, with clear earnings reports they can export. I only step in as the site admin to set the global revenue split, handle support tickets and, if necessary, approve or remove content.  
@@ -957,23 +964,6 @@ Ongoing support
 After launch I’d like to keep you on call for content updates, adding new email users, and small site tweaks as projects complete. Please outline the best way to structure this (hourly or maintenance block).  
 
 If you have experience building contractor sites and handling Google Workspace migrations, I’d love to see examples and hear how quickly you can get us live.</description></item>
-<item><title>Website Booking &amp; Subscription Integration</title><link>https://www.freelancer.com/projects/web-development/Website-Booking-Subscription-Integration</link><guid isPermaLink="false">freelancer:40806052</guid><pubDate>Fri, 06 Nov 2026 13:30:24 GMT</pubDate><description>250-750 USD | I have a working company site that I generated with an AI builder; now I need it to do real business. Specifically, I want visitors to be able to (1) reach out or reserve a slot with us through a streamlined booking form and (2) purchase our digital service subscriptions securely, then jump straight into a members-only area without any manual hand-holding.
-
-Here is what I’m after:
-
-• A contact/booking flow that’s easy to use on both desktop and mobile—basic calendar selection and automated confirmations are plenty for now.  
-• A payment pipeline (Stripe or comparable gateway) that handles single payments and recurring subscriptions, issues receipts, and ties each successful transaction to the correct user account.  
-• An instant-access members area where paid users land automatically, protected behind login credentials and ready to host our digital content.  
-
-The front end is already styled, so you’d mainly focus on wiring up the back-end logic, database/auth layer, and any required middleware or APIs. I’m happy to take your guidance on the best stack or plugins as long as the end result is reliable and easy for me to maintain after hand-off.
-
-Deliverables will be:
-1. Fully functional booking/contact form integrated into the existing site.  
-2. Payment + subscription flow live in production, tested end-to-end.  
-3. Secure member login area automatically provisioned on successful payment, with a clear way for me to manage users.  
-4. Short walkthrough or screencast showing me how to tweak settings, plans, and user roles moving forward.
-
-If this sounds like your kind of build, let’s talk timelines and the best approach.</description></item>
 <item><title>Single Product Checkout Page Creation</title><link>https://www.freelancer.com/projects/css/Single-Product-Checkout-Page-Creation</link><guid isPermaLink="false">freelancer:40805934</guid><pubDate>Fri, 06 Nov 2026 11:39:26 GMT</pubDate><description>15-25 USD/hr | I need a simple, user-friendly cart page for a single product. 
 
 Requirements:
