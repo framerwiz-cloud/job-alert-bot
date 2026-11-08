@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Comprehensive Wix Fitness Coaching Website</title><link>https://www.freelancer.com/projects/wix/Comprehensive-Wix-Fitness-Coaching</link><guid isPermaLink="false">freelancer:40808054</guid><pubDate>Sun, 08 Nov 2026 03:01:13 GMT</pubDate><description>1500-3000 AUD | I need a seasoned Wix developer who can take my blank Wix account and turn it into a fully-functioning online fitness coaching hub. I haven’t chosen a Wix plan yet, so I’ll rely on you to recommend and set up the right Business subscription that supports protected member areas, recurring payments, and both card and PayPal checkout.
+
+Site goals
+The site must look sharp on desktop and mobile, load quickly, and rank for basic SEO terms around online coaching. Beyond a polished Home and About page, I want clients to browse one-off training or nutrition programs, purchase instantly, and step straight into a private members area. Subscriptions for ongoing coaching need automated renewals, plus a client-only portal where they can message me, log workouts, track progress, and complete weekly check-ins.
+
+Key features to build
+• Secure checkout for credit/debit cards and PayPal  
+• Tiered memberships with locked content and automated access control  
+• Personalised training &amp; nutrition plans delivered either in-site or as PDFs (I’m open to your advice on the best user experience)  
+• Macro calculator that captures emails for my mailing list  
+• Automated email flows for new sign-ups, expiring programs, missed check-ins, etc.  
+• Consultation booking calendar with integrated video calls  
+• Testimonial, FAQ, Contact, Privacy Policy, and Terms pages  
+• Admin dashboard for me to see sales, member activity, and easily upload new programs  
+• Complete handover so I can manage everything solo after launch
+
+Acceptance criteria
+1. Every purchase route (one-off and subscription) processes smoothly via card and PayPal in live mode.  
+2. New members are automatically provisioned with correct access and a welcome email.  
+3. Plans display perfectly on mobile and desktop, passing Wix’s mobile usability check.  
+4. On-page SEO basics (titles, meta, alt tags, friendly URLs) are in place site-wide.  
+5. I receive a brief video walkthrough and written guide covering routine updates.
+
+If you have deep experience with Wix Members, Wix Payments, Corvid (for any custom logic), and can advise on the best way for clients to consume their personalised plans, I’m ready to get started.</description></item>
 <item><title>WooCommerce Auto Parts Inventory Integration</title><link>https://www.freelancer.com/projects/inventory-management/WooCommerce-Auto-Parts-Inventory</link><guid isPermaLink="false">freelancer:40807890</guid><pubDate>Sat, 07 Nov 2026 22:10:37 GMT</pubDate><description>10000-20000 USD | We need an experienced WooCommerce developer to create an independent inventory integration and parts-search solution for ABC Auto Wrecking in Tucson, Arizona.
 
 Our current website is https://abcautowreckingaz.com. It uses WordPress/WooCommerce and URG’s IIS inventory plugin. We want to replace our dependence on URG while retaining our existing website where practical.
@@ -960,22 +984,6 @@ Deliverables
 Everything should be implemented directly in Shopify using Liquid, Theme Editor, and the chosen apps, with minimal custom code unless necessary. Once complete, I’ll run a final review and sign off.
 
 The website is innercourt.net</description></item>
-<item><title>Premium Exam Prep WordPress Website</title><link>https://www.freelancer.com/projects/web-design/Premium-Exam-Prep-WordPress-Website</link><guid isPermaLink="false">freelancer:40805208</guid><pubDate>Fri, 06 Nov 2026 00:15:59 GMT</pubDate><description>250-750 AUD | Looking for a WordPress Website Designer &amp; Developer
-
-I need a professional, premium-looking website for an online exam preparation business. I already have a domain and a WordPress.com Premium plan. I also have an existing white-label learning platform that needs to be connected to the main website.
-
-* Modern design that works well on mobile, tablet and desktop.
-* Pages: Home, About Us, Exam Preparation, Pricing, FAQs, Resources and Contact.
-* Connect the white-label platform through a branded subdomain, with clear Student Login and Start Practising buttons.
-* Maintain consistent branding where the white-label provider allows customisation.
-* Display subscription plans and confirm available payment and student-access integration options.
-* Include contact forms, social media links and policy pages.
-* Set up basic SEO and optimise loading speed.
-* Make the website easy for me to edit and expand with additional exams.
-* Confirm compatibility with my WordPress.com Premium plan and disclose any upgrades or ongoing costs.
-* Provide full ownership, administrator access, a handover tutorial and post-launch bug support.
-
-Please share relevant portfolio examples, a fixed-price quote, delivery timeframe, included revisions and any additional charges.</description></item>
 <item><title>WordPress Maintenance Specialist Needed</title><link>https://www.freelancer.com/projects/css/WordPress-Maintenance-Specialist-Needed</link><guid isPermaLink="false">freelancer:40805173</guid><pubDate>Thu, 05 Nov 2026 23:36:44 GMT</pubDate><description>8-15 USD/hr | I need a WordPress expert for standard maintenance tasks and small content changes. 
 
 Key tasks include:
