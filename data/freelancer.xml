@@ -3,6 +3,28 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Luxury Cake E-Commerce Website</title><link>https://www.freelancer.com/projects/web-development/Luxury-Cake-Commerce-Website</link><guid isPermaLink="false">freelancer:40808424</guid><pubDate>Sun, 08 Nov 2026 10:21:06 GMT</pubDate><description>250-750 GBP | I run a high-end cake studio and I’m ready to expand online with a website that feels as luxurious as my creations. The new site must be visually stunning, mobile-first, and fully optimised for search so that customers can easily find me, fall in love with the brand, and place orders in just a few clicks.  
+
+My goals are straightforward: sell cakes and related services online, showcase the brand’s craftsmanship, and grow a loyal audience through rich content. The store needs to handle:
+
+• Ready-made cakes and desserts  
+• Bespoke cakes requested through an interactive form  
+• Cake-related services such as consultations, delivery, and event support  
+• Complementary items like fine teas and hireable cake equipment  
+
+At checkout, customers should be able to choose local delivery, in-store collection, or nationwide postal shipping. Automated order confirmations, invoices, and status updates are essential.
+
+Content-wise, I’d like an easy-to-manage blog, vlog section, and gallery so I can regularly publish articles, videos, and high-resolution images that feed into my SEO strategy. Please implement structured data, fast page speeds, and seamless social-sharing tools.  
+
+You’re welcome to recommend the best platform—Shopify, WooCommerce, or another solution—so long as it supports:  
+• Premium themes and highly customisable design  
+• Flexible product and service listings  
+• Multiple shipping methods and delivery windows  
+• Integration with Google Analytics, Facebook Pixel, and email marketing  
+
+Deliverables I expect: the live site on my domain, source files, a concise style guide, full on-page SEO (titles, meta, sitemap), and a short video walkthrough of the admin area so my team can maintain everything with confidence.
+
+If you have previous experience building luxury or food-focused e-commerce sites, please include examples in your proposal.</description></item>
 <item><title>Expert Webmaster for Site Recovery</title><link>https://www.freelancer.com/projects/cpanel/Expert-Webmaster-for-Site-Recovery</link><guid isPermaLink="false">freelancer:40808322</guid><pubDate>Sun, 08 Nov 2026 08:11:28 GMT</pubDate><description>250-750 USD | I’m looking for an engineer-level webmaster who can partner with us long term. Right now, every minute counts because several of our sites across two different hosts are offline. Although Blue Host engineers performed an initial recovery, the files and databases are still scattered—I need someone who can dig in, locate every piece, and bring each site back exactly as it was.
 
 You will have full hosting-control-panel logins and domain management access for both accounts, so you can work directly inside cPanel, phpMyAdmin, SSH or any other interface you prefer. The first objective is crystal clear: restore all websites on both hosting accounts, not just the public-facing ones we think are most important. Once everything is up and running flawlessly, we’ll move on to ongoing maintenance, performance tuning, security hardening and any new development that pops up.
@@ -945,29 +967,6 @@ Key deliverables
 
 Once the site is live, I’d appreciate a short walkthrough (screenshare or concise PDF) showing where I update text and images so I can manage content myself.</description></item>
 <item><title>E commerce Website</title><link>https://www.freelancer.com/projects/web-development/commerce-Website-40805646</link><guid isPermaLink="false">freelancer:40805646</guid><pubDate>Fri, 06 Nov 2026 07:20:20 GMT</pubDate><description>30-250 USD | Design and develop e commerce website (English and Arabic)</description></item>
-<item><title>WordPress Store Maintenance &amp; AI SEO monthly project </title><link>https://www.freelancer.com/projects/wordpress-security/WordPress-Store-Maintenance-SEO-monthly</link><guid isPermaLink="false">freelancer:40805583</guid><pubDate>Fri, 06 Nov 2026 06:19:23 GMT</pubDate><description>30-250 AUD | I run an online store built on WordPress and need a reliable partner to keep it healthy, profitable, and visible each month. The work is ongoing and touches three main areas: keeping the site secure and up-to-date, enhancing the catalogue and shopping experience.
-
-WordPress care  
-Core, theme, and plugin updates must be applied promptly, security holes patched, and any bugs you find fixed before they affect customers. I expect zero downtime and a quick heads-up if a major issue is spotted.
-
-Store growth  
-New products appear monthly, so I’ll send you photos, prices, and descriptions to upload and format. You will also refine existing listings and variations, . Beyond catalogue work, I’d like you to streamline checkout, payments, shipping rules, and anything else that reduces cart abandonment.
-
-AI-driven SEO / GEO / AEO  
-I rely on organic traffic, so structured data, on-page optimisation, and fresh content all matter. Using current AI and local-search tools, please improve rankings for both traditional and answer-engine queries, then report back so we can see progress.
-
-Because I’m in GMT+7, someone already based in South-East Asia will match my working hours best and make real-time handovers smooth.
-
-Monthly deliverables  
-• All WordPress core, plugin, and theme updates applied and tested  
-• Security scan with any issues resolved  
-• New and updated product listings live and accurate, updating of banners , articles  
-• Checkout, payment, and shipping refinements released (as needed)  
-• AI/GEO/AEO SEO actions completed with short performance report  
-
-I believe the work should onyl take around 8 hours per month. 
-
-If this aligns with your skills and schedule, I’m ready to start our first month right away.</description></item>
 <item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
 
 Current setup:
