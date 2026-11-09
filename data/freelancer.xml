@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Comprehensive Condo Management System</title><link>https://www.freelancer.com/projects/database-management/Comprehensive-Condo-Management-System</link><guid isPermaLink="false">freelancer:40809549</guid><pubDate>Mon, 09 Nov 2026 07:01:45 GMT</pubDate><description>250-750 USD | I'm looking to develop a robust condominium management system. The main goal is to efficiently manage residents, units, and maintenance requests.  Needs to be easy to change as needed for announcements, photos, PDF documents for residence to view, etc.
+
+Key Features:
+- Maintenance Request Management:
+  - Residents can submit requests with photos
+  - Track request status and updates
+  - Receive notifications upon completion
+  - Tracks maintenance data including priority level, maintenance hours spent, cost, and inventory used
+
+- User Access:
+  - Property managers and staff
+  - Residents and unit owners
+  - Maintenance workers and service providers
+
+Ideal Skills and Experience:
+- Experience in developing management systems
+- Proficiency in user interface design
+- Strong background in database management
+- Familiarity with mobile-friendly platforms
+
+Please provide samples of similar work and an estimated timeline for completion.</description></item>
 <item><title>Senior PHP Lead for Multi-CMS Oversight</title><link>https://www.freelancer.com/projects/laravel/Senior-PHP-Lead-for-Multi</link><guid isPermaLink="false">freelancer:40809538</guid><pubDate>Mon, 09 Nov 2026 06:52:34 GMT</pubDate><description>15-25 CAD/hr | I need a seasoned PHP professional who can keep several ongoing client sites running smoothly while I focus on business development. Most of the day-to-day coding is handled by external contractors; your job is to make sure everything they ship is up to standard and truly matches the scope of work we agreed with the clients.
 
 The heart of the role is contractor management and sign-off. You will live in GitHub reviewing pull requests, double-checking that every story fulfils the requirements written in the SOW, and pushing back firmly when something is off spec. You will also run a quick security and quality audit on each PR, spin up a staging build, smoke-test the feature, and only then merge.
@@ -1077,22 +1098,6 @@ Deliverables &amp; acceptance
 4. Two weeks of post-launch support to squash any bugs.
 
 If you’ve built similar membership platforms and can show examples, let’s talk timelines and milestones so we can open doors for our alumni community right away.</description></item>
-<item><title>Build a Multi-Payment Ecommerce Shop</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Build-Multi-Payment-Ecommerce-Shop</link><guid isPermaLink="false">freelancer:40806601</guid><pubDate>Fri, 06 Nov 2026 21:50:02 GMT</pubDate><description>20-250 GBP | I'm seeking an experienced developer to create an online shop from scratch. The shop will primarily sell physical products that require delivery.
-
-Key Requirements:
-- A user-friendly, intuitive interface for customers.
-- Integration of multiple payment methods: credit/debit cards, PayPal, and cryptocurrencies.
-- Secure transaction processing.
-- Mobile-responsive design.
-- Backend support for order management and tracking.
-
-Ideal skills and experience:
-- Proven track record in building ecommerce websites.
-- Strong understanding of payment gateway integration.
-- Experience with security protocols for online transactions.
-- Good design sense for creating visually appealing and functional online stores.
-
-Please include examples of previous work and a brief outline of your approach to this project.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
