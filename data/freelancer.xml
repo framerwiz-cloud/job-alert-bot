@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Senior PHP Lead for Multi-CMS Oversight</title><link>https://www.freelancer.com/projects/laravel/Senior-PHP-Lead-for-Multi</link><guid isPermaLink="false">freelancer:40809538</guid><pubDate>Mon, 09 Nov 2026 06:52:34 GMT</pubDate><description>15-25 CAD/hr | I need a seasoned PHP professional who can keep several ongoing client sites running smoothly while I focus on business development. Most of the day-to-day coding is handled by external contractors; your job is to make sure everything they ship is up to standard and truly matches the scope of work we agreed with the clients.
+
+The heart of the role is contractor management and sign-off. You will live in GitHub reviewing pull requests, double-checking that every story fulfils the requirements written in the SOW, and pushing back firmly when something is off spec. You will also run a quick security and quality audit on each PR, spin up a staging build, smoke-test the feature, and only then merge.
+
+Current workload is split mainly between Laravel SaaS back-ends and a handful of large Drupal 9/10 corporate sites. A few legacy WordPress installs exist, but they are not the primary focus. You must therefore be equally comfortable with Laravel best practices (queues, events, testing with PHPUnit/Pest, CI/CD pipelines) and Drupal conventions (custom module review, hook implementations, configuration management). Familiarity with Composer, Docker, and standard OWASP checks is assumed.
+
+Key deliverables
+• Timely reviews of all incoming PRs with clear, actionable feedback  
+• Weekly status report summarising accepted, rejected, and in-progress tasks  
+• Rapid hot-fixes when a security or stability issue slips through  
+• A short retrospective at the end of each sprint to flag process or quality gaps  
+
+Acceptance criteria
+A PR is considered approved only after:  
+1. Code passes automated tests and static analysis.  
+2. Manual QA shows no blocking bugs on the relevant browser matrix.  
+3. The feature aligns one-for-one with the written requirements.  
+
+This is fully remote, part-time work, but the cadence is demanding: contractors are spread across time zones and merge windows can be tight. I would prefer someone based in Canada to keep communication smooth, yet flexible scheduling is fine as long as deadlines are met.
+
+If you thrive on code reviews, love digging into both Laravel and Drupal internals, and can diplomatically guide contractors toward better output, I’m looking forward to working with you.</description></item>
 <item><title>Boost Site Speed for SEO</title><link>https://www.freelancer.com/projects/google-website-optimizer/Boost-Site-Speed-for-SEO</link><guid isPermaLink="false">freelancer:40809500</guid><pubDate>Mon, 09 Nov 2026 06:25:45 GMT</pubDate><description>30-250 AUD | I need a specialist who can make every page on my site feel instantly responsive, with a clear focus on Google’s mobile metrics. The primary objective is to lift my Google search rankings, so I’m interested in tangible gains on Core Web Vitals and PageSpeed Insights for mobile users rather than just marginal desktop tweaks.  
 
 You’ll start with a performance audit, spot the bottlenecks that slow mobile loads, then apply best-practice fixes—asset compression, smart caching, code minification, image optimisation, server or CDN tuning, whatever is required—to lift scores across the board, not just the homepage.  
