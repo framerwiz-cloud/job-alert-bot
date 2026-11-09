@@ -3,6 +3,28 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Divi WooCommerce Gym Packages Pages</title><link>https://www.freelancer.com/projects/web-design/Divi-WooCommerce-Gym-Packages-Pages</link><guid isPermaLink="false">freelancer:40810532</guid><pubDate>Mon, 09 Nov 2026 21:01:58 GMT</pubDate><description>250-750 USD | I need a designer-developer who is comfortable working inside Divi and WooCommerce to create a small set of pages that showcase and sell our custom gym packages.  
+
+Here is what I’m after:
+
+• A refreshed shop grid that highlights the full range of “Gym Packages” rather than individual pieces of equipment.  
+• Dedicated landing pages for each market segment we serve (home gyms, commercial facilities, training studios, etc.), all built with Divi so my team can tweak copy later.  
+• A product detail template that displays high-quality photos of the packages we offer for spaces from 1,000 sq ft up to 4,000 sq ft and clearly shows which brands are included. Zoomable galleries are a must.  
+• Filters or selectors that let customers choose a package by three criteria at once: gym size, brand, and gym type. The selection flow has to feel seamless on both desktop and mobile.  
+
+I’ll supply the images, brand assets, and copy; you focus on page structure, styling, and any WooCommerce attribute or variation set-up required. All work must be done within my existing WordPress install using the Divi Theme Builder so I can keep everything consistent with the rest of the site.
+
+You can gauge a live example here. I need this lay out improved
+
+ https://gympros.com/commercial-treadmills/commercial-gym-packages/
+
+Deliverables
+1. Divi layout files (or saved layouts in the Library) for the main shop grid, individual package page, and each landing page.  
+2. Configured WooCommerce attributes/variations enabling the size-brand-type selection.  
+3. Responsive testing across modern browsers and standard mobile breakpoints.  
+4. A brief screen-share or loom walkthrough showing how to edit sections in Divi.
+
+If this sounds straightforward to you and you’ve built similar WooCommerce product flows inside Divi, let’s talk timelines and any clarifications you need.</description></item>
 <item><title>4-Page WordPress Site Clone</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Site-Clone</link><guid isPermaLink="false">freelancer:40810515</guid><pubDate>Mon, 09 Nov 2026 20:54:07 GMT</pubDate><description>30-250 AUD | I need an exact four-page reproduction of eventscoolroomhire.com.au running on WordPress. The pages are Home, Our Coolrooms, Event Hire and the Online Quote form, and each one must carry over the same design, wording and overall look and feel of the original site.  
 
 Key functional points  
@@ -896,18 +918,6 @@ Ideal Skills and Experience:
 - Experience in optimizing bot interactions
 
 Looking for a freelancer who can ensure my AI bot is user-friendly and visually appealing. It’s currently demo trial has had great results but the live trial seems to be not working the same the project has been developed with chat gpt and vis code on ctrader platform </description></item>
-<item><title>Homepage Redesign Needed</title><link>https://www.freelancer.com/projects/web-design/Homepage-Redesign-Needed</link><guid isPermaLink="false">freelancer:40806829</guid><pubDate>Sat, 07 Nov 2026 03:41:08 GMT</pubDate><description>30-250 USD | This is a revamp of an existing site
-
-I’m overhauling my website so the home page feels less like a marketing brochure and more like an active social hub. When visitors land, I want their first instinct to be scrolling through my latest posts and updates—no sales pitch up front, just fresh content that invites engagement.  
-
-The spotlight should be on photos and videos. Rather than embedding feeds from my external channels, I’ll be uploading these assets directly to the site, so the layout must showcase native galleries or video blocks that are easy for me to manage through the existing CMS.  
-
-Here’s the immediate goal:  
-• Design a modern, responsive home page that leads with a dynamic “Latest Updates” section featuring my own photo and video uploads.  
-• Keep navigation intuitive, but dial back service-centric messaging in favor of social-style storytelling.  
-• Ensure load times stay snappy and the design looks great on mobile, tablet, and desktop.  
-
-If this initial redesign hits the mark, I’ll roll the new look and feel across the rest of the site next. Let’s start with a concept or wireframe, refine it together, and move on to full implementation once approved.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
