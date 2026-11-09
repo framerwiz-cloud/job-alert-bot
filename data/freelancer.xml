@@ -56,19 +56,6 @@ Acceptance criteria
 • Clear hand-over notes so I can maintain the improvements  
 
 If you have proven results in site-wide speed optimisation for SEO gains, especially on mobile, I’m ready to get started right away.</description></item>
-<item><title>Clone Another platform (Join part)</title><link>https://www.freelancer.com/projects/ui-design/Clone-Another-platform-Join-part</link><guid isPermaLink="false">freelancer:40809445</guid><pubDate>Mon, 09 Nov 2026 05:43:39 GMT</pubDate><description>30-250 USD | My platform is live but the design choices around log in area still feel clunky. I want these flows to look and behave almost exactly like a well-known competitor’s site that I will share once we start. That means matching page layouts, micro-interactions, error handling, and the overall visual polish so users instantly grasp each step instead of feeling lost.
-
-Here’s what I need from you:
-
-• Analyse the reference platform’s onboarding journey in detail.  
-• Keep everything responsive, accessible, and cross-browser.  
-• Deliver clean, well-commented code (pull request or zipped source) plus a short walkthrough video or doc that shows the new flow working end-to-end.
-
-Acceptance criteria  
-– Returning users log in without confusion, and all profile edits save instantly with visible confirmation.  
-– No console errors or layout breaks on Chrome, Firefox, Safari, and Edge, desktop and mobile.
-
-If you’ve cloned or refactored onboarding flows before—especially with React, Vue, or plain JavaScript/CSS—this should be straightforward. I’ll provide repo access and the competitor URL on approval so you can dive right in.</description></item>
 <item><title>E-Commerce Website Design ASAP</title><link>https://www.freelancer.com/projects/shopify-site/Commerce-Website-Design-ASAP</link><guid isPermaLink="false">freelancer:40809423</guid><pubDate>Mon, 09 Nov 2026 05:28:46 GMT</pubDate><description>250-750 AUD | I’m looking for a creative web designer who can turn my product line into a clean, conversion-focused online store. The entire goal of the site is to let customers browse, add to cart, and check out smoothly, so every design decision should support selling products online.
 
 Speed matters—I’d like the first shippable version live as soon as possible. That means streamlined planning, quick feedback cycles, and an eye for solutions that can be launched fast and refined later.
@@ -1098,6 +1085,22 @@ Deliverables &amp; acceptance
 4. Two weeks of post-launch support to squash any bugs.
 
 If you’ve built similar membership platforms and can show examples, let’s talk timelines and milestones so we can open doors for our alumni community right away.</description></item>
+<item><title>Build a Multi-Payment Ecommerce Shop</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Build-Multi-Payment-Ecommerce-Shop</link><guid isPermaLink="false">freelancer:40806601</guid><pubDate>Fri, 06 Nov 2026 21:50:02 GMT</pubDate><description>20-250 GBP | I'm seeking an experienced developer to create an online shop from scratch. The shop will primarily sell physical products that require delivery.
+
+Key Requirements:
+- A user-friendly, intuitive interface for customers.
+- Integration of multiple payment methods: credit/debit cards, PayPal, and cryptocurrencies.
+- Secure transaction processing.
+- Mobile-responsive design.
+- Backend support for order management and tracking.
+
+Ideal skills and experience:
+- Proven track record in building ecommerce websites.
+- Strong understanding of payment gateway integration.
+- Experience with security protocols for online transactions.
+- Good design sense for creating visually appealing and functional online stores.
+
+Please include examples of previous work and a brief outline of your approach to this project.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
