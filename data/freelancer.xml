@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>TTRPG Podcast Site Rebuild</title><link>https://www.freelancer.com/projects/web-development/TTRPG-Podcast-Site-Rebuild</link><guid isPermaLink="false">freelancer:40810666</guid><pubDate>Mon, 09 Nov 2026 23:54:41 GMT</pubDate><description>10000-20000 USD | I’m ready to give our actual-play TTRPG podcast a fresh, conversion-focused home. The top priority is guiding brand-new listeners: every page should gently funnel them toward that very first play button and make the decision of “where do I start?” effortless.
+
+Core goals  
+• Discovery first – clear calls to action that open the latest episodes (or a recommended jumping-in spot) on Spotify, Apple Podcasts, or any preferred podcast app.  
+• Separate “entry gates” for each campaign or story arc so newcomers can dive straight into the storyline that grabs them.  
+• A streamlined merch store that feels native to the site yet runs on a proven engine such as WooCommerce or a Shopify embed, with simple variant selection and secure checkout.  
+• Dedicated areas for character bios, artwork, and world lore that load fast and look great on mobile.
+
+Acceptance criteria  
+1. Fully responsive build on a maintainable platform (WordPress, Webflow, or your suggested CMS).  
+2. Navigation that highlights Listen, Start a Campaign, Merch, and Characters as primary menu items.  
+3. Episode buttons trigger external apps (deep links to Spotify, Apple, etc.) without breaking site analytics.  
+4. Store launches, processes a test transaction, and sends confirmation emails.  
+5. Initial SEO pass: clean URLs, meta tags, and schema for PodcastEpisode where relevant.  
+6. Handoff includes a brief Loom walkthrough and a one-page admin guide.
+
+If you have experience blending podcast discovery flows with e-commerce and eye-catching art galleries, I’d love to see examples. I’m aiming for a launch in six weeks, but can adapt if your roadmap needs a bit more breathing room.</description></item>
+<item><title>Bespoke SaaS Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Bespoke-SaaS-Website-Redesign</link><guid isPermaLink="false">freelancer:40810660</guid><pubDate>Mon, 09 Nov 2026 23:51:24 GMT</pubDate><description>250-750 USD | I need a fresh public-facing site for UnifiedOrders.com that makes it instantly clear what our order-management platform does and why it matters to growing multi-channel businesses. The current AI-generated layout took minutes to spin up and, unsurprisingly, looks like every other template on the web. I’m after something curated—where any AI assistance is only a starting point and the final style comes together in Figma (or similar) with real design craft behind it.
+
+Core story to convey  
+• How we simplify order tracking and management in one dashboard  
+• How we pull all sales channels into a single, connected workflow  
+
+By the time a visitor scrolls the hero section and first content block they should “get it,” and by the time they finish the page they should be ready to click for a demo.
+
+What I’ll need from you  
+• A complete, non-generic visual identity (colour palette, typography, imagery guidelines) delivered as a Figma file  
+• Desktop &amp; mobile page designs for at least: Home / Features / Pricing / Book-a-Demo / Contact  
+• All copy blocks written in clear, jargon-free language focused on explaining—not overselling—our features  
+• Handoff package: organised Figma components, export-ready assets and a short Loom or PDF walkthrough of design rationale  
+
+Acceptance criteria  
+1. Above-the-fold messaging answers “what does UnifiedOrders do?” in plain English.  
+2. Primary CTAs (“Book a Demo”) are visible without feeling pushy.  
+3. Design elements are original or fully licensed—no stock-template look.  
+4. File structure in Figma is tidy and labeled for easy dev handover.  
+
+Start your proposal with the word “coconut” so I know you visited the current site and read this brief.</description></item>
 <item><title>Luxury WBAMS E-Commerce Site</title><link>https://www.freelancer.com/projects/web-development/Luxury-WBAMS-Commerce-Site</link><guid isPermaLink="false">freelancer:40810644</guid><pubDate>Mon, 09 Nov 2026 23:24:48 GMT</pubDate><description>250-750 USD | I am ready to launch a premium online store and want the entire build handled on the WBAMS platform. The site must project a high-end, luxury feel—elegant typography, refined colour palettes and smooth micro-interactions—while remaining lightning fast and fully responsive on mobile, tablet and desktop.
 
 Functionality is as important as aesthetics. These core features are non-negotiable:
@@ -807,46 +845,6 @@ Ideal Skills and Experience:
 - Experience in optimizing bot interactions
 
 Looking for a freelancer who can ensure my AI bot is user-friendly and visually appealing. It’s currently demo trial has had great results but the live trial seems to be not working the same the project has been developed with chat gpt and vis code on ctrader platform </description></item>
-<item><title>Homepage Redesign Needed</title><link>https://www.freelancer.com/projects/web-design/Homepage-Redesign-Needed</link><guid isPermaLink="false">freelancer:40806829</guid><pubDate>Sat, 07 Nov 2026 03:41:08 GMT</pubDate><description>30-250 USD | This is a revamp of an existing site
-
-I’m overhauling my website so the home page feels less like a marketing brochure and more like an active social hub. When visitors land, I want their first instinct to be scrolling through my latest posts and updates—no sales pitch up front, just fresh content that invites engagement.  
-
-The spotlight should be on photos and videos. Rather than embedding feeds from my external channels, I’ll be uploading these assets directly to the site, so the layout must showcase native galleries or video blocks that are easy for me to manage through the existing CMS.  
-
-Here’s the immediate goal:  
-• Design a modern, responsive home page that leads with a dynamic “Latest Updates” section featuring my own photo and video uploads.  
-• Keep navigation intuitive, but dial back service-centric messaging in favor of social-style storytelling.  
-• Ensure load times stay snappy and the design looks great on mobile, tablet, and desktop.  
-
-If this initial redesign hits the mark, I’ll roll the new look and feel across the rest of the site next. Let’s start with a concept or wireframe, refine it together, and move on to full implementation once approved.</description></item>
-<item><title>WordPress Doula Site Overhaul</title><link>https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul</link><guid isPermaLink="false">freelancer:40806795</guid><pubDate>Sat, 07 Nov 2026 02:54:47 GMT</pubDate><description>30-250 USD | I need a WordPress specialist to refresh and relaunch my site so it fully reflects our new brand, “THE DOULA ALLIANCE – Maternal Education • Advocacy • Doula Support”.
-
-Scope of work  
-• Audit every page for consistency, tidy up spacing, fonts and overall cohesion.  
-• Replace “DMVR Birth Alliance” with “The Doula Alliance” everywhere it appears (about seven instances) and remove the single word “Culturally” from the right-hand block on page 1.  
-• Swap in the new logo, phone, fax, email and updated social media links (Facebook, Instagram, TikTok, YouTube).  
-• Update four existing paragraphs with the supplied copy and add two new FAQs in the FAQ section.  
-• Insert a new paragraph on insurance coverage and create a dedicated block where I can regularly embed fresh YouTube videos.  
-• Adjust the first section’s tabs so “Request Doula” becomes “Request Information” and “Request Services” becomes “Book Now!”.  
-• Revamp the “See if I’m eligible” page header to a colour background and refresh the Contact Us button styling.
-
-Booking &amp; payments  
-The site must let visitors pick an available date for doula service appointments and pay a deposit online. A straightforward calendar/booking plug-in (Amelia, Bookly, WooCommerce Bookings or similar) with Stripe or PayPal deposit capability is perfect, provided it integrates cleanly with WordPress and sends automated confirmations.
-
-Launch &amp; migration  
-Once all changes are approved, migrate the entire website to a new domain I will provide, ensuring SEO settings and existing backlinks are preserved.
-
-Deliverables  
-• Fully updated WordPress site matching the checklist above  
-• Working booking calendar with deposit payment flow for doula appointments  
-• All new content, links, buttons and blocks implemented and tested  
-• Seamless migration to the new domain, with redirects configured  
-• One-page hand-off guide summarising how to add future FAQs, YouTube videos and calendar slots
-
-Acceptance criteria  
-The updated site must load without errors, display the new branding everywhere, process a test booking with deposit successfully, and remain fully functional after domain migration.
-
-That’s the whole brief—please let me know your estimated turnaround and any plug-ins you plan to use.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
