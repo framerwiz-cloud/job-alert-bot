@@ -983,18 +983,6 @@ Links to 2-3 recent modern web platforms you have built from scratch (church or 
 Your technical approach to integrating Pushpay forms/embeds and handling data securely without local storage.
 
 Your proposed milestone structure, timeline, and cost estimate.</description></item>
-<item><title>Interest Communities Listings Network Development</title><link>https://www.freelancer.com/projects/content-management-system/Interest-Communities-Listings-Network</link><guid isPermaLink="false">freelancer:40806737</guid><pubDate>Sat, 07 Nov 2026 01:29:43 GMT</pubDate><description>15-25 USD/hr | I’m setting up a large-scale network of interconnected sites that bring people together around their interests. Each site will revolve around groups and events, allowing members to create their own profile, join or form groups, and post as well as manage events tied to those interests. Messaging and forums are not a priority for this first release; the core experience is discovery, grouping, and event management.
-
-What I need is the full technical and design build-out of this network: a solid, scalable architecture that lets me spin up new interest niches quickly, a unified user database so members keep one profile across sites, and an intuitive front-end that makes browsing groups or events effortless on mobile and desktop. The development will be done in phases, starting with one website at a time until all 10 are linked together.
-
-Deliverables
-• Multisite installation (or equivalent) configured and deployed  
-• User flows for registration, profile editing, group joining/creation, and event posting/management working end-to-end  
-• Admin dashboard with controls for approving, editing, or removing groups and events  
-• Responsive UI, light and fast, with clear navigation between network sites  
-• Documentation outlining how to add new interest sites and maintain the network
-
-I’m happy to work with popular stacks like WordPress Multisite, Laravel with a multisite plugin, or another framework you prefer, as long as it’s future-proof and easy for an in-house team to extend later. Let me know which tools you would use, how you will ensure performance as the network grows, and a realistic timeline to reach a launch-ready MVP.</description></item>
 <item><title>Scalable AI Business OS Automation</title><link>https://www.freelancer.com/projects/automation/Scalable-Business-Automation</link><guid isPermaLink="false">freelancer:40806708</guid><pubDate>Sat, 07 Nov 2026 00:35:51 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build an automated, scalable AI Business Operating System using GoHighLevel, n8n, Stripe and AI integrations.
 
 Required Features:
