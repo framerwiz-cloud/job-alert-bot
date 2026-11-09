@@ -581,111 +581,6 @@ Ideally, you should have:
 - Ability to take direction and work independently, sourcing license-free photos and content, update the site on a monthly basis or as needed
 
 I look forward to your bids!</description></item>
-<item><title>BigCommerce Legacy Theme Migration to Modern Stencil – IXIL USA</title><link>https://www.freelancer.com/projects/website-testing/BigCommerce-Legacy-Theme-Migration</link><guid isPermaLink="false">freelancer:40807549</guid><pubDate>Sat, 07 Nov 2026 15:40:12 GMT</pubDate><description>750-1500 USD | # BigCommerce Legacy Theme Migration to Modern Stencil – IXIL USA
-
-**Project Type:** Fixed Price  
-**Budget:** $750–$1,500 USD  
-**Website:** https://www.ixilusa.com  
-**Preferred Theme:** BigCommerce Cornerstone Light (Stencil)  
-**Timeline:** Approximately 2–4 weeks
-
-## Project Overview
-
-We are seeking an experienced BigCommerce developer to migrate our established motorcycle exhaust e-commerce website from the legacy **BigCommerce Default v6.6 (Blueprint) theme** to a modern Stencil theme.
-
-We want to preserve our existing website's appearance, branding, navigation, products, and functionality while improving mobile responsiveness, performance, and compatibility.
-
-**This is a theme migration, NOT a complete redesign or platform change.**
-
-## 1. Theme Migration and Design
-
-- Use the free BigCommerce Cornerstone Light theme or recommend a suitable alternative.
-- Preserve our existing logo, colors, branding, homepage, banners, menus, and general appearance.
-- Maintain product and category layouts as closely as practical.
-- Improve performance and compatibility.
-- Deliver a fully responsive website for desktop, tablet, and mobile.
-
-**Mobile optimization is essential**, including navigation, product pages, fitment searches, cart, and checkout.
-
-## 2. Motorcycle Fitment Selector – Search Magic
-
-Our existing "Select Your Ride" motorcycle make/model/year selector is powered by the BigCommerce **Search Magic app ($49/month)**.
-
-- Preserve the existing app and all fitment data.
-- Integrate it correctly with the new Stencil theme.
-- Ensure accurate motorcycle make/model/year searches.
-- Test full functionality on desktop and mobile.
-
-This is an existing third-party app. We are NOT requesting a new fitment system.
-
-## 3. CRITICAL – Google SEO and URL Preservation
-
-**Protecting our existing Google rankings and indexed pages is a top priority.**
-
-The developer MUST:
-
-- Preserve ALL existing product, category, and informational page URLs exactly as they currently exist.
-- Preserve SEO titles, meta descriptions, canonical tags, structured data, and existing 301 redirects.
-- Maintain internal links, Google Search Console verification, analytics, and sitemap functionality.
-- Prevent broken links, duplicate pages, and accidental indexing restrictions.
-- Document and audit existing URLs before migration and verify them after launch.
-- Obtain written approval before changing ANY existing URL.
-- Implement proper 301 redirects if an approved URL change is unavoidable.
-
-The migration must follow SEO best practices to minimize any risk to our established Google traffic. SEO verification must be included in the fixed price.
-
-## 4. Customer Accounts, Checkout, and Integrations
-
-Our current legacy theme has a customer registration issue involving reCAPTCHA.
-
-Requirements:
-
-- Fix customer registration and ensure BigCommerce-supported CAPTCHA protection works correctly.
-- Preserve existing customer accounts and order history.
-- Verify customer login and account management.
-- Preserve and test PayPal and BigCommerce checkout.
-- Confirm compatibility with our existing ShipStation integration.
-- Test the complete purchase process on desktop and mobile.
-
-## 5. Development, Testing, and Launch
-
-- Develop using an unpublished theme or separate development environment.
-- Keep our existing live website operational throughout development.
-- Provide a working preview for approval.
-- Test navigation, Search Magic, customer accounts, checkout, mobile functionality, and SEO.
-- Back up the existing theme and establish a rollback plan.
-- Launch ONLY after receiving our written approval.
-
-## 6. Ownership and Post-Launch Support
-
-- Deliver all completed custom theme files and newly developed code.
-- Transfer ownership of newly created custom work to IXIL USA upon final payment, excluding third-party licensed components.
-- Disclose any additional software or licensing costs before proceeding.
-- Include **14 days of post-launch support** to correct migration-related issues involving SEO, links, Search Magic, checkout, customer accounts, or mobile functionality.
-
-## 7. Developer Qualifications and Bidding Requirements
-
-We require demonstrated experience with **BigCommerce Stencil development**, preferably including legacy Blueprint-to-Stencil migrations.
-
-Please include in your proposal:
-
-1. Examples of BigCommerce websites you have developed or migrated.
-2. Your experience migrating Blueprint themes to Stencil.
-3. Whether you recommend Cornerstone Light or another theme.
-4. Confirmation you can preserve existing URLs, SEO, and Search Magic functionality.
-5. Your approach to fixing the customer registration/reCAPTCHA issue.
-6. Your complete fixed-price quote and estimated completion time.
-7. Confirmation that 14 days of post-launch support are included.
-
-**Please review https://www.ixilusa.com before bidding. Generic proposals without relevant BigCommerce experience will not be considered.**
-
-## Final Priorities
-
-Our priorities are preserving existing Google visibility and URLs, maintaining our IXIL USA branding, upgrading desktop/mobile functionality, keeping Search Magic operational, and ensuring a smooth migration without disrupting our business.
-
-**Fixed Budget: $750–$1,500 USD.**
-
-We are looking for a reliable BigCommerce specialist who can complete the migration correctly and potentially assist with future website improvements.</description></item>
 <item><title>Mountain Biking Streetwear Brand Website</title><link>https://www.freelancer.com/projects/web-development/Mountain-Biking-Streetwear-Brand-Website</link><guid isPermaLink="false">freelancer:40807025</guid><pubDate>Sat, 07 Nov 2026 07:43:06 GMT</pubDate><description>30-250 AUD | Create a premium, modern, high-converting website for my mountain biking brand, **OUTLAW STUDIO**.
 
 The website should feel like a high-end mountain biking and streetwear brand. It needs to look professionally designed, modern, minimalistic and visually impressive.
@@ -914,6 +809,34 @@ Here’s the immediate goal:
 • Ensure load times stay snappy and the design looks great on mobile, tablet, and desktop.  
 
 If this initial redesign hits the mark, I’ll roll the new look and feel across the rest of the site next. Let’s start with a concept or wireframe, refine it together, and move on to full implementation once approved.</description></item>
+<item><title>WordPress Doula Site Overhaul</title><link>https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul</link><guid isPermaLink="false">freelancer:40806795</guid><pubDate>Sat, 07 Nov 2026 02:54:47 GMT</pubDate><description>30-250 USD | I need a WordPress specialist to refresh and relaunch my site so it fully reflects our new brand, “THE DOULA ALLIANCE – Maternal Education • Advocacy • Doula Support”.
+
+Scope of work  
+• Audit every page for consistency, tidy up spacing, fonts and overall cohesion.  
+• Replace “DMVR Birth Alliance” with “The Doula Alliance” everywhere it appears (about seven instances) and remove the single word “Culturally” from the right-hand block on page 1.  
+• Swap in the new logo, phone, fax, email and updated social media links (Facebook, Instagram, TikTok, YouTube).  
+• Update four existing paragraphs with the supplied copy and add two new FAQs in the FAQ section.  
+• Insert a new paragraph on insurance coverage and create a dedicated block where I can regularly embed fresh YouTube videos.  
+• Adjust the first section’s tabs so “Request Doula” becomes “Request Information” and “Request Services” becomes “Book Now!”.  
+• Revamp the “See if I’m eligible” page header to a colour background and refresh the Contact Us button styling.
+
+Booking &amp; payments  
+The site must let visitors pick an available date for doula service appointments and pay a deposit online. A straightforward calendar/booking plug-in (Amelia, Bookly, WooCommerce Bookings or similar) with Stripe or PayPal deposit capability is perfect, provided it integrates cleanly with WordPress and sends automated confirmations.
+
+Launch &amp; migration  
+Once all changes are approved, migrate the entire website to a new domain I will provide, ensuring SEO settings and existing backlinks are preserved.
+
+Deliverables  
+• Fully updated WordPress site matching the checklist above  
+• Working booking calendar with deposit payment flow for doula appointments  
+• All new content, links, buttons and blocks implemented and tested  
+• Seamless migration to the new domain, with redirects configured  
+• One-page hand-off guide summarising how to add future FAQs, YouTube videos and calendar slots
+
+Acceptance criteria  
+The updated site must load without errors, display the new branding everywhere, process a test booking with deposit successfully, and remain fully functional after domain migration.
+
+That’s the whole brief—please let me know your estimated turnaround and any plug-ins you plan to use.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
