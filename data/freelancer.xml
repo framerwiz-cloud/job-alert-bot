@@ -170,18 +170,6 @@ Ideal skills and experience:
 - Ability to customize to fit unique needs
 
 Please provide examples of previous Notion setups.</description></item>
-<item><title>Mental Health Blog Content Needed</title><link>https://www.freelancer.com/projects/blog-writing/Mental-Health-Blog-Content-Needed</link><guid isPermaLink="false">freelancer:40809223</guid><pubDate>Mon, 09 Nov 2026 02:06:34 GMT</pubDate><description>250-750 USD | I need clear, engaging blog posts that speak directly to busy professionals who are juggling demanding schedules and rising stress levels. Every article must zero in on mental health and stress-management themes, delivering simple, practical tips readers can put into action the same day—no dense research papers, just straightforward guidance written in a warm yet efficient tone.  
-
-To keep the content useful and consistent, please:  
-• Craft original posts of roughly 700–900 words.  
-• Open with an attention-grabbing hook, then move quickly into actionable advice.  
-• Weave in reputable sources or brief data points where they genuinely strengthen the tip.  
-• Format for online reading (short paragraphs, sub-headers, occasional bullet points for key takeaways).  
-• Finish with a concise recap or next-step suggestion so readers feel motivated to act.  
-
-My platform runs on WordPress, so delivering the final piece as a ready-to-upload doc or Google Doc is perfect. If you have light SEO experience—keyword integration, meta description suggestions—that’s a plus, though depth-charge keyword stuffing isn’t the goal.  
-
-Once I review a draft and give feedback, revisions should be quick and collaborative. I’m looking to start with a single post; if it clicks with my audience, there’s room for an ongoing series covering additional angles of stress resilience, work-life balance, and everyday mindfulness.</description></item>
 <item><title>Speed-Focused Website Revamp</title><link>https://www.freelancer.com/projects/web-development/Speed-Focused-Website-Revamp</link><guid isPermaLink="false">freelancer:40809139</guid><pubDate>Mon, 09 Nov 2026 00:26:30 GMT</pubDate><description>250-750 AUD | My current site works, but it feels sluggish and clunky and that is costing me visitors. I need a seasoned web developer who can dive in immediately, streamline performance, and polish the user experience so the whole site feels effortless to navigate.
 
 Here is what matters most to me:
@@ -404,69 +392,6 @@ Please answer the following questions:
 **Please include examples of websites you have worked on, SEO results, traffic growth, lead generation results, and businesses you have acquired as customers.**
 
 We want someone entrepreneurial who can help turn this concept into a real, revenue-generating travel platform—not just someone who builds a website and walks away.</description></item>
-<item><title>GoHighLevel Real Estate Systems Architect</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-Real-Estate-Systems</link><guid isPermaLink="false">freelancer:40808913</guid><pubDate>Sun, 08 Nov 2026 19:33:19 GMT</pubDate><description>30-250 CAD | GoHighLevel (GHL) Systems Architect – Full Account Audit, Multi-Segment Setup &amp; Automation
-
-
-Project Overview
-
-I am looking for an experienced GoHighLevel (GHL) CRM, Automation &amp; Systems Architect to audit, organize, and fully build out my existing GHL account. I run a solo real estate business that spans multiple segments (Residential Buyers/Sellers, Leasing, Commercial Real Estate, and Business Brokerage).
-I am not looking for a basic landing page builder. I need someone who understands CRM strategy + data segmentation + advanced deliverability, who can clean up my existing assets while implementing a precise technical blueprint I have already mapped out.
-
-What I Have Already
-
-• An active GHL account and custom website with multiple features.
-• Existing leads, contacts, and past client databases (needs cleaning/segmenting).
-• Scraped lists and business registries ready for outbound prospecting.
-• Scattershot funnels and automations that need to be audited, improved, or replaced.
-
-Scope of Work &amp; Technical Blueprint
-
-Phase 1: Audit, Cleanup &amp; Data Segmentation
-
-• System Audit: Review all existing workflows, forms, and triggers. Delete or archive broken or redundant automations to clean up the account.
-• Master Sub-Account Structure: Organize all data within one single master sub-account (no fragmented sub-accounts).
-• Contact Cleansing: Clean, deduplicate, and segment my existing contact database using specific master tags (Segment: Buyer, Segment: Seller, Segment: Commercial, etc.).
-
-Phase 2: Core Architecture &amp; 6 Custom Pipelines
-
-You will build and configure 6 distinct Kanban pipelines with unique milestone stages tailored to each asset class:
-1. Residential Buyers
-2. Residential Sellers
-3. Residential Leasing (Application, background check, lease stages)
-4. Commercial Real Estate (Buyers/Sellers) (NDA, LOI, due diligence stages)
-5. Business For Sale (Valuation, CIM prep, marketing stages)
-6. Outbound Prospecting Pipeline (A dedicated "buffer" pipeline to filter raw/scraped cold leads before they hit my main business metrics)
-
-Phase 3: Outbound Isolation &amp; Deliverability Configuration
-
-• Domain Isolation: Integrate a secondary "lookalike" cold email domain specifically for outbound prospecting to protect my main website domain’s sender reputation. Configure SPF, DKIM, and DMARC.
-• Outbound Phone Setup: Configure a secondary GHL tracking line with A2P 10DLC parameters strictly for manual outbound sprints.
-
-Phase 4: Workflow Automations &amp; Handraiser Controls
-
-• The Inbound Reply Stop: Build an automated trigger where any reply to a cold outbound campaign instantly pauses the automation, moves the contact to Handraiser / Reply Received in the Prospecting Pipeline, and shoots an Instant Push Notification to my phone via the LeadConnector app (linking directly to the conversation).
-• Mobile Call-Logging Triggers: Build workflows mapped to 4 custom tags (Call: Left Voicemail, Call: No Answer, Call: Callback Requested, Call: Gatekeeper Block). When I apply these tags in the GHL mobile power-dialer, GHL must automatically update the opportunity stage and schedule the next follow-up task.
-
-Phase 5: Nurturing, Reporting &amp; Training
-
-• Re-engagement Campaigns: Set up automated past-client, referral, and database re-engagement campaigns.
-• Attribution Reporting: Configure dashboard widgets so I can filter conversion rates and pipeline values by individual business segments.
-• Hand-off &amp; Training: Provide a live walkthrough or short recorded training session showing me exactly how to navigate the new, cleaned system.
-
-Proposed Project Milestones (Escrow Release)
-
-Payment will be split into three strict milestones based on deliverables:
-• Milestone 1 (20%): Completion of the GHL account audit, database cleanup, domain isolation setup, and tag restructuring.
-• Milestone 2 (50%): Successful build of all 6 pipelines, conditional custom fields, cold outreach workflows, and mobile app call-logging automations (Fully Tested).
-• Milestone 3 (30%): Re-engagement campaigns live, dashboard reporting verified, and final training/hand-off completed.
-
-Submission Requirements (Proposals ignoring this will be archived)
-
-To be considered, your proposal MUST include:
-1. Fixed-Price Quote: Provide the total, all-inclusive price for the complete project based on the scope above. No placeholder bids.
-2. Timeline: How many days will this take you from start to finish?
-3. Work Samples: Provide screenshots or a short video of a GHL architecture, pipeline system, or multi-channel workflow you have personally built (real estate focus is a massive plus).
-4. Screening Question: Answer this in your application: “How do you prevent a cold lead from continuing to receive automated emails once they manually reply to a GHL workflow?” (This proves you read the description.)</description></item>
 <item><title>CCBill Model Video Platform</title><link>https://www.freelancer.com/projects/web-development/CCBill-Model-Video-Platform</link><guid isPermaLink="false">freelancer:40808834</guid><pubDate>Sun, 08 Nov 2026 18:08:00 GMT</pubDate><description>1500-3000 USD | I’m launching a subscription-and-pay-per-download video site where independent models can earn directly from their content. Members must be able to unlock every clip through a recurring monthly plan or buy single videos outright; both options need to coexist cleanly in the storefront and catalogue.  
 
 Each model will have a personal creator account to upload, tag, price and manage their own videos. The system then pays them a configurable percentage of every sale, tracked automatically, with clear earnings reports they can export. I only step in as the site admin to set the global revenue split, handle support tickets and, if necessary, approve or remove content.  
@@ -989,6 +914,75 @@ Acceptance criteria
 The updated site must load without errors, display the new branding everywhere, process a test booking with deposit successfully, and remain fully functional after domain migration.
 
 That’s the whole brief—please let me know your estimated turnaround and any plug-ins you plan to use.</description></item>
+<item><title>Build Modern Pushpay-Integrated Church Platform</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Pushpay-Integrated-Church</link><guid isPermaLink="false">freelancer:40806768</guid><pubDate>Sat, 07 Nov 2026 02:11:16 GMT</pubDate><description>200-300 USD | Project Title: Developer Needed for Modern Mega-Church Web Platform (Pushpay Integration &amp; Zero-Cost Architecture)
+
+Project Overview:
+Our goal is to build a contemporary, engaging platform that communicates our vision, welcomes first-time visitors, showcases our ministries, and gives easy access to sermons and church activities, with the overarching purpose of pointing everyone who visits to Jesus.
+
+We are looking for an experienced developer who can build a high-performance, mobile-first web platform while adhering strictly to our architectural, security, and integration requirements.
+
+Key Requirements &amp; Scope of Work
+1. Pushpay as Our Central Repository
+Pushpay ChMS must remain the authoritative source for all church-management information to avoid creating separate databases or duplicating information locally on the website. Specifically:
+
+Calendar &amp; Groups: Church calendar and public group listings must pull directly from Pushpay via API or approved embeds.
+
+Forms &amp; Registrations: Connection cards, event registrations, and other forms must utilize secure Pushpay forms so information stays in the central repository.
+
+Children’s Pre-Registration: Must use a secure, approved Pushpay form process so children’s sensitive information is never stored locally on the platform.
+
+Prayer Requests: Must utilize a confidential submission process with clear permission rules.
+
+Online Giving: Must link seamlessly to our existing Pushpay giving platform rather than a custom payment portal.
+
+Note on API: Please specify your technical approach for connecting the platform to Pushpay, which APIs or embeds you intend to use, and how data caching/refresh rates will be managed.
+
+2. Design and User Experience
+The platform must feature:
+
+A video-enhanced homepage hero section.
+
+A dedicated "Plan a Visit" feature for first-time guests.
+
+A church history timeline and member testimonials ("Why I choose and love this church").
+
+A dedicated livestream page and a searchable, filterable sermon library.
+
+Modern, visually appealing, mobile-friendly design with lightning-fast load times.
+
+Clear organization for essential information: mission, vision, beliefs, leadership, ministries, service times, and physical location.
+
+3. Content Management and Ownership
+
+The backend must be structured so our administrative staff can easily update text, photographs, ministry information, and announcements on their own without needing developer assistance for routine changes.
+
+4. Chatbot and Ongoing Costs
+
+We are open to introducing a chatbot to act as a digital usher, but it must be a 100% free-tier or open-source implementation with zero recurring monthly subscription costs for hosting, usage, or maintenance. Please outline your approach for keeping all third-party tool costs at $0.
+
+5. Security and Maintenance
+Please detail your proposed approach to:
+
+Data security and protection of personal information.
+
+Secure storage and protection of Pushpay API credentials (e.g., using environment variables).
+
+Role-based access permissions for staff and volunteers.
+
+Automated backups and ongoing maintenance/updates.
+
+Disaster recovery if the platform or a connected service goes down.
+
+6. Additional Considerations
+
+Emergency Alert Banner: Staff must have an intuitive toggle in the backend to quickly post a site-wide notice when services are canceled or changed because of severe weather or other emergencies.
+
+To Apply, Please Provide:
+Links to 2-3 recent modern web platforms you have built from scratch (church or non-profit projects are preferred).
+
+Your technical approach to integrating Pushpay forms/embeds and handling data securely without local storage.
+
+Your proposed milestone structure, timeline, and cost estimate.</description></item>
 <item><title>Interest Communities Listings Network Development</title><link>https://www.freelancer.com/projects/content-management-system/Interest-Communities-Listings-Network</link><guid isPermaLink="false">freelancer:40806737</guid><pubDate>Sat, 07 Nov 2026 01:29:43 GMT</pubDate><description>15-25 USD/hr | I’m setting up a large-scale network of interconnected sites that bring people together around their interests. Each site will revolve around groups and events, allowing members to create their own profile, join or form groups, and post as well as manage events tied to those interests. Messaging and forums are not a priority for this first release; the core experience is discovery, grouping, and event management.
 
 What I need is the full technical and design build-out of this network: a solid, scalable architecture that lets me spin up new interest niches quickly, a unified user database so members keep one profile across sites, and an intuitive front-end that makes browsing groups or events effortless on mobile and desktop. The development will be done in phases, starting with one website at a time until all 10 are linked together.
@@ -1001,6 +995,42 @@ Deliverables
 • Documentation outlining how to add new interest sites and maintain the network
 
 I’m happy to work with popular stacks like WordPress Multisite, Laravel with a multisite plugin, or another framework you prefer, as long as it’s future-proof and easy for an in-house team to extend later. Let me know which tools you would use, how you will ensure performance as the network grows, and a realistic timeline to reach a launch-ready MVP.</description></item>
+<item><title>Scalable AI Business OS Automation</title><link>https://www.freelancer.com/projects/automation/Scalable-Business-Automation</link><guid isPermaLink="false">freelancer:40806708</guid><pubDate>Sat, 07 Nov 2026 00:35:51 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build an automated, scalable AI Business Operating System using GoHighLevel, n8n, Stripe and AI integrations.
+
+Required Features:
+
+* AI phone receptionist (24/7 answering, lead qualification and bookings).
+* AI chatbots, WhatsApp, SMS and email automation.
+* CRM and automated lead management.
+* Social media content creation, scheduling and management.
+* SEO and AI Search Optimisation (AIO).
+* Automated funnels and lead generation.
+* Business workflow automation.
+* Stripe subscriptions and payments.
+* Automated client onboarding and account creation.
+* Client and internal admin dashboards.
+* Automated reporting and system monitoring.
+
+Critical Requirement: BUILD ONCE, DEPLOY REPEATEDLY.
+
+New customers must automatically receive their configured platform using reusable GoHighLevel snapshots, n8n workflows and industry templates. No manual rebuilding for each customer.
+
+The system should support multiple industries and hundreds of businesses with minimal human involvement.
+
+Budget:
+I am a startup with a strict budget. Cost is a major deciding factor. Prioritise existing tools and cost-effective solutions over unnecessary custom development.
+
+If you cannot deliver within your proposed budget, please do not bid.
+
+When applying, provide:
+
+1. Total development cost.
+2. Estimated timeframe.
+3. Ongoing monthly costs.
+4. Relevant portfolio and experience.
+5. Proposed architecture and development approach.
+
+I require ownership of custom source code, workflows and documentation. Open to milestone-based development.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
