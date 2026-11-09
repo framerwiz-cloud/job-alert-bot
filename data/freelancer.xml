@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>4-Page WordPress Site Clone</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Site-Clone</link><guid isPermaLink="false">freelancer:40810515</guid><pubDate>Mon, 09 Nov 2026 20:54:07 GMT</pubDate><description>30-250 AUD | I need an exact four-page reproduction of eventscoolroomhire.com.au running on WordPress. The pages are Home, Our Coolrooms, Event Hire and the Online Quote form, and each one must carry over the same design, wording and overall look and feel of the original site.  
+
+Key functional points  
+• Sticky header and footer that keep the “Quick Call” and “Get a Quote” buttons visible at all times, just as on the reference site.  
+• Online Quote form duplicated with all of its questions, options and fields intact. Submissions must be routed simultaneously to two email addresses that I will supply.  
+• Mobile responsiveness, identical imagery, fonts, colours and layout so the clone is visually indistinguishable from the source.  
+
+Timing &amp; hand-off  
+The full build, tested and ready to go live on my WordPress hosting, needs to be delivered within eight hours of project award. A single fixed budget is already set aside for this rapid turn-around; please factor that into your offer.  
+
+Acceptance criterion  
+A side-by-side check against the reference site should show no visual or functional differences, and the quote form must reach both target inboxes.  
+
+To confirm you have reviewed the site in detail, include in your bid the exact time frame the homepage states for when a customer will receive their quote after submitting a request.
+
+This task is for this specific client, so there is no copyright or issues copying the data.</description></item>
 <item><title>Complete Wix Ecommerce Store Setup</title><link>https://www.freelancer.com/projects/wix/Complete-Wix-Ecommerce-Store-Setup</link><guid isPermaLink="false">freelancer:40810325</guid><pubDate>Mon, 09 Nov 2026 17:54:15 GMT</pubDate><description>100-150 USD | I already own the domain and have a fresh Wix site standing by; what I need now is an end-to-end ecommerce build so I can start selling our physical, shippable products right away.  
 
 The store must let visitors choose product options such as size or color, drop them into a cart, and pay online in a single, friction-free checkout. Shoppers should also be able to create an account so they can return, view order history, and track deliveries.  
@@ -892,34 +908,6 @@ Here’s the immediate goal:
 • Ensure load times stay snappy and the design looks great on mobile, tablet, and desktop.  
 
 If this initial redesign hits the mark, I’ll roll the new look and feel across the rest of the site next. Let’s start with a concept or wireframe, refine it together, and move on to full implementation once approved.</description></item>
-<item><title>WordPress Doula Site Overhaul</title><link>https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul</link><guid isPermaLink="false">freelancer:40806795</guid><pubDate>Sat, 07 Nov 2026 02:54:47 GMT</pubDate><description>30-250 USD | I need a WordPress specialist to refresh and relaunch my site so it fully reflects our new brand, “THE DOULA ALLIANCE – Maternal Education • Advocacy • Doula Support”.
-
-Scope of work  
-• Audit every page for consistency, tidy up spacing, fonts and overall cohesion.  
-• Replace “DMVR Birth Alliance” with “The Doula Alliance” everywhere it appears (about seven instances) and remove the single word “Culturally” from the right-hand block on page 1.  
-• Swap in the new logo, phone, fax, email and updated social media links (Facebook, Instagram, TikTok, YouTube).  
-• Update four existing paragraphs with the supplied copy and add two new FAQs in the FAQ section.  
-• Insert a new paragraph on insurance coverage and create a dedicated block where I can regularly embed fresh YouTube videos.  
-• Adjust the first section’s tabs so “Request Doula” becomes “Request Information” and “Request Services” becomes “Book Now!”.  
-• Revamp the “See if I’m eligible” page header to a colour background and refresh the Contact Us button styling.
-
-Booking &amp; payments  
-The site must let visitors pick an available date for doula service appointments and pay a deposit online. A straightforward calendar/booking plug-in (Amelia, Bookly, WooCommerce Bookings or similar) with Stripe or PayPal deposit capability is perfect, provided it integrates cleanly with WordPress and sends automated confirmations.
-
-Launch &amp; migration  
-Once all changes are approved, migrate the entire website to a new domain I will provide, ensuring SEO settings and existing backlinks are preserved.
-
-Deliverables  
-• Fully updated WordPress site matching the checklist above  
-• Working booking calendar with deposit payment flow for doula appointments  
-• All new content, links, buttons and blocks implemented and tested  
-• Seamless migration to the new domain, with redirects configured  
-• One-page hand-off guide summarising how to add future FAQs, YouTube videos and calendar slots
-
-Acceptance criteria  
-The updated site must load without errors, display the new branding everywhere, process a test booking with deposit successfully, and remain fully functional after domain migration.
-
-That’s the whole brief—please let me know your estimated turnaround and any plug-ins you plan to use.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
