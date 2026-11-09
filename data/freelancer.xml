@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Edgy WordPress Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Edgy-WordPress-Website-Redesign</link><guid isPermaLink="false">freelancer:40810158</guid><pubDate>Mon, 09 Nov 2026 15:31:36 GMT</pubDate><description>250-750 USD | SocialTrend Marketing Solutions is a boutique digital marketing agency looking for a WordPress designer who can bring a fresh perspective to our website. We’re starting with a paid redesign of two pages:
+•	SocialTrend Homepage - https://socialtrendllc.com/
+•	Website Design Services Page - https://socialtrendllc.com/website-design/
+We use our own website to try new design ideas and see how we collaborate with new designers before bringing them onto client projects. If the design and working relationship are a good fit, we’d like to hire you to redesign the rest of our website and consider you for future client website projects.
+
+What we’re looking for
+•	Redesign and build both pages in WordPress using BeTheme. 
+•	Give the homepage a fresh look that quickly explains what SocialTrend does and makes it easy for visitors to explore our services and get in touch.  We want to look different and edgy, not like every other marketing company.
+•	Refresh the Website Design page so potential clients can easily understand what we offer, see examples of our work, and take the next step.
+•	Use our existing branding as a starting point and bring your own ideas for layout, typography, imagery, and calls to action.
+•	Make both pages responsive and easy for our team to update in BeTheme.
+•	Build and test the pages on a staging site so we can review them before they go live.
+
+To apply, please include
+•	Two or three live WordPress websites you personally designed or built.
+•	One design improvement you’d make after reviewing our two pages and what it would help visitors do.
+•	Your fixed price and estimated turnaround for both pages, including how many rounds of revisions are included.
+
+Please quote for the two-page pilot only. We’ll discuss the rest of the website and any client projects separately after the pilot.</description></item>
 <item><title>One-Product E-commerce Website Development</title><link>https://www.freelancer.com/projects/ecommerce/One-Product-commerce-Website-Development</link><guid isPermaLink="false">freelancer:40810089</guid><pubDate>Mon, 09 Nov 2026 14:33:43 GMT</pubDate><description>250-750 USD | I need a simple yet effective website to sell a single product directly online. This product is a therapy ball for pain relief from minor aches.  It is designed for the spine and low back, in particular, and is easy to use and effective. Designer should have background in physical medicine, back pain, anatomy and associated therapies. The accompanying brochure is a comprehensive description of use.   Jpegs  of photos available.
 Must be able to utilize existing promo materials and create a graphically enticing store that will educate and excite customers to purchase.
 
@@ -970,75 +989,6 @@ Acceptance criteria
 The updated site must load without errors, display the new branding everywhere, process a test booking with deposit successfully, and remain fully functional after domain migration.
 
 That’s the whole brief—please let me know your estimated turnaround and any plug-ins you plan to use.</description></item>
-<item><title>Build Modern Pushpay-Integrated Church Platform</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Pushpay-Integrated-Church</link><guid isPermaLink="false">freelancer:40806768</guid><pubDate>Sat, 07 Nov 2026 02:11:16 GMT</pubDate><description>200-300 USD | Project Title: Developer Needed for Modern Mega-Church Web Platform (Pushpay Integration &amp; Zero-Cost Architecture)
-
-Project Overview:
-Our goal is to build a contemporary, engaging platform that communicates our vision, welcomes first-time visitors, showcases our ministries, and gives easy access to sermons and church activities, with the overarching purpose of pointing everyone who visits to Jesus.
-
-We are looking for an experienced developer who can build a high-performance, mobile-first web platform while adhering strictly to our architectural, security, and integration requirements.
-
-Key Requirements &amp; Scope of Work
-1. Pushpay as Our Central Repository
-Pushpay ChMS must remain the authoritative source for all church-management information to avoid creating separate databases or duplicating information locally on the website. Specifically:
-
-Calendar &amp; Groups: Church calendar and public group listings must pull directly from Pushpay via API or approved embeds.
-
-Forms &amp; Registrations: Connection cards, event registrations, and other forms must utilize secure Pushpay forms so information stays in the central repository.
-
-Children’s Pre-Registration: Must use a secure, approved Pushpay form process so children’s sensitive information is never stored locally on the platform.
-
-Prayer Requests: Must utilize a confidential submission process with clear permission rules.
-
-Online Giving: Must link seamlessly to our existing Pushpay giving platform rather than a custom payment portal.
-
-Note on API: Please specify your technical approach for connecting the platform to Pushpay, which APIs or embeds you intend to use, and how data caching/refresh rates will be managed.
-
-2. Design and User Experience
-The platform must feature:
-
-A video-enhanced homepage hero section.
-
-A dedicated "Plan a Visit" feature for first-time guests.
-
-A church history timeline and member testimonials ("Why I choose and love this church").
-
-A dedicated livestream page and a searchable, filterable sermon library.
-
-Modern, visually appealing, mobile-friendly design with lightning-fast load times.
-
-Clear organization for essential information: mission, vision, beliefs, leadership, ministries, service times, and physical location.
-
-3. Content Management and Ownership
-
-The backend must be structured so our administrative staff can easily update text, photographs, ministry information, and announcements on their own without needing developer assistance for routine changes.
-
-4. Chatbot and Ongoing Costs
-
-We are open to introducing a chatbot to act as a digital usher, but it must be a 100% free-tier or open-source implementation with zero recurring monthly subscription costs for hosting, usage, or maintenance. Please outline your approach for keeping all third-party tool costs at $0.
-
-5. Security and Maintenance
-Please detail your proposed approach to:
-
-Data security and protection of personal information.
-
-Secure storage and protection of Pushpay API credentials (e.g., using environment variables).
-
-Role-based access permissions for staff and volunteers.
-
-Automated backups and ongoing maintenance/updates.
-
-Disaster recovery if the platform or a connected service goes down.
-
-6. Additional Considerations
-
-Emergency Alert Banner: Staff must have an intuitive toggle in the backend to quickly post a site-wide notice when services are canceled or changed because of severe weather or other emergencies.
-
-To Apply, Please Provide:
-Links to 2-3 recent modern web platforms you have built from scratch (church or non-profit projects are preferred).
-
-Your technical approach to integrating Pushpay forms/embeds and handling data securely without local storage.
-
-Your proposed milestone structure, timeline, and cost estimate.</description></item>
 <item><title>Interest Communities Listings Network Development</title><link>https://www.freelancer.com/projects/content-management-system/Interest-Communities-Listings-Network</link><guid isPermaLink="false">freelancer:40806737</guid><pubDate>Sat, 07 Nov 2026 01:29:43 GMT</pubDate><description>15-25 USD/hr | I’m setting up a large-scale network of interconnected sites that bring people together around their interests. Each site will revolve around groups and events, allowing members to create their own profile, join or form groups, and post as well as manage events tied to those interests. Messaging and forums are not a priority for this first release; the core experience is discovery, grouping, and event management.
 
 What I need is the full technical and design build-out of this network: a solid, scalable architecture that lets me spin up new interest niches quickly, a unified user database so members keep one profile across sites, and an intuitive front-end that makes browsing groups or events effortless on mobile and desktop. The development will be done in phases, starting with one website at a time until all 10 are linked together.
