@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom Pool Cue Design Website</title><link>https://www.freelancer.com/projects/rendering/Custom-Pool-Cue-Design-Website</link><guid isPermaLink="false">freelancer:40811577</guid><pubDate>Tue, 10 Nov 2026 12:37:31 GMT</pubDate><description>250-750 GBP | I need a complete ecommerce site where visitors can design their own pool cues, see the results in real time, and purchase instantly. 
+
+Key features
+• Interactive 3-D configurator – the cue must render live and be fully rotatable so shoppers can inspect every angle before checkout.  
+• Deep custom options – colours, patterns, wrap style, cue length, weight, tip type, plus space for names, text or even user-uploaded graphics. All selections should update the 3-D model on the fly.  
+• Seamless checkout – once finished, customers pay online with any mainstream card or digital wallet.  
+
+Deliverables
+1. Responsive website (preferably on a well-supported platform such as WooCommerce, Shopify or a custom React/Laravel stack) with the 3-D configurator integrated.  
+2. Admin dashboard to add or edit cue components, pricing rules and promotional codes.  
+3. Payment gateway setup (Stripe, PayPal or similar) with order confirmation emails and secure SSL.  
+4. Exportable production file or database entry containing every chosen spec so manufacturing can begin immediately.  
+5. Brief hand-over session plus basic documentation so I can maintain catalogue items myself.
+
+I’m open to your suggested toolset as long as the configurator is smooth on desktop and mobile, load times stay minimal, and the checkout remains friction-less. If you have examples of previous product builders or 3-D e-commerce work, please include them with your proposal.</description></item>
 <item><title>Brand Website with Social Links</title><link>https://www.freelancer.com/projects/web-design/Brand-Website-with-Social-Links</link><guid isPermaLink="false">freelancer:40811562</guid><pubDate>Tue, 10 Nov 2026 12:25:51 GMT</pubDate><description>250-750 AUD | My business needs a modern, mobile-first website that showcases our product range, tells our brand story, and funnels visitors straight to our Instagram, Facebook, and TikTok accounts where most engagement happens. No checkout is required right now—the focus is on eye-catching visuals, clear calls to action that invite people to follow or message us on those platforms, and a design flexible enough to add e-commerce later.
 
 The site should load fast, feel consistent with our existing social media look, and be easy for me to update without touching code. A simple CMS (WordPress, Shopify, or any comparable platform) paired with strong on-page SEO basics and Google Analytics will cover the technical side. I also need light support crafting the first month of social media content—nothing elaborate, just branded graphics, captions, and a posting calendar so I can hit the ground running.
@@ -774,19 +789,6 @@ Acceptance criteria
 5. I receive a brief video walkthrough and written guide covering routine updates.
 
 If you have deep experience with Wix Members, Wix Payments, Corvid (for any custom logic), and can advise on the best way for clients to consume their personalised plans, I’m ready to get started.</description></item>
-<item><title>Ecam and Rodecaster Setup</title><link>https://www.freelancer.com/projects/av-design/Ecam-Rodecaster-Setup</link><guid isPermaLink="false">freelancer:40807797</guid><pubDate>Sat, 07 Nov 2026 19:49:04 GMT</pubDate><description>250-750 USD | I need a professional to connect my Ecam and Rodecaster Pro II to receive iPhone calls during my live radio show.
-
-Requirements:
-- Experience with Ecam and Rodecaster Pro II
-- Ability to integrate iPhone call functionality
-- Quick turnaround needed
-
-Ideal Skills:
-- Audio/Video setup expertise
-- Experience with live broadcasting equipment
-- Problem-solving skills
-
-Please share your relevant experience.</description></item>
 <item><title>WooCommerce Store Build &amp; Optimization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Store-Build-Optimization</link><guid isPermaLink="false">freelancer:40806367</guid><pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate><description>15-25 CAD/hr | I’m ready to launch a modern, fully-responsive online store on WordPress with WooCommerce and need an expert who can take the project from blank install to polished, revenue-ready site. Your strongest suit should be WooCommerce setup and rock-solid payment security, but I also expect you to finesse theme customization, plugin selection, SEO basics, and performance tuning so the shop loads fast and converts visitors.
 
 Here’s what I want to walk away with:
