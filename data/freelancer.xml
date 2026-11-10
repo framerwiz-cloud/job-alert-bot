@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Forum &amp; Chat Backend Development</title><link>https://www.freelancer.com/projects/backend-development/Forum-Chat-Backend-Development</link><guid isPermaLink="false">freelancer:40812252</guid><pubDate>Tue, 10 Nov 2026 21:00:25 GMT</pubDate><description>250-750 USD | I already have the complete front-end for a combined forum and live chat room. I need the server-side logic that will bring it all to life, and integrate smoothly with Cloudflare.
+
+Core functionality  
+• User system: create accounts, build profiles, log in, and post to forum threads
+• Real-time chat: public rooms plus private one-to-one messages.  
+• Permission-based “backdoor”: a separate staff dashboard where moderators can delete posts, issue bans, and handle user reports without touching the main admin panel.  
+• Full admin console: my own secure route with unrestricted control should anything require deeper intervention.
+Site must be secure and prevent ddos attacks, sql, etc
+Functional with cloudflare  
+
+
+If you have questions please reach out.</description></item>
 <item><title>Automate WordPress Events with Klaviyo Stripe</title><link>https://www.freelancer.com/projects/klaviyo/Automate-WordPress-Events-with-Klaviyo</link><guid isPermaLink="false">freelancer:40812242</guid><pubDate>Tue, 10 Nov 2026 20:43:57 GMT</pubDate><description>30-250 CAD | Freelancer Wanted: Klaviyo + Stripe + WordPress Event Registration Automation
 We are seeking an experienced freelancer to build an automated event registration, payment tracking, and email communication system using Klaviyo, Stripe, and WordPress. Build a Klaviyo flow to manage event registration The systems and workflow must automatically manage registrations, Stripe payments, and paid/unpaid attendee lists for each event. Automated emails will include registration confirmations, payment confirmations, payment reminders, and event login details. The email content will be created as a document to be added to each of the email templates to be created. The system  will support late payments, event rescheduling, administrator notifications, and recording delivery post event. The event will have its own registration form, payment link, contact lists, and email automation.  Our WordPress event webpage and Klaviyo registration form already exist. We require a reusable setup that allows us to create future events without additional programming or paid third-party subscriptions. The freelancer will be responsible for configuration, basic testing, and providing written instructions, with a detailed scope of work available for review.</description></item>
 <item><title>Website Refresh &amp; Local SEO</title><link>https://www.freelancer.com/projects/content-writing/Website-Refresh-Local-SEO</link><guid isPermaLink="false">freelancer:40812217</guid><pubDate>Tue, 10 Nov 2026 20:19:51 GMT</pubDate><description>250-750 USD | I need my existing website polished—layout, copy, and technical back-end—so it feels current and, more importantly, shows up when businesses in my city and the neighbouring towns search for the services I offer. The priority is local visibility: clean on-page optimisation, well-structured meta data, and any schema or Google Business tweaks that help me surface in the map pack and organic results.
@@ -731,23 +743,6 @@ Requirements:
 Deliverables:
 - Completed website fully set up with basic templates for future expansions (additional exams/features).
 - Ownership of the project with open options for edits or updates.</description></item>
-<item><title>Luxury Car Dealership Website -- 2</title><link>https://www.freelancer.com/projects/php/Luxury-Car-Dealership-Website</link><guid isPermaLink="false">freelancer:40809006</guid><pubDate>Sun, 08 Nov 2026 21:53:02 GMT</pubDate><description>1500-3000 USD | I run a boutique showroom that specialises in luxury and high-performance vehicles and I need a website that turns online visitors into serious buyers. The look and feel must echo the premium brands I stock—think clean lines, high-resolution imagery, subtle animations, and a friction-free browsing flow on both mobile and desktop.
-
-What matters most is the ability to showcase each vehicle with rich photos, detailed specifications, provenance information, and a prominent enquiry form that drops leads straight into my CRM. I also want an inventory section I can update myself without touching code, along with basic SEO foundations so new stock is indexed quickly.
-
-Deliverables
-• Fully responsive site built on WordPress, Webflow, or another easy-to-maintain CMS  
-• Custom inventory manager and vehicle page template (gallery, specs table, enquiry form)  
-• Elegant landing, about, finance info, and contact pages matching the dealership’s brand palette  
-• Lead-capture integration with my existing CRM and Google Analytics set-up  
-• One-page style guide plus brief hand-over video showing how to add/edit cars and images  
-
-Acceptance criteria
-• Page load under 3 seconds on mobile (Lighthouse 90+ score)  
-• Inventory edits visible live within 60 seconds of publishing  
-• All enquiry submissions reach my CRM and send a confirmation email to the prospect  
-
-If this sounds within your wheelhouse, let’s discuss timelines and any design assets you need from me.</description></item>
 <item><title>AI-Generated E-Commerce Content</title><link>https://www.freelancer.com/projects/ai-automation/Generated-Commerce-Content</link><guid isPermaLink="false">freelancer:40808999</guid><pubDate>Sun, 08 Nov 2026 21:33:44 GMT</pubDate><description>15-25 USD/hr | I’m in the middle of launching an online store and want to automate the way every product page comes to life. The goal is for an AI-driven workflow that can take a short product brief and return two things: persuasive copy (title, bullet points, full description) and a set of matching, polished images ready for upload. Everything you build will be used directly in product listings and other store content, so accuracy and brand consistency matter.
 
 Here’s what I need from you:
