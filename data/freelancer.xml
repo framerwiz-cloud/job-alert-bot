@@ -3,6 +3,8 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Automate WordPress Events with Klaviyo Stripe</title><link>https://www.freelancer.com/projects/klaviyo/Automate-WordPress-Events-with-Klaviyo</link><guid isPermaLink="false">freelancer:40812242</guid><pubDate>Tue, 10 Nov 2026 20:43:57 GMT</pubDate><description>30-250 CAD | Freelancer Wanted: Klaviyo + Stripe + WordPress Event Registration Automation
+We are seeking an experienced freelancer to build an automated event registration, payment tracking, and email communication system using Klaviyo, Stripe, and WordPress. Build a Klaviyo flow to manage event registration The systems and workflow must automatically manage registrations, Stripe payments, and paid/unpaid attendee lists for each event. Automated emails will include registration confirmations, payment confirmations, payment reminders, and event login details. The email content will be created as a document to be added to each of the email templates to be created. The system  will support late payments, event rescheduling, administrator notifications, and recording delivery post event. The event will have its own registration form, payment link, contact lists, and email automation.  Our WordPress event webpage and Klaviyo registration form already exist. We require a reusable setup that allows us to create future events without additional programming or paid third-party subscriptions. The freelancer will be responsible for configuration, basic testing, and providing written instructions, with a detailed scope of work available for review.</description></item>
 <item><title>Website Refresh &amp; Local SEO</title><link>https://www.freelancer.com/projects/content-writing/Website-Refresh-Local-SEO</link><guid isPermaLink="false">freelancer:40812217</guid><pubDate>Tue, 10 Nov 2026 20:19:51 GMT</pubDate><description>250-750 USD | I need my existing website polished—layout, copy, and technical back-end—so it feels current and, more importantly, shows up when businesses in my city and the neighbouring towns search for the services I offer. The priority is local visibility: clean on-page optimisation, well-structured meta data, and any schema or Google Business tweaks that help me surface in the map pack and organic results.
 
 Here is what I picture as the workflow:
@@ -758,21 +760,6 @@ Here’s what I need from you:
 Acceptance criteria: the copy must be grammatically sound, free of hallucinated specs, and include at least one relevant keyword; images must be 1200 × 1200 px, PNG or JPEG, and visually coherent with the text you generated.
 
 If you’re confident you can deliver that seamless text-plus-image experience, I’d love to work together.</description></item>
-<item><title>CCBill Model Video Platform</title><link>https://www.freelancer.com/projects/web-development/CCBill-Model-Video-Platform</link><guid isPermaLink="false">freelancer:40808834</guid><pubDate>Sun, 08 Nov 2026 18:08:00 GMT</pubDate><description>1500-3000 USD | I’m launching a subscription-and-pay-per-download video site where independent models can earn directly from their content. Members must be able to unlock every clip through a recurring monthly plan or buy single videos outright; both options need to coexist cleanly in the storefront and catalogue.  
-
-Each model will have a personal creator account to upload, tag, price and manage their own videos. The system then pays them a configurable percentage of every sale, tracked automatically, with clear earnings reports they can export. I only step in as the site admin to set the global revenue split, handle support tickets and, if necessary, approve or remove content.  
-
-CCBill is the required payment gateway for all recurring subscriptions, single-item purchases and model payouts, so the build has to meet CCBill compliance standards from day one. Beyond that, I’m flexible on tech stack—whether you prefer WordPress with specialised plugins, a Laravel or Node back-end, or another secure framework—so long as it scales, runs smoothly on mobile and desktop, and keeps uploaded files secure.  
-
-Key deliverables  
-• Fully responsive website with member, model and admin roles configured  
-• Dual access system: monthly subscription unlocking all videos + individual video purchase/ download flow  
-• Seamless CCBill integration for both revenue streams and automated model payout tracking  
-• Model dashboard: upload interface, pricing controls, sales analytics, payout history  
-• Admin dashboard: user moderation, content oversight, adjustable revenue-share percentage, manual override tools  
-• Basic SEO setup, analytics hooks and documentation for ongoing maintenance  
-
-If you’ve built creator marketplaces or handled CCBill integrations before, let’s talk timelines and a sensible milestone plan so I can get this platform live without cutting corners on security or user experience.</description></item>
 <item><title>WordPress Site Migration Specialist</title><link>https://www.freelancer.com/projects/elementor/WordPress-Site-Migration-Specialist</link><guid isPermaLink="false">freelancer:40808314</guid><pubDate>Sun, 08 Nov 2026 08:01:40 GMT</pubDate><description>15-25 AUD/hr | I'm looking for a skilled WordPress developer with experience using Elementor to help migrate my website from an agency to in-house management. The site is currently hosted on the same provider, so no changes to the hosting environment are needed.
 
 Key Requirements:
