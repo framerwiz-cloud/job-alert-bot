@@ -3,6 +3,64 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>GigResource Responsive UI Design Refinement</title><link>https://www.freelancer.com/projects/web-design/GigResource-Responsive-Design-Refinement</link><guid isPermaLink="false">freelancer:40812696</guid><pubDate>Wed, 11 Nov 2026 04:46:09 GMT</pubDate><description>250-750 USD | GigResource — Graphic website Designer JD
+Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
+Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
+Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
+Scope is open-ended, up to 30-100+ pages "per user"— Client, Professional, Influencer, Admin and Affiliate pages across all five users types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
+Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
+
+Please provide a high-fidelity mockup of the dashboard. The sample must be designed in Figma; AI-generated screenshots will not be accepted.
+You have 12 hours to submit your concept. For the assignment, select any web link from the left column of the dashboard. Using the existing data on that page, show us your creativity and attention to detail by reshaping and reorganizing the layout. Do not remove any of the original data—your goal is to impress us with how you improve the page's structure and user experience.
+
+Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings, if needed ; act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4+ months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid ---&gt; https://docs.google.com/document/d/1fjD0bI1yv_z0O-WM5qd9XU1Pek-9zSWk4feLLS1RjBI/edit?tab=t.0 Answer the Questionnaire --&gt; https://docs.google.com/document/d/13RtTaBidscsFBXjD5h3ZqjFCYpElPkYa82V6ALQaDtg/edit?tab=t.0 
+
+
+1. Which dashboard page, user type or sidebar link should the first concept use?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+2. Is there an existing Figma file or design system with colors, icons, typography and layout rules?
+The rules I have are these:
+
+Role colors (light / dark): Client 
+#FFF7ED / 
+#EA580C, Professional 
+#EFF6FF / 
+#1D4ED8, Influencer 
+#F5F3FF / 
+#6D28D9, Admin 
+#F0FDF4 / 
+#15803D, Affiliate 
+#FDF2F8 / 
+#DB2777.
+ID prefixes: CL-, PRO-, INF-, ADM- and AFF-. Never GR-.
+No decorative checkmarks.
+
+For the Figma file, icons, typography and layout rules: if my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+3. Will you provide the website URL, dashboard access, existing Figma files and page data?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+4. Is the 12-hour Figma concept a separately paid milestone?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+5. How is payment protected if the contract is cancelled? Are milestones paid even if the project is paused or cancelled? What are the milestone, revision-limit and acceptance terms?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+6. Which UI framework or component style system should the Figma handoff follow?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+7. What are the top-priority sidebar polish details (icon alignment, active states, hover, collapsed behavior on laptop and mobile), and are there guidelines for icon styles, hover effects and mobile interactions? Is the biggest frustration icon alignment and spacing, or the collapse behavior?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+8. Will the sidebar structure stay fixed, or will menu items be added or removed during the project?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+9. Should the selected page be redesigned for mobile, laptop and desktop while preserving all original data and navigation?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+10. Should the first phase focus on the dashboard and shared responsive patterns, with other pages prioritized as the platform evolves? Can you provide a prioritized page inventory?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.</description></item>
 <item><title>Full-Stack Web Developer Required – Modern Website Development &amp; Platform Integration</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Web-Developer-Required-40812702</link><guid isPermaLink="false">freelancer:40812702</guid><pubDate>Wed, 11 Nov 2026 04:21:19 GMT</pubDate><description>750-1500 GBP | Project Overview
 
 We are looking for an experienced full-stack web developer to assist with the development and refinement of a modern, responsive web platform.
@@ -128,17 +186,6 @@ We are also developing Gigvora, our freelance marketplace, to support profession
 Where appropriate, we use Gigvora to facilitate professional profiles, project discovery and freelancer engagement.
 
 We look forward to reviewing your proposals.</description></item>
-<item><title>GigResource Responsive UI Design Refinement</title><link>https://www.freelancer.com/projects/web-design/GigResource-Responsive-Design-Refinement</link><guid isPermaLink="false">freelancer:40812696</guid><pubDate>Wed, 11 Nov 2026 04:13:45 GMT</pubDate><description>250-750 USD | GigResource — Graphic website Designer JD
-Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
-Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
-Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
-Scope is open-ended, up to 30-100+ pages "per user"— Client, Professional, Influencer, Admin and Affiliate pages across all five users types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
-Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
-
-Please provide a high-fidelity mockup of the dashboard. The sample must be designed in Figma; AI-generated screenshots will not be accepted.
-You have 12 hours to submit your concept. For the assignment, select any web link from the left column of the dashboard. Using the existing data on that page, show us your creativity and attention to detail by reshaping and reorganizing the layout. Do not remove any of the original data—your goal is to impress us with how you improve the page's structure and user experience.
-
-Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings, if needed ; act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4+ months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid ---&gt; https://docs.google.com/document/d/1fjD0bI1yv_z0O-WM5qd9XU1Pek-9zSWk4feLLS1RjBI/edit?tab=t.0 Answer the Questionnaire --&gt; https://docs.google.com/document/d/13RtTaBidscsFBXjD5h3ZqjFCYpElPkYa82V6ALQaDtg/edit?tab=t.0</description></item>
 <item><title>Wellness Habit Blog Writing</title><link>https://www.freelancer.com/projects/blog-writing/Wellness-Habit-Blog-Writing</link><guid isPermaLink="false">freelancer:40812650</guid><pubDate>Wed, 11 Nov 2026 03:41:18 GMT</pubDate><description>250-750 USD | I need a reliable writer who can create engaging health and lifestyle articles aimed at people looking for everyday wellness tips. Each post should leave readers with at least one practical habit they can begin that same day—no fluff, just clear, usable guidance supported by credible sources.
 
 You’ll receive a topic or headline for every assignment. From there, I’d like 800-1,000 words crafted in a friendly, conversational tone, formatted for easy reading (sub-headings, short paragraphs, bullet points when it truly helps). Basic on-page SEO matters to me, so please weave in a primary keyword naturally, add an irresistible meta description, and suggest a title tag.
