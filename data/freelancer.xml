@@ -3,16 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Stripe 50-50 Split Integration</title><link>https://www.freelancer.com/projects/stripe/Stripe-Split-Integration</link><guid isPermaLink="false">freelancer:40813867</guid><pubDate>Wed, 11 Nov 2026 19:32:57 GMT</pubDate><description>250-750 USD | I need a clean, reliable Stripe integration that takes every customer payment and divides it perfectly 50 % / 50 %.  
-The core requirement is simple: as soon as a card is charged, half the funds must reach one Stripe account and the remaining half the other. I am open to using Stripe Connect (Transfers or Destination Charges) or any other compliant method you feel is best, as long as the split is automatic, logged, and clearly visible inside the dashboard.
-
-Key points I care about  
-• Customers will make a straightforward card payment on my existing site.  
-• The checkout experience must stay on-brand; Stripe Elements is currently preferred, but I will consider Checkout if it speeds things up.  
-• After payment, both recipients should see the funds (minus fees) in their respective dashboards without manual intervention.  
-• Clear hand-off: I want well-commented code, a short read-me, and quick call or Loom walkthrough so I understand how to manage future tweaks.
-
-Please flag any prerequisites (connected accounts, webhooks, API keys, etc.) so I can have everything ready. Once the split shows correctly in live mode and passes a test transaction, the job is complete.</description></item>
 <item><title>WordPress Page Editing Tutorial</title><link>https://www.freelancer.com/projects/css/WordPress-Page-Editing-Tutorial</link><guid isPermaLink="false">freelancer:40813726</guid><pubDate>Wed, 11 Nov 2026 17:27:56 GMT</pubDate><description>10-15 GBP/hr | My WordPress site is live and healthy, but I’m stuck on one simple thing—editing the content. I’d like a step-by-step lesson focused specifically on updating pages and text. The site was set up with a page builder (Elementor or possibly WPBakery—whichever is active), so the training needs to happen inside that interface rather than the default block editor.  
 
 Here’s what I’m aiming for:  
@@ -884,6 +874,12 @@ Key deliverables:
 • Launch-ready site handed over with brief owner training  
 
 Clean, mobile-friendly design and clear calls-to-action are important; beyond that I’m flexible on theme choice as long as it feels modern and matches our logo palette. Let me know your timeframe and any information you need from me to get started.</description></item>
+<item><title>Custom Kastle Core WordPress Build</title><link>https://www.freelancer.com/projects/html5/Custom-Kastle-Core-WordPress-Build</link><guid isPermaLink="false">freelancer:40810287</guid><pubDate>Mon, 09 Nov 2026 17:26:14 GMT</pubDate><description>250-750 CAD | Build a high-performance custom WordPress website using the Kastle Core theme, Brand
+Identity settings, approved schema plugin, semantic HTML, client-specific CSS, and responsive
+modern front-end code. No Elementor or other page builder. The website must be responsive
+across screen widths, use properly sized and compressed responsive images, follow technical
+and local SEO best practices, support valid structured data, meet strong accessibility standards,
+and be built with Core Web Vitals and long-term maintainability in mind.</description></item>
 <item><title>Simone Shipman</title><link>https://www.freelancer.com/projects/digital-marketing/Simone-Shipman</link><guid isPermaLink="false">freelancer:40810282</guid><pubDate>Mon, 09 Nov 2026 17:22:49 GMT</pubDate><description>25-50 AUD/hr | I’m ready to turn an idea into a downloadable digital product that reliably earns revenue, and I need a specialist who can guide the entire journey—from validating the concept right through to launch and first sales. The exact format is still flexible; whether the end result is an e-book, a set of editable templates, a mini software utility, or a bite-sized course, what matters is that buyers can pay online and instantly receive the file.
 
 Here’s what I expect you to handle:
