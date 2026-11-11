@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Website Paid Tier Flow Finalization</title><link>https://www.freelancer.com/projects/user-experience-research/Website-Paid-Tier-Flow-Finalization</link><guid isPermaLink="false">freelancer:40813469</guid><pubDate>Wed, 11 Nov 2026 14:16:11 GMT</pubDate><description>30-250 USD | My site already presents three paid membership options, but the flow that guides a visitor from first click to correct tier completion still needs a professional hand. The intention behind these levels is clear: offer different service packages or support levels, with distinctions rooted mainly in the level of personal guidance or access each member receives. What I lack is a crisp, documented path that makes the upgrade, downgrade, and fulfillment process seamless for users and effortless for my developers to implement.
+
+You will start by auditing the current screens, copy, and backend logic, spotting anything that could confuse a customer or break in production. From there I want a concise, practical roadmap that covers:
+
+• A tier-by-tier matrix outlining entitlements, support response expectations, and gating rules  
+• An annotated user-journey flowchart that shows every decision point from sign-up to upgrade/cancellation  
+• Clear functional requirements (or user stories) the dev team can drop straight into Jira or Trello  
+• Implementation notes on payment gateway hooks, CRM tagging, and analytics tracking so we can measure conversions per tier
+
+I’m happy with Figma, Miro, Lucidchart, or similar tools—choose whichever you prefer as long as the hand-off files remain editable. The deliverable is accepted once the flow has no loose ends, the documentation anticipates edge cases, and the tiers feel self-explanatory when we walk through them together via screen-share.
+
+If refining membership experiences and translating business goals into developer-ready specs is second nature to you, this should be a straightforward, high-impact engagement.</description></item>
 <item><title>Comprehensive Law Firm Site Redesign</title><link>https://www.freelancer.com/projects/web-design/Comprehensive-Law-Firm-Site-Redesign</link><guid isPermaLink="false">freelancer:40813418</guid><pubDate>Wed, 11 Nov 2026 13:33:38 GMT</pubDate><description>15-25 USD/hr | Our law-firm website needs a full overhaul so it reliably converts visitors into consultation requests. The new design must spotlight our probate, bankruptcy, family-law, and real-estate services while making it effortless for prospects to: 
 • fill out a consultation form,  
 • call directly from the site, and  
@@ -905,11 +917,6 @@ Ideal skills and experience:
 - Strong UI/UX design skills to ensure a smooth customer experience.
 
 Please provide examples of previous similar work.</description></item>
-<item><title>Website SEO</title><link>https://www.freelancer.com/projects/seo/Website-SEO-40809976</link><guid isPermaLink="false">freelancer:40809976</guid><pubDate>Mon, 09 Nov 2026 13:03:48 GMT</pubDate><description>250-750 USD | More details:
-
-What is the main purpose of your website? E-commerce
-Do you have specific colors or themes in mind for your website's design? Yes, I have a theme but am open to color suggestions
-Which of the following features is most important to your e-commerce website? User-friendly shopping cart</description></item>
 <item><title>Rapid Content Creation &amp; Publishing</title><link>https://www.freelancer.com/projects/content-creation/Rapid-Content-Creation-Publishing</link><guid isPermaLink="false">freelancer:40809959</guid><pubDate>Mon, 09 Nov 2026 12:48:30 GMT</pubDate><description>15-25 USD/hr | I need an experienced hand who can jump in right away and turn raw ideas or brief outlines into polished posts, ready to go live. The immediate priority is straightforward: create and publish engaging content—think blog articles, short social posts, or newsletter pieces—so my audience sees fresh updates without delay.
 
 Speed matters, but so does quality. You should be comfortable drafting clear, on-brand copy, choosing or creating supporting visuals in tools like Canva or Photoshop, laying everything out in WordPress (or a comparable CMS), and hitting “publish” once I give the final nod. If you can also schedule pieces through Buffer, Hootsuite, or native social dashboards, that is a plus.
