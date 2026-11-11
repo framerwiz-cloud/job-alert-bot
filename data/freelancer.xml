@@ -3,9 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Build Tailwind Website for Compliance Firm</title><link>https://www.freelancer.com/projects/tailwind-css/Build-Tailwind-Website-for-Compliance</link><guid isPermaLink="false">freelancer:40813104</guid><pubDate>Wed, 11 Nov 2026 09:33:40 GMT</pubDate><description>250-750 GBP | Web Development: Modern Tailwind CSS &amp; Netlify Site for Housing Compliance Firm
+<item><title>Build Tailwind Website for Compliance Firm</title><link>https://www.freelancer.com/projects/tailwind-css/Build-Tailwind-Website-for-Compliance</link><guid isPermaLink="false">freelancer:40813104</guid><pubDate>Wed, 11 Nov 2026 09:49:22 GMT</pubDate><description>250-750 GBP | Web Development: Interactive Forensic-Style Tailwind &amp; Netlify Site for Housing Compliance Firm
 
-We are seeking an experienced front end developer to build a fast, high converting, responsive website for Chauntry Housing Compliance Ltd, an independent damp, mould, and ventilation diagnostic surveying firm based in Berkshire.
+We are seeking an expert front-end developer to build a fast, high-converting, responsive website for Chauntry Housing Compliance Ltd, an independent damp, mould, and ventilation diagnostic surveying firm based in Berkshire.
+
+Design &amp; Architectural Concept:
+
+Style: Inspired by high-end investigative and forensic case file layouts (clean, data-driven, highly engaging, moving away from generic corporate templates in favor of an evidence-led, technical presentation).
+UI &amp; Visual Layout: Structured case files, expandable field notes, clean property cutaways mapping damp types, categorized evidence logs for mould species, and professional high-contrast typography built natively with Tailwind CSS.
 
 Technical &amp; Structural Requirements:
 
@@ -13,9 +18,11 @@ Tech Stack: Modern front-end using Tailwind CSS. Must be lightweight, fully resp
 
 SEO &amp; Metadata: Custom LocalBusiness JSON-LD schema, clean meta descriptions, and localized structure targeting Berkshire, Oxfordshire, and Buckinghamshire (RG, SL, OX, HP postcodes).
 
-Service Presentation: Clear layout for a 3-tier diagnostic menu (£99 initial triage, modular diagnostic add-ons, and comprehensive survey packages).
+Service &amp; Pricing Presentation: Prominent, side-by-side presentation of our 3-tier diagnostic pricing structure (£99 initial triage, modular diagnostic add-ons, and comprehensive survey packages) with direct-to-action booking CTA anchors embedded throughout.
 
-Regulatory Focus: Dedicated sections for Awaab’s Law, HHSRS hazard evaluation, and Part F ventilation compliance. Prominent positioning of our strict independent model (we provide diagnostics only; zero remedial or repair works).
+Regulatory Focus: Dedicated sections covering Awaab’s Law statutory timeframes, HHSRS Category 1 hazard evaluations, and Part F ventilation compliance.
+
+Independent Model Framing: Unavoidable messaging confirming our strict independent model (diagnostics and technical reporting only; zero remedial or repair works undertaken).
 
 Site Architecture: Home, About Us, Diagnostic Menu &amp; Pricing, Regulatory Standards, and Contact / Direct Booking.
 
