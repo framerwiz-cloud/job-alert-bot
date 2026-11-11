@@ -3,6 +3,131 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full-Stack Web Developer Required – Modern Website Development &amp; Platform Integration</title><link>https://www.freelancer.com/projects/full-stack-development/Full-Stack-Web-Developer-Required-40812702</link><guid isPermaLink="false">freelancer:40812702</guid><pubDate>Wed, 11 Nov 2026 04:21:19 GMT</pubDate><description>750-1500 GBP | Project Overview
+
+We are looking for an experienced full-stack web developer to assist with the development and refinement of a modern, responsive web platform.
+
+The project involves building and improving user-facing website functionality, implementing responsive interfaces, integrating backend services and ensuring the final product delivers a smooth experience across desktop, tablet and mobile devices.
+
+We are looking for someone with a strong understanding of modern web development practices who can take ownership of assigned development tasks and deliver clean, maintainable code.
+
+This is an opportunity to work with a growing digital business, with the potential to establish a longer-term working relationship if the initial engagement is successful.
+
+Scope of Work
+
+The selected developer will be responsible for the following deliverables:
+
+1. Frontend Development
+
+* Develop modern, responsive website interfaces.
+* Implement designs using React or Next.js.
+* Ensure consistent layouts across desktop and mobile.
+* Build reusable components and maintainable frontend architecture.
+* Improve navigation, page transitions and user experience.
+
+2. Backend Development
+
+* Implement and maintain backend functionality.
+* Integrate APIs and external services.
+* Work with database structures and application logic.
+* Implement authentication and user account functionality where required.
+* Ensure reliable communication between frontend and backend services.
+
+3. Performance &amp; Optimisation
+
+* Improve website loading performance.
+* Identify and resolve frontend and backend issues.
+* Ensure responsive behaviour across major browsers.
+* Apply appropriate security and development practices.
+
+4. Testing &amp; Delivery
+
+* Test completed functionality.
+* Resolve identified bugs.
+* Provide documentation for implemented features.
+* Deliver source code and deployment instructions.
+
+Preferred Technical Stack
+
+We are particularly interested in developers with experience in:
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript
+* Node.js
+* Supabase / PostgreSQL
+* REST APIs
+* Tailwind CSS
+* Git and GitHub
+* Cloud deployment environments
+
+Experience with SaaS platforms, subscription systems, marketplaces or multi-user applications would be an advantage.
+
+Project Requirements
+
+The successful applicant should:
+
+* Have demonstrable full-stack development experience.
+* Provide examples of previous websites or applications.
+* Be comfortable working from written specifications.
+* Communicate progress clearly throughout the engagement.
+* Be able to work independently and meet agreed milestones.
+* Produce clean, documented and maintainable code.
+
+Proposed Milestones
+
+Milestone 1 – Initial Assessment &amp; Technical Planning
+
+* Review the supplied requirements.
+* Confirm the proposed technical approach.
+* Identify dependencies and implementation stages.
+
+Milestone 2 – Development
+
+* Implement the agreed frontend and backend functionality.
+* Provide progress updates and a reviewable development version.
+
+Milestone 3 – Testing &amp; Refinement
+
+* Test functionality and responsiveness.
+* Resolve agreed issues and outstanding bugs.
+
+Milestone 4 – Final Delivery
+
+* Supply completed source code.
+* Provide documentation and deployment instructions.
+* Complete final handover.
+
+Milestone values and deadlines will be agreed before work begins.
+
+When Applying
+
+Please include the following in your proposal:
+
+1. A short introduction and overview of your development experience.
+2. Links to at least two previous projects.
+3. Your experience with React, Next.js and backend development.
+4. Your preferred development stack for this project.
+5. Your estimated availability.
+6. Your proposed fixed-price quotation or hourly rate.
+7. An indication of whether you would be interested in further development engagements.
+
+About the Business
+
+We are developing a portfolio of digital products and services under Blackwellen Ltd.
+
+Our development work is focused on modern web applications, SaaS products and digital platforms.
+
+We value quality, clear communication and long-term professional relationships with reliable independent developers.
+
+Platform &amp; Project Management
+
+We are also developing Gigvora, our freelance marketplace, to support professional collaboration between clients, freelancers and agencies.
+
+Where appropriate, we use Gigvora to facilitate professional profiles, project discovery and freelancer engagement.
+
+We look forward to reviewing your proposals.</description></item>
 <item><title>GigResource Responsive UI Design Refinement</title><link>https://www.freelancer.com/projects/web-design/GigResource-Responsive-Design-Refinement</link><guid isPermaLink="false">freelancer:40812696</guid><pubDate>Wed, 11 Nov 2026 04:13:45 GMT</pubDate><description>250-750 USD | GigResource — Graphic website Designer JD
 Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
 Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
@@ -704,27 +829,6 @@ Although I may later explore paid subscriptions and broader site management, tod
 
 I’m ready to start as soon as I find the right fit, so if you can clear space on your calendar immediately, let’s talk.</description></item>
 <item><title>Web Design and Integration for Educational Content and E-Commerce</title><link>https://www.freelancer.com/projects/ecommerce/Web-Design-Integration-for-Educational</link><guid isPermaLink="false">freelancer:40800033</guid><pubDate>Mon, 09 Nov 2026 08:52:38 GMT</pubDate><description>1250-2500 USD | I am looking for a web designer to create a visually appealing website for my new business, "Reclaim and Rise, Spiritually." The website will initially focus on educational content about Substance Abuse and Recovery, using WordPress for content updates and newsletters. It should also be designed to accommodate future e-commerce functionality with Shopify integration for product sales and management. I have existing content, a logo, brand colors, and tools like AI CHAT, Gemini, CoPilot, and Canva to assist with content creation. The initial phase should focus on setting up the educational component within two months, with the flexibility to add Shopify e-commerce functionality later.</description></item>
-<item><title>Comprehensive Condo Management System</title><link>https://www.freelancer.com/projects/database-management/Comprehensive-Condo-Management-System</link><guid isPermaLink="false">freelancer:40809549</guid><pubDate>Mon, 09 Nov 2026 07:01:45 GMT</pubDate><description>250-750 USD | I'm looking to develop a robust condominium management system. The main goal is to efficiently manage residents, units, and maintenance requests.  Needs to be easy to change as needed for announcements, photos, PDF documents for residence to view, etc.
-
-Key Features:
-- Maintenance Request Management:
-  - Residents can submit requests with photos
-  - Track request status and updates
-  - Receive notifications upon completion
-  - Tracks maintenance data including priority level, maintenance hours spent, cost, and inventory used
-
-- User Access:
-  - Property managers and staff
-  - Residents and unit owners
-  - Maintenance workers and service providers
-
-Ideal Skills and Experience:
-- Experience in developing management systems
-- Proficiency in user interface design
-- Strong background in database management
-- Familiarity with mobile-friendly platforms
-
-Please provide samples of similar work and an estimated timeline for completion.</description></item>
 <item><title>Shopify Google Ads Cleanup &amp; Rebuild</title><link>https://www.freelancer.com/projects/google-ads/Shopify-Google-Ads-Cleanup-Rebuild</link><guid isPermaLink="false">freelancer:40809321</guid><pubDate>Mon, 09 Nov 2026 03:53:21 GMT</pubDate><description>2-8 USD/hr | Google Ads + Merchant Center cleanup and rebuild for a Shopify apparel store (one-time project)
 
 We sell big and tall men’s athletic apparel (hoodies, pants, shirts, shorts) on Shopify. Our Google Ads account has had broken conversion tracking and messy setup for ~3 years. Budget is small (~$150/mo ad spend), so we need someone who knows how to make a little go far.
