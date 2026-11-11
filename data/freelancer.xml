@@ -3,32 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Build VaultRow Collectibles Shopify Brand and Website Design and Development</title><link>https://www.freelancer.com/projects/branding/Build-VaultRow-Collectibles-Shopify</link><guid isPermaLink="false">freelancer:40813855</guid><pubDate>Wed, 11 Nov 2026 19:21:53 GMT</pubDate><description>250-400 AUD | Branding and Shopify E-commerce Website Development for VaultRow Collectibles
+<item><title>Stripe 50-50 Split Integration</title><link>https://www.freelancer.com/projects/stripe/Stripe-Split-Integration</link><guid isPermaLink="false">freelancer:40813867</guid><pubDate>Wed, 11 Nov 2026 19:32:57 GMT</pubDate><description>250-750 USD | I need a clean, reliable Stripe integration that takes every customer payment and divides it perfectly 50 % / 50 %.  
+The core requirement is simple: as soon as a card is charged, half the funds must reach one Stripe account and the remaining half the other. I am open to using Stripe Connect (Transfers or Destination Charges) or any other compliant method you feel is best, as long as the split is automatic, logged, and clearly visible inside the dashboard.
 
-Project Overview:
-I am looking for a professional and creative freelancer to help build the brand identity and e-commerce website for my new business, VaultRow Collectibles, based in Australia.
+Key points I care about  
+• Customers will make a straightforward card payment on my existing site.  
+• The checkout experience must stay on-brand; Stripe Elements is currently preferred, but I will consider Checkout if it speeds things up.  
+• After payment, both recipients should see the funds (minus fees) in their respective dashboards without manual intervention.  
+• Clear hand-off: I want well-commented code, a short read-me, and quick call or Loom walkthrough so I understand how to manage future tweaks.
 
-VaultRow Collectibles will be an online trading card game (TCG) and collectibles store, initially focusing on Pokémon, One Piece, and Dragon Ball Z products, with plans to expand into other collectibles in the future.
-
-I am now looking for someone who can help me establish a professional brand and build a fully functional Shopify website from scratch.
-
-Project Scope and Requirements:
--Brand Identity and Logo Design
--Shopify Website Design and Development
--Shopify Setup and Configuration
--Product Setup
--Future Expansion
-
-I would prefer a freelancer who:
--Has experience with Shopify website development.
--Has a good portfolio of e-commerce websites.
--Has experience with logo and brand identity design.
--Understands e-commerce and product presentation.
--Can provide creative ideas and recommendations.
--Can communicate clearly and provide updates throughout the project.
--Can guide me through the process.
-
-I am looking for someone who can help turn VaultRow Collectibles into a professional and established online brand. I look forward to seeing your proposals and working with the right freelancer.</description></item>
+Please flag any prerequisites (connected accounts, webhooks, API keys, etc.) so I can have everything ready. Once the split shows correctly in live mode and passes a test transaction, the job is complete.</description></item>
 <item><title>WordPress Page Editing Tutorial</title><link>https://www.freelancer.com/projects/css/WordPress-Page-Editing-Tutorial</link><guid isPermaLink="false">freelancer:40813726</guid><pubDate>Wed, 11 Nov 2026 17:27:56 GMT</pubDate><description>10-15 GBP/hr | My WordPress site is live and healthy, but I’m stuck on one simple thing—editing the content. I’d like a step-by-step lesson focused specifically on updating pages and text. The site was set up with a page builder (Elementor or possibly WPBakery—whichever is active), so the training needs to happen inside that interface rather than the default block editor.  
 
 Here’s what I’m aiming for:  
