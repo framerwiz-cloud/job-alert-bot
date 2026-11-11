@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Contractor Site Build &amp; Google Migration</title><link>https://www.freelancer.com/projects/cms/Contractor-Site-Build-Google-Migration</link><guid isPermaLink="false">freelancer:40812760</guid><pubDate>Wed, 11 Nov 2026 05:24:09 GMT</pubDate><description>250-750 USD | I am refreshing my contracting business with two parallel tasks: a clean, modern website that highlights my completed projects and service offerings, and a full move from my legacy business email system to Google Workspace.
+
+Website scope  
+The site’s sole purpose is to showcase past work and clearly outline the services I provide. I prefer a straightforward portfolio layout with space for project photos, brief case-study style descriptions, and an easy-to-find contact form. It must load quickly, look polished on mobile, and be simple for me to update—WordPress, Webflow, or a similarly intuitive CMS is fine as long as I can add new projects myself after hand-over.
+
+Email migration  
+My current business mail is hosted on an older provider; I need it transferred to Google Workspace with all existing messages, folders, and aliases intact. DNS records will also need updating so the new domain-based accounts send and receive flawlessly.
+
+Deliverables  
+• Fully functional website published on my domain, with CMS access handed over  
+• All existing email data migrated to Google Workspace, tested and verified  
+• Updated DNS settings for both web and mail, plus a brief hand-off guide
+
+Proposal expectations  
+Submit a detailed project proposal that outlines your approach, timeline, and any tool stack you plan to use. Feel free to reference similar sites or migrations you have handled, but the proposal itself is the key item I will evaluate.</description></item>
 <item><title>GigResource Responsive UI Design Refinement</title><link>https://www.freelancer.com/projects/web-design/GigResource-Responsive-Design-Refinement</link><guid isPermaLink="false">freelancer:40812696</guid><pubDate>Wed, 11 Nov 2026 04:46:09 GMT</pubDate><description>250-750 USD | GigResource — Graphic website Designer JD
 Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
 Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
@@ -829,27 +844,6 @@ Although I may later explore paid subscriptions and broader site management, tod
 
 I’m ready to start as soon as I find the right fit, so if you can clear space on your calendar immediately, let’s talk.</description></item>
 <item><title>Web Design and Integration for Educational Content and E-Commerce</title><link>https://www.freelancer.com/projects/ecommerce/Web-Design-Integration-for-Educational</link><guid isPermaLink="false">freelancer:40800033</guid><pubDate>Mon, 09 Nov 2026 08:52:38 GMT</pubDate><description>1250-2500 USD | I am looking for a web designer to create a visually appealing website for my new business, "Reclaim and Rise, Spiritually." The website will initially focus on educational content about Substance Abuse and Recovery, using WordPress for content updates and newsletters. It should also be designed to accommodate future e-commerce functionality with Shopify integration for product sales and management. I have existing content, a logo, brand colors, and tools like AI CHAT, Gemini, CoPilot, and Canva to assist with content creation. The initial phase should focus on setting up the educational component within two months, with the flexibility to add Shopify e-commerce functionality later.</description></item>
-<item><title>Comprehensive Condo Management System</title><link>https://www.freelancer.com/projects/database-management/Comprehensive-Condo-Management-System</link><guid isPermaLink="false">freelancer:40809549</guid><pubDate>Mon, 09 Nov 2026 07:01:45 GMT</pubDate><description>250-750 USD | I'm looking to develop a robust condominium management system. The main goal is to efficiently manage residents, units, and maintenance requests.  Needs to be easy to change as needed for announcements, photos, PDF documents for residence to view, etc.
-
-Key Features:
-- Maintenance Request Management:
-  - Residents can submit requests with photos
-  - Track request status and updates
-  - Receive notifications upon completion
-  - Tracks maintenance data including priority level, maintenance hours spent, cost, and inventory used
-
-- User Access:
-  - Property managers and staff
-  - Residents and unit owners
-  - Maintenance workers and service providers
-
-Ideal Skills and Experience:
-- Experience in developing management systems
-- Proficiency in user interface design
-- Strong background in database management
-- Familiarity with mobile-friendly platforms
-
-Please provide samples of similar work and an estimated timeline for completion.</description></item>
 <item><title>Shopify Google Ads Cleanup &amp; Rebuild</title><link>https://www.freelancer.com/projects/google-ads/Shopify-Google-Ads-Cleanup-Rebuild</link><guid isPermaLink="false">freelancer:40809321</guid><pubDate>Mon, 09 Nov 2026 03:53:21 GMT</pubDate><description>2-8 USD/hr | Google Ads + Merchant Center cleanup and rebuild for a Shopify apparel store (one-time project)
 
 We sell big and tall men’s athletic apparel (hoodies, pants, shirts, shorts) on Shopify. Our Google Ads account has had broken conversion tracking and messy setup for ~3 years. Budget is small (~$150/mo ad spend), so we need someone who knows how to make a little go far.
