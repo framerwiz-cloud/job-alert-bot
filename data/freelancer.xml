@@ -3,6 +3,53 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Elementor / Wordpress Pages Design</title><link>https://www.freelancer.com/projects/elementor/Elementor-Wordpress-Pages-Design</link><guid isPermaLink="false">freelancer:40812574</guid><pubDate>Wed, 11 Nov 2026 02:24:20 GMT</pubDate><description>30-250 AUD | I'm looking for someone knowledgeable in WordPress and Elementor, with a good eye for design, to assist with three relatively straightforward tasks on an existing website.
+
+The website, branding and content are already established. I'm looking for someone who can create attractive page layouts, duplicate templates and transfer supplied content into Elementor.
+
+1. Resources – Main Page
+
+- Build one attractive page featuring 10 clickable resource tiles.
+- Each tile should include an image/graphic, title and short description.
+- Each tile should link to its corresponding dedicated chapter page within the portal.
+
+Similar concept to: https://punchpass.com/resources/guides/
+
+2. Individual Chapter Pages
+
+- Create one well-designed, reusable chapter template.
+- Include a title, short description and arrow-style bulleted outline of the topics covered in the chapter.
+- Create two content containers underneath: one with a white background and one with a light-grey background.
+- I will duplicate those containers as I add text content and further sections and alternating backgrounds as needed.
+- Duplicate the approved template 10 times and connect each page to its corresponding tile on the main Resources page.
+- Leave the content sections empty and ready for me to populate.
+
+3. Brand Guide- This page will take a little more time than the above. 
+
+- Transfer an existing Canva Brand Guide into a dedicated, editable Elementor page.
+- Retain the existing content, wording, headings and visual examples.
+- Format the page to look professional, attractive and easy to navigate.
+- Include downloadable logo and brand files where required.
+- Some existing Canva visual examples can be inserted as images rather than recreated.
+
+**Important:** I don't want the Brand Guide uploaded as a PDF or embedded document. It needs to be built directly into Elementor so I can edit and update it in the future.
+
+Design &amp; Technical Requirements
+
+All three components must:
+
+- Be fully editable within WordPress/Elementor.
+- Be responsive and look good on desktop, tablet and mobile.
+- Follow the existing website's visual identity.
+- Use the brand colours and fonts I supply.
+- Be built using Elementor rather than an external page-building platform.
+- Be easy for me to maintain and update without requiring ongoing developer assistance.
+
+Working Process
+
+I'd like to work collaboratively, completing one stage at a time and approving the design before moving forward.
+
+I'm looking for someone efficient, experienced working with Elementor.</description></item>
 <item><title>Local Construction SEO Boost</title><link>https://www.freelancer.com/projects/google-analytics/Local-Construction-SEO-Boost</link><guid isPermaLink="false">freelancer:40812393</guid><pubDate>Tue, 10 Nov 2026 23:14:23 GMT</pubDate><description>30-250 AUD | I want to grow the volume of Google visitors landing on my local construction business website. The site already has a solid design, but search traffic is low and I’m not appearing in the local pack for key service-based searches. Your job is to diagnose what’s holding the site back and implement the improvements that will move the needle quickly and sustainably.
 
 • First, I’ll give you full access to Google Search Console, Analytics, and the CMS so you can run a comprehensive audit—on-page content, technical structure, internal linking, page speed, and any local signals tied to Google Business Profile.  
@@ -713,14 +760,6 @@ Ideal skills and experience:
 - Ability to customize to fit unique needs
 
 Please provide examples of previous Notion setups.</description></item>
-<item><title>Speed-Focused Website Revamp</title><link>https://www.freelancer.com/projects/web-development/Speed-Focused-Website-Revamp</link><guid isPermaLink="false">freelancer:40809139</guid><pubDate>Mon, 09 Nov 2026 00:26:30 GMT</pubDate><description>250-750 AUD | My current site works, but it feels sluggish and clunky and that is costing me visitors. I need a seasoned web developer who can dive in immediately, streamline performance, and polish the user experience so the whole site feels effortless to navigate.
-
-Here is what matters most to me:
-• Primary objective: make the site faster and easier to use—load-time reductions, smoother navigation, and a cleaner interface take top priority.
-• Timing: I’m looking to kick off right away and wrap up as soon as realistically possible.
-• Proposal expectations: please send a detailed project proposal that spells out your approach, specific optimisation techniques or UX improvements you’ll tackle, key milestones, and the tools or frameworks you plan to use (e.g., Lighthouse audits, Core Web Vitals measurements, code refactoring, caching strategies).
-
-Deliverables will be signed off once we see measurable speed gains and an intuitive flow across all major pages. If you can move quickly while maintaining solid code quality, I’m ready to get started today.</description></item>
 <item><title>AI-Generated E-Commerce Content</title><link>https://www.freelancer.com/projects/ai-automation/Generated-Commerce-Content</link><guid isPermaLink="false">freelancer:40808999</guid><pubDate>Sun, 08 Nov 2026 21:33:44 GMT</pubDate><description>15-25 USD/hr | I’m in the middle of launching an online store and want to automate the way every product page comes to life. The goal is for an AI-driven workflow that can take a short product brief and return two things: persuasive copy (title, bullet points, full description) and a set of matching, polished images ready for upload. Everything you build will be used directly in product listings and other store content, so accuracy and brand consistency matter.
 
 Here’s what I need from you:
