@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Errors &amp; Plan UNA Migration</title><link>https://www.freelancer.com/projects/web-development/Fix-Errors-Plan-UNA-Migration</link><guid isPermaLink="false">freelancer:40815217</guid><pubDate>Thu, 12 Nov 2026 15:42:16 GMT</pubDate><description>250-750 USD | My community site is misbehaving in a few critical areas and I need someone to step in quickly. Right now several pages and key features have stopped working: user profiles won’t load correctly, messaging and notifications throw sporadic errors, and even the admin dashboard—especially content posting and the search function—acts up.  
+
+The first milestone is to stabilise the existing code-base: trace the root causes, clean up the bugs, and return every affected section to full functionality. Once the platform is solid again, I’d like a concise, actionable roadmap for moving the whole site to the UNA platform. That plan should outline each step, estimate effort, highlight possible data-migration hurdles, and flag any third-party modules that might need replacements or custom builds.  
+
+Deliverables  
+• Fully functional current site (profiles, messaging/notifications, admin content tools, search)  
+• Technical report summarising what was fixed and how  
+• Migration blueprint to UNA with timelines, resource estimates, and risk mitigation notes  
+
+I’ll give server and code access as soon as we start. Familiarity with PHP, MySQL, and UNA’s architecture will be a clear advantage. If this sounds like a smooth fit, let’s get the fixes done and map out the next chapter for the site.</description></item>
 <item><title>Ongoing WordPress Maintenance &amp; Security</title><link>https://www.freelancer.com/projects/website-management/Ongoing-WordPress-Maintenance-Security-40814485</link><guid isPermaLink="false">freelancer:40814485</guid><pubDate>Thu, 12 Nov 2026 14:05:32 GMT</pubDate><description>250-750 USD | My WordPress site needs steady, knowledgeable attention so it stays secure, fast, and problem-free day after day. The ongoing workload centres on three areas:
 
 • Plugins, backups, and security – keeping every component updated on a staging copy first, scheduling reliable off-site backups, running regular scans, and hardening the install against new threats.
@@ -785,22 +795,6 @@ Please handle the entire workflow: selecting the proper Google Search Console or
 Deliverable: a brief report with the date and time the request was filed, screenshots of Google’s confirmation, and a follow-up check proving the URL no longer surfaces for the main query terms. Once that verification is in place, the job is done.  
 
 I’m ready to supply the exact URL and any additional background you might need as soon as we start.</description></item>
-<item><title>7-Page Service Booking Website</title><link>https://www.freelancer.com/projects/web-development/Page-Service-Booking-Website</link><guid isPermaLink="false">freelancer:40810743</guid><pubDate>Tue, 10 Nov 2026 01:19:18 GMT</pubDate><description>250-750 USD | I need a 7-page website to sell services, appointments, or bookings. Customers should be able to book services and appointments via PayPal links. 
-
-Key features:
-- Choose a date and time
-- Fill in a contact form before paying
-- Automatic confirmation email
-
-Additional details:
-- Include a class selection: TNCC or ENPC
-- Choose between 1-day renewal or 2-day full  
-
-Ideal Skills and Experience:
-- Proven experience in website development, specifically for service-based businesses
-- Familiarity with PayPal integration
-- Strong UI/UX design skills to ensure a user-friendly experience
-- Ability to set up automated email confirmations</description></item>
 <item><title>Brilliant Directories Setup</title><link>https://www.freelancer.com/projects/content-management-system/Brilliant-Directories-Setup</link><guid isPermaLink="false">freelancer:40810723</guid><pubDate>Tue, 10 Nov 2026 01:05:34 GMT</pubDate><description>15-25 USD/hr | I need a skilled developer to set up a Brilliant Directories website. The site will primarily be used for job, service, and classified listings.
 
 Key tasks include:
