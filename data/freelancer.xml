@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>TikTok Shop Setup for Physical Products</title><link>https://www.freelancer.com/projects/tiktok/TikTok-Shop-Setup-for-Physical</link><guid isPermaLink="false">freelancer:40815370</guid><pubDate>Thu, 12 Nov 2026 17:09:28 GMT</pubDate><description>250-750 USD | I need help setting up my TikTok Shop to sell physical products. The shop will be registered in the United States.
+
+Tasks include:  
+- Creating and verifying the shop account  
+- Adding products, prices, photos, and descriptions  
+- Setting up shipping, returns, and payment details  
+
+Ideal skills and experience:  
+- Familiarity with TikTok Shop setup  
+- Experience in e-commerce product listing  
+- Knowledge of shipping and payment processes</description></item>
 <item><title>Comprehensive Condo Management System with Multi-Level Access</title><link>https://www.freelancer.com/projects/database-management/Comprehensive-Condo-Management-System</link><guid isPermaLink="false">freelancer:40809549</guid><pubDate>Thu, 12 Nov 2026 17:03:45 GMT</pubDate><description>250-750 USD | We are looking to develop an advanced condominium management system tailored for a complex with 136 units. The system should feature five distinct levels of access and enable domain-based email setup for all functionalities.
 
 Key Features by Access Level:
@@ -749,18 +760,6 @@ What matters most to me:
 I’ll supply branding assets, product images, and any additional copy you need. You’ll handle design, Divi layout builds, and the necessary CSS / module tweaks so Ecwid’s cart and checkout match the new aesthetic.
 
 Please share a brief outline of your approach, links to live Divi or Ecwid projects you’ve modernized, and an estimated timeline for delivering initial comps, revisions, and launch-ready pages.</description></item>
-<item><title>Forum &amp; Chat Backend Development</title><link>https://www.freelancer.com/projects/backend-development/Forum-Chat-Backend-Development</link><guid isPermaLink="false">freelancer:40812252</guid><pubDate>Tue, 10 Nov 2026 21:00:25 GMT</pubDate><description>250-750 USD | I already have the complete front-end for a combined forum and live chat room. I need the server-side logic that will bring it all to life, and integrate smoothly with Cloudflare.
-
-Core functionality  
-• User system: create accounts, build profiles, log in, and post to forum threads
-• Real-time chat: public rooms plus private one-to-one messages.  
-• Permission-based “backdoor”: a separate staff dashboard where moderators can delete posts, issue bans, and handle user reports without touching the main admin panel.  
-• Full admin console: my own secure route with unrestricted control should anything require deeper intervention.
-Site must be secure and prevent ddos attacks, sql, etc
-Functional with cloudflare  
-
-
-If you have questions please reach out.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
