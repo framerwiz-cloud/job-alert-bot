@@ -615,21 +615,6 @@ Please include detailed project proposals in your application.</description></it
 <item><title>Corporate Website Replication</title><link>https://www.freelancer.com/projects/html/Corporate-Website-Replication</link><guid isPermaLink="false">freelancer:40811667</guid><pubDate>Tue, 10 Nov 2026 13:21:27 GMT</pubDate><description>30-250 USD | Looking for experienced person to help me launch a mytribe.ai
 Just need some basic knowledge of the platform.
 Shouldn't take more than an hour.</description></item>
-<item><title>Custom Pool Cue Design Website</title><link>https://www.freelancer.com/projects/rendering/Custom-Pool-Cue-Design-Website</link><guid isPermaLink="false">freelancer:40811577</guid><pubDate>Tue, 10 Nov 2026 12:37:31 GMT</pubDate><description>250-750 GBP | I need a complete ecommerce site where visitors can design their own pool cues, see the results in real time, and purchase instantly. 
-
-Key features
-• Interactive 3-D configurator – the cue must render live and be fully rotatable so shoppers can inspect every angle before checkout.  
-• Deep custom options – colours, patterns, wrap style, cue length, weight, tip type, plus space for names, text or even user-uploaded graphics. All selections should update the 3-D model on the fly.  
-• Seamless checkout – once finished, customers pay online with any mainstream card or digital wallet.  
-
-Deliverables
-1. Responsive website (preferably on a well-supported platform such as WooCommerce, Shopify or a custom React/Laravel stack) with the 3-D configurator integrated.  
-2. Admin dashboard to add or edit cue components, pricing rules and promotional codes.  
-3. Payment gateway setup (Stripe, PayPal or similar) with order confirmation emails and secure SSL.  
-4. Exportable production file or database entry containing every chosen spec so manufacturing can begin immediately.  
-5. Brief hand-over session plus basic documentation so I can maintain catalogue items myself.
-
-I’m open to your suggested toolset as long as the configurator is smooth on desktop and mobile, load times stay minimal, and the checkout remains friction-less. If you have examples of previous product builders or 3-D e-commerce work, please include them with your proposal.</description></item>
 <item><title>Brand Website with Social Links</title><link>https://www.freelancer.com/projects/web-design/Brand-Website-with-Social-Links</link><guid isPermaLink="false">freelancer:40811562</guid><pubDate>Tue, 10 Nov 2026 12:25:51 GMT</pubDate><description>250-750 AUD | My business needs a modern, mobile-first website that showcases our product range, tells our brand story, and funnels visitors straight to our Instagram, Facebook, and TikTok accounts where most engagement happens. No checkout is required right now—the focus is on eye-catching visuals, clear calls to action that invite people to follow or message us on those platforms, and a design flexible enough to add e-commerce later.
 
 The site should load fast, feel consistent with our existing social media look, and be easy for me to update without touching code. A simple CMS (WordPress, Shopify, or any comparable platform) paired with strong on-page SEO basics and Google Analytics will cover the technical side. I also need light support crafting the first month of social media content—nothing elaborate, just branded graphics, captions, and a posting calendar so I can hit the ground running.
@@ -1018,6 +1003,12 @@ Deliverables
 4. A brief screen-share or loom walkthrough showing how to edit sections in Divi.
 
 If this sounds straightforward to you and you’ve built similar WooCommerce product flows inside Divi, let’s talk timelines and any clarifications you need.</description></item>
+<item><title>Custom Kastle Core WordPress Build</title><link>https://www.freelancer.com/projects/html5/Custom-Kastle-Core-WordPress-Build</link><guid isPermaLink="false">freelancer:40810287</guid><pubDate>Mon, 09 Nov 2026 17:26:14 GMT</pubDate><description>250-750 CAD | Build a high-performance custom WordPress website using the Kastle Core theme, Brand
+Identity settings, approved schema plugin, semantic HTML, client-specific CSS, and responsive
+modern front-end code. No Elementor or other page builder. The website must be responsive
+across screen widths, use properly sized and compressed responsive images, follow technical
+and local SEO best practices, support valid structured data, meet strong accessibility standards,
+and be built with Core Web Vitals and long-term maintainability in mind.</description></item>
 <item><title>Simone Shipman</title><link>https://www.freelancer.com/projects/digital-marketing/Simone-Shipman</link><guid isPermaLink="false">freelancer:40810282</guid><pubDate>Mon, 09 Nov 2026 17:22:49 GMT</pubDate><description>25-50 AUD/hr | I’m ready to turn an idea into a downloadable digital product that reliably earns revenue, and I need a specialist who can guide the entire journey—from validating the concept right through to launch and first sales. The exact format is still flexible; whether the end result is an e-book, a set of editable templates, a mini software utility, or a bite-sized course, what matters is that buyers can pay online and instantly receive the file.
 
 Here’s what I expect you to handle:
