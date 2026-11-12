@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Website Speed Issues</title><link>https://www.freelancer.com/projects/google-website-optimizer/Fix-Website-Speed-Issues</link><guid isPermaLink="false">freelancer:40815612</guid><pubDate>Thu, 12 Nov 2026 20:49:47 GMT</pubDate><description>30-250 AUD | My WordPress site runs the Seraphinite Accelerator plugin and, on the front-end, pages appear to load fine. However, every external speed audit now stalls: Google PageSpeed caps me at ±30/100 on mobile and abandons the desktop run altogether, while GTmetrix no longer finishes the scan that used to return an A grade.
+
+The slowdown started after I tweaked a few Seraphinite settings; no core updates, theme swaps, or major plugin installs happened in that same window. Because of this, I need you to zero-in on why these testing tools time-out even though real-world visitors still reach the site without errors.
+
+What I expect from you
+• Identify the exact configuration or asset that blocks PageSpeed Insights and GTmetrix from completing their analysis.  
+• Correct those issues within Seraphinite Accelerator so the tests run to completion.  
+• Once the root problem is fixed, fine-tune the plugin to bring scores back into the 90 + range we enjoyed previously—all without breaking any of the new content I added.
+
+Acceptance criteria
+1. Both PageSpeed Insights and GTmetrix finish their scans.  
+2. Mobile and desktop scores are restored to high performance levels (ideally 90/100 or equivalent GTmetrix grade).  
+3. No visual or functional regressions appear across the site after your changes.
+
+You’ll have full access to WordPress and the current Seraphinite settings. Let me know if you need temporary FTP or hosting panel credentials for deeper diagnostics.</description></item>
 <item><title>Website Migration &amp; Redesign with SEO</title><link>https://www.freelancer.com/projects/dns/Website-Migration-Redesign-with-SEO</link><guid isPermaLink="false">freelancer:40815515</guid><pubDate>Thu, 12 Nov 2026 19:15:27 GMT</pubDate><description>50-100 USD | I need my existing site on Hostinger moved to a brand-new domain. Need it refreshed as needed.  The new site should help sales, sharper photos and colors (if needed), a cleaner layout (if needed), and faster, mobile-friendly performance. SEO best practices should be applied as needed. All contact forms, quote-request buttons, and the payment gateway must be checked and fixed if needed so visitors can easily reach me or submit payments without errors.
 
 Here is the full scope:
@@ -660,16 +675,6 @@ If my PM reaches out to you for your Q/A’s or if she is interested then she wi
 Acceptance criteria: measurable traffic uplift in Search Console, improved ranking visibility for our core construction services within the target service area, and a clear report detailing every change you made so I can track progress going forward.
 
 If you’re comfortable working directly in WordPress, using tools like Ahrefs, Screaming Frog, and Google Business Profile Manager, and can communicate findings in plain language, let’s get started.  You'll do all my smo to wordpress  fixing.  What ever  is required.  Continues monthly.</description></item>
-<item><title>Minimal Divi Ecommerce Redesign</title><link>https://www.freelancer.com/projects/web-design/Minimal-Divi-Ecommerce-Redesign</link><guid isPermaLink="false">freelancer:40812201</guid><pubDate>Tue, 10 Nov 2026 21:19:15 GMT</pubDate><description>250-750 USD | DO NOT CALL THE BUSINESS PHONE NUMBER. I’d like every page of olegproducts.com refreshed so the brand feels modern, professional, and visually consistent from the first scroll to the final Ecwid checkout. The site currently runs on a Divi child theme, and I want to stay on that stack unless a you have a better recommendation—just give it a clean, minimal look with generous white space similar to Vandoren, JodyJazz, and Meridian Winds.
-
-What matters most to me:  
-• A cohesive visual language applied across all templates, not only the home page.  
-• Seamless mobile usability; the store should feel as natural on a phone as on a desktop.  
-• An uncluttered layout that lets product photography and copy breathe while keeping add-to-cart and checkout steps obvious.
-
-I’ll supply branding assets, product images, and any additional copy you need. You’ll handle design, Divi layout builds, and the necessary CSS / module tweaks so Ecwid’s cart and checkout match the new aesthetic.
-
-Please share a brief outline of your approach, links to live Divi or Ecwid projects you’ve modernized, and an estimated timeline for delivering initial comps, revisions, and launch-ready pages.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
