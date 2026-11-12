@@ -84,21 +84,6 @@ Project title: WordPress Website Redesign – Luxury Vacation Rentals &amp; Dire
 Budget: $1,500–$2,500 fixed price
 Timeline: 2–4 weeks
 Skills: WordPress, Web Design, SEO, Mobile Optimization, WooCommerce or Vacation Rental Booking Integration</description></item>
-<item><title>Fix Website Speed Issues</title><link>https://www.freelancer.com/projects/google-website-optimizer/Fix-Website-Speed-Issues</link><guid isPermaLink="false">freelancer:40815612</guid><pubDate>Thu, 12 Nov 2026 20:49:47 GMT</pubDate><description>30-250 AUD | My WordPress site runs the Seraphinite Accelerator plugin and, on the front-end, pages appear to load fine. However, every external speed audit now stalls: Google PageSpeed caps me at ±30/100 on mobile and abandons the desktop run altogether, while GTmetrix no longer finishes the scan that used to return an A grade.
-
-The slowdown started after I tweaked a few Seraphinite settings; no core updates, theme swaps, or major plugin installs happened in that same window. Because of this, I need you to zero-in on why these testing tools time-out even though real-world visitors still reach the site without errors.
-
-What I expect from you
-• Identify the exact configuration or asset that blocks PageSpeed Insights and GTmetrix from completing their analysis.  
-• Correct those issues within Seraphinite Accelerator so the tests run to completion.  
-• Once the root problem is fixed, fine-tune the plugin to bring scores back into the 90 + range we enjoyed previously—all without breaking any of the new content I added.
-
-Acceptance criteria
-1. Both PageSpeed Insights and GTmetrix finish their scans.  
-2. Mobile and desktop scores are restored to high performance levels (ideally 90/100 or equivalent GTmetrix grade).  
-3. No visual or functional regressions appear across the site after your changes.
-
-You’ll have full access to WordPress and the current Seraphinite settings. Let me know if you need temporary FTP or hosting panel credentials for deeper diagnostics.</description></item>
 <item><title>Squarespace Website Redesign and Shop Cleanup</title><link>https://www.freelancer.com/projects/squarespace/Squarespace-Website-Redesign-Shop-40815289</link><guid isPermaLink="false">freelancer:40815289</guid><pubDate>Thu, 12 Nov 2026 19:04:29 GMT</pubDate><description>30-250 USD | 1 go to Textileskingdom.org review page and change domain to textileskingdom.com( own both)
 2 Fix the footer email and phone links, and update the address and business info. 
 3. Redesign the homepage to show featured fabrics, event services and photos, reviews, and clear buttons for "Shop fabric" and "Request a quote." 
@@ -672,6 +657,64 @@ Deliverables
 
 Proposal expectations  
 Submit a detailed project proposal that outlines your approach, timeline, and any tool stack you plan to use. Feel free to reference similar sites or migrations you have handled, but the proposal itself is the key item I will evaluate.</description></item>
+<item><title>GigResource Responsive UI Design Refinement</title><link>https://www.freelancer.com/projects/web-design/GigResource-Responsive-Design-Refinement</link><guid isPermaLink="false">freelancer:40812696</guid><pubDate>Wed, 11 Nov 2026 04:46:09 GMT</pubDate><description>250-750 USD | GigResource — Graphic website Designer JD
+Refine, don't replace — the site already exists with an established color scheme (navy, teal, pruple , green, and orange), navigation structure, and layout. Nothing gets removed, renamed, or reimagined from scratch.
+Left sidebar is the top priority — it must be polished, consistent, with proper icon alignment, active states, hover effects, collapsed state on laptop, and mobile-friendly behavior.
+Responsive design across 3 devices — mobile (purpose-built layout, not a shrunken desktop), laptop (collapsible sidebar), and desktop (full expanded view). Website only — no native app.
+Scope is open-ended, up to 30-100+ pages "per user"— Client, Professional, Influencer, Admin and Affiliate pages across all five users types, plus policy pages, demo/explainer pages, and Outer user pages if requested. Pages with tabs or sub-views must be fully designed in every state, not just the default.
+Pages and links are not final — the platform is in active development. Pages may be added, removed, or renamed at any time. Revisions and redos are expected and non-negotiable.
+
+Please provide a high-fidelity mockup of the dashboard. The sample must be designed in Figma; AI-generated screenshots will not be accepted.
+You have 12 hours to submit your concept. For the assignment, select any web link from the left column of the dashboard. Using the existing data on that page, show us your creativity and attention to detail by reshaping and reorganizing the layout. Do not remove any of the original data—your goal is to impress us with how you improve the page's structure and user experience.
+
+Engagement terms the freelancer must accept: stay until GigResource says the project is done; attend all required meetings, if needed ; act on all handoffs, feedback, and flagged issues promptly; remain available and responsive throughout; GigResource can cancel the contract at any time without payment; timeline is approximately 4+ months but may be uneven. To review the JD for this role, click the weblink, then wait to be accepted then review the fuller details then bid ---&gt; https://docs.google.com/document/d/1fjD0bI1yv_z0O-WM5qd9XU1Pek-9zSWk4feLLS1RjBI/edit?tab=t.0 Answer the Questionnaire --&gt; https://docs.google.com/document/d/13RtTaBidscsFBXjD5h3ZqjFCYpElPkYa82V6ALQaDtg/edit?tab=t.0 
+
+
+1. Which dashboard page, user type or sidebar link should the first concept use?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+2. Is there an existing Figma file or design system with colors, icons, typography and layout rules?
+The rules I have are these:
+
+Role colors (light / dark): Client 
+#FFF7ED / 
+#EA580C, Professional 
+#EFF6FF / 
+#1D4ED8, Influencer 
+#F5F3FF / 
+#6D28D9, Admin 
+#F0FDF4 / 
+#15803D, Affiliate 
+#FDF2F8 / 
+#DB2777.
+ID prefixes: CL-, PRO-, INF-, ADM- and AFF-. Never GR-.
+No decorative checkmarks.
+
+For the Figma file, icons, typography and layout rules: if my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+3. Will you provide the website URL, dashboard access, existing Figma files and page data?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+4. Is the 12-hour Figma concept a separately paid milestone?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+5. How is payment protected if the contract is cancelled? Are milestones paid even if the project is paused or cancelled? What are the milestone, revision-limit and acceptance terms?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+6. Which UI framework or component style system should the Figma handoff follow?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+7. What are the top-priority sidebar polish details (icon alignment, active states, hover, collapsed behavior on laptop and mobile), and are there guidelines for icon styles, hover effects and mobile interactions? Is the biggest frustration icon alignment and spacing, or the collapse behavior?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+8. Will the sidebar structure stay fixed, or will menu items be added or removed during the project?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+9. Should the selected page be redesigned for mobile, laptop and desktop while preserving all original data and navigation?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.
+
+10. Should the first phase focus on the dashboard and shared responsive patterns, with other pages prioritized as the platform evolves? Can you provide a prioritized page inventory?
+If my PM reaches out to you for your Q/A’s or if she is interested then she will have more answers, i am just getting the posting of the project and then she decides the rest.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
