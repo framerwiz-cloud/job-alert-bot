@@ -3,6 +3,45 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Comprehensive Condo Management System with Multi-Level Access</title><link>https://www.freelancer.com/projects/database-management/Comprehensive-Condo-Management-System</link><guid isPermaLink="false">freelancer:40809549</guid><pubDate>Thu, 12 Nov 2026 17:03:45 GMT</pubDate><description>250-750 USD | We are looking to develop an advanced condominium management system tailored for a complex with 136 units. The system should feature five distinct levels of access and enable domain-based email setup for all functionalities.
+
+Key Features by Access Level:
+1. General Public Access:
+   - Information about the complex, including photos and contact details.
+   - Public-facing pages with an engaging design.
+
+2. Owners Portal:
+   - Secure login to view and pay bills.
+   - Access documents like By-Laws, rules and regulations.
+   - Submit and track maintenance work order requests.
+
+3. Administration (Property Manager):
+   - Dashboard to manage website content and functionality.
+   - Detailed management of all maintenance work orders (add, track, search).
+   - Separate lists for pending, ongoing, and completed work orders.
+   - Ability to archive finished tasks for easy reference.
+
+4. Maintenance Personnel Access:
+   - View and update the status of all assigned work orders (pending, in progress, completed).
+   - Prioritize tasks based on urgency.
+   - Log estimated hours, cost, supplies required/used, and personnel involved in each task.
+
+5. Board of Directors Portal:
+   - View progress reports for all maintenance tasks.
+   - Ensure no personal information regarding owners is visible.
+
+Additional Requirements:
+- Integrated email services using the domain name.
+- Mobile-friendly design.
+- Secure database management solution with clear user roles and permissions.
+
+Ideal Candidate Skills:
+- Expertise in developing robust web platforms with multi-level access controls.
+- Proficiency in UI/UX design for both public-facing and internal portals.
+- Strong background in database management and backend development.
+- Familiarity with domain-based email integrations.
+
+Please share samples of similar projects you’ve worked on and provide an estimated timeline for completion.</description></item>
 <item><title>WordPress Blog Posting | New Freelancers Welcome | 111226</title><link>https://www.freelancer.com/projects/wordpress-plugin/WordPress-Blog-Posting-New-Freelancers</link><guid isPermaLink="false">freelancer:40815318</guid><pubDate>Thu, 12 Nov 2026 16:28:16 GMT</pubDate><description>30-250 USD | We need an experienced WordPress freelancer to upload, format, and publish 100 completed blog articles with basic SEO. All articles and assigned categories will be provided. No writing, rewriting, or advanced SEO research is required. NEW freelancers are welcome. Previous Freelancer reviews are not required, but PROOF of WordPress publishing experience is mandatory.
 
 Fixed Budget: $60 USD for all 100 articles.
@@ -722,8 +761,6 @@ Functional with cloudflare
 
 
 If you have questions please reach out.</description></item>
-<item><title>Automate WordPress Events with Klaviyo Stripe</title><link>https://www.freelancer.com/projects/klaviyo/Automate-WordPress-Events-with-Klaviyo</link><guid isPermaLink="false">freelancer:40812242</guid><pubDate>Tue, 10 Nov 2026 20:43:57 GMT</pubDate><description>30-250 CAD | Freelancer Wanted: Klaviyo + Stripe + WordPress Event Registration Automation
-We are seeking an experienced freelancer to build an automated event registration, payment tracking, and email communication system using Klaviyo, Stripe, and WordPress. Build a Klaviyo flow to manage event registration The systems and workflow must automatically manage registrations, Stripe payments, and paid/unpaid attendee lists for each event. Automated emails will include registration confirmations, payment confirmations, payment reminders, and event login details. The email content will be created as a document to be added to each of the email templates to be created. The system  will support late payments, event rescheduling, administrator notifications, and recording delivery post event. The event will have its own registration form, payment link, contact lists, and email automation.  Our WordPress event webpage and Klaviyo registration form already exist. We require a reusable setup that allows us to create future events without additional programming or paid third-party subscriptions. The freelancer will be responsible for configuration, basic testing, and providing written instructions, with a detailed scope of work available for review.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
