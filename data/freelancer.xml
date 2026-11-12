@@ -3,6 +3,39 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Debug Live Booking Website Issues</title><link>https://www.freelancer.com/projects/web-development/Debug-Live-Booking-Website-Issues</link><guid isPermaLink="false">freelancer:40814119</guid><pubDate>Wed, 11 Nov 2026 23:57:56 GMT</pubDate><description>250-750 USD | **Project Title: Developer Needed to Debug an Existing Live Booking Website**
+
+I’m looking for an experienced web developer to identify and fix bugs on my booking website, which is already live. This project focuses on improving the existing website’s functionality and reliability.
+
+**Scope of Work**
+
+- Investigate reported issues and identify their root causes.
+- Fix bugs affecting the booking process and related features.
+- Check availability, date selection, booking submissions, and confirmations.
+- Resolve relevant frontend, backend, or database issues.
+- Test fixes across desktop and mobile devices.
+- Provide a brief summary of changes and testing completed.
+
+**Required Experience**
+
+- Experience debugging live booking or reservation websites.
+- Strong frontend and backend troubleshooting skills.
+- Familiarity with databases, APIs, and third-party integrations.
+- Ability to work carefully on a live website and communicate clearly.
+
+**Deliverables**
+
+- Agreed bugs fixed and tested.
+- Updated source code with a clear explanation of changes.
+- Confirmation that the affected booking flows work correctly.
+
+**Please Include in Your Proposal**
+
+- Examples of similar debugging projects.
+- Your approach to diagnosing and fixing issues.
+- Your availability and hourly rate or estimated cost.
+
+I will share the website URL, technical details, and known issues with shortlisted candidates. Please review the issues before providing a final estimate and timeline.</description></item>
 <item><title>Embedded Website Survey</title><link>https://www.freelancer.com/projects/web-development/Embedded-Website-Survey</link><guid isPermaLink="false">freelancer:40814094</guid><pubDate>Wed, 11 Nov 2026 23:28:29 GMT</pubDate><description>30-250 AUD | I need a fully-functional survey embedded into my current website. The form must collect a mix of multiple-choice and open-text responses, and it should also require each participant’s name and email address before they can submit. Once someone finishes, their answers—including the contact details—must be routed straight to my inbox in a clear, readable format; no other storage or dashboard is needed.
 
 The survey should match the look and feel of the existing site, validate required fields, and work smoothly on desktop and mobile. The design should be journey based so that it moves from one screen to the next as users complete each section. Various links will need to be created within the website so users can access the survey. 
@@ -865,16 +898,6 @@ Acceptance Criteria
 • All editable source files, documentation, and login details are handed over
 
 If you’ve launched profitable digital downloads before and can show proof—screenshots, links, or brief case studies—let’s talk timelines and milestones so we can get this earning quickly.</description></item>
-<item><title>Faith 1.6 to Kadence WP Theme Swap</title><link>https://www.freelancer.com/projects/content-management-system/Faith-Kadence-Theme-Swap</link><guid isPermaLink="false">freelancer:40810274</guid><pubDate>Mon, 09 Nov 2026 17:15:06 GMT</pubDate><description>250-750 USD | I'm looking for a skilled WordPress developer to replace my current Faith 1.6 theme with the Kadence WP theme on my existing website. The goal is to only replace the theme and keep changes to a minimum.
-
-Requirements:
-- The new Kadence theme must keep the current menu structure and page layout unchanged.
-- The events calendar, online donations, and general information must continue working exactly as they do now.
-
-Ideal skills and experience:
-- Proficiency in WordPress and Kadence themes
-- Experience with theme replacement and maintaining existing functionality
-- Knowledge of events calendars and online donation systems integration</description></item>
 <item><title>Rapid Content Creation &amp; Publishing</title><link>https://www.freelancer.com/projects/content-creation/Rapid-Content-Creation-Publishing</link><guid isPermaLink="false">freelancer:40809959</guid><pubDate>Mon, 09 Nov 2026 12:48:30 GMT</pubDate><description>15-25 USD/hr | I need an experienced hand who can jump in right away and turn raw ideas or brief outlines into polished posts, ready to go live. The immediate priority is straightforward: create and publish engaging content—think blog articles, short social posts, or newsletter pieces—so my audience sees fresh updates without delay.
 
 Speed matters, but so does quality. You should be comfortable drafting clear, on-brand copy, choosing or creating supporting visuals in tools like Canva or Photoshop, laying everything out in WordPress (or a comparable CMS), and hitting “publish” once I give the final nod. If you can also schedule pieces through Buffer, Hootsuite, or native social dashboards, that is a plus.
