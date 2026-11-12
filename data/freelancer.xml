@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Ongoing WordPress Maintenance &amp; Security</title><link>https://www.freelancer.com/projects/website-management/Ongoing-WordPress-Maintenance-Security-40814485</link><guid isPermaLink="false">freelancer:40814485</guid><pubDate>Thu, 12 Nov 2026 14:05:32 GMT</pubDate><description>250-750 USD | My WordPress site needs steady, knowledgeable attention so it stays secure, fast, and problem-free day after day. The ongoing workload centres on three areas:
+
+• Plugins, backups, and security – keeping every component updated on a staging copy first, scheduling reliable off-site backups, running regular scans, and hardening the install against new threats.
+• Performance tuning – analysing load times, refining caching and image optimisation, and tracking the results so we see clear speed gains.
+• General site management – jumping in quickly when an error appears, tidying small layout glitches, and handling the occasional content tweak.
+
+This is a long-term arrangement rather than a single overhaul. Consistent weekly maintenance, clear communication, and a proactive mindset are essential. Familiarity with typical WordPress tooling (cPanel, phpMyAdmin, Cloudflare, popular optimisation and security plugins) will make the work straightforward.
+
+Deliverables the first month:
+1. Safe update process documented and running on a schedule
+2. Automated daily backups verified and stored off-site
+3. Security scan with issues resolved or documented
+4. Baseline performance report with an action plan for improvements
+
+Ongoing: the same checks each month, rapid fixes within 24 hours when something breaks, and a brief monthly summary of work completed.
+
+If this fits your expertise and you’re available for consistent weekly / monthly touch-points, I’d like to hear how you normally structure maintenance and monitoring.</description></item>
 <item><title>Logo and Website Duplication</title><link>https://www.freelancer.com/projects/web-development/Logo-Website-Duplication</link><guid isPermaLink="false">freelancer:40815115</guid><pubDate>Thu, 12 Nov 2026 13:58:03 GMT</pubDate><description>250-750 AUD | I need a freelancer to create my logo and website. The logo is already designed, I need it copied very closely. 
 
 Key Requirements:
@@ -797,161 +814,6 @@ Ideal skills and experience:
 - Excellent problem-solving abilities
 
 Please provide examples of similar work done.</description></item>
-<item><title>Sourdough Bakery  Site</title><link>https://www.freelancer.com/projects/web-development/Sourdough-Bakery-Site</link><guid isPermaLink="false">freelancer:40810707</guid><pubDate>Tue, 10 Nov 2026 00:35:40 GMT</pubDate><description>30-250 USD | Website Design &amp; Development for Artisan Sourdough Bakery
-
-Project: Sourdough Clouds Bakery — Grass Valley, California
-
-We are looking for a creative, experienced web designer/developer to build a beautiful, professional, mobile-friendly website for our artisan sourdough bakery.
-
-We want something unique, warm, inviting, and easy to navigate — not a generic bakery template.
-
-Our bakery specializes in naturally fermented artisan sourdough bread, specialty loaves, focaccia, challah, cookies, and other baked goods.
-
-1. Website Concept &amp; Design
-
-Our website should be inspired by the journey of sourdough bread, from a living starter to a finished loaf.
-
-We have an existing watercolor-style illustration showing the stages of sourdough bread making. We want to use this illustration as inspiration for the website's overall design, colors, graphics, and navigation.
-
-The design should feel:
-
-- Artisan, handcrafted, warm, and welcoming
-- Natural, rustic, and elegant
-- Inspired by watercolor illustrations, wheat, flour, dough, and freshly baked bread
-- Professional, clean, and easy to navigate
-- Beautiful on both desktop and mobile devices
-
-We do not want complicated animations or a website that forces visitors through the bread-making process. Customers should be able to navigate directly to any section.
-
-2. Unique Website Navigation — Very Important
-
-Instead of traditional navigation buttons such as "About Us," "Our Story," and "Products," we want the main navigation to follow the stages of sourdough bread making.
-
-Proposed navigation:
-
-STARTER → MIX → RISE → BAKE → ENJOY
-
-Each navigation button represents a regular website section:
-
-STARTER — Our Story
-
-- Introduction to Sourdough Clouds Bakery
-- Who we are and how our bakery began
-- Our passion for traditional sourdough baking
-- Our values and philosophy
-
-MIX — Our Bakery &amp; Ingredients
-
-- What makes our bakery special
-- Our approach to quality ingredients
-- Naturally fermented sourdough
-- Simple ingredients and traditional baking methods
-- Information about our bakery and what we offer
-
-RISE — Our Process
-
-- A dedicated page explaining our complete sourdough-making process
-- Mixing, folding, bulk fermentation, shaping, overnight cold fermentation, scoring, baking, and cooling
-- Illustrations and photographs showing the different stages
-- Explaining why our bread takes time and what makes the process special
-
-BAKE — Our Bread &amp; Cookies
-
-- Full product menu with beautiful photographs
-- Traditional artisan sourdough loaves
-- Specialty savory and sweet sourdough
-- Sandwich loaves
-- Focaccia
-- Challah
-- Cookies and other bakery products
-- Product descriptions, prices, and available options
-
-ENJOY — Visit &amp; Contact
-
-- Bakery location and address
-- Opening hours
-- Google Maps integration
-- Contact information
-- Social media links
-- Information about ordering and pickup
-
-We would like small illustrations or design elements connecting each navigation section to its corresponding stage of bread making.
-
-The navigation should be creative but intuitive, with clear subtitles or descriptions when necessary.
-
-3. Online Ordering System
-
-This is an important part of the website.
-
-Customers should be able to:
-
-- Browse our bakery products with photos and prices
-- Select products and quantities
-- Choose available bread varieties and flavors
-- Customize certain products with optional ingredients/add-ons and additional charges
-- Add multiple products to a shopping cart
-- Choose an available pickup date/time
-- Enter their contact information
-- Submit orders and receive an order confirmation
-
-We would prefer online payment capability through a secure payment provider, such as Stripe or Square, with the possibility of enabling payment at pickup.
-
-The bakery owner must be able to:
-
-- Add, edit, or remove products
-- Update prices and product descriptions
-- Add new seasonal flavors
-- Change product availability
-- Manage pickup dates and ordering deadlines
-- Receive and manage customer orders
-- Mark products as sold out
-
-The ordering system should be straightforward and easy for customers to use.
-
-4. Additional Website Requirements
-
-- Fully responsive design for mobile, tablet, and desktop
-- Fast loading and good performance
-- Basic search engine optimization (SEO)
-- Google Maps integration
-- Instagram and Facebook links
-- Contact form
-- Easy-to-use administration dashboard
-- Secure website with SSL
-- Ability to update text, photographs, products, and prices without programming knowledge
-- Basic training or instructions for managing the website
-- All website administrator credentials and ownership transferred to us upon completion
-
-5. Platform &amp; Development
-
-We are open to WordPress/WooCommerce or another affordable, reliable platform.
-
-We prefer a solution that:
-
-- Is inexpensive to maintain
-- Does not require a developer for everyday updates
-- Can grow with our bakery
-- Avoids unnecessary monthly subscriptions
-- Uses existing reliable tools/plugins where appropriate rather than expensive custom programming
-
-We can provide our logo, existing artwork, bakery information, and product photographs.
-
-6. What We Expect From the Developer
-
-Please include the following in your proposal:
-
-1. Your total fixed price for the complete website.
-2. Examples of similar websites you have built, especially bakery, restaurant, or e-commerce websites.
-3. Which platform you recommend and why.
-4. Whether the online ordering system is included in your quote.
-5. Estimated completion time.
-6. Number of design revisions included.
-7. Any additional costs, including plugins, hosting, or subscriptions.
-8. Whether you provide support after launch.
-
-We are looking for a creative, affordable developer who can bring our concept to life while keeping the website simple to operate and maintain.
-
-Our goal is a beautiful bakery website that tells our story, showcases our products, explains the care behind our sourdough, and makes ordering easy for our customers.</description></item>
 <item><title>Simone Shipman</title><link>https://www.freelancer.com/projects/digital-marketing/Simone-Shipman</link><guid isPermaLink="false">freelancer:40810282</guid><pubDate>Mon, 09 Nov 2026 17:22:49 GMT</pubDate><description>25-50 AUD/hr | I’m ready to turn an idea into a downloadable digital product that reliably earns revenue, and I need a specialist who can guide the entire journey—from validating the concept right through to launch and first sales. The exact format is still flexible; whether the end result is an e-book, a set of editable templates, a mini software utility, or a bite-sized course, what matters is that buyers can pay online and instantly receive the file.
 
 Here’s what I expect you to handle:
