@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Xero Setup Expert</title><link>https://www.freelancer.com/projects/accounting/Shopify-Xero-Setup-Expert</link><guid isPermaLink="false">freelancer:40816673</guid><pubDate>Fri, 13 Nov 2026 13:59:26 GMT</pubDate><description>18-36 GBP/hr | This is for a British brand and based on UK tax and accounting requirements. I’m launching a brand-new Shopify store for kids TV show merch that will sell physical products via partners like Gelato and Printful, and I want every sale to land in Xero automatically—complete with its payment, customer invoice, shipping charge, refund (if any), and tax breakdown.  
+
+Here’s what I need from you: help me continue my Shopify storefront build, configure shipping rates and payment gateways, and then connect the store to Xero so the data above flows into the correct accounts without manual intervention. Product stock tracking can stay inside Shopify; the focus is on the financial side.
+
+You’ll decide whether the native Shopify-Xero app, A2X, Synder, or another connector is the best fit, map the chart of accounts, run test orders and refunds, and fine-tune tax settings for my region. When everything reconciles cleanly, hand over concise documentation so I can maintain the workflow myself.
+
+Deliverables  
+• Live Shopify store ready for launch  
+• Fully tested Xero integration covering sales, payments, customer invoices, shipping, refunds, and taxes  
+• Handover notes outlining connector used, account mappings, and troubleshooting tips  
+
+Acceptance criteria  
+• A test order appears in Xero as a paid invoice with correct tax and shipping lines  
+• A refund syncs back accurately  
+• Daily reconciliation matches Shopify Payments payout reports  
+
+I would like to get it online before the end of November. It is for a kids TV show's branded merch and I am looking for UK only consultants.</description></item>
 <item><title>Build Luxury Shopify Skincare Storefront</title><link>https://www.freelancer.com/projects/shopify-development/Build-Luxury-Shopify-Skincare-Storefront</link><guid isPermaLink="false">freelancer:40816539</guid><pubDate>Fri, 13 Nov 2026 12:02:58 GMT</pubDate><description>30-250 USD | I need a designer-developer to take a fresh Shopify account and turn it into a polished, luxury skincare storefront. The build must include a fully customised Home page that instantly conveys an upscale, spa-quality feel, a Shop section with clean collection navigation, individual Product pages ready for me to upload images and descriptions, and a Contact page with an easy-to-use form.
 
 The theme, typography, colour palette and imagery should all work together seamlessly so visitors experience confidence, calm and exclusivity from the first click through to checkout. Please handle theme selection or customisation, navigation setup, responsive layout, basic SEO settings, payment/shipping configuration and any small code tweaks necessary to achieve the final look.
