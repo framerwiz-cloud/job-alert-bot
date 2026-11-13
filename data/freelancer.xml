@@ -29,12 +29,6 @@ Please confirm:
 * Will you provide a walkthrough after completion?
 
 I would like to review the work before approving the final delivery.</description></item>
-<item><title>Migrate WordPress Products to Shopify</title><link>https://www.freelancer.com/projects/woocommerce/Migrate-WordPress-Products-Shopify</link><guid isPermaLink="false">freelancer:40815827</guid><pubDate>Fri, 13 Nov 2026 01:12:25 GMT</pubDate><description>250-750 AUD | I’m moving my store from WordPress/WooCommerce to Shopify and need the entire product catalogue transferred—somewhere between 50 and 500 individual items. What I want copied over is straightforward: 
-
-You may use whatever method you’re most comfortable with—Matrixify, LitExtension, a custom script, or a clean CSV import—as long as the results in Shopify are accurate and ready for me to review. SEO elements such as alt text and meta titles that already exist on the WordPress side should remain intact wherever possible.
-
-
-Once the items are live in my Shopify dashboard, I’ll spot-check a sample. Any missing images, mis-formatted text, or stray data need to be fixed before we wrap up. If this sounds clear, let me know your estimated turnaround time and the tool or workflow you’d like to use.</description></item>
 <item><title>Elegant WordPress Clinic Redesign</title><link>https://www.freelancer.com/projects/web-design/Elegant-WordPress-Clinic-Redesign</link><guid isPermaLink="false">freelancer:40815788</guid><pubDate>Fri, 13 Nov 2026 00:29:32 GMT</pubDate><description>30-250 USD | Our medical clinic site is overdue for a full facelift. It must stay on WordPress, retain every ounce of our existing SEO equity, and load noticeably faster on both mobile and desktop.
 
 Primary objective  
@@ -681,6 +675,18 @@ Ideal Skills and Experience:
 - Attention to detail and design
 
 Please provide examples of similar work done.</description></item>
+<item><title>Website Paid Tier Flow Finalization</title><link>https://www.freelancer.com/projects/user-experience-research/Website-Paid-Tier-Flow-Finalization</link><guid isPermaLink="false">freelancer:40813469</guid><pubDate>Wed, 11 Nov 2026 14:16:11 GMT</pubDate><description>30-250 USD | My site already presents three paid membership options, but the flow that guides a visitor from first click to correct tier completion still needs a professional hand. The intention behind these levels is clear: offer different service packages or support levels, with distinctions rooted mainly in the level of personal guidance or access each member receives. What I lack is a crisp, documented path that makes the upgrade, downgrade, and fulfillment process seamless for users and effortless for my developers to implement.
+
+You will start by auditing the current screens, copy, and backend logic, spotting anything that could confuse a customer or break in production. From there I want a concise, practical roadmap that covers:
+
+• A tier-by-tier matrix outlining entitlements, support response expectations, and gating rules  
+• An annotated user-journey flowchart that shows every decision point from sign-up to upgrade/cancellation  
+• Clear functional requirements (or user stories) the dev team can drop straight into Jira or Trello  
+• Implementation notes on payment gateway hooks, CRM tagging, and analytics tracking so we can measure conversions per tier
+
+I’m happy with Figma, Miro, Lucidchart, or similar tools—choose whichever you prefer as long as the hand-off files remain editable. The deliverable is accepted once the flow has no loose ends, the documentation anticipates edge cases, and the tiers feel self-explanatory when we walk through them together via screen-share.
+
+If refining membership experiences and translating business goals into developer-ready specs is second nature to you, this should be a straightforward, high-impact engagement.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
