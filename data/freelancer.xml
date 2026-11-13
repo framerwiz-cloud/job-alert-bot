@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Wix Mobile Responsiveness Fixes</title><link>https://www.freelancer.com/projects/wix/Wix-Mobile-Responsiveness-Fixes</link><guid isPermaLink="false">freelancer:40815926</guid><pubDate>Fri, 13 Nov 2026 03:12:20 GMT</pubDate><description>30-250 USD | My Wix site looks fine on desktop, yet on phones and small tablets it quickly falls apart. Tap targets feel cramped, the top navigation isn’t easy to expand, contact-and-booking buttons sometimes disappear, and checkout forms overflow the viewport. On some screen sizes the entire layout shifts, and inside the store a few product categories simply refuse to show.
+
+I need someone who knows the Wix mobile editor (or Editor X, if you prefer) well enough to tidy up these problem areas without touching the desktop layout:
+
+• Top menu / navigation must open smoothly and stay finger-friendly.  
+• All call-to-action buttons (contact, booking, add-to-cart) should be clearly visible, correctly sized, and easy to tap.  
+• Forms and checkout steps have to fit every common phone width, no scrolling sideways.  
+• Layout should stay consistent from 320 px phones up to small tablets, with no broken sections.  
+• Store page must list every category just as the desktop version does.
+
+Once finished, I’ll quickly test on iOS Safari, Chrome Android, and Samsung Internet; if every element functions and no content overflows, I’ll consider the job complete.
+
+When you respond, include links or screenshots of past Wix sites you’ve fixed for mobile seeing real examples will help me choose fast.</description></item>
 <item><title>Fix Facebook Audience Populating</title><link>https://www.freelancer.com/projects/facebook-ads/Fix-Facebook-Audience-Populating</link><guid isPermaLink="false">freelancer:40815907</guid><pubDate>Fri, 13 Nov 2026 02:44:47 GMT</pubDate><description>30-250 USD | My website receives hundreds of visits to certain product pages every week, yet the Facebook custom audience that should be fed by that traffic stubbornly stops at about 20 people. I built the audience to target people who visited specific product or service pages, but it simply will not refresh beyond that tiny pool.
 
 I need someone who can dive into the setup, check the pixel, event tracking, and any configuration conflicts, then get the audience to reflect the real volume of visitors from my site. Once you’re done, the custom audience based on “People who visited my website”—specifically those key product pages—should update accurately and keep growing as new visitors arrive.
@@ -666,20 +679,6 @@ Success for this project means:
 • The purchase path is friction-free on desktop and mobile, with clear metrics tracking each step.  
 
 If you excel at turning educational content into a high-converting funnel and can move quickly while communicating clearly, let’s wrap this up together.</description></item>
-<item><title>Fix WordPress Site</title><link>https://www.freelancer.com/projects/html/Fix-WordPress-Site-40813536</link><guid isPermaLink="false">freelancer:40813536</guid><pubDate>Wed, 11 Nov 2026 15:10:30 GMT</pubDate><description>20-250 GBP | I need a skilled WordPress developer to fix errors and restore functionality on my site. 
-
-Key Requirements:
-- Fix errors or broken features
-- Update text, images, or pages as needed
-- Enhance design/layout for better usability
-
-Ideal Skills and Experience:
-- Proven WordPress development experience
-- Strong problem-solving skills
-- Familiarity with WordPress plugins and admin area
-- Attention to detail and design
-
-Please provide examples of similar work done.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
