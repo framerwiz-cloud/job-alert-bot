@@ -837,26 +837,6 @@ Ideal skills and experience:
 - Experience in creating e-commerce pages
 - Familiarity with secure payment integrations
 - Attention to detail and ensuring a seamless user experience</description></item>
-<item><title>WooCommerce Plugin Integration Assistance</title><link>https://www.freelancer.com/projects/api-developmet/WooCommerce-Plugin-Integration</link><guid isPermaLink="false">freelancer:40805338</guid><pubDate>Fri, 06 Nov 2026 02:38:28 GMT</pubDate><description>8-15 AUD/hr | I need to extend WooCommerce sites by adding a new plugin that links to our integration platform to better manage the integration with inventory / order-management platforms. The goal is for better control and management of the products and orders placed on the site to flow automatically to the external system, pull back tracking numbers, stock levels, and status updates, and reflect those changes inside WooCommerce without manual intervention.
-
-Current setup:
-• WordPress + WooCommerce running on the latest stable versions  
-• A child theme with light customisation (no edits to core files)  
-• Existing connections all done with Wordpress API to AWS EC2
-
-What I expect from you:
-• A clean, self-contained plugin or an extension of an existing one that handles the API handshake, authentication, and data sync  
-• Use of WordPress standards—actions, filters, nonces, proper enqueuing—so future updates do not break anything  
-• Configuration screen inside the WooCommerce settings tab where I can paste API keys, pick update intervals, and toggle features  
-• Error logging and basic debug mode to help trace issues in production  
-• Brief documentation outlining installation, settings, and any cron or web-hook URLs required  
-
-Acceptance criteria:
-1. New orders created in WooCommerce instantly appear in the external system through a webhook / push.  
-2. WooCommerce products not aligned or deleted are notified to the source system.  
-3. Stock adjustments sent from the external system respect existing back-order rules.  
-
-Please confirm familiarity with WooCommerce REST API, PHP 8, and other plugins. If you have questions about the target platform, let me know .</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
