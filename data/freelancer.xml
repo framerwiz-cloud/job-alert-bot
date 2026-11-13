@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SEO-Optimized Clinic Website Redesign</title><link>https://www.freelancer.com/projects/web-design/SEO-Optimized-Clinic-Website-Redesign</link><guid isPermaLink="false">freelancer:40815769</guid><pubDate>Fri, 13 Nov 2026 00:10:45 GMT</pubDate><description>250-750 USD | I need our medical clinic website rebuilt from the ground up so it feels trustworthy, loads fast, and ranks well for local health-care searches. The primary purpose of every page is to help visitors learn about our services and, above all, discover our doctors. Doctor profiles must sit front and center and contain, at minimum:
+
+• Photo, specialty, and qualifications  
+• Biography, professional experience, and languages spoken  
+• Clinic location, weekly availability, and direct contact details  
+
+Beyond those profile requirements, the site has to present our range of treatments clearly, be fully responsive, WCAG-accessible, and structured with clean on-page SEO (schema markup, logical heading hierarchy, compressed assets, meta tags, and keyword-smart copy). A modern CMS such as WordPress or Webflow is fine so long as I can update content myself after launch. Page speed under two seconds and Core Web Vitals in the green will be part of the hand-over checklist.
+
+Please plan for migration of existing content, basic analytics setup, and a short video call to walk me through the back-end before final sign-off.</description></item>
 <item><title>Toy Company Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Toy-Company-Website-Redesign</link><guid isPermaLink="false">freelancer:40815750</guid><pubDate>Thu, 12 Nov 2026 23:46:04 GMT</pubDate><description>5000-10000 AUD | I'm seeking a skilled web designer to revamp my toy company's website. The primary goal of this redesign is to effectively showcase our products and brand story, targeting retailers and business partners.
 
 Key requirements:
@@ -657,21 +666,6 @@ Ideal Skills and Experience:
 - Knowledge of safety regulations and family-friendly design
 
 Please provide a portfolio showcasing similar projects and a detailed timeline for completion.</description></item>
-<item><title>Contractor Site Build &amp; Google Migration</title><link>https://www.freelancer.com/projects/cms/Contractor-Site-Build-Google-Migration</link><guid isPermaLink="false">freelancer:40812760</guid><pubDate>Wed, 11 Nov 2026 05:24:09 GMT</pubDate><description>250-750 USD | I am refreshing my contracting business with two parallel tasks: a clean, modern website that highlights my completed projects and service offerings, and a full move from my legacy business email system to Google Workspace.
-
-Website scope  
-The site’s sole purpose is to showcase past work and clearly outline the services I provide. I prefer a straightforward portfolio layout with space for project photos, brief case-study style descriptions, and an easy-to-find contact form. It must load quickly, look polished on mobile, and be simple for me to update—WordPress, Webflow, or a similarly intuitive CMS is fine as long as I can add new projects myself after hand-over.
-
-Email migration  
-My current business mail is hosted on an older provider; I need it transferred to Google Workspace with all existing messages, folders, and aliases intact. DNS records will also need updating so the new domain-based accounts send and receive flawlessly.
-
-Deliverables  
-• Fully functional website published on my domain, with CMS access handed over  
-• All existing email data migrated to Google Workspace, tested and verified  
-• Updated DNS settings for both web and mail, plus a brief hand-off guide
-
-Proposal expectations  
-Submit a detailed project proposal that outlines your approach, timeline, and any tool stack you plan to use. Feel free to reference similar sites or migrations you have handled, but the proposal itself is the key item I will evaluate.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
