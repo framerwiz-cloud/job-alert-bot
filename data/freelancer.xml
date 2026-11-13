@@ -3,6 +3,34 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Elegant WordPress Clinic Redesign</title><link>https://www.freelancer.com/projects/web-design/Elegant-WordPress-Clinic-Redesign</link><guid isPermaLink="false">freelancer:40815788</guid><pubDate>Fri, 13 Nov 2026 00:29:32 GMT</pubDate><description>30-250 USD | Our medical clinic site is overdue for a full facelift. It must stay on WordPress, retain every ounce of our existing SEO equity, and load noticeably faster on both mobile and desktop.
+
+Primary objective  
+I want visitors to feel immediate confidence in our expertise—polished visuals, refined typography, and a premium colour palette that signal professionalism and care.
+
+Key trust-building areas  
+• Doctor &amp; staff profiles: new photo guidelines, credentials displayed clearly, and a design that lets personalities shine without clutter.  
+• Patient reviews, ratings, success stories: dynamic yet lightweight sections that are easy for my team to update while remaining schema-friendly for search engines.  
+• Service pages: concise treatment overviews, pricing cues where appropriate, and expandable FAQ blocks so patients find answers without hunting.
+
+Technical must-haves  
+– Remain on WordPress with a theme framework that is actively maintained.  
+– Core Web Vitals improvements: sub-2-second first contentful paint and an A rating on GTmetrix.  
+– Clean code, structured data, and SEO plugins configured exactly as they are now (Yoast).  
+– Smooth appointment-booking integration with our existing Calendly embed.  
+– Staging environment for review before going live.
+
+Deliverables  
+1. High-fidelity Figma mock-ups for all top-level pages.  
+2. Fully developed WordPress site migrated to our host, including redirects and image optimisation.  
+3. Launch support plus a short hand-off video showing my staff how to update content.
+
+Acceptance criteria  
+• Desktop and mobile Lighthouse performance score ≥ 90.  
+• No drop in current keyword rankings one month post-launch.  
+• All listed trust-building elements present and functioning.
+
+If you have recent healthcare or clinic examples, point me to them and outline your timeline.</description></item>
 <item><title>SEO-Optimized Clinic Website Redesign</title><link>https://www.freelancer.com/projects/web-design/SEO-Optimized-Clinic-Website-Redesign</link><guid isPermaLink="false">freelancer:40815769</guid><pubDate>Fri, 13 Nov 2026 00:10:45 GMT</pubDate><description>250-750 USD | I need our medical clinic website rebuilt from the ground up so it feels trustworthy, loads fast, and ranks well for local health-care searches. The primary purpose of every page is to help visitors learn about our services and, above all, discover our doctors. Doctor profiles must sit front and center and contain, at minimum:
 
 • Photo, specialty, and qualifications  
@@ -652,20 +680,6 @@ You will start by auditing the current screens, copy, and backend logic, spottin
 I’m happy with Figma, Miro, Lucidchart, or similar tools—choose whichever you prefer as long as the hand-off files remain editable. The deliverable is accepted once the flow has no loose ends, the documentation anticipates edge cases, and the tiers feel self-explanatory when we walk through them together via screen-share.
 
 If refining membership experiences and translating business goals into developer-ready specs is second nature to you, this should be a straightforward, high-impact engagement.</description></item>
-<item><title>Year-Round Mall Ice Rink</title><link>https://www.freelancer.com/projects/construction/Year-Round-Mall-Ice-Rink</link><guid isPermaLink="false">freelancer:40813413</guid><pubDate>Wed, 11 Nov 2026 13:32:18 GMT</pubDate><description>30-250 USD | I need an experienced contractor to design and construct a permanent ice rink in a mall for public skating and family entertainment. The project is urgent and needs to be completed as soon as possible.
-
-Key Requirements:
-- Full design and construction of a permanent ice rink
-- Safety features, viewing areas, and family-friendly amenities
-- Coordination with mall management for space and logistics
-- Completion of the project ASAP
-
-Ideal Skills and Experience:
-- Experience in constructing ice rinks, especially in commercial spaces
-- Strong project management and coordination skills
-- Knowledge of safety regulations and family-friendly design
-
-Please provide a portfolio showcasing similar projects and a detailed timeline for completion.</description></item>
 <item><title>European Craft CMS Revamp</title><link>https://www.freelancer.com/projects/web-design/European-Craft-CMS-Revamp</link><guid isPermaLink="false">freelancer:40811848</guid><pubDate>Tue, 10 Nov 2026 16:46:55 GMT</pubDate><description>10-15 GBP/hr | I run an established site on Craft CMS and CraftCommerce and I’m ready to give both the front-end look and the authoring experience a solid refresh. The platform is already live, so this is strictly an update rather than a ground-up build. I’d like to work with someone operating in a European time zone for smoother collaboration.
 
 The priority is to modernise the design and, equally important, make content entry simpler for my team. Specifically, I need:
