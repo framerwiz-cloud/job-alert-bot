@@ -14,16 +14,6 @@ Deliverables
 • Contact page with form and map (if a map fits cleanly within the design)
 
 The store needs to be launch-ready once I drop in product photos and copy. If you have a portfolio of high-end beauty or fashion Shopify builds, that will help me choose quickly.</description></item>
-<item><title>Co-Develop React E-Commerce Features</title><link>https://www.freelancer.com/projects/nextjs/Develop-React-Commerce-Features</link><guid isPermaLink="false">freelancer:40816495</guid><pubDate>Fri, 13 Nov 2026 11:29:16 GMT</pubDate><description>8-15 USD/hr | I have already sketched the foundation of a React / Next.js e-commerce site and now want another developer who can jump in and code shoulder-to-shoulder with me. The priority is building out the core website functionality rather than design tweaks or store setup tasks.
-
-Here’s what we will tackle together:  
-• Product catalog with robust search and filtering  
-• Seamless shopping-cart flow  
-• User accounts, checkout, and payment integration (likely Stripe, but I’m open if you have a better suggestion)
-
-The repo is on Git (branch workflow in place), and I can spin up a dev environment quickly. You should be comfortable writing clean React components, managing state (Redux, Context, or your preferred solution), and integrating REST or GraphQL endpoints. Experience with secure payment APIs, responsive design, and accessibility best practices is important because we’ll push features to production incrementally.
-
-I’ll handle code reviews, share tickets in Trello, and pair program on the trickier bits; I just need someone who can match my pace, communicate clearly, and ship reliable code. If collaborating in real time, suggesting architectural improvements, and seeing your work go live excites you, let’s talk.</description></item>
 <item><title>HighLevel Setup for Meredith Manor Venue</title><link>https://www.freelancer.com/projects/automation/HighLevel-Setup-for-Meredith-Manor</link><guid isPermaLink="false">freelancer:40816197</guid><pubDate>Fri, 13 Nov 2026 07:04:01 GMT</pubDate><description>15-25 USD/hr | I am moving Meredith Manor Venue onto its own, fully independent HighLevel account and I want every moving part of our current system replicated and improved. Your first task is to pull all existing contacts into the new workspace, then rebuild every automation we already rely on while mapping out the complete bride-and-groom journey from the first website visit through final follow-up. Each of those pieces—contact import, automation rebuild, and journey mapping—matters equally, so plan to work on them in parallel rather than sequentially.
 
 Once the core is live, I need you to comb through meredithmanorvenue.com and every social channel linked from it. I’m looking for practical suggestions that will tighten our lead flow, raise conversion rates, and keep the voice on-brand for an engaged-couple audience. If a tweak inside HighLevel (forms, funnels, SMS, email, calendars, triggers) can solve a problem, outline it; if something on the public site needs design, copy, or UX love, spell that out too.
