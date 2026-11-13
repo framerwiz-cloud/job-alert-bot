@@ -3,6 +3,59 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-Commerce Website Design</title><link>https://www.freelancer.com/projects/web-design/Commerce-Website-Design-40816683</link><guid isPermaLink="false">freelancer:40816683</guid><pubDate>Fri, 13 Nov 2026 14:04:54 GMT</pubDate><description>30-250 USD | I need a clean, modern e-commerce website built for my organization, PDC. The sole purpose of the site is to let visitors purchase our offerings online, so every design and technical decision should push users smoothly from discovery to checkout.
+
+I’m looking for a complete solution: polished front-end design that reflects our brand, an intuitive catalog I can expand later, and a dependable back-end that handles orders without fuss. The build must be responsive, load quickly, and give me a simple dashboard where I can add or edit items, prices, and images on my own once the project is finished.
+
+Please outline which platform or stack you recommend (Shopify, WooCommerce, custom on Laravel/React, etc.) and why it’s the best fit for our growth plans. If you’ve launched stores with secure payment integration and streamlined user flows before, share live links or brief case studies—I value proven experience.
+
+Deliver the finished site, ready to accept real transactions, plus a short hand-over session or video that shows me how to manage products and track sales.</description></item>
+<item><title>Spa Email Automation Setup</title><link>https://www.freelancer.com/projects/woocommerce/Spa-Email-Automation-Setup</link><guid isPermaLink="false">freelancer:40816675</guid><pubDate>Fri, 13 Nov 2026 14:01:42 GMT</pubDate><description>750-1500 USD | Email marketing setup for a spa &amp; aromatherapy business (WordPress + WooCommerce)
+
+I run a spa and aromatherapy business in Austin, TX. My website is built on WordPress and has a WooCommerce shop and online booking. I need an email marketing system that brings clients back.
+
+What needs to be done:
+
+Newsletter signup
+Add a signup form to the site: a popup or slide-in plus a form in the footer, mobile-friendly
+Offer a discount on the first visit as the incentive, with a unique or single-use coupon code
+Use Mailchimp or MailPoet, depending on what you recommend for my setup
+Make the form GDPR/CAN-SPAM compliant, with double opt-in if recommended
+Automated emails
+Welcome email with the first-visit discount code
+Appointment reminder 24 hours before the booking
+Review request after the visit, linking to my Google Business Profile
+Rebooking reminder about 30 days after the visit, suggesting the client book the treatment again
+Optional: abandoned cart email for WooCommerce product orders
+Integration
+Connect WooCommerce and the booking plugin to the email platform so clients and their visits sync automatically
+Tag or segment contacts, e.g. “booked a massage”, “bought products”, “newsletter only”
+Design
+Simple, clean email templates in my brand style (calm, natural, spa feel)
+Templates I can easily edit myself later
+
+Deliverables:
+
+A working signup form on the site
+4–5 automated emails, set up and tested
+A short video or written guide on how to edit the emails and see subscribers
+
+Requirements:
+
+Experience with WordPress, WooCommerce and Mailchimp or MailPoet automations
+Examples of similar work, ideally for spas, salons or other local service businesses
+Good English communication
+
+Mandatory requirement: local development only
+
+For privacy and security, all work must be done on a local copy of my website using Local WP or XAMPP. I will provide a backup of the site. No access to the live site will be given until the work is complete and approved.
+
+Before the work starts, you must send me a screenshot of my website running in Local WP or XAMPP. The screenshot must show the program window and the local address (e.g. mysite.local or localhost/...).
+The project starts only after I confirm that the site is running correctly in one of these programs.
+I may ask for more screenshots or a short screen recording during the work to confirm it is still being done locally.
+When the work is done, you will hand over the finished files or a migration package, and we will move the changes to the live site together.
+
+Bids that do not accept this condition will not be considered.</description></item>
 <item><title>Shopify Xero Setup Expert</title><link>https://www.freelancer.com/projects/accounting/Shopify-Xero-Setup-Expert</link><guid isPermaLink="false">freelancer:40816673</guid><pubDate>Fri, 13 Nov 2026 13:59:26 GMT</pubDate><description>18-36 GBP/hr | This is for a British brand and based on UK tax and accounting requirements. I’m launching a brand-new Shopify store for kids TV show merch that will sell physical products via partners like Gelato and Printful, and I want every sale to land in Xero automatically—complete with its payment, customer invoice, shipping charge, refund (if any), and tax breakdown.  
 
 Here’s what I need from you: help me continue my Shopify storefront build, configure shipping rates and payment gateways, and then connect the store to Xero so the data above flows into the correct accounts without manual intervention. Product stock tracking can stay inside Shopify; the focus is on the financial side.
@@ -660,29 +713,7 @@ Please handle:
 • Live website build (WordPress, Webflow, or another modern platform you’re comfortable with) and hand-off with login credentials.
 
 I’ll provide brand colours, logo files, and service details once we start. Looking forward to seeing how you can bring my services to life on paper and online so potential clients feel compelled to pick up the phone or drop me a message right away.</description></item>
-<item><title>WordPress Tour Booking Website</title><link>https://www.freelancer.com/projects/website-development/WordPress-Tour-Booking-Website</link><guid isPermaLink="false">freelancer:40814144</guid><pubDate>Thu, 12 Nov 2026 00:21:52 GMT</pubDate><description>1500-3000 AUD | I need a WordPress website for Blue Mountains day tours, with a focus on online booking. 
-
-Requirements:
-- 20 pages dedicated to booking day tours
-- 100 pages featuring attractions and blogs
-
-Ideal Skills:
-- WordPress expertise
-- Experience in developing booking systems
-- Strong portfolio with similar projects
-
-Please include past work in your application.</description></item>
 <item><title>On-Call WordPress &amp; PHP Developer</title><link>https://www.freelancer.com/projects/Call-WordPress-PHP-Developer-fix</link><guid isPermaLink="false">freelancer:40814128</guid><pubDate>Thu, 12 Nov 2026 00:02:01 GMT</pubDate><description>15-25 USD/hr | On-Call Web Developer for Occasional Website Updates (WordPress &amp; Custom PHP</description></item>
-<item><title>Embedded Website Survey</title><link>https://www.freelancer.com/projects/web-development/Embedded-Website-Survey</link><guid isPermaLink="false">freelancer:40814094</guid><pubDate>Wed, 11 Nov 2026 23:28:29 GMT</pubDate><description>30-250 AUD | I need a fully-functional survey embedded into my current website. The form must collect a mix of multiple-choice and open-text responses, and it should also require each participant’s name and email address before they can submit. Once someone finishes, their answers—including the contact details—must be routed straight to my inbox in a clear, readable format; no other storage or dashboard is needed.
-
-The survey should match the look and feel of the existing site, validate required fields, and work smoothly on desktop and mobile. The design should be journey based so that it moves from one screen to the next as users complete each section. Various links will need to be created within the website so users can access the survey. 
-
-Deliverables:  
-• Responsive multi-page survey created.  
-• Server-side script (or equivalent) that emails the completed response set to an assigned email instantly  
-• Update various website pages so they link to new survey.
-
-Attached is the scope of work &amp; survey questions. The survey is 4 pages in total.</description></item>
 <item><title>WordPress Page Editing Tutorial</title><link>https://www.freelancer.com/projects/css/WordPress-Page-Editing-Tutorial</link><guid isPermaLink="false">freelancer:40813726</guid><pubDate>Wed, 11 Nov 2026 17:27:56 GMT</pubDate><description>10-15 GBP/hr | My WordPress site is live and healthy, but I’m stuck on one simple thing—editing the content. I’d like a step-by-step lesson focused specifically on updating pages and text. The site was set up with a page builder (Elementor or possibly WPBakery—whichever is active), so the training needs to happen inside that interface rather than the default block editor.  
 
 Here’s what I’m aiming for:  
