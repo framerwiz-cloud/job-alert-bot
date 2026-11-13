@@ -194,52 +194,6 @@ How to Apply
 - Your estimated availability.
 
 Please note: Only applicants currently based in the United States who include a resume and portfolio will be considered.</description></item>
-<item><title>Spa Email Automation Setup</title><link>https://www.freelancer.com/projects/woocommerce/Spa-Email-Automation-Setup</link><guid isPermaLink="false">freelancer:40816675</guid><pubDate>Fri, 13 Nov 2026 14:01:42 GMT</pubDate><description>750-1500 USD | Email marketing setup for a spa &amp; aromatherapy business (WordPress + WooCommerce)
-
-I run a spa and aromatherapy business in Austin, TX. My website is built on WordPress and has a WooCommerce shop and online booking. I need an email marketing system that brings clients back.
-
-What needs to be done:
-
-Newsletter signup
-Add a signup form to the site: a popup or slide-in plus a form in the footer, mobile-friendly
-Offer a discount on the first visit as the incentive, with a unique or single-use coupon code
-Use Mailchimp or MailPoet, depending on what you recommend for my setup
-Make the form GDPR/CAN-SPAM compliant, with double opt-in if recommended
-Automated emails
-Welcome email with the first-visit discount code
-Appointment reminder 24 hours before the booking
-Review request after the visit, linking to my Google Business Profile
-Rebooking reminder about 30 days after the visit, suggesting the client book the treatment again
-Optional: abandoned cart email for WooCommerce product orders
-Integration
-Connect WooCommerce and the booking plugin to the email platform so clients and their visits sync automatically
-Tag or segment contacts, e.g. “booked a massage”, “bought products”, “newsletter only”
-Design
-Simple, clean email templates in my brand style (calm, natural, spa feel)
-Templates I can easily edit myself later
-
-Deliverables:
-
-A working signup form on the site
-4–5 automated emails, set up and tested
-A short video or written guide on how to edit the emails and see subscribers
-
-Requirements:
-
-Experience with WordPress, WooCommerce and Mailchimp or MailPoet automations
-Examples of similar work, ideally for spas, salons or other local service businesses
-Good English communication
-
-Mandatory requirement: local development only
-
-For privacy and security, all work must be done on a local copy of my website using Local WP or XAMPP. I will provide a backup of the site. No access to the live site will be given until the work is complete and approved.
-
-Before the work starts, you must send me a screenshot of my website running in Local WP or XAMPP. The screenshot must show the program window and the local address (e.g. mysite.local or localhost/...).
-The project starts only after I confirm that the site is running correctly in one of these programs.
-I may ask for more screenshots or a short screen recording during the work to confirm it is still being done locally.
-When the work is done, you will hand over the finished files or a migration package, and we will move the changes to the live site together.
-
-Bids that do not accept this condition will not be considered.</description></item>
 <item><title>Shopify Xero Setup Expert</title><link>https://www.freelancer.com/projects/accounting/Shopify-Xero-Setup-Expert</link><guid isPermaLink="false">freelancer:40816673</guid><pubDate>Fri, 13 Nov 2026 13:59:26 GMT</pubDate><description>18-36 GBP/hr | This is for a British brand and based on UK tax and accounting requirements. I’m launching a brand-new Shopify store for kids TV show merch that will sell physical products via partners like Gelato and Printful, and I want every sale to land in Xero automatically—complete with its payment, customer invoice, shipping charge, refund (if any), and tax breakdown.  Here’s what I need from you: help me continue my Shopify storefront build, configure shipping rates and payment gateways, and then connect the store to Xero so the data above flows into the correct accounts without manual intervention. Product stock tracking can stay inside Shopify; the focus is on the financial side. You’ll decide whether the native Shopify-Xero app, A2X, Synder, or another connector is the best fit, map the chart of accounts, run test orders and refunds, and fine-tune tax settings for my region. When everything reconciles cleanly, hand over concise documentation so I can maintain the workflow myself. Deliverables   • Live Shopify store ready for launch   • Fully tested Xero integration covering sales, payments, customer invoices, shipping, refunds, and taxes   • Handover notes outlining connector used, account mappings, and troubleshooting tips   Acceptance criteria   • A test order appears in Xero as a paid invoice with correct tax and shipping lines   • A refund syncs back accurately   • Daily reconciliation matches Shopify Payments payout reports   I would like to get it online before the end of November. It is for a kids TV show's branded merch and I am looking for UK consultants only. This is an existing business but would like only people who have strong experience in VAT and can provide the correct advice on setup.</description></item>
 <item><title>Build Luxury Shopify Skincare Storefront</title><link>https://www.freelancer.com/projects/shopify-development/Build-Luxury-Shopify-Skincare-Storefront</link><guid isPermaLink="false">freelancer:40816539</guid><pubDate>Fri, 13 Nov 2026 12:02:58 GMT</pubDate><description>30-250 USD | I need a designer-developer to take a fresh Shopify account and turn it into a polished, luxury skincare storefront. The build must include a fully customised Home page that instantly conveys an upscale, spa-quality feel, a Shop section with clean collection navigation, individual Product pages ready for me to upload images and descriptions, and a Contact page with an easy-to-use form.
 
@@ -789,6 +743,85 @@ Please share your previous website development projects, portfolio, estimated co
 We prefer original designs rather than copied templates. Good communication and attention to detail are essential.
 
 **Our goal:** Build a visually impressive, high-performance, SEO-friendly website that creates a strong brand identity and generates genuine business enquiries.</description></item>
+<item><title>Build a Wix Seminary Ecosystem</title><link>https://www.freelancer.com/projects/wix/Build-Wix-Seminary-Ecosystem</link><guid isPermaLink="false">freelancer:40814324</guid><pubDate>Thu, 12 Nov 2026 03:36:25 GMT</pubDate><description>250-750 USD | Wix Developer Needed, Spiritual Seminary and University Ecosystem
+Rebuild of ForestTherapeutics.us on Wix
+
+Project Overview
+
+I am seeking an experienced Wix developer and designer to rebuild my current GoDaddy website www.foresttherapeutics.us on Wix. This is not a simple business website. It is an online educational and spiritual ecosystem, a seminary and a university devoted to earth based spirituality, nature and elemental wisdom, Christ Consciousness as an inner frequency, and embodied personal transformation. The site serves as an educational institution, an online university, a digital course platform, an ecommerce store, a booking platform, a media center, and a public doorway into my wider community and coursework.
+The overall feel should be professional, educational, spiritual, and nature focused, welcoming and easy to navigate, fully mobile friendly, and strongly optimized for search. My current GoDaddy site has suffered persistent indexing and visibility problems, broken links, and outages, and curing that is a central reason for the move.
+
+The Governing Principle, Build the House and I Will Arrange the Furniture
+
+I will retain full owner control of the finished site. I manage, edit, and update it myself after launch, and I add, change, or remove features as my needs grow. For this reason the build must rest on standard, native Wix features and the Wix Editor wherever possible, rather than on locked custom code that only a developer can maintain. Think of this as building the house and setting every room in working order. I will arrange and rearrange the furniture myself. Ease of owner management after launch is a true requirement, and any custom work must be documented plainly so I can maintain it on my own.
+
+The Platform Architecture, Three Houses That Work Together
+
+My ecosystem lives across three connected platforms, and understanding this division is essential so that nothing is rebuilt that already lives elsewhere. Wix is the public house, holding the website, the storefront, the booking system, the public events, the media center, the blog, and the search presence, and it carries clean doorways into the other two. This is the house being built in this project. WithMe is the inner house, already built and staying in place, where my private member community, my membership tiers, my member only live classes, and my student coaching already live, so Wix links out to WithMe and does not rebuild community or memberships. SkillSpring is the classroom, holding my structured coursework, student tracking, and certificates, which I administer myself, so Wix integrates and links to SkillSpring but does not build the coursework. All paid functions run through Stripe. 
+
+Scope of Work
+
+1. Full Website Rebuild
+Recreate and improve the current website on Wix, with stronger navigation, a cleaner site architecture, faster load speed, and full mobile responsiveness.
+
+2. University and Seminary Structure
+Present my multiple educational divisions clearly, each with its own pages, descriptions, enrollment information, and curriculum overview. These include my digital university, my correspondence by mail school, my courses on sovereign technology and analog living, and my certification and future degree programs.
+
+3. Ecommerce Store
+A robust Wix store carrying digital products such as course downloads, PDFs, e-books, and recorded workshops, membership and subscription products where they are introduced, and physical products such as ritual tools, apothecary supplies, books, and educational materials. The store runs on Stripe.
+
+4. Dropshipping Integration
+My physical supplies are dropshipped through AzureGreen. The store should support physical listings, inventory, order fulfillment, and shipping calculation, and I welcome your recommendation for the cleanest Wix compatible dropshipping workflow. I will provide my product files.
+
+5. Booking and Appointment System
+Using Wix Bookings, online scheduling with payment, confirmations, and reminders for my public services and classes, including in person sessions and online sessions that use the native Zoom connection.
+
+6. Events and Ticketing
+Using Wix Events, the ability to create events, sell tickets, and host online events for public workshops and gatherings, with online events using the native Zoom connection.
+
+7. Media Center
+A searchable, organized media area for podcast and television appearances, interviews, articles, publications, and speaking engagements.
+
+8. Blog
+A robust, search friendly blog with categories across spirituality, earth based wisdom, ecology, community updates, and courses and events.
+
+9. Video Hosting
+Using native Wix video, host or embed recorded teaching and marketing videos, with the ability to protect certain videos behind member access where needed.
+
+10. File Hosting and Protected Downloads
+Secure hosting for PDFs, handouts, worksheets, and student materials, with some downloads restricted by access level. Preferably on Wix or my current LMS SkillSpring.
+
+11. Email Automation
+Using native Wix automation, set up welcome and gift delivery sequences for new subscribers, enrollment sequences for new students, reminders for participants and appointments, and access instructions for purchases.
+
+12. SEO Setup
+Complete search optimization, including Google Search Console, sitemap creation and submission, Google Business Profile integration, metadata and image optimization, mobile optimization, and indexing verification. Curing my current indexing failures is a priority outcome.
+
+13. Domain Connection or Transfer
+Assistance connecting my primary domain, ForestTherapeutics.us, to the new Wix site, with guidance on whether to transfer the registration or simply point it to Wix.
+
+14. Content Migration
+Guidance and help migrating my text, images, PDFs, videos, courses, blog posts, store products, and SEO assets from GoDaddy to Wix, understanding this is a rebuild rather than an automatic transfer.
+
+What Is Out of Scope
+To keep the project lean and clear, the following are not part of this build and are only integrated or linked. The member community and the membership tiers, which live on WithMe. The structured coursework and certificates, which live in SkillSpring. And PayPal, which is not used anywhere.
+
+Phased Delivery
+I would welcome the build delivered in sensible phases, so that a clean and beautiful landing and enrollment doorway can open first while the deeper architecture rises behind it, followed by the store and membership links, the SkillSpring integration and gated areas, the bookings and events, and finally the automations, the full SEO setup, and the content migration. I welcome your proposed phase plan and an honest timeline for each stage.
+
+What I Will Provide
+I will provide all of my written content, my images and logos, my brand colors and aesthetic direction, my product files, and the access the work requires. My aesthetic is earthy, natural, elegant, grounded, and gently mystical, drawing on warm earth tones, goldenrod and forest greens, and vintage woodcut and old world apothecary accents, with a timeless, literary feeling.
+
+Who I Am Looking For
+I am looking for a developer who has built complex Wix ecosystems before, not only simple business sites, and who is comfortable with Wix Stores, Wix Bookings, Wix Events, Wix automations, SEO setup, and integrations with outside platforms such as SkillSpring or other LMS and Stripe. Clear communication, honest timelines, and a willingness to leave me in full control of my own site afterward matter as much to me as technical skill.
+
+This is not a simple business website. It is an online educational and spiritual ecosystem consisting of a seminary, a digital university, a membership community, an ecommerce store, a media center, and a student platform. Experience building complex Wix ecosystems is strongly preferred.
+
+How to Apply
+
+In your proposal, please tell me briefly about Wix ecosystems you have built, confirm your experience with Wix Stores, Bookings, Events, and outside integrations such as SkillSpring, Moodle and Stripe, share your proposed phase plan and a realistic timeline, and outline how you structure milestones and payment.
+
+I look forward to building something beautiful and lasting together.</description></item>
 <item><title>On-Call WordPress &amp; PHP Developer</title><link>https://www.freelancer.com/projects/Call-WordPress-PHP-Developer-fix</link><guid isPermaLink="false">freelancer:40814128</guid><pubDate>Thu, 12 Nov 2026 00:02:01 GMT</pubDate><description>15-25 USD/hr | On-Call Web Developer for Occasional Website Updates (WordPress &amp; Custom PHP</description></item>
 <item><title>WordPress Page Editing Tutorial</title><link>https://www.freelancer.com/projects/css/WordPress-Page-Editing-Tutorial</link><guid isPermaLink="false">freelancer:40813726</guid><pubDate>Wed, 11 Nov 2026 17:27:56 GMT</pubDate><description>10-15 GBP/hr | My WordPress site is live and healthy, but I’m stuck on one simple thing—editing the content. I’d like a step-by-step lesson focused specifically on updating pages and text. The site was set up with a page builder (Elementor or possibly WPBakery—whichever is active), so the training needs to happen inside that interface rather than the default block editor.  
 
