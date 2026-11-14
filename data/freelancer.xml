@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Vacation Rental Website &amp; Guesty Integration</title><link>https://www.freelancer.com/projects/web-development/Vacation-Rental-Website-Guesty</link><guid isPermaLink="false">freelancer:40817472</guid><pubDate>Sat, 14 Nov 2026 05:25:57 GMT</pubDate><description>250-750 USD | I run several short–term rentals through Guesty and I’m ready to pull everything into one polished, conversion-focused website. The goal is simple: give visitors the choice to book directly through my Guesty checkout or jump over to the corresponding Airbnb or Vrbo listing—whichever they prefer.
+
+Structure &amp; flow  
+Each property will live on its own page and needs to surface every detail a traveller looks for. That includes:
+
+• Photos, full description, amenity list, and an interactive location map  
+• Live availability calendar, nightly rates, and any booking rules coming straight from Guesty  
+• Guest reviews, nearby attractions, and a downloadable/online house guide
+
+When a guest clicks “Book Now” the site should open the Guesty booking page in the same window or a new tab (whichever you recommend for best UX). Clear “View on Airbnb” and “View on Vrbo” buttons must sit beside it.
+
+Technical expectations  
+– Pull or embed real-time data from Guesty so calendars and prices stay in sync.  
+– Clean, responsive design that looks great on mobile first.  
+– Fast page loads, basic on-page SEO setup, and simple content management so I can add new properties myself.  
+– Analytics ready (Google Analytics / GA4).
+
+Launch is signed off when:  
+1. All property pages display the elements listed above accurately.  
+2. Guesty checkout opens and completes a test reservation without errors.  
+3. Airbnb and Vrbo buttons link to the correct external listings.  
+4. Site passes a mobile-friendly test and core pages load under three seconds on a standard connection.
+
+I’m flexible on the platform—WordPress with a solid theme, Webflow, or another CMS you’re confident in—as long as future edits remain straightforward. Share a couple of similar rental sites you’ve built and outline how you would tackle the Guesty connection, and we can get started.</description></item>
 <item><title>Shopify Store for Digital Courses</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-for-Digital-Courses</link><guid isPermaLink="false">freelancer:40817351</guid><pubDate>Sat, 14 Nov 2026 02:47:56 GMT</pubDate><description>1500-3000 USD | I'm seeking an experienced Shopify developer to create a digital product store. The main products will be courses, videos, and audio files. 
 
 Key Requirements:
@@ -692,26 +716,6 @@ Deliverables
 • Launch campaign plan covering social media and email, with copy and graphics ready to deploy  
 
 Everything should be tested end-to-end before handoff so that the moment we go live, visitors can browse, buy and instantly receive their downloads or course access.</description></item>
-<item><title>Driving School Website Refresh</title><link>https://www.freelancer.com/projects/web-design/Driving-School-Website-Refresh-40815001</link><guid isPermaLink="false">freelancer:40815001</guid><pubDate>Thu, 12 Nov 2026 12:17:38 GMT</pubDate><description>250-750 GBP | The current site, drive2pass.biz, represents a small independent driving school covering Ruislip, Harrow, Uxbridge, Wembley and the surrounding 5-7 mile radius. It now feels dated and no longer meets modern Google-search expectations, so I want to refresh it end-to-end while keeping the existing telephone-first booking flow.
-
-What needs to happen  
-• Re-design pages so the first clear action is to call or message to book driving lessons.  
-• Replace or edit copy to reflect updated lesson prices, new teaching areas and any AI-inspired wording that reassures visitors we are up to date.  
-• Optimise every page for current Google guidelines (Core Web Vitals, structured data, local SEO, on-page schema).  
-• Integrate the new photographs I will supply and remove images that no longer serve us.  
-• Retain the current (simple) booking system; no online payments or e-commerce changes are needed.
-
-Acceptance criteria  
-– A fully deployed, mobile-responsive site that passes Google PageSpeed Insights for both mobile and desktop.  
-– Clear click-to-call / WhatsApp / email buttons above the fold on every primary landing page.  
-– Updated price table and coverage map accurate to the postcodes we serve.  
-– All meta titles, descriptions and alt tags populated, with local keywords Ruislip, Harrow, Uxbridge and Wembley naturally woven into copy.  
-
-Timing  
-I would like everything wrapped up within four weeks of project start, including review rounds.
-
-When you apply  
-Send a detailed project proposal outlining your approach to design, content migration, SEO tuning and testing. Links to relevant past work are welcome if they illustrate similar small-business upgrades, but the proposal itself is essential so I can see how you plan to meet the brief. I will need to retain full ownership of the website and all content going forward and will need to be able to access it and update it myself going forward.</description></item>
 <item><title>Premium Business Website Design &amp; Development</title><link>https://www.freelancer.com/projects/css/Premium-Business-Website-Design</link><guid isPermaLink="false">freelancer:40814733</guid><pubDate>Thu, 12 Nov 2026 09:01:57 GMT</pubDate><description>15-25 USD/hr | # Professional Website Design &amp; Development – Modern Business Website
 
 We are looking for an experienced and creative Website Designer &amp; Developer to design and develop a modern, attractive, responsive, and professional business website.
