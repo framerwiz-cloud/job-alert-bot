@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Security, Backup &amp; Analytics Setup</title><link>https://www.freelancer.com/projects/wordpress-security/WordPress-Security-Backup-Analytics</link><guid isPermaLink="false">freelancer:40817790</guid><pubDate>Sat, 14 Nov 2026 10:39:23 GMT</pubDate><description>3000-5000 USD | WordPress  technical setup for a site/aromatherapy website
+
+What I need:
+• Update WordPress core, theme and all plugins to the latest stable versions; check that nothing breaks after updating.
+• Audit installed plugins, remove unused/duplicate ones, and give me a short list of what was removed and why.
+• Set up automatic backups with UpdraftPlus (daily database, weekly files) stored off-site (Google Drive or Dropbox), and test one restore.
+• Install and configure a security plugin (Wordfence or Solid Security): firewall, login protection / limit login attempts, 2FA for admin, malware scan.
+• Connect Google Analytics 4 and Google Search Console: verify the site, submit the sitemap, and set up basic GA4 events (booking/contact button clicks, form submissions).
+• Accessibility check and fixes: text contrast, missing alt text on images, tap target size for buttons on mobile.
+
+Deliverables:
+• A short report (Google Doc or PDF) with what was done, plugin list before/after, and logins/settings I need to know.
+• Screenshots of working backups, security settings, and GA4/Search Console connected.
+
+Requirements:
+• Proven WordPress experience (please share 2–3 similar jobs).
+• Make a full backup before any changes.
+• No new paid plugins without my approval.
+
+Please include your price, timeline, and any questions in your bid.</description></item>
 <item><title>Full-Feature SMM Panel Build</title><link>https://www.freelancer.com/projects/laravel/Full-Feature-SMM-Panel-Build</link><guid isPermaLink="false">freelancer:40817711</guid><pubDate>Sat, 14 Nov 2026 09:08:23 GMT</pubDate><description>30-250 USD | I am ready to commission a complete, production-ready SMM panel and website built from scratch. Prior hands-on experience with Perfect Panel or similar systems is non-negotiable; please include verifiable links or screenshots of past panels you have developed.
 
 Scope  
@@ -736,19 +756,6 @@ Deliverables the first month:
 Ongoing: the same checks each month, rapid fixes within 24 hours when something breaks, and a brief monthly summary of work completed.
 
 If this fits your expertise and you’re available for consistent weekly / monthly touch-points, I’d like to hear how you normally structure maintenance and monitoring.</description></item>
-<item><title>Logo and Website Duplication</title><link>https://www.freelancer.com/projects/web-development/Logo-Website-Duplication</link><guid isPermaLink="false">freelancer:40815115</guid><pubDate>Thu, 12 Nov 2026 13:58:03 GMT</pubDate><description>250-750 AUD | I need a freelancer to create my logo and website. The logo is already designed, I need it copied very closely. 
-
-Key Requirements:
-- Replicate the provided logo design exactly
-- Create a website that matches the logo design
-- Open to suggestions for improvements
-
-Ideal Skills and Experience:
-- Strong graphic design skills
-- Experience in website development
-- Ability to follow existing designs accurately
-
-Please provide samples of previous work.</description></item>
 <item><title>Premium Business Website Design &amp; Development</title><link>https://www.freelancer.com/projects/css/Premium-Business-Website-Design</link><guid isPermaLink="false">freelancer:40814733</guid><pubDate>Thu, 12 Nov 2026 09:01:57 GMT</pubDate><description>15-25 USD/hr | # Professional Website Design &amp; Development – Modern Business Website
 
 We are looking for an experienced and creative Website Designer &amp; Developer to design and develop a modern, attractive, responsive, and professional business website.
