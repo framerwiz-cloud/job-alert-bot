@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full-Feature SMM Panel Build</title><link>https://www.freelancer.com/projects/laravel/Full-Feature-SMM-Panel-Build</link><guid isPermaLink="false">freelancer:40817711</guid><pubDate>Sat, 14 Nov 2026 09:08:23 GMT</pubDate><description>30-250 USD | I am ready to commission a complete, production-ready SMM panel and website built from scratch. Prior hands-on experience with Perfect Panel or similar systems is non-negotiable; please include verifiable links or screenshots of past panels you have developed.
+
+Scope  
+The panel must allow customers to register, add funds through multiple gateways, place orders, track status, review their order history, and connect via a documented JSON API so resellers can integrate the services into their own sites. An admin dashboard is required for service management, pricing, user accounts, ticketing, and detailed logs.
+
+Tech &amp; Performance Expectations  
+I am open to PHP/Laravel or Node-based stacks backed by MySQL/PostgreSQL and Redis (or your proven alternative) as long as the finished site is secure, scalable, and loads in under two seconds on key pages. A clean, responsive UI built with Bootstrap or Tailwind is essential, and the code should live in a private Git repository with clear setup instructions.
+
+Deliverables  
+• Fully deployed site on my server and domain  
+• Source code in Git with documentation  
+• Video walkthrough of key workflows  
+
+Acceptance Criteria  
+– All customer functions (sign-up, funding, ordering, tracking) work flawlessly  
+– API returns correct data and passes integration tests  
+– Payment gateways process test transactions end-to-end  
+– Admin panel features operate without errors  
+
+If you meet the experience requirement and can outline a concise timeline, I am ready to move quickly.</description></item>
 <item><title>Squarespace–Brevo Signup Integration</title><link>https://www.freelancer.com/projects/api/Squarespace-Brevo-Signup-Integration</link><guid isPermaLink="false">freelancer:40817643</guid><pubDate>Sat, 14 Nov 2026 08:01:23 GMT</pubDate><description>25-50 AUD/hr | I’m using a custom signup form on my Squarespace site that captures a visitor’s email address only, and I need that form to feed directly into a single mailing list in my Brevo (Sendinblue) account. Nothing fancy—no branching logic, no extra fields, just a clean hand-off so every submission lands in the correct list instantly.
 
 You’re welcome to approach this with the Brevo API, a Squarespace code injection, or a lightweight intermediary like Zapier—whatever achieves a reliable, real-time connection without slowing down page load. Once the link is live, I’ll test the form myself; if each new email shows up in the chosen Brevo list, the job is done.
@@ -729,18 +749,6 @@ Ideal Skills and Experience:
 - Ability to follow existing designs accurately
 
 Please provide samples of previous work.</description></item>
-<item><title>Build Reusable GoHighLevel Templates</title><link>https://www.freelancer.com/projects/go-high-level/Build-Reusable-GoHighLevel-Templates</link><guid isPermaLink="false">freelancer:40815084</guid><pubDate>Thu, 12 Nov 2026 13:37:52 GMT</pubDate><description>750-1500 USD | I already have polished page designs in adobe and want them in my GoHighLevel account—I now need them turned into working, reusable templates. Please take the existing desktop mock-ups for the Home, About, Contact, service-oriented landing pages, and our product collection and detail pages, recreate them in the GoHighLevel builder, and then break the work into clearly named reusable sections.  
-
-Here’s what I’m after:
-
-• Every page listed above should exist as a full template I can clone.  
-• Inside each, save separate header, hero, feature, testimonial, pricing, and CTA blocks so my team can drop in new copy or images without touching layout.  
-• Product and service page layouts should also be stored as stand-alone assets for quick duplication.  
-• The desktop designs need a responsive pass—please adapt each component for phone view so nothing breaks on smaller screens.  
-
-When you’re done I should be able to spin up a brand-new page, choose any of these saved elements, and populate copy in minutes. Let me know your timeline and any clarifications you need on naming conventions or access.
-
-There are approximately 20 different templated pages.</description></item>
 <item><title>Premium Business Website Design &amp; Development</title><link>https://www.freelancer.com/projects/css/Premium-Business-Website-Design</link><guid isPermaLink="false">freelancer:40814733</guid><pubDate>Thu, 12 Nov 2026 09:01:57 GMT</pubDate><description>15-25 USD/hr | # Professional Website Design &amp; Development – Modern Business Website
 
 We are looking for an experienced and creative Website Designer &amp; Developer to design and develop a modern, attractive, responsive, and professional business website.
