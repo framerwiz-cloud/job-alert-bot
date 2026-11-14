@@ -74,36 +74,6 @@ Ideal Skills and Experience:
 - Familiarity with server management and DNS settings
 
 Please provide examples of similar work done.</description></item>
-<item><title>WordPress Security, Backup &amp; Analytics Setup</title><link>https://www.freelancer.com/projects/wordpress-security/WordPress-Security-Backup-Analytics</link><guid isPermaLink="false">freelancer:40817790</guid><pubDate>Sat, 14 Nov 2026 10:57:52 GMT</pubDate><description>3000-5000 USD | WordPress technical setup for a site/aromatherapy website
-
-What I need:
-• Update WordPress core, theme and all plugins to the latest stable versions; check that nothing breaks after updating.
-• Audit installed plugins, remove unused/duplicate ones, and give me a short list of what was removed and why.
-• Set up automatic backups with UpdraftPlus (daily database, weekly files) stored off-site (Google Drive or Dropbox), and test one restore.
-• Install and configure a security plugin (Wordfence or Solid Security): firewall, login protection / limit login attempts, 2FA for admin, malware scan.
-• Connect Google Analytics 4 and Google Search Console: verify the site, submit the sitemap, and set up basic GA4 events (booking/contact button clicks, form submissions).
-• Accessibility check and fixes: text contrast, missing alt text on images, tap target size for buttons on mobile.
-
-Additional Requirements:
-• All work must be done locally in Local WP (security requirement from my boss). The site will be shared as a Local WP export (.zip). No live URL, WP-admin, hosting/cPanel or Google account access will be provided.
-• GA4, Search Console and off-site backups should be prepared locally, with short instructions for the final connection once the site is live.
-
-Deliverables:
-• A short report (Google Doc or PDF) with what was done, plugin list before/after, and logins/settings I need to know.
-• Screenshots of working backups, security settings, and GA4/Search Console connected.
-
-Budget: $300–$600 
-Timeline: 1–2 weeks
-
-Proposals should include:
-• Fixed price
-• Timeline
-• 1–2 examples of similar maintenance work.
-
-Requirements:
-• Proven WordPress experience (please share 2–3 similar jobs).
-• Make a full backup before any changes.
-• No new paid plugins without my approval.</description></item>
 <item><title>Full-Feature SMM Panel Build</title><link>https://www.freelancer.com/projects/laravel/Full-Feature-SMM-Panel-Build</link><guid isPermaLink="false">freelancer:40817711</guid><pubDate>Sat, 14 Nov 2026 09:08:23 GMT</pubDate><description>30-250 USD | I am ready to commission a complete, production-ready SMM panel and website built from scratch. Prior hands-on experience with Perfect Panel or similar systems is non-negotiable; please include verifiable links or screenshots of past panels you have developed.
 
 Scope  
@@ -798,6 +768,16 @@ I’m happy to provide full access to the current codebase, analytics and any de
 Once the core platform performs flawlessly, I plan to move straight into on-page SEO, Facebook/Instagram ads, Google Shopping feeds and vendor acquisition campaigns—so a roadmap for how today’s work feeds tomorrow’s growth will stand out.
 
 Looking forward to reviewing your proposal and getting AfghanOutlet fully primed for scale.</description></item>
+<item><title>Fix Errors &amp; Plan UNA Migration</title><link>https://www.freelancer.com/projects/web-development/Fix-Errors-Plan-UNA-Migration</link><guid isPermaLink="false">freelancer:40815217</guid><pubDate>Thu, 12 Nov 2026 15:42:16 GMT</pubDate><description>250-750 USD | My community site is misbehaving in a few critical areas and I need someone to step in quickly. Right now several pages and key features have stopped working: user profiles won’t load correctly, messaging and notifications throw sporadic errors, and even the admin dashboard—especially content posting and the search function—acts up.  
+
+The first milestone is to stabilise the existing code-base: trace the root causes, clean up the bugs, and return every affected section to full functionality. Once the platform is solid again, I’d like a concise, actionable roadmap for moving the whole site to the UNA platform. That plan should outline each step, estimate effort, highlight possible data-migration hurdles, and flag any third-party modules that might need replacements or custom builds.  
+
+Deliverables  
+• Fully functional current site (profiles, messaging/notifications, admin content tools, search)  
+• Technical report summarising what was fixed and how  
+• Migration blueprint to UNA with timelines, resource estimates, and risk mitigation notes  
+
+I’ll give server and code access as soon as we start. Familiarity with PHP, MySQL, and UNA’s architecture will be a clear advantage. If this sounds like a smooth fit, let’s get the fixes done and map out the next chapter for the site.</description></item>
 <item><title>Premium Business Website Design &amp; Development</title><link>https://www.freelancer.com/projects/css/Premium-Business-Website-Design</link><guid isPermaLink="false">freelancer:40814733</guid><pubDate>Thu, 12 Nov 2026 09:01:57 GMT</pubDate><description>15-25 USD/hr | # Professional Website Design &amp; Development – Modern Business Website
 
 We are looking for an experienced and creative Website Designer &amp; Developer to design and develop a modern, attractive, responsive, and professional business website.
