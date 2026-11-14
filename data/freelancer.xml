@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Bulk Stock Update</title><link>https://www.freelancer.com/projects/data-entry/WooCommerce-Bulk-Stock-Update</link><guid isPermaLink="false">freelancer:40817497</guid><pubDate>Sat, 14 Nov 2026 05:58:29 GMT</pubDate><description>8-15 USD/hr | I have a fresh spreadsheet that lists each product by name alongside its current stock quantity. The job is simple but accuracy-critical: convert this sheet into a format WooCommerce will accept and import it so every item shows the correct stock count.
+
+Key points  
+• Platform: WooCommerce – no other storefronts involved.  
+• Update method: one-time spreadsheet upload via the built-in CSV importer or a trusted plugin of your choice.  
+• Matching field: product name (SKUs are not present), so a quick eye on spelling variations or duplicates will be needed before import.
+
+Deliverable  
+• A successfully uploaded file with visible, correct stock levels in the WooCommerce dashboard.  
+• A short note outlining any names you had to correct or products that didn’t match and how you resolved them.
+
+If you’ve handled CSV or Excel bulk updates for WooCommerce before, this should be a quick win.</description></item>
 <item><title>Vacation Rental Website &amp; Guesty Integration</title><link>https://www.freelancer.com/projects/web-development/Vacation-Rental-Website-Guesty</link><guid isPermaLink="false">freelancer:40817472</guid><pubDate>Sat, 14 Nov 2026 05:25:57 GMT</pubDate><description>250-750 USD | I run several short–term rentals through Guesty and I’m ready to pull everything into one polished, conversion-focused website. The goal is simple: give visitors the choice to book directly through my Guesty checkout or jump over to the corresponding Airbnb or Vrbo listing—whichever they prefer.
 
 Structure &amp; flow  
