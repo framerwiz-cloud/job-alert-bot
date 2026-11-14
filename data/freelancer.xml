@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clone WordPress Design to Shopify - ONLY homepage and a product page initially</title><link>https://www.freelancer.com/projects/shopify-site/Clone-WordPress-Design-Shopify-ONLY</link><guid isPermaLink="false">freelancer:40818278</guid><pubDate>Sat, 14 Nov 2026 19:00:53 GMT</pubDate><description>15-25 USD/hr | I need a Shopify developer who can take the exact look-and-feel of my current WordPress e-commerce site and rebuild it on Shopify. This means every layout element, colour, font, banner, and page structure must match the original so the brand experience feels identical to returning customers.  
+
+Alongside the visual clone, the store must include a fully functioning BTA Appointment Booking App setup. Customers should be able to pick an available time slot for our service, complete checkout, and receive the usual confirmation emails—no other booking scenarios are required.  
+
+Scope of work  
+• Create or customise a Shopify theme so all existing pages (home, service overview, about, FAQs, contact, etc.) look and behave the same as on WordPress.  
+• Install and configure the BTA Appointment Booking App, connect it to our calendar, define service durations, buffers, and any blackout dates, and style its widgets to match the theme.  
+• Set up navigation, footer links, and any necessary metafields so page content remains easy for my team to edit later.  
+• Ensure responsive behaviour across mobile, tablet, and desktop.  
+• Test the complete booking flow—from selecting a time slot to final confirmation—and fix any edge-case issues before hand-over.  
+
+Acceptance criteria  
+1. Visual parity with the current WordPress site when both are opened side by side.  
+2. Booking a time slot for our service can be completed end-to-end without errors.  
+3. All pages load quickly and pass Shopify’s theme check without critical warnings.  
+
+Please let me know your estimated timeline and any past examples where you have mirrored a design or integrated a booking app on Shopify.
+
+-- 
+
+Initially I would like a quote for just moving the homepage and a course page. Contact me with your experience and I'll send you the URL</description></item>
 <item><title>Looking for a UI/UX Designer – Real Estate Platform</title><link>https://www.freelancer.com/projects/ui-design/Looking-for-Designer-Real-Estate</link><guid isPermaLink="false">freelancer:40818167</guid><pubDate>Sat, 14 Nov 2026 17:49:56 GMT</pubDate><description>15-25 USD/hr | I'm looking for an experienced UI/UX Designer to help improve an existing real estate rental and investment platform.
 
 Phase 1 development is complete, and I have a working test version ready for review. Based on initial user feedback, some parts of the interface feel too visually heavy, so I'd like to simplify the design and improve the overall user experience.
