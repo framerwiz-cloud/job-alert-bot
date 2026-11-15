@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Convert Web Prototype to Mobile</title><link>https://www.freelancer.com/projects/api-developmet/Convert-Web-Prototype-Mobile</link><guid isPermaLink="false">freelancer:40819059</guid><pubDate>Sun, 15 Nov 2026 10:40:26 GMT</pubDate><description>250-750 GBP | I already have the core workflow of my business app running in a browser thanks to Claude; you’ll receive a working link so you can explore every screen and interaction. Now I want that same experience packaged as a fully-featured mobile application for both iPhone and Android users.
+
+Phase 1 – Core rebuild  
+• Replicate the current web flow, visuals, and logic inside a single code-base (React Native, Flutter or similar—whichever you’re fastest with).  
+• Make sure the build passes App Store and Play Store guidelines and performs smoothly on modern phones.
+
+Phase 2 – Team area  
+After a secure login, my staff must be able to:  
+• View real-time project progress.  
+• Update stages, tasks, and notes.  
+• Add progress entries that can include text, photos, and documents.  
+
+Clean, cloud-hosted APIs or a lightweight backend of your choice can power these updates; I’m happy to discuss the tech you prefer as long as data sync is reliable.
+
+Acceptance criteria  
+1. The published iOS and Android apps mirror all current web functions.  
+2. Authenticated team members can perform the three update actions above, with changes reflected instantly for all users.  
+3. Source code, build instructions, and a short hand-off video are delivered on project completion.
+
+If this sounds like a build you can move on quickly, let’s schedule a brief call so you can look at the prototype link and outline your timeline.</description></item>
 <item><title>Real Estate &amp; Loan Landing</title><link>https://www.freelancer.com/projects/web-design/Real-Estate-Loan-Landing</link><guid isPermaLink="false">freelancer:40818828</guid><pubDate>Sun, 15 Nov 2026 06:48:45 GMT</pubDate><description>250-750 USD | The purpose of this landing page is to sign up real estate agents.Loan officers insurance agents , lawyers for the upcoming launch of Domura Technologies Group  Mls  these lenders will have unlimited access to qualified buyers.No marketing needed for the real estate agents or any of the other professionals Domura Technologies Group  is a full infrastructure platform?\nBut this is just for the sign.Up to be notified to be the first to have access to unlimited buyers
 
 The form needs these fields: full name, phone number, email address, and company name (whether they’re a real-estate agency or a loan firm). Nothing more, nothing less, but the layout should make it easy to add or hide a field later.  
@@ -787,17 +807,6 @@ Ideal Skills &amp; Experience:
 - Social media integration and promotion strategies
 
 Please include detailed project proposals in your application.</description></item>
-<item><title>TikTok Shop Setup for Physical Products</title><link>https://www.freelancer.com/projects/tiktok/TikTok-Shop-Setup-for-Physical</link><guid isPermaLink="false">freelancer:40815370</guid><pubDate>Thu, 12 Nov 2026 17:09:28 GMT</pubDate><description>250-750 USD | I need help setting up my TikTok Shop to sell physical products. The shop will be registered in the United States.
-
-Tasks include:  
-- Creating and verifying the shop account  
-- Adding products, prices, photos, and descriptions  
-- Setting up shipping, returns, and payment details  
-
-Ideal skills and experience:  
-- Familiarity with TikTok Shop setup  
-- Experience in e-commerce product listing  
-- Knowledge of shipping and payment processes</description></item>
 <item><title>Premium Business Website Design &amp; Development</title><link>https://www.freelancer.com/projects/css/Premium-Business-Website-Design</link><guid isPermaLink="false">freelancer:40814733</guid><pubDate>Thu, 12 Nov 2026 09:01:57 GMT</pubDate><description>15-25 USD/hr | # Professional Website Design &amp; Development – Modern Business Website
 
 We are looking for an experienced and creative Website Designer &amp; Developer to design and develop a modern, attractive, responsive, and professional business website.
