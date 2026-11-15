@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Travel Info Website with Budget Estimator</title><link>https://www.freelancer.com/projects/web-development/Travel-Info-Website-with-Budget</link><guid isPermaLink="false">freelancer:40819075</guid><pubDate>Sun, 15 Nov 2026 10:59:25 GMT</pubDate><description>250-750 USD | I want to launch an easy-to-navigate website packed with practical facts for anyone planning a trip. Each country page will show currency details, recommended hotels, signature foods, transport options, cultural insights and a concise “places to visit” section. The first batch of destinations will be Egypt, Morocco, Mauritius, Botswana, Rwanda, Namibia, Vietnam and Malaysia, with the structure kept open so I can slot in more countries later without new development.
+
+The centrepiece is an interactive trip-cost estimator. A visitor types how many days they will stay and instantly sees a total budget in US dollars. The calculation must break the cost down into hotels, transport, food, activities and entrance fees to historical sites or museums. Costs should shift automatically when the day count changes and adapt to the price range that makes sense for the traveller; some will backpack on a shoestring, others will choose mid-range or a splash of luxury, so the logic needs to accommodate all three levels.
+
+I need a modern, responsive design that loads fast on mobile. A lightweight CMS such as WordPress (or a headless alternative if you prefer) will let me update prices, add photos and publish new country pages myself. Clean code, basic on-page SEO, Google Maps embeds and an image gallery for each destination are highly desirable.
+
+Deliverables  
+• Fully functioning responsive website with CMS setup  
+• Custom trip-cost estimator integrated and tested for the eight listed countries  
+• Clear admin guide (text or short video) showing how to edit prices, add destinations and tweak the estimator formula  
+whats app icon
+
+Once these items are in place and running smoothly, I will handle ongoing content updates; I just need the technical foundation built to the spec above.</description></item>
 <item><title>Convert Web Prototype to Mobile</title><link>https://www.freelancer.com/projects/api-developmet/Convert-Web-Prototype-Mobile</link><guid isPermaLink="false">freelancer:40819059</guid><pubDate>Sun, 15 Nov 2026 10:40:26 GMT</pubDate><description>250-750 GBP | I already have the core workflow of my business app running in a browser thanks to Claude; you’ll receive a working link so you can explore every screen and interaction. Now I want that same experience packaged as a fully-featured mobile application for both iPhone and Android users.
 
 Phase 1 – Core rebuild  
@@ -776,23 +789,6 @@ If you are comfortable handling Hostinger tools, PayPal payment processing, DNS 
 8. Do basic SEO: page titles, meta descriptions, image alt text, and Google Business Profile and Google Analytics setup.
   9 use photos taken and update range of products categorized by fabric type and linen type. If I don’t have pictures find pictures that are free use.   
 10 Hand over a short video showing how I update products and pages myself.</description></item>
-<item><title>Shopify Store for Pool Products</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Store-for-Pool-Products</link><guid isPermaLink="false">freelancer:40815434</guid><pubDate>Thu, 12 Nov 2026 18:06:32 GMT</pubDate><description>250-750 USD | I'm seeking an experienced Shopify developer to build a comprehensive store for a range of pool products. The store will feature products from suppliers who will ship directly to customers.
-
-Key Requirements:
-- Full store setup from scratch
-- Categories to include: 
-  - Pool chemicals and water-care products
-  - Pool equipment and replacement parts
-  - Pool accessories, toys, and cleaning supplies
-- Integration with suppliers for direct shipping
-
-Ideal Skills and Experience:
-- Proven experience in building Shopify stores
-- Familiarity with product categorization and supplier integration
-- Strong attention to detail and design aesthetics
-- Experience with stores that involve drop shipping
-
-Please provide samples of your previous work.</description></item>
 <item><title>Volleyball Coaching Logo &amp; Website</title><link>https://www.freelancer.com/projects/web-design/Volleyball-Coaching-Logo-Website</link><guid isPermaLink="false">freelancer:40815364</guid><pubDate>Thu, 12 Nov 2026 17:11:33 GMT</pubDate><description>15-25 USD/hr | I'm seeking a skilled designer and developer to create a logo and website for my volleyball coaching business. The site should primarily promote my clinics and team training sessions.
 
 Requirements:
