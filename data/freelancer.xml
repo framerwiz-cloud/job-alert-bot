@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Crypto-Friendly Vape E-Commerce Website</title><link>https://www.freelancer.com/projects/woocommerce/Crypto-Friendly-Vape-Commerce-Website</link><guid isPermaLink="false">freelancer:40819651</guid><pubDate>Sun, 15 Nov 2026 21:38:32 GMT</pubDate><description>250-750 CAD | I’m launching an online store focused on e-liquids and disposable vapes and I need the full website built from scratch. The storefront must be clean, mobile-responsive, and able to handle moderate traffic right away.
+
+Core functions I expect:
+• Age-gate splash screen with a simple “19+ / Yes, I’m of legal age” confirmation before anyone enters the site.  
+• Product catalogue organised by flavour and nicotine strength, each item with photos, short descriptions, and live stock levels.  
+• Checkout that lets customers pay with either cryptocurrency (BTC and ETH to start; I’m open to your suggested gateway) or Interac e-Transfer. The flow needs to mark orders as “pending” until crypto is confirmed or the e-Transfer hits my inbox, then switch to “paid” automatically.  
+• Basic order-management dashboard so I can print packing slips and update tracking numbers.  
+• SSL, SEO-friendly URLs, and speed optimisation so the pages load quickly even on mobile data.
+
+I’m flexible on platform: WooCommerce, Shopify + custom app, or a lightweight Laravel/Vue build—whichever delivers the best balance of security, cost, and ease of future updates. Just outline the plugins or APIs you’ll rely on and any licence fees so I can keep everything within the CA$100-350 budget range I’ve set aside.
+
+Deliverables
+1. Fully deployed live site on my domain and hosting.  
+2. Admin credentials with a brief video or call walking me through adding new products and updating prices.  
+3. One-week post-launch support for bug fixes or minor tweaks.
+
+If you’ve integrated crypto payments or Interac e-Transfer before, please mention the tools used and share a quick link or two. I’m ready to move ahead as soon as I find the right fit.</description></item>
 <item><title>Etsy Store Setup &amp; Product Listings</title><link>https://www.freelancer.com/projects/etsy/Etsy-Store-Setup-Product-Listings</link><guid isPermaLink="false">freelancer:40819566</guid><pubDate>Sun, 15 Nov 2026 19:40:26 GMT</pubDate><description>30-250 USD | Set up my Etsy store and list 3 products.</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
@@ -726,32 +743,6 @@ Quick and accurate communication throughout the entire booking process is also e
 I need someone who can dive into the setup, check the pixel, event tracking, and any configuration conflicts, then get the audience to reflect the real volume of visitors from my site. Once you’re done, the custom audience based on “People who visited my website”—specifically those key product pages—should update accurately and keep growing as new visitors arrive.
 
 Please let me know the steps you’d take, any diagnostics you’ll run, and how long you expect the fix to take.</description></item>
-<item><title>Complete Luxury Shopify Skincare Store</title><link>https://www.freelancer.com/projects/web-design/Complete-Luxury-Shopify-Skincare-Store</link><guid isPermaLink="false">freelancer:40815860</guid><pubDate>Fri, 13 Nov 2026 01:53:23 GMT</pubDate><description>30-250 USD | I would like to complete my Shopify store, name  LUMIÈRE SKIN LIGHT.
-
-My goal is to have a professional, elegant, luxury skincare and red-light therapy online store that is fully functional and ready to launch.
-
-The project includes:
-
-1. Complete the homepage with a clean, luxury white design.
-2. Organize the navigation menu and collections.
-3. Improve all product pages, descriptions, photos and presentation.
-4. Organize products into the correct collections.
-5. Connect and verify dropshipping suppliers.
-6. Configure shipping, returns and store policies.
-7. Review payment and checkout settings.
-8. Optimize the entire website for mobile phones.
-9. Test the shopping experience and checkout before launch.
-
-Brand direction: Elegant, minimalist, luxury, white color palette..
-
-Please confirm:
-
-* What exactly is included in your price?
-* How many days will completion take?
-* Will you test the website before delivery?
-* Will you provide a walkthrough after completion?
-
-I would like to review the work before approving the final delivery.</description></item>
 <item><title>Personal Coach Website Link Update</title><link>https://www.freelancer.com/projects/calendly/Personal-Coach-Website-Link-Update</link><guid isPermaLink="false">freelancer:40815709</guid><pubDate>Thu, 12 Nov 2026 22:49:32 GMT</pubDate><description>15-25 USD/hr | I need help updating links on my personal coach website. 
 
 Requirements:
