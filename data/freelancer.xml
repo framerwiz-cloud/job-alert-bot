@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Non-Profit Donation Website</title><link>https://www.freelancer.com/projects/woocommerce/Non-Profit-Donation-Website</link><guid isPermaLink="false">freelancer:40819160</guid><pubDate>Sun, 15 Nov 2026 12:59:02 GMT</pubDate><description>15-25 USD/hr | I need a clean, responsive website that lets our supporters contribute directly to our projects. The core requirement is simple: every visitor should be able to land on a dedicated fundraising campaign page, feel inspired, and complete their donation within a few clicks. One-time and monthly giving options are not essential for launch, but I would like the build to remain flexible enough to add them later without a full redesign.
+
+I’m comfortable with WordPress (a GiveWP or WooCommerce Donations setup is fine) as long as the final site runs smoothly, loads quickly, and accepts cards and PayPal through a secure gateway such as Stripe or PayPal Checkout. If you prefer another open-source CMS that achieves the same ease of use for non-technical staff, I’m open to hearing why.
+
+Design should align with our existing color palette and logo (assets will be provided). Content entry must be straightforward so we can spin up new campaign pages ourselves, update totals, swap out images, and post impact stories without developer help.
+
+Deliverables on handover:  
+• Fully functional website deployed on our hosting account  
+• One template fundraising campaign page ready for cloning  
+• Payment gateway configured and tested in live mode  
+• Brief video or written guide showing how to create and manage campaigns, track donations, and export donor data
+
+If this sounds like a build you can complete efficiently and clearly document, let’s talk timing and milestones.</description></item>
 <item><title>WordPress Site Overhaul Needed</title><link>https://www.freelancer.com/projects/css/WordPress-Site-Overhaul-Needed</link><guid isPermaLink="false">freelancer:40819096</guid><pubDate>Sun, 15 Nov 2026 11:25:40 GMT</pubDate><description>10-15 GBP/hr | I need a skilled WordPress developer to make extensive updates across many pages of my website.
 
 Key Requirements:
