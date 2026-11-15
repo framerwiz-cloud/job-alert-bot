@@ -964,18 +964,6 @@ Scope
 
 Deliverable  
 A fully deployed, secure website or app ready for public launch, along with all source files and deployment instructions.</description></item>
-<item><title>AI-Generated E-Commerce Content</title><link>https://www.freelancer.com/projects/ai-automation/Generated-Commerce-Content</link><guid isPermaLink="false">freelancer:40808999</guid><pubDate>Sun, 08 Nov 2026 21:33:44 GMT</pubDate><description>15-25 USD/hr | I’m in the middle of launching an online store and want to automate the way every product page comes to life. The goal is for an AI-driven workflow that can take a short product brief and return two things: persuasive copy (title, bullet points, full description) and a set of matching, polished images ready for upload. Everything you build will be used directly in product listings and other store content, so accuracy and brand consistency matter.
-
-Here’s what I need from you:
-
-• A working text-generation setup (OpenAI, Claude, or a fine-tuned model of your choice) that outputs clear, benefit-focused copy in the voice of my brand.  
-• An image-generation pipeline (Stable Diffusion, Midjourney, or similar) that can create on-brand visuals at web-ready resolutions.  
-• Simple instructions or a lightweight script so I can run the process myself for future products.  
-• A small sample set—five products end-to-end—so I can evaluate quality before rolling it out site-wide.
-
-Acceptance criteria: the copy must be grammatically sound, free of hallucinated specs, and include at least one relevant keyword; images must be 1200 × 1200 px, PNG or JPEG, and visually coherent with the text you generated.
-
-If you’re confident you can deliver that seamless text-plus-image experience, I’d love to work together.</description></item>
 <item><title>Full-Service Amazon Store Management</title><link>https://www.freelancer.com/projects/ecommerce/Full-Service-Amazon-Store-Management</link><guid isPermaLink="false">freelancer:38906699</guid><pubDate>Wed, 18 Dec 2024 21:31:45 GMT</pubDate><description>8-15 USD/hr | We're launching an Amazon store and need a comprehensive, end-to-end management service. We need you to build out the store design per our concepts. And then expert marketing to drive visibility and sales. Mainly clothing, accessories, home &amp; living items. 
 
 Requirements:
