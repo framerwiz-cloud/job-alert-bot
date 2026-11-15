@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Standalone WooCommerce Store (500–800 Products Imported from Amazon or ebay) with USD/CAD &amp; Custom Shipping</title><link>https://www.freelancer.com/projects/php/Build-Standalone-WooCommerce-Store</link><guid isPermaLink="false">freelancer:40819348</guid><pubDate>Sun, 15 Nov 2026 16:12:29 GMT</pubDate><description>30-250 USD | I am looking for an experienced WordPress/WooCommerce developer to build a clean, fast e-commerce storefront  and bulk-load my catalog of roughly 500 to 800 electronics, networking, and media hardware items. I already have the domain and hosting ready.
+
+Key Requirements:
+
+    Store Setup &amp; Design: Set up WordPress and WooCommerce with a clean, modern, mobile-friendly e-commerce theme. Build pages using a visual drag-and-drop builder (Elementor or Gutenberg blocks) so that I can easily edit text, banners, and products myself after handoff without needing code.
+
+    One-Time Bulk Product Import (500–1000 Items): I will provide exported flat files/CSVs from Amazon (Category Listings Report) and eBay. Please map and bulk-import all products—including titles, descriptions, bullet points, SKUs, variations, and product images—directly into my WordPress media library using WP All Import or WooCommerce's CSV tools. (Note: This must be a one-time import only), 
+
+    Multi-Currency (USD &amp; CAD): Configure a reliable multi-currency plugin (such as WOOCS or CURCY) so visitors in Canada see CAD and visitors in the US see USD automatically, with a manual currency switcher in the header.
+
+    Custom Shipping Templates: Set up separate Shipping Zones for Canada and the USA, along with multiple Shipping Classes/templates so I can assign different shipping rates based on item size, weight, or product category.
+
+    Handoff &amp; Walkthrough: Once complete, please provide a brief screen-recorded walkthrough showing me how to add/edit products, adjust shipping templates, and update basic page content.</description></item>
 <item><title>Pretty Face Song</title><link>https://www.freelancer.com/projects/web-design/Pretty-Face-Song</link><guid isPermaLink="false">freelancer:40819248</guid><pubDate>Sun, 15 Nov 2026 14:34:15 GMT</pubDate><description>250-750 USD | I have a song lyrics and all. Need a singer.
 Some gendre is light rock, need fairly powerful voice
 So can be a country andxwestern but better suited to rock</description></item>
@@ -792,21 +805,6 @@ Deliverables
 4. Two weeks of post-launch support for bug fixes.
 
 To apply, include links to previous service-industry sites you’ve built, a brief overview of your experience with booking/payment integrations, and a concise proposal outlining your approach and timeline. I’m aiming to move quickly, so clarity and relevant examples will put you to the top of the list.</description></item>
-<item><title>Website Migration &amp; Redesign with SEO</title><link>https://www.freelancer.com/projects/dns/Website-Migration-Redesign-with-SEO</link><guid isPermaLink="false">freelancer:40815515</guid><pubDate>Thu, 12 Nov 2026 19:15:27 GMT</pubDate><description>50-100 USD | I need my existing site on Hostinger moved to a brand-new domain. Need it refreshed as needed.  The new site should help sales, sharper photos and colors (if needed), a cleaner layout (if needed), and faster, mobile-friendly performance. SEO best practices should be applied as needed. All contact forms, quote-request buttons, and the payment gateway must be checked and fixed if needed so visitors can easily reach me or submit payments without errors.
-
-Here is the full scope:
-
-• Seamlessly migrate all files, databases, and DNS to the new domain and hosting plan.  
-• Redesign pages and visual style as you migrate, keeping key structure but modernising the look and wording, if needed.  
-• Optimise speed, security, and on-page SEO for both desktop and mobile (titles, meta, schema, image compression, internal links).  
-• Set up two new domain-based email accounts and confirm they send and receive correctly (SMTP, SPF, DKIM).  
-• Test every contact/quote form and the payment system end-to-end.  
-• Deliver a short hand-over document with access credentials, a sitemap, and any custom code or plugins used.
-The final product should be added to Hostinger and made live. 
-
-Acceptance is when the new domain is live, pages pass core web vitals, emails work, and I can see a successful test payment and a form submission arrive in my inbox.
-
-If you are comfortable handling Hostinger tools, PayPal payment processing, DNS propagation, basic design tweaks, and SEO best practices, this should be a smooth project. I’m ready to start as soon as you can outline your timetable and any information you still need.  Likely no modifications are needed for the current content unless you have better suggestions.</description></item>
 <item><title>Volleyball Coaching Logo &amp; Website</title><link>https://www.freelancer.com/projects/web-design/Volleyball-Coaching-Logo-Website</link><guid isPermaLink="false">freelancer:40815364</guid><pubDate>Thu, 12 Nov 2026 17:11:33 GMT</pubDate><description>15-25 USD/hr | I'm seeking a skilled designer and developer to create a logo and website for my volleyball coaching business. The site should primarily promote my clinics and team training sessions.
 
 Requirements:
