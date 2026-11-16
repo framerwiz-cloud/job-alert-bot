@@ -3,6 +3,95 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Secure Crypto Exchange MVP Development</title><link>https://www.freelancer.com/projects/blockchain/Secure-Crypto-Exchange-MVP-Development</link><guid isPermaLink="false">freelancer:40821063</guid><pubDate>Mon, 16 Nov 2026 16:00:52 GMT</pubDate><description>100-150 USD/hr | Not India, Pakistan, Bangladesh Developer!!!
+
+I am looking for an experienced blockchain developer or development team to design and build a cryptocurrency exchange website.
+
+The initial goal is to develop an MVP with clearly defined functionality, a professional user interface, and a strong focus on security. I would like to discuss the architecture, scope, timeline, and budget before development begins.
+
+Project scope
+
+The proposed scope includes:
+
+A responsive website for desktop and mobile browsers.
+
+User registration, login, password reset, and two-factor authentication.
+
+A user dashboard showing balances, transactions, and trading history.
+
+Cryptocurrency deposit and withdrawal functionality.
+
+A spot trading interface with price charts, an order book, and market and limit orders.
+
+An admin dashboard for managing users, supported assets, trading pairs, fees, and withdrawal requests.
+
+Integration with relevant third-party services where agreed.
+
+These features are an initial proposal, not a finalized specification. Please identify any items that require separate development phases or third-party services.
+
+Architecture and wallet requirements
+
+Before implementation, I would like your recommendation on:
+
+Whether the project should use a custodial exchange model or a non-custodial trading model.
+
+Whether to build a matching engine or integrate with an existing exchange or liquidity provider.
+
+Which blockchains and cryptocurrencies to support in the initial version.
+
+How deposits, withdrawals, wallet infrastructure, and private keys would be managed.
+
+Which components should be custom-built and which should use established third-party services.
+
+Please explain the trade-offs and ongoing costs of your proposed approach. Do not assume that all of these options are included in the initial budget.
+
+Security and launch requirements
+
+Please include a proposed security plan covering authentication, admin permissions, sensitive data, wallet access, logging, and protection against unauthorized withdrawals.
+
+The initial development and demonstration should use a test environment or testnet where applicable. Handling real customer funds or launching to the public will require separate approval and agreed security and legal/compliance reviews.
+
+Please identify any external audits, compliance services, or specialist work that are not included in your proposal.
+
+Expected deliverables
+
+An agreed requirements document and technical architecture.
+
+UI/UX designs for approval before full implementation.
+
+Working frontend, backend, and agreed blockchain integrations.
+
+Source code delivered through a repository under my control.
+
+Setup, deployment, and administration documentation.
+
+Testing results and a handover session.
+
+A clearly defined post-delivery bug-fix support period.
+
+Please disclose any third-party code, commercial licenses, subscriptions, or recurring service fees. Custom-developed code ownership and third-party licensing terms must be agreed before work begins.
+
+What to include in your proposal
+
+Please provide:
+
+Examples of relevant cryptocurrency exchange or blockchain projects you have completed, including your specific role.
+
+Your recommended architecture and technology stack.
+
+A breakdown of the project into milestones.
+
+Estimated timeline and cost for each milestone.
+
+Third-party services and estimated recurring costs.
+
+Items excluded from your quote.
+
+Your approach to testing, security review, deployment, and ongoing maintenance.
+
+Any questions you need answered before providing a reliable estimate.
+
+I am open to starting with a paid discovery and specification phase before committing to the full build.</description></item>
 <item><title>Pharmaceutical Distributor Website Build</title><link>https://www.freelancer.com/projects/web-development/Pharmaceutical-Distributor-Website-Build</link><guid isPermaLink="false">freelancer:40820936</guid><pubDate>Mon, 16 Nov 2026 14:32:41 GMT</pubDate><description>10-200 GBP | I need a clean, responsive website that presents our pharmaceutical distribution company in a clear, trustworthy way. The site’s single goal is to showcase who we are and what we do—no online ordering or quote system for now, just solid information that reassures visitors they are dealing with a compliant, quality-driven partner.
 
 Key information that must be front-and-center:
