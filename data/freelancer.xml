@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Hack Cleanup &amp; Access Restoration</title><link>https://www.freelancer.com/projects/malware-removal/WordPress-Hack-Cleanup-Access</link><guid isPermaLink="false">freelancer:40821015</guid><pubDate>Mon, 16 Nov 2026 15:23:22 GMT</pubDate><description>30-250 EUR | My WordPress site has been compromised and I can no longer log in or manage the dashboard. Before anything else, I need a thorough sweep to find and remove every harmful file, injected script, or hidden back-door that is blocking access.
+
+Once the malicious code is gone and the site is clean, I will require:
+
+• Admin access restored and confirmed working  
+• A brief report listing what was found, where it was located, and how it was removed  
+• Core, theme, and plugin integrity verified (or replaced with safe versions)  
+• Essential hardening steps applied—strong keys, updated salts, secure file permissions, and a lightweight firewall such as Wordfence or comparable solution in place
+
+Server-level details (cPanel/SSH/FTP) and a recent backup are ready to share as soon as we start. The job is complete when the site loads normally, the admin area is reachable, and no security scanners flag any remaining threats.</description></item>
 <item><title>Pharmaceutical Distributor Website Build</title><link>https://www.freelancer.com/projects/web-development/Pharmaceutical-Distributor-Website-Build</link><guid isPermaLink="false">freelancer:40820936</guid><pubDate>Mon, 16 Nov 2026 14:32:41 GMT</pubDate><description>10-200 GBP | I need a clean, responsive website that presents our pharmaceutical distribution company in a clear, trustworthy way. The site’s single goal is to showcase who we are and what we do—no online ordering or quote system for now, just solid information that reassures visitors they are dealing with a compliant, quality-driven partner.
 
 Key information that must be front-and-center:
@@ -643,20 +653,6 @@ Ideal Skills and Experience:
 - Knowledge of user-friendly interface design
 
 Please provide examples of previous Shopify stores you've developed, particularly for digital products.</description></item>
-<item><title>Retail &amp; Wholesale Food Ordering Platform</title><link>https://www.freelancer.com/projects/app-development/Retail-Wholesale-Food-Ordering-Platform</link><guid isPermaLink="false">freelancer:40817333</guid><pubDate>Sat, 14 Nov 2026 02:20:12 GMT</pubDate><description>250-750 GBP | I’m launching a combined website and mobile app for my food and beverage business and need it finished within seven days. The platform must display three price tiers—public, retail, and wholesale—with each customer automatically seeing the tier I assign in the admin panel. Sales reps get their own log-ins that let them enter any customer’s account and place orders on their behalf.
-
-Inventory control is critical. When stock runs low, customers should receive a warning yet still be allowed to check out; once an item is sold out it disappears from their view while I receive an alert so I can restock promptly.
-
-Design needs to stay clean, fast, and intuitive on both the web storefront and the companion app. I have a total budget of US $300–500, which we can split across clear milestones tied to visible progress.
-
-Deliverables
-• Responsive website ready for desktop, tablet, and mobile  
-• Cross-platform app (Play Store &amp; App Store-ready builds or build-ready source code)  
-• Admin dashboard covering price-tier assignment, user roles, inventory alerts, basic sales reports
-
-Feel free to propose the stack you work fastest with—WooCommerce, Shopify plus custom scripts, Laravel + Flutter, MERN, or similar—as long as it supports secure payments, order history, and straightforward product uploads.
-
-When you respond, please outline your chosen technology, how you’ll implement the three-tier pricing and sales-rep impersonation, and your timeline for hitting the seven-day deadline.</description></item>
 <item><title>WordPress Rebrand for Project Controls</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Rebrand-for-Project-Controls</link><guid isPermaLink="false">freelancer:40816888</guid><pubDate>Fri, 13 Nov 2026 16:31:47 GMT</pubDate><description>15-25 USD/hr | **WordPress Website Rebrand and Design Refresh: Salient / WPBakery**
 
 We are seeking an experienced WordPress designer/developer to rebrand our existing website from **CMC Project Solutions** to **Clarity Project Controls**.
