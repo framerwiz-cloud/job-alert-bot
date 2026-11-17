@@ -3,6 +3,24 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI-Powered Promotional Products Website</title><link>https://www.freelancer.com/projects/api-developmet/Powered-Promotional-Products-Website</link><guid isPermaLink="false">freelancer:40821943</guid><pubDate>Tue, 17 Nov 2026 04:34:55 GMT</pubDate><description>750-1500 AUD | I need a complete e-commerce site that mirrors our supplier’s catalogue through their API while layering an intelligent assistant over the top. Every product, cost, and decoration method should flow automatically from the supplier feed so the range is always up to date.
+
+The centrepiece is the AI agent. When a visitor lands on the site the assistant will chat with them, gather key details, then generate a full recommended order complete with quantities and live pricing. To do that the AI must first prompt for:
+
+• Event or purpose, target audience, and budget  
+• Product type, quantity, and preferred colours  
+• Logo or artwork files, delivery location, and required date  
+
+Once the proposal is built the customer can decide how to move forward: request a quote from us, add the items straight to an online cart and check out, or simply save the recommendation and have it emailed to themselves.
+
+I’m happy for you to select the tech stack – React or Vue on the front end, Node, Python or similar on the back, OpenAI or comparable LLM for the assistant – as long as it delivers a fast, mobile-friendly experience, handles secure payments, and lets me manage products, orders, and customer chats from an admin panel.
+
+Please outline:
+• Your approach to syncing and caching the supplier API  
+• How you will train / prompt the AI to produce accurate, priced recommendations  
+• Milestones for design, AI integration, API connection, testing, and launch  
+
+If you have live examples of AI-assisted shopping or complex API-driven catalogues, share them. I’m ready to move quickly once I’m confident you can deliver.</description></item>
 <item><title>Oil &amp; Gas Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Oil-Gas-Website-Redesign</link><guid isPermaLink="false">freelancer:40821903</guid><pubDate>Tue, 17 Nov 2026 03:58:52 GMT</pubDate><description>250-750 USD | I’m ready to overhaul our corporate website so that engineers, procurement teams, and HSE managers can reach the technical information they need in as few clicks as possible. Because our audience is almost entirely energy-sector professionals, I need a designer–developer who already understands the terminology, documentation, and compliance culture of oil and gas.
 
 The existing site buries critical content. In the new build, service details, equipment specs, project case studies with hard numbers, and all safety certificates must sit front and center. Just as important, the layout has to showcase our full range of services and capabilities, underline our track record with recognizable clients, and make our safety culture unmistakable.
@@ -706,26 +724,6 @@ If you meet the experience requirement and can outline a concise timeline, I am 
 You’re welcome to approach this with the Brevo API, a Squarespace code injection, or a lightweight intermediary like Zapier—whatever achieves a reliable, real-time connection without slowing down page load. Once the link is live, I’ll test the form myself; if each new email shows up in the chosen Brevo list, the job is done.
 
 Please let me know what access you’ll need from my Squarespace and Brevo dashboards and how long you expect the setup and verification to take.</description></item>
-<item><title>Peptide Shopify Store Setup</title><link>https://www.freelancer.com/projects/web-development/Peptide-Shopify-Store-Setup</link><guid isPermaLink="false">freelancer:40817637</guid><pubDate>Sat, 14 Nov 2026 07:56:52 GMT</pubDate><description>250-750 AUD | I need a clean, conversion-focused Shopify store that lets customers browse my range of research peptides and pay instantly. The build should stay lean—simple layout, fast loading, and easy navigation—while still looking professional enough to inspire trust in a tightly regulated niche.
-
-Core functions  
-• Full product catalogue with variant options and concise product pages.  
-• Checkout that accepts credit &amp; debit cards, cryptocurrency, and bank transfer out of the box.  
-• Cart, tax, and shipping rules set for US customers to start, with the flexibility to add more regions later.  
-
-Essential pages &amp; compliance  
-• Home, Shop, About, Contact, Terms, Privacy, and a clearly visible research-use disclaimer.  
-• Age/finality gate or acknowledgment modal so visitors confirm products are for laboratory research only.  
-
-Theme &amp; styling  
-• I’m fine with a free or low-cost theme as long as it’s mobile-first, lightweight, and easy for me to update. Simple branding (colors, logo, hero banner) is ready; you just need to apply it.  
-
-Hand-off expectations  
-1. Store is live, tested, and taking payments through all three gateways.  
-2. Written walkthrough (or quick Loom video) covering product upload, order management, and basic edits.  
-3. Access transferred fully to me once final checks pass.  
-
-If you have prior experience with supplement or peptide stores, even better—please keep any compliance considerations in mind while you build.</description></item>
 <item><title>Shopify Xero Setup Expert</title><link>https://www.freelancer.com/projects/accounting/Shopify-Xero-Setup-Expert</link><guid isPermaLink="false">freelancer:40816673</guid><pubDate>Fri, 13 Nov 2026 13:59:26 GMT</pubDate><description>18-36 GBP/hr | This is for a British brand and based on UK tax and accounting requirements. I’m launching a brand-new Shopify store for kids TV show merch that will sell physical products via partners like Gelato and Printful, and I want every sale to land in Xero automatically—complete with its payment, customer invoice, shipping charge, refund (if any), and tax breakdown.  Here’s what I need from you: help me continue my Shopify storefront build, configure shipping rates and payment gateways, and then connect the store to Xero so the data above flows into the correct accounts without manual intervention. Product stock tracking can stay inside Shopify; the focus is on the financial side. You’ll decide whether the native Shopify-Xero app, A2X, Synder, or another connector is the best fit, map the chart of accounts, run test orders and refunds, and fine-tune tax settings for my region. When everything reconciles cleanly, hand over concise documentation so I can maintain the workflow myself. Deliverables   • Live Shopify store ready for launch   • Fully tested Xero integration covering sales, payments, customer invoices, shipping, refunds, and taxes   • Handover notes outlining connector used, account mappings, and troubleshooting tips   Acceptance criteria   • A test order appears in Xero as a paid invoice with correct tax and shipping lines   • A refund syncs back accurately   • Daily reconciliation matches Shopify Payments payout reports   I would like to get it online before the end of November. It is for a kids TV show's branded merch and I am looking for UK consultants only. This is an existing business but would like only people who have strong experience in VAT and can provide the correct advice on setup.</description></item>
 <item><title>HighLevel Setup for Meredith Manor Venue</title><link>https://www.freelancer.com/projects/automation/HighLevel-Setup-for-Meredith-Manor</link><guid isPermaLink="false">freelancer:40816197</guid><pubDate>Fri, 13 Nov 2026 07:04:01 GMT</pubDate><description>15-25 USD/hr | I am moving Meredith Manor Venue onto its own, fully independent HighLevel account and I want every moving part of our current system replicated and improved. Your first task is to pull all existing contacts into the new workspace, then rebuild every automation we already rely on while mapping out the complete bride-and-groom journey from the first website visit through final follow-up. Each of those pieces—contact import, automation rebuild, and journey mapping—matters equally, so plan to work on them in parallel rather than sequentially.
 
