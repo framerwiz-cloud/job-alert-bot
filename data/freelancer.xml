@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Replicate Existing E-Commerce Design</title><link>https://www.freelancer.com/projects/web-design/Replicate-Existing-Commerce-Design</link><guid isPermaLink="false">freelancer:40821969</guid><pubDate>Tue, 17 Nov 2026 04:54:26 GMT</pubDate><description>250-750 USD | I need my new online store to look and feel exactly like a reference site I’ll share once we connect. Your role is to rebuild that design—layout, typography, colour palette, navigation, product grid, cart and checkout screens—so it’s visually identical and fully responsive across desktop, tablet and mobile.
+
+I’m open to whichever platform lets us achieve a true one-to-one result while remaining easy for me to maintain afterward—Shopify, WooCommerce, Magento or a custom React/Vue front end. Let me know what you recommend and why.
+
+You’ll focus on:
+• Pixel-perfect replication, including mobile breakpoints
+• Clean, well-commented code or theme files I can hand to other developers later
+• Fast-loading pages with basic SEO tags and compressed assets
+• Dummy content in place so I can swap in my own product data later
+• A smooth add-to-cart through order-confirmation flow that matches the original site
+
+Deliverables
+1. Complete theme/template files ready to install on the agreed platform  
+2. Brief setup guide and notes for future edits  
+3. 30-day bug-fix window after final approval  
+
+Please include links to at least two stores you’ve cloned or heavily customised. Once shortlisted we’ll jump on a quick call, review the reference site together and lock in timeline and milestones. If perfect replication is your thing, I’m excited to work with you.</description></item>
 <item><title>AI-Powered Promotional Products Website</title><link>https://www.freelancer.com/projects/api-developmet/Powered-Promotional-Products-Website</link><guid isPermaLink="false">freelancer:40821943</guid><pubDate>Tue, 17 Nov 2026 04:34:55 GMT</pubDate><description>750-1500 AUD | I need a complete e-commerce site that mirrors our supplier’s catalogue through their API while layering an intelligent assistant over the top. Every product, cost, and decoration method should flow automatically from the supplier feed so the range is always up to date.
 
 The centrepiece is the AI agent. When a visitor lands on the site the assistant will chat with them, gather key details, then generate a full recommended order complete with quantities and live pricing. To do that the AI must first prompt for:
@@ -699,26 +716,6 @@ Ideal Skills and Experience:
 - Familiarity with server management and DNS settings
 
 Please provide examples of similar work done.</description></item>
-<item><title>Full-Feature SMM Panel Build</title><link>https://www.freelancer.com/projects/laravel/Full-Feature-SMM-Panel-Build</link><guid isPermaLink="false">freelancer:40817711</guid><pubDate>Sat, 14 Nov 2026 09:08:23 GMT</pubDate><description>30-250 USD | I am ready to commission a complete, production-ready SMM panel and website built from scratch. Prior hands-on experience with Perfect Panel or similar systems is non-negotiable; please include verifiable links or screenshots of past panels you have developed.
-
-Scope  
-The panel must allow customers to register, add funds through multiple gateways, place orders, track status, review their order history, and connect via a documented JSON API so resellers can integrate the services into their own sites. An admin dashboard is required for service management, pricing, user accounts, ticketing, and detailed logs.
-
-Tech &amp; Performance Expectations  
-I am open to PHP/Laravel or Node-based stacks backed by MySQL/PostgreSQL and Redis (or your proven alternative) as long as the finished site is secure, scalable, and loads in under two seconds on key pages. A clean, responsive UI built with Bootstrap or Tailwind is essential, and the code should live in a private Git repository with clear setup instructions.
-
-Deliverables  
-• Fully deployed site on my server and domain  
-• Source code in Git with documentation  
-• Video walkthrough of key workflows  
-
-Acceptance Criteria  
-– All customer functions (sign-up, funding, ordering, tracking) work flawlessly  
-– API returns correct data and passes integration tests  
-– Payment gateways process test transactions end-to-end  
-– Admin panel features operate without errors  
-
-If you meet the experience requirement and can outline a concise timeline, I am ready to move quickly.</description></item>
 <item><title>Squarespace–Brevo Signup Integration</title><link>https://www.freelancer.com/projects/api/Squarespace-Brevo-Signup-Integration</link><guid isPermaLink="false">freelancer:40817643</guid><pubDate>Sat, 14 Nov 2026 08:01:23 GMT</pubDate><description>25-50 AUD/hr | I’m using a custom signup form on my Squarespace site that captures a visitor’s email address only, and I need that form to feed directly into a single mailing list in my Brevo (Sendinblue) account. Nothing fancy—no branching logic, no extra fields, just a clean hand-off so every submission lands in the correct list instantly.
 
 You’re welcome to approach this with the Brevo API, a Squarespace code injection, or a lightweight intermediary like Zapier—whatever achieves a reliable, real-time connection without slowing down page load. Once the link is live, I’ll test the form myself; if each new email shows up in the chosen Brevo list, the job is done.
