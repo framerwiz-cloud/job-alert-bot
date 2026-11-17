@@ -3,6 +3,26 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>SiteRoot AI Homepage Redesign</title><link>https://www.freelancer.com/projects/web-design/SiteRoot-Homepage-Redesign</link><guid isPermaLink="false">freelancer:40823310</guid><pubDate>Tue, 17 Nov 2026 22:14:32 GMT</pubDate><description>750-1500 AUD | Freelance Landing Page Designer for SiteRoot
+
+We’re looking for a freelance web designer to refresh the homepage for SiteRoot, an AI website builder that helps Australian small businesses create and manage their websites.
+
+Our current homepage feels too generic. It needs a stronger first impression, a clearer explanation of what SiteRoot does, and a more compelling reason for visitors to sign up. We like how Durable and Yola make their products easy to understand at a glance. We want that level of polish with a visual identity that feels like SiteRoot.
+What we’re looking for
+- A standout hero section that shows what someone can build with SiteRoot and gives them a clear next step.
+- A more visual product story using website examples, product screenshots or a short demo concept to show how SiteRoot works.
+- A clearer path to signup with stronger headlines, a well-structured page and calls to action that feel natural as visitors scroll.
+- A polished mobile experience that makes the product easy to understand and the signup button easy to find.
+The primary goal is more signups from homepage visitors. Our audience includes tradies, brokers, consultants and other small business owners who want a professional website they can manage themselves.
+
+Scope and how to apply
+We’re looking for a refreshed homepage design in Figma, with desktop and mobile layouts ready for development. If you also offer implementation, please quote it separately.
+
+Tech stack : React 18 + TypeScript 5.6, Vite 5, Tailwind 3.4
+
+Please send 2–3 relevant landing pages you’ve designed, a short note on your role in each, and your estimated cost and timeline. If you have conversion results from past projects, we’d love to see them.
+
+Take a look at our current homepage (siteroot.com.au)  and tell us one thing you would change first and why.</description></item>
 <item><title>WooCommerce NFT Demo Marketplace Setup</title><link>https://www.freelancer.com/projects/ethereum/WooCommerce-NFT-Demo-Marketplace-Setup</link><guid isPermaLink="false">freelancer:40823285</guid><pubDate>Tue, 17 Nov 2026 21:48:47 GMT</pubDate><description>250-750 USD | I need a clean WordPress + WooCommerce installation spun up on a sub-domain or staging URL within the next five days. Once it is live, please install and configure the free “NFT Marketplace” plugin so that visitors can immediately test buying and selling NFTs—the very first interaction I want them to experience.
 
 Both Ethereum Sepolia and Polygon Amoy test networks must be active. Users should be able to switch chains in their wallet and see the listing prices, gas fees, and completed transactions update correctly on either network. Feel free to add any required RPC or contract addresses, but document every value you enter so I can replicate it later on the production site.
@@ -595,18 +615,6 @@ Acceptance criteria
 3. Source code, build instructions, and a short hand-off video are delivered on project completion.
 
 If this sounds like a build you can move on quickly, let’s schedule a brief call so you can look at the prototype link and outline your timeline.</description></item>
-<item><title>Real Estate &amp; Loan Landing</title><link>https://www.freelancer.com/projects/web-design/Real-Estate-Loan-Landing</link><guid isPermaLink="false">freelancer:40818828</guid><pubDate>Sun, 15 Nov 2026 06:48:45 GMT</pubDate><description>250-750 USD | The purpose of this landing page is to sign up real estate agents.Loan officers insurance agents , lawyers for the upcoming launch of Domura Technologies Group  Mls  these lenders will have unlimited access to qualified buyers.No marketing needed for the real estate agents or any of the other professionals Domura Technologies Group  is a full infrastructure platform?\nBut this is just for the sign.Up to be notified to be the first to have access to unlimited buyers
-
-The form needs these fields: full name, phone number, email address, and company name (whether they’re a real-estate agency or a loan firm). Nothing more, nothing less, but the layout should make it easy to add or hide a field later.  
-There's no fee  for them to sign up to be the first to be notified when Domura  launches launch 2027  no upfront fee to sign up to be  notified  
-I want a clean, modern design that loads fast on mobile and desktop, with a concise service overview, trust badges, and a prominent “Get in Touch” button that anchors to the form. You’re free to build in WordPress, pure HTML/CSS/JS, or another lightweight framework as long as I can edit text and swap images without coding.  
-
-Deliverables:  
-• Responsive landing page file or WordPress install ready to publish  
-• Integrated contact form sending data to my email (no third-party ads)  
-• Clear instructions for updating copy and images  
-
-When all of that is working and tested, the project is done.</description></item>
 <item><title>Clone WordPress Design to Shopify - ONLY homepage and a product page initially</title><link>https://www.freelancer.com/projects/shopify-site/Clone-WordPress-Design-Shopify-ONLY</link><guid isPermaLink="false">freelancer:40818278</guid><pubDate>Sat, 14 Nov 2026 19:00:53 GMT</pubDate><description>15-25 USD/hr | I need a Shopify developer who can take the exact look-and-feel of my current WordPress e-commerce site and rebuild it on Shopify. This means every layout element, colour, font, banner, and page structure must match the original so the brand experience feels identical to returning customers.  
 
 Alongside the visual clone, the store must include a fully functioning BTA Appointment Booking App setup. Customers should be able to pick an available time slot for our service, complete checkout, and receive the usual confirmation emails—no other booking scenarios are required.  
