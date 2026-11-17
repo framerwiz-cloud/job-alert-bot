@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce NFT Demo Marketplace Setup</title><link>https://www.freelancer.com/projects/ethereum/WooCommerce-NFT-Demo-Marketplace-Setup</link><guid isPermaLink="false">freelancer:40823285</guid><pubDate>Tue, 17 Nov 2026 21:48:47 GMT</pubDate><description>250-750 USD | I need a clean WordPress + WooCommerce installation spun up on a sub-domain or staging URL within the next five days. Once it is live, please install and configure the free “NFT Marketplace” plugin so that visitors can immediately test buying and selling NFTs—the very first interaction I want them to experience.
+
+Both Ethereum Sepolia and Polygon Amoy test networks must be active. Users should be able to switch chains in their wallet and see the listing prices, gas fees, and completed transactions update correctly on either network. Feel free to add any required RPC or contract addresses, but document every value you enter so I can replicate it later on the production site.
+
+Create a small, attractive demo collection of digital artwork images (five to ten pieces is plenty). Each item needs an on-chain royalty set, and the royalty percentage should be visible in the product/NFT detail view. After minting the collection with testnet coins, list a few pieces for sale and leave one or two unlisted so we can walk through the full mint-to-list flow together.
+
+Deliverables  
+• Live WooCommerce test site with NFT Marketplace plugin configured  
+• Dual-network (Sepolia + Amoy) smart-contract deployment and verification links  
+• Demo digital-art NFT collection with royalties applied  
+• Step-by-step guide showing how to mint, list, buy, sell, and transfer with test coins  
+• Video or annotated screenshots proving each action completes without errors
+
+I will consider the job complete when I can log in, follow your guide, and successfully buy and resell a demo NFT on both networks using only faucet coins.</description></item>
 <item><title>Meta ads expert needed (lead gen + server-side tracking)</title><link>https://www.freelancer.com/projects/lead-generation/Meta-ads-expert-needed-lead</link><guid isPermaLink="false">freelancer:40823260</guid><pubDate>Tue, 17 Nov 2026 21:26:43 GMT</pubDate><description>1500-3000 GBP | I’m looking for a Meta ads expert to run lead generation campaigns for residential solar panel installations in the UK.
 
 The scope is campaign strategy, audience and creative testing, and ongoing optimisation towards cost per qualified lead rather than raw lead volume. Qualified means UK homeowner, suitable roof and a realistic energy bill, not just anyone who filled in a form. You’ll also set up the multi-step form and server-side tracking with me, the funnel runs on collectform so you’ll be working in that.
@@ -593,34 +607,6 @@ Deliverables:
 • Clear instructions for updating copy and images  
 
 When all of that is working and tested, the project is done.</description></item>
-<item><title>Launch Island Microgreens Online Presence</title><link>https://www.freelancer.com/projects/content-creation/Launch-Island-Microgreens-Online</link><guid isPermaLink="false">freelancer:40818694</guid><pubDate>Sun, 15 Nov 2026 04:30:00 GMT</pubDate><description>250-750 AUD | Island Microgreens – Facebook, Instagram &amp; Weekly Order Website
-We need a freelancer to set up our social media presence and a simple weekly ordering website for Island Microgreens. We grow fresh microgreens on Macleay Island and deliver weekly to households across the Redlands (Cleveland, Victoria Point, Redland Bay, Thornlands, Mount Cotton and surrounding areas).
-
-1. Facebook Business Page
-• Clean, fresh, natural look that reflects local produce and Macleay Island.
-• Profile photos should work well with green/fresh produce imagery.
-• Must-haves: clear call-to-action for weekly orders, local Redlands focus, easy-to-find ordering information, and a consistent brand voice that is friendly and practical (not overly corporate).
-• Content plans should prioritise harvest photos, simple use ideas (e.g. on avocado toast or salads), order reminders, and behind-the-scenes of the growing room.
-
-2. Instagram Business Profile
-• Clean, fresh, natural look that reflects local produce and Macleay Island.
-• Profile photos should work well with green/fresh produce imagery.
-• Must-haves: clear call-to-action for weekly orders, local Redlands focus, easy-to-find ordering information, and a consistent brand voice that is friendly and practical (not overly corporate).
-• Content plans should prioritise harvest photos, simple use ideas (e.g. on avocado toast or salads), order reminders, and behind-the-scenes of the growing room.
-
-3. Simple Weekly Order Website
-• Simple, clean, mobile-first design. Easy to use on a phone.
-• Preference for a fresh, natural aesthetic (greens, whites, light backgrounds) that suits a small local food producer.
-• Must-have features:
-◦ Clear product display for the weekly household pack and optional single varieties
-◦ Straightforward order form with name, phone, delivery address, quantity and notes
-◦ Prominent order cut-off information (Monday 5 pm)
-◦ Automatic order notifications (email or Google Sheet)
-◦ Easy for a non-technical person to update prices and descriptions later
-◦ Fast loading and basic local SEO
-No complex features are needed — the priority is a reliable weekly pre-order system that is simple for both customers and us to use.
-Happy for freelancers to suggest their recommended approach within this scope.
-Timeline: 3–5 weeks Out of scope: Paid ads, ongoing posting after handover, professional photography, complex subscriptions Please include relevant examples (food, farm or local product businesses) and quote a fixed price for all three together.</description></item>
 <item><title>Clone WordPress Design to Shopify - ONLY homepage and a product page initially</title><link>https://www.freelancer.com/projects/shopify-site/Clone-WordPress-Design-Shopify-ONLY</link><guid isPermaLink="false">freelancer:40818278</guid><pubDate>Sat, 14 Nov 2026 19:00:53 GMT</pubDate><description>15-25 USD/hr | I need a Shopify developer who can take the exact look-and-feel of my current WordPress e-commerce site and rebuild it on Shopify. This means every layout element, colour, font, banner, and page structure must match the original so the brand experience feels identical to returning customers.  
 
 Alongside the visual clone, the store must include a fully functioning BTA Appointment Booking App setup. Customers should be able to pick an available time slot for our service, complete checkout, and receive the usual confirmation emails—no other booking scenarios are required.  
