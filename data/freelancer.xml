@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Oil &amp; Gas Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Oil-Gas-Website-Redesign</link><guid isPermaLink="false">freelancer:40821903</guid><pubDate>Tue, 17 Nov 2026 03:58:52 GMT</pubDate><description>250-750 USD | I’m ready to overhaul our corporate website so that engineers, procurement teams, and HSE managers can reach the technical information they need in as few clicks as possible. Because our audience is almost entirely energy-sector professionals, I need a designer–developer who already understands the terminology, documentation, and compliance culture of oil and gas.
+
+The existing site buries critical content. In the new build, service details, equipment specs, project case studies with hard numbers, and all safety certificates must sit front and center. Just as important, the layout has to showcase our full range of services and capabilities, underline our track record with recognizable clients, and make our safety culture unmistakable.
+
+My ideal flow looks like this: visitors land on a clean, modern homepage, choose a service or a project type, and immediately see spec sheets, photos, and downloadable PDFs. Past projects should be filterable by region, discipline, and results, while a separate compliance area houses every certificate in an organized repository.
+
+I’m open on platform, but the final site has to be responsive, fast, and easy for our in-house team to update—think WordPress with a solid page-builder or a lightweight headless setup if you can justify it. Whichever route you choose, I’ll need:
+
+• Wireframes that prove the information architecture solves our “hard-to-find” problem  
+• Polished UI designs tailored to an energy-sector brand  
+• Full development and migration of current content, including redirect mapping  
+• Basic analytics and on-page SEO set-up so we can track how well users find specs, case studies, and certificates
+
+Acceptance criteria: every key document or spec should be reachable from the homepage in two clicks or fewer; page load time under three seconds on a 4G connection; CMS hand-over with a short video walkthrough for my team.
+
+If you live and breathe oil and gas projects and can translate that knowledge into a user-centric digital experience, let’s talk.</description></item>
 <item><title>¡En Vivo Contigo!</title><link>https://www.freelancer.com/projects/ai-chatbot/RespondeYA</link><guid isPermaLink="false">freelancer:40821682</guid><pubDate>Tue, 17 Nov 2026 00:35:22 GMT</pubDate><description>250-750 USD | I want a complete n8n workflow that funnels every website-chat message through two AI agents—Anthropic Claude and Google Gemini—so visitors get instant, accurate answers about their own account, order, or booking.  
 
 Here’s how I picture the flow: a webhook catches the chat event, n8n verifies the customer’s identity, pulls the relevant account or order details from our database/CRM, then feeds that context to Claude. If Claude’s confidence score drops below an agreed threshold or a policy rule is triggered, Gemini steps in as either a fallback or a second opinion. The final answer is returned to the chat widget in real time, all within a few seconds.
@@ -710,30 +726,6 @@ Hand-off expectations
 3. Access transferred fully to me once final checks pass.  
 
 If you have prior experience with supplement or peptide stores, even better—please keep any compliance considerations in mind while you build.</description></item>
-<item><title>Vacation Rental Website &amp; Guesty Integration</title><link>https://www.freelancer.com/projects/web-development/Vacation-Rental-Website-Guesty</link><guid isPermaLink="false">freelancer:40817472</guid><pubDate>Sat, 14 Nov 2026 05:25:57 GMT</pubDate><description>250-750 USD | I run several short–term rentals through Guesty and I’m ready to pull everything into one polished, conversion-focused website. The goal is simple: give visitors the choice to book directly through my Guesty checkout or jump over to the corresponding Airbnb or Vrbo listing—whichever they prefer.
-
-Structure &amp; flow  
-Each property will live on its own page and needs to surface every detail a traveller looks for. That includes:
-
-• Photos, full description, amenity list, and an interactive location map  
-• Live availability calendar, nightly rates, and any booking rules coming straight from Guesty  
-• Guest reviews, nearby attractions, and a downloadable/online house guide
-
-When a guest clicks “Book Now” the site should open the Guesty booking page in the same window or a new tab (whichever you recommend for best UX). Clear “View on Airbnb” and “View on Vrbo” buttons must sit beside it.
-
-Technical expectations  
-– Pull or embed real-time data from Guesty so calendars and prices stay in sync.  
-– Clean, responsive design that looks great on mobile first.  
-– Fast page loads, basic on-page SEO setup, and simple content management so I can add new properties myself.  
-– Analytics ready (Google Analytics / GA4).
-
-Launch is signed off when:  
-1. All property pages display the elements listed above accurately.  
-2. Guesty checkout opens and completes a test reservation without errors.  
-3. Airbnb and Vrbo buttons link to the correct external listings.  
-4. Site passes a mobile-friendly test and core pages load under three seconds on a standard connection.
-
-I’m flexible on the platform—WordPress with a solid theme, Webflow, or another CMS you’re confident in—as long as future edits remain straightforward. Share a couple of similar rental sites you’ve built and outline how you would tackle the Guesty connection, and we can get started.</description></item>
 <item><title>Shopify Xero Setup Expert</title><link>https://www.freelancer.com/projects/accounting/Shopify-Xero-Setup-Expert</link><guid isPermaLink="false">freelancer:40816673</guid><pubDate>Fri, 13 Nov 2026 13:59:26 GMT</pubDate><description>18-36 GBP/hr | This is for a British brand and based on UK tax and accounting requirements. I’m launching a brand-new Shopify store for kids TV show merch that will sell physical products via partners like Gelato and Printful, and I want every sale to land in Xero automatically—complete with its payment, customer invoice, shipping charge, refund (if any), and tax breakdown.  Here’s what I need from you: help me continue my Shopify storefront build, configure shipping rates and payment gateways, and then connect the store to Xero so the data above flows into the correct accounts without manual intervention. Product stock tracking can stay inside Shopify; the focus is on the financial side. You’ll decide whether the native Shopify-Xero app, A2X, Synder, or another connector is the best fit, map the chart of accounts, run test orders and refunds, and fine-tune tax settings for my region. When everything reconciles cleanly, hand over concise documentation so I can maintain the workflow myself. Deliverables   • Live Shopify store ready for launch   • Fully tested Xero integration covering sales, payments, customer invoices, shipping, refunds, and taxes   • Handover notes outlining connector used, account mappings, and troubleshooting tips   Acceptance criteria   • A test order appears in Xero as a paid invoice with correct tax and shipping lines   • A refund syncs back accurately   • Daily reconciliation matches Shopify Payments payout reports   I would like to get it online before the end of November. It is for a kids TV show's branded merch and I am looking for UK consultants only. This is an existing business but would like only people who have strong experience in VAT and can provide the correct advice on setup.</description></item>
 <item><title>HighLevel Setup for Meredith Manor Venue</title><link>https://www.freelancer.com/projects/automation/HighLevel-Setup-for-Meredith-Manor</link><guid isPermaLink="false">freelancer:40816197</guid><pubDate>Fri, 13 Nov 2026 07:04:01 GMT</pubDate><description>15-25 USD/hr | I am moving Meredith Manor Venue onto its own, fully independent HighLevel account and I want every moving part of our current system replicated and improved. Your first task is to pull all existing contacts into the new workspace, then rebuild every automation we already rely on while mapping out the complete bride-and-groom journey from the first website visit through final follow-up. Each of those pieces—contact import, automation rebuild, and journey mapping—matters equally, so plan to work on them in parallel rather than sequentially.
 
