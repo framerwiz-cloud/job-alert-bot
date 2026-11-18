@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Music Publishing Showcase Website</title><link>https://www.freelancer.com/projects/web-development/Music-Publishing-Showcase-Website</link><guid isPermaLink="false">freelancer:40824843</guid><pubDate>Wed, 18 Nov 2026 18:43:22 GMT</pubDate><description>250-750 GBP | I want a clean, responsive website that is mobile first and easy to navigate that puts our music publishing roster and curated playlist compilation themed albums front-and-center. The site’s single purpose is to showcase every artist and release in our catalog, so visual impact and intuitive navigation are crucial.  
+
+For each artist or release I need:  
+• An embedded DISCO.AC player so visitors can listen without leaving the page  
+• A short biography with photos (ideally managed through an easy CMS)  
+• Spotify and Youtube Links (where applicable)
+• A clear “Licensing / Booking Enquiry” button that opens a form or pre-filled email  
+
+Beyond the roster pages, the build should include a searchable catalog landing page, a lightweight news or updates section, and a general contact page. I’m open to WordPress, Webflow or another modern stack—whichever lets me update bios, tracks and artwork myself after launch.
+
+Key acceptance points  
+• DISCO.AC streams load quickly on desktop and mobile  
+• Enquiry forms route to my chosen email with spam protection in place  
+• All content editable through the CMS, no code needed for routine updates  
+• Delivery of design files, working site, and a short hand-off guide  
+
+If this feels like your sweet spot, let’s discuss timelines and the best platform to get it live.</description></item>
 <item><title>WordPress Speed Optimization</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-Speed-Optimization-40824795</link><guid isPermaLink="false">freelancer:40824795</guid><pubDate>Wed, 18 Nov 2026 18:02:18 GMT</pubDate><description>30-250 EUR | I'm looking for an experienced WordPress developer to decrease First Contentful Paint (FCP) and Time to First Byte (TTFB) across all pages of my website hosted on Bluehost. 
 
 Key Requirements:
@@ -952,22 +969,6 @@ Acceptance criteria
 3. All source files, credentials, and documentation transferred on completion.
 
 If you have a strategic mindset, solid communication skills, and a track record in business-oriented digital projects, I’d love to see your relevant examples and discuss next steps.</description></item>
-<item><title>SMM Storefront With Guest Checkout like buzzoid - Budget is $100-150</title><link>https://www.freelancer.com/projects/SMM-Storefront-With-Guest-Checkout</link><guid isPermaLink="false">freelancer:40820390</guid><pubDate>Mon, 16 Nov 2026 08:09:00 GMT</pubDate><description>30-250 USD | I’m launching a brand-new venture and need a streamlined storefront—think Buzzoid’s simplicity—where visitors can buy social-media followers, likes, and views without creating an account.  
-
-Scope  
-• Services: Instagram, Facebook, TikTok, YouTube, X, and LinkedIn packages must be selectable, with tiered pricing I can edit later.  
-• Flow: visitor lands on site → picks a network → chooses a package → pastes their handle or link → checks out as guest via card or crypto → order auto-forwards to my SMM provider’s API (I’ll share the docs).  
-• Admin: clean dashboard to add/edit packages, view orders, and track API status.  
-• Design: responsive, modern, and fast; UI style similar to Buzzoid. Basic on-page SEO is a plus.  
-
-Deliverables  
-1. Fully functional website deployed on my hosting.  
-2. Payment gateway integration (Stripe &amp; PayPal).  
-3. API hookup for automatic fulfillment.  
-4. Written hand-over guide so I can manage packages myself.  
-
-Acceptance  
-I should be able to place a live test order on each platform type and see it appear in the admin panel as “processing” with the API call logged. All of this must fit the $100-$150 budget range noted in my brief.</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
 Beyond these routine edits, I rely on you to spot and fix any layout quirks, plugin conflicts, or other issues that crop up so the storefront and pages stay fast and error-free.
