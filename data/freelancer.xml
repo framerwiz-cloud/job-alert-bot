@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Car Giveaway E-commerce Platform</title><link>https://www.freelancer.com/projects/web-development/Car-Giveaway-commerce-Platform</link><guid isPermaLink="false">freelancer:40823891</guid><pubDate>Wed, 18 Nov 2026 07:06:37 GMT</pubDate><description>250-750 CAD | I’m building a Canada-focused online store that sells a single, limited-edition hoodie and automatically enters every buyer into a car giveaway. I need a full, production-ready website that:
+
+• Handles hoodie sales securely, accepts all major cards and Apple/Google Pay, and lets me adjust pricing or inventory without touching code.  
+• Allocates giveaway entries proportionally—one hoodie equals one entry, two hoodies equals two entries, and so on—then writes that total to the customer’s account.  
+• Shows each logged-in customer exactly how many entries they hold; no other account data needs to surface for this phase.  
+• Displays a live countdown visible to everyone until the campaign ends, after which a verifiable, online random draw selects the winner.  
+• Publishes the winner’s first name/last initial, a brief story, and an image on a public “Past Winners” page while archiving completed giveaways for transparency.  
+• Lets me trigger or schedule the draw, view all entries in the back-end, export them to CSV, and mark a winner with one click.  
+• Is responsive, fast, SEO-friendly, and ready to scale for high traffic spikes near giveaway close.  
+
+Feel free to use Shopify (with a custom app), WooCommerce, Laravel, or another proven stack—what matters is that the solution is stable and straightforward for a non-technical operator. Please outline:
+
+1. Your proposed tech stack and why it fits.  
+2. How you’ll implement the random draw so that customers can trust its fairness.  
+3. A timeline broken into key milestones (storefront, entry logic, draw module, launch).  
+
+I’ll provide branding assets and hoodie specs. Code ownership transfers to me on project completion. If you’ve built contest or raffle sites before, send a link; it will help speed up selection.</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
@@ -634,19 +651,6 @@ You’re welcome to build this workflow with Velo, Wix Forms enhanced by OpenAI,
 <item><title>Pretty Face Song</title><link>https://www.freelancer.com/projects/web-design/Pretty-Face-Song</link><guid isPermaLink="false">freelancer:40819248</guid><pubDate>Sun, 15 Nov 2026 14:34:15 GMT</pubDate><description>250-750 USD | I have a song lyrics and all. Need a singer.
 Some gendre is light rock, need fairly powerful voice
 So can be a country andxwestern but better suited to rock</description></item>
-<item><title>Travel Info Website with Budget Estimator</title><link>https://www.freelancer.com/projects/web-development/Travel-Info-Website-with-Budget</link><guid isPermaLink="false">freelancer:40819075</guid><pubDate>Sun, 15 Nov 2026 10:59:25 GMT</pubDate><description>250-750 USD | I want to launch an easy-to-navigate website packed with practical facts for anyone planning a trip. Each country page will show currency details, recommended hotels, signature foods, transport options, cultural insights and a concise “places to visit” section. The first batch of destinations will be Egypt, Morocco, Mauritius, Botswana, Rwanda, Namibia, Vietnam and Malaysia, with the structure kept open so I can slot in more countries later without new development.
-
-The centrepiece is an interactive trip-cost estimator. A visitor types how many days they will stay and instantly sees a total budget in US dollars. The calculation must break the cost down into hotels, transport, food, activities and entrance fees to historical sites or museums. Costs should shift automatically when the day count changes and adapt to the price range that makes sense for the traveller; some will backpack on a shoestring, others will choose mid-range or a splash of luxury, so the logic needs to accommodate all three levels.
-
-I need a modern, responsive design that loads fast on mobile. A lightweight CMS such as WordPress (or a headless alternative if you prefer) will let me update prices, add photos and publish new country pages myself. Clean code, basic on-page SEO, Google Maps embeds and an image gallery for each destination are highly desirable.
-
-Deliverables  
-• Fully functioning responsive website with CMS setup  
-• Custom trip-cost estimator integrated and tested for the eight listed countries  
-• Clear admin guide (text or short video) showing how to edit prices, add destinations and tweak the estimator formula  
-whats app icon
-
-Once these items are in place and running smoothly, I will handle ongoing content updates; I just need the technical foundation built to the spec above.</description></item>
 <item><title>Clone WordPress Design to Shopify - ONLY homepage and a product page initially</title><link>https://www.freelancer.com/projects/shopify-site/Clone-WordPress-Design-Shopify-ONLY</link><guid isPermaLink="false">freelancer:40818278</guid><pubDate>Sat, 14 Nov 2026 19:00:53 GMT</pubDate><description>15-25 USD/hr | I need a Shopify developer who can take the exact look-and-feel of my current WordPress e-commerce site and rebuild it on Shopify. This means every layout element, colour, font, banner, and page structure must match the original so the brand experience feels identical to returning customers.  
 
 Alongside the visual clone, the store must include a fully functioning BTA Appointment Booking App setup. Customers should be able to pick an available time slot for our service, complete checkout, and receive the usual confirmation emails—no other booking scenarios are required.  
