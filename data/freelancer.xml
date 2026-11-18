@@ -3,6 +3,50 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce Course Site Finalization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Course-Site-Finalization</link><guid isPermaLink="false">freelancer:40824581</guid><pubDate>Wed, 18 Nov 2026 15:05:08 GMT</pubDate><description>30-250 USD | **ONLY APPLY IF YOU HAVE LMS PROVEN EXPERIENCE***
+We have just completed a WP Site and now need to finish the smaller details to launch. It's an online education website that features 6 courses that are video /lesson based but not live.
+
+The website currently uses WordPress, Elementor, LifterLMS, WooCommerce, and Square. Six courses, their instructional structures, quizzes, product records, and certificate configurations already exist.  **The Budget is $100 plus a perfect 5.0 rating and potentially a monthly management fee)
+
+Required Work:
+
+-Audit the current website installation, database, course configurations, payment gateway, and purchase-to-enrollment connections.
+
+-Implement and verify automatic enrollment into the correct LifterLMS course or package following a successful WooCommerce payment.
+
+-Complete the customer purchasing experience, including product selection, checkout, payment confirmation, account creation, course access, and transactional email notifications.
+
+-Configure and verify the student learning experience, including lesson navigation, saved progress, assessments, prerequisites, final examinations, completion rules, and certificate issuance.
+
+-Implement the approved corporate enrollment system, including bulk seat purchases, company administration, individual student assignments, and applicable pricing tiers.
+
+-Preserve Ai BASICS and Ai ADVANCED package relationships, the existing course pricing, and the eligibility conditions for the Ai ADVANCED upgrade.
+
+-Correct the website's existing presentation and navigation problems, including inconsistent headers, broken enrollment pages, student account layout, and unwanted product-image zoom and enlargement behavior.
+
+-Complete comprehensive end-to-end testing using dedicated student accounts and Square Sandbox. Once all required functionality passes, configure Square for production, conduct a controlled real-payment test, and verify refund processing.
+
+-Preserve all existing WordPress, WooCommerce, and LifterLMS records. Avoid unnecessary new plugins, subscriptions, duplicate products, and replacement course records.
+
+-Provide documented implementation details, source code, backup and rollback procedures, test results, and maintenance instructions.
+
+-We will provide all of the video files (when ready) for you to add to each course / lesson.
+
+
+Acceptance Criteria:
+
+The project is complete only when a customer can independently purchase a course, receive verified enrollment, access and complete the training, pass the required assessment, and receive the appropriate certificate without administrator intervention.
+
+Corporate purchasing, student assignments, package entitlements, and upgrade eligibility must also pass their designated acceptance tests before those offers are launched.
+
+Expected Deliverables:
+
+A functioning production website, documented customizations, confirmed course and purchase workflows, successful test transactions, evidence of student enrollment and certificate issuance, and a clear maintenance and recovery guide. All must be fully mobile responsive.
+
+
+PROJECTS FILES:
+
+https://www.dropbox.com/scl/fo/ft4eviooe3r9ndckc9f8g/AMzFQ4IMEGe20Ac2rN6uUyU?rlkey=sv0at58a66pe5v11qjzwafq65&amp;st=479h419p&amp;dl=0</description></item>
 <item><title>Dutch WordPress Flooring Site Enhancements</title><link>https://www.freelancer.com/projects/wordpress-design/Dutch-WordPress-Flooring-Site</link><guid isPermaLink="false">freelancer:40824554</guid><pubDate>Wed, 18 Nov 2026 14:49:25 GMT</pubDate><description>1500-3000 USD | WordPress website improvements for a flooring &amp; stair renovation company (Netherlands, Dutch-language site)
 
 The site is built on WordPress. The link will be shared with the selected freelancer.
@@ -905,24 +949,6 @@ Here is what I need from you:
 • Hosting is on my side; you provide the finished site files or migrate them for me. Ongoing monthly rental and minor support/updates are part of the arrangement.
 
 If you have an existing template that meets these points, even better—just show me a demo link. I’m ready to start as soon as we agree on a hand-off timeline and the monthly fee.</description></item>
-<item><title>HVAC Parts E-Commerce Website Build</title><link>https://www.freelancer.com/projects/website-development/HVAC-Parts-Commerce-Website-Build</link><guid isPermaLink="false">freelancer:40819754</guid><pubDate>Sun, 15 Nov 2026 23:30:07 GMT</pubDate><description>250-750 AUD | I need a professional, clean-looking website for Advanced Air Parts Pty Ltd to sell HVAC spares that come in multiple sizes, models and compatibility variations. The store must be fully responsive, load quickly on mobile, and include a straightforward CMS so I can add or edit products, stock levels and pricing without touching code.
-
-Key shopping experience  
-• Customers should be able to locate a part by typing a part number or keyword, selecting their HVAC unit brand / model, or browsing through well-structured categories and filters.  
-• Each product page has to support variant data (size, model, compatible systems) and show real-time availability.  
-• Secure checkout must accept credit &amp; debit cards, bank transfer/account payment, and PayPal or a similar wallet.
-
-Back-office needs  
-• An admin panel where I can manage catalog, inventory, orders and basic promotions.  
-• Clear dashboards or reports for sales and stock.  
-• Simple workflow for bulk product import when my catalogue grows.
-
-Launch expectations  
-- Fully deployed live site on my hosting, ready for me to start loading products.  
-- Logo and brand colours integrated (I will supply assets).  
-- Basic post-launch support to handle any immediate bugs or configuration questions.
-
-If you have solid experience delivering e-commerce sites and can show a portfolio of comparable work, let’s discuss how you would approach this build, the platform you recommend, and your estimated timeline. Steady, transparent communication is essential throughout the project.</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
 Beyond these routine edits, I rely on you to spot and fix any layout quirks, plugin conflicts, or other issues that crop up so the storefront and pages stay fast and error-free.
