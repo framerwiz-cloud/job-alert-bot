@@ -3,6 +3,43 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Event Registration Integration</title><link>https://www.freelancer.com/projects/stripe/WordPress-Event-Registration-Integration</link><guid isPermaLink="false">freelancer:40824882</guid><pubDate>Wed, 18 Nov 2026 19:13:09 GMT</pubDate><description>30-250 CAD | I’m setting up an event on my WordPress site and need the full registration flow put in place.  
+
+Scope of work  
+– Build or configure the WordPress form and map it to Stripe Checkout.  
+
+WordPress, Brevo &amp; Stripe – flow process for events that is repeatable in the future and can be moved to a new website in the near future
+
+1. Project Objective
+Build one complete, working event registration, payment, with email communication system using the existing WordPress website, Brevo account, and Stripe account integration.
+The system must support a repeatable setup to be used for independent events while only changing the event details each time. 
+The client will provide all email content and event-specific information.
+The freelancer is responsible for building the flow with technical configuration, integration, automation logic, basic testing, and written documentation to sign off. The automation is to come from the existing aspects of Registration form, Brevo and Stripe
+Basic Concept of flow
+Brevo Flow =
+Registration form on wordpress event page&gt;submit will add to an event list and main list&gt;sends email of registration to client and admin &gt;takes client to stripe payment link&gt;
+On payment &gt; adds client to secondary list of paid and if they do not pay to an Unpaid relevant to the event name and list
+2 Days prior  to the event email goes to unpaid list as a reminder for payment &gt; if they pay the persons registration gets added to the paid list
+8 hours prior to the event &gt; email with event details gets sent to paid list
+Anyone registering and pays after this window gets added to the main list and the paid list and gets the event details via email
+People can register and pay up to the end of the event
+Email to be sent post event manual timing for the recordings.
+
+– Connect the successful payment webhook to Brevo so the confirmation email fires instantly.  
+– Style the email template inside Brevo to match my existing brand colors and add a calendar-add link
+– Test the entire flow end-to-end in both Stripe test mode and live mode, fixing any field mapping or formatting issues you notice.  
+– Hand over clear instructions (or a short Loom) showing me how to update prices, dates, or email copy in the future.
+
+Acceptance criteria  
+1. A new user can register, pay, and receive the confirmation email without manual intervention.  
+2. All captured data appears in both WordPress form entries and the Brevo contact record.  
+3. No duplicate or missing records after multiple test submissions.  
+4. Visual styling matches the current site on desktop and mobile.
+
+Webpage is ready, the email content will be provided. 
+Please quote based on your expectation of payment from this listing. 
+If something needs to be added can be discussed. 
+Thanks for your attention to this !</description></item>
 <item><title>Website Developer - Only U.S.(New Freelancer perfered)</title><link>https://www.freelancer.com/projects/web-development/Website-Developer-Only-New-Freelancer</link><guid isPermaLink="false">freelancer:40824870</guid><pubDate>Wed, 18 Nov 2026 19:05:50 GMT</pubDate><description>2-8 USD/hr | I need a straightforward website that showcases my local service business. The site’s sole goal is to present what we do, how much it costs, where we operate, and real customer feedback—complete with photos of past work.
 
 Because my clientele is U.S.–based and I want easy communication, I will hire only a freelancer located in the United States. If you live elsewhere, please do not submit a proposal. I especially prefer newer freelancers
@@ -919,55 +956,6 @@ Deliverables:
 If you’re confident you can get this live quickly without sacrificing polish, let’s talk and lock in the timeline.
 
 Example of our running landing page (same branding &amp; look but even simpler)</description></item>
-<item><title>WordPress Website Assistant - Full-Time Remote ($100 per Week)</title><link>https://www.freelancer.com/projects/ai-app-development/WordPress-Website-Assistant-Full-Time</link><guid isPermaLink="false">freelancer:40820813</guid><pubDate>Mon, 16 Nov 2026 13:09:18 GMT</pubDate><description>30-250 USD | We are looking for a reliable person to help us update and build WordPress websites using AI-generated HTML code.
-
-No website design or advanced programming experience is required.
-
-The work is straightforward:
-
-Give instructions to AI tools to generate HTML/CSS code for website sections.
-
-Copy and paste the generated code into WordPress.
-
-Update existing website pages, text, images and layouts.
-
-Check that everything looks professional and works correctly on desktop and mobile.
-
-Make small adjustments when required.
-
-Working Hours
-
-You must work 8 hours per day, 5 days per week, with working hours reasonably aligned with UK business hours (9 AM–5 PM UK time).
-
-We are flexible by approximately 1–3 hours, provided there is sufficient overlap with UK working hours.
-
-Payment &amp; Contract
-
-$100 USD per week.
-
-The initial contract is for one week (5 working days).
-
-If both parties are happy, we can extend the contract for another week, and continue renewing weekly.
-
-We have plenty of ongoing projects, so there is potential for long-term work.
-
-Requirements
-
-Basic knowledge of WordPress.
-
-Ability to use AI tools such as ChatGPT to generate HTML/CSS.
-
-Basic English communication skills.
-
-Reliable internet connection.
-
-Ability to work independently and follow instructions.
-
-Attention to detail.
-
-Immediate start available.
-
-If interested, please send a short introduction, your WordPress experience and confirmation that you can work 40 hours per week aligned with UK business hours.</description></item>
 <item><title>Help Launch My Business Project - 16/11/2026 07:10 EST</title><link>https://www.freelancer.com/projects/business-development/Help-Launch-Business-Project-EST</link><guid isPermaLink="false">freelancer:40820731</guid><pubDate>Mon, 16 Nov 2026 12:28:59 GMT</pubDate><description>15-25 USD/hr | I’m preparing to move forward with a new, business-focused initiative and need an experienced partner who can help me clarify the best digital route and then build it from the ground up. At this stage I’m still deciding whether an e-commerce website, a set of branded marketing materials, or even a lightweight business application will deliver the most value, so I’d like to start with a short discovery session to map goals, target audience, and required functionality.
 
 What I need from you  
