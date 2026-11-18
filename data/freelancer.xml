@@ -71,41 +71,6 @@ A functioning production website, documented customizations, confirmed course an
 PROJECTS FILES:
 
 https://www.dropbox.com/scl/fo/ft4eviooe3r9ndckc9f8g/AMzFQ4IMEGe20Ac2rN6uUyU?rlkey=sv0at58a66pe5v11qjzwafq65&amp;st=479h419p&amp;dl=0</description></item>
-<item><title>Dutch WordPress Flooring Site Enhancements</title><link>https://www.freelancer.com/projects/wordpress-design/Dutch-WordPress-Flooring-Site</link><guid isPermaLink="false">freelancer:40824554</guid><pubDate>Wed, 18 Nov 2026 14:49:25 GMT</pubDate><description>1500-3000 USD | WordPress website improvements for a flooring &amp; stair renovation company (Netherlands, Dutch-language site)
-
-The site is built on WordPress. The link will be shared with the selected freelancer.
-
-MANDATORY CONDITION – please read before bidding:
-- For security reasons, no access to the live site or its admin panel will be given.
-- We will send you a full backup of the site. You must install it on your own computer using Local WP or XAMPP and work only on that local copy.
-- Before starting, send a screenshot showing the site running locally.
-- When finished, you deliver the updated site as a backup/export (or a clear list of changes) so we can move it to the live server ourselves.
-Bids that ignore this condition will not be considered.
-
-Tasks:
-1. Project gallery: a "before/after" portfolio of completed floor and stair jobs (before/after slider or gallery, mobile-friendly). We provide the photos.
-2. Prices section: indicative prices, e.g. "laminate installation from €X/m²", "stair renovation from €X". We provide the figures.
-3. Trust &amp; information blocks:
-   - Warranty / guarantee section
-   - Typical job timelines
-   - "How we work" steps: measurement → quote → installation
-   - Service area: list of cities served (Nieuwegein, Utrecht, Houten, IJsselstein, etc.)
-   - FAQ section (accordion), ideally with FAQ schema markup for SEO
-4. Lead generation:
-   - Quote request form placed directly on the homepage and service pages, not only on the Contact page
-   - WhatsApp click-to-chat button (floating, mobile-friendly)
-   - Form submissions must be delivered to the company's business email
-
-Requirements:
-- The site is in Dutch, so all new content must be in Dutch (native-level or reviewed Dutch is a plus)
-- Match the existing design; fully responsive
-- Keep plugins to a minimum and don't slow the site down
-- Experience with Elementor/WordPress page builders is a plus
-
-In your proposal, please include:
-- Confirmation that you will work only locally in Local WP or XAMPP
-- Examples of similar work (portfolios, local service businesses)
-- Estimated time and price</description></item>
 <item><title>WEBSITE FOR AIRPORT TRANSFERS - TESLA EV CARS ONLY -</title><link>https://www.freelancer.com/projects/web-design/WEBSITE-FOR-AIRPORT-TRANSFERS-TESLA</link><guid isPermaLink="false">freelancer:40824475</guid><pubDate>Wed, 18 Nov 2026 13:59:39 GMT</pubDate><description>150-400 GBP | budget £300-£400 max - PLEASE DONT SEND ME OFFERS READ AND MESSAGE ME IF YOU CAN DO THE JOB!
 
 I need a clean, professional airport transfer website that is budget-friendly. The booking form should be unique and not resemble those on other websites. Key components include:
@@ -934,6 +899,18 @@ Must also connect Facebook, instagram and Tik Tok.
 I also own full ownership of website.
 
 Thanks</description></item>
+<item><title>WooCommerce SMM Panel monthly Rental store front </title><link>https://www.freelancer.com/projects/api-integration/WooCommerce-SMM-Panel-monthly-Rental</link><guid isPermaLink="false">freelancer:40820048</guid><pubDate>Mon, 16 Nov 2026 04:17:49 GMT</pubDate><description>30-250 USD | I want a ready-to-go WooCommerce storefront that I can rent on a monthly basis, modelled closely on Buzzoid’s clean guest-checkout flow. The shop will offer just one category for now—Instagram followers, likes, and views—and buyers should simply paste their Instagram link, choose a quantity, pay, and leave; no account creation, no fluff.
+
+Here is what I need from you:
+
+• A lightweight WordPress + WooCommerce install already styled like Buzzoid, mobile-first and fast.
+• Simple product pages where price auto-updates as the customer enters quantity, with the link field required before checkout.
+• Payment gateways fully configured for credit/debit cards (Stripe or similar), PayPal, and a crypto option (CoinPayments, Coinbase Commerce, or comparable service).
+• Automatic order push to my SMM panel via its API the moment payment clears, with basic status callbacks so I can track fulfilment inside WooCommerce.
+• A short back-end guide so I can edit prices or add TikTok and YouTube packages later.
+• Hosting is on my side; you provide the finished site files or migrate them for me. Ongoing monthly rental and minor support/updates are part of the arrangement.
+
+If you have an existing template that meets these points, even better—just show me a demo link. I’m ready to start as soon as we agree on a hand-off timeline and the monthly fee.</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
 Beyond these routine edits, I rely on you to spot and fix any layout quirks, plugin conflicts, or other issues that crop up so the storefront and pages stay fast and error-free.
