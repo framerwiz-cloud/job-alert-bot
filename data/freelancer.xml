@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Business Website Showcasing Our Services</title><link>https://www.freelancer.com/projects/web-design/Business-Website-Showcasing-Our-Services</link><guid isPermaLink="false">freelancer:40823569</guid><pubDate>Wed, 18 Nov 2026 02:48:09 GMT</pubDate><description>3000-5000 USD | I need a clean, modern business website that makes it effortless for visitors to understand what we do, see our pricing, and reach out to us. The site’s sole purpose is to showcase our services and company information—no e-commerce or booking tools at this stage—so the layout can stay lean and fast.
+
+Here’s what I expect:
+
+• A home page that quickly tells our story and funnels visitors toward the Services section.  
+• A Services &amp; Pricing page laid out clearly, using responsive design so it looks great on desktop and mobile.  
+• A Contact page with our address, map embed, phone number, and an easy-to-use contact form routed to our company email.  
+
+Deliverables include all source files (design files, CSS, JS) and a ready-to-deploy build. Please base the build on a lightweight CMS such as WordPress or a similarly easy-to-manage platform; I want to be able to update text and pricing myself later on. 
+
+If this sounds like your area of expertise, let’s talk through your approach and timelines.</description></item>
 <item><title>Web Design Commission Partners -- 2</title><link>https://www.freelancer.com/projects/web-design/Web-Design-Commission-Partners-40823451</link><guid isPermaLink="false">freelancer:40823451</guid><pubDate>Wed, 18 Nov 2026 00:59:08 GMT</pubDate><description>30-250 CAD | I'm offering a commission opportunity to web designers who work with local businesses, alongside the design work they already do.
 
 Here's how it works. You find a local business that needs a website, you design and build it, and the client relationship stays yours. You can also offer your client a B2B SaaS platform to add alongside the site, and you earn a commission for as long as that client keeps paying for it.
@@ -602,19 +613,6 @@ You’re welcome to build this workflow with Velo, Wix Forms enhanced by OpenAI,
 <item><title>Pretty Face Song</title><link>https://www.freelancer.com/projects/web-design/Pretty-Face-Song</link><guid isPermaLink="false">freelancer:40819248</guid><pubDate>Sun, 15 Nov 2026 14:34:15 GMT</pubDate><description>250-750 USD | I have a song lyrics and all. Need a singer.
 Some gendre is light rock, need fairly powerful voice
 So can be a country andxwestern but better suited to rock</description></item>
-<item><title>Travel Info Website with Budget Estimator</title><link>https://www.freelancer.com/projects/web-development/Travel-Info-Website-with-Budget</link><guid isPermaLink="false">freelancer:40819075</guid><pubDate>Sun, 15 Nov 2026 10:59:25 GMT</pubDate><description>250-750 USD | I want to launch an easy-to-navigate website packed with practical facts for anyone planning a trip. Each country page will show currency details, recommended hotels, signature foods, transport options, cultural insights and a concise “places to visit” section. The first batch of destinations will be Egypt, Morocco, Mauritius, Botswana, Rwanda, Namibia, Vietnam and Malaysia, with the structure kept open so I can slot in more countries later without new development.
-
-The centrepiece is an interactive trip-cost estimator. A visitor types how many days they will stay and instantly sees a total budget in US dollars. The calculation must break the cost down into hotels, transport, food, activities and entrance fees to historical sites or museums. Costs should shift automatically when the day count changes and adapt to the price range that makes sense for the traveller; some will backpack on a shoestring, others will choose mid-range or a splash of luxury, so the logic needs to accommodate all three levels.
-
-I need a modern, responsive design that loads fast on mobile. A lightweight CMS such as WordPress (or a headless alternative if you prefer) will let me update prices, add photos and publish new country pages myself. Clean code, basic on-page SEO, Google Maps embeds and an image gallery for each destination are highly desirable.
-
-Deliverables  
-• Fully functioning responsive website with CMS setup  
-• Custom trip-cost estimator integrated and tested for the eight listed countries  
-• Clear admin guide (text or short video) showing how to edit prices, add destinations and tweak the estimator formula  
-whats app icon
-
-Once these items are in place and running smoothly, I will handle ongoing content updates; I just need the technical foundation built to the spec above.</description></item>
 <item><title>Clone WordPress Design to Shopify - ONLY homepage and a product page initially</title><link>https://www.freelancer.com/projects/shopify-site/Clone-WordPress-Design-Shopify-ONLY</link><guid isPermaLink="false">freelancer:40818278</guid><pubDate>Sat, 14 Nov 2026 19:00:53 GMT</pubDate><description>15-25 USD/hr | I need a Shopify developer who can take the exact look-and-feel of my current WordPress e-commerce site and rebuild it on Shopify. This means every layout element, colour, font, banner, and page structure must match the original so the brand experience feels identical to returning customers.  
 
 Alongside the visual clone, the store must include a fully functioning BTA Appointment Booking App setup. Customers should be able to pick an available time slot for our service, complete checkout, and receive the usual confirmation emails—no other booking scenarios are required.  
