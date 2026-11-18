@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Instagram to Website Integration</title><link>https://www.freelancer.com/projects/web-design/Instagram-Website-Integration</link><guid isPermaLink="false">freelancer:40824722</guid><pubDate>Wed, 18 Nov 2026 16:57:28 GMT</pubDate><description>30-250 USD | I need an experienced web developer to create a new page on my existing website using content from my Instagram. 
+
+Requirements:
+- Copy content from Instagram: posts, photos, bio, and contact details.
+- Design: Clean, new design that fits my current website aesthetics.
+- Integration: Add a button or link to the new page on my homepage.
+
+Ideal Skills &amp; Experience:
+- Proficiency in web design and development
+- Strong eye for aesthetics and layout
+- Experience with content integration from social media to websites</description></item>
 <item><title>Multi-Business Booking SaaS Development</title><link>https://www.freelancer.com/projects/full-stack-development/Multi-Business-Booking-SaaS-Development</link><guid isPermaLink="false">freelancer:40824662</guid><pubDate>Wed, 18 Nov 2026 16:08:07 GMT</pubDate><description>250-750 CAD | I’m creating a cloud-based scheduling and booking platform that several independent businesses can share under one roof. Each business must be able to set up its own services—ranging from one-to-one appointments to group classes and even rentable rooms or equipment—and present real-time availability to customers.  
 
 Customers should have three payment options at checkout: pay the full amount, leave a deposit, or reserve now and settle at the appointment. Transactions need to flow seamlessly through a gateway such as Stripe or a comparable provider, with automatic receipts and refund handling.  
@@ -899,18 +910,6 @@ Must also connect Facebook, instagram and Tik Tok.
 I also own full ownership of website.
 
 Thanks</description></item>
-<item><title>WooCommerce SMM Panel monthly Rental store front </title><link>https://www.freelancer.com/projects/api-integration/WooCommerce-SMM-Panel-monthly-Rental</link><guid isPermaLink="false">freelancer:40820048</guid><pubDate>Mon, 16 Nov 2026 04:17:49 GMT</pubDate><description>30-250 USD | I want a ready-to-go WooCommerce storefront that I can rent on a monthly basis, modelled closely on Buzzoid’s clean guest-checkout flow. The shop will offer just one category for now—Instagram followers, likes, and views—and buyers should simply paste their Instagram link, choose a quantity, pay, and leave; no account creation, no fluff.
-
-Here is what I need from you:
-
-• A lightweight WordPress + WooCommerce install already styled like Buzzoid, mobile-first and fast.
-• Simple product pages where price auto-updates as the customer enters quantity, with the link field required before checkout.
-• Payment gateways fully configured for credit/debit cards (Stripe or similar), PayPal, and a crypto option (CoinPayments, Coinbase Commerce, or comparable service).
-• Automatic order push to my SMM panel via its API the moment payment clears, with basic status callbacks so I can track fulfilment inside WooCommerce.
-• A short back-end guide so I can edit prices or add TikTok and YouTube packages later.
-• Hosting is on my side; you provide the finished site files or migrate them for me. Ongoing monthly rental and minor support/updates are part of the arrangement.
-
-If you have an existing template that meets these points, even better—just show me a demo link. I’m ready to start as soon as we agree on a hand-off timeline and the monthly fee.</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
 Beyond these routine edits, I rely on you to spot and fix any layout quirks, plugin conflicts, or other issues that crop up so the storefront and pages stay fast and error-free.
