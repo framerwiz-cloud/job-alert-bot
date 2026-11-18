@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Speed Optimization</title><link>https://www.freelancer.com/projects/google-website-optimizer/WordPress-Speed-Optimization-40824795</link><guid isPermaLink="false">freelancer:40824795</guid><pubDate>Wed, 18 Nov 2026 18:02:18 GMT</pubDate><description>30-250 EUR | I'm looking for an experienced WordPress developer to decrease First Contentful Paint (FCP) and Time to First Byte (TTFB) across all pages of my website hosted on Bluehost. 
+
+Key Requirements:
+- Optimize FCP and TTFB site-wide
+- Implement best practices for WordPress speed
+- Experience with Bluehost hosting
+
+Ideal Skills and Experience:
+- Proven track record in WordPress performance optimization
+- Familiarity with Bluehost and its settings
+- Knowledge of caching, image optimization, and minification techniques
+
+Please provide examples of similar work done and your approach to this project.</description></item>
 <item><title>Full-Stack Developer &amp; Graphic Designer</title><link>https://www.freelancer.com/projects/web-development/Full-Stack-Developer-Graphic-Designer</link><guid isPermaLink="false">freelancer:40824736</guid><pubDate>Wed, 18 Nov 2026 17:06:02 GMT</pubDate><description>250-750 USD | Job Title: Website Developer with Graphic Design Skills
 
 Employment Type: Full-Time
@@ -965,37 +978,6 @@ Deliverables
 
 Acceptance  
 I should be able to place a live test order on each platform type and see it appear in the admin panel as “processing” with the API call logged. All of this must fit the $100-$150 budget range noted in my brief.</description></item>
-<item><title>Website converted from base44 to Wordpress with 18 main pages, 3 tour pages and others </title><link>https://www.freelancer.com/projects/wordpress/Website-converted-from-base-Wordpress</link><guid isPermaLink="false">freelancer:40820153</guid><pubDate>Mon, 16 Nov 2026 05:32:49 GMT</pubDate><description>1500-3000 AUD | I need my current Base44 website reproduced in WordPress exactly as it looks and behaves today. Every page, layout element, colour, font, and image must come across so visitors experience no visible change when the DNS is switched.
-
-All content for tours must be exact same, all 123 pages must be seo optimised and 97% human content not chat gpt.
-
-Web speed test on mobile and desktop must have perfect scores 100 out of 100. Performance on mobile minimum 90 and desktop 97. 
-
-Must have recaptcha and cloud flare for security. 
-
-Functionality to keep running
-• Contact forms must still send the same email notifications I get today.  
-• Each tour page needs its existing Rezdy booking widget embedded and fully functional so guests can pay and confirm places on our three separate tours without hiccups.
-
-A WordPress-friendly theme or custom theme is fine as long as the front-end matches the original pixel for pixel. I am open to Elementor, Gutenberg, or straight PHP templates—use whatever you feel will give the cleanest code and easiest long-term maintenance.
-
-Acceptance criteria
-• All public URLs load in WordPress with identical content and design.  
-• Forms send test messages to my inbox.  
-• Rezdy widgets display, take payment, and return the correct confirmation for all three tours.  
-• Site is handed over with administrator access, a short hand-over note explaining any custom code, and a full XML/SQL backup.
-
-If you have migrated sites from proprietary builders to WordPress before and are comfortable working with Rezdy, I’d love to see an example of your work.
-
-Also need bookings set up for trip advisor, Viator and get your guide so there is no double bookings.
-
-*** TIME FRAME IS MAXIMUM 14 days once awarded the website is finished.
-
-Must also connect Facebook, instagram and Tik Tok.
-
-I also own full ownership of website.
-
-Thanks</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
 Beyond these routine edits, I rely on you to spot and fix any layout quirks, plugin conflicts, or other issues that crop up so the storefront and pages stay fast and error-free.
