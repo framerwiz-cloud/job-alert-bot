@@ -3,6 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix 500/504 &amp; Checkout Errors</title><link>https://www.freelancer.com/projects/website-testing/Fix-Checkout-Errors</link><guid isPermaLink="false">freelancer:40824647</guid><pubDate>Wed, 18 Nov 2026 15:56:39 GMT</pubDate><description>30-250 CAD | My site is throwing repeated 500 and 504 errors, the payment / checkout page refuses to load, and customers cannot reset their passwords because the reset-email never sends. I need these three problems traced to their root causes and resolved so the full purchase flow works again without downtime.
+
+What I expect from you:
+• Diagnose and eliminate all 500 / 504 server errors  
+• Restore the payment page so customers can complete checkout end-to-end  
+• Configure or repair the password-reset email so users receive the link instantly  
+
+Please reply with a quick note on similar troubleshooting you have handled, highlighting the technologies involved and the results you achieved. Once we agree to start, I will give you server and admin access so you can dive straight into log files, payment gateway settings, and mail-sending configuration. The job is finished when pages load cleanly, transactions process, and password resets work for at least two separate test accounts.</description></item>
 <item><title>WooCommerce Course Site Finalization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Course-Site-Finalization</link><guid isPermaLink="false">freelancer:40824581</guid><pubDate>Wed, 18 Nov 2026 15:05:08 GMT</pubDate><description>30-250 USD | **ONLY APPLY IF YOU HAVE LMS PROVEN EXPERIENCE***
 We have just completed a WP Site and now need to finish the smaller details to launch. It's an online education website that features 6 courses that are video /lesson based but not live.
 
@@ -924,18 +932,6 @@ Must also connect Facebook, instagram and Tik Tok.
 I also own full ownership of website.
 
 Thanks</description></item>
-<item><title>WooCommerce SMM Panel monthly Rental store front </title><link>https://www.freelancer.com/projects/api-integration/WooCommerce-SMM-Panel-monthly-Rental</link><guid isPermaLink="false">freelancer:40820048</guid><pubDate>Mon, 16 Nov 2026 04:17:49 GMT</pubDate><description>30-250 USD | I want a ready-to-go WooCommerce storefront that I can rent on a monthly basis, modelled closely on Buzzoid’s clean guest-checkout flow. The shop will offer just one category for now—Instagram followers, likes, and views—and buyers should simply paste their Instagram link, choose a quantity, pay, and leave; no account creation, no fluff.
-
-Here is what I need from you:
-
-• A lightweight WordPress + WooCommerce install already styled like Buzzoid, mobile-first and fast.
-• Simple product pages where price auto-updates as the customer enters quantity, with the link field required before checkout.
-• Payment gateways fully configured for credit/debit cards (Stripe or similar), PayPal, and a crypto option (CoinPayments, Coinbase Commerce, or comparable service).
-• Automatic order push to my SMM panel via its API the moment payment clears, with basic status callbacks so I can track fulfilment inside WooCommerce.
-• A short back-end guide so I can edit prices or add TikTok and YouTube packages later.
-• Hosting is on my side; you provide the finished site files or migrate them for me. Ongoing monthly rental and minor support/updates are part of the arrangement.
-
-If you have an existing template that meets these points, even better—just show me a demo link. I’m ready to start as soon as we agree on a hand-off timeline and the monthly fee.</description></item>
 <item><title>Weekly WordPress Content Updates</title><link>https://www.freelancer.com/projects/woocommerce/Weekly-WordPress-Content-Updates</link><guid isPermaLink="false">freelancer:40819554</guid><pubDate>Sun, 15 Nov 2026 19:25:20 GMT</pubDate><description>15-25 USD/hr | Each week I will send over a concise set of changes for my WordPress-based site—typically new images, revised text, and updated page content. The site sells Mahjong tiles, mats and sets, so you’ll adjust product prices and activate short-term sales exactly as I specify.  
 
 Beyond these routine edits, I rely on you to spot and fix any layout quirks, plugin conflicts, or other issues that crop up so the storefront and pages stay fast and error-free.
