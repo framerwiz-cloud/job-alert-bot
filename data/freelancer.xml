@@ -3,6 +3,13 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Laptop Showcase Website Development</title><link>https://www.freelancer.com/projects/web-development/Laptop-Showcase-Website-Development</link><guid isPermaLink="false">freelancer:40826089</guid><pubDate>Thu, 19 Nov 2026 13:08:53 GMT</pubDate><description>250-750 USD | I want a clean, modern website that lets visitors browse my current laptop lineup in detail, then reach me directly on WhatsApp when they are ready to ask questions or place an order. The site’s core purpose is product display with a friction-free contact pathway—no built-in checkout or payment flow at this stage.
+
+Key pages will include a home page that highlights featured models, individual product pages with photos and specs, and a WhatsApp chat button that floats or sits prominently beside every call-to-action. I’d also like a straightforward way to update inventory myself, so please recommend the CMS or framework you feel works best.
+
+When you reply, link me to past work that demonstrates similar catalog-style builds or custom contact integrations; that portfolio piece will be my main reference for choosing the developer. If you have ideas for optional add-ons such as phone or email forms down the road, feel free to mention them, but the WhatsApp channel is the must-have for this first release.
+
+I’m ready to get started as soon as I find the right fit and look forward to seeing what you’ve created before.</description></item>
 <item><title>Restaurant Pickup &amp; Loyalty App</title><link>https://www.freelancer.com/projects/app-designer/Restaurant-Pickup-Loyalty-App</link><guid isPermaLink="false">freelancer:40826057</guid><pubDate>Thu, 19 Nov 2026 12:33:02 GMT</pubDate><description>250-750 EUR | I want food delievery app :
 Restaurant Ordering &amp; Loyalty App – Feature List
 - Customer Account: Formal sign-up, login, verification (via email or phone number as agreed), and account/data deletion support   
@@ -944,23 +951,6 @@ When applying, provide:
 5. Proposed architecture and development approach.
 
 I require ownership of custom source code, workflows and documentation. Open to milestone-based development.</description></item>
-<item><title>Replicate Existing E-Commerce Design</title><link>https://www.freelancer.com/projects/web-design/Replicate-Existing-Commerce-Design</link><guid isPermaLink="false">freelancer:40821969</guid><pubDate>Tue, 17 Nov 2026 04:54:26 GMT</pubDate><description>250-750 USD | I need my new online store to look and feel exactly like a reference site I’ll share once we connect. Your role is to rebuild that design—layout, typography, colour palette, navigation, product grid, cart and checkout screens—so it’s visually identical and fully responsive across desktop, tablet and mobile.
-
-I’m open to whichever platform lets us achieve a true one-to-one result while remaining easy for me to maintain afterward—Shopify, WooCommerce, Magento or a custom React/Vue front end. Let me know what you recommend and why.
-
-You’ll focus on:
-• Pixel-perfect replication, including mobile breakpoints
-• Clean, well-commented code or theme files I can hand to other developers later
-• Fast-loading pages with basic SEO tags and compressed assets
-• Dummy content in place so I can swap in my own product data later
-• A smooth add-to-cart through order-confirmation flow that matches the original site
-
-Deliverables
-1. Complete theme/template files ready to install on the agreed platform  
-2. Brief setup guide and notes for future edits  
-3. 30-day bug-fix window after final approval  
-
-Please include links to at least two stores you’ve cloned or heavily customised. Once shortlisted we’ll jump on a quick call, review the reference site together and lock in timeline and milestones. If perfect replication is your thing, I’m excited to work with you.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
