@@ -3,23 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>WooCommerce Store Build &amp; Setup</title><link>https://www.freelancer.com/projects/ecommerce/WooCommerce-Store-Build-Setup</link><guid isPermaLink="false">freelancer:40826793</guid><pubDate>Thu, 19 Nov 2026 23:07:50 GMT</pubDate><description>250-750 USD | I’m ready to launch a full WooCommerce storefront for a range of physical products that will be shipped to customers. The core of the job is getting a clean, reliable e-commerce experience online—everything from the initial WordPress/WooCommerce install to that satisfying “order complete” email hitting the customer’s inbox.
-
-Key requirements  
-• Product catalogue structured for physical goods, with clear categories and variable product support if sizes, colors, or similar options are needed later.  
-• Shipping zones, methods, and rates configured so customers see accurate costs at checkout.  
-• Secure online payments via card and PayPal integrated and fully tested—no sandbox leftovers.  
-• Responsive layout that looks crisp on mobile, tablet, and desktop. Feel free to propose a premium theme or a lightweight custom design; what matters is speed and an intuitive user journey.  
-• Essential pages (cart, checkout, account, privacy, terms) set up and styled to match the overall look.  
-• Confirmation emails, invoice templates, and order status flow verified so buyers can follow their purchase from payment through delivery.
-
-Acceptance criteria  
-1. I can add a product, set stock, and run a test purchase from browse to email receipt without errors.  
-2. Card and PayPal transactions appear in WooCommerce orders with the correct status and details.  
-3. Shipping charges display accurately for at least two sample destinations.  
-4. Google PageSpeed Insights scores 85+ on mobile for the storefront homepage.  
-
-Once those boxes are ticked, the site goes live. If you’re confident with WooCommerce best practices and can deliver a polished, conversion-focused store, let’s get started.</description></item>
 <item><title>WordPress Developer Needed – On-Demand Website Building (Long-Term Opportunity)</title><link>https://www.freelancer.com/projects/elementor/WordPress-Developer-Needed-Demand</link><guid isPermaLink="false">freelancer:40826777</guid><pubDate>Thu, 19 Nov 2026 22:56:22 GMT</pubDate><description>30-250 CAD | Project Description:
 We are looking for reliable WordPress developers to join our team on an on-demand basis.
 
@@ -999,6 +982,23 @@ You’re free to recommend the best approach—PowerPoint, Google Slides, Canva,
 • Comes with a short guide or video showing the exact steps to make changes and push them live
 
 If you have examples of similar work, especially menus that mix food, drinks, and promotional slides, feel free to share a link or screenshot so I can see how you handle layout and readability. Once we agree on a style, I’ll supply my logo, color preferences, and initial menu items so you can build a master template that I’ll own and manage going forward.</description></item>
+<item><title>Car Giveaway E-commerce Platform</title><link>https://www.freelancer.com/projects/web-development/Car-Giveaway-commerce-Platform</link><guid isPermaLink="false">freelancer:40823891</guid><pubDate>Wed, 18 Nov 2026 07:06:37 GMT</pubDate><description>250-750 CAD | I’m building a Canada-focused online store that sells a single, limited-edition hoodie and automatically enters every buyer into a car giveaway. I need a full, production-ready website that:
+
+• Handles hoodie sales securely, accepts all major cards and Apple/Google Pay, and lets me adjust pricing or inventory without touching code.  
+• Allocates giveaway entries proportionally—one hoodie equals one entry, two hoodies equals two entries, and so on—then writes that total to the customer’s account.  
+• Shows each logged-in customer exactly how many entries they hold; no other account data needs to surface for this phase.  
+• Displays a live countdown visible to everyone until the campaign ends, after which a verifiable, online random draw selects the winner.  
+• Publishes the winner’s first name/last initial, a brief story, and an image on a public “Past Winners” page while archiving completed giveaways for transparency.  
+• Lets me trigger or schedule the draw, view all entries in the back-end, export them to CSV, and mark a winner with one click.  
+• Is responsive, fast, SEO-friendly, and ready to scale for high traffic spikes near giveaway close.  
+
+Feel free to use Shopify (with a custom app), WooCommerce, Laravel, or another proven stack—what matters is that the solution is stable and straightforward for a non-technical operator. Please outline:
+
+1. Your proposed tech stack and why it fits.  
+2. How you’ll implement the random draw so that customers can trust its fairness.  
+3. A timeline broken into key milestones (storefront, entry logic, draw module, launch).  
+
+I’ll provide branding assets and hoodie specs. Code ownership transfers to me on project completion. If you’ve built contest or raffle sites before, send a link; it will help speed up selection.</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
