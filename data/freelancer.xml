@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Navigation &amp; Security Repair</title><link>https://www.freelancer.com/projects/wordpress/WordPress-Navigation-Security-Repair</link><guid isPermaLink="false">freelancer:40825754</guid><pubDate>Thu, 19 Nov 2026 08:48:44 GMT</pubDate><description>30-250 USD | My host’s support team disabled my site’s navigation after detecting outdated plugins that could allow malware through and downgraded something (can provide later) to allow outdated plugins to work (although they were fine prior to a malware attack but which has been scrubbed/cleaned by host).  As a result, the mobile menu navigation no longer works, and the computer navigation is sluggish.  Further, a CAPTCHA appeared that we did NOT have before, and was blocking form submissions from occurring.  I need the site restored to full, secure functionality and this Captcha removed, as it was not there originally.  I was told Malware had come in not through my WPress login, but rather a plug in that controlled navigation.
+
+So here is the scope in plain terms:  
+• Re-enable and repair the main and mobile menus so every link loads the correct page on both desktop and mobile views.  
+• Identify the outdated or vulnerable plugins, update and replace any that are no longer supported or pose a security risk wit the latest best ones that protect my site from new current threats.  No plugins that allow malware to enter should be used.
+• Remove any malicious code you discover, run a full malware scan, and harden WordPress so the problem does not recur.
+• Confirm there are no security warnings, redirects, or suspicious pop-ups once the work is complete including the Captcha.
+* Restore what they downgraded to match the old plugins.  (Will provide name of it once awarded - I have to find it).  
+* Fix sluggish responses when menu is clicked. 
+* Make sure menu navigation works fully from page to page.
+
+I can supply whatever access that is required — WordPress admin, hosting control panel, and backups are all available upon request.
+
+Please let me know your approach, if you have the expertise to do this, the estimated turnaround time, and cost, so we can get the site back online quickly and safely.
+
+Whoever does this will have ongoing potential work as needed in future.</description></item>
 <item><title>Launch My Kajabi Dance Course</title><link>https://www.freelancer.com/projects/kajabi/Launch-Kajabi-Dance-Course</link><guid isPermaLink="false">freelancer:40825705</guid><pubDate>Thu, 19 Nov 2026 08:17:09 GMT</pubDate><description>30-250 AUD | I'm looking for an experienced Kajabi expert to help me build and launch my online dance course
 
 I already have my course structure, an established Instagram audience and an email waitlist. I'm creating the course content myself, but need someone to handle the technical setup and design.
@@ -876,24 +892,6 @@ I’m open on platform, but the final site has to be responsive, fast, and easy 
 Acceptance criteria: every key document or spec should be reachable from the homepage in two clicks or fewer; page load time under three seconds on a 4G connection; CMS hand-over with a short video walkthrough for my team.
 
 If you live and breathe oil and gas projects and can translate that knowledge into a user-centric digital experience, let’s talk.</description></item>
-<item><title>¡En Vivo Contigo!</title><link>https://www.freelancer.com/projects/ai-chatbot/RespondeYA</link><guid isPermaLink="false">freelancer:40821682</guid><pubDate>Tue, 17 Nov 2026 00:35:22 GMT</pubDate><description>250-750 USD | I want a complete n8n workflow that funnels every website-chat message through two AI agents—Anthropic Claude and Google Gemini—so visitors get instant, accurate answers about their own account, order, or booking.  
-
-Here’s how I picture the flow: a webhook catches the chat event, n8n verifies the customer’s identity, pulls the relevant account or order details from our database/CRM, then feeds that context to Claude. If Claude’s confidence score drops below an agreed threshold or a policy rule is triggered, Gemini steps in as either a fallback or a second opinion. The final answer is returned to the chat widget in real time, all within a few seconds.
-
-Key deliverables  
-• Production-ready n8n workflow file (.json) with clear node naming and comments  
-• Secure connectors to our database/CRM (REST or SQL, whichever you choose) that surface only the fields required for support answers  
-• Claude and Gemini prompt templates that inject the retrieved customer data and enforce tone/formatting guidelines  
-• Error-handling, retry, and logging nodes so failed calls are flagged and stored for review  
-• Environment variable setup and a quick-start README so I can import the flow, drop in my API keys, and go live  
-• Demo recording or live walkthrough proving the agent answers typical chat questions—“Where’s my order?”, “What’s the status of booking #1234?”, “Can I change my delivery address?”—with no manual intervention
-
-Acceptance criteria  
-1. A visitor receives a correct, personalised reply in under 5 seconds.  
-2. Sensitive data never appears in logs or model prompts unless explicitly required for the answer.  
-3. Switching model order (Gemini first, Claude fallback) is a one-line change in the workflow.  
-
-If you’ve built multi-model automations in n8n before—or have clever ideas on prompt engineering, vector stores, or function calling to sharpen responses—I’m all ears. Let’s ship this fast.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
