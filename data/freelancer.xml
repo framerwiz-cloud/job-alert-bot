@@ -3,14 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>AI Website Replica Development</title><link>https://www.freelancer.com/projects/ai-video/Website-Replica-Development</link><guid isPermaLink="false">freelancer:40826151</guid><pubDate>Thu, 19 Nov 2026 13:57:51 GMT</pubDate><description>250-750 GBP | Build a website that generates personalised AI video messages
+<item><title>Build AI Personalised Video Platform</title><link>https://www.freelancer.com/projects/ai-video/Build-Personalised-Video-Platform</link><guid isPermaLink="false">freelancer:40826165</guid><pubDate>Thu, 19 Nov 2026 14:04:38 GMT</pubDate><description>20-250 GBP | Replicate personalised video website 
+
+Build a website that generates personalised AI video messages
 
 I’m launching a consumer website where customers order a short personalised video message from a character presenter. The customer fills in details about the recipient, and the system writes a script and turns it into a video.
 
 How the site should work
 
 The customer enters details about the recipient (name, age, interests, recent achievements, a question to be answered)
-An AI-written script preview appears straight away, (5 second snippet video , which lets the user know their name is pronounced correctly) and the customer can edit or approve it
+An AI-written script preview appears straight away, and the customer can edit or approve it
 The customer pays and the video is generated automatically: a 30+ second AI avatar with lip-sync and AI voice, with the recipient’s name pronounced correctly
 The finished video is delivered within about 20 minutes on a private viewing link sent by email, with sharing and download
 
@@ -28,9 +30,7 @@ GDPR-compliant data handling, with videos deleted automatically after a set peri
 Requirements
 
 Must cope with a sharp seasonal spike in orders
-Mobile-first, and the design must be easy to restyle (theme, presenter and wording will be supplied later)
-
-thanks</description></item>
+Mobile-first, and the design must be easy to restyle (theme, presenter and wording will be supplied later)</description></item>
 <item><title>Laptop Showcase Website Development</title><link>https://www.freelancer.com/projects/web-development/Laptop-Showcase-Website-Development</link><guid isPermaLink="false">freelancer:40826089</guid><pubDate>Thu, 19 Nov 2026 13:08:53 GMT</pubDate><description>250-750 USD | I want a clean, modern website that lets visitors browse my current laptop lineup in detail, then reach me directly on WhatsApp when they are ready to ask questions or place an order. The site’s core purpose is product display with a friction-free contact pathway—no built-in checkout or payment flow at this stage.
 
 Key pages will include a home page that highlights featured models, individual product pages with photos and specs, and a WhatsApp chat button that floats or sits prominently beside every call-to-action. I’d also like a straightforward way to update inventory myself, so please recommend the CMS or framework you feel works best.
