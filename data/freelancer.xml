@@ -73,14 +73,6 @@ I need a WordPress developer to fix several broken links and contact elements on
 5. One of the renovation page links appears to be broken and needs to be fixed so it opens the right page.
 
 The work is small but important — these broken elements stop visitors from contacting the company. Please confirm you've worked with WordPress before, and let me know your price and timeframe.</description></item>
-<item><title>WordPress Sanitation Booking Website</title><link>https://www.freelancer.com/projects/web-development/WordPress-Sanitation-Booking-Website</link><guid isPermaLink="false">freelancer:40826447</guid><pubDate>Thu, 19 Nov 2026 17:38:58 GMT</pubDate><description>750-1500 USD | Summary
-WordPress/Bricks Expert: Build 4-Page SEO &amp; Mobile Optimized Site for Nashville Portable Restroom &amp; Trailer Rental Business
-
-****See Attached PDF for job details****
-
-We are launching a local portable sanitation company in Greater Nashville &amp; Middle Tennessee and need an expert WordPress developer to build a fast, mobile-first website based on complete blueprints already provided. The project includes 4 core pages: Homepage, Porta Potty Rentals Sub-Page, Luxury Restroom Trailer Rentals Sub-Page, and Blog Hub &amp; Single Post Template. All headers, body copy, sizing calculators, image specs, and JSON-LD schema are already written. We need pixel-perfect execution that follows our technical specifications exactly
-
-Required Skills: Portguese Bilingual.</description></item>
 <item><title>Bespoke CRM &amp; Xero Integration</title><link>https://www.freelancer.com/projects/xero/Bespoke-CRM-Xero-Integration</link><guid isPermaLink="false">freelancer:40826389</guid><pubDate>Thu, 19 Nov 2026 16:46:22 GMT</pubDate><description>5000-10000 GBP | I run Smart FM (smartfm.uk.com), a fabric-maintenance provider, and I’m ready to replace our patchwork of spreadsheets and emails with a single, purpose-built CRM. The platform must capture email and QR-code enquiries, spin them into new jobs (and new contacts when needed), send responsive updates to clients, generate operative job sheets, and keep everyone in the loop automatically.
 
 For Phase 1 I want you to concentrate on the backbone that lets the rest of the system breathe: robust reporting, invoice generation, and a real-time integration with Xero. Once that is stable we will move on to the enquiry intake, templated job sheets, and automated messaging.
@@ -942,6 +934,20 @@ Tech stack : React 18 + TypeScript 5.6, Vite 5, Tailwind 3.4
 Please send 2–3 relevant landing pages you’ve designed, a short note on your role in each, and your estimated cost and timeline. If you have conversion results from past projects, we’d love to see them.
 
 Take a look at our current homepage (siteroot.com.au)  and tell us one thing you would change first and why.</description></item>
+<item><title>WooCommerce NFT Demo Marketplace Setup</title><link>https://www.freelancer.com/projects/ethereum/WooCommerce-NFT-Demo-Marketplace-Setup</link><guid isPermaLink="false">freelancer:40823285</guid><pubDate>Tue, 17 Nov 2026 21:48:47 GMT</pubDate><description>250-750 USD | I need a clean WordPress + WooCommerce installation spun up on a sub-domain or staging URL within the next five days. Once it is live, please install and configure the free “NFT Marketplace” plugin so that visitors can immediately test buying and selling NFTs—the very first interaction I want them to experience.
+
+Both Ethereum Sepolia and Polygon Amoy test networks must be active. Users should be able to switch chains in their wallet and see the listing prices, gas fees, and completed transactions update correctly on either network. Feel free to add any required RPC or contract addresses, but document every value you enter so I can replicate it later on the production site.
+
+Create a small, attractive demo collection of digital artwork images (five to ten pieces is plenty). Each item needs an on-chain royalty set, and the royalty percentage should be visible in the product/NFT detail view. After minting the collection with testnet coins, list a few pieces for sale and leave one or two unlisted so we can walk through the full mint-to-list flow together.
+
+Deliverables  
+• Live WooCommerce test site with NFT Marketplace plugin configured  
+• Dual-network (Sepolia + Amoy) smart-contract deployment and verification links  
+• Demo digital-art NFT collection with royalties applied  
+• Step-by-step guide showing how to mint, list, buy, sell, and transfer with test coins  
+• Video or annotated screenshots proving each action completes without errors
+
+I will consider the job complete when I can log in, follow your guide, and successfully buy and resell a demo NFT on both networks using only faucet coins.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
