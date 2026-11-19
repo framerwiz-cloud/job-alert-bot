@@ -3,16 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Crypto Exchange App &amp; Website Developer Needed</title><link>https://www.freelancer.com/projects/blockchain/Crypto-Exchange-App-Website-Developer</link><guid isPermaLink="false">freelancer:40825999</guid><pubDate>Thu, 19 Nov 2026 11:56:19 GMT</pubDate><description>50+ USD/hr | Not Indian, Pakistan!!!
-I am looking for an experienced full-stack developer or development team to build a secure cryptocurrency exchange platform with a website, mobile-friendly website, iOS app, Android app, backend, and admin panel.
+<item><title>Restaurant Pickup &amp; Loyalty App</title><link>https://www.freelancer.com/projects/app-designer/Restaurant-Pickup-Loyalty-App</link><guid isPermaLink="false">freelancer:40826057</guid><pubDate>Thu, 19 Nov 2026 12:33:02 GMT</pubDate><description>250-750 EUR | I want food delievery app :
+Restaurant Ordering &amp; Loyalty App – Feature List
+- Customer Account: Formal sign-up, login, verification (via email or phone number as agreed), and account/data deletion support   
+- Branch &amp; Car Pickup: Single-branch ordering with pickup in-store or brought out directly to the car upon arrival, pickup time selection (ASAP or scheduled slot), and no delivery drivers   
+- Menu &amp; Cart: Categories, dishes, photos, descriptions, pricing, add-ons/customizations, quantities, and total review before placing the order   
+- Checkout &amp; Payment: Online payment (Card, Apple Pay, PayPal) or payment at the counter/pickup, plus order placement   
+- Loyalty &amp; Rewards: Instant points on online payment, points upon staff confirmation for counter/pickup orders, points balance/history, redemption, and reward rules (such as "every 10th pasta free" as configured)   
+- Orders: Real-time order status tracking (with optional order history &amp; reorder if selected)   
+- Notifications &amp; Email: Order confirmation/status alerts, emails, and promotional/seasonal notifications (such as Halloween or Valentine's offers) for opted-in users   
+- Admin &amp; Staff Panel: Manage orders &amp; statuses, menu/prices/availability, add/remove offers, seasonal designs/banners, and admin/staff permissions
 
-The platform should include user registration, two-factor authentication, account dashboards, crypto deposits and withdrawals, spot trading, live prices and charts, notifications, and an admin panel.
+reference app :
+https://play.google.com/store/apps/details?id=com.hellopastayourfreshpasta.hellopastayourfreshpasta&amp;hl=de
 
-Please provide your recommended technology stack, architecture, wallet/custody approach, matching engine or liquidity integration, security measures, milestone-based timeline, and cost breakdown.
+for android and ios
 
-The initial version should be tested in a test environment using testnets or simulated funds where applicable. Public launch, real-fund deposits/withdrawals, and production custody require separate approval after agreed security and legal/compliance reviews.
+note : we dont have tracking and delivery only pick up .
 
-Please include relevant crypto exchange or blockchain project examples, your exact role, deliverables, milestones, estimated costs, testing approach, and any exclusions or questions.</description></item>
+example clickable mvp we created you can start with and design and combinme rest feature from the reference app shared above:
+https://claude.ai/artifact/GF8a4AoGJ8f3FdDzwEeG62#no_universal_links
+
+
+Apple and google stores we will provide
+
+technology you suggest the cheap and quick one please . payment account you need to guide us how to set .
+which technology you will use and price and deadline please share that at first message after analyse our request.</description></item>
 <item><title>Fashion Footwear Shopify Store</title><link>https://www.freelancer.com/projects/web-development/Fashion-Footwear-Shopify-Store</link><guid isPermaLink="false">freelancer:40825926</guid><pubDate>Thu, 19 Nov 2026 10:52:59 GMT</pubDate><description>250-750 GBP | I’m preparing to launch a dedicated Shopify store focused on fashion shoes and need the entire site set up from scratch. Shoppers must be able to browse three core categories—Men’s, Women’s and Children’s shoes—see clear sub-collections, and move smoothly from product discovery through to checkout.
 
 Beyond clean navigation and an on-brand look, the store has to be fully transactional. At checkout I want friction-free payments through PayPal, Wise and standard credit or debit cards, so please configure each gateway and confirm they are working in both test and live modes.
@@ -945,24 +961,6 @@ Deliverables
 3. 30-day bug-fix window after final approval  
 
 Please include links to at least two stores you’ve cloned or heavily customised. Once shortlisted we’ll jump on a quick call, review the reference site together and lock in timeline and milestones. If perfect replication is your thing, I’m excited to work with you.</description></item>
-<item><title>AI-Powered Promotional Products Website</title><link>https://www.freelancer.com/projects/api-developmet/Powered-Promotional-Products-Website</link><guid isPermaLink="false">freelancer:40821943</guid><pubDate>Tue, 17 Nov 2026 04:34:55 GMT</pubDate><description>750-1500 AUD | I need a complete e-commerce site that mirrors our supplier’s catalogue through their API while layering an intelligent assistant over the top. Every product, cost, and decoration method should flow automatically from the supplier feed so the range is always up to date.
-
-The centrepiece is the AI agent. When a visitor lands on the site the assistant will chat with them, gather key details, then generate a full recommended order complete with quantities and live pricing. To do that the AI must first prompt for:
-
-• Event or purpose, target audience, and budget  
-• Product type, quantity, and preferred colours  
-• Logo or artwork files, delivery location, and required date  
-
-Once the proposal is built the customer can decide how to move forward: request a quote from us, add the items straight to an online cart and check out, or simply save the recommendation and have it emailed to themselves.
-
-I’m happy for you to select the tech stack – React or Vue on the front end, Node, Python or similar on the back, OpenAI or comparable LLM for the assistant – as long as it delivers a fast, mobile-friendly experience, handles secure payments, and lets me manage products, orders, and customer chats from an admin panel.
-
-Please outline:
-• Your approach to syncing and caching the supplier API  
-• How you will train / prompt the AI to produce accurate, priced recommendations  
-• Milestones for design, AI integration, API connection, testing, and launch  
-
-If you have live examples of AI-assisted shopping or complex API-driven catalogues, share them. I’m ready to move quickly once I’m confident you can deliver.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
