@@ -3,6 +3,34 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Website Replica Development</title><link>https://www.freelancer.com/projects/ai-video/Website-Replica-Development</link><guid isPermaLink="false">freelancer:40826151</guid><pubDate>Thu, 19 Nov 2026 13:57:51 GMT</pubDate><description>250-750 GBP | Build a website that generates personalised AI video messages
+
+I’m launching a consumer website where customers order a short personalised video message from a character presenter. The customer fills in details about the recipient, and the system writes a script and turns it into a video.
+
+How the site should work
+
+The customer enters details about the recipient (name, age, interests, recent achievements, a question to be answered)
+An AI-written script preview appears straight away, (5 second snippet video , which lets the user know their name is pronounced correctly) and the customer can edit or approve it
+The customer pays and the video is generated automatically: a 30+ second AI avatar with lip-sync and AI voice, with the recipient’s name pronounced correctly
+The finished video is delivered within about 20 minutes on a private viewing link sent by email, with sharing and download
+
+What I need built
+
+A landing page with a how-it-works section, an example video, pricing and FAQs
+The order form and instant AI script preview
+Payment by Stripe (GBP; other currencies would be a bonus)
+A queue-based video generation pipeline using an AI avatar or lip-sync service and AI voice
+Email delivery and a private viewing page
+A simple admin panel to see orders, re-run failed videos and issue refunds
+Pages for the blog, support, privacy policy and terms
+GDPR-compliant data handling, with videos deleted automatically after a set period
+
+Requirements
+
+Must cope with a sharp seasonal spike in orders
+Mobile-first, and the design must be easy to restyle (theme, presenter and wording will be supplied later)
+
+thanks</description></item>
 <item><title>Laptop Showcase Website Development</title><link>https://www.freelancer.com/projects/web-development/Laptop-Showcase-Website-Development</link><guid isPermaLink="false">freelancer:40826089</guid><pubDate>Thu, 19 Nov 2026 13:08:53 GMT</pubDate><description>250-750 USD | I want a clean, modern website that lets visitors browse my current laptop lineup in detail, then reach me directly on WhatsApp when they are ready to ask questions or place an order. The site’s core purpose is product display with a friction-free contact pathway—no built-in checkout or payment flow at this stage.
 
 Key pages will include a home page that highlights featured models, individual product pages with photos and specs, and a WhatsApp chat button that floats or sits prominently beside every call-to-action. I’d also like a straightforward way to update inventory myself, so please recommend the CMS or framework you feel works best.
@@ -915,42 +943,6 @@ You'll handle the full cycle with each client: finding them, working out what th
 
 If you already design websites for local businesses, or you're good with clients and want to add an ongoing service to what you already offer, let's talk and see how quickly we can start.</description></item>
 <item><title>Art Print Order Management</title><link>https://www.freelancer.com/projects/website-management/Art-Print-Order-Management</link><guid isPermaLink="false">freelancer:40822380</guid><pubDate>Tue, 17 Nov 2026 09:52:45 GMT</pubDate><description>250-750 GBP | I already have a print company linked up to handle printing and dispatching.  I need experience in pushing sales and managing my website and gallery online</description></item>
-<item><title>Scalable AI Business OS Automation -- 2</title><link>https://www.freelancer.com/projects/php/Scalable-Business-Automation</link><guid isPermaLink="false">freelancer:40822171</guid><pubDate>Tue, 17 Nov 2026 07:23:56 GMT</pubDate><description>250-750 AUD | Looking for an experienced developer to build an automated, scalable AI Business Operating System using GoHighLevel, n8n, Stripe and AI integrations.
-
-Required Features:
-
-* AI phone receptionist (24/7 answering, lead qualification and bookings).
-* AI chatbots, WhatsApp, SMS and email automation.
-* CRM and automated lead management.
-* Social media content creation, scheduling and management.
-* SEO and AI Search Optimisation (AIO).
-* Automated funnels and lead generation.
-* Business workflow automation.
-* Stripe subscriptions and payments.
-* Automated client onboarding and account creation.
-* Client and internal admin dashboards.
-* Automated reporting and system monitoring.
-
-Critical Requirement: BUILD ONCE, DEPLOY REPEATEDLY.
-
-New customers must automatically receive their configured platform using reusable GoHighLevel snapshots, n8n workflows and industry templates. No manual rebuilding for each customer.
-
-The system should support multiple industries and hundreds of businesses with minimal human involvement.
-
-Budget:
-I am a startup with a strict budget. Cost is a major deciding factor. Prioritise existing tools and cost-effective solutions over unnecessary custom development.
-
-If you cannot deliver within your proposed budget, please do not bid.
-
-When applying, provide:
-
-1. Total development cost.
-2. Estimated timeframe.
-3. Ongoing monthly costs.
-4. Relevant portfolio and experience.
-5. Proposed architecture and development approach.
-
-I require ownership of custom source code, workflows and documentation. Open to milestone-based development.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
