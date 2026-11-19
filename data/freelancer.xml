@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern Electrical Branding &amp; Site</title><link>https://www.freelancer.com/projects/logo-design/Modern-Electrical-Branding-Site</link><guid isPermaLink="false">freelancer:40826592</guid><pubDate>Thu, 19 Nov 2026 19:33:19 GMT</pubDate><description>20-250 GBP | I’ve just launched JNM Electrical and need a designer–developer who can give the company a sharp, modern-professional identity and an online home that turns visitors into customers.
+
+First, I want a clean, memorable logo that will look just as strong on a service van as it does on a business card or a mobile screen. Alongside the logo, I’ll need a concise style guide that sets out colours, typography, and basic usage rules so the look stays consistent across uniforms, invoices, social media, and signage.
+
+Once the visuals are locked in, I’d like you to build a straightforward website (WordPress or another easy-to-maintain CMS is fine) where homeowners and builders can quickly request a quote or book a service. A single conversion-focused contact/booking form, responsive layout, and clear calls-to-action are essential. I’ll supply basic copy and service info; you handle layout, imagery, and any lightweight optimisation so pages load fast.
+
+Key deliverables  
+• Editable logo files (AI, SVG, PNG, JPG)  
+• One-page brand guide (colour palette, fonts, logo usage)  
+• Live, responsive website with request-a-quote / book-now form integrated and tested  
+• Handover of admin credentials and a short walkthrough so I can update text and images myself later
+
+Please share relevant branding work and any electrical or trade-related sites you’ve launched. If you have a preferred form plugin or booking tool, let me know—simplicity for the end-user is the priority. I’m ready to get started this week and will be responsive with feedback to keep the project moving.</description></item>
 <item><title>Profitable Etsy Digital Shop Build</title><link>https://www.freelancer.com/projects/etsy/Profitable-Etsy-Digital-Shop-Build</link><guid isPermaLink="false">freelancer:40826571</guid><pubDate>Thu, 19 Nov 2026 19:20:27 GMT</pubDate><description>250-750 USD | I need a turnkey Etsy store that can start generating meaningful profit from day one. The whole shop will revolve around digital downloads—planners, calendars, to-do lists, business templates (think invoices, social media post kits, client welcome packets), plus printable décor for homes, parties, and weddings. In short, anything printable that busy parents, small-business owners, event planners, or other motivated buyers will see and purchase without hesitation.
 
 Here’s the flow I have in mind:
@@ -918,20 +931,6 @@ Tech stack : React 18 + TypeScript 5.6, Vite 5, Tailwind 3.4
 Please send 2–3 relevant landing pages you’ve designed, a short note on your role in each, and your estimated cost and timeline. If you have conversion results from past projects, we’d love to see them.
 
 Take a look at our current homepage (siteroot.com.au)  and tell us one thing you would change first and why.</description></item>
-<item><title>WooCommerce NFT Demo Marketplace Setup</title><link>https://www.freelancer.com/projects/ethereum/WooCommerce-NFT-Demo-Marketplace-Setup</link><guid isPermaLink="false">freelancer:40823285</guid><pubDate>Tue, 17 Nov 2026 21:48:47 GMT</pubDate><description>250-750 USD | I need a clean WordPress + WooCommerce installation spun up on a sub-domain or staging URL within the next five days. Once it is live, please install and configure the free “NFT Marketplace” plugin so that visitors can immediately test buying and selling NFTs—the very first interaction I want them to experience.
-
-Both Ethereum Sepolia and Polygon Amoy test networks must be active. Users should be able to switch chains in their wallet and see the listing prices, gas fees, and completed transactions update correctly on either network. Feel free to add any required RPC or contract addresses, but document every value you enter so I can replicate it later on the production site.
-
-Create a small, attractive demo collection of digital artwork images (five to ten pieces is plenty). Each item needs an on-chain royalty set, and the royalty percentage should be visible in the product/NFT detail view. After minting the collection with testnet coins, list a few pieces for sale and leave one or two unlisted so we can walk through the full mint-to-list flow together.
-
-Deliverables  
-• Live WooCommerce test site with NFT Marketplace plugin configured  
-• Dual-network (Sepolia + Amoy) smart-contract deployment and verification links  
-• Demo digital-art NFT collection with royalties applied  
-• Step-by-step guide showing how to mint, list, buy, sell, and transfer with test coins  
-• Video or annotated screenshots proving each action completes without errors
-
-I will consider the job complete when I can log in, follow your guide, and successfully buy and resell a demo NFT on both networks using only faucet coins.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
