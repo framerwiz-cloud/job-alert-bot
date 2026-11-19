@@ -3,28 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Interactive iPad Kiosk Experience</title><link>https://www.freelancer.com/projects/ios/Interactive-iPad-Kiosk-Experience</link><guid isPermaLink="false">freelancer:40826478</guid><pubDate>Thu, 19 Nov 2026 17:57:53 GMT</pubDate><description>250-750 CAD | I need a lightweight iPad kiosk app that walks each guest through a three-question survey, then lets them explore our already-finished PowerPoint by choosing a section from an on-screen menu. After 120 seconds of inactivity the app must snap back to the home screen so the next visitor starts fresh.
-
-Key flow  
-• Attract/Home screen ➜ Survey (3 questions) ➜ Section menu ➜ Selected slide segment  
-• Any idle period of two minutes triggers a full reset, clearing partial answers or slide positions.
-
-Survey data  
-I’m flexible on where the answers land—CSV in local storage, automatic email, simple cloud sheet—whatever you feel is fastest to set up and easy for me to retrieve.
-
-Environment  
-• Hardware: iPad locked in kiosk (Guided Access or single-app mode)  
-• Presentation: existing PowerPoint deck supplied by me; you can convert or embed as needed so the section menu works smoothly.  
-
-Deliverables  
-1. Installable iPad app or configuration profile.  
-2. Source files/project so I can update questions later.  
-3. Clear hand-off notes covering how to pull the survey data and how to adjust the 120-second timeout.
-
-If you have experience with Swift, SwiftUI, or trusted kiosk wrappers for iOS, this should be a quick, focused build.
- 
-**this can be built into a website - as opposed to an app - if its easier. 
-***The UI is already designed.</description></item>
 <item><title>WordPress Sanitation Booking Website</title><link>https://www.freelancer.com/projects/web-development/WordPress-Sanitation-Booking-Website</link><guid isPermaLink="false">freelancer:40826447</guid><pubDate>Thu, 19 Nov 2026 17:38:58 GMT</pubDate><description>750-1500 USD | Summary
 WordPress/Bricks Expert: Build 4-Page SEO &amp; Mobile Optimized Site for Nashville Portable Restroom &amp; Trailer Rental Business
 
@@ -933,6 +911,16 @@ The scope is campaign strategy, audience and creative testing, and ongoing optim
 What I need from you is proven experience running Meta lead gen, not ecommerce only, and a working understanding of Pixel versus CAPI, event deduplication and why attribution breaks when events only fire client-side. If you’ve dealt with lead quality problems caused by bad event data, say so, that’s the main thing I’m screening for.
 
 When you apply, tell me whether you’ve run solar or home improvement leads before, your typical cost per lead and how you measured lead quality beyond form fills. Please skip generic proposals, I’ll only reply to ones that mention specifics from this post.</description></item>
+<item><title>Client-Winning Portfolio Website Build</title><link>https://www.freelancer.com/projects/web-design/Client-Winning-Portfolio-Website-Build</link><guid isPermaLink="false">freelancer:40823007</guid><pubDate>Tue, 17 Nov 2026 17:40:36 GMT</pubDate><description>30-250 CAD | I need a clean, modern personal portfolio site that instantly positions me as the right choice when potential clients or recruiters land on it. The core purpose is to showcase my best work, highlight my experience, and make it effortless for visitors to get in touch.
+
+Here is what the finished site must offer:  
+• A project gallery that supports both high-quality images and embedded videos, presented in a grid or carousel that looks great on mobile and desktop.  
+• A concise “About Me” section with space for an extended résumé or timeline of experience.  
+• A contact form that sends directly to my inbox, paired with clearly visible social media icons linking to LinkedIn, GitHub, and Instagram.
+
+I’m flexible on the tech stack—WordPress, Webflow, or a custom HTML/CSS build are all fine—so long as the end result is responsive, quick to load, and simple for me to update without touching code every time. Basic on-page SEO (clean URLs, meta tags, alt text) and Google Analytics integration should be included.
+
+Please share one or two recent portfolio sites you’ve built that align with these goals, along with a brief outline of your process and timeline. I’m ready to get started as soon as we agree on a clear roadmap and milestones.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
