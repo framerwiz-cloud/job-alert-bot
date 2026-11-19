@@ -62,17 +62,6 @@ Here’s the flow I have in mind:
   – A simple marketing checklist covering first-week promos, Pinterest pin ideas, and email capture tactics so I’m not left guessing after go-live.
 
 Deliverables are complete once the shop is live, listings are published, and I can download every digital file exactly as a buyer would. If this aligns with your skill set, let’s map out the milestones and get the shop earning.</description></item>
-<item><title>Fix WordPress Contact Links and Navigation</title><link>https://www.freelancer.com/projects/website-development/Fix-WordPress-Contact-Links-Navigation</link><guid isPermaLink="false">freelancer:40826520</guid><pubDate>Thu, 19 Nov 2026 18:34:37 GMT</pubDate><description>250-750 USD | WordPress site — fix broken contact details and dead links on the homepage
-
-I need a WordPress developer to fix several broken links and contact elements on an existing site. The issues:
-
-1. The phone number shown on the page is correct, but the click-to-call link behind it still points to a placeholder number — it needs to link to the real one that's displayed.
-2. The email address shown is correct, but the link behind it points to a wrong placeholder email — it should link to the displayed address.
-3. In the footer, the Instagram icon is mislabelled as "Twitter" — it should correctly link to and be labelled as Instagram.
-4. The "Lees meer" button and several menu items currently link to "#" (nowhere) — they need to point to the correct pages.
-5. One of the renovation page links appears to be broken and needs to be fixed so it opens the right page.
-
-The work is small but important — these broken elements stop visitors from contacting the company. Please confirm you've worked with WordPress before, and let me know your price and timeframe.</description></item>
 <item><title>Bespoke CRM &amp; Xero Integration</title><link>https://www.freelancer.com/projects/xero/Bespoke-CRM-Xero-Integration</link><guid isPermaLink="false">freelancer:40826389</guid><pubDate>Thu, 19 Nov 2026 16:46:22 GMT</pubDate><description>5000-10000 GBP | I run Smart FM (smartfm.uk.com), a fabric-maintenance provider, and I’m ready to replace our patchwork of spreadsheets and emails with a single, purpose-built CRM. The platform must capture email and QR-code enquiries, spin them into new jobs (and new contacts when needed), send responsive updates to clients, generate operative job sheets, and keep everyone in the loop automatically.
 
 For Phase 1 I want you to concentrate on the backbone that lets the rest of the system breathe: robust reporting, invoice generation, and a real-time integration with Xero. Once that is stable we will move on to the enquiry intake, templated job sheets, and automated messaging.
@@ -948,6 +937,13 @@ Deliverables
 • Video or annotated screenshots proving each action completes without errors
 
 I will consider the job complete when I can log in, follow your guide, and successfully buy and resell a demo NFT on both networks using only faucet coins.</description></item>
+<item><title>Meta ads expert needed (lead gen + server-side tracking)</title><link>https://www.freelancer.com/projects/lead-generation/Meta-ads-expert-needed-lead</link><guid isPermaLink="false">freelancer:40823260</guid><pubDate>Tue, 17 Nov 2026 21:26:43 GMT</pubDate><description>1500-3000 GBP | I’m looking for a Meta ads expert to run lead generation campaigns for residential solar panel installations in the UK.
+
+The scope is campaign strategy, audience and creative testing, and ongoing optimisation towards cost per qualified lead rather than raw lead volume. Qualified means UK homeowner, suitable roof and a realistic energy bill, not just anyone who filled in a form. You’ll also set up the multi-step form and server-side tracking with me, the funnel runs on collectform so you’ll be working in that.
+
+What I need from you is proven experience running Meta lead gen, not ecommerce only, and a working understanding of Pixel versus CAPI, event deduplication and why attribution breaks when events only fire client-side. If you’ve dealt with lead quality problems caused by bad event data, say so, that’s the main thing I’m screening for.
+
+When you apply, tell me whether you’ve run solar or home improvement leads before, your typical cost per lead and how you measured lead quality beyond form fills. Please skip generic proposals, I’ll only reply to ones that mention specifics from this post.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
