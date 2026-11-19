@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Homepage voor Renovatiebedrijf Vernieuwen</title><link>https://www.freelancer.com/projects/wordpress-design/WordPress-Homepage-voor-Renovatiebedrijf</link><guid isPermaLink="false">freelancer:40826420</guid><pubDate>Thu, 19 Nov 2026 17:08:35 GMT</pubDate><description>250-750 EUR | Looking for a WordPress specialist to rebuild and modernise the homepage of a small renovation company's site (Dutch language). The business installs flooring and renovates staircases, and the current homepage looks unfinished and doesn't bring in enquiries.
+
+What the new homepage should include:
+- A strong header section with a clear headline and a prominent quote-request button ("Vraag een offerte aan")
+- A floating chat button for a messaging app
+- A visual portfolio showing completed jobs with before-and-after images
+- A section with starting-from prices
+- Guarantee details and typical project durations
+- A short step-by-step explanation of how the company works (from measuring to installation)
+- The regions the company covers
+- A collapsible questions-and-answers section
+- An enquiry form placed right on the homepage
+
+Other requirements:
+- Every new text must be written in fluent, native-level Dutch
+- Keep the current visual style, make it fully mobile-friendly and fast, with as few plugins as possible
+
+Working method (required):
+For privacy and security, the developer will not receive access to the online site. Instead I provide a complete copy of the site, which you rebuild and edit on your own machine using Local WP or XAMPP. Before any work starts, I'll need a screenshot showing the copy running on your computer. When finished, you hand back the updated copy so we can publish it ourselves.
+
+Please mention in your proposal: confirmation that you can work this way locally, examples of similar websites you've built, and your price and timeframe.</description></item>
 <item><title>Bespoke CRM &amp; Xero Integration</title><link>https://www.freelancer.com/projects/xero/Bespoke-CRM-Xero-Integration</link><guid isPermaLink="false">freelancer:40826389</guid><pubDate>Thu, 19 Nov 2026 16:46:22 GMT</pubDate><description>5000-10000 GBP | I run Smart FM (smartfm.uk.com), a fabric-maintenance provider, and I’m ready to replace our patchwork of spreadsheets and emails with a single, purpose-built CRM. The platform must capture email and QR-code enquiries, spin them into new jobs (and new contacts when needed), send responsive updates to clients, generate operative job sheets, and keep everyone in the loop automatically.
 
 For Phase 1 I want you to concentrate on the backbone that lets the rest of the system breathe: robust reporting, invoice generation, and a real-time integration with Xero. Once that is stable we will move on to the enquiry intake, templated job sheets, and automated messaging.
@@ -999,52 +1020,6 @@ Here is what the finished site must offer:
 I’m flexible on the tech stack—WordPress, Webflow, or a custom HTML/CSS build are all fine—so long as the end result is responsive, quick to load, and simple for me to update without touching code every time. Basic on-page SEO (clean URLs, meta tags, alt text) and Google Analytics integration should be included.
 
 Please share one or two recent portfolio sites you’ve built that align with these goals, along with a brief outline of your process and timeline. I’m ready to get started as soon as we agree on a clear roadmap and milestones.</description></item>
-<item><title>Premium Automotive E-Commerce Redesign</title><link>https://www.freelancer.com/projects/graphic-design/Premium-Automotive-Commerce-Redesign</link><guid isPermaLink="false">freelancer:40823003</guid><pubDate>Tue, 17 Nov 2026 17:36:19 GMT</pubDate><description>1500-3000 CAD | We are looking for an experienced and highly creative web designer/developer to completely modernize two existing automotive e-commerce websites:
-
-https://unitedpartswholesale.com/
-https://enetautoparts.com/
-
-Our goal is a premium, modern, visually impressive design inspired by leading automotive brands and high-end e-commerce websites. We are NOT looking for basic WordPress theme adjustments or minor cosmetic changes.
-
-Project requirements:
-
-Complete homepage redesign with modern, professional styling.
-
-High-quality automotive banners, graphics, and imagery.
-
-Improved product category layouts and product pages.
-
-Modern navigation, typography, buttons, and visual elements.
-
-Subtle animations and interactive features.
-
-Fully responsive desktop and mobile design.
-
-Improved presentation of customer reviews, warranties, and shipping information.
-
-More inviting and engaging shopping experience.
-
-Realistic AI video avatar to introduce our company and services (quoted separately).
-
-Improved website speed, usability, and SEO fundamentals.
-
-Preserve existing products, URLs, e-commerce functionality, and integrations.
-
-United Parts Wholesale will be the primary design reference, with ENET Auto Parts following a similar premium design direction while maintaining its own branding.
-
-Important requirements:
-
-We want to review and approve a professional homepage mockup before development begins.
-
-We prefer retaining our existing WordPress platform where practical.
-
-Please provide examples of your best e-commerce designs, your recommended approach, estimated timeline, and a fixed-price quote.
-
-We are looking for someone with exceptional design skills, creativity, and attention to detail who can deliver a significant transformation.
-
-We are not interested in AI customer service chatbots or AI-powered parts search at this stage.
-
-Our priority is QUALITY, MODERN DESIGN, and a PROFESSIONAL CUSTOMER EXPERIENCE.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
