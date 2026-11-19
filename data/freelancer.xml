@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Full E-Commerce Website Development</title><link>https://www.freelancer.com/projects/web-development/Full-Commerce-Website-Development-40826743</link><guid isPermaLink="false">freelancer:40826743</guid><pubDate>Thu, 19 Nov 2026 22:10:22 GMT</pubDate><description>250-750 GBP | I need a complete, production-ready e-commerce website that can showcase and sell my physical products to customers in a selection of countries. The store must allow shoppers to pick variations such as size, colour and quantity, place items in a cart, and pay securely with their preferred card or digital wallet.  
+
+An account area is essential so buyers can register, view order history, and track shipments in real time. On the back-end I should be able to add or edit products, set stock levels, create discount codes and define shipping zones that match the “selected countries” I will serve. Responsive design, clean navigation, SEO-friendly structure and basic on-page optimisation are also part of the scope.
+
+Please let me know which platform you recommend (Shopify, WooCommerce, Magento or another), what payment gateways you would integrate, and how you will configure shipping rules for my target regions. 
+
+Deliverables:
+• Fully functional storefront with all agreed features live on my domain  
+• Admin dashboard access, configured product templates and variant options  
+• Payment gateway integration tested end-to-end  
+• Shipping zones and rates set for chosen countries  
+• Basic training or documentation so I can manage products and orders myself 
+• being able to manage website as owner and manager 
+
+I’m ready to move quickly once we agree on the platform and timeline, and will provide branding assets and product data in the format you request. Show me relevant e-commerce sites you have built and outline your development approach so we can get started.</description></item>
 <item><title>Senior Web Developer - Public Website Maintenance, Security and UX (Award-Contingent, Part-Time Retainer)</title><link>https://www.freelancer.com/projects/web-development/Senior-Web-Developer-Public-Website</link><guid isPermaLink="false">freelancer:40826736</guid><pubDate>Thu, 19 Nov 2026 22:00:14 GMT</pubDate><description>20-40 USD/hr | Senior Web Developer - Public Website Maintenance, Security and UX (Award-Contingent, Part-Time Retainer).
 
 About the client: Samson Global Solutions LLC (SGS), a Virginia small business (SDVOSB, SWaM-certified) based in Culpeper County, VA.
@@ -983,20 +998,6 @@ Tech stack : React 18 + TypeScript 5.6, Vite 5, Tailwind 3.4
 Please send 2–3 relevant landing pages you’ve designed, a short note on your role in each, and your estimated cost and timeline. If you have conversion results from past projects, we’d love to see them.
 
 Take a look at our current homepage (siteroot.com.au)  and tell us one thing you would change first and why.</description></item>
-<item><title>WooCommerce NFT Demo Marketplace Setup</title><link>https://www.freelancer.com/projects/ethereum/WooCommerce-NFT-Demo-Marketplace-Setup</link><guid isPermaLink="false">freelancer:40823285</guid><pubDate>Tue, 17 Nov 2026 21:48:47 GMT</pubDate><description>250-750 USD | I need a clean WordPress + WooCommerce installation spun up on a sub-domain or staging URL within the next five days. Once it is live, please install and configure the free “NFT Marketplace” plugin so that visitors can immediately test buying and selling NFTs—the very first interaction I want them to experience.
-
-Both Ethereum Sepolia and Polygon Amoy test networks must be active. Users should be able to switch chains in their wallet and see the listing prices, gas fees, and completed transactions update correctly on either network. Feel free to add any required RPC or contract addresses, but document every value you enter so I can replicate it later on the production site.
-
-Create a small, attractive demo collection of digital artwork images (five to ten pieces is plenty). Each item needs an on-chain royalty set, and the royalty percentage should be visible in the product/NFT detail view. After minting the collection with testnet coins, list a few pieces for sale and leave one or two unlisted so we can walk through the full mint-to-list flow together.
-
-Deliverables  
-• Live WooCommerce test site with NFT Marketplace plugin configured  
-• Dual-network (Sepolia + Amoy) smart-contract deployment and verification links  
-• Demo digital-art NFT collection with royalties applied  
-• Step-by-step guide showing how to mint, list, buy, sell, and transfer with test coins  
-• Video or annotated screenshots proving each action completes without errors
-
-I will consider the job complete when I can log in, follow your guide, and successfully buy and resell a demo NFT on both networks using only faucet coins.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
