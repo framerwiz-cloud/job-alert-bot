@@ -3,32 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Build Fitness Test Module Fast</title><link>https://www.freelancer.com/projects/nextjs/Build-Fitness-Test-Module-Fast</link><guid isPermaLink="false">freelancer:40826588</guid><pubDate>Thu, 19 Nov 2026 19:34:54 GMT</pubDate><description>250-750 USD | Fitness Level Test feature — Next.js web app
-
-Budget: 250USD ~ 750USD
-
-Project Details:
-
-I need a Fitness Level Test module on my existing fitness web app. It should be a shareable public link coaches can send out: visitors complete a guided bodyweight fitness test (warm-up + scored exercises with levels), then must sign up for the free trial to unlock and save full results. The experience should feel consistent with the current workouts (steps, descriptions, scoring, mobile-friendly).
-
-Your part is to build the feature end to end in the existing Next.js / Supabase codebase—UI flow, scoring logic, trial signup gate, and result persistence—so I can plug it into production and start sharing the link.
-
-Deliverables
-• Public entry URL and guided test UI matching the app’s current workout style
-• Scoring logic + overall fitness level result
-• Trial signup gate before unlocking/saving full results
-• Concise setup notes so I can drop everything into production
-
-Acceptance criteria 
-• Anyone with the link can start and complete the test
-• Full results require free-trial signup; signed-in users can revisit saved results
-• Flow works on mobile and desktop and matches existing app patterns
-
-This is time-sensitive and needs to be done within this week; we’re willing to pay well for a strong US-based fit who can move fast with overlapping work hours for clearer communication.
-
-Keep the implementation straightforward, readable, and open to future additions. Repo access after hire. Full test content and scoring rules shared after kickoff.
-
-</description></item>
 <item><title>Modern Electrical Branding &amp; Site</title><link>https://www.freelancer.com/projects/logo-design/Modern-Electrical-Branding-Site</link><guid isPermaLink="false">freelancer:40826592</guid><pubDate>Thu, 19 Nov 2026 19:33:19 GMT</pubDate><description>20-250 GBP | I’ve just launched JNM Electrical and need a designer–developer who can give the company a sharp, modern-professional identity and an online home that turns visitors into customers.
 
 First, I want a clean, memorable logo that will look just as strong on a service van as it does on a business card or a mobile screen. Alongside the logo, I’ll need a concise style guide that sets out colours, typography, and basic usage rules so the look stays consistent across uniforms, invoices, social media, and signage.
@@ -937,6 +911,26 @@ Deliverables for each assignment
 • Source files (PSD or AI) plus exported PNG/JPG
 
 All design must be created within Mexico; familiarity with Spanish copy placement and local imagery is essential. Steady, ongoing projects await the right creative partner.</description></item>
+<item><title>SiteRoot AI Homepage Redesign</title><link>https://www.freelancer.com/projects/web-design/SiteRoot-Homepage-Redesign</link><guid isPermaLink="false">freelancer:40823310</guid><pubDate>Tue, 17 Nov 2026 22:14:32 GMT</pubDate><description>750-1500 AUD | Freelance Landing Page Designer for SiteRoot
+
+We’re looking for a freelance web designer to refresh the homepage for SiteRoot, an AI website builder that helps Australian small businesses create and manage their websites.
+
+Our current homepage feels too generic. It needs a stronger first impression, a clearer explanation of what SiteRoot does, and a more compelling reason for visitors to sign up. We like how Durable and Yola make their products easy to understand at a glance. We want that level of polish with a visual identity that feels like SiteRoot.
+What we’re looking for
+- A standout hero section that shows what someone can build with SiteRoot and gives them a clear next step.
+- A more visual product story using website examples, product screenshots or a short demo concept to show how SiteRoot works.
+- A clearer path to signup with stronger headlines, a well-structured page and calls to action that feel natural as visitors scroll.
+- A polished mobile experience that makes the product easy to understand and the signup button easy to find.
+The primary goal is more signups from homepage visitors. Our audience includes tradies, brokers, consultants and other small business owners who want a professional website they can manage themselves.
+
+Scope and how to apply
+We’re looking for a refreshed homepage design in Figma, with desktop and mobile layouts ready for development. If you also offer implementation, please quote it separately.
+
+Tech stack : React 18 + TypeScript 5.6, Vite 5, Tailwind 3.4
+
+Please send 2–3 relevant landing pages you’ve designed, a short note on your role in each, and your estimated cost and timeline. If you have conversion results from past projects, we’d love to see them.
+
+Take a look at our current homepage (siteroot.com.au)  and tell us one thing you would change first and why.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
