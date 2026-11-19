@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fashion Footwear Shopify Store</title><link>https://www.freelancer.com/projects/web-development/Fashion-Footwear-Shopify-Store</link><guid isPermaLink="false">freelancer:40825926</guid><pubDate>Thu, 19 Nov 2026 10:52:59 GMT</pubDate><description>250-750 GBP | I’m preparing to launch a dedicated Shopify store focused on fashion shoes and need the entire site set up from scratch. Shoppers must be able to browse three core categories—Men’s, Women’s and Children’s shoes—see clear sub-collections, and move smoothly from product discovery through to checkout.
+
+Beyond clean navigation and an on-brand look, the store has to be fully transactional. At checkout I want friction-free payments through PayPal, Wise and standard credit or debit cards, so please configure each gateway and confirm they are working in both test and live modes.
+
+To make sure nothing is missed, here’s what I expect as concrete deliverables:  
+• Theme installation and styling that matches a modern fashion aesthetic  
+• Category and product page templates ready for me to populate  
+• PayPal, Wise and card processing fully integrated and tested  
+• Responsive design checks on mobile, tablet and desktop  
+• Basic SEO settings applied (titles, meta, alt text placeholders)  
+• A short handover guide so I can manage products and orders myself
+
+If you’ve built Shopify footwear or apparel sites before and can move quickly while keeping a keen eye on design, I’d love to hear how soon you could have a first draft ready.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
@@ -940,22 +953,6 @@ Please outline:
 • Milestones for design, AI integration, API connection, testing, and launch  
 
 If you have live examples of AI-assisted shopping or complex API-driven catalogues, share them. I’m ready to move quickly once I’m confident you can deliver.</description></item>
-<item><title>Oil &amp; Gas Website Redesign</title><link>https://www.freelancer.com/projects/web-design/Oil-Gas-Website-Redesign</link><guid isPermaLink="false">freelancer:40821903</guid><pubDate>Tue, 17 Nov 2026 03:58:52 GMT</pubDate><description>250-750 USD | I’m ready to overhaul our corporate website so that engineers, procurement teams, and HSE managers can reach the technical information they need in as few clicks as possible. Because our audience is almost entirely energy-sector professionals, I need a designer–developer who already understands the terminology, documentation, and compliance culture of oil and gas.
-
-The existing site buries critical content. In the new build, service details, equipment specs, project case studies with hard numbers, and all safety certificates must sit front and center. Just as important, the layout has to showcase our full range of services and capabilities, underline our track record with recognizable clients, and make our safety culture unmistakable.
-
-My ideal flow looks like this: visitors land on a clean, modern homepage, choose a service or a project type, and immediately see spec sheets, photos, and downloadable PDFs. Past projects should be filterable by region, discipline, and results, while a separate compliance area houses every certificate in an organized repository.
-
-I’m open on platform, but the final site has to be responsive, fast, and easy for our in-house team to update—think WordPress with a solid page-builder or a lightweight headless setup if you can justify it. Whichever route you choose, I’ll need:
-
-• Wireframes that prove the information architecture solves our “hard-to-find” problem  
-• Polished UI designs tailored to an energy-sector brand  
-• Full development and migration of current content, including redirect mapping  
-• Basic analytics and on-page SEO set-up so we can track how well users find specs, case studies, and certificates
-
-Acceptance criteria: every key document or spec should be reachable from the homepage in two clicks or fewer; page load time under three seconds on a 4G connection; CMS hand-over with a short video walkthrough for my team.
-
-If you live and breathe oil and gas projects and can translate that knowledge into a user-centric digital experience, let’s talk.</description></item>
 <item><title>Fitness Program Lead-Gen Landing Page</title><link>https://www.freelancer.com/projects/web-design/Fitness-Program-Lead-Gen-Landing</link><guid isPermaLink="false">freelancer:40821216</guid><pubDate>Mon, 16 Nov 2026 17:47:24 GMT</pubDate><description>10-15 GBP/hr | I need a conversion-focused landing page that showcases my 4-week fitness &amp; fat-loss programme and turns cold traffic into warm leads. The single, clear call-to-action is for visitors to submit their name, email address and current fitness goal so they can receive full programme details.
 
 The page should feel energetic, trustworthy and mobile-first, using bold imagery, concise copy and a prominent “Learn More” form above the fold. Once the form is completed, an automated confirmation message (or email, if you can wire it up to Mailchimp/ConvertKit) should fire so prospects know their request was received.
