@@ -518,24 +518,6 @@ Ideal skills and experience:
 - Proficiency in creating site figures using templates
 - Experience with public satellite imagery
 - Strong drafting skills for both PDF and editable formats</description></item>
-<item><title>Full-Stack Medical Consult Development</title><link>https://www.freelancer.com/projects/web-development/Full-Stack-Medical-Consult-Development</link><guid isPermaLink="false">freelancer:40826197</guid><pubDate>Thu, 19 Nov 2026 14:22:39 GMT</pubDate><description>35-55 USD/hr | I am building a secure, end-to-end web platform that lets patients handle every stage of a medical visit online. On the patient side they must be able to search a doctor’s availability, book a slot, pay for the appointment at checkout, join an in-browser video call at the scheduled time, and keep an ongoing chat thread where they can upload lab results or images before and after the consultation.
-
-Two additional user groups need their own dashboards:
-
-• Doctors will open a calendar view to confirm or adjust availability, enter consultation notes, launch the video room with one click, and review files patients have shared.
-• Clinic staff will oversee bookings and patient records, while a super-admin tier manages users, doctors, and global site settings.
-
-A modern, responsive front-end (React, Vue or similar) tied to a robust back-end (Node/Express, Laravel, Django — I am flexible) will be required. HIPAA-ready security practices, JWT-based auth, role-based access control, WebRTC or a proven video SDK, and a payment gateway such as Stripe should all be woven in from the start.
-
-Deliverables
-• Responsive UI for patients, doctors, staff, admin
-• Booking engine with real-time availability and online payment
-• Secure video consultation module
-• Encrypted messaging &amp; document upload feature
-• REST/GraphQL API with full CRUD for all entities
-• Deployment instructions and basic test data
-
-I will provide wireframes and user-flow diagrams; you handle the coding, database design, and initial deployment to a cloud host of your choice. Clean, well-commented code and a short walkthrough video will be the acceptance criteria.</description></item>
 <item><title>Restaurant Pickup &amp; Loyalty App</title><link>https://www.freelancer.com/projects/app-designer/Restaurant-Pickup-Loyalty-App</link><guid isPermaLink="false">freelancer:40826057</guid><pubDate>Thu, 19 Nov 2026 12:33:02 GMT</pubDate><description>250-750 EUR | I want food delievery app :
 Restaurant Ordering &amp; Loyalty App – Feature List
 - Customer Account: Formal sign-up, login, verification (via email or phone number as agreed), and account/data deletion support   
