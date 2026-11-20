@@ -3,13 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Business Website Build Helper Needed</title><link>https://www.freelancer.com/projects/web-development/Business-Website-Build-Helper-Needed</link><guid isPermaLink="false">freelancer:40827577</guid><pubDate>Fri, 20 Nov 2026 11:31:48 GMT</pubDate><description>250-750 USD | I’m starting from scratch and need a skilled developer who can take my ideas and turn them into a polished website that showcases my business and the services we provide. The site will function mainly as an online brochure, so clear navigation, clean visuals, and concise copy placement are key.  
-
-I already have a logo, color palette, and draft content; what I’m missing is the technical and creative expertise to weave everything together into a responsive, SEO-friendly site that looks great on mobile and desktop. WordPress is my preferred platform for its flexibility, though I’m open to another CMS if you can demonstrate clear advantages.  
-
-Here’s what success looks like for me: the finished site loads quickly, follows basic on-page SEO best practices, integrates Google Analytics, and is easy enough for me to update afterward without touching code. Once the build is complete, I’ll need a brief hand-over session or documentation so I can add news items or edit service descriptions in the future.  
-
-Send a short note outlining your approach, a couple of similar projects, and an estimated timeline. I’m ready to move forward as soon as I find the right partner.</description></item>
 <item><title>Comprehensive Website UX Design Review</title><link>https://www.freelancer.com/projects/ui-design/Comprehensive-Website-Design-Review</link><guid isPermaLink="false">freelancer:40827490</guid><pubDate>Fri, 20 Nov 2026 09:59:45 GMT</pubDate><description>30-250 USD | I’ve just launched a new site and need a fresh, expert eye on it. My priority is improving the overall design and ease of use so potential customers find every page intuitive, visually appealing, and effortless to navigate.  
 
 Please explore the entire site—not just the homepage—flagging any layout inconsistencies, confusing flows, clunky interactions, or accessibility gaps that might distract or frustrate visitors. I’m especially interested in practical, clearly explained fixes I can pass straight to my developer or tackle myself.
@@ -874,6 +867,22 @@ Someone who can quickly respond to urgent website updates and business requireme
 
 
 A candidate who takes ownership of projects from development through deployment and maintenance.</description></item>
+<item><title>Multi-Business Booking SaaS Development</title><link>https://www.freelancer.com/projects/full-stack-development/Multi-Business-Booking-SaaS-Development</link><guid isPermaLink="false">freelancer:40824662</guid><pubDate>Wed, 18 Nov 2026 16:08:07 GMT</pubDate><description>250-750 CAD | I’m creating a cloud-based scheduling and booking platform that several independent businesses can share under one roof. Each business must be able to set up its own services—ranging from one-to-one appointments to group classes and even rentable rooms or equipment—and present real-time availability to customers.  
+
+Customers should have three payment options at checkout: pay the full amount, leave a deposit, or reserve now and settle at the appointment. Transactions need to flow seamlessly through a gateway such as Stripe or a comparable provider, with automatic receipts and refund handling.  
+
+The calendar layer is equally critical: events must appear instantly inside the app and stay in sync with external calendars (Google, Outlook, iCal) to avoid double-booking. Drag-and-drop rescheduling, staff assignment, capacity limits, and automated email/SMS reminders all belong in the core experience.  
+
+Because this is true software-as-a-service, I need a multi-tenant architecture where data is isolated yet the codebase remains single. Each tenant gets a branded portal, its own admin dashboard, and role-based permissions for owners, managers, staff, and customers.  
+
+Deliverables  
+• Full-stack source code in a Git repo with clear setup instructions  
+• Deployed MVP on my cloud account (AWS preferred, but flexible)  
+• REST or GraphQL API documentation  
+• Basic analytics and audit logs  
+• Test suite plus a brief hand-off walkthrough  
+
+If you’ve built something similar—especially with React, Vue, Node.js, Django, or comparable stacks—tell me which technologies you’d use here and share any live examples. I’m ready to move quickly once the right approach is confirmed.</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
