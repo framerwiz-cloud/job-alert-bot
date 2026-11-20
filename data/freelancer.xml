@@ -28,35 +28,6 @@ Acceptance criteria
 • Conversions and revenue visible in the dashboard we agree on.
 
 If you’ve built similar low-ticket funnels and know your way around Skool, click-funnels-style builders, and email tools like ActiveCampaign or ConvertKit, I’d love to see your approach and timeline.</description></item>
-<item><title>Professional Services Info Website - Mortgage Broking</title><link>https://www.freelancer.com/projects/web-design/Professional-Services-Info-Website-40826964</link><guid isPermaLink="false">freelancer:40826964</guid><pubDate>Fri, 20 Nov 2026 02:16:13 GMT</pubDate><description>250-750 AUD | I need a clean, modern website that simply tells visitors who I am, what professional services I offer, and how to reach me. The site’s sole purpose is to present information clearly—think consulting, legal, or accounting style content—so prospects can read about each service and contact me without fuss.
-
-Core requirements  
-• Responsive design that looks sharp on desktop and mobile  
-• Straight-forward navigation: Home, About, Services, and Contact  
-• Contact page with a form that routes messages to my email and shows my phone and office address  
-• Easy-to-update CMS (WordPress, Webflow, or similar) so I can add text or swap images myself  
-• Light on graphics, heavy on clarity; branded colors and a professional typography pairing  
-• Basic on-page SEO and Google Analytics integration
-
-Deliverables  
-1. Fully functional live site on my hosting  
-2. Admin credentials and brief hand-over guide  
-3. One revision round after the first draft goes live
-
-If you’ve built similar informational sites for professional firms, please share two or three links so I can gauge style fit.</description></item>
-<item><title>Website Functionality Fix</title><link>https://www.freelancer.com/projects/web-development/Website-Functionality-Fix-40826882</link><guid isPermaLink="false">freelancer:40826882</guid><pubDate>Fri, 20 Nov 2026 00:40:16 GMT</pubDate><description>250-750 USD | I'm seeking an experienced web developer to resolve critical issues on my site. 
-
-Key Requirements:
-- Fix malfunctioning contact forms
-- Ensure payment systems work correctly and are accurately recorded
-- Repair user login and registration processes
-
-Ideal Skills and Experience:
-- Proven track record in troubleshooting and fixing website issues
-- Expertise in handling contact forms and payment gateways
-- Strong background in user authentication systems
-
-Please provide examples of similar work completed.</description></item>
 <item><title>E-commerce Image Editing</title><link>https://www.freelancer.com/projects/image-processing/commerce-Image-Editing-40826843</link><guid isPermaLink="false">freelancer:40826843</guid><pubDate>Thu, 19 Nov 2026 23:59:33 GMT</pubDate><description>250-750 USD | i! We're looking for a reliable photo editor to help us prepare product images for our online store.
 
 We have around 300 product photos that need some editing before publication. Most of the pictures are already taken, so we're not looking for complicated photo manipulation. We mainly need clean, consistent images that look professional and fit the style of our store.
@@ -909,6 +880,67 @@ What I expect from you:
 • Configure or repair the password-reset email so users receive the link instantly  
 
 Please reply with a quick note on similar troubleshooting you have handled, highlighting the technologies involved and the results you achieved. Once we agree to start, I will give you server and admin access so you can dive straight into log files, payment gateway settings, and mail-sending configuration. The job is finished when pages load cleanly, transactions process, and password resets work for at least two separate test accounts.</description></item>
+<item><title>WooCommerce Course Site Finalization</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Course-Site-Finalization</link><guid isPermaLink="false">freelancer:40824581</guid><pubDate>Wed, 18 Nov 2026 15:05:08 GMT</pubDate><description>30-250 USD | **ONLY APPLY IF YOU HAVE LMS PROVEN EXPERIENCE***
+We have just completed a WP Site and now need to finish the smaller details to launch. It's an online education website that features 6 courses that are video /lesson based but not live.
+
+The website currently uses WordPress, Elementor, LifterLMS, WooCommerce, and Square. Six courses, their instructional structures, quizzes, product records, and certificate configurations already exist.  **The Budget is $100 plus a perfect 5.0 rating and potentially a monthly management fee)
+
+Required Work:
+
+-Audit the current website installation, database, course configurations, payment gateway, and purchase-to-enrollment connections.
+
+-Implement and verify automatic enrollment into the correct LifterLMS course or package following a successful WooCommerce payment.
+
+-Complete the customer purchasing experience, including product selection, checkout, payment confirmation, account creation, course access, and transactional email notifications.
+
+-Configure and verify the student learning experience, including lesson navigation, saved progress, assessments, prerequisites, final examinations, completion rules, and certificate issuance.
+
+-Implement the approved corporate enrollment system, including bulk seat purchases, company administration, individual student assignments, and applicable pricing tiers.
+
+-Preserve Ai BASICS and Ai ADVANCED package relationships, the existing course pricing, and the eligibility conditions for the Ai ADVANCED upgrade.
+
+-Correct the website's existing presentation and navigation problems, including inconsistent headers, broken enrollment pages, student account layout, and unwanted product-image zoom and enlargement behavior.
+
+-Complete comprehensive end-to-end testing using dedicated student accounts and Square Sandbox. Once all required functionality passes, configure Square for production, conduct a controlled real-payment test, and verify refund processing.
+
+-Preserve all existing WordPress, WooCommerce, and LifterLMS records. Avoid unnecessary new plugins, subscriptions, duplicate products, and replacement course records.
+
+-Provide documented implementation details, source code, backup and rollback procedures, test results, and maintenance instructions.
+
+-We will provide all of the video files (when ready) for you to add to each course / lesson.
+
+
+Acceptance Criteria:
+
+The project is complete only when a customer can independently purchase a course, receive verified enrollment, access and complete the training, pass the required assessment, and receive the appropriate certificate without administrator intervention.
+
+Corporate purchasing, student assignments, package entitlements, and upgrade eligibility must also pass their designated acceptance tests before those offers are launched.
+
+Expected Deliverables:
+
+A functioning production website, documented customizations, confirmed course and purchase workflows, successful test transactions, evidence of student enrollment and certificate issuance, and a clear maintenance and recovery guide. All must be fully mobile responsive.
+
+
+PROJECTS FILES:
+
+https://www.dropbox.com/scl/fo/ft4eviooe3r9ndckc9f8g/AMzFQ4IMEGe20Ac2rN6uUyU?rlkey=sv0at58a66pe5v11qjzwafq65&amp;st=479h419p&amp;dl=0</description></item>
+<item><title>WEBSITE FOR AIRPORT TRANSFERS - TESLA EV CARS ONLY -</title><link>https://www.freelancer.com/projects/web-design/WEBSITE-FOR-AIRPORT-TRANSFERS-TESLA</link><guid isPermaLink="false">freelancer:40824475</guid><pubDate>Wed, 18 Nov 2026 13:59:39 GMT</pubDate><description>150-400 GBP | budget £300-£400 max - PLEASE DONT SEND ME OFFERS READ AND MESSAGE ME IF YOU CAN DO THE JOB!
+
+I need a clean, professional airport transfer website that is budget-friendly. The booking form should be unique and not resemble those on other websites. Key components include:
+- A contact page featuring a contact form, along with a phone number and email.
+- A fleet page showcasing vehicle photos, descriptions, and capacity info.
+- Pricing structure: £50 minimum and £1 per mile. or £45 minimum rate and £1 per mile there after.
+- Two types of vehicles I will need a Saloon EV Tesla just one type of car and maybe MPV or Estate in the future but just TESLA EV for NOW.
+
+example websites can be similar or better but not worse
+- https://booking.umbrellatransfers.com/
+- https://airportstaxitransfers.com
+- https://carrotcars.co.uk/
+- https://www.hoppa.com/
+
+Use these websites and its booking form as an example do not send me random websites that you have copied and pasted from WordPress or made and its similar to other random websites and they all have the same booking forms even with freelancers from Fiverr Upwork and Freelancer.
+
+Ideal candidates should have experience in creating simple and modern booking forms, as well as good pricing for low-budget projects. Please, no overly expensive proposals.</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
