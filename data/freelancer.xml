@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Membership Site With Tiered Access</title><link>https://www.freelancer.com/projects/graphic-design/Membership-Site-With-Tiered-Access</link><guid isPermaLink="false">freelancer:40828270</guid><pubDate>Fri, 20 Nov 2026 23:54:03 GMT</pubDate><description>30-250 USD | I need a small but solid website that lets visitors create an account with a simple email-and-password form. Once they confirm their details they should land inside a members area where I can post a mix of written pieces, videos, downloadable resources, discount codes and general member-only updates.
+
+There will be two tiers for now—free and paid—so the system must automatically show or hide content based on a member’s status. I want to be able to flag each article, video, or deal as “free” or “paid” in the back-end and trust the site to take care of the rest.  
+
+Core requirements  
+• Email/password registration, login and forgotten-password flow  
+• Clear separation of free vs. paid content and deals  
+• Admin dashboard where I can upload new files, embed videos, publish articles, and add discount codes without touching code  
+• Clean, modern front-end that looks good on desktop and mobile  
+• Secure payment gateway integration for upgrading to the paid plan (Stripe or PayPal—whichever you recommend)  
+• Basic analytics so I can see sign-ups, upgrades, and popular content  
+
+Please build it with a mainstream stack (WordPress + MemberPress, Laravel + Jetstream, or a comparable solution) that I can maintain myself once the project wraps. After launch I’ll need a brief hand-over guide covering user management, content posting, and how to label items as free or paid.  
+
+If you have relevant examples, share a link or screenshot so I can gauge fit.</description></item>
 <item><title>Website and WooCommerce help.</title><link>https://www.freelancer.com/projects/website-development/Website-WooCommerce-help</link><guid isPermaLink="false">freelancer:40828169</guid><pubDate>Fri, 20 Nov 2026 21:19:20 GMT</pubDate><description>15-25 USD/hr | Hello,
 
 We are looking for someone for a long-term relationship to help with fixes and changes to our website and WooCommerce shop.
@@ -775,23 +790,6 @@ Webpage is ready, the email content will be provided.
 Please quote based on your expectation of payment from this listing. 
 If something needs to be added can be discussed. 
 Thanks for your attention to this !</description></item>
-<item><title>Music Publishing Showcase Website</title><link>https://www.freelancer.com/projects/web-development/Music-Publishing-Showcase-Website</link><guid isPermaLink="false">freelancer:40824843</guid><pubDate>Wed, 18 Nov 2026 18:43:22 GMT</pubDate><description>250-750 GBP | I want a clean, responsive website that is mobile first and easy to navigate that puts our music publishing roster and curated playlist compilation themed albums front-and-center. The site’s single purpose is to showcase every artist and release in our catalog, so visual impact and intuitive navigation are crucial.  
-
-For each artist or release I need:  
-• An embedded DISCO.AC player so visitors can listen without leaving the page  
-• A short biography with photos (ideally managed through an easy CMS)  
-• Spotify and Youtube Links (where applicable)
-• A clear “Licensing / Booking Enquiry” button that opens a form or pre-filled email  
-
-Beyond the roster pages, the build should include a searchable catalog landing page, a lightweight news or updates section, and a general contact page. I’m open to WordPress, Webflow or another modern stack—whichever lets me update bios, tracks and artwork myself after launch.
-
-Key acceptance points  
-• DISCO.AC streams load quickly on desktop and mobile  
-• Enquiry forms route to my chosen email with spam protection in place  
-• All content editable through the CMS, no code needed for routine updates  
-• Delivery of design files, working site, and a short hand-off guide  
-
-If this feels like your sweet spot, let’s discuss timelines and the best platform to get it live.</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
