@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
+
+1. A visitor fills out the sign-up form as usual.  
+2. Immediately after they hit “submit”, the video ad appears.  
+3. Only when the ad finishes do we trigger creation of the new account and take them to the welcome page.  
+4. If they close, skip, or otherwise fail to finish the ad, the system must abandon the sign-up attempt and show a polite message explaining that membership requires watching the full ad.
+
+I’m open to whatever stack makes this smooth—JavaScript, React hooks, PHP or Node on the backend, plus the Google IMA SDK or a similar ad API—so long as it plugs cleanly into my existing HTML/CSS pages. I’ll supply the current codebase and a test ad unit; you handle the rest: handling callbacks, validating completion, and a short README so I can drop the new files into production without drama.
+
+Deliverables  
+• Fully integrated ad-gating code (front-end + server validation)  
+• Graceful fallback messaging for blocked ads or errors  
+• Clear setup instructions and comments in the code
+
+If you’ve built rewarded-video or IMA-based flows before, this should be quick work—let’s get it live.</description></item>
 <item><title>Website and WooCommerce help.</title><link>https://www.freelancer.com/projects/website-development/Website-WooCommerce-help</link><guid isPermaLink="false">freelancer:40828169</guid><pubDate>Fri, 20 Nov 2026 21:19:20 GMT</pubDate><description>15-25 USD/hr | Hello,
 
 We are looking for someone for a long-term relationship to help with fixes and changes to our website and WooCommerce shop.
