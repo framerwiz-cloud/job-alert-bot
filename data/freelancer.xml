@@ -56,23 +56,6 @@ Please deliver:
 • Clean, readable HTML/CSS/JS without broken links or missing assets  
 
 I will consider the job done when the archive loads flawlessly on my side, all pages render identically to the live site, and every resource is accounted for. If that passes, we can discuss any follow-up edits or redesigns.</description></item>
-<item><title>WooCommerce Store Build &amp; Setup</title><link>https://www.freelancer.com/projects/ecommerce/WooCommerce-Store-Build-Setup</link><guid isPermaLink="false">freelancer:40826793</guid><pubDate>Thu, 19 Nov 2026 23:07:50 GMT</pubDate><description>250-750 USD | I’m ready to launch a full WooCommerce storefront for a range of physical products that will be shipped to customers. The core of the job is getting a clean, reliable e-commerce experience online—everything from the initial WordPress/WooCommerce install to that satisfying “order complete” email hitting the customer’s inbox.
-
-Key requirements  
-• Product catalogue structured for physical goods, with clear categories and variable product support if sizes, colors, or similar options are needed later.  
-• Shipping zones, methods, and rates configured so customers see accurate costs at checkout.  
-• Secure online payments via card and PayPal integrated and fully tested—no sandbox leftovers.  
-• Responsive layout that looks crisp on mobile, tablet, and desktop. Feel free to propose a premium theme or a lightweight custom design; what matters is speed and an intuitive user journey.  
-• Essential pages (cart, checkout, account, privacy, terms) set up and styled to match the overall look.  
-• Confirmation emails, invoice templates, and order status flow verified so buyers can follow their purchase from payment through delivery.
-
-Acceptance criteria  
-1. I can add a product, set stock, and run a test purchase from browse to email receipt without errors.  
-2. Card and PayPal transactions appear in WooCommerce orders with the correct status and details.  
-3. Shipping charges display accurately for at least two sample destinations.  
-4. Google PageSpeed Insights scores 85+ on mobile for the storefront homepage.  
-
-Once those boxes are ticked, the site goes live. If you’re confident with WooCommerce best practices and can deliver a polished, conversion-focused store, let’s get started.</description></item>
 <item><title>WordPress Developer Needed – On-Demand Website Building (Long-Term Opportunity)</title><link>https://www.freelancer.com/projects/elementor/WordPress-Developer-Needed-Demand</link><guid isPermaLink="false">freelancer:40826777</guid><pubDate>Thu, 19 Nov 2026 22:56:22 GMT</pubDate><description>30-250 CAD | Project Description:
 We are looking for reliable WordPress developers to join our team on an on-demand basis.
 
@@ -924,6 +907,87 @@ example websites can be similar or better but not worse
 Use these websites and its booking form as an example do not send me random websites that you have copied and pasted from WordPress or made and its similar to other random websites and they all have the same booking forms even with freelancers from Fiverr Upwork and Freelancer.
 
 Ideal candidates should have experience in creating simple and modern booking forms, as well as good pricing for low-budget projects. Please, no overly expensive proposals.</description></item>
+<item><title>WordPress Malware Recovery &amp; SEO Cleanup</title><link>https://www.freelancer.com/projects/seo/WordPress-Malware-Recovery-SEO-Cleanup</link><guid isPermaLink="false">freelancer:40824238</guid><pubDate>Wed, 18 Nov 2026 10:48:19 GMT</pubDate><description>250-750 EUR | # WordPress Security &amp; SEO Recovery Specialist
+
+**Malware Removal | Google Index Recovery | Long-Term Technical Partnership**
+
+We are looking for an experienced WordPress security specialist to recover a compromised business website and potentially become our long-term technical operations partner.
+
+### The current challenge
+
+Our WordPress website was recently compromised.
+
+Google Search Console now reports hundreds of thousands of suspicious URLs, despite the website containing only a small number of legitimate pages.
+
+Unauthorized product snippets and potentially malicious structured data have also appeared.
+
+We are not looking for someone who simply installs a security plugin or temporarily removes the visible symptoms.
+
+We need a specialist who understands the underlying problem and can build a reliable long-term solution.
+
+### Scope of work
+
+**Phase 1 – Investigation &amp; Recovery**
+- Investigate the WordPress installation, plugins, themes, database and hosting environment.
+- Identify the likely entry point and investigate persistence mechanisms.
+- Remove malicious code, unauthorized content and backdoors.
+- Restore the website securely without compromising legitimate content.
+- Provide a short technical report covering findings, corrective actions and remaining risks.
+
+**Phase 2 – Google Index Recovery**
+- Analyze compromised URLs and unauthorized product structured data.
+- Develop a scalable strategy to remove malicious URLs from Google's index.
+- Verify correct HTTP responses and clean sitemaps.
+- Preserve legitimate pages and organic search visibility.
+- Establish a process for monitoring indexing recovery.
+
+**Phase 3 – Long-Term Security &amp; Monitoring**
+- Implement automated malware and file-integrity monitoring.
+- Establish WordPress security updates, backups and recovery procedures.
+- Configure security alerts and independent uptime monitoring.
+- Provide regular maintenance reports and defined incident-response procedures.
+
+### Required experience
+
+- WordPress malware removal and incident investigation
+- PHP, MySQL and WordPress internals
+- WordPress security hardening and server administration
+- Google Search Console and technical SEO recovery
+- Automated monitoring and backup management
+
+Experience with large-scale SEO spam infections involving thousands of malicious URLs is particularly valuable.
+
+### Application – Technical Screening
+
+Please answer the following questions:
+
+1. How would you identify and eliminate the root cause of this WordPress compromise, rather than simply removing visible malware?
+
+2. Why would you handle 100,000+ spam URLs already discovered or indexed by Google using your preferred strategy compared to alternative approaches?
+
+3. What monitoring setup would you implement to detect future compromises automatically, including malware, unauthorized URLs and suspicious file changes?
+
+4. Would you recommend repairing the existing WordPress installation or rebuilding it from verified clean components? Explain what would influence your decision.
+
+Please also include one relevant past project, your hourly rate and your preferred structure for a long-term maintenance agreement.
+
+After reviewing your complete application, including the attached questionnaire, we'll be happy to get to know you via video call and get proceed as soon as possible. 
+
+### What we offer
+
+We propose starting with a paid technical assessment, followed by a clearly scoped recovery project.
+
+For the right candidate, we offer:
+
+- A recurring maintenance agreement with predictable compensation
+- Performance incentives linked to measurable security and maintenance quality
+- Technical ownership and autonomy within an agreed scope
+- Preferred access to future development and automation projects
+- The opportunity to grow into a long-term technical partnership
+
+We value proactive problem-solving, transparency, reliability and a genuine interest in building sustainable systems.
+
+**Our goal is to establish a long-term technical partnership, not just complete a one-time malware cleanup.**</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
