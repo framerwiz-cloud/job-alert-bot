@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>MedUnitUS home page</title><link>https://www.freelancer.com/projects/web-design/MedUnitUS-home-page</link><guid isPermaLink="false">freelancer:40829408</guid><pubDate>Sat, 21 Nov 2026 22:16:06 GMT</pubDate><description>30-250 USD | I have a finished mock-up that shows exactly how the new WordPress homepage should look. Your job is to translate that single image into a fully responsive page, then wire every main button and navigation link to three brand-new pages you’ll also build: About, Services, and Contact.
+
+Because the mock-up is all I have right now, I’ll rely on you to supply (or source) the initial text and royalty-free images so the site feels complete. I can refine the copy afterward, but I need you to get the first draft in place.
+
+Deliverables  
+• Pixel-perfect homepage matching the design image  
+• About, Services, and Contact pages created and linked from the homepage  
+• Placeholder or draft content (text + images) for all four pages  
+• Clean, responsive layout that works on mobile, tablet, and desktop  
+• Easy editing inside WordPress (Elementor, Gutenberg, or similar—your choice)  
+
+Once everything is live on my hosting, I’ll review and request any quick tweaks needed to sign off.</description></item>
 <item><title>Freelance Web Developer, New Jersey only (Edison or Scotch Plains area preferred), on-call backup</title><link>https://www.freelancer.com/projects/web-development/Freelance-Web-Developer-New-Jersey</link><guid isPermaLink="false">freelancer:40829382</guid><pubDate>Sat, 21 Nov 2026 21:24:13 GMT</pubDate><description>15-25 USD/hr | A New Jersey web development firm, is looking for an individual freelance web developer to join our team as an on-call technical backup for a public-sector website and social media contract starting January 2027.
 
 Who we are looking for
@@ -39,18 +51,6 @@ Your social media posting experience
 Your hourly rate
 Your availability for short-notice requests, including some evenings and weekends</description></item>
 <item><title>Automotive Parts POS System Development</title><link>https://www.freelancer.com/projects/pos-development/Automotive-Parts-POS-System-Development</link><guid isPermaLink="false">freelancer:40829346</guid><pubDate>Sat, 21 Nov 2026 20:50:33 GMT</pubDate><description>750-1500 CAD | Need professional POS system for Automotive (parts)industries</description></item>
-<item><title>Nationwide Custom Foam SEO Website</title><link>https://www.freelancer.com/projects/web-design/Nationwide-Custom-Foam-SEO-Website</link><guid isPermaLink="false">freelancer:40829316</guid><pubDate>Sat, 21 Nov 2026 19:54:31 GMT</pubDate><description>30-250 USD | I need a clean, search-focused website that presents our custom-cut upholstery foam services and lifts us to the top of Google results nationwide. The site must clearly explain three core offers—custom-cut foam by size and shape, upholstery foam replacement for furniture, and foam for boats, RVs, and outdoor cushions—then funnel visitors to a simple quote-request form or phone call.
-
-I’m after straightforward navigation, fast load times, and solid on-page SEO: keyword-rich headings, concise service pages, meta data, alt tags, and an FAQ section that targets long-tail questions people ask when shopping for foam. Because we serve customers across the whole country, the copy has to avoid location-locking language while still reassuring users we can ship to their door.
-
-Deliverables
-• Responsive website (WordPress, Webflow, or similarly flexible platform)  
-• Dedicated page for each of the three services listed above  
-• Contact / quote form that lets users attach measurements or sketches  
-• Foundational on-page SEO baked into every page  
-• Basic instructions so my team can update text or add photos later
-
-Once the site is live and indexed, success is measured by improved rankings for our main service keywords and a steady flow of national quote requests. I’m ready to get started as soon as I find the right developer-SEO partner.</description></item>
 <item><title>Service Booking Website &amp; Admin Dashboard</title><link>https://www.freelancer.com/projects/web-development/Service-Booking-Website-Admin-Dashboard</link><guid isPermaLink="false">freelancer:40829225</guid><pubDate>Sat, 21 Nov 2026 17:48:15 GMT</pubDate><description>2-8 USD/hr | I run a small team that handles cleaning, moving, furniture assembly, delivery, and gardening jobs. I need a modern, mobile-friendly website that makes it effortless for visitors to land on the homepage, understand what we do at a glance, and book the help they need.  Core user flow  • Visitors arrive on a polished landing page, pick a service, complete a simple booking form, choose a date and time, upload any helpful photos, and pay online and an option to pay cash. • They can just as easily request a quote when details are unclear.  • Once the booking is placed, customers create (or log in to) an account where they can track job status in real time and review past orders.  Back-office requirements  On my side I want a clean dashboard—accessible from any device—to view, edit, and assign incoming jobs, update progress, issue invoices or refunds, and export basic reports. Staff logins with role-based permissions are essential so the team only sees what they need.  Key expectations  – Sleek, fast UI that feels current rather than templated.  – Secure payment integration (Stripe or similar).  – Responsive design and clear calls to action.  – SEO-ready structure and Google Analytics connected.  – Training or concise documentation so my team can add services, prices, and promotions without developer help.  Tech stack is open; WordPress with custom plugins, Laravel + Vue, or a React/Node build are all fine as long as performance, security, and future scalability are covered.  Deliverables  1. Live website hosted on our domain, HTTPS enabled.  2. Admin dashboard with role controls and job management.  3. Payment gateway fully tested in production mode.  4. One-page guide (or short screen-share session) explaining routine updates.  If you have previous examples of service-booking portals or dashboards you built, share the links so I can gauge fit. Let’s create a site that impresses at first click and keeps operations tidy behind the scenes.</description></item>
 <item><title>Construction Startup Marketing &amp; Branding</title><link>https://www.freelancer.com/projects/digital-marketing/Construction-Startup-Marketing-Branding</link><guid isPermaLink="false">freelancer:40829091</guid><pubDate>Sat, 21 Nov 2026 15:32:14 GMT</pubDate><description>30-250 CAD | I run a one-person construction startup and need a digital partner who can make us visible and memorable online, then turn that visibility into real client enquiries. My priority is building brand awareness, so every channel should feel cohesive and professional while nudging prospects toward contacting me.
 
@@ -278,6 +278,21 @@ Core requirements
 Please build it with a mainstream stack (WordPress + MemberPress, Laravel + Jetstream, or a comparable solution) that I can maintain myself once the project wraps. After launch I’ll need a brief hand-over guide covering user management, content posting, and how to label items as free or paid.  
 
 If you have relevant examples, share a link or screenshot so I can gauge fit.</description></item>
+<item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
+
+1. A visitor fills out the sign-up form as usual.  
+2. Immediately after they hit “submit”, the video ad appears.  
+3. Only when the ad finishes do we trigger creation of the new account and take them to the welcome page.  
+4. If they close, skip, or otherwise fail to finish the ad, the system must abandon the sign-up attempt and show a polite message explaining that membership requires watching the full ad.
+
+I’m open to whatever stack makes this smooth—JavaScript, React hooks, PHP or Node on the backend, plus the Google IMA SDK or a similar ad API—so long as it plugs cleanly into my existing HTML/CSS pages. I’ll supply the current codebase and a test ad unit; you handle the rest: handling callbacks, validating completion, and a short README so I can drop the new files into production without drama.
+
+Deliverables  
+• Fully integrated ad-gating code (front-end + server validation)  
+• Graceful fallback messaging for blocked ads or errors  
+• Clear setup instructions and comments in the code
+
+If you’ve built rewarded-video or IMA-based flows before, this should be quick work—let’s get it live.</description></item>
 <item><title>Website and WooCommerce help.</title><link>https://www.freelancer.com/projects/website-development/Website-WooCommerce-help</link><guid isPermaLink="false">freelancer:40828169</guid><pubDate>Fri, 20 Nov 2026 21:19:20 GMT</pubDate><description>15-25 USD/hr | Hello,
 
 We are looking for someone for a long-term relationship to help with fixes and changes to our website and WooCommerce shop.
