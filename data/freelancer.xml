@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom E-Commerce Store with Product Designer</title><link>https://www.freelancer.com/projects/web-development/Custom-Commerce-Store-with-Product</link><guid isPermaLink="false">freelancer:40828309</guid><pubDate>Sat, 21 Nov 2026 01:06:58 GMT</pubDate><description>1000-6500 USD | I need a complete e-commerce website for **Urban Stitch Custom Creations**, my veteran-owned business specializing in custom apparel, personalized gifts, and awareness designs. Customers should be able to shop ready-made designs, personalize products, preview their own artwork, and request quotes for custom or bulk orders.
+
+I want a bold, patriotic look with a black or midnight navy background, muted red accents, and warm white text. Use my logo, large product photos, and the tagline **“Creating Awareness One Design at a Time.”** The site should be easy to browse and buy from on a phone.
+
+### Homepage and storefront
+
+The homepage should give visitors four clear ways to get started: **Shop Ready-Made Designs, Personalize a Product, Request a Free Quote, and Explore Monthly Awareness.** Feature popular products, seasonal gift bundles, and the current awareness campaign. Include a short introduction to the business and a simple explanation of how custom ordering works.
+
+Organize the shop into categories such as apparel, drinkware, blankets, home décor, puzzles, ornaments, and gift bundles. Product pages should show photos, pricing, sizes, colors, personalization options, estimated production and shipping times, and care instructions where applicable. Include search, product filters, a shopping cart, secure checkout, and order confirmation emails.
+
+### Interactive product customizer
+
+I want customers to be able to **upload their own artwork onto a blank product and see a live preview before purchasing**. They should be able to add text, move and resize their design, and see where the printable area ends. The editor should work across multiple product types, including shirts, hoodies, mugs, tumblers, and tote bags, with product-specific print areas. Save the original artwork, placement details, and preview with the order so I can produce what the customer approved.
+
+### Custom orders and design services
+
+Create a **Request a Free Quote** page for bulk orders, events, teams, businesses, and projects that need design help. Collect the customer’s name, email, product type, quantity, needed-by date, project details, and any inspiration files. Save inquiries where I can review them and send me an email notification for each new request. Include a services page for custom design, logo design, brand refreshes, mockups, and charity collaborations.
+
+### About, awareness, and customer support
+
+Create an About page with three sections covering my story as the founder, what Urban Stitch Custom Creations offers, and why monthly awareness matters to the business. Build an Awareness page where I can update the featured cause, showcase related products, and share how each campaign gives back.
+
+Include a Contact page, FAQs, order tracking, and clear policies for shipping, returns, refunds, and personalized orders. I also need to be able to update products, prices, banners, seasonal collections, and awareness campaigns myself. Build the site with fast-loading pages, descriptive page titles, and clear headings so customers can find our products through search.</description></item>
 <item><title>Membership Site With Tiered Access</title><link>https://www.freelancer.com/projects/graphic-design/Membership-Site-With-Tiered-Access</link><guid isPermaLink="false">freelancer:40828270</guid><pubDate>Fri, 20 Nov 2026 23:54:03 GMT</pubDate><description>30-250 USD | I need a small but solid website that lets visitors create an account with a simple email-and-password form. Once they confirm their details they should land inside a members area where I can post a mix of written pieces, videos, downloadable resources, discount codes and general member-only updates.
 
 There will be two tiers for now—free and paid—so the system must automatically show or hide content based on a member’s status. I want to be able to flag each article, video, or deal as “free” or “paid” in the back-end and trust the site to take care of the rest.  
@@ -753,43 +776,6 @@ Here’s what I’m looking for:
 • Basic analytics reporting so I can see which pieces of work are generating the most interest
 
 Deliverables will be reviewed weekly; I’d like the first two weeks of content concepts within five days of hire. If you’re Dallas-based and know your way around Instagram, Facebook, Canva/Adobe tools, and Meta Business Suite, let’s talk.</description></item>
-<item><title>WordPress Event Registration Integration</title><link>https://www.freelancer.com/projects/stripe/WordPress-Event-Registration-Integration</link><guid isPermaLink="false">freelancer:40824882</guid><pubDate>Wed, 18 Nov 2026 19:13:09 GMT</pubDate><description>30-250 CAD | I’m setting up an event on my WordPress site and need the full registration flow put in place.  
-
-Scope of work  
-– Build or configure the WordPress form and map it to Stripe Checkout.  
-
-WordPress, Brevo &amp; Stripe – flow process for events that is repeatable in the future and can be moved to a new website in the near future
-
-1. Project Objective
-Build one complete, working event registration, payment, with email communication system using the existing WordPress website, Brevo account, and Stripe account integration.
-The system must support a repeatable setup to be used for independent events while only changing the event details each time. 
-The client will provide all email content and event-specific information.
-The freelancer is responsible for building the flow with technical configuration, integration, automation logic, basic testing, and written documentation to sign off. The automation is to come from the existing aspects of Registration form, Brevo and Stripe
-Basic Concept of flow
-Brevo Flow =
-Registration form on wordpress event page&gt;submit will add to an event list and main list&gt;sends email of registration to client and admin &gt;takes client to stripe payment link&gt;
-On payment &gt; adds client to secondary list of paid and if they do not pay to an Unpaid relevant to the event name and list
-2 Days prior  to the event email goes to unpaid list as a reminder for payment &gt; if they pay the persons registration gets added to the paid list
-8 hours prior to the event &gt; email with event details gets sent to paid list
-Anyone registering and pays after this window gets added to the main list and the paid list and gets the event details via email
-People can register and pay up to the end of the event
-Email to be sent post event manual timing for the recordings.
-
-– Connect the successful payment webhook to Brevo so the confirmation email fires instantly.  
-– Style the email template inside Brevo to match my existing brand colors and add a calendar-add link
-– Test the entire flow end-to-end in both Stripe test mode and live mode, fixing any field mapping or formatting issues you notice.  
-– Hand over clear instructions (or a short Loom) showing me how to update prices, dates, or email copy in the future.
-
-Acceptance criteria  
-1. A new user can register, pay, and receive the confirmation email without manual intervention.  
-2. All captured data appears in both WordPress form entries and the Brevo contact record.  
-3. No duplicate or missing records after multiple test submissions.  
-4. Visual styling matches the current site on desktop and mobile.
-
-Webpage is ready, the email content will be provided. 
-Please quote based on your expectation of payment from this listing. 
-If something needs to be added can be discussed. 
-Thanks for your attention to this !</description></item>
 <item><title>GoHighLevel SaaS Demo and Sales Expert</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-SaaS-Demo-Sales-Expert</link><guid isPermaLink="false">freelancer:40823635</guid><pubDate>Wed, 18 Nov 2026 03:43:35 GMT</pubDate><description>8-15 USD/hr | GoHighLevel Expert and Live SaaS Demo Specialist (On Camera, Fluent English)
 Short version for a headline or subject line: Hiring a GoHighLevel pro who loves demoing. Be the face of our product.
 Body:
