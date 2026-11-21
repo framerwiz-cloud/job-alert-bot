@@ -3,6 +3,38 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Clone Website, Rebrand Seamlessly</title><link>https://www.freelancer.com/projects/web-design/Clone-Website-Rebrand-Seamlessly</link><guid isPermaLink="false">freelancer:40829412</guid><pubDate>Sat, 21 Nov 2026 22:20:25 GMT</pubDate><description>30-250 USD | I have a reference site whose structure, navigation, and overall look I like. I want a near-identical build that keeps all of its main pages and contact forms, but swaps in my own logo, colour palette, copy, and imagery so the finished version is unmistakably my brand.  
+
+The layout, animations, and user experience should mirror the original as closely as possible; only the visual identity and wording change. The contact forms must stay fully functional and route to the email address I will provide. No payment processing or e-commerce modules are needed.
+
+Deliverables  
+• Pixel-accurate replication of every primary page and section found on the reference site  
+• All contact forms recreated and tested with live email delivery  
+• Replacement of logo, colours, text, and images with assets I supply  
+• Clean, well-commented source files and deployment instructions so I can host the site myself  
+
+Please let me know which stack you plan to use and how long you’ll need to turn this around. I’ll share the reference URL and brand assets as soon as we start.</description></item>
+<item><title>Crypto Service Website with Telegram</title><link>https://www.freelancer.com/projects/web-development/Crypto-Service-Website-with-Telegram</link><guid isPermaLink="false">freelancer:40829411</guid><pubDate>Sat, 21 Nov 2026 22:20:10 GMT</pubDate><description>10-15 GBP/hr | I need a compact website―no more than four public pages―built around taking service orders, guiding clients through a crypto payment, and then keeping everyone updated through Telegram.
+
+Front-end  
+The public side is simple: a landing page, a “How It Works” or Services page, an Order page with the form, and a dedicated Crypto Payment page. The visual style can be minimal; clarity and mobile responsiveness matter more than flashy effects.
+
+Order workflow  
+Clients will place an order by completing a form that captures their name, Telegram username, full service details, and an internal order reference I assign. As soon as they submit, the data should reach me instantly in two places: a secure database and my Telegram account (via bot or API).
+
+Crypto payment step  
+After the form, the site shows my wallet address and the exact amount due. When the client sends the funds they’ll be prompted to paste their transaction hash (TXID) into a confirmation field. The site must verify that the TXID format is valid, store it against the order, and notify me in Telegram.
+
+Order tracking  
+Each order record must also hold the client’s delivery address (for any physical component), order number, items or package selected, and, later, a postal tracking number. When I add that tracking number in the admin area, the client should automatically receive it—ideally by both email and Telegram message.
+
+Admin area  
+A lightweight dashboard is enough: list of orders, search/filter, status update, and a field to paste the tracking code. Export to CSV would be a bonus.
+
+Tech notes  
+Feel free to suggest the stack, but I lean toward something mainstream—Laravel, Node, or a lightweight Django build—backed by MySQL or Postgres. The Telegram side can be handled with the Bot API, and the crypto piece just needs reliable address/amount display and TXID capture (no on-chain validation required). SSL, GDPR-compliant data handling, and basic security best practices are expected.
+
+Let me know which framework you prefer and a realistic timeframe for going live.</description></item>
 <item><title>MedUnitUS home page</title><link>https://www.freelancer.com/projects/web-design/MedUnitUS-home-page</link><guid isPermaLink="false">freelancer:40829408</guid><pubDate>Sat, 21 Nov 2026 22:16:06 GMT</pubDate><description>30-250 USD | I have a finished mock-up that shows exactly how the new WordPress homepage should look. Your job is to translate that single image into a fully responsive page, then wire every main button and navigation link to three brand-new pages you’ll also build: About, Services, and Contact.
 
 Because the mock-up is all I have right now, I’ll rely on you to supply (or source) the initial text and royalty-free images so the site feels complete. I can refine the copy afterward, but I need you to get the first draft in place.
@@ -725,19 +757,6 @@ Ideal Skills &amp; Experience:
 - Knowledge of inventory management systems
 
 Please provide a portfolio with similar projects.</description></item>
-<item><title>Modern Electrical Branding &amp; Site</title><link>https://www.freelancer.com/projects/logo-design/Modern-Electrical-Branding-Site</link><guid isPermaLink="false">freelancer:40826592</guid><pubDate>Thu, 19 Nov 2026 19:33:19 GMT</pubDate><description>20-250 GBP | I’ve just launched JNM Electrical and need a designer–developer who can give the company a sharp, modern-professional identity and an online home that turns visitors into customers.
-
-First, I want a clean, memorable logo that will look just as strong on a service van as it does on a business card or a mobile screen. Alongside the logo, I’ll need a concise style guide that sets out colours, typography, and basic usage rules so the look stays consistent across uniforms, invoices, social media, and signage.
-
-Once the visuals are locked in, I’d like you to build a straightforward website (WordPress or another easy-to-maintain CMS is fine) where homeowners and builders can quickly request a quote or book a service. A single conversion-focused contact/booking form, responsive layout, and clear calls-to-action are essential. I’ll supply basic copy and service info; you handle layout, imagery, and any lightweight optimisation so pages load fast.
-
-Key deliverables  
-• Editable logo files (AI, SVG, PNG, JPG)  
-• One-page brand guide (colour palette, fonts, logo usage)  
-• Live, responsive website with request-a-quote / book-now form integrated and tested  
-• Handover of admin credentials and a short walkthrough so I can update text and images myself later
-
-Please share relevant branding work and any electrical or trade-related sites you’ve launched. If you have a preferred form plugin or booking tool, let me know—simplicity for the end-user is the priority. I’m ready to get started this week and will be responsive with feedback to keep the project moving.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
