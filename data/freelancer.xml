@@ -51,27 +51,6 @@ Deliverables
 • Clean, well-commented source files and deployment instructions so I can host the site myself  
 
 Please let me know which stack you plan to use and how long you’ll need to turn this around. I’ll share the reference URL and brand assets as soon as we start.</description></item>
-<item><title>Crypto Service Website with Telegram</title><link>https://www.freelancer.com/projects/web-development/Crypto-Service-Website-with-Telegram</link><guid isPermaLink="false">freelancer:40829411</guid><pubDate>Sat, 21 Nov 2026 22:20:10 GMT</pubDate><description>10-15 GBP/hr | I need a compact website―no more than four public pages―built around taking service orders, guiding clients through a crypto payment, and then keeping everyone updated through Telegram.
-
-Front-end  
-The public side is simple: a landing page, a “How It Works” or Services page, an Order page with the form, and a dedicated Crypto Payment page. The visual style can be minimal; clarity and mobile responsiveness matter more than flashy effects.
-
-Order workflow  
-Clients will place an order by completing a form that captures their name, Telegram username, full service details, and an internal order reference I assign. As soon as they submit, the data should reach me instantly in two places: a secure database and my Telegram account (via bot or API).
-
-Crypto payment step  
-After the form, the site shows my wallet address and the exact amount due. When the client sends the funds they’ll be prompted to paste their transaction hash (TXID) into a confirmation field. The site must verify that the TXID format is valid, store it against the order, and notify me in Telegram.
-
-Order tracking  
-Each order record must also hold the client’s delivery address (for any physical component), order number, items or package selected, and, later, a postal tracking number. When I add that tracking number in the admin area, the client should automatically receive it—ideally by both email and Telegram message.
-
-Admin area  
-A lightweight dashboard is enough: list of orders, search/filter, status update, and a field to paste the tracking code. Export to CSV would be a bonus.
-
-Tech notes  
-Feel free to suggest the stack, but I lean toward something mainstream—Laravel, Node, or a lightweight Django build—backed by MySQL or Postgres. The Telegram side can be handled with the Bot API, and the crypto piece just needs reliable address/amount display and TXID capture (no on-chain validation required). SSL, GDPR-compliant data handling, and basic security best practices are expected.
-
-Let me know which framework you prefer and a realistic timeframe for going live.</description></item>
 <item><title>MedUnitUS home page</title><link>https://www.freelancer.com/projects/web-design/MedUnitUS-home-page</link><guid isPermaLink="false">freelancer:40829408</guid><pubDate>Sat, 21 Nov 2026 22:16:06 GMT</pubDate><description>30-250 USD | I have a finished mock-up that shows exactly how the new WordPress homepage should look. Your job is to translate that single image into a fully responsive page, then wire every main button and navigation link to three brand-new pages you’ll also build: About, Services, and Contact.
 
 Because the mock-up is all I have right now, I’ll rely on you to supply (or source) the initial text and royalty-free images so the site feels complete. I can refine the copy afterward, but I need you to get the first draft in place.
