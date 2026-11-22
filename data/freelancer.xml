@@ -3,6 +3,45 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Searchable Journal Archive Platform</title><link>https://www.freelancer.com/projects/wordpress/Build-Searchable-Journal-Archive</link><guid isPermaLink="false">freelancer:40830411</guid><pubDate>Sun, 22 Nov 2026 16:55:09 GMT</pubDate><description>3000-5000 USD | Functionality to Parse and Display Journals on Our Website
+
+My stamp club produces a quarterly journal.  The Journal is posted on our website with both the ability to browse the complete journal and search the journal.  The journal search is more than just a key word search, it pulls up the complete articles with the key word being searched irrespective of the page.  For example, if the article is on page 2-4 and then continues to page 10 and 11, the search will display the complete article.  Similar to how a story may be organized in a Newspaper.  The current functionality relies upon the individual who runs the program breaking down the content, which has not been reliable.
+
+    The club is looking to develop functionality that replaces and enhances this functionality and is owned by the club so we can use this functionality on other journals.  The current functionality can be found on: https://www.collectorsclub.org/ccp/browse-search-the-ccp/  Test copies of the journal (CCP) can be obtained by using the browse selection.
+
+Requirements:
+•	The product must work with our current WordPress website – Please address the ease at which your proposal can be used should the club migrate away from WordPress. (You will see the current functionality is NOT integrated with WordPress. 
+•	The Club plans to transition to a commercially available Membership Plug in such as Ultimate Membership Pro or similar.  If your proposal is contingent upon a specific membership Plug in please list this.  We can consider a variety of membership plug-ins, beyond the standard functionality we require the ability to pro-rate a subscription. https://ultimatemembershippro.com/
+
+- Search Functionality - 
+•	Perform Keyword search that are included in the larger website search as well as the journal only.
+o	User can choose different categories of assets (Similar to the way WordPress allows users to Create Categories and Sub-Categories and those categories can be incorporated into a search or display.
+	Example of how to expand internal CCP Components:
+	Currently we can search by Author,  Advertiser, year(s) with groupings, as well as keyword
+	We may want to add other categories as some point, like “Presidents Message” or “Financial Report” ect.  We understand that adding the categories will require work by the club to identify the sections in journals that have been processed.
+	Examples of Categories outside the CCP Journals could be: Website content, Specific other Journals from other Clubs (ie. Search a journal called BNA and the CCP).  We do not have these External categories yet, but would like a tool that will allow us to other sources.
+•	We have a vast Video Library which we plan to develop transcripts.  The Search should have the ability to link the Transcript to the video such that the video and transcript will appear in the search.
+•	The ability for a user to save their research to use at a future time.
+•	A push capability that will message a user when content is added that meets their search criteria.
+•	The ability of researchers to leave comments about the article.
+o	The comments must go to a Web Admin for approval before Posting  (typical WordPress functionality).
+•	Ability to identify the award willing Articles (Can be part of the Search).
+•	The ability of the User to Click on an author’s name and be connected to an Author Profile Page – as if the Authors were users.
+•	The ability to display content based on Membership Category (normal wordpress functionality).
+
+    - Requirements for the functionality to Parse the Journals and storage-
+•	We understand that this will likely require a volunteer to identify the Journal Sections.  The more this can be automated the better.
+o	We need the ability to add categories.
+•	Should be simple and easy to use by non-technical volunteers or the Journal editor.
+•	Scalable to accommodate a future volume for the club or assets not stored on the Club server.
+
+
+  We are not adverse to a solution that adapts an existing product, such as WooCommerce to meet our needs.
+    Please include the required licenses for your solution: ie. Adobe Acrobat  Pro: etc.
+    Please include information that addresses how the solution can be updated with changes in Wordpress or the assumed technology.  
+   The Club will own the solution developed and have the right to sub-license.  
+You are welcome to share solutions that expand upon the functionality we would like, but please specify if there are any areas that will be problematic or will constitute a disproportionate cost such that the club can assess if that feature warrants our investment at this time.
+Thank you.</description></item>
 <item><title>Modern Home &amp; Kitchen Website Design</title><link>https://www.freelancer.com/projects/web-design/Modern-Home-Kitchen-Website-Design</link><guid isPermaLink="false">freelancer:40830390</guid><pubDate>Sun, 22 Nov 2026 16:31:37 GMT</pubDate><description>250-750 USD | I'm looking for a creative website designer to help us develop a fresh, professional visual design for our home and kitchen products brand.
 
 We sell practical products for everyday use, mainly kitchen storage solutions, pantry organizers, and home accessories. We want our website to feel modern, welcoming, and easy to navigate, while giving visitors a clear understanding of what we sell and what makes our products useful.
@@ -736,29 +775,6 @@ Deliverables:
 • being able to manage website as owner and manager 
 
 I’m ready to move quickly once we agree on the platform and timeline, and will provide branding assets and product data in the format you request. Show me relevant e-commerce sites you have built and outline your development approach so we can get started.</description></item>
-<item><title>Nonprofit Digital Marketing, Social Media &amp; Website Development</title><link>https://www.freelancer.com/projects/digital-marketing/Nonprofit-Digital-Marketing-Social-Media</link><guid isPermaLink="false">freelancer:40826690</guid><pubDate>Thu, 19 Nov 2026 20:59:37 GMT</pubDate><description>250-750 USD | We are Goodland Academy, a nonprofit Christian private school located in Hugo, Oklahoma. We are seeking an experienced Digital Marketing Manager and Website Developer to help grow our school.
-
-Responsibilities include:
-
-Social Media Management: Manage Facebook and Instagram, create engaging posts, graphics, videos, and advertising campaigns.
-
-Website Development: Improve, update, and maintain our existing website, including enrollment, scholarship, and donation pages.
-
-Student Recruitment: Develop marketing campaigns to increase student enrollment and promote scholarship opportunities.
-
-Fundraising Marketing: Create digital campaigns to attract donors and promote charitable giving.
-
-Graphic Design: Create professional flyers, brochures, banners, and billboard advertisements.
-
-Email Marketing: Develop newsletters and outreach campaigns for parents, donors, and community supporters.
-
-Marketing Strategy: Develop a monthly marketing plan and provide performance reports.
-
-We prefer someone with experience marketing nonprofit organizations, private schools, or educational institutions.
-
-Our initial budget is $300–$500 per month. Major website development projects may be negotiated separately.
-
-Please provide examples of your previous work, websites you have developed, and social media accounts you have managed.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
