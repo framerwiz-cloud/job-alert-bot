@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify NMI Recurring Subscription Integration</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Shopify-NMI-Recurring-Subscription</link><guid isPermaLink="false">freelancer:40830483</guid><pubDate>Sun, 22 Nov 2026 18:07:34 GMT</pubDate><description>30-250 USD | Hi,
+
+I am looking for someone experienced with Shopify subscriptions and payment gateway integrations to help me set up a subscription-based payment system for my Shopify store.
+
+My store is currently using NMI (PayKings) as the payment processor, which is already connected to Shopify.
+
+What I want to accomplish is to make every purchase on my Shopify store a recurring subscription rather than a one-time payment.
+
+I need someone who can:
+
+Set up recurring subscription billing for every sale made through my Shopify store.
+Integrate the subscription system with my existing NMI (PayKings) payment gateway.
+Make sure customers are automatically charged on a recurring basis (monthly or based on the billing cycle we configure).
+Ensure subscriptions are created automatically when a customer completes a purchase.
+Make sure recurring payments are processed successfully through NMI.
+Ensure everything works properly with Shopify orders, customer accounts, and subscription management.
+
+Important: I do not want to switch payment processors. I want to continue using my existing NMI (PayKings) account connected to Shopify.
+
+Before moving forward, please let me know:
+
+Have you worked with NMI/PayKings and Shopify integrations before?
+Can you set up automatic recurring subscriptions through this payment gateway?
+Can you make every checkout purchase automatically enroll the customer in a subscription?
+What would you need from me to complete this project?
+What is your estimated price and turnaround time?
+
+I am looking for someone who has actual experience with this type of integration and can make sure the entire process works correctly from checkout to recurring billing.
+
+Thank you!</description></item>
 <item><title>Build Searchable Journal Archive Platform</title><link>https://www.freelancer.com/projects/wordpress/Build-Searchable-Journal-Archive</link><guid isPermaLink="false">freelancer:40830411</guid><pubDate>Sun, 22 Nov 2026 16:55:09 GMT</pubDate><description>3000-5000 USD | Functionality to Parse and Display Journals on Our Website
 
 My stamp club produces a quarterly journal.  The Journal is posted on our website with both the ability to browse the complete journal and search the journal.  The journal search is more than just a key word search, it pulls up the complete articles with the key word being searched irrespective of the page.  For example, if the article is on page 2-4 and then continues to page 10 and 11, the search will display the complete article.  Similar to how a story may be organized in a Newspaper.  The current functionality relies upon the individual who runs the program breaking down the content, which has not been reliable.
@@ -760,21 +790,6 @@ Please deliver:
 • Clean, readable HTML/CSS/JS without broken links or missing assets  
 
 I will consider the job done when the archive loads flawlessly on my side, all pages render identically to the live site, and every resource is accounted for. If that passes, we can discuss any follow-up edits or redesigns.</description></item>
-<item><title>Full E-Commerce Website Development</title><link>https://www.freelancer.com/projects/web-development/Full-Commerce-Website-Development-40826743</link><guid isPermaLink="false">freelancer:40826743</guid><pubDate>Thu, 19 Nov 2026 22:10:22 GMT</pubDate><description>250-750 GBP | I need a complete, production-ready e-commerce website that can showcase and sell my physical products to customers in a selection of countries. The store must allow shoppers to pick variations such as size, colour and quantity, place items in a cart, and pay securely with their preferred card or digital wallet.  
-
-An account area is essential so buyers can register, view order history, and track shipments in real time. On the back-end I should be able to add or edit products, set stock levels, create discount codes and define shipping zones that match the “selected countries” I will serve. Responsive design, clean navigation, SEO-friendly structure and basic on-page optimisation are also part of the scope.
-
-Please let me know which platform you recommend (Shopify, WooCommerce, Magento or another), what payment gateways you would integrate, and how you will configure shipping rules for my target regions. 
-
-Deliverables:
-• Fully functional storefront with all agreed features live on my domain  
-• Admin dashboard access, configured product templates and variant options  
-• Payment gateway integration tested end-to-end  
-• Shipping zones and rates set for chosen countries  
-• Basic training or documentation so I can manage products and orders myself 
-• being able to manage website as owner and manager 
-
-I’m ready to move quickly once we agree on the platform and timeline, and will provide branding assets and product data in the format you request. Show me relevant e-commerce sites you have built and outline your development approach so we can get started.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
