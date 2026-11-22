@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
+
+Core capability  
+• The bot should recognise a customer by order number, email, or phone, connect to our store’s API, and return live order status and carrier tracking links in natural language.  
+• Handling this first task accurately and with near-instant response time is the priority; everything else can follow later.
+
+Tech &amp; integration notes  
+Our store runs on Shopify, and we already expose order data through a private REST API.  I’m open to Dialogflow CX, Rasa, LangChain on OpenAI, or another framework if you can show it keeps latency low.  Code must be containerised (Docker) and ready for a one-click deploy to AWS.
+
+Deliverables  
+1. Working chat widget embedded on our site  
+2. Backend service that fetches and formats order status/tracking details  
+3. Simple admin panel or JSON config for API keys, intents, and fallback phrases  
+4. README with setup, environment variables, and hand-off instructions
+
+Acceptance criteria  
+• 95 %+ accuracy on sample queries drawn from our past support logs  
+• Response time under 2 seconds end-to-end  
+• Graceful hand-off to a human agent when confidence &lt; 0.8 or data is missing  
+
+If you’ve built a similar order-tracking bot before, link a demo or repo so I can see it in action.</description></item>
 <item><title>Instagram Shop &amp; Catalog Setup and Instagram E-Commerce Ad guidance</title><link>https://www.freelancer.com/projects/instagram-marketing/Instagram-Shop-Catalog-Setup-Instagram</link><guid isPermaLink="false">freelancer:40830579</guid><pubDate>Sun, 22 Nov 2026 19:44:43 GMT</pubDate><description>30-250 USD | I need an experienced Instagram commerce specialist to turn my profile into a fully functioning shop. Your main task will be to configure Facebook Commerce Manager, connect my product catalog, and make every item shoppable so customers can check out either inside Instagram or be directed smoothly to the corresponding product page on my existing website.  
 
 My catalog will contain physical products that ship worldwide, so please make sure shipping options and policies display correctly and that product variants (size, color, etc.) sync without errors. I already have product data, images, and pricing ready for import; you’ll just need to map the fields, set up collections, tag a few sample posts for testing, and walk me through the approval steps.  
@@ -769,31 +790,6 @@ Acceptance criteria
 • Successful submission clears the form, displays a confirmation message, and triggers the email within one minute.
 
 Feel free to let me know any libraries or APIs you propose so I can approve them before you start.</description></item>
-<item><title>Low-Ticket Training Funnel Setup</title><link>https://www.freelancer.com/projects/conversion-rate-optimization/Low-Ticket-Training-Funnel-Setup</link><guid isPermaLink="false">freelancer:40826984</guid><pubDate>Fri, 20 Nov 2026 02:34:40 GMT</pubDate><description>250-750 USD | I’m rolling out a low-cost Business &amp; Sales mini-training that will act as the front door to my education ecosystem. I already host the members’ area on Skool (or any similar tool you’re comfortable with), and I need a complete funnel that brings prospects in smoothly and moves them toward my higher-ticket programs.
-
-Scope of work
-– Build or integrate a clean checkout page for the entry-level offer (think Stripe, ThriveCart, Kajabi Payments—whatever fits best with Skool).
-– Connect an automated email follow-up sequence that nurtures new buyers, delivers login instructions, and progressively introduces the next-level training.
-– Structure at least one in-funnel upgrade/upsell that can be presented right after purchase and again inside the email flow.
-– Tag and segment contacts so I always know who bought the basic course and who moved up.
-– Set up tracking so I can measure conversion rates at every step.
-
-Traffic sources
-I’ll be driving visitors from paid social ads plus my own website and organic posts. Please make sure any pixels, UTM parameters, or other tracking hooks are in place so ad performance is crystal clear.
-
-Deliverables
-1. Fully functional funnel pages (checkout, thank-you/upsell, post-purchase onboarding).
-2. Email sequence copy and automations ready to go live.
-3. Integration with Skool (or equivalent) for instant course access.
-4. Documentation or short Loom walkthrough showing how everything connects.
-
-Acceptance criteria
-• Test purchase flows from ad click to course access without errors.  
-• Emails send with correct timing and personalization.  
-• Upsell offer displays for 100 % of buyers and routes payments correctly.  
-• Conversions and revenue visible in the dashboard we agree on.
-
-If you’ve built similar low-ticket funnels and know your way around Skool, click-funnels-style builders, and email tools like ActiveCampaign or ConvertKit, I’d love to see your approach and timeline.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
