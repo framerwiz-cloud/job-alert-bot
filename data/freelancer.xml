@@ -3,6 +3,7 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Interim Website Content Updates</title><link>https://www.freelancer.com/projects/website-development/WordPress-Interim-Website-Content</link><guid isPermaLink="false">freelancer:40830767</guid><pubDate>Sun, 22 Nov 2026 23:22:59 GMT</pubDate><description>700-800 AUD | CNS Engineering Australia requires a small package of interim corrections to its existing WordPress website.This is not a website redesign or rebuild. A larger website redevelopment is being planned separately.The purpose of this project is to improve the credibility and accuracy of the current website while that work is developed.The agreed work will include:homepage content and positioning updateslimited existing page/content cleanupclearer visibility of the current CNS technology portfolioremoval/hiding of identified outdated or legacy contentreview and cleanup of existing website downloadscontact/enquiry form updatesprivacy-link/page correctionbasic mobile checks following the changesfull website backup before changes commenceCNS will provide the detailed implementation brief, replacement copy and content direction.The freelancer is not being engaged to redevelop the website strategy, undertake a full visual redesign or independently develop technical product claims.Existing WordPress structure and design should be reused wherever practical.Any significant theme, plugin, hosting or other technical issue discovered during the work that may alter the agreed scope or cost must be raised with CNS before additional work is undertaken.Agreed fixed price: AUD $780Target delivery: 2–4 days from commencement and receipt of required information/access.Final completion includes confirmation of changes undertaken, successful form/mobile checks, and notification of any technical issues identified during the work.</description></item>
 <item><title>Revamp WordPress Pages &amp; Forms</title><link>https://www.freelancer.com/projects/wordpress-design/Revamp-WordPress-Pages-Forms</link><guid isPermaLink="false">freelancer:40830671</guid><pubDate>Sun, 22 Nov 2026 21:32:17 GMT</pubDate><description>250-750 USD | I’d like a skilled WordPress developer to strengthen two key areas of my site WWW.DONPEARSALL.COM: Homepage, the service-/product-oriented pages and the contact-driven features that turn visits into enquiries.
 
 First, I want the service and product pages rebuilt so they look sharper, read better, and encourage action. Clean sectioning, persuasive copy placeholders, and a layout that adapts beautifully on mobile are all essential. You’re free to work with Gutenberg, Elementor, or another builder you trust, as long as the final result is lightweight and easy for me to update later.
@@ -741,23 +742,6 @@ Here’s what I would like done:
 I will provide the updated copy, imagery, and Framer project access. You handle the edits inside Framer, regenerate the sitemap, confirm indexing through Search Console (or similar), and send a brief report of the SEO tweaks you made so I can track future changes.
 
 If you know Framer inside out and are comfortable with foundational SEO, this should be a straightforward job.</description></item>
-<item><title>Form, Address Check &amp; Booking</title><link>https://www.freelancer.com/projects/web-development/Form-Address-Check-Booking</link><guid isPermaLink="false">freelancer:40827071</guid><pubDate>Fri, 20 Nov 2026 04:11:34 GMT</pubDate><description>250-750 USD | I’ve already generated the core pages of my website with ChatGPT, but the interactive pieces are still missing. Here’s what I now need built and seamlessly wired into the existing code:
-
-1. A single-page form that captures the customer’s name, email, phone, validated street address, an optional note, and one uploaded photo (jpg / png, max 10 MB).  
-2. Real-time address verification that confirms the street, city, state, and ZIP are genuine before the form can be submitted.  
-3. A simple appointment picker that shows my predefined available time slots so the customer can lock in a date and time immediately.  
-4. Google reCAPTCHA (or a comparable spam-blocking tool) on the form.  
-5. A summary email sent to my chosen mailbox every time the form is completed, containing all entered details, the image as an attachment or download link, and the selected appointment slot.  
-
-You may work in plain JavaScript/PHP or a lightweight framework—whatever slots pain-free into the HTML that’s already there. I’ll provide the current files and hosting credentials at kickoff.
-
-Acceptance criteria  
-• Address field blocks obvious fakes and incomplete inputs.  
-• File upload rejects unsupported types and oversize images.  
-• Time slots cannot be double-booked; once reserved, they disappear from the picker.  
-• Successful submission clears the form, displays a confirmation message, and triggers the email within one minute.
-
-Feel free to let me know any libraries or APIs you propose so I can approve them before you start.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
