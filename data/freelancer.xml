@@ -276,21 +276,6 @@ Create a **Request a Free Quote** page for bulk orders, events, teams, businesse
 Create an About page with three sections covering my story as the founder, what Urban Stitch Custom Creations offers, and why monthly awareness matters to the business. Build an Awareness page where I can update the featured cause, showcase related products, and share how each campaign gives back.
 
 Include a Contact page, FAQs, order tracking, and clear policies for shipping, returns, refunds, and personalized orders. I also need to be able to update products, prices, banners, seasonal collections, and awareness campaigns myself. Build the site with fast-loading pages, descriptive page titles, and clear headings so customers can find our products through search.</description></item>
-<item><title>Membership Site With Tiered Access</title><link>https://www.freelancer.com/projects/graphic-design/Membership-Site-With-Tiered-Access</link><guid isPermaLink="false">freelancer:40828270</guid><pubDate>Fri, 20 Nov 2026 23:54:03 GMT</pubDate><description>30-250 USD | I need a small but solid website that lets visitors create an account with a simple email-and-password form. Once they confirm their details they should land inside a members area where I can post a mix of written pieces, videos, downloadable resources, discount codes and general member-only updates.
-
-There will be two tiers for now—free and paid—so the system must automatically show or hide content based on a member’s status. I want to be able to flag each article, video, or deal as “free” or “paid” in the back-end and trust the site to take care of the rest.  
-
-Core requirements  
-• Email/password registration, login and forgotten-password flow  
-• Clear separation of free vs. paid content and deals  
-• Admin dashboard where I can upload new files, embed videos, publish articles, and add discount codes without touching code  
-• Clean, modern front-end that looks good on desktop and mobile  
-• Secure payment gateway integration for upgrading to the paid plan (Stripe or PayPal—whichever you recommend)  
-• Basic analytics so I can see sign-ups, upgrades, and popular content  
-
-Please build it with a mainstream stack (WordPress + MemberPress, Laravel + Jetstream, or a comparable solution) that I can maintain myself once the project wraps. After launch I’ll need a brief hand-over guide covering user management, content posting, and how to label items as free or paid.  
-
-If you have relevant examples, share a link or screenshot so I can gauge fit.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
@@ -738,6 +723,19 @@ Ideal Skills &amp; Experience:
 - Knowledge of inventory management systems
 
 Please provide a portfolio with similar projects.</description></item>
+<item><title>Modern Electrical Branding &amp; Site</title><link>https://www.freelancer.com/projects/logo-design/Modern-Electrical-Branding-Site</link><guid isPermaLink="false">freelancer:40826592</guid><pubDate>Thu, 19 Nov 2026 19:33:19 GMT</pubDate><description>20-250 GBP | I’ve just launched JNM Electrical and need a designer–developer who can give the company a sharp, modern-professional identity and an online home that turns visitors into customers.
+
+First, I want a clean, memorable logo that will look just as strong on a service van as it does on a business card or a mobile screen. Alongside the logo, I’ll need a concise style guide that sets out colours, typography, and basic usage rules so the look stays consistent across uniforms, invoices, social media, and signage.
+
+Once the visuals are locked in, I’d like you to build a straightforward website (WordPress or another easy-to-maintain CMS is fine) where homeowners and builders can quickly request a quote or book a service. A single conversion-focused contact/booking form, responsive layout, and clear calls-to-action are essential. I’ll supply basic copy and service info; you handle layout, imagery, and any lightweight optimisation so pages load fast.
+
+Key deliverables  
+• Editable logo files (AI, SVG, PNG, JPG)  
+• One-page brand guide (colour palette, fonts, logo usage)  
+• Live, responsive website with request-a-quote / book-now form integrated and tested  
+• Handover of admin credentials and a short walkthrough so I can update text and images myself later
+
+Please share relevant branding work and any electrical or trade-related sites you’ve launched. If you have a preferred form plugin or booking tool, let me know—simplicity for the end-user is the priority. I’m ready to get started this week and will be responsive with feedback to keep the project moving.</description></item>
 <item><title>UX/UI Designer Needed for a Modern Digital Marketplace Platform</title><link>https://www.freelancer.com/projects/ui-design/Designer-Needed-for-Modern-Digital</link><guid isPermaLink="false">freelancer:40825835</guid><pubDate>Thu, 19 Nov 2026 09:38:54 GMT</pubDate><description>25-50 USD/hr | Project Type: Freelance / Contract  
 Experience Level: Intermediate to Expert  
 Engagement: Project-Based (Potential for Long-Term Collaboration)
