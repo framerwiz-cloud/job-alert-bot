@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Search Page — Phase 1 Build, Phase 2 Python API Integration</title><link>https://www.freelancer.com/projects/web-development/WordPress-Search-Page-Phase-Build</link><guid isPermaLink="false">freelancer:40830613</guid><pubDate>Sun, 22 Nov 2026 20:30:00 GMT</pubDate><description>250-750 CAD | I’m looking for a WordPress developer for a two-phase project. Please submit a fixed-price bid for Phase 1 only. I’d prefer to work with the same developer for both phases if Phase 1 goes well.
+
+Phase 1 — Build and demo the WordPress page
+Build one mobile-friendly WordPress page based on my mockup. The page should let users search by product name or an 8-digit ID, including IDs with leading zeros. If a name matches multiple products, users should be able to select the correct match and view its details. Use sample data for this phase and build the page so the sample data can later be replaced with results from an API. Deliver a working demo on desktop and mobile, along with the editable WordPress page and any custom code.
+
+Phase 2 — Connect the page to my Python API
+Replace the sample data with live results from my existing Python API and test the full search flow. We’ll agree on the scope and price for this phase separately after Phase 1 is approved.
+
+In your proposal, please include your fixed price and estimated timeline for Phase 1, a link to a similar project, and a brief note about your experience connecting WordPress to an external API. I’ll share the detailed mockup and technical materials privately after a confidentiality agreement is signed.</description></item>
 <item><title>Build a dating website with any databse and verify pictures and address or phone verification for domain name "pleasebemygreatwife.com" with translation, monthly pay $1.00 per membership, first month free!</title><link>https://www.freelancer.com/projects/api-developmet/Build-dating-website-with-any</link><guid isPermaLink="false">freelancer:40830596</guid><pubDate>Sun, 22 Nov 2026 20:13:07 GMT</pubDate><description>10-100000 USD | More details:
 
 Is this project for business or personal use? Personal
@@ -763,11 +772,6 @@ Please provide examples of similar work you’ve done and a rough timeline for c
 
 Budget: 500-1500 AUD
 Timeframe: TBD</description></item>
-<item><title>SEO-Optimized Local Services Website</title><link>https://www.freelancer.com/projects/web-design/SEO-Optimized-Local-Services-Website</link><guid isPermaLink="false">freelancer:40827221</guid><pubDate>Fri, 20 Nov 2026 06:08:41 GMT</pubDate><description>750-1500 AUD | I’m ready to launch a clean, modern website that showcases my local services business and performs well in search. The site will include four core pages—Home, Services, Portfolio and Contact—built with responsive design so customers on mobile and desktop have the same smooth experience.  
-
-Strong on-page SEO is essential: intuitive URL structure, proper heading hierarchy, meta titles and descriptions written around our service keywords, plus fast-loading, accessible code. I’d also like basic analytics integration so I can track traffic and enquiries from day one.  
-
-Please handle complete design and development, supply any royalty-free imagery needed, and make sure the finished site is easy for me to update. When we wrap up, I expect the live site, all source files and a brief hand-over guide that shows me how to add future portfolio items and adjust content.</description></item>
 <item><title>Framer Site Content &amp; SEO Refresh</title><link>https://www.freelancer.com/projects/framer/Framer-Site-Content-SEO-Refresh</link><guid isPermaLink="false">freelancer:40827203</guid><pubDate>Fri, 20 Nov 2026 06:01:42 GMT</pubDate><description>12-18 EUR/hr | I built my website in Framer and now need a quick, tidy refresh focused on content accuracy and basic search visibility.
 
 Here’s what I would like done:
