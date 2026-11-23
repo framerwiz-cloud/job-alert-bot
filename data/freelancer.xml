@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Search Page — Phase 1 Build, Phase 2 Python API Integration</title><link>https://www.freelancer.com/projects/web-development/WordPress-Search-Page-Phase-Build</link><guid isPermaLink="false">freelancer:40830613</guid><pubDate>Mon, 23 Nov 2026 03:23:55 GMT</pubDate><description>250-750 CAD | I’m looking for a WordPress developer for a two-phase project. Please submit a fixed-price bid for Phase 1 only. I’d prefer to work with the same developer for both phases if Phase 1 goes well.
+
+Phase 1 — Build and demo the WordPress page
+Build one mobile-friendly WordPress page based on my mockup. The page should let users search by product name or an 8-digit ID, including IDs with leading zeros. If a name matches multiple products, users should be able to select the correct match and view its details. Use sample data for this phase and build the page so the sample data can later be replaced with results from an API. Deliver a working demo on desktop and mobile, the editable  WordPress page and export Elementor template, and all custom source code created for Phase 1 and Phase 2, including any custom plugin or theme files.
+
+Phase 2 — Connect the page to my Python API
+Replace the sample data with live results from my existing Python API and test the full search flow. We’ll agree on the scope and price for this phase separately after Phase 1 is approved.
+
+In your proposal, please include your fixed price and estimated timeline for Phase 1, a link to a similar project, and a brief note about your experience connecting WordPress to an external API. I’ll share the detailed mockup and technical materials privately after a confidentiality agreement is signed.</description></item>
 <item><title>Corporate Events Consulting Website Development</title><link>https://www.freelancer.com/projects/seo/Corporate-Events-Consulting-Website</link><guid isPermaLink="false">freelancer:40830897</guid><pubDate>Mon, 23 Nov 2026 02:24:20 GMT</pubDate><description>1500-3000 USD | I'm looking for a skilled web developer to create an engaging website for my event consulting firm. The main goal of this site is to attract new client enquiries.
 
 The website should primarily cater to corporations, associations professional organizations and conferences. It should showcase our expertise in finding suitable venue and services to support events. 
@@ -87,15 +96,6 @@ Acceptance Criteria
 • All work is performed on a staging copy, then pushed live only after approval
 
 Let me know your preferred builder, estimated turnaround, and one or two examples of similar upgrades you’ve completed.</description></item>
-<item><title>WordPress Search Page — Phase 1 Build, Phase 2 Python API Integration</title><link>https://www.freelancer.com/projects/web-development/WordPress-Search-Page-Phase-Build</link><guid isPermaLink="false">freelancer:40830613</guid><pubDate>Sun, 22 Nov 2026 20:30:00 GMT</pubDate><description>250-750 CAD | I’m looking for a WordPress developer for a two-phase project. Please submit a fixed-price bid for Phase 1 only. I’d prefer to work with the same developer for both phases if Phase 1 goes well.
-
-Phase 1 — Build and demo the WordPress page
-Build one mobile-friendly WordPress page based on my mockup. The page should let users search by product name or an 8-digit ID, including IDs with leading zeros. If a name matches multiple products, users should be able to select the correct match and view its details. Use sample data for this phase and build the page so the sample data can later be replaced with results from an API. Deliver a working demo on desktop and mobile, along with the editable WordPress page and any custom code.
-
-Phase 2 — Connect the page to my Python API
-Replace the sample data with live results from my existing Python API and test the full search flow. We’ll agree on the scope and price for this phase separately after Phase 1 is approved.
-
-In your proposal, please include your fixed price and estimated timeline for Phase 1, a link to a similar project, and a brief note about your experience connecting WordPress to an external API. I’ll share the detailed mockup and technical materials privately after a confidentiality agreement is signed.</description></item>
 <item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
 
 Core capability  
