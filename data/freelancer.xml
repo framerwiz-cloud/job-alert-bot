@@ -3,6 +3,77 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Automate Legal Documents on WordPress</title><link>https://www.freelancer.com/projects/n8n/Automate-Legal-Documents-WordPress</link><guid isPermaLink="false">freelancer:40831734</guid><pubDate>Mon, 23 Nov 2026 12:04:51 GMT</pubDate><description>250-750 AUD | Project Brief: Automated Legal Document Production System
+Project Overview
+We are looking for an experienced developer to build a simple, cost-effective automated legal document production system for an existing law firm.
+Important: We already have an existing WordPress website. We do NOT need a new website built.
+The project involves adding legal services and fixed-fee document packages to the existing WordPress website, allowing clients to purchase services, complete online questionnaires, upload supporting documents and receive professionally prepared legal documents following solicitor approval.
+We need Stripe integrated into the existing website so clients can select a service, make payment and complete the required onboarding process.
+We have a strict project budget and are looking for someone who can deliver a practical, reliable solution without unnecessary complexity or expensive custom development.
+Required Workflow
+Existing WordPress website: Add legal services and fixed-fee document packages to the existing website, including service descriptions, pricing and inclusions.
+Online purchasing: Integrate Stripe into the existing WordPress website so clients can purchase their selected legal service.
+Questionnaire: Following service selection, clients complete an online questionnaire and upload relevant supporting documents.
+CRM integration and conflict checks: Connect to the firm's existing SILQ CRM to identify existing clients, check relevant parties for potential conflicts and flag potential matches for solicitor review. New client details and approved matters must be saved in SILQ. Conflicts must not be automatically cleared by AI.
+Engagement and payment: Client receives the relevant costs agreement, accepts the terms and completes payment through Stripe. Matter acceptance and payment must be verified before document production begins.
+Automation: n8n triggers the workflow following verified payment and the required matter acceptance checks.
+AI processing: OpenAI extracts and structures client information, while Claude prepares documents using approved legal templates and instructions.
+Document generation: Generate professionally formatted, branded and fully editable Microsoft Word (.docx) and PDF documents.
+Solicitor review: Provide a simple, secure interface where solicitors can review documents, download Word/PDF versions, manually edit Word documents and upload revised versions.
+AI amendments: Solicitors can request AI amendments or make their own manual changes. All document versions must be retained.
+Final approval: A solicitor must explicitly approve the final document before it can be released.
+Client delivery: Automatically deliver the approved document securely by email.
+Feedback: Send an automated client feedback or review request.
+Required Technology
+We would prefer to use existing services and avoid unnecessary custom software development.
+WordPress: Existing website. Add services, purchasing functionality and questionnaires.
+Stripe: Payment processing integrated into the existing website.
+n8n: Workflow automation.
+SILQ: Existing CRM and legal practice management system.
+OpenAI API: Information extraction.
+Claude API: Legal document drafting.
+Microsoft Word (.docx) and PDF: Document generation.
+Important Requirements
+Work with our existing WordPress website. Do not rebuild it.
+Add legal services and fixed-fee packages to the existing website.
+Allow clients to purchase services, complete questionnaires and upload documents online.
+Integrate Stripe for secure payments.
+Integrate with the firm's existing SILQ CRM. Do not build another CRM.
+Support client searches, potential conflict identification and new client/matter creation, subject to SILQ API capabilities.
+Maintain secure document storage and client confidentiality.
+Provide downloadable and editable Word documents.
+Allow solicitors to manually amend and re-upload documents.
+Maintain document version history.
+Require solicitor approval before documents are sent to clients.
+Include basic error handling and workflow notifications.
+Budget, Scope and Proposal
+We have a strict budget for this project and are looking for the most affordable practical solution.
+If you are interested in bidding, please provide:
+Your best fixed-price quote for delivering the project.
+A clear breakdown of exactly what is included in your proposed scope.
+Your estimated development timeframe and delivery milestones.
+Any additional ongoing costs, including hosting, API usage, subscriptions or third-party services.
+Confirmation that you have experience with WordPress, Stripe, n8n, API integrations, AI document generation and CRM integrations.
+Any recommendations for simplifying the implementation or reducing costs without compromising essential functionality.
+Please distinguish between essential functionality and optional enhancements.
+We are open to practical alternatives if they achieve the same outcome at a lower cost.
+Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
+<item><title>Custom WordPress Repair Plugin Rebuild</title><link>https://www.freelancer.com/projects/css/Custom-WordPress-Repair-Plugin-Rebuild</link><guid isPermaLink="false">freelancer:40831733</guid><pubDate>Mon, 23 Nov 2026 12:03:40 GMT</pubDate><description>30-250 USD | I already run the “repairplugin” on my WordPress site, so all core functions—request intake, job ticket generation, status updates, and customer emails—are proven and live. Now I need a bespoke version that keeps every workflow intact while giving me full control over branding, form logic, and progress tracking visuals.
+
+Key changes I expect  
+• Fresh UI/UX that matches my site colours, fonts, and logo placement.  
+• Re-worked request form: customers must enter contact details, device details, a clear fault description, and a preferred appointment time before submission.  
+• Streamlined booking flow that feeds those details straight into the existing job-ticket logic.  
+• Customisable status labels and a cleaner timeline so customers can follow their repair from “Booked” through to “Ready for Collection” inside their account or via emailed links.  
+• Settings panel in the WordPress admin to edit colours, texts, email templates, and status names without touching code.
+
+Acceptance criteria  
+1. Plugin installs and activates like any standard .zip.  
+2. All current “repairplugin” workflows work exactly as they do now, but with the new design and fields.  
+3. No theme conflicts; must follow WordPress coding standards and be PHP 8.x compatible.  
+4. Final delivery: production-ready plugin, brief setup guide, and commented source so my in-house dev can extend it later.
+
+The live plugin is available for reference, plus an admin login for staging. I’m ready to supply brand assets, field labels, and test data as soon as we start.</description></item>
 <item><title>20-Page WordPress Business Website</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Business-Website-40831688</link><guid isPermaLink="false">freelancer:40831688</guid><pubDate>Mon, 23 Nov 2026 11:26:12 GMT</pubDate><description>250-750 USD | I need a complete WordPress build for a 20-page company site Eng and Arabic Lanuage. The core structure is already mapped out and I have part of the copy, a logo, and several images ready; the rest of the wording and stock photos will have to be created in collaboration as we go.
 
 Essentials for the build include an interactive contact form with an embedded map, dedicated service pages—each featuring a straightforward quote-request form—and all the usual company pages (home, about, blog/news, etc.). Every page must load quickly, look sharp on mobile, and follow basic on-page SEO best practices.
@@ -553,34 +624,6 @@ Here’s what I need:
 Plans can be produced in AutoCAD, Revit, ArchiCAD, or another professional drafting package—whatever you’re most comfortable with, as long as the output is clean and editable.
 
 I already have the site survey and municipal guidelines; once we begin, I’ll share those along with the preliminary massing studies that prompted this rethink. What I’m missing is a cohesive plan that makes the project flow, optimises unit size, and gives residents meaningful outdoor space. If you can turn those ideas into a clear, coordinated set of floor plans, let’s get started.</description></item>
-<item><title>Mobile Detailing CRM &amp; Web Integration</title><link>https://www.freelancer.com/projects/crm/Mobile-Detailing-CRM-Web-Integration</link><guid isPermaLink="false">freelancer:40828350</guid><pubDate>Sat, 21 Nov 2026 02:14:35 GMT</pubDate><description>250-750 USD | I run a mobile detailing service and need a single, cohesive system that doubles as my public-facing website and my internal CRM. On the front end I want a clean portfolio page that shows off recent jobs, then funnels visitors straight into an online scheduling flow. Customers must be able to pick a service, select their preferred date and time, and pay by credit card—ideally all without ever feeling they’ve left the site.
-
-Behind the scenes the booking calendar should automatically assign each request based on the customer’s service address so my team is routed efficiently within our coverage areas. Once a booking is confirmed, the same platform should store customer data, service history, and payment status so I’m not bouncing between multiple tools.
-
-If you’ve worked with systems like Jobber, Housecall Pro, Zoho, HubSpot, or you can build a custom stack that combines a responsive website with CRM, calendar logic, and Stripe (or similar) payments, let’s talk. My priority is a seamless, branded experience from portfolio browse to completed appointment, with all data living in one place and accessible on mobile.</description></item>
-<item><title>Custom E-Commerce Store with Product Designer</title><link>https://www.freelancer.com/projects/web-development/Custom-Commerce-Store-with-Product</link><guid isPermaLink="false">freelancer:40828309</guid><pubDate>Sat, 21 Nov 2026 01:06:58 GMT</pubDate><description>1000-6500 USD | I need a complete e-commerce website for **Urban Stitch Custom Creations**, my veteran-owned business specializing in custom apparel, personalized gifts, and awareness designs. Customers should be able to shop ready-made designs, personalize products, preview their own artwork, and request quotes for custom or bulk orders.
-
-I want a bold, patriotic look with a black or midnight navy background, muted red accents, and warm white text. Use my logo, large product photos, and the tagline **“Creating Awareness One Design at a Time.”** The site should be easy to browse and buy from on a phone.
-
-### Homepage and storefront
-
-The homepage should give visitors four clear ways to get started: **Shop Ready-Made Designs, Personalize a Product, Request a Free Quote, and Explore Monthly Awareness.** Feature popular products, seasonal gift bundles, and the current awareness campaign. Include a short introduction to the business and a simple explanation of how custom ordering works.
-
-Organize the shop into categories such as apparel, drinkware, blankets, home décor, puzzles, ornaments, and gift bundles. Product pages should show photos, pricing, sizes, colors, personalization options, estimated production and shipping times, and care instructions where applicable. Include search, product filters, a shopping cart, secure checkout, and order confirmation emails.
-
-### Interactive product customizer
-
-I want customers to be able to **upload their own artwork onto a blank product and see a live preview before purchasing**. They should be able to add text, move and resize their design, and see where the printable area ends. The editor should work across multiple product types, including shirts, hoodies, mugs, tumblers, and tote bags, with product-specific print areas. Save the original artwork, placement details, and preview with the order so I can produce what the customer approved.
-
-### Custom orders and design services
-
-Create a **Request a Free Quote** page for bulk orders, events, teams, businesses, and projects that need design help. Collect the customer’s name, email, product type, quantity, needed-by date, project details, and any inspiration files. Save inquiries where I can review them and send me an email notification for each new request. Include a services page for custom design, logo design, brand refreshes, mockups, and charity collaborations.
-
-### About, awareness, and customer support
-
-Create an About page with three sections covering my story as the founder, what Urban Stitch Custom Creations offers, and why monthly awareness matters to the business. Build an Awareness page where I can update the featured cause, showcase related products, and share how each campaign gives back.
-
-Include a Contact page, FAQs, order tracking, and clear policies for shipping, returns, refunds, and personalized orders. I also need to be able to update products, prices, banners, seasonal collections, and awareness campaigns myself. Build the site with fast-loading pages, descriptive page titles, and clear headings so customers can find our products through search.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
