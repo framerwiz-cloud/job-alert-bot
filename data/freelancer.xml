@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix AI Platform Product Issues</title><link>https://www.freelancer.com/projects/ai-development/Fix-Platform-Product-Issues</link><guid isPermaLink="false">freelancer:40832558</guid><pubDate>Mon, 23 Nov 2026 23:53:18 GMT</pubDate><description>15-25 USD/hr | I’m looking for an experienced product engineer who can jump straight into our AI-native platform and make the current website/web app rock-solid. Right now the biggest pain point is user-facing bugs; they crop up unpredictably and chip away at trust. I need someone who loves tracing elusive errors, tightening loose ends and turning a shaky release into a smooth, reliable experience.
+
+You’ll start by reproducing the bugs our users report, then work through the codebase to isolate root causes and ship robust fixes. Alongside that, I’d like you to flag any performance bottlenecks you notice and suggest incremental improvements so page loads stay fast even under real traffic.
+
+Key deliverables
+• Verified fixes for the top-priority bugs affecting the web app  
+• Short performance report highlighting the biggest quick wins and the changes you implemented  
+• Clear documentation or inline comments so future work happens faster
+
+If you’re comfortable navigating a modern JavaScript/TypeScript front-end, REST/GraphQL back end and the AI micro-services that power our chat, search and recommendation features, you’ll feel right at home here. Continuous deployment, Git workflows and pull-request reviews are already in place, so we can integrate your work rapidly.
+
+Quality, clarity and a pragmatic approach to improving what already exists are what matter most to me. Let’s make the platform dependable together.</description></item>
 <item><title>Complete FreeScout Helpdesk Configuration</title><link>https://www.freelancer.com/projects/microsoft-365/Complete-FreeScout-Helpdesk</link><guid isPermaLink="false">freelancer:40832550</guid><pubDate>Mon, 23 Nov 2026 23:50:06 GMT</pubDate><description>20-250 GBP | I’m ready to launch a fully branded FreeScout helpdesk for Digitae and need someone who knows the platform inside out to handle the entire build.
 
 Environment &amp; access  
