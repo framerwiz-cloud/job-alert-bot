@@ -3,6 +3,49 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Modern Website UI/UX Redesign</title><link>https://www.freelancer.com/projects/figma/Modern-Website-Redesign</link><guid isPermaLink="false">freelancer:40832402</guid><pubDate>Mon, 23 Nov 2026 21:19:30 GMT</pubDate><description>5000-10000 USD | **Project Title: UI/UX Designer Needed for Website Redesign**
+
+**Project Description**
+
+We are looking for an experienced UI/UX designer to help create a modern, professional, and user-friendly website design.
+
+The selected freelancer will work on improving the website's visual appearance, navigation, layout, and overall user experience.
+
+**Scope of Work**
+
+- Review the existing website design and identify areas for improvement.
+- Create modern and responsive website layouts.
+- Design homepage and key internal pages.
+- Develop wireframes and high-fidelity mockups.
+- Create consistent typography, colors, and visual elements.
+- Ensure designs work across desktop, tablet, and mobile devices.
+- Incorporate feedback and make necessary revisions.
+
+**Expected Deliverables**
+
+1. Website wireframes and mockups.
+2. High-fidelity UI designs.
+3. Responsive desktop and mobile layouts.
+4. Organized Figma design files.
+5. Final design assets and specifications.
+
+**Required Skills**
+
+- UI/UX Design
+- Website Design
+- Figma
+- Responsive Design
+- Wireframing
+- Prototyping
+- Visual Design
+
+**To Apply**
+
+Please include your portfolio, relevant website design examples, preferred design tools, estimated project cost, and availability.
+
+We are interested in working with skilled professionals who may also be available for future design projects.
+
+All project communication and deliverables will be managed through Freelancer.com.</description></item>
 <item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
 
 Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
@@ -611,11 +654,6 @@ Here’s what I need:
 Plans can be produced in AutoCAD, Revit, ArchiCAD, or another professional drafting package—whatever you’re most comfortable with, as long as the output is clean and editable.
 
 I already have the site survey and municipal guidelines; once we begin, I’ll share those along with the preliminary massing studies that prompted this rethink. What I’m missing is a cohesive plan that makes the project flow, optimises unit size, and gives residents meaningful outdoor space. If you can turn those ideas into a clear, coordinated set of floor plans, let’s get started.</description></item>
-<item><title>Mobile Detailing CRM &amp; Web Integration</title><link>https://www.freelancer.com/projects/crm/Mobile-Detailing-CRM-Web-Integration</link><guid isPermaLink="false">freelancer:40828350</guid><pubDate>Sat, 21 Nov 2026 02:14:35 GMT</pubDate><description>250-750 USD | I run a mobile detailing service and need a single, cohesive system that doubles as my public-facing website and my internal CRM. On the front end I want a clean portfolio page that shows off recent jobs, then funnels visitors straight into an online scheduling flow. Customers must be able to pick a service, select their preferred date and time, and pay by credit card—ideally all without ever feeling they’ve left the site.
-
-Behind the scenes the booking calendar should automatically assign each request based on the customer’s service address so my team is routed efficiently within our coverage areas. Once a booking is confirmed, the same platform should store customer data, service history, and payment status so I’m not bouncing between multiple tools.
-
-If you’ve worked with systems like Jobber, Housecall Pro, Zoho, HubSpot, or you can build a custom stack that combines a responsive website with CRM, calendar logic, and Stripe (or similar) payments, let’s talk. My priority is a seamless, branded experience from portfolio browse to completed appointment, with all data living in one place and accessible on mobile.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
