@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Classical Ensemble Calendar Upgrade</title><link>https://www.freelancer.com/projects/api-integration/Classical-Ensemble-Calendar-Upgrade</link><guid isPermaLink="false">freelancer:40831957</guid><pubDate>Mon, 23 Nov 2026 14:59:16 GMT</pubDate><description>18-36 GBP/hr | Our classical music ensemble’s website needs a dedicated refresh focused solely on the concert calendar and ticket-purchase journey. Right now the calendar is static; I want visitors to land on a dynamic, mobile-friendly page that immediately lists every upcoming concert, shows essential details at a glance, and lets them narrow results by date or location.
+
+Key functions I need to see:
+• Each concert displayed with date, time, venue, programme notes, and high-quality thumbnail  
+• Flexible filters so a user can quickly sort by month or city  
+• Prominent “Buy Tickets” buttons that route straight to the existing ticketing service we already use (Eventbrite/Ticketmaster) without additional steps  
+• Simple back-end form or CMS module so I can add, edit, or archive concerts myself—no code required  
+• Seamless styling so the new calendar looks native to the rest of the site and works perfectly on phones and tablets  
+
+Acceptance criteria: the calendar must load in under two seconds, all filter combinations return correct results, and every ticket button links accurately to its external sales page.
+
+If you have experience integrating calendaring tools or building custom event modules that speak to external services, this task should be straightforward. I’m ready to provide current site access, brand guidelines, and a sample of upcoming concerts as soon as we agree on the approach and timeline.</description></item>
 <item><title>Streamline Shopify Press Release Checkout</title><link>https://www.freelancer.com/projects/shopify-development/Streamline-Shopify-Press-Release</link><guid isPermaLink="false">freelancer:40831940</guid><pubDate>Mon, 23 Nov 2026 14:48:15 GMT</pubDate><description>50-200 USD | My Shopify store offers press-release submission packages, yet the current buying journey is confusing and the project has stalled. I need someone to step in, study the existing product page, cart flow, and confirmation email, then rebuild each touch-point so customers instantly understand what they are purchasing, what details they must supply, and how the service will unfold once they pay.
 
 You will work directly in Shopify (Dawn theme) or in a staging copy—whichever keeps momentum fastest. I expect clear, conversion-focused copy, updated Liquid templates or blocks where necessary, and a confirmation email that is short, branded, and action-oriented.
@@ -110,22 +122,6 @@ Any recommendations for simplifying the implementation or reducing costs without
 Please distinguish between essential functionality and optional enhancements.
 We are open to practical alternatives if they achieve the same outcome at a lower cost.
 Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
-<item><title>Custom WordPress Repair Plugin Rebuild</title><link>https://www.freelancer.com/projects/css/Custom-WordPress-Repair-Plugin-Rebuild</link><guid isPermaLink="false">freelancer:40831733</guid><pubDate>Mon, 23 Nov 2026 12:03:40 GMT</pubDate><description>30-250 USD | I already run the “repairplugin” on my WordPress site, so all core functions—request intake, job ticket generation, status updates, and customer emails—are proven and live. Now I need a bespoke version that keeps every workflow intact while giving me full control over branding, form logic, and progress tracking visuals.
-
-Key changes I expect  
-• Fresh UI/UX that matches my site colours, fonts, and logo placement.  
-• Re-worked request form: customers must enter contact details, device details, a clear fault description, and a preferred appointment time before submission.  
-• Streamlined booking flow that feeds those details straight into the existing job-ticket logic.  
-• Customisable status labels and a cleaner timeline so customers can follow their repair from “Booked” through to “Ready for Collection” inside their account or via emailed links.  
-• Settings panel in the WordPress admin to edit colours, texts, email templates, and status names without touching code.
-
-Acceptance criteria  
-1. Plugin installs and activates like any standard .zip.  
-2. All current “repairplugin” workflows work exactly as they do now, but with the new design and fields.  
-3. No theme conflicts; must follow WordPress coding standards and be PHP 8.x compatible.  
-4. Final delivery: production-ready plugin, brief setup guide, and commented source so my in-house dev can extend it later.
-
-The live plugin is available for reference, plus an admin login for staging. I’m ready to supply brand assets, field labels, and test data as soon as we start.</description></item>
 <item><title>20-Page WordPress Business Website</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Business-Website-40831688</link><guid isPermaLink="false">freelancer:40831688</guid><pubDate>Mon, 23 Nov 2026 11:26:12 GMT</pubDate><description>250-750 USD | I need a complete WordPress build for a 20-page company site Eng and Arabic Lanuage. The core structure is already mapped out and I have part of the copy, a logo, and several images ready; the rest of the wording and stock photos will have to be created in collaboration as we go.
 
 Essentials for the build include an interactive contact form with an embedded map, dedicated service pages—each featuring a straightforward quote-request form—and all the usual company pages (home, about, blog/news, etc.). Every page must load quickly, look sharp on mobile, and follow basic on-page SEO best practices.
@@ -346,6 +342,36 @@ I attempted to do this myself and couldn't figure it out. I am not sure if you c
 I’m looking to get this live quickly, so please outline your estimated timeline and any access requirements in your proposal.
 
 I also need help with Instagram ads.</description></item>
+<item><title>Shopify NMI Recurring Subscription Integration</title><link>https://www.freelancer.com/projects/payment-gateway-integration/Shopify-NMI-Recurring-Subscription</link><guid isPermaLink="false">freelancer:40830483</guid><pubDate>Sun, 22 Nov 2026 18:07:34 GMT</pubDate><description>30-250 USD | Hi,
+
+I am looking for someone experienced with Shopify subscriptions and payment gateway integrations to help me set up a subscription-based payment system for my Shopify store.
+
+My store is currently using NMI (PayKings) as the payment processor, which is already connected to Shopify.
+
+What I want to accomplish is to make every purchase on my Shopify store a recurring subscription rather than a one-time payment.
+
+I need someone who can:
+
+Set up recurring subscription billing for every sale made through my Shopify store.
+Integrate the subscription system with my existing NMI (PayKings) payment gateway.
+Make sure customers are automatically charged on a recurring basis (monthly or based on the billing cycle we configure).
+Ensure subscriptions are created automatically when a customer completes a purchase.
+Make sure recurring payments are processed successfully through NMI.
+Ensure everything works properly with Shopify orders, customer accounts, and subscription management.
+
+Important: I do not want to switch payment processors. I want to continue using my existing NMI (PayKings) account connected to Shopify.
+
+Before moving forward, please let me know:
+
+Have you worked with NMI/PayKings and Shopify integrations before?
+Can you set up automatic recurring subscriptions through this payment gateway?
+Can you make every checkout purchase automatically enroll the customer in a subscription?
+What would you need from me to complete this project?
+What is your estimated price and turnaround time?
+
+I am looking for someone who has actual experience with this type of integration and can make sure the entire process works correctly from checkout to recurring billing.
+
+Thank you!</description></item>
 <item><title>Build Searchable Journal Archive Platform</title><link>https://www.freelancer.com/projects/wordpress/Build-Searchable-Journal-Archive</link><guid isPermaLink="false">freelancer:40830411</guid><pubDate>Sun, 22 Nov 2026 16:55:09 GMT</pubDate><description>3000-5000 USD | Functionality to Parse and Display Journals on Our Website
 
 My stamp club produces a quarterly journal.  The Journal is posted on our website with both the ability to browse the complete journal and search the journal.  The journal search is more than just a key word search, it pulls up the complete articles with the key word being searched irrespective of the page.  For example, if the article is on page 2-4 and then continues to page 10 and 11, the search will display the complete article.  Similar to how a story may be organized in a Newspaper.  The current functionality relies upon the individual who runs the program breaking down the content, which has not been reliable.
