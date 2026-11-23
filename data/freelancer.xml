@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Complete FreeScout Helpdesk Configuration</title><link>https://www.freelancer.com/projects/microsoft-365/Complete-FreeScout-Helpdesk</link><guid isPermaLink="false">freelancer:40832550</guid><pubDate>Mon, 23 Nov 2026 23:50:06 GMT</pubDate><description>20-250 GBP | I’m ready to launch a fully branded FreeScout helpdesk for Digitae and need someone who knows the platform inside out to handle the entire build.
+
+Environment &amp; access  
+• FreeScout must be installed on our OVH server and served securely at help.it with a valid SSL certificate, daily encrypted backups, and hardened security settings.  
+• Visual branding, colours, and logo should match our Digitae style so the experience feels native to customers.
+
+Core functionality  
+Microsoft 365 will power email. I want one shared address  that feeds the helpdesk, while staff keep their individual mailboxes for outbound or private replies. FreeScout should generate unique ticket numbers, respect our office-hour SLA rules, and send mobile push notifications.
+
+HubSpot integration  
+HubSpot remains our CRM, but I need FreeScout to create or update HubSpot tickets automatically when new conversations arrive or change state, ensuring full two-way visibility between the systems.
+
+Teams &amp; queues  
+Each of the following groups needs its own helpdesk address and ticket queue so workload and reporting stay separate:  
+• Technical support, sales, and accounts  
+• Technical support, onboarding, and customer success  
+• Technical support, security, and managed services  
+
+Feature set  
+Customer portal, knowledge base, time tracking, CSAT surveys, granular reporting and dashboards all have to be enabled and tested.
+
+Deliverables  
+1. Production-ready FreeScout instance on OVH, fully branded and secured.  
+2. Microsoft 365 mail routing (shared + individual addresses) tested end-to-end.  
+3. HubSpot ticket sync configured and verified.  
+4. Queues and SLAs in place for the three team groups above.  
+5. Documentation covering server specs, backup routine, and a brief user guide.  
+6. Final walk-through and hand-over.
+
+Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
 <item><title>Mobile Detailing Website and CRM</title><link>https://www.freelancer.com/projects/web-development/Mobile-Detailing-Website-CRM</link><guid isPermaLink="false">freelancer:40832549</guid><pubDate>Mon, 23 Nov 2026 23:40:46 GMT</pubDate><description>30-250 USD | I run a mobile detailing service and need a single, cohesive system that doubles as my public-facing website and my internal CRM. On the front end I want a clean portfolio page that shows off recent jobs, then funnels visitors straight into an online scheduling flow. Customers must be able to pick a service, select their preferred date and time, and pay by credit card—ideally all without ever feeling they’ve left the site.
 
 Behind the scenes the booking calendar should automatically assign each request based on the customer’s service address so my team is routed efficiently within our coverage areas. Once a booking is confirmed, the same platform should store customer data, service history, and payment status so I’m not bouncing between multiple tools.
@@ -651,43 +681,6 @@ From the user’s side, I want shoppers to browse or search the stock then reach
 On the back end, I should be able to log in through an intuitive dashboard and add, edit, or remove cars without touching code. Think drag-and-drop image uploads, fields for price, mileage, year, and spec, plus automatic formatting so every new listing looks consistent.
 
 A clean, contemporary design, SEO-friendly structure, and solid security setup round out the project. Once complete, hand over the live site along with brief instructions (or a quick screen-share) so I can keep inventory updated going forward.</description></item>
-<item><title>Website Improvement Review</title><link>https://www.freelancer.com/projects/google-website-optimizer/Website-Improvement-Review</link><guid isPermaLink="false">freelancer:40828633</guid><pubDate>Sat, 21 Nov 2026 08:00:13 GMT</pubDate><description>20-250 GBP | WordPress Technical Audit, PHP Compatibility Assessment &amp; Hosting Migration Consultation
-
-I'm looking for an experienced senior WordPress developer or technical consultant to conduct an independent technical assessment and consultation with me to discuss my existing website: https://www.platinum-healing.com/
-
-My website is currently hosted and managed by HealthHosts https://www.healthhosts.com/ using their proprietary WordPress theme (HealthHosts Web49). It is running PHP 7.4.33, and my provider claims that upgrading to a supported PHP version would require significant development work and a complete website rebuild.
-
-I have restricted WordPress access, with no access to plugins, server configuration or full administrator settings.
-
-I require a paid technical consultation with me to investigate:
-
-WordPress architecture: Identify the existing theme, framework, plugins, custom code, dependencies and potential limitations of the proprietary HealthHosts system.
-
-PHP compatibility: Assess whether the website can be upgraded to PHP 8.3 or newer, identify potential compatibility issues and determine whether these could be resolved without a complete rebuild.
-
-Website migration: Establish whether the existing WordPress installation can be migrated to an independent hosting provider, including the database, media library, content, theme and functionality.
-
-Proprietary theme restrictions: Determine whether the HealthHosts theme is technically portable and what licensing or ownership restrictions would need clarification.
-
-Access requirements: Identify exactly what I need to request from HealthHosts, including WordPress administrator access, SFTP/FTP, database exports, hosting control panel access, backups and theme files.
-
-Alternative technical solutions: Evaluate whether the existing website could be upgraded, migrated, have its theme replaced while retaining the current design, or require a partial or complete rebuild.
-
-SEO and functionality preservation: Assess how to preserve existing URLs, page structures, metadata, redirects, search rankings, forms and other website functionality during migration.
-
-Hosting independence: Recommend a suitable independent WordPress hosting arrangement where I retain ownership and administrative control of my website.
-
-Costs and feasibility: Provide an objective comparison of the technical work, estimated costs, risks and practical implications of each option.
-
-What I require initially:
-
-A one-to-one video consultation with screen sharing, a preliminary technical review recommended options and next steps.
-
-Please explain what you can assess through publicly available information and my existing WordPress access, and what would require additional server or administrator access.
-
-I am specifically seeking an independent technical assessment, not a quotation for a new website or a sales pitch for redesign services.
-
-Please confirm your relevant experience with legacy WordPress installations, proprietary themes, PHP upgrades and migrations away from managed website providers, together with your consultation fee.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
