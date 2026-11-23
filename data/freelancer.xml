@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Content Writer needed for online task Beginners level </title><link>https://www.freelancer.com/projects/blog-writing/Content-Writer-needed-for-online</link><guid isPermaLink="false">freelancer:40832124</guid><pubDate>Mon, 23 Nov 2026 16:46:59 GMT</pubDate><description>250-750 USD | I run a small personal blog that explores everyday lifestyle and personal-interest topics, and I’d like a series of fresh articles to keep the momentum going. The posts should read as if we’re chatting over coffee—clear, friendly, and jargon-free—because many of my readers are just starting their own journeys into hobbies, wellness routines, travel planning, and other day-to-day discoveries.
+
+Here’s what I need from you:
+
+• 3 original blog articles, each 600–800 words  
+• A catchy headline and a 155-character meta description for every post  
+• Sub-headings that break up the text logically, plus one brief call-to-action near the end  
+• Simple on-page SEO touches (natural use of a primary keyword I’ll provide, plus one or two related terms)  
+• A short list of royalty-free images or image ideas that match each topic
+
+Tone and style: conversational, encouraging, and relatable—think personal anecdotes, practical tips, or light reflections that help readers connect with the content.
+
+Formatting: Google Doc or Word file, ready for direct upload to WordPress (H2/H3 tags clearly marked).
+
+Deadline: Within one week of project start, with a quick outline sent halfway through so we can confirm you’re on the right track.
+
+If this first batch lands well, there’s plenty more to follow.</description></item>
 <item><title>Classical Ensemble Calendar Upgrade</title><link>https://www.freelancer.com/projects/api-integration/Classical-Ensemble-Calendar-Upgrade</link><guid isPermaLink="false">freelancer:40831957</guid><pubDate>Mon, 23 Nov 2026 14:59:16 GMT</pubDate><description>18-36 GBP/hr | Our classical music ensemble’s website needs a dedicated refresh focused solely on the concert calendar and ticket-purchase journey. Right now the calendar is static; I want visitors to land on a dynamic, mobile-friendly page that immediately lists every upcoming concert, shows essential details at a glance, and lets them narrow results by date or location.
 
 Key functions I need to see:
@@ -596,18 +613,6 @@ The setup should include:
 Any plugin or API fees should be listed separately and approved before installation.
 
 Please suggest a plugin and your estimated turnaround. If any requirement needs custom coding, let me know before starting.</description></item>
-<item><title>Urban Multi-Family Floor Plan Design</title><link>https://www.freelancer.com/projects/building-designer/Urban-Multi-Family-Floor-Plan</link><guid isPermaLink="false">freelancer:40828394</guid><pubDate>Sat, 21 Nov 2026 03:28:18 GMT</pubDate><description>30-250 USD | I’m developing an urban multi-family residential project and need clear, buildable floor plans that show exactly how the building will sit on the site and how each unit will relate to shared open areas. The intent is to strike the right balance between the number of homes and generous communal space, specifically a landscaped courtyard or garden at ground level and a usable rooftop terrace.
-
-Here’s what I need:  
-• A site-responsive concept layout illustrating building footprint, access, parking (if required), and how residents move between indoor and outdoor zones.  
-• Scaled floor plans for each level that organise the units efficiently while keeping natural light and ventilation in mind.  
-• Integration of the courtyard/garden and rooftop terrace so they feel like extensions of everyday living rather than leftover space.  
-• Digital files (DWG or RVT preferred) plus PDFs ready for review; layered so future adjustments are straightforward.  
-• A brief design narrative explaining the key decisions, unit counts, and how the scheme meets zoning or setback limits.
-
-Plans can be produced in AutoCAD, Revit, ArchiCAD, or another professional drafting package—whatever you’re most comfortable with, as long as the output is clean and editable.
-
-I already have the site survey and municipal guidelines; once we begin, I’ll share those along with the preliminary massing studies that prompted this rethink. What I’m missing is a cohesive plan that makes the project flow, optimises unit size, and gives residents meaningful outdoor space. If you can turn those ideas into a clear, coordinated set of floor plans, let’s get started.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
