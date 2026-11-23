@@ -275,24 +275,6 @@ Hours and how to apply
 We expect 10–15 hours per week, depending on priorities, at up to AUD $20 per hour. We’ll provide the detailed handover, priority work and account access once the freelancer is selected.
 
 Please include your hourly rate in AUD, weekly availability and two relevant examples. At least one should show a landing page you built or improved and explain what happened after a visitor submitted an enquiry. Tell us what you personally set up, which tools you used and how you verified it worked.</description></item>
-<item><title>Revamp WordPress Pages &amp; Forms</title><link>https://www.freelancer.com/projects/wordpress-design/Revamp-WordPress-Pages-Forms</link><guid isPermaLink="false">freelancer:40830671</guid><pubDate>Sun, 22 Nov 2026 21:32:17 GMT</pubDate><description>250-750 USD | I’d like a skilled WordPress developer to strengthen two key areas of my site WWW.DONPEARSALL.COM: Homepage, the service-/product-oriented pages and the contact-driven features that turn visits into enquiries.
-
-First, I want the service and product pages rebuilt so they look sharper, read better, and encourage action. Clean sectioning, persuasive copy placeholders, and a layout that adapts beautifully on mobile are all essential. You’re free to work with Gutenberg, Elementor, or another builder you trust, as long as the final result is lightweight and easy for me to update later.
-
-Second, I need streamlined enquiry functionality. A form—Gravity Forms, Contact Form 7, or similar—should capture name, email, phone, and a short message, then route each submission to my inbox with autoresponder confirmation to the visitor. No payment gateway or bookings for now; the sole goal is to let prospects request a quote or ask a question quickly.
-
-Deliverables
-• Redesigned home page, service/product page template implemented across existing items  
-• One universal “Request a Quote” form placed prominently (sidebar, footer, and a dedicated page)  
-• Basic on-page SEO essentials transferred or set up (H-tags, meta, alt text)  
-• Clear hand-off notes or short Loom walkthrough so I can maintain content
-
-Acceptance Criteria
-• Pages load without layout breaks on desktop, tablet, and phone  
-• Enquiry form sends email successfully and shows confirmation message  
-• All work is performed on a staging copy, then pushed live only after approval
-
-Let me know your preferred builder, estimated turnaround, and one or two examples of similar upgrades you’ve completed.</description></item>
 <item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
 
 Core capability  
@@ -629,6 +611,11 @@ Here’s what I need:
 Plans can be produced in AutoCAD, Revit, ArchiCAD, or another professional drafting package—whatever you’re most comfortable with, as long as the output is clean and editable.
 
 I already have the site survey and municipal guidelines; once we begin, I’ll share those along with the preliminary massing studies that prompted this rethink. What I’m missing is a cohesive plan that makes the project flow, optimises unit size, and gives residents meaningful outdoor space. If you can turn those ideas into a clear, coordinated set of floor plans, let’s get started.</description></item>
+<item><title>Mobile Detailing CRM &amp; Web Integration</title><link>https://www.freelancer.com/projects/crm/Mobile-Detailing-CRM-Web-Integration</link><guid isPermaLink="false">freelancer:40828350</guid><pubDate>Sat, 21 Nov 2026 02:14:35 GMT</pubDate><description>250-750 USD | I run a mobile detailing service and need a single, cohesive system that doubles as my public-facing website and my internal CRM. On the front end I want a clean portfolio page that shows off recent jobs, then funnels visitors straight into an online scheduling flow. Customers must be able to pick a service, select their preferred date and time, and pay by credit card—ideally all without ever feeling they’ve left the site.
+
+Behind the scenes the booking calendar should automatically assign each request based on the customer’s service address so my team is routed efficiently within our coverage areas. Once a booking is confirmed, the same platform should store customer data, service history, and payment status so I’m not bouncing between multiple tools.
+
+If you’ve worked with systems like Jobber, Housecall Pro, Zoho, HubSpot, or you can build a custom stack that combines a responsive website with CRM, calendar logic, and Stripe (or similar) payments, let’s talk. My priority is a seamless, branded experience from portfolio browse to completed appointment, with all data living in one place and accessible on mobile.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
