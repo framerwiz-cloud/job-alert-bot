@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Streamline Shopify Press Release Checkout</title><link>https://www.freelancer.com/projects/shopify-development/Streamline-Shopify-Press-Release</link><guid isPermaLink="false">freelancer:40831940</guid><pubDate>Mon, 23 Nov 2026 14:48:15 GMT</pubDate><description>50-200 USD | My Shopify store offers press-release submission packages, yet the current buying journey is confusing and the project has stalled. I need someone to step in, study the existing product page, cart flow, and confirmation email, then rebuild each touch-point so customers instantly understand what they are purchasing, what details they must supply, and how the service will unfold once they pay.
+
+You will work directly in Shopify (Dawn theme) or in a staging copy—whichever keeps momentum fastest. I expect clear, conversion-focused copy, updated Liquid templates or blocks where necessary, and a confirmation email that is short, branded, and action-oriented.
+
+Deliverables
+• Revised product/service page with an at-a-glance comparison of package options  
+Provide a choice to user where to publish 
+• Simplified checkout flow tested with at least one successful test order  
+• Branded confirmation email (Shopify Email or Klaviyo) that outlines next steps and passes spam checks  
+• Change log summarizing every file or setting touched
+
+Acceptance criteria
+• Page load under 2 s on mobile and desktop  
+• Test orders complete without errors  
+• Email length under 150 words, clear call-to-action, no spam-flag triggers
+
+If you have a track record in Shopify Liquid, UX copy, and conversion rate optimization, please share a quick outline of a similar project and your timeline to completion so we can get this store back on track.</description></item>
 <item><title>WooCommerce to Shopify Hair Store Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Hair-Store-Migration</link><guid isPermaLink="false">freelancer:40831814</guid><pubDate>Mon, 23 Nov 2026 13:19:42 GMT</pubDate><description>20-250 GBP | Freelance Shopify Developer / E-commerce Website Designer Wanted
 
 We are looking for an experienced Shopify freelancer to migrate our existing hair e-commerce website from WooCommerce to Shopify.
@@ -587,43 +604,6 @@ From the user’s side, I want shoppers to browse or search the stock then reach
 On the back end, I should be able to log in through an intuitive dashboard and add, edit, or remove cars without touching code. Think drag-and-drop image uploads, fields for price, mileage, year, and spec, plus automatic formatting so every new listing looks consistent.
 
 A clean, contemporary design, SEO-friendly structure, and solid security setup round out the project. Once complete, hand over the live site along with brief instructions (or a quick screen-share) so I can keep inventory updated going forward.</description></item>
-<item><title>Website Improvement Review</title><link>https://www.freelancer.com/projects/google-website-optimizer/Website-Improvement-Review</link><guid isPermaLink="false">freelancer:40828633</guid><pubDate>Sat, 21 Nov 2026 08:00:13 GMT</pubDate><description>20-250 GBP | WordPress Technical Audit, PHP Compatibility Assessment &amp; Hosting Migration Consultation
-
-I'm looking for an experienced senior WordPress developer or technical consultant to conduct an independent technical assessment and consultation with me to discuss my existing website: https://www.platinum-healing.com/
-
-My website is currently hosted and managed by HealthHosts https://www.healthhosts.com/ using their proprietary WordPress theme (HealthHosts Web49). It is running PHP 7.4.33, and my provider claims that upgrading to a supported PHP version would require significant development work and a complete website rebuild.
-
-I have restricted WordPress access, with no access to plugins, server configuration or full administrator settings.
-
-I require a paid technical consultation with me to investigate:
-
-WordPress architecture: Identify the existing theme, framework, plugins, custom code, dependencies and potential limitations of the proprietary HealthHosts system.
-
-PHP compatibility: Assess whether the website can be upgraded to PHP 8.3 or newer, identify potential compatibility issues and determine whether these could be resolved without a complete rebuild.
-
-Website migration: Establish whether the existing WordPress installation can be migrated to an independent hosting provider, including the database, media library, content, theme and functionality.
-
-Proprietary theme restrictions: Determine whether the HealthHosts theme is technically portable and what licensing or ownership restrictions would need clarification.
-
-Access requirements: Identify exactly what I need to request from HealthHosts, including WordPress administrator access, SFTP/FTP, database exports, hosting control panel access, backups and theme files.
-
-Alternative technical solutions: Evaluate whether the existing website could be upgraded, migrated, have its theme replaced while retaining the current design, or require a partial or complete rebuild.
-
-SEO and functionality preservation: Assess how to preserve existing URLs, page structures, metadata, redirects, search rankings, forms and other website functionality during migration.
-
-Hosting independence: Recommend a suitable independent WordPress hosting arrangement where I retain ownership and administrative control of my website.
-
-Costs and feasibility: Provide an objective comparison of the technical work, estimated costs, risks and practical implications of each option.
-
-What I require initially:
-
-A one-to-one video consultation with screen sharing, a preliminary technical review recommended options and next steps.
-
-Please explain what you can assess through publicly available information and my existing WordPress access, and what would require additional server or administrator access.
-
-I am specifically seeking an independent technical assessment, not a quotation for a new website or a sales pitch for redesign services.
-
-Please confirm your relevant experience with legacy WordPress installations, proprietary themes, PHP upgrades and migrations away from managed website providers, together with your consultation fee.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
