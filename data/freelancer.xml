@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>NATL Load Tracking &amp; Careers Site</title><link>https://www.freelancer.com/projects/web-development/NATL-Load-Tracking-Careers-Site</link><guid isPermaLink="false">freelancer:40831055</guid><pubDate>Mon, 23 Nov 2026 04:11:12 GMT</pubDate><description>250-750 USD | I need a full-featured website that gives our logistics company a single, professional hub for three critical functions. First, customers must be able to book freight and follow every load from pickup to delivery in real time. A secure dashboard should let both shippers and our internal staff create bookings, print paperwork, view status updates, and receive automatic notifications.  
+
+Second, the site has to showcase open positions and accept online applications. I want a simple back-end screen where our HR team can post new jobs, edit descriptions, and download submitted résumés.  
+
+Finally, we’ll maintain a news section that lets visitors read company announcements, industry articles, and service updates. A basic WYSIWYG editor is fine as long as it supports images and scheduled publishing.  
+
+Core requirements  
+• Responsive design that looks great on desktop, tablet, and mobile  
+• Intuitive navigation so someone unfamiliar with logistics can still find the load-booking portal, career page, and news feed in one click  
+• REST or GraphQL API connection to our existing TMS for live tracking data (I can provide documentation)  
+• Role-based access controls separating customers, staff, and public visitors  
+• Fast-loading pages, ADA compliance, and SEO-friendly structure  
+
+Deliverables  
+1. Fully deployed website (WordPress, Laravel, or another mainstream stack—open to your recommendation)  
+2. Source code in a private Git repo with clear commit history  
+3. Written hand-off guide covering environment variables, deployment steps, and how to update content  
+
+The project is ready to start as soon as I review your proposed tech stack and timeline.</description></item>
 <item><title>WordPress Search Page — Phase 1 Build, Phase 2 Python API Integration</title><link>https://www.freelancer.com/projects/web-development/WordPress-Search-Page-Phase-Build</link><guid isPermaLink="false">freelancer:40830613</guid><pubDate>Mon, 23 Nov 2026 03:23:55 GMT</pubDate><description>250-750 CAD | I’m looking for a WordPress developer for a two-phase project. Please submit a fixed-price bid for Phase 1 only. I’d prefer to work with the same developer for both phases if Phase 1 goes well.
 
 Phase 1 — Build and demo the WordPress page
@@ -763,16 +782,6 @@ Your estimated completion time.
 We are looking for an experienced professional who can take responsibility for completing this project from beginning to end.
 
 Thank you for your interest.</description></item>
-<item><title>Comprehensive Website UX Design Review</title><link>https://www.freelancer.com/projects/ui-design/Comprehensive-Website-Design-Review</link><guid isPermaLink="false">freelancer:40827490</guid><pubDate>Fri, 20 Nov 2026 09:59:45 GMT</pubDate><description>30-250 USD | I’ve just launched a new site and need a fresh, expert eye on it. My priority is improving the overall design and ease of use so potential customers find every page intuitive, visually appealing, and effortless to navigate.  
-
-Please explore the entire site—not just the homepage—flagging any layout inconsistencies, confusing flows, clunky interactions, or accessibility gaps that might distract or frustrate visitors. I’m especially interested in practical, clearly explained fixes I can pass straight to my developer or tackle myself.
-
-Deliverables  
-• A concise report (PDF or Google Doc) outlining each issue you spot, why it matters, and a specific, actionable recommendation to resolve it.  
-• Annotated screenshots or short Loom clips for complex points.  
-• A prioritised checklist so I know which changes will have the biggest impact on user experience first.
-
-I’ll share the URL as soon as we start. If you have a proven eye for modern UI/UX best practices and can translate observations into clear next steps, I’d love your insight.</description></item>
 <item><title>Framer Site Content &amp; SEO Refresh</title><link>https://www.freelancer.com/projects/framer/Framer-Site-Content-SEO-Refresh</link><guid isPermaLink="false">freelancer:40827203</guid><pubDate>Fri, 20 Nov 2026 06:01:42 GMT</pubDate><description>12-18 EUR/hr | I built my website in Framer and now need a quick, tidy refresh focused on content accuracy and basic search visibility.
 
 Here’s what I would like done:
