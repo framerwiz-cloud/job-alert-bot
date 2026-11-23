@@ -3,38 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Premium Brand Identity &amp; Promo Video</title><link>https://www.freelancer.com/projects/video-production/Premium-Brand-Identity-Promo-Video</link><guid isPermaLink="false">freelancer:40832521</guid><pubDate>Mon, 23 Nov 2026 23:11:40 GMT</pubDate><description>20-250 GBP | **Project: Premium Logo Design, Brand Identity &amp; Promotional Video**
-
-I am looking for a talented graphic designer or creative agency to help develop the visual identity and promotional materials for a new premium brand called **INTRAVIA INSIDER – THE WORLD WITHIN**.
-
-**Work required:**
-
-- Professional, distinctive logo design.
-- Premium brand identity and visual style.
-- Cinematic promotional video introducing the brand.
-- Social media banners and promotional graphics.
-- Website header and advertising graphics.
-
-**Creative direction:**
-
-I want an established, sophisticated and futuristic appearance. The brand should communicate trust, authority, knowledge and quality.
-
-Preferred colours:
-- Midnight black / deep navy
-- Metallic silver
-- Champagne gold accents
-
-The overall style should be elegant, modern and premium rather than a typical gaming aesthetic.
-
-**What I am looking for:**
-
-- Strong portfolio of previous branding and video projects.
-- Creative ideas and attention to detail.
-- Professional communication.
-- High-quality finished work.
-- Editable source files and full commercial usage rights.
-
-Please provide examples of your previous work, your estimated costs and delivery times. I am happy to consider individual freelancers or someone who can provide a complete creative package.</description></item>
 <item><title>Self-Managing Jewellery E-commerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Self-Managing-Jewellery-commerce-Site</link><guid isPermaLink="false">freelancer:40832447</guid><pubDate>Mon, 23 Nov 2026 22:11:15 GMT</pubDate><description>20-250 GBP | I need a complete e-commerce website for my jewellery line that lets me run the day-to-day work without touching code. Adding or deleting products, updating descriptions, images and prices should be as simple as filling out a form from an admin dashboard.
 
 Inventory must monitor itself. The system should:
@@ -715,6 +683,20 @@ Please explain what you can assess through publicly available information and my
 I am specifically seeking an independent technical assessment, not a quotation for a new website or a sales pitch for redesign services.
 
 Please confirm your relevant experience with legacy WordPress installations, proprietary themes, PHP upgrades and migrations away from managed website providers, together with your consultation fee.</description></item>
+<item><title>Install AI Chatbot on WordPress</title><link>https://www.freelancer.com/projects/ai-chatbot/Install-Chatbot-WordPress</link><guid isPermaLink="false">freelancer:40828594</guid><pubDate>Sat, 21 Nov 2026 07:30:29 GMT</pubDate><description>250-750 USD | I need someone to add a simple AI chatbot to my existing WordPress site using a ready-made plugin. I’m looking for a no-code setup, not custom development.
+
+I’ll provide a short FAQ, a link to the full FAQ page, and a welcome message.
+
+The setup should include:
+• Installing and configuring a suitable plugin.
+• Adding the FAQ and welcome message.
+• Showing the chat widget across the site and matching its colors.
+• Setting up a message directing visitors to the FAQ page when the bot can’t answer, if the plugin supports it.
+• Checking that the widget works on desktop and mobile.
+
+Any plugin or API fees should be listed separately and approved before installation.
+
+Please suggest a plugin and your estimated turnaround. If any requirement needs custom coding, let me know before starting.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
