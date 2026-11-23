@@ -256,22 +256,6 @@ Make the entire product tile clickable, including the image,
 add a “Shop by Category” section at the bottom, and reduce the product-name font size. 
 All product categories under feature not just some of them same as main menu.
 Set up subscription options with recurring monthly billing levels and store credit for future purchases. Support is needed through project completion; the work is remote.</description></item>
-<item><title>Portfolio &amp; Article Website Build</title><link>https://www.freelancer.com/projects/web-design/Portfolio-Article-Website-Build</link><guid isPermaLink="false">freelancer:40830866</guid><pubDate>Mon, 23 Nov 2026 01:04:20 GMT</pubDate><description>250-750 USD | I’m looking for a developer-designer who can create a clean, modern site where I can publish articles and present my portfolio in an organised, visually engaging way. The core aim is to share information—no e-commerce for now—so the structure needs to prioritise readability, simple navigation, and strong visual presentation.
-
-Here’s what I have in mind:
-• A CMS (WordPress, Webflow, or a platform you recommend) that lets me add new posts and portfolio pieces without touching code.  
-• Responsive layouts that look great on desktop, tablet, and mobile.  
-• A blog feed for long-form articles, plus separate portfolio galleries with category filters.  
-• Basic on-page SEO set-up and fast-loading images.  
-• Contact page or form so visitors can reach me quickly.  
-
-Deliverables
-1. Fully functional website deployed on my hosting with all sample content in place.  
-2. Brief hand-off guide or screen-share walkthrough so I know how to add and edit pages.  
-
-To apply, please link to past work that shows you can build information or portfolio sites with a crisp user experience. If you’ve created something similar—clean typography, strong imagery, clear content flow—those examples will help me choose quickly.  
-
-I’m ready to start as soon as I find the right match and will be available for quick feedback throughout the project.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
@@ -643,6 +627,18 @@ The setup should include:
 Any plugin or API fees should be listed separately and approved before installation.
 
 Please suggest a plugin and your estimated turnaround. If any requirement needs custom coding, let me know before starting.</description></item>
+<item><title>Urban Multi-Family Floor Plan Design</title><link>https://www.freelancer.com/projects/building-designer/Urban-Multi-Family-Floor-Plan</link><guid isPermaLink="false">freelancer:40828394</guid><pubDate>Sat, 21 Nov 2026 03:28:18 GMT</pubDate><description>30-250 USD | I’m developing an urban multi-family residential project and need clear, buildable floor plans that show exactly how the building will sit on the site and how each unit will relate to shared open areas. The intent is to strike the right balance between the number of homes and generous communal space, specifically a landscaped courtyard or garden at ground level and a usable rooftop terrace.
+
+Here’s what I need:  
+• A site-responsive concept layout illustrating building footprint, access, parking (if required), and how residents move between indoor and outdoor zones.  
+• Scaled floor plans for each level that organise the units efficiently while keeping natural light and ventilation in mind.  
+• Integration of the courtyard/garden and rooftop terrace so they feel like extensions of everyday living rather than leftover space.  
+• Digital files (DWG or RVT preferred) plus PDFs ready for review; layered so future adjustments are straightforward.  
+• A brief design narrative explaining the key decisions, unit counts, and how the scheme meets zoning or setback limits.
+
+Plans can be produced in AutoCAD, Revit, ArchiCAD, or another professional drafting package—whatever you’re most comfortable with, as long as the output is clean and editable.
+
+I already have the site survey and municipal guidelines; once we begin, I’ll share those along with the preliminary massing studies that prompted this rethink. What I’m missing is a cohesive plan that makes the project flow, optimises unit size, and gives residents meaningful outdoor space. If you can turn those ideas into a clear, coordinated set of floor plans, let’s get started.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
