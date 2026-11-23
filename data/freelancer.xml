@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WooCommerce to Shopify Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Migration-40831807</link><guid isPermaLink="false">freelancer:40831807</guid><pubDate>Mon, 23 Nov 2026 13:11:31 GMT</pubDate><description>250-750 GBP | Freelance Shopify Developer / E-commerce Website Designer Wanted
+
+We are looking for an experienced Shopify freelancer to migrate our existing hair e-commerce website from WooCommerce to Shopify.
+
+The website is already fully operational, so this is primarily a migration and redesign project rather than building a website from scratch.
+
+What we need:
+
+* Migrate the existing website, products and relevant data from WooCommerce to Shopify.
+* Retain existing product information, images, categories and variations.
+* Refresh and improve the website design.
+* Ensure product variants, pricing options and checkout work seamlessly.
+* Ensure the website is fully responsive and works smoothly on mobile and desktop.
+* Set up redirects and preserve SEO where possible.
+* Test everything thoroughly before launch.
+
+Ideal candidate:
+
+* Proven experience migrating WooCommerce stores to Shopify.
+* Strong Shopify design and development skills.
+* Experience working with large product catalogues, particularly hair, wigs or beauty products.
+* Able to work independently and deliver within an agreed timeframe.
+
+This is a paid freelance project. Please get in touch with examples of previous Shopify migration projects, your availability and an estimated quote.</description></item>
 <item><title>Bilingual Web Developer Partner Needed</title><link>https://www.freelancer.com/projects/web-development/Bilingual-Web-Developer-Partner-Needed</link><guid isPermaLink="false">freelancer:40831792</guid><pubDate>Mon, 23 Nov 2026 13:02:41 GMT</pubDate><description>750-1500 USD | I am ready to move forward with a new online venture and I’m searching for a long-term partner—not a one-off contractor—who can take full technical ownership of the website we will launch. Your strongest asset will be solid web-development ability, but it is equally important that you communicate comfortably in both English and Portuguese because our audience and future team will operate in both languages.
 
 The immediate goal is to design, build, and maintain a professional website for the core business service I am putting together. I will drive operations, strategy, and growth; you will shape the product architecture, choose the stack, code the site, and keep it running smoothly. Together we will refine features, iterate quickly, and divide future responsibilities as the project scales.
@@ -609,20 +633,6 @@ Please explain what you can assess through publicly available information and my
 I am specifically seeking an independent technical assessment, not a quotation for a new website or a sales pitch for redesign services.
 
 Please confirm your relevant experience with legacy WordPress installations, proprietary themes, PHP upgrades and migrations away from managed website providers, together with your consultation fee.</description></item>
-<item><title>Install AI Chatbot on WordPress</title><link>https://www.freelancer.com/projects/ai-chatbot/Install-Chatbot-WordPress</link><guid isPermaLink="false">freelancer:40828594</guid><pubDate>Sat, 21 Nov 2026 07:30:29 GMT</pubDate><description>250-750 USD | I need someone to add a simple AI chatbot to my existing WordPress site using a ready-made plugin. I’m looking for a no-code setup, not custom development.
-
-I’ll provide a short FAQ, a link to the full FAQ page, and a welcome message.
-
-The setup should include:
-• Installing and configuring a suitable plugin.
-• Adding the FAQ and welcome message.
-• Showing the chat widget across the site and matching its colors.
-• Setting up a message directing visitors to the FAQ page when the bot can’t answer, if the plugin supports it.
-• Checking that the widget works on desktop and mobile.
-
-Any plugin or API fees should be listed separately and approved before installation.
-
-Please suggest a plugin and your estimated turnaround. If any requirement needs custom coding, let me know before starting.</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
 1. A visitor fills out the sign-up form as usual.  
