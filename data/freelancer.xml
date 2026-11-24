@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Front End Conversion Web Developer (Project-to-Retainer)</title><link>https://www.freelancer.com/projects/web-development/Front-End-Conversion-Web-Developer</link><guid isPermaLink="false">freelancer:40833935</guid><pubDate>Tue, 24 Nov 2026 18:25:01 GMT</pubDate><description>45-75 USD/hr | Moscow Elite Tree Service — https://www.moscowelitetreeservice.com — Moscow, ID &amp; Palouse region.
+
+We are looking for a detail-oriented Web Developer to tighten up page speed, mobile UX, and lead-conversion layouts on moscowelitetreeservice.com. Clean code, fast Core Web Vitals, and measurable conversion lifts. Standout work leads to repeat builds and ongoing optimization projects.
+
+What you will do:
+- Improve page speed and Core Web Vitals on desktop and mobile
+- Tighten mobile UX, navigation, and lead-conversion layouts
+- Improve quote-request and contact flows so more visitors become leads
+- Clean up code, images, and layout issues that slow the site or hurt conversions
+- Test and report measurable conversion improvements
+
+Budget: $45-$75/hr (or $500-$1,200 fixed project). Remote — Spokane, WA / U.S. PST Preferred. U.S.-based freelancers only.
+
+How to pitch — please apply here:
+https://docs.google.com/forms/d/e/1FAIpQLScb-0WJyykppSZgQSQtUixOcdTQCoPK7UQjtXwzdbORL-P_1Q/viewform
+
+Website: https://www.moscowelitetreeservice.com
+
+Before pitching, search "Moscow Elite Tree Service Moscow ID" on Google, pull up moscowelitetreeservice.com on mobile/desktop, and name one specific UX, speed, or conversion fix you would tackle first. Generic copy-paste pitches will be ignored.</description></item>
 <item><title>Beginner Marketing How-To Blogs</title><link>https://www.freelancer.com/projects/blog-writing/Beginner-Marketing-How-Blogs</link><guid isPermaLink="false">freelancer:40833914</guid><pubDate>Tue, 24 Nov 2026 18:15:11 GMT</pubDate><description>250-750 USD | I need clear, practical how-to articles that guide absolute beginners through essential business and marketing tasks. Think topics such as setting up a simple marketing funnel, writing a basic value proposition, or using social media analytics for the first time. Each post should read like friendly instructions from a knowledgeable colleague—no jargon, no fluff, just actionable steps with real-world examples.
 
 Here’s what I expect:
@@ -29,19 +48,6 @@ I’ll provide the current URL and brand guidelines as soon as we start. Once co
 A smooth, modern design is important to me, as is a back-office interface where I can add new products, change prices, and see incoming orders at a glance. If you have a preferred stack—whether it’s WooCommerce, Shopify, Magento, or a custom solution—tell me why it fits and how it will keep my day-to-day management simple.
 
 Please walk me through your proposed approach, timeline, and any examples of similar stores you have launched so I can see your work in action.</description></item>
-<item><title>Fix Stripe Subscription Account Sync</title><link>https://www.freelancer.com/projects/stripe/Fix-Stripe-Subscription-Account-Sync</link><guid isPermaLink="false">freelancer:40833597</guid><pubDate>Tue, 24 Nov 2026 14:19:55 GMT</pubDate><description>30-250 CAD | Hi i need someone who can please fix how Stripe payments link to website accounts? I hired Reupped Elias but unfortunately he is not what i thought he was. I cant get a hold of him and he is invisible.  Never answers my message.  
-
-The problem is When someone pays through the direct Stripe Payment Link, Stripe creates a subscription, but the website account stays as FREE USER with Billing Status "None (No Active Billing)" and can't play anything. I had to fix mine manually in Admin &gt; User Accounts &gt; Configure Subscription, changing Billing Status to Subscribed (trial) and setting the expiration date.
-
-Can you please fix it so a Payment Link checkout automatically updates the matching website account by email to Subscribed (trial) / Active (paid), with the correct expiration date? Stripe also creates a new customer each time instead of using the existing one, so the site needs to match by email.
-
-Also, can you please update the pricing on shaklefordrecords.com?
-
-Change the Monthly Music Streaming plan from C$9.99 / month with a 3-day free trial to C$3.99 / month with a 30-day free trial, everywhere that price and trial show up on the site, including the pricing page and any homepage / signup wording.
-
-I've already updated Stripe and Firebase to $3.99 with a 30-day trial, so please don't change the Stripe price or trial — just the displayed wording in the site code, then redeploy so it shows live.
-
-Thanks, Darwin</description></item>
 <item><title>Build Immersive Luxury Streetwear Store</title><link>https://www.freelancer.com/projects/web-development/Build-Immersive-Luxury-Streetwear-Store</link><guid isPermaLink="false">freelancer:40833457</guid><pubDate>Tue, 24 Nov 2026 12:21:39 GMT</pubDate><description>250-750 CAD | We are currently developing ELEVEN TEN (11-10), an independent streetwear brand focused on contemporary apparel, including hoodies, sweatpants, coordinated sets, and exclusive seasonal collections.
 
 We are seeking an experienced web developer and creative designer to develop a distinctive, high-end e-commerce platform that accurately represents the brand's identity and long-term vision.
