@@ -3,6 +3,14 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Launch-Ready Shopify Wig Store</title><link>https://www.freelancer.com/projects/shopify-development/Launch-Ready-Shopify-Wig-Store</link><guid isPermaLink="false">freelancer:40833344</guid><pubDate>Tue, 24 Nov 2026 10:49:55 GMT</pubDate><description>2-8 USD/hr | My Shopify wig shop is built, stocked with products, and almost ready to go live; I just need a sharp Shopify expert to handle the last-mile tasks today.
+
+What has to happen:
+• Enter the correct prices for every wig variant – each style has multiple lengths and colours, so use Shopify’s variant system to show customers the exact price as options change. I will supply the pricing grid immediately.
+• Complete the operational setup: activate payment gateways, configure shipping rates, and run a quick test checkout so we know money can flow without hiccups.
+• Tidy up the theme: adjust the home page banners, tighten the main menu structure, and make sure the site looks clean and responsive on mobile.
+
+When we’re done, every product must display the right variant prices, the cart must calculate totals and shipping properly, and the home page and navigation should feel polished on desktop and phone. I’ll be available all day to supply assets or answers, so if you’re comfortable working inside Shopify’s admin, theme editor, and (when needed) a bit of Liquid or CSS, this should be a fast, satisfying turnaround.</description></item>
 <item><title>Dubai Salon Local SEO Overhaul</title><link>https://www.freelancer.com/projects/analytics/Dubai-Salon-Local-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40833276</guid><pubDate>Tue, 24 Nov 2026 09:54:17 GMT</pubDate><description>30-250 USD | WordPress Technical SEO, Local SEO &amp; Ongoing Maintenance – Dubai Beauty Salon
 
 We are looking for an experienced WordPress SEO specialist to improve and maintain the website of an established beauty salon in Downtown Dubai.
@@ -78,21 +86,6 @@ Please provide:
 - Details of any excluded services or additional charges.
 
 We are looking for someone who can implement the required improvements and provide reliable ongoing support, not simply supply SEO audit reports.</description></item>
-<item><title>Install web site on my hosting</title><link>https://www.freelancer.com/projects/web-hosting/Install-web-site-hosting</link><guid isPermaLink="false">freelancer:40833202</guid><pubDate>Tue, 24 Nov 2026 09:04:02 GMT</pubDate><description>30-250 AUD | I have a finished custom-coded HTML/CSS/JS website sitting in a ZIP file. I need someone who can quickly move it onto a brand-new hosting account, connect my domain, handle any DNS changes, and confirm that every page, image, and script is loading correctly once it is live.
-
-You will receive: 
-• Login details for the fresh hosting cPanel (or equivalent)  
-
-
-Your scope:
-1. Create the appropriate folder structure on the server, upload all files, and verify paths.
-2. Point the domain to the new host, configure DNS records, and wait out propagation.
-3. Test the site publicly to ensure links, forms, and media work exactly as they do locally.
-4. Hand back a short hand-over note with any credentials altered, plus tips for future edits.
-
-I expect the site to be reachable at the root domain (no “/subfolder”) and to load without console errors in the latest versions of Chrome, Firefox, and Safari. If you spot minor code issues while deploying, feel free to fix them on the fly.
-
-This is a straightforward job for someone comfortable with FTP/SFTP, cPanel, and basic DNS management, and I’m ready to get started as soon as you are.</description></item>
 <item><title>Build Automotive Dealership SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Build-Automotive-Dealership-SaaS</link><guid isPermaLink="false">freelancer:40832979</guid><pubDate>Tue, 24 Nov 2026 06:09:58 GMT</pubDate><description>3000-5000 USD | About the Role
 We are a growing automotive dealership looking for an experienced Full-Stack Developer to architect, build, and scale a custom SaaS platform tailored to our dealership operations. This platform will serve as our central hub to manage vehicle inventory, streamline the sales pipeline, and provide data-driven business insights and recommendations to optimize pricing, stock turnover, and customer engagement.
 You will have end-to-end ownership of the software lifecycle—from database architecture and backend APIs to building an intuitive, responsive dashboard for our sales and management teams.
@@ -550,6 +543,27 @@ Hours and how to apply
 We expect 10–15 hours per week, depending on priorities, at up to AUD $20 per hour. We’ll provide the detailed handover, priority work and account access once the freelancer is selected.
 
 Please include your hourly rate in AUD, weekly availability and two relevant examples. At least one should show a landing page you built or improved and explain what happened after a visitor submitted an enquiry. Tell us what you personally set up, which tools you used and how you verified it worked.</description></item>
+<item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
+
+Core capability  
+• The bot should recognise a customer by order number, email, or phone, connect to our store’s API, and return live order status and carrier tracking links in natural language.  
+• Handling this first task accurately and with near-instant response time is the priority; everything else can follow later.
+
+Tech &amp; integration notes  
+Our store runs on Shopify, and we already expose order data through a private REST API.  I’m open to Dialogflow CX, Rasa, LangChain on OpenAI, or another framework if you can show it keeps latency low.  Code must be containerised (Docker) and ready for a one-click deploy to AWS.
+
+Deliverables  
+1. Working chat widget embedded on our site  
+2. Backend service that fetches and formats order status/tracking details  
+3. Simple admin panel or JSON config for API keys, intents, and fallback phrases  
+4. README with setup, environment variables, and hand-off instructions
+
+Acceptance criteria  
+• 95 %+ accuracy on sample queries drawn from our past support logs  
+• Response time under 2 seconds end-to-end  
+• Graceful hand-off to a human agent when confidence &lt; 0.8 or data is missing  
+
+If you’ve built a similar order-tracking bot before, link a demo or repo so I can see it in action.</description></item>
 <item><title>GoHighLevel CRM WIZ Needed</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-CRM-WIZ-Needed</link><guid isPermaLink="false">freelancer:40829867</guid><pubDate>Sun, 22 Nov 2026 07:56:03 GMT</pubDate><description>15-25 AUD/hr | I run a home-service business and already have GoHighLevel in place, but the platform still isn’t doing the heavy lifting it should. My immediate priority is crystal-clear: set up leads, pipelines, and follow-ups so every inquiry is routed, tracked, and nurtured automatically.
 
 Here’s what our collaboration will look like:
