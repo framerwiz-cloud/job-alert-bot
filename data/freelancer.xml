@@ -370,61 +370,6 @@ Ideal candidate:
 * Able to work independently and deliver within an agreed timeframe.
 
 This is a paid freelance project. Please get in touch with examples of previous Shopify migration projects, your availability and an estimated quote.</description></item>
-<item><title>Automate Legal Documents on WordPress</title><link>https://www.freelancer.com/projects/n8n/Automate-Legal-Documents-WordPress</link><guid isPermaLink="false">freelancer:40831734</guid><pubDate>Mon, 23 Nov 2026 12:04:51 GMT</pubDate><description>250-750 AUD | Project Brief: Automated Legal Document Production System
-Project Overview
-We are looking for an experienced developer to build a simple, cost-effective automated legal document production system for an existing law firm.
-Important: We already have an existing WordPress website. We do NOT need a new website built.
-The project involves adding legal services and fixed-fee document packages to the existing WordPress website, allowing clients to purchase services, complete online questionnaires, upload supporting documents and receive professionally prepared legal documents following solicitor approval.
-We need Stripe integrated into the existing website so clients can select a service, make payment and complete the required onboarding process.
-We have a strict project budget and are looking for someone who can deliver a practical, reliable solution without unnecessary complexity or expensive custom development.
-Required Workflow
-Existing WordPress website: Add legal services and fixed-fee document packages to the existing website, including service descriptions, pricing and inclusions.
-Online purchasing: Integrate Stripe into the existing WordPress website so clients can purchase their selected legal service.
-Questionnaire: Following service selection, clients complete an online questionnaire and upload relevant supporting documents.
-CRM integration and conflict checks: Connect to the firm's existing SILQ CRM to identify existing clients, check relevant parties for potential conflicts and flag potential matches for solicitor review. New client details and approved matters must be saved in SILQ. Conflicts must not be automatically cleared by AI.
-Engagement and payment: Client receives the relevant costs agreement, accepts the terms and completes payment through Stripe. Matter acceptance and payment must be verified before document production begins.
-Automation: n8n triggers the workflow following verified payment and the required matter acceptance checks.
-AI processing: OpenAI extracts and structures client information, while Claude prepares documents using approved legal templates and instructions.
-Document generation: Generate professionally formatted, branded and fully editable Microsoft Word (.docx) and PDF documents.
-Solicitor review: Provide a simple, secure interface where solicitors can review documents, download Word/PDF versions, manually edit Word documents and upload revised versions.
-AI amendments: Solicitors can request AI amendments or make their own manual changes. All document versions must be retained.
-Final approval: A solicitor must explicitly approve the final document before it can be released.
-Client delivery: Automatically deliver the approved document securely by email.
-Feedback: Send an automated client feedback or review request.
-Required Technology
-We would prefer to use existing services and avoid unnecessary custom software development.
-WordPress: Existing website. Add services, purchasing functionality and questionnaires.
-Stripe: Payment processing integrated into the existing website.
-n8n: Workflow automation.
-SILQ: Existing CRM and legal practice management system.
-OpenAI API: Information extraction.
-Claude API: Legal document drafting.
-Microsoft Word (.docx) and PDF: Document generation.
-Important Requirements
-Work with our existing WordPress website. Do not rebuild it.
-Add legal services and fixed-fee packages to the existing website.
-Allow clients to purchase services, complete questionnaires and upload documents online.
-Integrate Stripe for secure payments.
-Integrate with the firm's existing SILQ CRM. Do not build another CRM.
-Support client searches, potential conflict identification and new client/matter creation, subject to SILQ API capabilities.
-Maintain secure document storage and client confidentiality.
-Provide downloadable and editable Word documents.
-Allow solicitors to manually amend and re-upload documents.
-Maintain document version history.
-Require solicitor approval before documents are sent to clients.
-Include basic error handling and workflow notifications.
-Budget, Scope and Proposal
-We have a strict budget for this project and are looking for the most affordable practical solution.
-If you are interested in bidding, please provide:
-Your best fixed-price quote for delivering the project.
-A clear breakdown of exactly what is included in your proposed scope.
-Your estimated development timeframe and delivery milestones.
-Any additional ongoing costs, including hosting, API usage, subscriptions or third-party services.
-Confirmation that you have experience with WordPress, Stripe, n8n, API integrations, AI document generation and CRM integrations.
-Any recommendations for simplifying the implementation or reducing costs without compromising essential functionality.
-Please distinguish between essential functionality and optional enhancements.
-We are open to practical alternatives if they achieve the same outcome at a lower cost.
-Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
