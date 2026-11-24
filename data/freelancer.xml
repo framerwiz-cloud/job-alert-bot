@@ -3,7 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Mortgage Lead-Gen Platform Pilot Build</title><link>https://www.freelancer.com/projects/api-integration/Mortgage-Lead-Gen-Platform-Pilot</link><guid isPermaLink="false">freelancer:40834060</guid><pubDate>Tue, 24 Nov 2026 20:36:48 GMT</pubDate><description>250-750 AUD | I’m spinning up a proof-of-concept for KeepEasy Finance that lets Australian home buyers book a call with one of our brokers and, behind the scenes, creates a lead inside BrokerEngine using dummy data. The pilot will never touch production credentials—once the flow works, we’ll swap in live keys ourselves.
+<item><title>Mortgage Lead-Gen Platform Pilot Build</title><link>https://www.freelancer.com/projects/api-integration/Mortgage-Lead-Gen-Platform-Pilot</link><guid isPermaLink="false">freelancer:40834060</guid><pubDate>Tue, 24 Nov 2026 20:55:06 GMT</pubDate><description>250-750 AUD | Add on - Mandatory experience — GoHighLevel for Australian mortgage brokers
+
+* You must have personally built or managed GoHighLevel workflows for an Australian mortgage brokerage. Both hands-on GoHighLevel experience and direct experience with Australian mortgage broking workflows are required.
+* Your experience should cover mortgage lead capture, email and SMS follow-up, discovery call booking, lead qualification and handoff to a broker.
+* Zapier integration experience is required. Direct experience with BrokerEngine is strongly preferred.
+* Applicants can be based in Australia or overseas. You must be available for agreed check-ins during Sydney business hours.
+
+To apply, share one example of a GoHighLevel project you delivered for an Australian mortgage brokerage. Tell us what you personally built, how leads were qualified and handed off, and which systems you integrated. A short Loom walkthrough or anonymised screenshots are welcome. 
+
+I’m spinning up a proof-of-concept for KeepEasy Finance that lets Australian home buyers book a call with one of our brokers and, behind the scenes, creates a lead inside BrokerEngine using dummy data. The pilot will never touch production credentials—once the flow works, we’ll swap in live keys ourselves.
 
 Here’s the flow I want to see:
 • Prospect lands on a responsive page, enters basic contact details, then chooses a time slot that aligns with the broker’s Sydney schedule.  
@@ -21,7 +30,7 @@ Acceptance criteria:
 2. Email confirmations render correctly in AEST.  
 3. Code is clean, commented, and can be redeployed with live keys in under an hour.  
 
-I need at least three hours of overlap with Sydney business hours each day. Experience with Australian mortgage broking or BrokerEngine will earn extra points, but solid API integration work speaks for itself. Let me know the tech stack you’d choose and link me to a similar integration you’ve shipped.</description></item>
+I need at least three hours of overlap with Sydney business hours each day. Experience with Australian mortgage broking or BrokerEngine will earn extra points, but solid API integration work speaks for itself. Let me know the tech stack you’d choose and link me to a similar integration you’ve shipped. </description></item>
 <item><title>Bespoke API-Powered Report Builder</title><link>https://www.freelancer.com/projects/api-developmet/Bespoke-API-Powered-Report-Builder</link><guid isPermaLink="false">freelancer:40834017</guid><pubDate>Tue, 24 Nov 2026 19:47:12 GMT</pubDate><description>3000-5000 GBP | I am looking to develop a bespoke web-based application for my business that will allow me to create professional, customised reports by integrating data from multiple third-party websites and platforms via their APIs.
 
 The application should have a flexible report-building interface, allowing me to design and customise my own report templates rather than relying on fixed, pre-designed formats.
