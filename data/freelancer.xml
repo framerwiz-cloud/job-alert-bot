@@ -3,27 +3,9 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Design Public Company Database Website</title><link>https://www.freelancer.com/projects/database-management/Design-Public-Company-Database-Website</link><guid isPermaLink="false">freelancer:40833392</guid><pubDate>Tue, 24 Nov 2026 11:34:45 GMT</pubDate><description>10000-20000 GBP | I’m looking for a designer-developer who can build a clean, responsive site whose sole purpose is to display our company database to the public. Visitors will not need to log in; the data should be instantly visible, easy to browse, and searchable from any device.
-
-Here’s what I need the finished site to do:
-• Present the full database in an attractive, consistent layout  
-• Offer real-time search, filter, and sort functions so users can quickly find specific records  
-• Allow me (or another authorised admin) to update the data easily—CSV upload or a simple back-end form is fine  
-• Load fast and remain fully responsive across desktop, tablet, and mobile  
-
-I’m open to the stack you prefer—HTML5, CSS3, JavaScript frameworks, PHP/MySQL, or comparable tools—as long as the final product is reliable, well-documented, and simple for a non-technical team member to maintain.
-
-Deliverables:
-1. Fully functional website hosted on our chosen server  
-2. Source files and database schema  
-3. Brief hand-over document explaining how to add or edit records  
-
-If this sounds like a project you can turn around efficiently while keeping the interface intuitive, I’d love to see examples of similar data-driven sites you’ve produced and discuss next steps.</description></item>
-<item><title>Dubai Salon Local SEO Overhaul</title><link>https://www.freelancer.com/projects/analytics/Dubai-Salon-Local-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40833276</guid><pubDate>Tue, 24 Nov 2026 09:54:17 GMT</pubDate><description>30-250 USD | WordPress Technical SEO, Local SEO &amp; Ongoing Maintenance – Dubai Beauty Salon
+<item><title>Dubai Salon Local SEO Overhaul</title><link>https://www.freelancer.com/projects/analytics/Dubai-Salon-Local-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40833276</guid><pubDate>Tue, 24 Nov 2026 12:06:43 GMT</pubDate><description>30-250 USD | WordPress Technical SEO, Local SEO &amp; Ongoing Maintenance – Dubai Beauty Salon
 
 We are looking for an experienced WordPress SEO specialist to improve and maintain the website of an established beauty salon in Downtown Dubai.
-
-Website: https://amayasalon.ae/
 
 The assignment consists of two phases. Applicants must quote separately for the initial project and optional ongoing monthly services.
 
@@ -39,7 +21,7 @@ Phase 1 – Initial SEO Optimisation (4 Weeks)
 
 5. Analytics: Configure or verify Google Search Console, GA4 and conversion tracking for booking clicks, calls and WhatsApp enquiries.
 
-6. Content: Improve existing service pages and recommend commercially relevant additional content. No Bridal or Massage promotional pages are required.
+6. Content: Improve existing service pages and recommend commercially relevant additional content.
 
 7. Reporting: Provide a baseline audit, weekly progress updates, before-and-after evidence and a final completion report.
  Phase 2 – Ongoing Monthly SEO and Website Maintenance (Optional)
@@ -56,7 +38,7 @@ Please provide a separate monthly quotation covering:
 
 5. WordPress maintenance: Monitor plugin, theme, security and backup requirements. Updates and changes must be coordinated with our IT department.
 
-6. Local SEO: Monitor business listings, maintain consistent contact details and undertake relevant, ethical local citation and backlink activities.
+6. Local SEO: Monitor business listings, maintain consistent contact details and undertake relevant, ethical local citation and back link activities.
 
 7. Competitor analysis: Review relevant nearby competitors and recommend improvements based on actual search performance.
 
@@ -94,6 +76,22 @@ Please provide:
 - Details of any excluded services or additional charges.
 
 We are looking for someone who can implement the required improvements and provide reliable ongoing support, not simply supply SEO audit reports.</description></item>
+<item><title>Design Public Company Database Website</title><link>https://www.freelancer.com/projects/database-management/Design-Public-Company-Database-Website</link><guid isPermaLink="false">freelancer:40833392</guid><pubDate>Tue, 24 Nov 2026 11:34:45 GMT</pubDate><description>10000-20000 GBP | I’m looking for a designer-developer who can build a clean, responsive site whose sole purpose is to display our company database to the public. Visitors will not need to log in; the data should be instantly visible, easy to browse, and searchable from any device.
+
+Here’s what I need the finished site to do:
+• Present the full database in an attractive, consistent layout  
+• Offer real-time search, filter, and sort functions so users can quickly find specific records  
+• Allow me (or another authorised admin) to update the data easily—CSV upload or a simple back-end form is fine  
+• Load fast and remain fully responsive across desktop, tablet, and mobile  
+
+I’m open to the stack you prefer—HTML5, CSS3, JavaScript frameworks, PHP/MySQL, or comparable tools—as long as the final product is reliable, well-documented, and simple for a non-technical team member to maintain.
+
+Deliverables:
+1. Fully functional website hosted on our chosen server  
+2. Source files and database schema  
+3. Brief hand-over document explaining how to add or edit records  
+
+If this sounds like a project you can turn around efficiently while keeping the interface intuitive, I’d love to see examples of similar data-driven sites you’ve produced and discuss next steps.</description></item>
 <item><title>Build Automotive Dealership SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Build-Automotive-Dealership-SaaS</link><guid isPermaLink="false">freelancer:40832979</guid><pubDate>Tue, 24 Nov 2026 06:09:58 GMT</pubDate><description>3000-5000 USD | About the Role
 We are a growing automotive dealership looking for an experienced Full-Stack Developer to architect, build, and scale a custom SaaS platform tailored to our dealership operations. This platform will serve as our central hub to manage vehicle inventory, streamline the sales pipeline, and provide data-driven business insights and recommendations to optimize pricing, stock turnover, and customer engagement.
 You will have end-to-end ownership of the software lifecycle—from database architecture and backend APIs to building an intuitive, responsive dashboard for our sales and management teams.
