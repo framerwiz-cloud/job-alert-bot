@@ -3,6 +3,40 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>12-Product Crypto WooCommerce Store</title><link>https://www.freelancer.com/projects/woocommerce/Product-Crypto-WooCommerce-Store</link><guid isPermaLink="false">freelancer:40832761</guid><pubDate>Tue, 24 Nov 2026 03:24:44 GMT</pubDate><description>1500-3000 AUD | Project Title: WooCommerce Store Build (12 Products, Crypto Checkout, Batch COA QR Codes) – Fixed Price in AUD
+​Description:
+​Hi,
+​We're launching a small online store and need a WooCommerce site built. We are looking for a fixed-price quote in AUD, split into clear milestones. (Please start your bid with the word ATLAS and address all points in the "Please include in your quote" section so we know you've read the full brief.)
+​The Project
+​A clean, streamlined WooCommerce store selling ~12 research-use-only products.
+​We'll share a reference site we like as a guide to layout and feel (we are not asking for an exact copy).
+​Clean, modern, mobile-friendly design. We will supply all branding, logos, and product copy.
+​What We Need
+​1. Core Store Pages: Home, shop, product pages, cart, checkout, about, contact, and policy pages.
+​2. Crypto-Only Checkout: BTC and stablecoins (e.g., USDT) via BTCPay Server, NOWPayments, or similar. Please tell us what you've used before and what you recommend. Structure the checkout so standard payment gateways can be easily added later.
+​3. Batch QR Codes &amp; COA Pages: Each product page links to a Certificate of Analysis (COA) section/page with a QR code per batch. We need an easy backend workflow to upload a new COA PDF/image and batch number ourselves (a clean Custom Post Type/ACF setup or lightweight plugin is fine).
+​4. Automated Supplier Notifications: Each new paid order automatically emails both us and our supplier with the order details and shipping address.
+​5. Compliance Features: An 18+ age gate on entry, a "for research purposes only" notice on product pages, and mandatory acknowledgment checkboxes at checkout.
+​6. Manual Stock Control: No live inventory counting—just an easy "In Stock / Out of Stock" toggle per product.
+​7. Admin &amp; Order Exports: Simple backend to edit products, prices, and pages ourselves, plus 1-click order export to CSV/Excel.
+​8. Margin Reporting: Cost-of-goods field per product so we can view profit margins on orders.
+​Delivery &amp; Handover
+​A staging site for us to review and approve before going live.
+​Final deployment on hosting we choose (advice welcome on hosts suited to this niche).
+​Full ownership at handover: All admin logins, files, plugins, and licences transferred directly to our accounts.
+​A short handover guide or Loom walkthrough video, plus 30 days of post-launch bug-fix support.
+​Working Together
+​At least 2 hours a week of overlap with Australian Eastern Time (AEST/AEDT).
+​Clear English communication and regular milestone updates.
+​Please Include in Your Quote
+​1. Total fixed price in AUD and proposed milestone breakdown.
+​2. Estimated timeline from kickoff to launch.
+​3. Which crypto payment plugin you'd use and why.
+​4. Links to 2–3 similar WooCommerce stores you've built.
+​5. Any ongoing third-party costs (plugins, hosting, licences).
+​6. Anything in this brief you'd change or simplify to save time or cost.
+​Thanks, and I look forward to hearing from you.
+​Dan</description></item>
 <item><title>Shopify Website Development for Wholesale Grocery</title><link>https://www.freelancer.com/projects/shopify-development/Shopify-Website-Development-for</link><guid isPermaLink="false">freelancer:40832700</guid><pubDate>Tue, 24 Nov 2026 02:30:43 GMT</pubDate><description>750-1500 USD | I'm seeking an experienced Shopify developer to create an online ordering website for Desi Depot, a wholesale grocery and restaurant supply business in Minnesota, USA.
 
 Requirements:
@@ -675,24 +709,6 @@ I’d like to move quickly—delivery ASAP with clear milestones for design mock
 
 When you reply  
 Please include links or screenshots of past work that demonstrate your ability to build visually driven, mobile-first sites. If you’ve handled similar landscaping or outdoor service projects, point those out. Briefly outline your proposed tech stack or platform, estimated timeframe, and anything you need from me to get started.</description></item>
-<item><title>Business Website </title><link>https://www.freelancer.com/projects/web-development/Business-Website-40828817</link><guid isPermaLink="false">freelancer:40828817</guid><pubDate>Sat, 21 Nov 2026 11:01:13 GMT</pubDate><description>30-250 USD | I want a modern, responsive website that presents my business and services professionally and also makes it easy for visitors to purchase digital products—think downloadable files or online courses—directly from the site.  
-
-Core requirements  
-• Clean, on-brand design that highlights who we are and what we do.  
-• Secure e-commerce flow for digital goods: product pages, cart, checkout, automatic file delivery, and basic licence or access control.  
-• Simple content management so I can update text, images, and product listings without touching code.  
-• Fast load times, mobile-first layout, and SEO-friendly structure.  
-• End-to-end launch support, including domain connection and basic analytics setup (e.g., Google Analytics, Search Console).  
-
-Preferred stack  
-I’m flexible, but popular options like WordPress + WooCommerce, Shopify, or a comparable platform that excels at digital downloads are ideal. If you have another solution that meets the same goals, feel free to suggest it.  
-
-Acceptance criteria  
-1. Site passes a live usability review on desktop and mobile.  
-2. Test purchase of a sample digital product processes correctly and instantly delivers the file or course access.  
-3. Admin login provided with a short walkthrough or video so I can add future products and pages myself.  
-
-Once everything is live and verified, the project is complete.</description></item>
 <item><title>CLONE SITE </title><link>https://www.freelancer.com/projects/php/Project-for-Melika-40828790</link><guid isPermaLink="false">freelancer:40828790</guid><pubDate>Sat, 21 Nov 2026 10:32:20 GMT</pubDate><description>30-30 GBP/hr | to copy a site , with all the images ,  and texts and pagea</description></item>
 <item><title>Ad-Gated Membership Workflow Coding</title><link>https://www.freelancer.com/projects/nodejs/Gated-Membership-Workflow-Coding</link><guid isPermaLink="false">freelancer:40828229</guid><pubDate>Fri, 20 Nov 2026 22:36:38 GMT</pubDate><description>15-25 AUD/hr | I have the front-end of my membership site ready; what’s missing is the logic that forces every visitor to watch a Google (or comparable) skippable video ad before their account is actually created. Here is the exact flow I need you to wire up:
 
