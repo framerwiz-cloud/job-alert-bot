@@ -349,16 +349,6 @@ Relevant Experience: Links to 2–3 WooCommerce stores or multi-vendor marketpla
 Technical Scenario: Briefly explain how you prevent page-caching plugins (like W3 Total Cache) from breaking GeoIP-based multi-currency pricing (like FOX Currency Switcher).
 
 Availability &amp; Rate: Your expected monthly retainer or hourly rate, along with your typical response time for urgent site issues.</description></item>
-<item><title>Pokémon-Style ROM Story Designer</title><link>https://www.freelancer.com/projects/game-design/Pok-mon-Style-ROM-Story</link><guid isPermaLink="false">freelancer:40832393</guid><pubDate>Mon, 23 Nov 2026 21:12:27 GMT</pubDate><description>250-750 USD | I’m building a Pokémon-style ROM hack and the mechanical side is already covered; what I still need is a memorable narrative framework and world for players to explore. The game should feel like the classic journey we all know—rivalries, eight gyms, a League finale—yet unfold in a region defined by striking natural biomes. Think chains of wind-sculpted islands, sun-baked deserts, or towering alpine ridges that influence local culture, available Pokémon, and each gym’s identity.
-
-Your role is to take that nature-centric premise and craft:
-
-• A high-level plot outline that paces the classic badge quest while weaving in meaningful rival encounters and a believable villain arc  
-• A detailed region bible: map concepts, landmark descriptions, town summaries, and how each environment shapes gameplay gimmicks  
-• Character profiles for the protagonist, two distinct rivals, eight gym leaders, an Elite Four, and key NPCs, complete with motivations, personalities, and team themes  
-• Flavor text—item descriptions, signposts, regional myths—that makes the setting feel lived-in
-
-Please ground everything in material that can be translated into in-game events and dialogue scripts later; concise yet vivid writing is ideal. If you have prior experience with ROM hacks, tabletop world-building, or game narrative design, feel free to mention tools or methods you like to use (e.g., Google Docs, Trello, Miro). Drafts, revisions, and collaborative feedback are expected—final approval rests on how well the story captures that classic Pokémon feel while showcasing the region’s unique natural identity.</description></item>
 <item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
 
 Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
@@ -460,6 +450,22 @@ Any recommendations for simplifying the implementation or reducing costs without
 Please distinguish between essential functionality and optional enhancements.
 We are open to practical alternatives if they achieve the same outcome at a lower cost.
 Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
+<item><title>20-Page WordPress Business Website</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Business-Website-40831688</link><guid isPermaLink="false">freelancer:40831688</guid><pubDate>Mon, 23 Nov 2026 11:26:12 GMT</pubDate><description>250-750 USD | I need a complete WordPress build for a 20-page company site Eng and Arabic Lanuage. The core structure is already mapped out and I have part of the copy, a logo, and several images ready; the rest of the wording and stock photos will have to be created in collaboration as we go.
+
+Essentials for the build include an interactive contact form with an embedded map, dedicated service pages—each featuring a straightforward quote-request form—and all the usual company pages (home, about, blog/news, etc.). Every page must load quickly, look sharp on mobile, and follow basic on-page SEO best practices.
+
+Security is non-negotiable: once the site is finished I want it hardened with SSL, brute-force protection, reCAPTCHA on forms, malware scanning, and a final verification that everything is locked down before launch.
+
+Deliverables
+• Custom or well-tailored premium WordPress theme  
+• 20 fully designed, responsive pages populated with agreed-upon content  
+• Contact form + Google Map integration  
+• Service pages with individual quote-request forms  
+• Complete security hardening and verification report  
+• Basic SEO setup (titles, meta, schema where applicable)  
+• One-page handover guide covering updates and backups  
+
+Please allow for a short round of revisions after the first full draft so the final site aligns perfectly with our brand voice and visuals.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
