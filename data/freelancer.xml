@@ -3,6 +3,81 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Dubai Salon Local SEO Overhaul</title><link>https://www.freelancer.com/projects/analytics/Dubai-Salon-Local-SEO-Overhaul</link><guid isPermaLink="false">freelancer:40833276</guid><pubDate>Tue, 24 Nov 2026 09:54:17 GMT</pubDate><description>30-250 USD | WordPress Technical SEO, Local SEO &amp; Ongoing Maintenance – Dubai Beauty Salon
+
+We are looking for an experienced WordPress SEO specialist to improve and maintain the website of an established beauty salon in Downtown Dubai.
+
+Website: https://amayasalon.ae/
+
+The assignment consists of two phases. Applicants must quote separately for the initial project and optional ongoing monthly services.
+
+Phase 1 – Initial SEO Optimisation (4 Weeks)
+
+1. On-page SEO: Optimise the 11 existing website pages, including titles, meta descriptions, headings, service descriptions, internal links, image alt text and the online service menu.
+
+2. Technical SEO: Audit and improve mobile/desktop speed, Core Web Vitals, caching, images, indexing, sitemap, broken links, redirects and structured data.
+
+3. Local SEO: Optimise Google Business Profile, correct business information across relevant directories and improve local search visibility.
+
+4. Keyword research: Identify relevant keywords for Downtown Dubai, Business Bay and nearby locations, focusing on hair, colouring, styling, nails, lashes, facials and other authorised services.
+
+5. Analytics: Configure or verify Google Search Console, GA4 and conversion tracking for booking clicks, calls and WhatsApp enquiries.
+
+6. Content: Improve existing service pages and recommend commercially relevant additional content. No Bridal or Massage promotional pages are required.
+
+7. Reporting: Provide a baseline audit, weekly progress updates, before-and-after evidence and a final completion report.
+ Phase 2 – Ongoing Monthly SEO and Website Maintenance (Optional)
+
+Please provide a separate monthly quotation covering:
+
+1. SEO monitoring: Track keyword rankings, organic traffic, search impressions, website enquiries and booking conversions.
+
+2. Content optimisation: Update existing pages and provide up to two SEO-focused articles or substantial content updates monthly, subject to Management approval.
+
+3. Google Business Profile: Maintain business information, publish approved updates, monitor reviews and recommend improvements to local visibility.
+
+4. Technical maintenance: Monthly checks for website errors, broken links, performance issues, indexing problems and SEO-related technical faults.
+
+5. WordPress maintenance: Monitor plugin, theme, security and backup requirements. Updates and changes must be coordinated with our IT department.
+
+6. Local SEO: Monitor business listings, maintain consistent contact details and undertake relevant, ethical local citation and backlink activities.
+
+7. Competitor analysis: Review relevant nearby competitors and recommend improvements based on actual search performance.
+
+8. Monthly reporting: Submit a performance report comparing actual results against the previous month, explaining progress, outstanding issues and proposed actions for the following month.
+
+Please specify which maintenance tasks are included and which require additional charges. Social media posting, paid advertising and major website development are not included unless separately quoted.
+
+ Commercial Requirements
+
+Please provide two independent quotations:
+
+A. Fixed total price for Phase 1, with an estimated four-week completion period.
+
+B. Monthly fixed price for Phase 2, including clearly defined monthly deliverables.
+
+Phase 2 will initially be considered for three months, subject to satisfactory completion of Phase 1 and separate Management approval.
+
+There must be no automatic renewal or commitment to Phase 2.
+
+Payments for Phase 1 will be linked to verified completion milestones, with no advance released to the freelancer.
+
+All website changes require IT approval, backups and testing. Website and Google accounts must remain under company ownership.
+
+Include 30 days of correction support for the initial project.
+Applicant Requirements
+
+Please provide:
+
+- Examples of similar WordPress SEO projects.
+- Experience with local SEO for service businesses.
+- Evidence of previous technical improvements.
+- Detailed deliverables for both phases.
+- Separate fixed project and monthly maintenance quotations.
+- Expected time commitment and reporting arrangements.
+- Details of any excluded services or additional charges.
+
+We are looking for someone who can implement the required improvements and provide reliable ongoing support, not simply supply SEO audit reports.</description></item>
 <item><title>Install web site on my hosting</title><link>https://www.freelancer.com/projects/web-hosting/Install-web-site-hosting</link><guid isPermaLink="false">freelancer:40833202</guid><pubDate>Tue, 24 Nov 2026 09:04:02 GMT</pubDate><description>30-250 AUD | I have a finished custom-coded HTML/CSS/JS website sitting in a ZIP file. I need someone who can quickly move it onto a brand-new hosting account, connect my domain, handle any DNS changes, and confirm that every page, image, and script is loading correctly once it is live.
 
 You will receive: 
@@ -475,27 +550,6 @@ Hours and how to apply
 We expect 10–15 hours per week, depending on priorities, at up to AUD $20 per hour. We’ll provide the detailed handover, priority work and account access once the freelancer is selected.
 
 Please include your hourly rate in AUD, weekly availability and two relevant examples. At least one should show a landing page you built or improved and explain what happened after a visitor submitted an enquiry. Tell us what you personally set up, which tools you used and how you verified it worked.</description></item>
-<item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
-
-Core capability  
-• The bot should recognise a customer by order number, email, or phone, connect to our store’s API, and return live order status and carrier tracking links in natural language.  
-• Handling this first task accurately and with near-instant response time is the priority; everything else can follow later.
-
-Tech &amp; integration notes  
-Our store runs on Shopify, and we already expose order data through a private REST API.  I’m open to Dialogflow CX, Rasa, LangChain on OpenAI, or another framework if you can show it keeps latency low.  Code must be containerised (Docker) and ready for a one-click deploy to AWS.
-
-Deliverables  
-1. Working chat widget embedded on our site  
-2. Backend service that fetches and formats order status/tracking details  
-3. Simple admin panel or JSON config for API keys, intents, and fallback phrases  
-4. README with setup, environment variables, and hand-off instructions
-
-Acceptance criteria  
-• 95 %+ accuracy on sample queries drawn from our past support logs  
-• Response time under 2 seconds end-to-end  
-• Graceful hand-off to a human agent when confidence &lt; 0.8 or data is missing  
-
-If you’ve built a similar order-tracking bot before, link a demo or repo so I can see it in action.</description></item>
 <item><title>GoHighLevel CRM WIZ Needed</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-CRM-WIZ-Needed</link><guid isPermaLink="false">freelancer:40829867</guid><pubDate>Sun, 22 Nov 2026 07:56:03 GMT</pubDate><description>15-25 AUD/hr | I run a home-service business and already have GoHighLevel in place, but the platform still isn’t doing the heavy lifting it should. My immediate priority is crystal-clear: set up leads, pipelines, and follow-ups so every inquiry is routed, tracked, and nurtured automatically.
 
 Here’s what our collaboration will look like:
