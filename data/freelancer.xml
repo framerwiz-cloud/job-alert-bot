@@ -292,81 +292,6 @@ Final deliverables:
 • Written walkthrough showing how to add products, fulfil orders and export reports
 
 If you have experience building secure, self-updating online shops with advanced shipping logic, I’d love to see your approach and a couple of relevant examples.</description></item>
-<item><title>WooCommerce Multi-Vendor Marketplace Specialist</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Multi-Vendor-Marketplace</link><guid isPermaLink="false">freelancer:40832421</guid><pubDate>Mon, 23 Nov 2026 21:36:15 GMT</pubDate><description>30-250 USD | Job Title: WordPress &amp; WooCommerce Marketplace Specialist (Multi-Vendor Storefront)
-Company: Smart IT
-
-Platform: Naseem Bazaar (naseembazaar.com)
-
-Engagement Type: Ongoing Monthly Retainer / Long-Term Contract
-
-Location: Remote
-
-About Us
-Smart IT operates Naseem Bazaar, a cross-border multi-vendor fashion marketplace featuring Pakistani clothing brands and independent designers for international buyers across the US, UK, UAE, Saudi Arabia, Canada, and Australia. Our platform runs on WordPress and WooCommerce with a multi-vendor architecture hosted on Google Cloud Platform (GCP).
-
-Role Overview
-We are looking for an experienced, reliable WordPress &amp; WooCommerce Specialist to take ownership of the day-to-day technical operations, maintenance, and optimization of our existing online marketplace. You will be responsible for keeping the storefront fast, secure, and bug-free—managing plugin updates, troubleshooting multi-vendor workflows, maintaining our caching and multi-currency setup, and supporting UI/UX improvements.
-
-Key Responsibilities
-1. Core Maintenance, Updates &amp; Security
-
-Safely test and deploy WordPress core, WooCommerce, theme, and third-party plugin updates using a staging environment before pushing to production.
-
-Monitor and patch security vulnerabilities, and resolve PHP fatal errors, plugin conflicts, or broken layouts.
-
-Manage custom code snippets (via the Code Snippets plugin or child theme functions.php) without breaking site functionality.
-
-2. Multi-Vendor (WCFM) &amp; Storefront Operations
-
-Maintain and troubleshoot WCFM Marketplace workflows, including vendor registration, document uploads, vendor approvals, and store profile management.
-
-Manage granular user roles and capabilities (e.g., Store Manager, Store Vendor, custom developer roles) using User Role Editor and WCFM capability settings.
-
-Perform ongoing UI/UX tweaks, page upgrades, and theme customizations (including Slider Revolution and page builders) while ensuring seamless mobile responsiveness on iOS Safari and Chrome.
-
-3. Performance, Caching &amp; Multi-Currency Stability
-
-Maintain and optimize our Redis Object Cache and W3 Total Cache configurations to ensure fast page loads and high uptime.
-
-Ensure FOX Currency Switcher (GeoIP-based multi-currency) works seamlessly with our caching layer so international visitors immediately see accurate local pricing (e.g., SAR for Saudi Arabia) without caching conflicts.
-
-Troubleshoot and resolve catalog pagination issues, cart thumbnail errors, and WooCommerce transients/session bloat.
-
-4. CSV Import Pipeline &amp; Catalog Support
-
-Maintain and troubleshoot bulk product import workflows using WP All Import Pro and WooCommerce CSV tools.
-
-Support custom PHP filters/hooks that enforce draft status on newly imported vendor products and prevent duplicate or unauthorized category creation.
-
-5. Server Health (GCP) &amp; Integrations
-
-Monitor basic server and database health on our GCP Debian VM (Apache, MariaDB, PHP 8.x), including memory limits, upload limits, and automated backup/snapshot verification.
-
-Monitor and debug third-party integrations, including payment gateways, shipping calculators, and marketing tracking setups (Meta Conversions API / TikTok Pixels).
-
-Required Skills &amp; Qualifications
-3+ years of hands-on experience managing complex WordPress and WooCommerce stores (multi-vendor marketplace experience is strongly preferred).
-
-Proven expertise with WCFM Marketplace (or similar multi-vendor plugins like Dokan).
-
-Strong proficiency in PHP, HTML, CSS, JavaScript, and MySQL/MariaDB for custom hooks, snippets, and debugging.
-
-Hands-on experience configuring Redis Object Cache, W3 Total Cache (or similar caching plugins), and resolving caching conflicts with GeoIP multi-currency plugins like FOX Currency Switcher.
-
-Familiarity with WP All Import Pro for handling complex variable product CSVs.
-
-Comfort working with Linux/GCP environments via SSH (checking error logs, managing php.ini/.htaccess, and verifying database health).
-
-Clear, proactive English communication and ability to document maintenance logs and fixes.
-
-How to Apply
-Please include the following in your proposal:
-
-Relevant Experience: Links to 2–3 WooCommerce stores or multi-vendor marketplaces you have actively maintained or optimized.
-
-Technical Scenario: Briefly explain how you prevent page-caching plugins (like W3 Total Cache) from breaking GeoIP-based multi-currency pricing (like FOX Currency Switcher).
-
-Availability &amp; Rate: Your expected monthly retainer or hourly rate, along with your typical response time for urgent site issues.</description></item>
 <item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
 
 Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
@@ -413,6 +338,61 @@ Ideal candidate:
 * Able to work independently and deliver within an agreed timeframe.
 
 This is a paid freelance project. Please get in touch with examples of previous Shopify migration projects, your availability and an estimated quote.</description></item>
+<item><title>Automate Legal Documents on WordPress</title><link>https://www.freelancer.com/projects/n8n/Automate-Legal-Documents-WordPress</link><guid isPermaLink="false">freelancer:40831734</guid><pubDate>Mon, 23 Nov 2026 12:04:51 GMT</pubDate><description>250-750 AUD | Project Brief: Automated Legal Document Production System
+Project Overview
+We are looking for an experienced developer to build a simple, cost-effective automated legal document production system for an existing law firm.
+Important: We already have an existing WordPress website. We do NOT need a new website built.
+The project involves adding legal services and fixed-fee document packages to the existing WordPress website, allowing clients to purchase services, complete online questionnaires, upload supporting documents and receive professionally prepared legal documents following solicitor approval.
+We need Stripe integrated into the existing website so clients can select a service, make payment and complete the required onboarding process.
+We have a strict project budget and are looking for someone who can deliver a practical, reliable solution without unnecessary complexity or expensive custom development.
+Required Workflow
+Existing WordPress website: Add legal services and fixed-fee document packages to the existing website, including service descriptions, pricing and inclusions.
+Online purchasing: Integrate Stripe into the existing WordPress website so clients can purchase their selected legal service.
+Questionnaire: Following service selection, clients complete an online questionnaire and upload relevant supporting documents.
+CRM integration and conflict checks: Connect to the firm's existing SILQ CRM to identify existing clients, check relevant parties for potential conflicts and flag potential matches for solicitor review. New client details and approved matters must be saved in SILQ. Conflicts must not be automatically cleared by AI.
+Engagement and payment: Client receives the relevant costs agreement, accepts the terms and completes payment through Stripe. Matter acceptance and payment must be verified before document production begins.
+Automation: n8n triggers the workflow following verified payment and the required matter acceptance checks.
+AI processing: OpenAI extracts and structures client information, while Claude prepares documents using approved legal templates and instructions.
+Document generation: Generate professionally formatted, branded and fully editable Microsoft Word (.docx) and PDF documents.
+Solicitor review: Provide a simple, secure interface where solicitors can review documents, download Word/PDF versions, manually edit Word documents and upload revised versions.
+AI amendments: Solicitors can request AI amendments or make their own manual changes. All document versions must be retained.
+Final approval: A solicitor must explicitly approve the final document before it can be released.
+Client delivery: Automatically deliver the approved document securely by email.
+Feedback: Send an automated client feedback or review request.
+Required Technology
+We would prefer to use existing services and avoid unnecessary custom software development.
+WordPress: Existing website. Add services, purchasing functionality and questionnaires.
+Stripe: Payment processing integrated into the existing website.
+n8n: Workflow automation.
+SILQ: Existing CRM and legal practice management system.
+OpenAI API: Information extraction.
+Claude API: Legal document drafting.
+Microsoft Word (.docx) and PDF: Document generation.
+Important Requirements
+Work with our existing WordPress website. Do not rebuild it.
+Add legal services and fixed-fee packages to the existing website.
+Allow clients to purchase services, complete questionnaires and upload documents online.
+Integrate Stripe for secure payments.
+Integrate with the firm's existing SILQ CRM. Do not build another CRM.
+Support client searches, potential conflict identification and new client/matter creation, subject to SILQ API capabilities.
+Maintain secure document storage and client confidentiality.
+Provide downloadable and editable Word documents.
+Allow solicitors to manually amend and re-upload documents.
+Maintain document version history.
+Require solicitor approval before documents are sent to clients.
+Include basic error handling and workflow notifications.
+Budget, Scope and Proposal
+We have a strict budget for this project and are looking for the most affordable practical solution.
+If you are interested in bidding, please provide:
+Your best fixed-price quote for delivering the project.
+A clear breakdown of exactly what is included in your proposed scope.
+Your estimated development timeframe and delivery milestones.
+Any additional ongoing costs, including hosting, API usage, subscriptions or third-party services.
+Confirmation that you have experience with WordPress, Stripe, n8n, API integrations, AI document generation and CRM integrations.
+Any recommendations for simplifying the implementation or reducing costs without compromising essential functionality.
+Please distinguish between essential functionality and optional enhancements.
+We are open to practical alternatives if they achieve the same outcome at a lower cost.
+Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
