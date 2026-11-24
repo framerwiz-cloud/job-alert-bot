@@ -274,6 +274,81 @@ Final deliverables:
 • Written walkthrough showing how to add products, fulfil orders and export reports
 
 If you have experience building secure, self-updating online shops with advanced shipping logic, I’d love to see your approach and a couple of relevant examples.</description></item>
+<item><title>WooCommerce Multi-Vendor Marketplace Specialist</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Multi-Vendor-Marketplace</link><guid isPermaLink="false">freelancer:40832421</guid><pubDate>Mon, 23 Nov 2026 21:36:15 GMT</pubDate><description>30-250 USD | Job Title: WordPress &amp; WooCommerce Marketplace Specialist (Multi-Vendor Storefront)
+Company: Smart IT
+
+Platform: Naseem Bazaar (naseembazaar.com)
+
+Engagement Type: Ongoing Monthly Retainer / Long-Term Contract
+
+Location: Remote
+
+About Us
+Smart IT operates Naseem Bazaar, a cross-border multi-vendor fashion marketplace featuring Pakistani clothing brands and independent designers for international buyers across the US, UK, UAE, Saudi Arabia, Canada, and Australia. Our platform runs on WordPress and WooCommerce with a multi-vendor architecture hosted on Google Cloud Platform (GCP).
+
+Role Overview
+We are looking for an experienced, reliable WordPress &amp; WooCommerce Specialist to take ownership of the day-to-day technical operations, maintenance, and optimization of our existing online marketplace. You will be responsible for keeping the storefront fast, secure, and bug-free—managing plugin updates, troubleshooting multi-vendor workflows, maintaining our caching and multi-currency setup, and supporting UI/UX improvements.
+
+Key Responsibilities
+1. Core Maintenance, Updates &amp; Security
+
+Safely test and deploy WordPress core, WooCommerce, theme, and third-party plugin updates using a staging environment before pushing to production.
+
+Monitor and patch security vulnerabilities, and resolve PHP fatal errors, plugin conflicts, or broken layouts.
+
+Manage custom code snippets (via the Code Snippets plugin or child theme functions.php) without breaking site functionality.
+
+2. Multi-Vendor (WCFM) &amp; Storefront Operations
+
+Maintain and troubleshoot WCFM Marketplace workflows, including vendor registration, document uploads, vendor approvals, and store profile management.
+
+Manage granular user roles and capabilities (e.g., Store Manager, Store Vendor, custom developer roles) using User Role Editor and WCFM capability settings.
+
+Perform ongoing UI/UX tweaks, page upgrades, and theme customizations (including Slider Revolution and page builders) while ensuring seamless mobile responsiveness on iOS Safari and Chrome.
+
+3. Performance, Caching &amp; Multi-Currency Stability
+
+Maintain and optimize our Redis Object Cache and W3 Total Cache configurations to ensure fast page loads and high uptime.
+
+Ensure FOX Currency Switcher (GeoIP-based multi-currency) works seamlessly with our caching layer so international visitors immediately see accurate local pricing (e.g., SAR for Saudi Arabia) without caching conflicts.
+
+Troubleshoot and resolve catalog pagination issues, cart thumbnail errors, and WooCommerce transients/session bloat.
+
+4. CSV Import Pipeline &amp; Catalog Support
+
+Maintain and troubleshoot bulk product import workflows using WP All Import Pro and WooCommerce CSV tools.
+
+Support custom PHP filters/hooks that enforce draft status on newly imported vendor products and prevent duplicate or unauthorized category creation.
+
+5. Server Health (GCP) &amp; Integrations
+
+Monitor basic server and database health on our GCP Debian VM (Apache, MariaDB, PHP 8.x), including memory limits, upload limits, and automated backup/snapshot verification.
+
+Monitor and debug third-party integrations, including payment gateways, shipping calculators, and marketing tracking setups (Meta Conversions API / TikTok Pixels).
+
+Required Skills &amp; Qualifications
+3+ years of hands-on experience managing complex WordPress and WooCommerce stores (multi-vendor marketplace experience is strongly preferred).
+
+Proven expertise with WCFM Marketplace (or similar multi-vendor plugins like Dokan).
+
+Strong proficiency in PHP, HTML, CSS, JavaScript, and MySQL/MariaDB for custom hooks, snippets, and debugging.
+
+Hands-on experience configuring Redis Object Cache, W3 Total Cache (or similar caching plugins), and resolving caching conflicts with GeoIP multi-currency plugins like FOX Currency Switcher.
+
+Familiarity with WP All Import Pro for handling complex variable product CSVs.
+
+Comfort working with Linux/GCP environments via SSH (checking error logs, managing php.ini/.htaccess, and verifying database health).
+
+Clear, proactive English communication and ability to document maintenance logs and fixes.
+
+How to Apply
+Please include the following in your proposal:
+
+Relevant Experience: Links to 2–3 WooCommerce stores or multi-vendor marketplaces you have actively maintained or optimized.
+
+Technical Scenario: Briefly explain how you prevent page-caching plugins (like W3 Total Cache) from breaking GeoIP-based multi-currency pricing (like FOX Currency Switcher).
+
+Availability &amp; Rate: Your expected monthly retainer or hourly rate, along with your typical response time for urgent site issues.</description></item>
 <item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
 
 Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
@@ -391,54 +466,6 @@ Deliverables
 • One-page handover guide covering updates and backups  
 
 Please allow for a short round of revisions after the first full draft so the final site aligns perfectly with our brand voice and visuals.</description></item>
-<item><title>Digital Marketing &amp; Social Media Manager – Luxury Perfume Brand | India or Pakistan Preferred | Long-Term</title><link>https://www.freelancer.com/projects/woocommerce/Digital-Marketing-Social-Media-Manager</link><guid isPermaLink="false">freelancer:40831676</guid><pubDate>Mon, 23 Nov 2026 11:15:26 GMT</pubDate><description>20-250 GBP | Project Description
-
-We are looking for a talented, creative and reliable Digital Marketing &amp; Social Media Expert based in India or Pakistan to take full responsibility for promoting and growing our UK luxury perfume brand, LUNAZEE.
-
-Website: www.lunazee.co.uk
-
-Responsibilities
-
-* Create, optimise and manage social media accounts on Instagram, Facebook, TikTok, YouTube, Pinterest and other relevant platforms.
-* Independently create professional AI-generated promotional videos, Reels, Shorts and product advertisements.
-* Design, schedule and publish engaging content regularly.
-* Set up and manage paid advertising campaigns on Meta, TikTok and Google.
-* Develop organic marketing strategies to attract genuine followers and potential customers.
-* Handle basic SEO, influencer outreach and brand promotion.
-* Use the latest AI marketing tools and digital marketing strategies.
-* Monitor performance and provide monthly progress reports.
-* Manage the entire marketing process independently with minimal supervision.
-
-Budget
-
-* Initial setup fee: £100 (one-time)
-* Monthly management fee: £40
-* Monthly advertising budget: £50 (paid separately by us)
-* Additional marketing expenses require prior approval.
-
-Requirements
-
-* Freelancers from India or Pakistan preferred.
-* Experience in social media marketing and AI content creation.
-* Knowledge of luxury, beauty, perfume or e-commerce marketing.
-* Creative, proactive and reliable.
-* Ability to work independently and deliver results.
-* Interested in a long-term partnership.
-
-When Applying
-
-Please provide:
-
-1. Examples of previous work, especially promotional videos.
-2. Your experience with AI marketing tools.
-3. Your proposed marketing strategy for LUNAZEE.
-4. What you can realistically deliver each month within our budget.
-
-Our goal is to build LUNAZEE into a recognised luxury fragrance brand in the UK, increase website traffic and generate genuine sales.
-
-We are looking for someone who can take ownership of our marketing activities, not simply publish occasional posts.
-
-Long-term opportunity with potential for increased payment as the business grows</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
