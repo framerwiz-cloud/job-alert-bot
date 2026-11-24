@@ -3,6 +3,31 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Bespoke API-Powered Report Builder</title><link>https://www.freelancer.com/projects/api-developmet/Bespoke-API-Powered-Report-Builder</link><guid isPermaLink="false">freelancer:40834017</guid><pubDate>Tue, 24 Nov 2026 19:47:12 GMT</pubDate><description>3000-5000 GBP | I am looking to develop a bespoke web-based application for my business that will allow me to create professional, customised reports by integrating data from multiple third-party websites and platforms via their APIs.
+
+The application should have a flexible report-building interface, allowing me to design and customise my own report templates rather than relying on fixed, pre-designed formats.
+
+Key functionality required:
+
+API integrations: Ability to pull data automatically from several different third-party websites and platforms via their APIs and populate relevant sections of my reports.
+
+Custom text fields: Ability to create editable text boxes throughout the report, allowing me to add my own commentary, descriptions and professional opinions.
+
+Dropdown menus: Customisable dropdown fields with predefined options to ensure consistency and speed up report completion.
+
+Photo uploads: Dedicated sections where users can upload photographs, arrange them within the report and add descriptions or captions.
+
+Custom report templates: Ability to create, save and amend bespoke report templates, including different layouts and sections depending on the report type.
+
+Dynamic content: The ability for information retrieved through APIs, dropdown selections and manual inputs to automatically populate the relevant sections of the report.
+
+Report generation: Ability to generate a final, professionally formatted report, ideally in PDF format, with consistent branding, layouts, headers and footers.
+
+User management: Ideally, multiple users should be able to log in, access the platform and create reports, with appropriate permissions.
+
+The overall objective is to build a flexible, scalable reporting platform that combines automated data retrieval with manual input, allowing us to produce our own bespoke reports efficiently.
+
+I am looking for a developer who can advise on the best technology and architecture for this project, assist with API integrations and deliver a fully functioning application with an intuitive, user-friendly interface.</description></item>
 <item><title>Create Full Lofty Real Estate Site</title><link>https://www.freelancer.com/projects/web-development/Create-Full-Lofty-Real-Estate</link><guid isPermaLink="false">freelancer:40833966</guid><pubDate>Tue, 24 Nov 2026 18:47:56 GMT</pubDate><description>250-750 USD | I need a Lofty-CRM expert who can take my brand-new, empty account and turn it into a complete real-estate website built for one clear purpose: attracting and converting seller leads who will book a listing consultation with me.
 
 Here is what the job involves:
@@ -302,6 +327,101 @@ Ideal skills and experience:
 - Proficient in Wix, especially on desktop
 - Experience in web design and site organization
 - Good communication skills for effective teaching</description></item>
+<item><title>WooCommerce to Shopify Hair Store Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Hair-Store-Migration</link><guid isPermaLink="false">freelancer:40831814</guid><pubDate>Mon, 23 Nov 2026 13:19:42 GMT</pubDate><description>20-250 GBP | Freelance Shopify Developer / E-commerce Website Designer Wanted
+
+We are looking for an experienced Shopify freelancer to migrate our existing hair e-commerce website from WooCommerce to Shopify.
+
+The website is already fully operational, so this is primarily a migration and redesign project rather than building a website from scratch.
+
+What we need:
+
+* Migrate the existing website, products and relevant data from WooCommerce to Shopify.
+* Retain existing product information, images, categories and variations.
+* Refresh and improve the website design.
+* Ensure product variants, pricing options and checkout work seamlessly.
+* Ensure the website is fully responsive and works smoothly on mobile and desktop.
+* Set up redirects and preserve SEO where possible.
+* Test everything thoroughly before launch.
+
+Ideal candidate:
+
+* Proven experience migrating WooCommerce stores to Shopify.
+* Strong Shopify design and development skills.
+* Experience working with large product catalogues, particularly hair, wigs or beauty products.
+* Able to work independently and deliver within an agreed timeframe.
+
+This is a paid freelance project. Please get in touch with examples of previous Shopify migration projects, your availability and an estimated quote.</description></item>
+<item><title>Automate Legal Documents on WordPress</title><link>https://www.freelancer.com/projects/n8n/Automate-Legal-Documents-WordPress</link><guid isPermaLink="false">freelancer:40831734</guid><pubDate>Mon, 23 Nov 2026 12:04:51 GMT</pubDate><description>250-750 AUD | Project Brief: Automated Legal Document Production System
+Project Overview
+We are looking for an experienced developer to build a simple, cost-effective automated legal document production system for an existing law firm.
+Important: We already have an existing WordPress website. We do NOT need a new website built.
+The project involves adding legal services and fixed-fee document packages to the existing WordPress website, allowing clients to purchase services, complete online questionnaires, upload supporting documents and receive professionally prepared legal documents following solicitor approval.
+We need Stripe integrated into the existing website so clients can select a service, make payment and complete the required onboarding process.
+We have a strict project budget and are looking for someone who can deliver a practical, reliable solution without unnecessary complexity or expensive custom development.
+Required Workflow
+Existing WordPress website: Add legal services and fixed-fee document packages to the existing website, including service descriptions, pricing and inclusions.
+Online purchasing: Integrate Stripe into the existing WordPress website so clients can purchase their selected legal service.
+Questionnaire: Following service selection, clients complete an online questionnaire and upload relevant supporting documents.
+CRM integration and conflict checks: Connect to the firm's existing SILQ CRM to identify existing clients, check relevant parties for potential conflicts and flag potential matches for solicitor review. New client details and approved matters must be saved in SILQ. Conflicts must not be automatically cleared by AI.
+Engagement and payment: Client receives the relevant costs agreement, accepts the terms and completes payment through Stripe. Matter acceptance and payment must be verified before document production begins.
+Automation: n8n triggers the workflow following verified payment and the required matter acceptance checks.
+AI processing: OpenAI extracts and structures client information, while Claude prepares documents using approved legal templates and instructions.
+Document generation: Generate professionally formatted, branded and fully editable Microsoft Word (.docx) and PDF documents.
+Solicitor review: Provide a simple, secure interface where solicitors can review documents, download Word/PDF versions, manually edit Word documents and upload revised versions.
+AI amendments: Solicitors can request AI amendments or make their own manual changes. All document versions must be retained.
+Final approval: A solicitor must explicitly approve the final document before it can be released.
+Client delivery: Automatically deliver the approved document securely by email.
+Feedback: Send an automated client feedback or review request.
+Required Technology
+We would prefer to use existing services and avoid unnecessary custom software development.
+WordPress: Existing website. Add services, purchasing functionality and questionnaires.
+Stripe: Payment processing integrated into the existing website.
+n8n: Workflow automation.
+SILQ: Existing CRM and legal practice management system.
+OpenAI API: Information extraction.
+Claude API: Legal document drafting.
+Microsoft Word (.docx) and PDF: Document generation.
+Important Requirements
+Work with our existing WordPress website. Do not rebuild it.
+Add legal services and fixed-fee packages to the existing website.
+Allow clients to purchase services, complete questionnaires and upload documents online.
+Integrate Stripe for secure payments.
+Integrate with the firm's existing SILQ CRM. Do not build another CRM.
+Support client searches, potential conflict identification and new client/matter creation, subject to SILQ API capabilities.
+Maintain secure document storage and client confidentiality.
+Provide downloadable and editable Word documents.
+Allow solicitors to manually amend and re-upload documents.
+Maintain document version history.
+Require solicitor approval before documents are sent to clients.
+Include basic error handling and workflow notifications.
+Budget, Scope and Proposal
+We have a strict budget for this project and are looking for the most affordable practical solution.
+If you are interested in bidding, please provide:
+Your best fixed-price quote for delivering the project.
+A clear breakdown of exactly what is included in your proposed scope.
+Your estimated development timeframe and delivery milestones.
+Any additional ongoing costs, including hosting, API usage, subscriptions or third-party services.
+Confirmation that you have experience with WordPress, Stripe, n8n, API integrations, AI document generation and CRM integrations.
+Any recommendations for simplifying the implementation or reducing costs without compromising essential functionality.
+Please distinguish between essential functionality and optional enhancements.
+We are open to practical alternatives if they achieve the same outcome at a lower cost.
+Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
+<item><title>20-Page WordPress Business Website</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Business-Website-40831688</link><guid isPermaLink="false">freelancer:40831688</guid><pubDate>Mon, 23 Nov 2026 11:26:12 GMT</pubDate><description>250-750 USD | I need a complete WordPress build for a 20-page company site Eng and Arabic Lanuage. The core structure is already mapped out and I have part of the copy, a logo, and several images ready; the rest of the wording and stock photos will have to be created in collaboration as we go.
+
+Essentials for the build include an interactive contact form with an embedded map, dedicated service pages—each featuring a straightforward quote-request form—and all the usual company pages (home, about, blog/news, etc.). Every page must load quickly, look sharp on mobile, and follow basic on-page SEO best practices.
+
+Security is non-negotiable: once the site is finished I want it hardened with SSL, brute-force protection, reCAPTCHA on forms, malware scanning, and a final verification that everything is locked down before launch.
+
+Deliverables
+• Custom or well-tailored premium WordPress theme  
+• 20 fully designed, responsive pages populated with agreed-upon content  
+• Contact form + Google Map integration  
+• Service pages with individual quote-request forms  
+• Complete security hardening and verification report  
+• Basic SEO setup (titles, meta, schema where applicable)  
+• One-page handover guide covering updates and backups  
+
+Please allow for a short round of revisions after the first full draft so the final site aligns perfectly with our brand voice and visuals.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
