@@ -3,6 +3,98 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Develop a Secure AI-Powered MCP Integration for My Website</title><link>https://www.freelancer.com/projects/ai-hw-sw/Develop-Secure-Powered-MCP-Integration</link><guid isPermaLink="false">freelancer:40833629</guid><pubDate>Tue, 24 Nov 2026 14:38:52 GMT</pubDate><description>30-250 USD | I am looking for an experienced AI developer to develop and integrate a secure, production-ready MCP (Model Context Protocol) Server for my existing website.
+
+The primary objective is to connect my website with modern AI assistants and AI agents, enabling them to securely access website information, retrieve data, interact with existing APIs, and perform authorized operations.
+
+I want to make my website AI-accessible through MCP, following the latest MCP standards and best practices.
+
+Scope of Work
+
+ 1. Custom MCP Server Development
+- Develop a custom MCP server for my existing website.
+- Implement the official Model Context Protocol standards.
+- Support remote MCP connectivity using Streamable HTTP.
+- Create a scalable and modular architecture.
+
+2. Website &amp; API Integration
+- Connect the MCP server with my existing website and backend.
+- Integrate existing REST APIs and database-driven functionalities.
+- Enable AI assistants to retrieve website content and structured data.
+- Ensure seamless communication between the AI client and website backend.
+
+3. MCP Tools &amp; Functionality
+Develop custom MCP tools that allow AI assistants to interact with my website.
+
+Potential functionalities include:
+- Search and retrieve website information.
+- Access products, services, and pricing.
+- Retrieve detailed records and information.
+- Submit forms and customer enquiries.
+- Create and manage records where permitted.
+- Execute supported website operations.
+- Retrieve real-time information from the website.
+
+The final tools will depend on the existing website functionality and available APIs.
+
+4. AI Assistant Compatibility
+- Enable integration with compatible AI clients such as Claude and ChatGPT.
+- Follow MCP compatibility requirements.
+- Ensure tools are properly discoverable and executable by supported AI clients.
+- Provide clear structured responses to AI applications.
+
+5. Security &amp; Authentication
+Security is a major requirement.
+
+- Implement secure authentication and authorization.
+- Protect sensitive website data and API endpoints.
+- Apply role-based access and permission controls where required.
+- Validate all incoming requests.
+- Implement secure error handling and activity logging.
+- Prevent unauthorized access and operations.
+
+6. Testing &amp; Deployment
+- Test all MCP tools and integrations.
+- Verify communication between AI clients and the website.
+- Test authentication, permissions, and error handling.
+- Deploy the MCP server to a production environment.
+- Provide configuration and deployment documentation.
+
+Expected Deliverables
+
+1. Fully functional and secure MCP server.
+2. Integration with my existing website and APIs.
+3. Custom MCP tools for website functionalities.
+4. AI assistant compatibility testing.
+5. Secure authentication and access management.
+6. Complete source code.
+7. Technical documentation.
+8. Deployment and configuration support.
+
+## Required Skills &amp; Experience
+
+- Model Context Protocol (MCP) development.
+- AI agents and AI integrations.
+- Python / Node.js.
+- REST API development and integration.
+- Backend development.
+- API authentication and security.
+- Claude and ChatGPT integrations.
+- AWS / cloud deployment.
+
+## When Applying, Please Include
+
+- Previous experience with MCP server development.
+- Examples of MCP connectors or AI integrations you have built.
+- Your recommended technology stack and architecture.
+- Estimated project cost and delivery timeline.
+- Your approach to securing the integration.
+
+I am looking for a developer who has practical experience with MCP and AI integrations and can deliver a reliable, secure, production-ready solution.
+
+The solution should be modular and extensible so that additional AI tools, website functionalities, and integrations can be added in the future.
+
+Please apply only if you understand MCP architecture and have the technical expertise to build a working</description></item>
 <item><title>Fix Stripe Subscription Account Sync</title><link>https://www.freelancer.com/projects/stripe/Fix-Stripe-Subscription-Account-Sync</link><guid isPermaLink="false">freelancer:40833597</guid><pubDate>Tue, 24 Nov 2026 14:19:55 GMT</pubDate><description>30-250 CAD | Hi i need someone who can please fix how Stripe payments link to website accounts? I hired Reupped Elias but unfortunately he is not what i thought he was. I cant get a hold of him and he is invisible.  Never answers my message.  
 
 The problem is When someone pays through the direct Stripe Payment Link, Stripe creates a subscription, but the website account stays as FREE USER with Billing Status "None (No Active Billing)" and can't play anything. I had to fix mine manually in Admin &gt; User Accounts &gt; Configure Subscription, changing Billing Status to Subscribed (trial) and setting the expiration date.
@@ -525,21 +617,6 @@ Ideal Skills and Experience:
 - Excellent communication skills for regular updates and feedback.
 
 Please provide examples of previous work and any relevant qualifications.</description></item>
-<item><title>Corporate Events Consulting Website Development</title><link>https://www.freelancer.com/projects/seo/Corporate-Events-Consulting-Website</link><guid isPermaLink="false">freelancer:40830897</guid><pubDate>Mon, 23 Nov 2026 02:24:20 GMT</pubDate><description>1500-3000 USD | I'm looking for a skilled web developer to create an engaging website for my event consulting firm. The main goal of this site is to attract new client enquiries.
-
-The website should primarily cater to corporations, associations professional organizations and conferences. It should showcase our expertise in finding suitable venue and services to support events. 
-Key features I need:  
-- A detailed event enquiry form  
-- A booking system for consultation calls  
-- A quick message feature for easy client contact  
-
-The ideal candidate should have:  
-- Proven experience in developing consultative client-focused websites in the meeting and medium and large scale events 
-- Strong design skills to make the site visually appealing  
-- Familiarity with booking systems and enquiry forms  
-- Experience in SEO to enhance our visibility  
-
-I'm looking for a professional who can deliver a high-quality site within my budget. Please include examples of your previous work in your bid.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
