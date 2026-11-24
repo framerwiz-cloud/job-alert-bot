@@ -352,23 +352,6 @@ Key functions I need to see:
 Acceptance criteria: the calendar must load in under two seconds, all filter combinations return correct results, and every ticket button links accurately to its external sales page.
 
 If you have experience integrating calendaring tools or building custom event modules that speak to external services, this task should be straightforward. I’m ready to provide current site access, brand guidelines, and a sample of upcoming concerts as soon as we agree on the approach and timeline.</description></item>
-<item><title>Streamline Shopify Press Release Checkout</title><link>https://www.freelancer.com/projects/shopify-development/Streamline-Shopify-Press-Release</link><guid isPermaLink="false">freelancer:40831940</guid><pubDate>Mon, 23 Nov 2026 14:48:15 GMT</pubDate><description>50-200 USD | My Shopify store offers press-release submission packages, yet the current buying journey is confusing and the project has stalled. I need someone to step in, study the existing product page, cart flow, and confirmation email, then rebuild each touch-point so customers instantly understand what they are purchasing, what details they must supply, and how the service will unfold once they pay.
-
-You will work directly in Shopify (Dawn theme) or in a staging copy—whichever keeps momentum fastest. I expect clear, conversion-focused copy, updated Liquid templates or blocks where necessary, and a confirmation email that is short, branded, and action-oriented.
-
-Deliverables
-• Revised product/service page with an at-a-glance comparison of package options  
-Provide a choice to user where to publish 
-• Simplified checkout flow tested with at least one successful test order  
-• Branded confirmation email (Shopify Email or Klaviyo) that outlines next steps and passes spam checks  
-• Change log summarizing every file or setting touched
-
-Acceptance criteria
-• Page load under 2 s on mobile and desktop  
-• Test orders complete without errors  
-• Email length under 150 words, clear call-to-action, no spam-flag triggers
-
-If you have a track record in Shopify Liquid, UX copy, and conversion rate optimization, please share a quick outline of a similar project and your timeline to completion so we can get this store back on track.</description></item>
 <item><title>WooCommerce to Shopify Hair Store Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Hair-Store-Migration</link><guid isPermaLink="false">freelancer:40831814</guid><pubDate>Mon, 23 Nov 2026 13:19:42 GMT</pubDate><description>20-250 GBP | Freelance Shopify Developer / E-commerce Website Designer Wanted
 
 We are looking for an experienced Shopify freelancer to migrate our existing hair e-commerce website from WooCommerce to Shopify.
