@@ -3,6 +3,19 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Fix Stripe Subscription Account Sync</title><link>https://www.freelancer.com/projects/stripe/Fix-Stripe-Subscription-Account-Sync</link><guid isPermaLink="false">freelancer:40833597</guid><pubDate>Tue, 24 Nov 2026 14:19:55 GMT</pubDate><description>30-250 CAD | Hi i need someone who can please fix how Stripe payments link to website accounts? I hired Reupped Elias but unfortunately he is not what i thought he was. I cant get a hold of him and he is invisible.  Never answers my message.  
+
+The problem is When someone pays through the direct Stripe Payment Link, Stripe creates a subscription, but the website account stays as FREE USER with Billing Status "None (No Active Billing)" and can't play anything. I had to fix mine manually in Admin &gt; User Accounts &gt; Configure Subscription, changing Billing Status to Subscribed (trial) and setting the expiration date.
+
+Can you please fix it so a Payment Link checkout automatically updates the matching website account by email to Subscribed (trial) / Active (paid), with the correct expiration date? Stripe also creates a new customer each time instead of using the existing one, so the site needs to match by email.
+
+Also, can you please update the pricing on shaklefordrecords.com?
+
+Change the Monthly Music Streaming plan from C$9.99 / month with a 3-day free trial to C$3.99 / month with a 30-day free trial, everywhere that price and trial show up on the site, including the pricing page and any homepage / signup wording.
+
+I've already updated Stripe and Firebase to $3.99 with a 30-day trial, so please don't change the Stripe price or trial — just the displayed wording in the site code, then redeploy so it shows live.
+
+Thanks, Darwin</description></item>
 <item><title>Build Immersive Luxury Streetwear Store</title><link>https://www.freelancer.com/projects/web-development/Build-Immersive-Luxury-Streetwear-Store</link><guid isPermaLink="false">freelancer:40833457</guid><pubDate>Tue, 24 Nov 2026 12:21:39 GMT</pubDate><description>250-750 CAD | We are currently developing ELEVEN TEN (11-10), an independent streetwear brand focused on contemporary apparel, including hoodies, sweatpants, coordinated sets, and exclusive seasonal collections.
 
 We are seeking an experienced web developer and creative designer to develop a distinctive, high-end e-commerce platform that accurately represents the brand's identity and long-term vision.
