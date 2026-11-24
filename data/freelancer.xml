@@ -3,6 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Conference Venue Booking Assistance</title><link>https://www.freelancer.com/projects/event-management/Conference-Venue-Booking-Assistance</link><guid isPermaLink="false">freelancer:40833371</guid><pubDate>Tue, 24 Nov 2026 11:07:20 GMT</pubDate><description>10000-20000 USD | I’m putting together a professional conference and need someone who can zero-in on the perfect venue, negotiate favorable terms, and lock everything in. The focus is strictly on venue sourcing—once the space is secured, my internal team will handle scheduling, speakers, and registration.
+
+Here’s what I expect:
+• A short-list of vetted venues that meet our capacity, location, AV, catering, and accessibility requirements  
+• Comparative pricing and availability for each option, including any hidden fees or minimums  
+• Recommendations on layout possibilities to support plenary sessions and breakout rooms  
+• Final negotiation and contract coordination with the selected venue, ensuring all key dates and inclusions are confirmed in writing
+
+Experience with conference or seminar bookings is a must, and fluency in typical venue contracts, rider requirements, and on-site logistics will set you apart. If you can hit the ground running and deliver a venue we’ll be proud to host our delegates in, I’m ready to get started right away.</description></item>
 <item><title>Launch-Ready Shopify Wig Store</title><link>https://www.freelancer.com/projects/shopify-development/Launch-Ready-Shopify-Wig-Store</link><guid isPermaLink="false">freelancer:40833344</guid><pubDate>Tue, 24 Nov 2026 10:49:55 GMT</pubDate><description>2-8 USD/hr | My Shopify wig shop is built, stocked with products, and almost ready to go live; I just need a sharp Shopify expert to handle the last-mile tasks today.
 
 What has to happen:
@@ -543,27 +552,6 @@ Hours and how to apply
 We expect 10–15 hours per week, depending on priorities, at up to AUD $20 per hour. We’ll provide the detailed handover, priority work and account access once the freelancer is selected.
 
 Please include your hourly rate in AUD, weekly availability and two relevant examples. At least one should show a landing page you built or improved and explain what happened after a visitor submitted an enquiry. Tell us what you personally set up, which tools you used and how you verified it worked.</description></item>
-<item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
-
-Core capability  
-• The bot should recognise a customer by order number, email, or phone, connect to our store’s API, and return live order status and carrier tracking links in natural language.  
-• Handling this first task accurately and with near-instant response time is the priority; everything else can follow later.
-
-Tech &amp; integration notes  
-Our store runs on Shopify, and we already expose order data through a private REST API.  I’m open to Dialogflow CX, Rasa, LangChain on OpenAI, or another framework if you can show it keeps latency low.  Code must be containerised (Docker) and ready for a one-click deploy to AWS.
-
-Deliverables  
-1. Working chat widget embedded on our site  
-2. Backend service that fetches and formats order status/tracking details  
-3. Simple admin panel or JSON config for API keys, intents, and fallback phrases  
-4. README with setup, environment variables, and hand-off instructions
-
-Acceptance criteria  
-• 95 %+ accuracy on sample queries drawn from our past support logs  
-• Response time under 2 seconds end-to-end  
-• Graceful hand-off to a human agent when confidence &lt; 0.8 or data is missing  
-
-If you’ve built a similar order-tracking bot before, link a demo or repo so I can see it in action.</description></item>
 <item><title>GoHighLevel CRM WIZ Needed</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-CRM-WIZ-Needed</link><guid isPermaLink="false">freelancer:40829867</guid><pubDate>Sun, 22 Nov 2026 07:56:03 GMT</pubDate><description>15-25 AUD/hr | I run a home-service business and already have GoHighLevel in place, but the platform still isn’t doing the heavy lifting it should. My immediate priority is crystal-clear: set up leads, pipelines, and follow-ups so every inquiry is routed, tracked, and nurtured automatically.
 
 Here’s what our collaboration will look like:
