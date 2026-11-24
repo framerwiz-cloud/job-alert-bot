@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Install web site on my hosting</title><link>https://www.freelancer.com/projects/web-hosting/Install-web-site-hosting</link><guid isPermaLink="false">freelancer:40833202</guid><pubDate>Tue, 24 Nov 2026 09:04:02 GMT</pubDate><description>30-250 AUD | I have a finished custom-coded HTML/CSS/JS website sitting in a ZIP file. I need someone who can quickly move it onto a brand-new hosting account, connect my domain, handle any DNS changes, and confirm that every page, image, and script is loading correctly once it is live.
+
+You will receive: 
+• Login details for the fresh hosting cPanel (or equivalent)  
+
+
+Your scope:
+1. Create the appropriate folder structure on the server, upload all files, and verify paths.
+2. Point the domain to the new host, configure DNS records, and wait out propagation.
+3. Test the site publicly to ensure links, forms, and media work exactly as they do locally.
+4. Hand back a short hand-over note with any credentials altered, plus tips for future edits.
+
+I expect the site to be reachable at the root domain (no “/subfolder”) and to load without console errors in the latest versions of Chrome, Firefox, and Safari. If you spot minor code issues while deploying, feel free to fix them on the fly.
+
+This is a straightforward job for someone comfortable with FTP/SFTP, cPanel, and basic DNS management, and I’m ready to get started as soon as you are.</description></item>
 <item><title>Build Automotive Dealership SaaS Platform</title><link>https://www.freelancer.com/projects/full-stack-development/Build-Automotive-Dealership-SaaS</link><guid isPermaLink="false">freelancer:40832979</guid><pubDate>Tue, 24 Nov 2026 06:09:58 GMT</pubDate><description>3000-5000 USD | About the Role
 We are a growing automotive dealership looking for an experienced Full-Stack Developer to architect, build, and scale a custom SaaS platform tailored to our dealership operations. This platform will serve as our central hub to manage vehicle inventory, streamline the sales pipeline, and provide data-driven business insights and recommendations to optimize pricing, stock turnover, and customer engagement.
 You will have end-to-end ownership of the software lifecycle—from database architecture and backend APIs to building an intuitive, responsive dashboard for our sales and management teams.
@@ -496,45 +511,6 @@ I attempted to do this myself and couldn't figure it out. I am not sure if you c
 I’m looking to get this live quickly, so please outline your estimated timeline and any access requirements in your proposal.
 
 I also need help with Instagram ads.</description></item>
-<item><title>Build Searchable Journal Archive Platform</title><link>https://www.freelancer.com/projects/wordpress/Build-Searchable-Journal-Archive</link><guid isPermaLink="false">freelancer:40830411</guid><pubDate>Sun, 22 Nov 2026 16:55:09 GMT</pubDate><description>3000-5000 USD | Functionality to Parse and Display Journals on Our Website
-
-My stamp club produces a quarterly journal.  The Journal is posted on our website with both the ability to browse the complete journal and search the journal.  The journal search is more than just a key word search, it pulls up the complete articles with the key word being searched irrespective of the page.  For example, if the article is on page 2-4 and then continues to page 10 and 11, the search will display the complete article.  Similar to how a story may be organized in a Newspaper.  The current functionality relies upon the individual who runs the program breaking down the content, which has not been reliable.
-
-    The club is looking to develop functionality that replaces and enhances this functionality and is owned by the club so we can use this functionality on other journals.  The current functionality can be found on: https://www.collectorsclub.org/ccp/browse-search-the-ccp/  Test copies of the journal (CCP) can be obtained by using the browse selection.
-
-Requirements:
-•	The product must work with our current WordPress website – Please address the ease at which your proposal can be used should the club migrate away from WordPress. (You will see the current functionality is NOT integrated with WordPress. 
-•	The Club plans to transition to a commercially available Membership Plug in such as Ultimate Membership Pro or similar.  If your proposal is contingent upon a specific membership Plug in please list this.  We can consider a variety of membership plug-ins, beyond the standard functionality we require the ability to pro-rate a subscription. https://ultimatemembershippro.com/
-
-- Search Functionality - 
-•	Perform Keyword search that are included in the larger website search as well as the journal only.
-o	User can choose different categories of assets (Similar to the way WordPress allows users to Create Categories and Sub-Categories and those categories can be incorporated into a search or display.
-	Example of how to expand internal CCP Components:
-	Currently we can search by Author,  Advertiser, year(s) with groupings, as well as keyword
-	We may want to add other categories as some point, like “Presidents Message” or “Financial Report” ect.  We understand that adding the categories will require work by the club to identify the sections in journals that have been processed.
-	Examples of Categories outside the CCP Journals could be: Website content, Specific other Journals from other Clubs (ie. Search a journal called BNA and the CCP).  We do not have these External categories yet, but would like a tool that will allow us to other sources.
-•	We have a vast Video Library which we plan to develop transcripts.  The Search should have the ability to link the Transcript to the video such that the video and transcript will appear in the search.
-•	The ability for a user to save their research to use at a future time.
-•	A push capability that will message a user when content is added that meets their search criteria.
-•	The ability of researchers to leave comments about the article.
-o	The comments must go to a Web Admin for approval before Posting  (typical WordPress functionality).
-•	Ability to identify the award willing Articles (Can be part of the Search).
-•	The ability of the User to Click on an author’s name and be connected to an Author Profile Page – as if the Authors were users.
-•	The ability to display content based on Membership Category (normal wordpress functionality).
-
-    - Requirements for the functionality to Parse the Journals and storage-
-•	We understand that this will likely require a volunteer to identify the Journal Sections.  The more this can be automated the better.
-o	We need the ability to add categories.
-•	Should be simple and easy to use by non-technical volunteers or the Journal editor.
-•	Scalable to accommodate a future volume for the club or assets not stored on the Club server.
-
-
-  We are not adverse to a solution that adapts an existing product, such as WooCommerce to meet our needs.
-    Please include the required licenses for your solution: ie. Adobe Acrobat  Pro: etc.
-    Please include information that addresses how the solution can be updated with changes in Wordpress or the assumed technology.  
-   The Club will own the solution developed and have the right to sub-license.  
-You are welcome to share solutions that expand upon the functionality we would like, but please specify if there are any areas that will be problematic or will constitute a disproportionate cost such that the club can assess if that feature warrants our investment at this time.
-Thank you.</description></item>
 <item><title>GoHighLevel CRM WIZ Needed</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-CRM-WIZ-Needed</link><guid isPermaLink="false">freelancer:40829867</guid><pubDate>Sun, 22 Nov 2026 07:56:03 GMT</pubDate><description>15-25 AUD/hr | I run a home-service business and already have GoHighLevel in place, but the platform still isn’t doing the heavy lifting it should. My immediate priority is crystal-clear: set up leads, pipelines, and follow-ups so every inquiry is routed, tracked, and nurtured automatically.
 
 Here’s what our collaboration will look like:
