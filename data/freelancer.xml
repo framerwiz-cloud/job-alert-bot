@@ -3,6 +3,42 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Home Health Compliance Platform</title><link>https://www.freelancer.com/projects/ai-development/Home-Health-Compliance-Platform</link><guid isPermaLink="false">freelancer:40834099</guid><pubDate>Tue, 24 Nov 2026 21:14:45 GMT</pubDate><description>750-1500 USD | **Project Title: Custom AI-Powered Home Health Compliance &amp; Operations Software**
+
+We are seeking an experienced AI software developer or development team to build a comprehensive, web-based AI application for our Medicare-certified home health agency's **internal use only**.
+
+The software should have a modern, professional dashboard with interactive charts, graphs, color-coded alerts, patient management, and automated AI-powered workflows.
+
+**Required Features &amp; Modules:**
+
+1. **AI Referral &amp; Intake Management** – Analyze referral documents, extract patient information, identify missing documentation, and assist with admission decisions.
+2. **AI Clinical Chart Review** – Automatically review OASIS assessments, physician orders, face-to-face encounters, Plan of Care (CMS-485), nursing notes, and therapy documentation.
+3. **OASIS Quality Assurance** – Detect incomplete assessments, inconsistencies, potential coding errors, and documentation deficiencies.
+4. **Intelligent Medical Coding** – AI-assisted ICD-10 diagnosis coding, sequencing, HCPCS review, and PDGM-related validation.
+5. **Medicare Compliance &amp; RCD Review** – Evaluate homebound status, skilled necessity, medical necessity, physician certification, and pre-claim review readiness.
+6. **Recertification &amp; Discharge Assistant** – Track certification periods, evaluate clinical documentation, and generate draft recertification justifications.
+7. **Authorization Management** – Review payer requirements, prepare authorization packets, identify missing records, and draft appeal letters.
+8. **Denial Prevention &amp; Billing Readiness** – Cross-check orders, eligibility, documentation, and coding to identify potential claim denials.
+9. **Clinical Documentation Improvement** – Identify inconsistencies, missing signatures, incorrect orders, and weak clinical documentation.
+10. **AI Clinical Assistant** – Suggest patient-specific goals, interventions, patient education, and documentation improvements for clinician review.
+11. **Scheduling &amp; Field Operations** – Assist with clinician assignments, scheduling, route optimization, and travel-time planning.
+12. **Analytics &amp; Reporting Dashboard** – Display compliance scores, audit findings, patient status, trends, performance graphs, and downloadable reports.
+13. **Document &amp; Patient Management** – Secure PDF uploads, document classification, organized patient charts, and AI-powered document search.
+14. **Security &amp; Administration** – HIPAA-compliant architecture, role-based access, audit logs, secure cloud storage, and data protection.
+
+**Technical Requirements:**
+
+- Integration with an existing advanced AI model through API.
+- Ability to analyze multiple clinical documents together.
+- Findings supported by document/page references and applicable CMS guidance.
+- Human review and approval of clinical and coding recommendations.
+- Clean, modern, responsive interface.
+- Scalable architecture for additional modules and future EHR integration.
+- Full ownership of source code, database, and application.
+
+We are looking for a developer with proven experience in **healthcare AI, clinical document processing, HIPAA security, and full-stack web development**.
+
+Please provide examples of similar projects, your recommended technology stack, estimated timeline, and development proposal.</description></item>
 <item><title>Wordpress Site Revamp</title><link>https://www.freelancer.com/projects/web-design/Wordpress-Site-Revamp-40834084</link><guid isPermaLink="false">freelancer:40834084</guid><pubDate>Tue, 24 Nov 2026 21:01:29 GMT</pubDate><description>250-750 GBP | I need an experienced WordPress designer to modernize and clean up my existing site.
 
 website hypnomanchester.co.uk
