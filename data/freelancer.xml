@@ -3,6 +3,44 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Websites for Our Growing Team</title><link>https://www.freelancer.com/projects/web-development/Build-Websites-for-Our-Growing</link><guid isPermaLink="false">freelancer:40835794</guid><pubDate>Wed, 25 Nov 2026 19:20:21 GMT</pubDate><description>100000+ GBP | Title: Web Developers Wanted – WordPress, Custom, 3D &amp; AI/Vibe Coders (Ongoing Work)
+
+Description:
+
+Hi! I run a small digital services business in London, and I'm building a team of freelance web developers for ongoing client projects. These range from simple business websites to advanced interactive builds.
+
+I'm looking for people with any of these skills:
+
+WordPress: Elementor, Divi, WooCommerce, theme customisation
+Website builders: Shopify, Wix, Webflow, Squarespace, Framer
+Custom development: HTML/CSS/JavaScript, React, Next.js, PHP, Python
+3D and interactive websites: Three.js, WebGL, Spline, GSAP animations
+Vibe coders: people who build quickly with AI tools such as Cursor, Claude, Lovable, Bolt or v0, and can deliver clean, working, deployed sites
+Extras: UI/UX design in Figma, SEO, speed optimisation, hosting and domain setup
+
+Typical projects:
+
+Business and portfolio websites (3–10 pages)
+E-commerce stores
+Landing pages for marketing campaigns
+Redesigns of existing sites
+Interactive or 3D showcase sites
+
+What I offer:
+
+Regular work if the first project goes well
+Clear briefs and milestone payments through the platform
+A long-term working relationship
+
+When you apply, please include:
+
+Which of the categories above you specialise in
+Links to 2–3 live websites you've built
+Your typical price for a 5-page business website
+Your usual turnaround time
+Whether you use AI tools in your workflow, and which ones (that's welcome here)
+
+Please start your proposal with "Web Team" so I know you've read the whole post.</description></item>
 <item><title>Non-Profit Website Design for Orchid Societies</title><link>https://www.freelancer.com/projects/mobile-development/Non-Profit-Website-Design-for</link><guid isPermaLink="false">freelancer:40835746</guid><pubDate>Wed, 25 Nov 2026 18:38:16 GMT</pubDate><description>250-750 CAD | I'm seeking a skilled Canadian web designer to create a non-profit website for orchid societies across Canada. The primary goal is to share events, meetings, and news.
 
 Key Requirements:
@@ -763,27 +801,6 @@ Hours and how to apply
 We expect 10–15 hours per week, depending on priorities, at up to AUD $20 per hour. We’ll provide the detailed handover, priority work and account access once the freelancer is selected.
 
 Please include your hourly rate in AUD, weekly availability and two relevant examples. At least one should show a landing page you built or improved and explain what happened after a visitor submitted an enquiry. Tell us what you personally set up, which tools you used and how you verified it worked.</description></item>
-<item><title>E-Commerce Order Chatbot Build</title><link>https://www.freelancer.com/projects/ai-chatbot/Commerce-Order-Chatbot-Build</link><guid isPermaLink="false">freelancer:40830578</guid><pubDate>Sun, 22 Nov 2026 19:46:20 GMT</pubDate><description>250-750 USD | I’m looking for a smart yet lightweight AI agent that lives inside our website chat and instantly answers one thing really well: “Where is my order?”  
-
-Core capability  
-• The bot should recognise a customer by order number, email, or phone, connect to our store’s API, and return live order status and carrier tracking links in natural language.  
-• Handling this first task accurately and with near-instant response time is the priority; everything else can follow later.
-
-Tech &amp; integration notes  
-Our store runs on Shopify, and we already expose order data through a private REST API.  I’m open to Dialogflow CX, Rasa, LangChain on OpenAI, or another framework if you can show it keeps latency low.  Code must be containerised (Docker) and ready for a one-click deploy to AWS.
-
-Deliverables  
-1. Working chat widget embedded on our site  
-2. Backend service that fetches and formats order status/tracking details  
-3. Simple admin panel or JSON config for API keys, intents, and fallback phrases  
-4. README with setup, environment variables, and hand-off instructions
-
-Acceptance criteria  
-• 95 %+ accuracy on sample queries drawn from our past support logs  
-• Response time under 2 seconds end-to-end  
-• Graceful hand-off to a human agent when confidence &lt; 0.8 or data is missing  
-
-If you’ve built a similar order-tracking bot before, link a demo or repo so I can see it in action.</description></item>
 <item><title>GoHighLevel CRM WIZ Needed</title><link>https://www.freelancer.com/projects/go-high-level/GoHighLevel-CRM-WIZ-Needed</link><guid isPermaLink="false">freelancer:40829867</guid><pubDate>Sun, 22 Nov 2026 07:56:03 GMT</pubDate><description>15-25 AUD/hr | I run a home-service business and already have GoHighLevel in place, but the platform still isn’t doing the heavy lifting it should. My immediate priority is crystal-clear: set up leads, pipelines, and follow-ups so every inquiry is routed, tracked, and nurtured automatically.
 
 Here’s what our collaboration will look like:
