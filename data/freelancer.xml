@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Eselt WooCommerce eBay Setup</title><link>https://www.freelancer.com/projects/api/Eselt-WooCommerce-eBay-Setup</link><guid isPermaLink="false">freelancer:40836012</guid><pubDate>Wed, 25 Nov 2026 23:00:04 GMT</pubDate><description>250-750 AUD | I need an experienced hand to get my WooCommerce store talking smoothly with eBay through the Eselt plugin. The very first task is a clean installation of the plugin and a reliable connection to my site. Because I don’t yet have an eBay seller account, you’ll also walk me through creating and verifying one for eBay Australia, then link it to WooCommerce via Eselt’s API token.
+
+After the accounts are connected I want an initial synchronisation so every existing WooCommerce product is pushed live to eBay AU with accurate titles, categories, pricing, stock levels and shipping profiles. If any product fails to list or throws an error, please adjust the settings or mapping until it is accepted.
+
+Deliverables:
+• Eselt plugin installed, activated and fully configured in WooCommerce  
+• New eBay Australia seller account created, verified and linked to Eselt  
+• First full product sync completed with listings visible on eBay AU  
+• Short hand-over note outlining the key steps for future listings and sync checks  
+
+That’s all—once the store is live and stable on eBay AU, the job is complete.</description></item>
 <item><title>Build Scalable Multi-Tenant SaaS Platform</title><link>https://www.freelancer.com/projects/saas-development/Build-Scalable-Multi-Tenant-SaaS</link><guid isPermaLink="false">freelancer:40836001</guid><pubDate>Wed, 25 Nov 2026 22:35:50 GMT</pubDate><description>250-750 USD | We are looking for a software engineer to design, build, and scale our cloud-hosted Software-as-a-Service (SaaS) platform. You will own end-to-end features across the application stack, enforce multi-tenant data isolation, and deliver reliable, zero-downtime releases for recurring subscription customers.
 
 Responsibilities
@@ -766,21 +777,6 @@ Ideal Skills and Experience:
 - Excellent communication skills for regular updates and feedback.
 
 Please provide examples of previous work and any relevant qualifications.</description></item>
-<item><title>Corporate Events Consulting Website Development</title><link>https://www.freelancer.com/projects/seo/Corporate-Events-Consulting-Website</link><guid isPermaLink="false">freelancer:40830897</guid><pubDate>Mon, 23 Nov 2026 02:24:20 GMT</pubDate><description>1500-3000 USD | I'm looking for a skilled web developer to create an engaging website for my event consulting firm. The main goal of this site is to attract new client enquiries.
-
-The website should primarily cater to corporations, associations professional organizations and conferences. It should showcase our expertise in finding suitable venue and services to support events. 
-Key features I need:  
-- A detailed event enquiry form  
-- A booking system for consultation calls  
-- A quick message feature for easy client contact  
-
-The ideal candidate should have:  
-- Proven experience in developing consultative client-focused websites in the meeting and medium and large scale events 
-- Strong design skills to make the site visually appealing  
-- Familiarity with booking systems and enquiry forms  
-- Experience in SEO to enhance our visibility  
-
-I'm looking for a professional who can deliver a high-quality site within my budget. Please include examples of your previous work in your bid.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
