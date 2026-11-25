@@ -495,29 +495,6 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
-<item><title>Self-Managing Jewellery E-commerce Site</title><link>https://www.freelancer.com/projects/woocommerce/Self-Managing-Jewellery-commerce-Site</link><guid isPermaLink="false">freelancer:40832447</guid><pubDate>Mon, 23 Nov 2026 22:11:15 GMT</pubDate><description>20-250 GBP | I need a complete e-commerce website for my jewellery line that lets me run the day-to-day work without touching code. Adding or deleting products, updating descriptions, images and prices should be as simple as filling out a form from an admin dashboard.
-
-Inventory must monitor itself. The system should:
-• show a clear “out of stock” message the moment an item sells out,  
-• warn me when stock approaches a low threshold, and  
-• track every variation (size, colour, stone type) independently.
-
-At checkout customers will be able to pay with:  
-• Debit and credit cards,  
-• PayPal, and  
-• Bank transfer.  
-The flow has to meet current PCI security standards and run under SSL.
-
-Postage is calculated automatically from the order’s total value or weight. After buyers type their postcode, the site should fetch the matching addresses, let them pick the correct door number, then auto-fill the rest of the form. Any shipping API or postcode lookup service that achieves this is fine.
-
-Key storefront functions include a searchable catalogue, a secure customer account area, and a contact section where visitors can raise queries.
-
-Final deliverables:
-• Fully functional live site on my domain and hosting  
-• Cleanly organised source code / theme files  
-• Written walkthrough showing how to add products, fulfil orders and export reports
-
-If you have experience building secure, self-updating online shops with advanced shipping logic, I’d love to see your approach and a couple of relevant examples.</description></item>
 <item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
 
 Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
