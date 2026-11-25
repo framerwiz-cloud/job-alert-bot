@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Build Scalable Multi-Tenant SaaS Platform</title><link>https://www.freelancer.com/projects/saas-development/Build-Scalable-Multi-Tenant-SaaS</link><guid isPermaLink="false">freelancer:40836001</guid><pubDate>Wed, 25 Nov 2026 22:35:50 GMT</pubDate><description>250-750 USD | We are looking for a software engineer to design, build, and scale our cloud-hosted Software-as-a-Service (SaaS) platform. You will own end-to-end features across the application stack, enforce multi-tenant data isolation, and deliver reliable, zero-downtime releases for recurring subscription customers.
+
+Responsibilities
+
+• Multi-Tenant Architecture &amp; Data Layer: Design and maintain backend services, APIs, and relational/real-time databases with strict tenant isolation and role-based access control (RBAC).
+• Auth, Billing &amp; Subscriptions: Implement user onboarding, organization/workspace management, tiered subscription plans, usage metering, and billing webhook flows.
+• Frontend &amp; User Workflows: Build responsive web interfaces, core product workflows, analytics views, and self-serve admin/account controls.
+• Integrations &amp; Automation: Develop third-party API integrations, background jobs, and automated workflows to support customer operations.
+• Reliability, Security &amp; CI/CD: Maintain automated test suites, CI/CD pipelines, monitoring/observability, data backups, and security/compliance controls.
+
+Qualifications
+
+• Proven experience building and shipping production SaaS applications or cloud-native web platforms.
+• Strong command of modern backend and frontend technologies, relational databases, and API design.
+• Practical understanding of multi-tenancy, authentication/authorization, subscription billing flows, and cloud deployments.
+• Strong debugging, testing, and system design skills with a focus on reliability, security, and maintainability.</description></item>
 <item><title>Build B2B Wholesale Ordering Portal wordPress</title><link>https://www.freelancer.com/projects/b2b-marketing/Build-Wholesale-Ordering-Portal</link><guid isPermaLink="false">freelancer:40835904</guid><pubDate>Wed, 25 Nov 2026 21:07:13 GMT</pubDate><description>20-250 GBP | WordPress B2B Wholesale Ordering Portal (Phased Build)
 
 Project Summary:
