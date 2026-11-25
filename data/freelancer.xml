@@ -435,6 +435,181 @@ Ideal skills and experience:
 - Proficient in Wix, especially on desktop
 - Experience in web design and site organization
 - Good communication skills for effective teaching</description></item>
+<item><title>WooCommerce to Shopify Hair Store Migration</title><link>https://www.freelancer.com/projects/woocommerce/WooCommerce-Shopify-Hair-Store-Migration</link><guid isPermaLink="false">freelancer:40831814</guid><pubDate>Mon, 23 Nov 2026 13:19:42 GMT</pubDate><description>20-250 GBP | Freelance Shopify Developer / E-commerce Website Designer Wanted
+
+We are looking for an experienced Shopify freelancer to migrate our existing hair e-commerce website from WooCommerce to Shopify.
+
+The website is already fully operational, so this is primarily a migration and redesign project rather than building a website from scratch.
+
+What we need:
+
+* Migrate the existing website, products and relevant data from WooCommerce to Shopify.
+* Retain existing product information, images, categories and variations.
+* Refresh and improve the website design.
+* Ensure product variants, pricing options and checkout work seamlessly.
+* Ensure the website is fully responsive and works smoothly on mobile and desktop.
+* Set up redirects and preserve SEO where possible.
+* Test everything thoroughly before launch.
+
+Ideal candidate:
+
+* Proven experience migrating WooCommerce stores to Shopify.
+* Strong Shopify design and development skills.
+* Experience working with large product catalogues, particularly hair, wigs or beauty products.
+* Able to work independently and deliver within an agreed timeframe.
+
+This is a paid freelance project. Please get in touch with examples of previous Shopify migration projects, your availability and an estimated quote.</description></item>
+<item><title>Automate Legal Documents on WordPress</title><link>https://www.freelancer.com/projects/n8n/Automate-Legal-Documents-WordPress</link><guid isPermaLink="false">freelancer:40831734</guid><pubDate>Mon, 23 Nov 2026 12:04:51 GMT</pubDate><description>250-750 AUD | Project Brief: Automated Legal Document Production System
+Project Overview
+We are looking for an experienced developer to build a simple, cost-effective automated legal document production system for an existing law firm.
+Important: We already have an existing WordPress website. We do NOT need a new website built.
+The project involves adding legal services and fixed-fee document packages to the existing WordPress website, allowing clients to purchase services, complete online questionnaires, upload supporting documents and receive professionally prepared legal documents following solicitor approval.
+We need Stripe integrated into the existing website so clients can select a service, make payment and complete the required onboarding process.
+We have a strict project budget and are looking for someone who can deliver a practical, reliable solution without unnecessary complexity or expensive custom development.
+Required Workflow
+Existing WordPress website: Add legal services and fixed-fee document packages to the existing website, including service descriptions, pricing and inclusions.
+Online purchasing: Integrate Stripe into the existing WordPress website so clients can purchase their selected legal service.
+Questionnaire: Following service selection, clients complete an online questionnaire and upload relevant supporting documents.
+CRM integration and conflict checks: Connect to the firm's existing SILQ CRM to identify existing clients, check relevant parties for potential conflicts and flag potential matches for solicitor review. New client details and approved matters must be saved in SILQ. Conflicts must not be automatically cleared by AI.
+Engagement and payment: Client receives the relevant costs agreement, accepts the terms and completes payment through Stripe. Matter acceptance and payment must be verified before document production begins.
+Automation: n8n triggers the workflow following verified payment and the required matter acceptance checks.
+AI processing: OpenAI extracts and structures client information, while Claude prepares documents using approved legal templates and instructions.
+Document generation: Generate professionally formatted, branded and fully editable Microsoft Word (.docx) and PDF documents.
+Solicitor review: Provide a simple, secure interface where solicitors can review documents, download Word/PDF versions, manually edit Word documents and upload revised versions.
+AI amendments: Solicitors can request AI amendments or make their own manual changes. All document versions must be retained.
+Final approval: A solicitor must explicitly approve the final document before it can be released.
+Client delivery: Automatically deliver the approved document securely by email.
+Feedback: Send an automated client feedback or review request.
+Required Technology
+We would prefer to use existing services and avoid unnecessary custom software development.
+WordPress: Existing website. Add services, purchasing functionality and questionnaires.
+Stripe: Payment processing integrated into the existing website.
+n8n: Workflow automation.
+SILQ: Existing CRM and legal practice management system.
+OpenAI API: Information extraction.
+Claude API: Legal document drafting.
+Microsoft Word (.docx) and PDF: Document generation.
+Important Requirements
+Work with our existing WordPress website. Do not rebuild it.
+Add legal services and fixed-fee packages to the existing website.
+Allow clients to purchase services, complete questionnaires and upload documents online.
+Integrate Stripe for secure payments.
+Integrate with the firm's existing SILQ CRM. Do not build another CRM.
+Support client searches, potential conflict identification and new client/matter creation, subject to SILQ API capabilities.
+Maintain secure document storage and client confidentiality.
+Provide downloadable and editable Word documents.
+Allow solicitors to manually amend and re-upload documents.
+Maintain document version history.
+Require solicitor approval before documents are sent to clients.
+Include basic error handling and workflow notifications.
+Budget, Scope and Proposal
+We have a strict budget for this project and are looking for the most affordable practical solution.
+If you are interested in bidding, please provide:
+Your best fixed-price quote for delivering the project.
+A clear breakdown of exactly what is included in your proposed scope.
+Your estimated development timeframe and delivery milestones.
+Any additional ongoing costs, including hosting, API usage, subscriptions or third-party services.
+Confirmation that you have experience with WordPress, Stripe, n8n, API integrations, AI document generation and CRM integrations.
+Any recommendations for simplifying the implementation or reducing costs without compromising essential functionality.
+Please distinguish between essential functionality and optional enhancements.
+We are open to practical alternatives if they achieve the same outcome at a lower cost.
+Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
+<item><title>20-Page WordPress Business Website</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Business-Website-40831688</link><guid isPermaLink="false">freelancer:40831688</guid><pubDate>Mon, 23 Nov 2026 11:26:12 GMT</pubDate><description>250-750 USD | I need a complete WordPress build for a 20-page company site Eng and Arabic Lanuage. The core structure is already mapped out and I have part of the copy, a logo, and several images ready; the rest of the wording and stock photos will have to be created in collaboration as we go.
+
+Essentials for the build include an interactive contact form with an embedded map, dedicated service pages—each featuring a straightforward quote-request form—and all the usual company pages (home, about, blog/news, etc.). Every page must load quickly, look sharp on mobile, and follow basic on-page SEO best practices.
+
+Security is non-negotiable: once the site is finished I want it hardened with SSL, brute-force protection, reCAPTCHA on forms, malware scanning, and a final verification that everything is locked down before launch.
+
+Deliverables
+• Custom or well-tailored premium WordPress theme  
+• 20 fully designed, responsive pages populated with agreed-upon content  
+• Contact form + Google Map integration  
+• Service pages with individual quote-request forms  
+• Complete security hardening and verification report  
+• Basic SEO setup (titles, meta, schema where applicable)  
+• One-page handover guide covering updates and backups  
+
+Please allow for a short round of revisions after the first full draft so the final site aligns perfectly with our brand voice and visuals.</description></item>
+<item><title>Digital Marketing &amp; Social Media Manager – Luxury Perfume Brand | India or Pakistan Preferred | Long-Term</title><link>https://www.freelancer.com/projects/woocommerce/Digital-Marketing-Social-Media-Manager</link><guid isPermaLink="false">freelancer:40831676</guid><pubDate>Mon, 23 Nov 2026 11:15:26 GMT</pubDate><description>20-250 GBP | Project Description
+
+We are looking for a talented, creative and reliable Digital Marketing &amp; Social Media Expert based in India or Pakistan to take full responsibility for promoting and growing our UK luxury perfume brand, LUNAZEE.
+
+Website: www.lunazee.co.uk
+
+Responsibilities
+
+* Create, optimise and manage social media accounts on Instagram, Facebook, TikTok, YouTube, Pinterest and other relevant platforms.
+* Independently create professional AI-generated promotional videos, Reels, Shorts and product advertisements.
+* Design, schedule and publish engaging content regularly.
+* Set up and manage paid advertising campaigns on Meta, TikTok and Google.
+* Develop organic marketing strategies to attract genuine followers and potential customers.
+* Handle basic SEO, influencer outreach and brand promotion.
+* Use the latest AI marketing tools and digital marketing strategies.
+* Monitor performance and provide monthly progress reports.
+* Manage the entire marketing process independently with minimal supervision.
+
+Budget
+
+* Initial setup fee: £100 (one-time)
+* Monthly management fee: £40
+* Monthly advertising budget: £50 (paid separately by us)
+* Additional marketing expenses require prior approval.
+
+Requirements
+
+* Freelancers from India or Pakistan preferred.
+* Experience in social media marketing and AI content creation.
+* Knowledge of luxury, beauty, perfume or e-commerce marketing.
+* Creative, proactive and reliable.
+* Ability to work independently and deliver results.
+* Interested in a long-term partnership.
+
+When Applying
+
+Please provide:
+
+1. Examples of previous work, especially promotional videos.
+2. Your experience with AI marketing tools.
+3. Your proposed marketing strategy for LUNAZEE.
+4. What you can realistically deliver each month within our budget.
+
+Our goal is to build LUNAZEE into a recognised luxury fragrance brand in the UK, increase website traffic and generate genuine sales.
+
+We are looking for someone who can take ownership of our marketing activities, not simply publish occasional posts.
+
+Long-term opportunity with potential for increased payment as the business grows</description></item>
+<item><title>youtube banner and crt thumbnails</title><link>https://www.freelancer.com/projects/adobe-photoshop/youtube-banner-crt-thumbnails</link><guid isPermaLink="false">freelancer:40831632</guid><pubDate>Mon, 23 Nov 2026 10:37:47 GMT</pubDate><description>30-250 USD | I have new youtube channel and need a professional banner and thumbnail template created</description></item>
+<item><title>Business Portfolio and Shop Website Development</title><link>https://www.freelancer.com/projects/web-development/Business-Portfolio-Shop-Website</link><guid isPermaLink="false">freelancer:40831564</guid><pubDate>Mon, 23 Nov 2026 09:54:13 GMT</pubDate><description>250-750 EUR | I'm looking for an experienced website developer with strong UX design skills to create a site that showcases my business and portfolio. The website will also feature a small shop selling both digital and physical products.
+
+Key Requirements:
+- Homepage that effectively highlights our business and portfolio.
+- Dedicated sections for detailed business information and team introductions.
+- User-friendly shop interface for both digital and physical products.
+- Intuitive navigation and optimized UX design to enhance user engagement.
+
+Ideal Skills and Experience:
+- Proven experience in developing portfolio and e-commerce websites.
+- Strong UX/UI design background.
+- Familiarity with SEO best practices.
+- Ability to create a mobile-responsive design.
+- Excellent communication skills for regular updates and feedback.
+
+Please provide examples of previous work and any relevant qualifications.</description></item>
+<item><title>Corporate Events Consulting Website Development</title><link>https://www.freelancer.com/projects/seo/Corporate-Events-Consulting-Website</link><guid isPermaLink="false">freelancer:40830897</guid><pubDate>Mon, 23 Nov 2026 02:24:20 GMT</pubDate><description>1500-3000 USD | I'm looking for a skilled web developer to create an engaging website for my event consulting firm. The main goal of this site is to attract new client enquiries.
+
+The website should primarily cater to corporations, associations professional organizations and conferences. It should showcase our expertise in finding suitable venue and services to support events. 
+Key features I need:  
+- A detailed event enquiry form  
+- A booking system for consultation calls  
+- A quick message feature for easy client contact  
+
+The ideal candidate should have:  
+- Proven experience in developing consultative client-focused websites in the meeting and medium and large scale events 
+- Strong design skills to make the site visually appealing  
+- Familiarity with booking systems and enquiry forms  
+- Experience in SEO to enhance our visibility  
+
+I'm looking for a professional who can deliver a high-quality site within my budget. Please include examples of your previous work in your bid.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
