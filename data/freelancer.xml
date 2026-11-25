@@ -3,7 +3,75 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Magento 2 SEO &amp; Speed Fixes</title><link>https://www.freelancer.com/projects/google-website-optimizer/Magento-SEO-Speed-Fixes</link><guid isPermaLink="false">freelancer:40834643</guid><pubDate>Wed, 25 Nov 2026 05:57:30 GMT</pubDate><description>30-250 USD | I need a Magento 2 specialist to audit and tune the homepage, checkout and FAQ sections of my store. The priorities are clear:
+<item><title>Magento 2 SEO &amp; Speed Fixes</title><link>https://www.freelancer.com/projects/google-website-optimizer/Magento-SEO-Speed-Fixes</link><guid isPermaLink="false">freelancer:40834643</guid><pubDate>Wed, 25 Nov 2026 06:27:15 GMT</pubDate><description>30-250 USD | Our site is alaskanharvestseafood.com
+
+This is a more detailed task list:
+
+Home page slider broken to static images that alternate.
+This is for SEO speed issue
+
+
+FAQ link to the home page
+
+38 pages with duplicate meta descriptions (listed below)
+Many of these are due to the fact that all the iameges/products are not shown on the first page but get split into two in Magento.
+
+We could place all products in categories to just one page or just modify the content so the descriptions and METAs are not the same for SEO
+
+https://www.alaskanharvestseafood.com/alaskan-shellfish.html
+https://www.alaskanharvestseafood.com/alaskan-shellfish.html?p=2
+
+
+https://www.alaskanharvestseafood.com/best-sellers.html
+https://www.alaskanharvestseafood.com/catalogsearch/advanced/
+https://www.alaskanharvestseafood.com/checkout/cart/
+https://www.alaskanharvestseafood.com/codmoletacos
+https://www.alaskanharvestseafood.com/codrecipe
+https://www.alaskanharvestseafood.com/contact
+https://www.alaskanharvestseafood.com/cooking
+https://www.alaskanharvestseafood.com/crabrecipe
+https://www.alaskanharvestseafood.com/crabtacorecipe
+https://www.alaskanharvestseafood.com/customer-service
+https://www.alaskanharvestseafood.com/enable-cookies
+https://www.alaskanharvestseafood.com/faq/
+https://www.alaskanharvestseafood.com/greenchilihalibut
+https://www.alaskanharvestseafood.com/halibuttacos
+https://www.alaskanharvestseafood.com/healthy-finnfish-combo-1.html
+https://www.alaskanharvestseafood.com/high-pressure-cleaned-oysters-in-shell.html
+https://www.alaskanharvestseafood.com/ivory-king-salmon-fillets.html
+https://www.alaskanharvestseafood.com/mailer-list-2
+https://www.alaskanharvestseafood.com/maine-lobster-tails.html
+https://www.alaskanharvestseafood.com/nutrition
+https://www.alaskanharvestseafood.com/privacy-policy-cookie-restriction-mode
+https://www.alaskanharvestseafood.com/recipes
+https://www.alaskanharvestseafood.com/seafood/prepared-seafood.html
+https://www.alaskanharvestseafood.com/send-a-gift-certificate
+https://www.alaskanharvestseafood.com/shipping-delivery
+https://www.alaskanharvestseafood.com/smoked-salmon-nova-lox.html
+https://www.alaskanharvestseafood.com/smoked-silver-salmon-strips.html
+https://www.alaskanharvestseafood.com/spot-shrimp.html
+https://www.alaskanharvestseafood.com/terms-conditions
+https://www.alaskanharvestseafood.com/tuna-steaks.html
+https://www.alaskanharvestseafood.com/why-seafood
+
+
+https://www.alaskanharvestseafood.com/samplers-and-combos.html
+https://www.alaskanharvestseafood.com/samplers-and-combos.html?p=2
+https://www.alaskanharvestseafood.com/samplers-and-combos.html?p=3
+
+https://www.alaskanharvestseafood.com/whitefish.html
+https://www.alaskanharvestseafood.com/whitefish.html?p=2
+
+
+I do not now if it were better to change the META for the second instance for a better SEO. Whatever the case - is should not be the same - Google punishes us for it
+
+
+
+
+
+
+
+I need a Magento 2 specialist to audit and tune the homepage, checkout and FAQ sections of my store. The priorities are clear:
 
 • Push page-load times down to an acceptable level. I expect tangible gains after you optimise caching, compress assets and streamline any blocking code.  
 • Rewrite or insert accurate META titles and descriptions so every targeted page is fully search-friendly.  
