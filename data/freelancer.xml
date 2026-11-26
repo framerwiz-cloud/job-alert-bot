@@ -3,6 +3,25 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom Unifi Captive Portal Integration</title><link>https://www.freelancer.com/projects/css/Custom-Unifi-Captive-Portal-Integration</link><guid isPermaLink="false">freelancer:40837710</guid><pubDate>Thu, 26 Nov 2026 22:12:00 GMT</pubDate><description>20-250 GBP | I already have a working Unifi network, a cPanel hosting account, and an HTML landing page with a separate Terms &amp; Conditions file. What I need is the glue that turns these assets into a fully-functional External Portal Server for Unifi.
+
+Scenario  
+• When a guest joins the WiFi they must see my branded splash page with links/Logos to Instagram/Facebook &amp; Google Reviews.   
+• They simply tick “I accept the terms and conditions” (no forms, no vouchers).  
+• Once the terms are accepted, the portal should hand authentication back to the Unifi controller and immediately redirect the guest to our chosen social-media page.
+
+Your task  
+ • Adapt my existing HTML (landing + T&amp;C) so it meets Unifi’s External Captive Portal requirements: proper form fields, required POST/GET variables, redirect handling, and success state.  
+• Deploy the finished code on my cPanel space and confirm it communicates correctly with the Unifi controller (USG / UDM firmware current).  
+• Provide any controller-side settings I must enter (portal URL, redirect URL, guest control options) so I can reproduce the setup later.
+
+Acceptance  
+1. Guests connect, see the splash, accept, and are online in one click.  
+2. Browser is redirected to the specified social-media URL.  
+3. No certificate warnings or mixed-content errors appear.  
+4. Source files and any instructions are delivered in a tidy folder.
+
+HTML, CSS, PHP (or lightweight Python) solutions are fine as long as they run on standard cPanel hosting.</description></item>
 <item><title>Polished B2B Website Redesign</title><link>https://www.freelancer.com/projects/adobe-xd/Polished-Website-Redesign</link><guid isPermaLink="false">freelancer:40837646</guid><pubDate>Thu, 26 Nov 2026 21:11:46 GMT</pubDate><description>250-750 USD | I’ve finished building the core pages for a new B2B marketing site in Claude, but the visual layer is painfully dull. Because our target clients are professional web developers, every pixel must signal competence and value the moment the page loads. 
 
 Here’s what I need from you: a complete visual redesign that feels premium and corporate—think generous white space balanced with an executive colour palette, refined typography, and subtle graphic flourishes that guide attention to our value proposition. Every key page matters, so the home page, product overviews, pricing, and contact flow should all share one cohesive, polished aesthetic.  
@@ -833,22 +852,6 @@ Please provide:
 - Details of any excluded services or additional charges.
 
 We are looking for someone who can implement the required improvements and provide reliable ongoing support, not simply supply SEO audit reports.</description></item>
-<item><title>Design Public Company Database Website</title><link>https://www.freelancer.com/projects/database-management/Design-Public-Company-Database-Website</link><guid isPermaLink="false">freelancer:40833392</guid><pubDate>Tue, 24 Nov 2026 11:34:45 GMT</pubDate><description>10000-20000 GBP | I’m looking for a designer-developer who can build a clean, responsive site whose sole purpose is to display our company database to the public. Visitors will not need to log in; the data should be instantly visible, easy to browse, and searchable from any device.
-
-Here’s what I need the finished site to do:
-• Present the full database in an attractive, consistent layout  
-• Offer real-time search, filter, and sort functions so users can quickly find specific records  
-• Allow me (or another authorised admin) to update the data easily—CSV upload or a simple back-end form is fine  
-• Load fast and remain fully responsive across desktop, tablet, and mobile  
-
-I’m open to the stack you prefer—HTML5, CSS3, JavaScript frameworks, PHP/MySQL, or comparable tools—as long as the final product is reliable, well-documented, and simple for a non-technical team member to maintain.
-
-Deliverables:
-1. Fully functional website hosted on our chosen server  
-2. Source files and database schema  
-3. Brief hand-over document explaining how to add or edit records  
-
-If this sounds like a project you can turn around efficiently while keeping the interface intuitive, I’d love to see examples of similar data-driven sites you’ve produced and discuss next steps.</description></item>
 <item><title>Launch-Ready Shopify Wig Store</title><link>https://www.freelancer.com/projects/shopify-development/Launch-Ready-Shopify-Wig-Store</link><guid isPermaLink="false">freelancer:40833344</guid><pubDate>Tue, 24 Nov 2026 10:49:55 GMT</pubDate><description>2-8 USD/hr | My Shopify wig shop is built, stocked with products, and almost ready to go live; I just need a sharp Shopify expert to handle the last-mile tasks today.
 
 What has to happen:
