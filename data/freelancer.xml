@@ -3,16 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Beginner Blog Writer Needed</title><link>https://www.freelancer.com/projects/blog-writing/Beginner-Blog-Writer-Needed</link><guid isPermaLink="false">freelancer:40836834</guid><pubDate>Thu, 26 Nov 2026 10:16:36 GMT</pubDate><description>250-750 USD | I need a beginner who can turn simple briefs into clear, engaging blog articles about business and marketing. The purpose is straightforward: each post should help pull fresh visitors to my website, so a light grasp of on-page SEO—strong headlines, natural keyword use, and a short meta description—matters as much as friendly, readable prose.
-
-What makes this ideal for freshers is the guidance you’ll receive: I supply topic outlines, key points, and example resources; you focus on research, writing, and basic formatting. You do not need years of experience—just solid written English, reliability, and a willingness to learn.
-
-Deliverables
-• 2–3 original blog posts per week, 800–1,000 words each  
-• H2/H3 sub-headings, short paragraphs, internal links, and a clear call-to-action  
-• Content that passes plagiarism checks and is ready to publish in WordPress or Google Docs  
-
-If you can meet those points, attach a brief sample (200–300 words) on any recent marketing trend and tell me when you can start.</description></item>
 <item><title>Online Education Supplies Store Setup</title><link>https://www.freelancer.com/projects/ui-design/Online-Education-Supplies-Store-Setup</link><guid isPermaLink="false">freelancer:40836812</guid><pubDate>Thu, 26 Nov 2026 10:02:58 GMT</pubDate><description>250-750 GBP | I'm looking to set up a comprehensive online store dedicated to selling a wide range of educational supplies. Our primary clientele will be schools and businesses. 
 
 The store should feature:
@@ -732,6 +722,36 @@ Ideal Skills and Experience:
 - Knowledge of delivery and pickup logistics integration
 
 Please share your portfolio and relevant experience.</description></item>
+<item><title>Complete FreeScout Helpdesk Configuration</title><link>https://www.freelancer.com/projects/microsoft-365/Complete-FreeScout-Helpdesk</link><guid isPermaLink="false">freelancer:40832550</guid><pubDate>Mon, 23 Nov 2026 23:50:06 GMT</pubDate><description>20-250 GBP | I’m ready to launch a fully branded FreeScout helpdesk for Digitae and need someone who knows the platform inside out to handle the entire build.
+
+Environment &amp; access  
+• FreeScout must be installed on our OVH server and served securely at help.it with a valid SSL certificate, daily encrypted backups, and hardened security settings.  
+• Visual branding, colours, and logo should match our Digitae style so the experience feels native to customers.
+
+Core functionality  
+Microsoft 365 will power email. I want one shared address  that feeds the helpdesk, while staff keep their individual mailboxes for outbound or private replies. FreeScout should generate unique ticket numbers, respect our office-hour SLA rules, and send mobile push notifications.
+
+HubSpot integration  
+HubSpot remains our CRM, but I need FreeScout to create or update HubSpot tickets automatically when new conversations arrive or change state, ensuring full two-way visibility between the systems.
+
+Teams &amp; queues  
+Each of the following groups needs its own helpdesk address and ticket queue so workload and reporting stay separate:  
+• Technical support, sales, and accounts  
+• Technical support, onboarding, and customer success  
+• Technical support, security, and managed services  
+
+Feature set  
+Customer portal, knowledge base, time tracking, CSAT surveys, granular reporting and dashboards all have to be enabled and tested.
+
+Deliverables  
+1. Production-ready FreeScout instance on OVH, fully branded and secured.  
+2. Microsoft 365 mail routing (shared + individual addresses) tested end-to-end.  
+3. HubSpot ticket sync configured and verified.  
+4. Queues and SLAs in place for the three team groups above.  
+5. Documentation covering server specs, backup routine, and a brief user guide.  
+6. Final walk-through and hand-over.
+
+Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
