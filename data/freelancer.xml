@@ -3,6 +3,32 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>parkside cafe </title><link>https://www.freelancer.com/projects/web-development/parkside-cafe</link><guid isPermaLink="false">freelancer:40837410</guid><pubDate>Thu, 26 Nov 2026 16:59:43 GMT</pubDate><description>750-1500 USD | I want to launch a full-service online presence for my restaurant that goes live with a complete website and companion mobile app at the same time. Customers must be able to browse the menu, place both pickup and delivery orders, and pay online with cards or digital wallets right from day one.
+
+Beyond the ordering flow, I also need you to create and hand over a Meta Business / Ads account and a Google AdSense account so I can start running promotions as soon as we open. Please include basic pixel or tag integration on the site and in the app so campaign tracking is ready.
+
+Key deliverables I’m expecting:
+• Responsive restaurant website with secure ordering, menu management, and real-time order dashboard  
+• iOS and Android apps that mirror the website’s ordering experience and sync all data  
+• Payment gateway setup for online card and wallet transactions only  
+• Pickup-or-delivery toggle with address validation for delivery orders  
+• Meta Business Suite setup, initial ad account configuration, and pixel installed  
+• Google AdSense account creation and code placed on informational pages  
+• Admin access and brief hand-off guide so my staff can manage content, orders, and ads
+
+I’m open to the tech stack you prefer—WordPress + WooCommerce, Laravel, React Native, Flutter, or another solid solution—as long as it delivers a smooth user experience and can scale. Let me know the framework you recommend, your timeline, and any similar projects you have shipped.</description></item>
+<item><title>Fast Food Ordering Website Development</title><link>https://www.freelancer.com/projects/web-development/Fast-Food-Ordering-Website-Development-40837405</link><guid isPermaLink="false">freelancer:40837405</guid><pubDate>Thu, 26 Nov 2026 16:55:09 GMT</pubDate><description>300-350 USD | I’m ready to launch a streamlined website for my fast-food shop that lets customers place their orders for both pickup and delivery, pay securely online by card, and quickly find us in local Google searches.  
+
+Here’s what I need built and handed over:  
+• A modern, mobile-friendly site that showcases our menu, prices, and daily specials.  
+• A fully integrated ordering system where visitors can choose either pickup or delivery, customise their meals, and check out with a card payment gateway that works flawlessly.  
+• On-page SEO set up from day one—keyword-optimised content, clean site structure, fast loading times, and Google Business integration—so hungry locals see us first when they search.  
+• Real-time order notifications for staff and clear confirmation emails/SMS for customers, making the process smooth on both ends.  
+• Simple back-end controls so I can update items, prices, and promos without touching code.  
+
+Whether you build on WordPress + WooCommerce, Shopify, or a lightweight custom stack, I’m open—as long as the final product hits the above points, performs quickly, and is easy to maintain. I’ll supply branding assets and food photos; you handle the rest, from setup to a quick walkthrough showing me how to manage orders.  
+
+If this sounds like your specialty, let’s talk timing and milestones so I can start taking online orders as soon as possible.</description></item>
 <item><title>Luxury Yacht-Inspired Boat Redesign</title><link>https://www.freelancer.com/projects/interior-design/Luxury-Yacht-Inspired-Boat-Redesign</link><guid isPermaLink="false">freelancer:40837378</guid><pubDate>Thu, 26 Nov 2026 16:37:20 GMT</pubDate><description>250-750 GBP | I'm seeking a skilled designer to modernize my boat's topsides with a luxury yacht-inspired aesthetic. 
 
 Key areas for update include:
@@ -810,34 +836,6 @@ What has to happen:
 • Tidy up the theme: adjust the home page banners, tighten the main menu structure, and make sure the site looks clean and responsive on mobile.
 
 When we’re done, every product must display the right variant prices, the cart must calculate totals and shipping properly, and the home page and navigation should feel polished on desktop and phone. I’ll be available all day to supply assets or answers, so if you’re comfortable working inside Shopify’s admin, theme editor, and (when needed) a bit of Liquid or CSS, this should be a fast, satisfying turnaround.</description></item>
-<item><title>Fix Website Suspension Issue</title><link>https://www.freelancer.com/projects/html/Fix-Website-Suspension-Issue</link><guid isPermaLink="false">freelancer:40832801</guid><pubDate>Tue, 24 Nov 2026 03:57:38 GMT</pubDate><description>150-300 AUD | My website is currently showing an "account suspended" message, and I need this issue resolved as soon as possible. The task involves identifying the cause of the suspension, whether it's related to hosting, security, or other technical issues, and implementing a solution to restore the website's functionality. Ideal skills include web development, troubleshooting, and experience with hosting platforms.</description></item>
-<item><title>Build Modern Farm Wordpress Website for flower farm and agri tourism </title><link>https://www.freelancer.com/projects/woocommerce/Build-Modern-Farm-Wordpress-Website</link><guid isPermaLink="false">freelancer:40832794</guid><pubDate>Tue, 24 Nov 2026 03:53:18 GMT</pubDate><description>250-750 CAD | Looking for an experienced WordPress &amp; WooCommerce developer to build a clean, modern, fast-loading website from scratch for My Farm, a peony flower farm and agritourism venue in Canada. I already have my brand logo (peony emblem), product list, and photos ready. You have full flexibility to choose a clean, lightweight WooCommerce-compatible WordPress theme (such as Kadence, Blocksy, Astra, or Twenty Twenty-Five), provided the site uses native WordPress blocks so I can easily update seasonal harvest dates, photos, and inventory myself after launch.
-
-​Required Pages &amp; Deliverables:
-​1. Header &amp; Navigation:
-​Clean transparent/minimal header with the brand logo aligned far left and navigation links (Home, Shop, Checkout) plus cart/account icons aligned far right.
-
-​2. Core Pages:
-​Home: Hero section with farm photography, short welcome/story section, featured passes &amp; peony offerings, and clear visitor details.
-​Shop / Storefront: Clean WooCommerce catalog organized for Day Passes, Season Passes, Peony Bouquets, and Peony Roots / Live Plants (with future room to add lavender products and gift cards).
-
-​Cart &amp; Checkout: Streamlined, mobile-friendly checkout flow connected to Stripe/Square.
-​About / Visit Us: Farm location, visiting guidelines, FAQ, and contact form.
-
-​3. Custom Ticket-Style CTA Buttons:
-​Reusable CSS button styling (ticket-btn) featuring notched ticket/coupon edges and a ticket icon for Day Pass and Season Pass call-to-action buttons.
-
-​4. Launch &amp; Handover:
-​Full deployment on my Canadian domain and hosting with SSL enabled, basic SEO/speed optimization, mobile responsiveness, and a quick walkthrough showing me how to edit text, swap photos, and manage WooCommerce stock/orders.
-​Mandatory Qualifications:
-​Strong portfolio of clean, modern WordPress + WooCommerce websites.
-​Built with native Gutenberg blocks and clean CSS—no bloated or locked-in page builders so I retain full control for day-to-day updates.
-​Strong communication and experience setting up Canadian tax/shipping/pickup options in WooCommerce.
-
-​To Apply, Please Share:
-​1. 2–3 links to live WooCommerce websites you built from scratch.
-​2. Which WordPress theme you recommend using for this project and why.
-​3. Your total fixed price, milestone breakdown, and estimated turnaround time.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
