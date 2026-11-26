@@ -3,35 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Illness Awareness Site Build</title><link>https://www.freelancer.com/projects/web-development/Illness-Awareness-Site-Build</link><guid isPermaLink="false">freelancer:40836955</guid><pubDate>Thu, 26 Nov 2026 11:41:54 GMT</pubDate><description>100-1500 GBP | I’m looking for a developer-designer who can take my outline and turn it into a polished, secure website that raises awareness about a specific illness.
-
-Scope  
-• Build a responsive landing page plus four to five additional tabs.  
-• Include clear sections that explain symptoms, causes, diagnosis, treatment options, and the support resources we have gathered.  
-• Visitors need to:  
-  – Read the information freely.  
-  – Reach us through an easy contact form.  
-  – Submit their own story or experience (held for moderation before publishing).  
-
-Privacy Requirements  
-We will host a collection of sensitive photographs that must remain visible only to me and my approved staff. Please implement an admin-only library with role-based access; no public or member view of these images is permitted.
-
-Core Features  
-• Clean, modern UI, fully responsive.  
-• CMS (WordPress, Webflow, or a lightweight custom solution) so I can update copy and add resources without touching code.  
-• Admin dashboard to upload, tag, and manage the private pictures.  
-• Secure user management for staff accounts.  
-• Contact form protected by reCAPTCHA.  
-• Story-submission form with email notifications and backend moderation queue.  
-• Basic on-page SEO and performance optimization.
-
-Deliverables (acceptance criteria)  
-1. Live site on my hosting, SSL enabled and error-free.  
-2. Admin login with documented steps showing that only approved roles can access the photo area.  
-3. All public pages load in &lt;3 s on desktop and mobile (Google PageSpeed).  
-4. Transfer of source files, credentials, and a brief guide so I can maintain content going forward.
-
-If you have recent examples of health or nonprofit sites and experience with secure media libraries, let’s talk timelines and milestones.</description></item>
 <item><title>Online Education Supplies Store Setup</title><link>https://www.freelancer.com/projects/ui-design/Online-Education-Supplies-Store-Setup</link><guid isPermaLink="false">freelancer:40836812</guid><pubDate>Thu, 26 Nov 2026 10:02:58 GMT</pubDate><description>250-750 GBP | I'm looking to set up a comprehensive online store dedicated to selling a wide range of educational supplies. Our primary clientele will be schools and businesses. 
 
 The store should feature:
@@ -770,6 +741,17 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
+<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
+
+Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
+
+Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
+
+• upload a fresh file,  
+• ask a question about it minutes later, and  
+• see the answer with a link or snippet that proves where the data came from.
+
+If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
