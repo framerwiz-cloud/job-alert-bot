@@ -3,16 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Copy existing website and move it to Hostinger (simple job) arespt.com</title><link>https://www.freelancer.com/projects/web-hosting/Copy-existing-website-move-Hostinger</link><guid isPermaLink="false">freelancer:40836296</guid><pubDate>Thu, 26 Nov 2026 04:09:31 GMT</pubDate><description>250-750 USD | I already have a ZIP that contains the entire site—every folder, file, and asset exactly as it sits on the current server. All I need is for you to move that package into my Hostinger account so the live copy looks and behaves identically, with zero redesign or “quick improvements.”
+<item><title>Migrate WordPress Site to Hostinger Google Ares Physical Therapy</title><link>https://www.freelancer.com/projects/database-management/Migrate-WordPress-Site-Hostinger-Google</link><guid isPermaLink="false">freelancer:40836309</guid><pubDate>Thu, 26 Nov 2026 04:23:07 GMT</pubDate><description>250-750 USD | I have a complete WordPress package—theme, plugins, uploads ZIP, plus the matching SQL database—and I simply need it running on my Hostinger account under the live domain. Nothing about the design, content, or structure should change; I want an exact clone of what visitors see today on the marketing company’s server.
 
-What you will do  
-• Unpack the complete site on Hostinger, set up any required databases, and update paths or connection strings if needed.  
-• Confirm that the storefront, online payments and checkout, booking/appointment flow, and customer accounts with their order history all work exactly as they do today.  
-• Hand the login credentials and final URLs back to me once everything is running.
+Here’s the flow I expect:
 
-I built the site myself, so I’ll know instantly if anything is off. This is a straightforward copy-and-move job, perfect if you’re comfortable with Hostinger’s hPanel, FTP, phpMyAdmin, and typical e-commerce stacks (PHP/MySQL or similar). No agencies—one person who reads the brief and does the work. 
+• Upload the ZIP, import the database, adjust wp-config and any URL references so the site loads from my Hostinger server on the current domain.
+• Test every page, plugin, and form to confirm they behave exactly as they do now.
+• Hand over working WordPress admin credentials and a short note on what you changed (paths, DNS, etc.).
 
-When you reply, open with whatever appears on the Google logo today so I know you actually read this.</description></item>
+Please begin your reply with the number of people shown at the bottom of my homepage photo so I know you read this. I only work with individual freelancers who will handle the migration themselves—no agencies or auto-bids. A straight copy-and-move job; quick, clean, and done.</description></item>
 <item><title>High Converting Shopify Store Build</title><link>https://www.freelancer.com/projects/seo/High-Converting-Shopify-Store-Build</link><guid isPermaLink="false">freelancer:40836282</guid><pubDate>Thu, 26 Nov 2026 04:02:13 GMT</pubDate><description>30-250 USD | Shopify Expert Needed – Store Redesign, Conversion Optimization &amp; Sales Growth
 
 I am looking for an experienced Shopify expert to improve my existing online store, Ortiz 3D Customs, a small business specializing in custom 3D-printed products, collectible figures, and unique accessories.
