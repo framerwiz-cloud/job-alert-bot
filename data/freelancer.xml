@@ -3,6 +3,106 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Redesign Kreol Magazine’s WordPress Experience</title><link>https://www.freelancer.com/projects/content-management-system/Redesign-Kreol-Magazine-WordPress</link><guid isPermaLink="false">freelancer:40837216</guid><pubDate>Thu, 26 Nov 2026 14:45:15 GMT</pubDate><description>250-750 GBP | Kreol Magazine Website Redesign: Brief for a Freelance Designer
+About the project
+
+Examples for reference:
+https://www.wanderlustmagazine.com/
+https://www.essence.com/
+
+We want a fresh, modern, image led website for International Kreol Magazine at kreolmagazine.com, keeping our existing articles and shop.
+Kreol Magazine celebrates Creole culture, heritage, identity and diaspora communities worldwide, from Louisiana and Haiti to Seychelles, Mauritius and La Réunion. It is published in print and online by Rila Publications Ltd, London.
+The new site should feel as polished as a leading travel magazine and as warm and community centred as a leading culture magazine. Our readers should land on the homepage and immediately see beautiful stories, the latest issue, and a clear way to subscribe or support us.
+Our goals
+1.	Look current, confident and premium on phone and desktop.
+2.	Make our newest stories and the latest print issue easy to find.
+3.	Grow newsletter sign ups, subscriptions, shop sales and advertising enquiries.
+4.	Be simple for our small team to update every week without a developer.
+The current site and what must change
+The current site runs on WordPress with the Valenti theme and a WooCommerce shop. The content is rich, but the design looks dated and crowded.
+What we see today	What we want instead
+Homepage is a long stack of about 12 similar category blocks	A short, curated homepage with a clear lead story and a few strong sections
+Very long menus with many empty or placeholder links	A simple menu of six to eight items, every link working
+Placeholder images and repeated stories	Every story has a strong image; no duplicates
+Most articles show no publication date	Date, author and category on every story
+Latest issue is easy to miss	Latest print issue promoted near the top, with Buy and Subscribe buttons
+Only YouTube is linked	Instagram, Facebook, YouTube, LinkedIn and others linked in header and footer
+No visible newsletter sign up	Newsletter sign up on the homepage, in articles and in the footer
+Old content (some from 2014 to 2022) sits prominently	Fresh content leads; older pieces live in an archive
+Keep: our domain, all existing articles and their web addresses, the shop, the Support Us page, the Advertise page and our YouTube videos.
+Inspiration: what to borrow
+Please study these two sites. We are not copying them; we want the same quality, adapted to Kreol's own identity.
+Site	What we like and want to borrow
+Wanderlust
+Large, full width travel photography. A clean header with logo, search, menu and a Subscribe button. A strong magazine issue block with the cover, "View latest issue" and "Subscribe". Themed sections such as "Destination of the month" and "Editors' choice". A destinations area with trending places. Clearly labelled sponsored content.
+Essence
+Warm, people centred storytelling that celebrates culture and community. Portraits and event photography at the heart of the page. A "Trending" strip and a "Latest stories" feed with times shown. Video interviews as a regular format. A short one line summary under every headline. A clear "In the magazine" section for print features.
+For Kreol, this translates to: Wanderlust's beauty and structure for our travel and destination content, combined with Essence's warmth for our profiles, music, food and community stories.
+New menu structure
+The main menu should have seven items, plus Search and a Subscribe button on the right. Submenus stay short.
+Menu item	What sits under it
+People	Profiles, Interviews, Three Wishes
+Culture	History and Heritage, Art, Music, Books and Authors, Creole Inventors
+Travel	Destinations (Louisiana, Seychelles, Mauritius, Haiti, La Réunion and others), Festivals and Events
+Food	Recipes, Food Stories
+Living	Wellbeing, Education, Sport
+Videos	All video interviews and event films
+The Magazine	Latest Issue, Back Issues, Shop, Subscribe, Support Us
+The footer should hold About Us, From the Editor, The Meaning of Creole, Advertise with Us, Contact, Terms, Privacy, Cookies, social links, the newsletter sign up and our company details.
+Homepage layout, section by section
+The homepage should be short and curated, in this order from top to bottom:
+1.	Header: Kreol logo, menu, search, social icons and a Subscribe button.
+2.	Lead story: one large full width photograph with headline, one line summary and category.
+3.	Trending now: a strip of four to six recent stories.
+4.	Latest issue: the cover of the newest print issue, its main cover lines, and Buy, Subscribe and View Issue buttons.
+5.	People: three or four profile portraits, our signature content.
+6.	Destination of the month: one Creole place (for example Louisiana or Seychelles) with three or four stories.
+7.	Videos: a row of video interviews and event films with clear titles.
+8.	Culture, Food and Music: a mixed grid of stories, each with image, headline and one line summary.
+9.	Newsletter sign up: a simple box asking for name and email.
+10.	Partners and advertising: a tasteful space for sponsors, clearly labelled, and a link to Advertise with Us.
+11.	Footer.
+Article pages should have a large lead image, headline, summary, author, date, easy reading text, pull quotes, image galleries, share buttons, related stories at the end and a newsletter sign up.
+Look and feel
+The site should feel elegant, warm, proud and international: a premium magazine, not a blog.
+•	Photography first: large, high quality images of people, places, music and food.
+•	Colours: a clean white or warm cream background with our signature deep red (hex 8B0000) as the accent colour, plus one or two warm supporting tones inspired by the Creole world (ocean, sunset, earth).
+•	Typography: an elegant serif for headlines and reading text (similar in spirit to Georgia), paired with a clean sans serif for menus, labels and buttons.
+•	Space: generous white space and fewer, larger items rather than crowded grids.
+•	Logo: keep the Kreol name; the designer may suggest a light refresh if helpful.
+•	Mobile first: most readers will visit on a phone, so every page must look excellent on mobile.
+Please show us two or three mood boards or homepage design options before building.
+Features and technical requirements
+Must have
+•	Stay on WordPress (unless the designer makes a strong case otherwise), with a modern, well supported theme or custom design.
+•	Move every existing article, image and video across, keeping the same web addresses so Google rankings are not lost; any changed addresses must redirect.
+•	Keep the WooCommerce shop for print issues, back issues and Support Us, with GBP and USD prices.
+•	Newsletter sign up connected to a mailing service (for example Mailchimp).
+•	Fast loading, secure (https everywhere), and good search engine set up.
+•	Accessible to all readers: readable text sizes, good colour contrast, image descriptions.
+•	Cookie notice and privacy pages that meet UK rules.
+•	Clear categories, tags, authors and dates on all stories.
+•	Easy for our team to publish a story, change the lead story and update the latest issue without technical help.
+Nice to have
+•	A digital edition of each issue (flip book or PDF reader) for subscribers.
+•	A Destinations map showing Creole places around the world.
+•	A Read Aloud (audio) button on articles.
+•	Simple advertising spaces we can sell to partners.
+•	Basic visitor statistics (for example Google Analytics).
+Deliverables, timeline and what to send with a quote
+We expect the project to take about 10 to 12 weeks in five stages, with our approval at the end of each one.
+1.	Discovery (week 1 to 2): review the current site and content, agree the plan.
+2.	Design (week 3 to 5): mood boards, then homepage, article page and shop page designs for mobile and desktop.
+3.	Build (week 6 to 9): build the site on a test address, move all content across.
+4.	Testing (week 10): we check every page on phone and computer; fixes made.
+5.	Launch and training (week 11 to 12): go live, set up redirects, train our team, and provide a short written how to guide.
+After launch: please include 30 days of free bug fixes and quote separately for monthly support and maintenance.
+Please send with your quote
+•	Links to two or three magazine or editorial websites you have built.
+•	Your total price, broken down by stage.
+•	Your proposed timeline and availability.
+•	Who will do the work (design, build, or both).
+•	Your suggested theme or platform, and why.</description></item>
 <item><title>Website UI/UX Redesign for an Existing Dating Platform</title><link>https://www.freelancer.com/projects/ui-design/Website-Redesign-for-Existing-Dating</link><guid isPermaLink="false">freelancer:40837011</guid><pubDate>Thu, 26 Nov 2026 12:21:16 GMT</pubDate><description>30-250 USD | I'm looking for an experienced UI/UX designer and web designer to completely redesign my existing dating website.
 
 The website's core functionality is already largely implemented and working. However, the current design and overall user experience are poor and need significant improvement. I want to transform the website into a modern, attractive, professional, and user-friendly platform that encourages visitors to engage and register.
@@ -757,17 +857,6 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
-<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
-
-Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
-
-Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
-
-• upload a fresh file,  
-• ask a question about it minutes later, and  
-• see the answer with a link or snippet that proves where the data came from.
-
-If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
