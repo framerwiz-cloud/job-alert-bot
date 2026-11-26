@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Online Store Development for Physical Products</title><link>https://www.freelancer.com/projects/web-development/Online-Store-Development-for-Physical</link><guid isPermaLink="false">freelancer:40837334</guid><pubDate>Thu, 26 Nov 2026 16:04:27 GMT</pubDate><description>250-750 USD | I'm looking for an experienced developer to create an online store specifically for selling physical products. The store should be user-friendly and feature-rich to enhance the shopping experience.
+
+Key requirements include:
+- Product search and filters
+- Online payments
+- Customer accounts and order tracking
+- Delivery options for both shipping and local pickup
+
+Ideal Skills and Experience:
+- Proven experience in developing e-commerce websites
+- Strong knowledge of payment gateways and secure online transactions
+- Ability to implement comprehensive product search and filtering systems
+- Experience with customer account management and order tracking systems
+- Familiarity with setting up both shipping and local pickup options</description></item>
 <item><title>Redesign Kreol Magazine’s WordPress Experience</title><link>https://www.freelancer.com/projects/content-management-system/Redesign-Kreol-Magazine-WordPress</link><guid isPermaLink="false">freelancer:40837216</guid><pubDate>Thu, 26 Nov 2026 14:45:15 GMT</pubDate><description>250-750 GBP | Kreol Magazine Website Redesign: Brief for a Freelance Designer
 About the project
 
@@ -827,36 +841,6 @@ Ideal Skills and Experience:
 - Knowledge of delivery and pickup logistics integration
 
 Please share your portfolio and relevant experience.</description></item>
-<item><title>Complete FreeScout Helpdesk Configuration</title><link>https://www.freelancer.com/projects/microsoft-365/Complete-FreeScout-Helpdesk</link><guid isPermaLink="false">freelancer:40832550</guid><pubDate>Mon, 23 Nov 2026 23:50:06 GMT</pubDate><description>20-250 GBP | I’m ready to launch a fully branded FreeScout helpdesk for Digitae and need someone who knows the platform inside out to handle the entire build.
-
-Environment &amp; access  
-• FreeScout must be installed on our OVH server and served securely at help.it with a valid SSL certificate, daily encrypted backups, and hardened security settings.  
-• Visual branding, colours, and logo should match our Digitae style so the experience feels native to customers.
-
-Core functionality  
-Microsoft 365 will power email. I want one shared address  that feeds the helpdesk, while staff keep their individual mailboxes for outbound or private replies. FreeScout should generate unique ticket numbers, respect our office-hour SLA rules, and send mobile push notifications.
-
-HubSpot integration  
-HubSpot remains our CRM, but I need FreeScout to create or update HubSpot tickets automatically when new conversations arrive or change state, ensuring full two-way visibility between the systems.
-
-Teams &amp; queues  
-Each of the following groups needs its own helpdesk address and ticket queue so workload and reporting stay separate:  
-• Technical support, sales, and accounts  
-• Technical support, onboarding, and customer success  
-• Technical support, security, and managed services  
-
-Feature set  
-Customer portal, knowledge base, time tracking, CSAT surveys, granular reporting and dashboards all have to be enabled and tested.
-
-Deliverables  
-1. Production-ready FreeScout instance on OVH, fully branded and secured.  
-2. Microsoft 365 mail routing (shared + individual addresses) tested end-to-end.  
-3. HubSpot ticket sync configured and verified.  
-4. Queues and SLAs in place for the three team groups above.  
-5. Documentation covering server specs, backup routine, and a brief user guide.  
-6. Final walk-through and hand-over.
-
-Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
