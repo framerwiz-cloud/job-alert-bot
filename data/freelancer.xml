@@ -3,23 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>AI-Enhanced Portfolio Website Build</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Enhanced-Portfolio-Website-Build</link><guid isPermaLink="false">freelancer:40837156</guid><pubDate>Thu, 26 Nov 2026 14:02:33 GMT</pubDate><description>1500-3000 USD | I’m rebuilding my company’s public-facing site from the ground up and need everything handled end-to-end—visual design, full-stack development, and a small but smart AI layer.  
-
-Core experience I want for visitors  
-• They can browse a clean portfolio section that showcases my work, services, and background.  
-• A simple contact area lets them request a quote or reach out directly.  
-• An embedded AI chat assistant greets them, collects the project details I normally ask for, and packages that information so I receive a ready-to-review quote request.
-
-What I need from you  
-1. Design a modern, responsive interface that reflects a professional services brand.  
-2. Build the front-end and back-end, wire them together, and connect to my preferred hosting or cloud. Frameworks and languages are flexible as long as they are mainstream and maintainable.  
-3. Integrate the AI feature—whether through OpenAI, a custom model, or another reliable API—so it can guide the user, ask follow-up questions, and hand off the collected data in a structured format (JSON or database entry).  
-4. Provide basic admin access so I can update portfolio items and view incoming leads.
-
-Acceptance criteria  
-• Site loads quickly on mobile and desktop.  
-• AI chat captures name, email, project scope, timeline, and budget and displays it in my dashboard or sends an email summary.  
-• Code is clean, documented, and handed over in a version-controlled repository.</description></item>
 <item><title>Website UI/UX Redesign for an Existing Dating Platform</title><link>https://www.freelancer.com/projects/ui-design/Website-Redesign-for-Existing-Dating</link><guid isPermaLink="false">freelancer:40837011</guid><pubDate>Thu, 26 Nov 2026 12:21:16 GMT</pubDate><description>30-250 USD | I'm looking for an experienced UI/UX designer and web designer to completely redesign my existing dating website.
 
 The website's core functionality is already largely implemented and working. However, the current design and overall user experience are poor and need significant improvement. I want to transform the website into a modern, attractive, professional, and user-friendly platform that encourages visitors to engage and register.
@@ -774,6 +757,17 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
+<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
+
+Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
+
+Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
+
+• upload a fresh file,  
+• ask a question about it minutes later, and  
+• see the answer with a link or snippet that proves where the data came from.
+
+If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
