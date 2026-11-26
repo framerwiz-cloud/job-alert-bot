@@ -3,6 +3,38 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Custom WordPress Package Builder</title><link>https://www.freelancer.com/projects/frontend-development/Custom-WordPress-Package-Builder</link><guid isPermaLink="false">freelancer:40837008</guid><pubDate>Thu, 26 Nov 2026 12:19:36 GMT</pubDate><description>20-250 GBP | DO NOT BID UNLESS YOU HAVE READ THE PROJECT IN FULL.
+
+I need a fully-integrated package-builder added to my existing WordPress site (no e-commerce). The goal is to let visitors mix and match options, see one combined preview image update in real time, and watch the total price refresh alongside it.  
+
+When they’re happy with their selection, the builder should:  
+• display the final price and the live preview;  
+• collect their name, email address and an open message field;  
+• automatically email the full summary (options chosen, price, preview image) to both the customer and me.  
+
+I’ll supply a screenshot plus private links to two competitor sites that already offer almost exactly what I want. Your job is to replicate the same smooth functionality while adapting the visuals, option list and pricing so we are clearly distinct.  
+
+Key points to cover:  
+• Works seamlessly inside WordPress—use a custom plugin, React/JS overlay, or another robust method you’re confident supporting.  
+• Clean, responsive front-end that inherits my theme styling but can be tweaked easily in CSS.  
+• Admin panel where I can add or edit option names, prices and the images used for the layered preview.  
+• Instant image compositing—no page reloads.  
+• Reliable email dispatch using WP Mail, SMTP or a service you recommend.  
+
+Please quote your final, all-inclusive price; I’m not open to mid-project increases. Confirm you’ve built a similar dynamic configurator before and outline the tools or libraries you plan to use so I know the approach is solid.</description></item>
+<item><title>Informative Portfolio Website Design</title><link>https://www.freelancer.com/projects/web-design/Informative-Portfolio-Website-Design</link><guid isPermaLink="false">freelancer:40837000</guid><pubDate>Thu, 26 Nov 2026 12:16:11 GMT</pubDate><description>250-750 USD | I need a clean, modern website that lets me publish articles, showcase my portfolio, and briefly present the services I offer. The core goal is to inform visitors and build credibility, so the layout must make reading and browsing visual work effortless on desktop and mobile alike.
+
+Key interactions are simple: every page should funnel users toward a clear “Contact / Request a Quote” form. While I am not taking payments online yet, the structure should leave room to add appointment-booking or other service-based features later without a complete rebuild.
+
+Please build on a user-friendly CMS such as WordPress, Webflow, or a comparable platform so I can add new posts and projects myself. Speed optimisation, basic on-page SEO, and responsive testing are expected parts of the job.
+
+Deliverables
+• Fully-designed, responsive website (home, articles/blog, portfolio gallery, services overview, contact page with form)  
+• CMS set-up with clear instructions for adding content  
+• Two rounds of design revisions after the first prototype  
+• Launch support and post-launch bug fix window (1-2 weeks)
+
+If this matches your skill set, I’m ready to move forward quickly.</description></item>
 <item><title>Online Education Supplies Store Setup</title><link>https://www.freelancer.com/projects/ui-design/Online-Education-Supplies-Store-Setup</link><guid isPermaLink="false">freelancer:40836812</guid><pubDate>Thu, 26 Nov 2026 10:02:58 GMT</pubDate><description>250-750 GBP | I'm looking to set up a comprehensive online store dedicated to selling a wide range of educational supplies. Our primary clientele will be schools and businesses. 
 
 The store should feature:
@@ -711,47 +743,6 @@ Ideal Skills and Experience:
 - Knowledge of delivery and pickup logistics integration
 
 Please share your portfolio and relevant experience.</description></item>
-<item><title>Complete FreeScout Helpdesk Configuration</title><link>https://www.freelancer.com/projects/microsoft-365/Complete-FreeScout-Helpdesk</link><guid isPermaLink="false">freelancer:40832550</guid><pubDate>Mon, 23 Nov 2026 23:50:06 GMT</pubDate><description>20-250 GBP | I’m ready to launch a fully branded FreeScout helpdesk for Digitae and need someone who knows the platform inside out to handle the entire build.
-
-Environment &amp; access  
-• FreeScout must be installed on our OVH server and served securely at help.it with a valid SSL certificate, daily encrypted backups, and hardened security settings.  
-• Visual branding, colours, and logo should match our Digitae style so the experience feels native to customers.
-
-Core functionality  
-Microsoft 365 will power email. I want one shared address  that feeds the helpdesk, while staff keep their individual mailboxes for outbound or private replies. FreeScout should generate unique ticket numbers, respect our office-hour SLA rules, and send mobile push notifications.
-
-HubSpot integration  
-HubSpot remains our CRM, but I need FreeScout to create or update HubSpot tickets automatically when new conversations arrive or change state, ensuring full two-way visibility between the systems.
-
-Teams &amp; queues  
-Each of the following groups needs its own helpdesk address and ticket queue so workload and reporting stay separate:  
-• Technical support, sales, and accounts  
-• Technical support, onboarding, and customer success  
-• Technical support, security, and managed services  
-
-Feature set  
-Customer portal, knowledge base, time tracking, CSAT surveys, granular reporting and dashboards all have to be enabled and tested.
-
-Deliverables  
-1. Production-ready FreeScout instance on OVH, fully branded and secured.  
-2. Microsoft 365 mail routing (shared + individual addresses) tested end-to-end.  
-3. HubSpot ticket sync configured and verified.  
-4. Queues and SLAs in place for the three team groups above.  
-5. Documentation covering server specs, backup routine, and a brief user guide.  
-6. Final walk-through and hand-over.
-
-Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
-<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
-
-Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
-
-Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
-
-• upload a fresh file,  
-• ask a question about it minutes later, and  
-• see the answer with a link or snippet that proves where the data came from.
-
-If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
