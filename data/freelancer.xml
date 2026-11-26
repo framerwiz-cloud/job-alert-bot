@@ -3,15 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>One-Page Team Introduction Website</title><link>https://www.freelancer.com/projects/web-development/One-Page-Team-Introduction-Website</link><guid isPermaLink="false">freelancer:40837046</guid><pubDate>Thu, 26 Nov 2026 12:43:24 GMT</pubDate><description>250-750 USD | I want a clean, single-page site that quickly introduces our company and lets visitors dive straight into learning about each team member. The flow I have in mind is straightforward: a fixed top bar for quick navigation, a bold hero section that states who we are, a short introduction block, an engaging teammates section, and a concise footer with basic info and links.
-
-Key deliverables:
-• Responsive HTML/CSS (or a lightweight framework you prefer) covering the five sections above  
-• Smooth in-page navigation from the top bar to each section  
-• A teammate area that highlights photos, roles, and short bios in an accessible, mobile-friendly layout  
-• Clear, commented code so my in-house designer can tweak colors and text later
-
-After hand-off I should be able to drop the files on our server, change copy or images in seconds, and go live without extra setup. If you can add a touch of subtle animation or micro-interactions without bloating the page weight, that will be a bonus.</description></item>
 <item><title>Website UI/UX Redesign for an Existing Dating Platform</title><link>https://www.freelancer.com/projects/ui-design/Website-Redesign-for-Existing-Dating</link><guid isPermaLink="false">freelancer:40837011</guid><pubDate>Thu, 26 Nov 2026 12:21:16 GMT</pubDate><description>30-250 USD | I'm looking for an experienced UI/UX designer and web designer to completely redesign my existing dating website.
 
 The website's core functionality is already largely implemented and working. However, the current design and overall user experience are poor and need significant improvement. I want to transform the website into a modern, attractive, professional, and user-friendly platform that encourages visitors to engage and register.
@@ -766,6 +757,17 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
+<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
+
+Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
+
+Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
+
+• upload a fresh file,  
+• ask a question about it minutes later, and  
+• see the answer with a link or snippet that proves where the data came from.
+
+If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
