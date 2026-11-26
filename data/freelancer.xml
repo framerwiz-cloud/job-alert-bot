@@ -3,6 +3,23 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Shopify Homepage &amp; Retailer Updates</title><link>https://www.freelancer.com/projects/web-design/Shopify-Homepage-Retailer-Updates</link><guid isPermaLink="false">freelancer:40836090</guid><pubDate>Thu, 26 Nov 2026 00:27:13 GMT</pubDate><description>30-250 AUD | I’m ready to give my Shopify store a polished, high-end look while tidying up a couple of content chores.
+
+Paying $60 AUD
+
+First, I need the “Find a Retailer” page updated with a fresh list of stockists. Just drop in the new retailers, make sure addresses are correct, and confirm they display cleanly on the page (map pins or a well-formatted list—whatever matches the current setup).
+
+Second, I have a new item that belongs under an existing product listing. images, pricing, and copy so it flows seamlessly with the current product family and inherits the theme’s styling.
+
+Finally—and most importantly—I want the home page redesigned so that the brand feels elegant and luxurious with refined details. The goal is to elevate perceived value, not shout about discounts. Here’s the creative scope:
+
+• Refresh the hero banner and supporting imagery with striking, on-brand visuals.  
+• Rework product highlight sections and their calls to action so they guide shoppers naturally to purchase.  
+• Tweak the entire layout, colour palette, typography, and any visual accents until the page reads premium, professional, and cohesive.  
+
+Subtle animations, generous white space, and a performance-minded build are all welcome. Liquid, CSS, and any Shopify 2.0 customisations should stay organised so I can adjust copy and assets later without digging through code.
+
+When you reply, please share two or three live Shopify sites you’ve built in a luxury or high-end niche, indicate your turnaround time, and flag any theme or app dependencies you expect. I’ll supply product assets and retailer details as soon as we start.</description></item>
 <item><title>Eselt WooCommerce eBay Setup</title><link>https://www.freelancer.com/projects/api/Eselt-WooCommerce-eBay-Setup</link><guid isPermaLink="false">freelancer:40836012</guid><pubDate>Wed, 25 Nov 2026 23:00:04 GMT</pubDate><description>250-750 AUD | I need an experienced hand to get my WooCommerce store talking smoothly with eBay through the Eselt plugin. The very first task is a clean installation of the plugin and a reliable connection to my site. Because I don’t yet have an eBay seller account, you’ll also walk me through creating and verifying one for eBay Australia, then link it to WooCommerce via Eselt’s API token.
 
 After the accounts are connected I want an initial synchronisation so every existing WooCommerce product is pushed live to eBay AU with accurate titles, categories, pricing, stock levels and shipping profiles. If any product fails to list or throws an error, please adjust the settings or mapping until it is accepted.
