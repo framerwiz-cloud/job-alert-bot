@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>InkSoft Private Stores Setup</title><link>https://www.freelancer.com/projects/web-development/InkSoft-Private-Stores-Setup</link><guid isPermaLink="false">freelancer:40837470</guid><pubDate>Thu, 26 Nov 2026 17:47:13 GMT</pubDate><description>15-25 USD/hr | I operate a busy screen-printing and embroidery shop and I’m ready to move our school, team, and corporate programs onto InkSoft. All logos, artwork, product lists, and pricing are finalized; what I need is an InkSoft specialist who can transform those assets into fully functional, invitation-only webstores.
+
+Here’s the scope:
+
+• Design &amp; branding – apply each group’s colors, logos, and header graphics so every store feels tailor-made.  
+• Products &amp; pricing – load the catalog we supply, set size and color variants, attach decoration methods, and confirm prices display exactly as provided.  
+• Access &amp; ordering – configure customer groups, password or link-only entry, order windows, and checkout rules so that only authorized shoppers can place orders and all data feeds cleanly into production.
+
+We’ll start with one pilot store; once that’s approved, the process will repeat for a dozen more.
+
+Acceptance criteria
+• Store matches provided brand assets on desktop and mobile.  
+• Product pages show correct imagery, options, and accurate pricing.  
+• Order flow limits access to the intended audience and exports clear data for production reports.
+
+If you work quickly inside the current InkSoft storefront builder and can hit these marks the first time, let’s get started.</description></item>
 <item><title>Full Website Revamp &amp; Payments Integration</title><link>https://www.freelancer.com/projects/web-design/Full-Website-Revamp-Payments-Integration</link><guid isPermaLink="false">freelancer:40837459</guid><pubDate>Thu, 26 Nov 2026 17:39:01 GMT</pubDate><description>30-250 CAD | I need my existing site overhauled from top to bottom and live again within 48 hours. The priority is a fresh, mobile-first look—new layout, updated copy, optimised images, faster load times—across every page, not just the home screen. 
 
 Once the visual side is locked, the site must start taking payments. I have not finalised the gateway, so please be ready to wire in Stripe, PayPal or Razorpay as soon as I confirm the choice. Build the checkout flow with clean, modular code so a swap is painless if I ever change providers.
