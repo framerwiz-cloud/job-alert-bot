@@ -3,6 +3,36 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Replicate Canva Business Card into a One-Page Website</title><link>https://www.freelancer.com/projects/web-design/Replicate-Canva-Business-Card-into</link><guid isPermaLink="false">freelancer:40836596</guid><pubDate>Thu, 26 Nov 2026 07:32:41 GMT</pubDate><description>30-250 USD | I already have an AI-designed card in Canva that captures my brand’s colours, fonts, and overall vibe. I now need that look translated into a clean, single-scroll web page whose primary purpose is to explain what the business does.  
+
+Here is what I’m after:  
+• Keep the exact colour palette, logo placement, and general styling from the card, but lay it out in a web-friendly, responsive format.  
+• Place the business name prominently, followed by 5–10 short text lines or bullet points that clearly state the proposition.  
+• Show an email address and a simple contact form (name, email, message) so visitors can reach out without leaving the page.  
+• Smooth scrolling, tidy spacing, and fast load times on both desktop and mobile.  
+
+I will supply the Canva file/brand template, logo assets, and final text. You handle the build—HTML/CSS or a lightweight builder is fine as long as it stays faithful to the design, looks sharp across devices, and is easy for me to edit later if I tweak the copy.  
+
+When you’re done, I’d like the finished page files and any instructions needed to upload to my hosting.</description></item>
+<item><title>Website QA &amp; Workflow Assistant</title><link>https://www.freelancer.com/projects/project-management/Website-Workflow-Assistant</link><guid isPermaLink="false">freelancer:40836585</guid><pubDate>Thu, 26 Nov 2026 07:32:21 GMT</pubDate><description>250-750 USD | I handle all client communication for the websites I build, but I need a reliable assistant working quietly in the background to keep each project running smoothly.
+
+Your first priority will be to open every draft site on both desktop and mobile and give it a thorough pre-client check. I want absolute confidence that links, forms, and other basic functions behave exactly as expected. Buttons, menus, and page-to-page links must be clicked, tapped, and tested until nothing breaks.
+
+Beyond that immediate QA pass, you will:
+
+• Turn my meeting notes and client feedback into clear, actionable tasks for the designer, writer, and developer.  
+• Keep logos, brand guidelines, images, and copy in a tidy, version-controlled folder structure so the team can always grab the latest approved file.  
+• Track deadlines and revision rounds, flagging any missing assets, blockers, or unanswered questions so I can raise them with the client quickly.  
+• Send me concise status snapshots that highlight what’s ready for review and where I need to step in.
+
+Deliverables for each website:
+
+1. A QA report confirming every link, form, button, menu, and critical function passes on both desktop and mobile.  
+2. A task board (Trello, Asana, or similar) populated with next-step items for the team.  
+3. A neatly organized asset folder, clearly labeled and dated.  
+4. A one-page weekly summary outlining progress, blockers, and upcoming deadlines.
+
+If you enjoy methodically spotting issues before clients ever see them and can keep a fast-moving project organized from first mock-up to final launch, we’ll work well together.</description></item>
 <item><title>Branded Restaurant Websites for Multiple Locations</title><link>https://www.freelancer.com/projects/web-development/Branded-Restaurant-Websites-for-Multiple</link><guid isPermaLink="false">freelancer:40836425</guid><pubDate>Thu, 26 Nov 2026 05:46:05 GMT</pubDate><description>250-750 USD | I’m looking for a web developer to build websites for multiple restaurants. Each site should reflect the restaurant’s own brand and make it easy for guests to browse the menu, check opening hours, get directions, and call from their phones. Restaurant staff should be able to update prices, change holiday hours, and add specials without hiring a developer.
 
 Scope of Work
@@ -739,77 +769,6 @@ Ideal candidate:
 * Able to work independently and deliver within an agreed timeframe.
 
 This is a paid freelance project. Please get in touch with examples of previous Shopify migration projects, your availability and an estimated quote.</description></item>
-<item><title>Automate Legal Documents on WordPress</title><link>https://www.freelancer.com/projects/n8n/Automate-Legal-Documents-WordPress</link><guid isPermaLink="false">freelancer:40831734</guid><pubDate>Mon, 23 Nov 2026 12:04:51 GMT</pubDate><description>250-750 AUD | Project Brief: Automated Legal Document Production System
-Project Overview
-We are looking for an experienced developer to build a simple, cost-effective automated legal document production system for an existing law firm.
-Important: We already have an existing WordPress website. We do NOT need a new website built.
-The project involves adding legal services and fixed-fee document packages to the existing WordPress website, allowing clients to purchase services, complete online questionnaires, upload supporting documents and receive professionally prepared legal documents following solicitor approval.
-We need Stripe integrated into the existing website so clients can select a service, make payment and complete the required onboarding process.
-We have a strict project budget and are looking for someone who can deliver a practical, reliable solution without unnecessary complexity or expensive custom development.
-Required Workflow
-Existing WordPress website: Add legal services and fixed-fee document packages to the existing website, including service descriptions, pricing and inclusions.
-Online purchasing: Integrate Stripe into the existing WordPress website so clients can purchase their selected legal service.
-Questionnaire: Following service selection, clients complete an online questionnaire and upload relevant supporting documents.
-CRM integration and conflict checks: Connect to the firm's existing SILQ CRM to identify existing clients, check relevant parties for potential conflicts and flag potential matches for solicitor review. New client details and approved matters must be saved in SILQ. Conflicts must not be automatically cleared by AI.
-Engagement and payment: Client receives the relevant costs agreement, accepts the terms and completes payment through Stripe. Matter acceptance and payment must be verified before document production begins.
-Automation: n8n triggers the workflow following verified payment and the required matter acceptance checks.
-AI processing: OpenAI extracts and structures client information, while Claude prepares documents using approved legal templates and instructions.
-Document generation: Generate professionally formatted, branded and fully editable Microsoft Word (.docx) and PDF documents.
-Solicitor review: Provide a simple, secure interface where solicitors can review documents, download Word/PDF versions, manually edit Word documents and upload revised versions.
-AI amendments: Solicitors can request AI amendments or make their own manual changes. All document versions must be retained.
-Final approval: A solicitor must explicitly approve the final document before it can be released.
-Client delivery: Automatically deliver the approved document securely by email.
-Feedback: Send an automated client feedback or review request.
-Required Technology
-We would prefer to use existing services and avoid unnecessary custom software development.
-WordPress: Existing website. Add services, purchasing functionality and questionnaires.
-Stripe: Payment processing integrated into the existing website.
-n8n: Workflow automation.
-SILQ: Existing CRM and legal practice management system.
-OpenAI API: Information extraction.
-Claude API: Legal document drafting.
-Microsoft Word (.docx) and PDF: Document generation.
-Important Requirements
-Work with our existing WordPress website. Do not rebuild it.
-Add legal services and fixed-fee packages to the existing website.
-Allow clients to purchase services, complete questionnaires and upload documents online.
-Integrate Stripe for secure payments.
-Integrate with the firm's existing SILQ CRM. Do not build another CRM.
-Support client searches, potential conflict identification and new client/matter creation, subject to SILQ API capabilities.
-Maintain secure document storage and client confidentiality.
-Provide downloadable and editable Word documents.
-Allow solicitors to manually amend and re-upload documents.
-Maintain document version history.
-Require solicitor approval before documents are sent to clients.
-Include basic error handling and workflow notifications.
-Budget, Scope and Proposal
-We have a strict budget for this project and are looking for the most affordable practical solution.
-If you are interested in bidding, please provide:
-Your best fixed-price quote for delivering the project.
-A clear breakdown of exactly what is included in your proposed scope.
-Your estimated development timeframe and delivery milestones.
-Any additional ongoing costs, including hosting, API usage, subscriptions or third-party services.
-Confirmation that you have experience with WordPress, Stripe, n8n, API integrations, AI document generation and CRM integrations.
-Any recommendations for simplifying the implementation or reducing costs without compromising essential functionality.
-Please distinguish between essential functionality and optional enhancements.
-We are open to practical alternatives if they achieve the same outcome at a lower cost.
-Our preference is a straightforward, reliable and affordable solution that builds on our existing WordPress website rather than creating an entirely new platform.</description></item>
-<item><title>20-Page WordPress Business Website</title><link>https://www.freelancer.com/projects/web-development/Page-WordPress-Business-Website-40831688</link><guid isPermaLink="false">freelancer:40831688</guid><pubDate>Mon, 23 Nov 2026 11:26:12 GMT</pubDate><description>250-750 USD | I need a complete WordPress build for a 20-page company site Eng and Arabic Lanuage. The core structure is already mapped out and I have part of the copy, a logo, and several images ready; the rest of the wording and stock photos will have to be created in collaboration as we go.
-
-Essentials for the build include an interactive contact form with an embedded map, dedicated service pages—each featuring a straightforward quote-request form—and all the usual company pages (home, about, blog/news, etc.). Every page must load quickly, look sharp on mobile, and follow basic on-page SEO best practices.
-
-Security is non-negotiable: once the site is finished I want it hardened with SSL, brute-force protection, reCAPTCHA on forms, malware scanning, and a final verification that everything is locked down before launch.
-
-Deliverables
-• Custom or well-tailored premium WordPress theme  
-• 20 fully designed, responsive pages populated with agreed-upon content  
-• Contact form + Google Map integration  
-• Service pages with individual quote-request forms  
-• Complete security hardening and verification report  
-• Basic SEO setup (titles, meta, schema where applicable)  
-• One-page handover guide covering updates and backups  
-
-Please allow for a short round of revisions after the first full draft so the final site aligns perfectly with our brand voice and visuals.</description></item>
 <item><title>WordPress SEO &amp; Lead Automation Specialist</title><link>https://www.freelancer.com/projects/lead-generation/WordPress-SEO-Lead-Automation-Specialist</link><guid isPermaLink="false">freelancer:40830862</guid><pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate><description>15-20 AUD/hr | Freelance Website, SEO and Lead Generation Support
 
 Assurance HR Management | Ongoing freelance work | 10–15 hours per week | Up to AUD $20 per hour
