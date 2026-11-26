@@ -32,17 +32,6 @@ What I need from you
 • All editable source files (Figma / Adobe XD / Illustrator), neatly organised
 
 I’m happy to share wireframes, copy and any other content you need once we start. Let me know your preferred design tools, a rough timeline for each phase, and links to similar modern-professional work you’ve completed. Looking forward to collaborating and building something we’re both proud to showcase.</description></item>
-<item><title>Replicate Canva Business Card into a One-Page Website</title><link>https://www.freelancer.com/projects/web-design/Replicate-Canva-Business-Card-into</link><guid isPermaLink="false">freelancer:40836596</guid><pubDate>Thu, 26 Nov 2026 07:32:41 GMT</pubDate><description>30-250 USD | I already have an AI-designed card in Canva that captures my brand’s colours, fonts, and overall vibe. I now need that look translated into a clean, single-scroll web page whose primary purpose is to explain what the business does.  
-
-Here is what I’m after:  
-• Keep the exact colour palette, logo placement, and general styling from the card, but lay it out in a web-friendly, responsive format.  
-• Place the business name prominently, followed by 5–10 short text lines or bullet points that clearly state the proposition.  
-• Show an email address and a simple contact form (name, email, message) so visitors can reach out without leaving the page.  
-• Smooth scrolling, tidy spacing, and fast load times on both desktop and mobile.  
-
-I will supply the Canva file/brand template, logo assets, and final text. You handle the build—HTML/CSS or a lightweight builder is fine as long as it stays faithful to the design, looks sharp across devices, and is easy for me to edit later if I tweak the copy.  
-
-When you’re done, I’d like the finished page files and any instructions needed to upload to my hosting.</description></item>
 <item><title>Website QA &amp; Workflow Assistant</title><link>https://www.freelancer.com/projects/project-management/Website-Workflow-Assistant</link><guid isPermaLink="false">freelancer:40836585</guid><pubDate>Thu, 26 Nov 2026 07:32:21 GMT</pubDate><description>250-750 USD | I handle all client communication for the websites I build, but I need a reliable assistant working quietly in the background to keep each project running smoothly.
 
 Your first priority will be to open every draft site on both desktop and mobile and give it a thorough pre-client check. I want absolute confidence that links, forms, and other basic functions behave exactly as expected. Buttons, menus, and page-to-page links must be clicked, tapped, and tested until nothing breaks.
@@ -752,6 +741,17 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
+<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
+
+Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
+
+Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
+
+• upload a fresh file,  
+• ask a question about it minutes later, and  
+• see the answer with a link or snippet that proves where the data came from.
+
+If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
