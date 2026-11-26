@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Online Education Supplies Store Setup</title><link>https://www.freelancer.com/projects/ui-design/Online-Education-Supplies-Store-Setup</link><guid isPermaLink="false">freelancer:40836812</guid><pubDate>Thu, 26 Nov 2026 10:02:58 GMT</pubDate><description>250-750 GBP | I'm looking to set up a comprehensive online store dedicated to selling a wide range of educational supplies. Our primary clientele will be schools and businesses. 
+
+The store should feature:
+- Categories for school stationery, teaching aids, lab equipment, and larger school items
+- User-friendly navigation and robust search functionality
+- Secure payment gateway integration
+- Inventory management system
+- Responsive design for mobile and tablet access
+
+Ideal Skills &amp; Experience:
+- E-commerce development experience
+- Familiarity with inventory management systems
+- Strong UI/UX design skills
+- Experience with secure payment integrations</description></item>
 <item><title>Recruiting Senior Development Team</title><link>https://www.freelancer.com/projects/web-development/Recruiting-Senior-Development-Team</link><guid isPermaLink="false">freelancer:40836704</guid><pubDate>Thu, 26 Nov 2026 08:46:41 GMT</pubDate><description>50+ USD/hr | Delineate is scaling rapidly, and I am coordinating the search for seasoned talent to strengthen our product lines. My immediate focus is on senior-level engineers who can own web front-end builds, craft robust mobile apps, and design or tune complex backend and database layers. Your background should show hands-on leadership, production releases, and an ability to collaborate across design and project-management functions—we have parallel openings for UI/UX and management, so cross-disciplinary communication matters.
 
 If you join us, you will step straight into feature work on active platforms, shaping architecture decisions rather than simply following tickets. Please share a concise portfolio link or repo, a brief summary of the tech stacks where you excel, and your typical availability. I review submissions daily and will invite the strongest matches to a short technical chat followed by a practical code exercise.</description></item>
@@ -738,17 +752,6 @@ Deliverables
 6. Final walk-through and hand-over.
 
 Let me know your relevant FreeScout deployments, the estimated cost, and how long you need to complete everything. I’m looking to move quickly once I find the right fit.</description></item>
-<item><title>AI-Powered Company Wiki</title><link>https://www.freelancer.com/projects/ai-chatbot-development/Powered-Company-Wiki</link><guid isPermaLink="false">freelancer:40832196</guid><pubDate>Mon, 23 Nov 2026 17:59:09 GMT</pubDate><description>250-750 GBP | I want to spin up a lightweight but reliable internal wiki that answers any employee’s questions instantly, using the content we already store in PDFs, Word docs, and spreadsheets. My preferred engines are Claude and ChatGPT; whichever model we use, the end result should let every team member type a question in plain language and get a clear, cited answer drawn directly from those source files.
-
-Here’s the flow I picture: I drop new documents into a folder or storage bucket, your code ingests and indexes them, and the chat front-end (simple web page is fine) returns answers with references back to the original pages or cells. Role-based access is straightforward because everyone in the company has the same rights, but I still need basic authentication tied to our Google Workspace for convenience.
-
-Please build the ingestion pipeline, embed retrieval with vectors or another efficient technique, connect it to either the Claude or OpenAI API, and wrap it in a clean UI. I’ll consider the job complete when I can:
-
-• upload a fresh file,  
-• ask a question about it minutes later, and  
-• see the answer with a link or snippet that proves where the data came from.
-
-If you’ve done similar document-based chatbots or knowledge bases, let me know; sample links or short demos will help me decide quickly.</description></item>
 <item><title>Wix Site Update and Training</title><link>https://www.freelancer.com/projects/web-design/Wix-Site-Update-Training</link><guid isPermaLink="false">freelancer:40832176</guid><pubDate>Mon, 23 Nov 2026 17:32:08 GMT</pubDate><description>25-50 USD/hr | I need assistance updating and organizing my Wix site. I'm looking for someone who can not only help with the updates but also teach me how to use the Wix app on my computer.
 
 Key tasks include:
