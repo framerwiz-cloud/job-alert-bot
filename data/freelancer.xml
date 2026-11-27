@@ -183,94 +183,6 @@ Responsibilities include developing the website structure and functionality, imp
 The ideal candidate should have strong experience in e-commerce website development, frontend and backend technologies, database management, and API integrations. Experience with platforms such as WooCommerce, Shopify, Magento, or PrestaShop is highly desirable.
 
 Please share examples of e-commerce websites you have built and briefly describe your preferred development approach and technical expertise.</description></item>
-<item><title>Build a Modern, Responsive Business Website with Digital Product Sales</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Responsive-Business-Website</link><guid isPermaLink="false">freelancer:40838327</guid><pubDate>Fri, 27 Nov 2026 07:53:11 GMT</pubDate><description>250-750 USD | Project Overview
-
-I’m looking for an experienced web developer to design and develop a modern, professional, and fully responsive website for my business.
-
-The website should showcase my business, explain our services, and allow visitors to purchase digital products directly from the site, including downloadable files, digital resources, and online courses.
-
-I want a clean, user-friendly website that looks professional, performs well, and makes managing content and digital products easy without requiring coding knowledge.
-
- Key Requirements
-
-1. Modern Website Design
-- Clean, professional, and visually appealing design.
-- Consistent branding that highlights the business and its services.
-- Fully responsive layout for desktop, tablet, and mobile devices.
-- Easy navigation and user-friendly experience.
-
-2. Digital Product E-Commerce Functionality
-- Dedicated product pages with descriptions, images, and pricing.
-- Shopping cart and secure checkout functionality.
-- Support for selling downloadable digital files and online courses.
-- Automatic delivery of purchased files or course access.
-- Basic license management or restricted access to purchased products.
-- Integration with reliable payment gateways.
-
-**3. Content Management System (CMS)
-- Easy-to-use admin dashboard.
-- Ability to add, edit, and remove website pages and content.
-- Ability to upload and manage digital products.
-- No coding required for routine website updates.
-
-4. Performance and SEO
-- Fast-loading and performance-optimized pages.
-- Mobile-first development.
-- SEO-friendly website structure and basic on-page SEO.
-- Google Analytics and Google Search Console integration.
-
-5. Website Launch and Support
-- Domain connection and website deployment.
-- Basic testing across desktop and mobile devices.
-- Testing of the complete purchase and digital delivery process.
-- Admin login credentials.
-- A short video tutorial or walkthrough explaining how to manage the website and add new products.
-
-Preferred Technologies
-
-I’m flexible with the technology stack, but I prefer established platforms such as:
-
-- WordPress + WooCommerce
-- Shopify
-- Other suitable platforms for digital product sales.
-
-Feel free to recommend an alternative solution if it provides the required functionality, security, performance, and ease of management.
-
-Project Deliverables
-
-The completed project should include:
-
-1. A fully functional, modern, responsive business website.
-2. Digital product listings with working shopping cart and checkout.
-3. Secure payment processing and automatic digital product delivery.
-4. A user-friendly CMS and admin dashboard.
-5. Basic SEO configuration and Google Analytics/Search Console setup.
-6. Domain connection and live website deployment.
-7. Admin credentials and a short management tutorial.
-
-Acceptance Criteria
-
-The project will be considered complete when:
-- The website passes a usability review on desktop and mobile.
-- A test purchase of a digital product works successfully.
-- Purchased digital products are delivered automatically or course access is granted immediately.
-- All major website features work as expected.
-- I receive administrator access and instructions for managing the website independently.
-
-What I’m Looking For
-
-I’m looking for a reliable developer with experience in website design, WordPress, WooCommerce, and digital product e-commerce.
-
-Please include the following in your proposal:
-
-- Examples of similar websites you have developed.
-- Your recommended platform and why you recommend it.
-- Your estimated delivery time.
-- A brief explanation of how you would approach this project.
-
-My goal is to build a professional, scalable website that showcases my business and provides a smooth experience for customers purchasing digital products.
-
-I look forward to reviewing your proposals!</description></item>
 <item><title>Packages Delivery Web App</title><link>https://www.freelancer.com/projects/php/Packages-Delivery-Web-App</link><guid isPermaLink="false">freelancer:40838244</guid><pubDate>Fri, 27 Nov 2026 06:46:23 GMT</pubDate><description>250-750 USD | I’m setting up a same-day courier service for small packages and documents and need a straightforward digital ordering tool. Customers must be able to open a web page or mobile app, type the pickup and drop-off addresses, add contact details, hit “Send,” and instantly create a delivery request.  
 
 On my side, the request should land in a simple dashboard (or even an email feed at first) where I can view job details, assign a driver, and mark each stage as accepted, picked up, and delivered. Any modern stack you’re comfortable with is fine—React, Flutter, Laravel, Node, or similar—as long as the code is clean and the form loads quickly on both desktop and phone screens.
@@ -873,6 +785,36 @@ Finally—and most importantly—I want the home page redesigned so that the bra
 Subtle animations, generous white space, and a performance-minded build are all welcome. Liquid, CSS, and any Shopify 2.0 customisations should stay organised so I can adjust copy and assets later without digging through code.
 
 When you reply, please share two or three live Shopify sites you’ve built in a luxury or high-end niche, indicate your turnaround time, and flag any theme or app dependencies you expect. I’ll supply product assets and retailer details as soon as we start.</description></item>
+<item><title>Build B2B Wholesale Ordering Portal wordPress</title><link>https://www.freelancer.com/projects/b2b-marketing/Build-Wholesale-Ordering-Portal</link><guid isPermaLink="false">freelancer:40835904</guid><pubDate>Wed, 25 Nov 2026 21:07:13 GMT</pubDate><description>20-250 GBP | WordPress B2B Wholesale Ordering Portal (Phased Build)
+
+Project Summary:
+We are upgrading an existing live WordPress site into a private, gated B2B wholesale ordering portal for a poultry and egg supplier in Southern Africa. Wholesale pricing and ordering must be restricted to verified business buyers, support local currency (NAD / N$) and 15% VAT rules, enable fast bulk ordering, and automate order alerts and back-office workflows across structured phases.
+All client, business, pricing, and buyer details are strictly confidential. We are looking for quotes broken down clearly by phase so we can review scope, timelines, and milestones.
+
+Phase Breakdown:
+ * Phase 1 — Gated B2B Portal, Bulk Ordering &amp; Instant Alerts
+   * Clone the live WordPress site to a private staging environment with zero downtime to the live site.
+   * Build a B2B registration workflow capturing company details, business registration numbers, and VAT/tax IDs, with a manual admin approval step (pending vs. approved) that gates wholesale pricing and checkout.
+   * Configure NAD / N$ currency, 15% VAT calculation, product listings (SKUs, pack sizes, stock status, and minimum order quantities), and a fast spreadsheet/matrix-style bulk order sheet.
+   * Set up Direct Bank Transfer (EFT) checkout, automated order confirmation emails to buyers and internal office/accounts addresses, and real-time mobile/WhatsApp order notifications.
+   * Structure product, customer, and order data cleanly so Phase 2 can plug in without refactoring the core setup.
+
+ * Phase 2 — Warehouse Operations &amp; Financial Document Automation
+   * Generate consolidated picking and packing lists for warehouse/ground staff (sorted by product type and delivery route/schedule).
+   * Auto-generate itemized driver delivery notes with delivery details and customer sign-off blocks.
+   * Implement clear order status stages (e.g., Pending, Paid, Processing, Packed, Dispatched, Delivered).
+   * Generate tax invoices for accounting and support credit notes (for adjustments such as weight or quantity variances).
+
+ * Phase 3 — Online Payments &amp; Scaling Enhancements
+   * Integrate online card/local payment gateway options and support refund workflows alongside EFT.
+   * Support future operational scaling (such as standing/recurring orders, catch-weight adjustments, or reorder tracking).
+
+How to Quote:
+
+Please include:
+ * Separate cost estimates and estimated timelines for Phase 1, Phase 2, and Phase 3 (and note if you recommend milestone splits within each phase).
+ * Relevant past work building gated B2B wholesale portals, bulk order forms, order alerts, and fulfillment/invoicing workflows.
+ * Any clarifying questions before we share staging details under confidentiality.</description></item>
 <item><title>Mobile Detailing Google Visibility</title><link>https://www.freelancer.com/projects/web-design/Mobile-Detailing-Google-Visibility</link><guid isPermaLink="false">freelancer:40835677</guid><pubDate>Wed, 25 Nov 2026 17:37:32 GMT</pubDate><description>15-25 USD/hr | I need a clean, mobile-first website that simply promotes my mobile detailing service and makes it effortless for visitors to reach me. The site’s sole purpose is visibility and conversion, so every element should guide people toward contacting or booking.
 
 Core requirements  
