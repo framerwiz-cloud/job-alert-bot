@@ -3,6 +3,16 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Packages Delivery Web App</title><link>https://www.freelancer.com/projects/php/Packages-Delivery-Web-App</link><guid isPermaLink="false">freelancer:40838244</guid><pubDate>Fri, 27 Nov 2026 06:46:23 GMT</pubDate><description>250-750 USD | I’m setting up a same-day courier service for small packages and documents and need a straightforward digital ordering tool. Customers must be able to open a web page or mobile app, type the pickup and drop-off addresses, add contact details, hit “Send,” and instantly create a delivery request.  
+
+On my side, the request should land in a simple dashboard (or even an email feed at first) where I can view job details, assign a driver, and mark each stage as accepted, picked up, and delivered. Any modern stack you’re comfortable with is fine—React, Flutter, Laravel, Node, or similar—as long as the code is clean and the form loads quickly on both desktop and phone screens.
+
+Deliverables  
+• Customer-facing form that captures pickup &amp; delivery addresses plus phone/email  
+• Basic admin view for incoming orders with status toggles  
+• Installation instructions (or a quick screen share) so I can deploy it on my hosting plan
+
+If you’ve built something similar, please mention the tech you used and how long it took—reusing proven modules is a bonus. Let me know your timeline and I’ll get you the branding assets right away.</description></item>
 <item><title>Revamp HospoFix WordPress Website</title><link>https://www.freelancer.com/projects/wordpress/Revamp-HospoFix-WordPress-Website</link><guid isPermaLink="false">freelancer:40838174</guid><pubDate>Fri, 27 Nov 2026 05:57:16 GMT</pubDate><description>200-250 AUD | Hi,
 
 Below is the brief for updating the HospoFix website. It outlines the website structure, content, services and functionality required.
@@ -956,29 +966,6 @@ Deliverables
 3. Implemented or implementation-ready assets with all copy, links, and SEO meta data preserved.  
 
 I’ll provide the current URL and brand guidelines as soon as we start. Once complete, I’ll review on the live server or via a clickable prototype and sign off after everything matches the agreed design.</description></item>
-<item><title>Build Immersive Luxury Streetwear Store</title><link>https://www.freelancer.com/projects/web-development/Build-Immersive-Luxury-Streetwear-Store</link><guid isPermaLink="false">freelancer:40833457</guid><pubDate>Tue, 24 Nov 2026 12:21:39 GMT</pubDate><description>250-750 CAD | We are currently developing ELEVEN TEN (11-10), an independent streetwear brand focused on contemporary apparel, including hoodies, sweatpants, coordinated sets, and exclusive seasonal collections.
-
-We are seeking an experienced web developer and creative designer to develop a distinctive, high-end e-commerce platform that accurately represents the brand's identity and long-term vision.
-
-The primary objective is to create an immersive digital experience through advanced 3D visualizations, interactive product presentations, refined animations, and seamless navigation. We want the website to establish a strong brand presence from the moment a visitor enters, while maintaining a sophisticated aesthetic and an intuitive shopping experience.
-
-**Project Requirements:**
-
-- Custom website design and development tailored to ELEVEN TEN's brand identity.
-- High-quality 3D product modeling and interactive visualizations.
-- Immersive homepage experience with cinematic animations and smooth transitions.
-- Shopify integration for e-commerce, payments, and inventory management.
-- Apliiq integration for product sourcing, order processing, and fulfillment.
-- Fully responsive design across desktop, tablet, and mobile devices.
-- Optimized website performance and loading speeds.
-- Scalable infrastructure to accommodate future collections and product launches.
-- Full access to the website's source code, editable design files, and original 3D assets.
-
-We are looking for a creative professional who can contribute to the overall digital direction of the brand, rather than simply develop a conventional e-commerce website. Originality, attention to detail, technical expertise, and visual excellence are essential.
-
-Interested candidates should provide a relevant portfolio, proposed development approach, estimated project timeline, and detailed pricing.
-
-We are open to discussing creative and technical recommendations that align with our vision and would welcome the opportunity to establish a long-term professional relationship.</description></item>
 <item><title>Launch-Ready Shopify Wig Store</title><link>https://www.freelancer.com/projects/shopify-development/Launch-Ready-Shopify-Wig-Store</link><guid isPermaLink="false">freelancer:40833344</guid><pubDate>Tue, 24 Nov 2026 10:49:55 GMT</pubDate><description>2-8 USD/hr | My Shopify wig shop is built, stocked with products, and almost ready to go live; I just need a sharp Shopify expert to handle the last-mile tasks today.
 
 What has to happen:
