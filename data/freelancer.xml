@@ -3,6 +3,20 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress AI Assistant &amp; Image Update</title><link>https://www.freelancer.com/projects/ai-chatbot/WordPress-Assistant-Image-Update</link><guid isPermaLink="false">freelancer:40838434</guid><pubDate>Fri, 27 Nov 2026 08:58:42 GMT</pubDate><description>20-250 GBP | I want to enhance my WordPress site with a small, smart chat-bubble assistant that can instantly answer visitor questions about our products and services. The bot should pull its knowledge from two places:  
+• the existing pages and posts already live on the site  
+• a short, curated Q&amp;A list I’ll supply  
+
+Please handle the complete setup—selecting or coding the plugin, connecting it with OpenAI (or a comparable NLP engine), indexing the content sources, styling the chat bubble so it fits our theme, and testing until responses feel natural.  
+
+Alongside the chatbot work, I need a handful of page images refreshed. I’ll provide the new artwork; you just need to upload, replace, and make sure everything is optimised and displays crisply on desktop and mobile.  
+
+Deliverables:  
+1. Fully functioning chat-bubble assistant, live on every page, trained on the sources above  
+2. Admin guide (one-pager is fine) showing how I can add new Q&amp;As in future  
+3. Updated images on the specified pages, compressed and retina-ready  
+
+If you’re comfortable with WordPress, AI chatbot plugins or custom code, and basic media optimisation, this should be a straightforward project. Let me know your timeline and any tool preferences so we can get started right away.</description></item>
 <item><title>Looking for a UI/UX Designer for a real estate platform</title><link>https://www.freelancer.com/projects/ui-design/Looking-for-Designer-for-real</link><guid isPermaLink="false">freelancer:40838411</guid><pubDate>Fri, 27 Nov 2026 08:42:57 GMT</pubDate><description>15-25 USD/hr | I need an experienced designer to help improve an existing real estate rental and investment platform. Phase 1 development is done, and I have a working test version ready for review. Early user feedback says parts of the interface feel too visually heavy. I want to simplify the design and improve the overall experience.
 
 - Responsibilities:
@@ -1007,34 +1021,6 @@ Additionally:
 - Findings supported by document/page references and applicable CMS guidance.
 - Human review and approval of clinical and coding recommendations.
 - Clean modern responsive interface scalable architecture for additional modules future EHR integration full ownership of source code database application.</description></item>
-<item><title>Mortgage Lead-Gen Platform Pilot Build</title><link>https://www.freelancer.com/projects/api-integration/Mortgage-Lead-Gen-Platform-Pilot</link><guid isPermaLink="false">freelancer:40834060</guid><pubDate>Tue, 24 Nov 2026 20:55:06 GMT</pubDate><description>250-750 AUD | Add on - Mandatory experience — GoHighLevel for Australian mortgage brokers
-
-* You must have personally built or managed GoHighLevel workflows for an Australian mortgage brokerage. Both hands-on GoHighLevel experience and direct experience with Australian mortgage broking workflows are required.
-* Your experience should cover mortgage lead capture, email and SMS follow-up, discovery call booking, lead qualification and handoff to a broker.
-* Zapier integration experience is required. Direct experience with BrokerEngine is strongly preferred.
-* Applicants can be based in Australia or overseas. You must be available for agreed check-ins during Sydney business hours.
-
-To apply, share one example of a GoHighLevel project you delivered for an Australian mortgage brokerage. Tell us what you personally built, how leads were qualified and handed off, and which systems you integrated. A short Loom walkthrough or anonymised screenshots are welcome. 
-
-I’m spinning up a proof-of-concept for KeepEasy Finance that lets Australian home buyers book a call with one of our brokers and, behind the scenes, creates a lead inside BrokerEngine using dummy data. The pilot will never touch production credentials—once the flow works, we’ll swap in live keys ourselves.
-
-Here’s the flow I want to see:
-• Prospect lands on a responsive page, enters basic contact details, then chooses a time slot that aligns with the broker’s Sydney schedule.  
-• On submission, the system fires a test payload to BrokerEngine (or clearly logs the API call) so we can confirm the mapping.  
-• Both prospect and broker receive confirmation emails.  
-
-Deliverables:
-• Front-end landing page + form.  
-• Calendar/booking integration (Calendly, Google Calendar API, or similar).  
-• Backend script demonstrating the BrokerEngine link with dummy data.  
-• Clear deploy notes and a short screen-share walkthrough.  
-
-Acceptance criteria:
-1. A test lead appears in BrokerEngine’s sandbox or in a logged JSON object matching their schema.  
-2. Email confirmations render correctly in AEST.  
-3. Code is clean, commented, and can be redeployed with live keys in under an hour.  
-
-I need at least three hours of overlap with Sydney business hours each day. Experience with Australian mortgage broking or BrokerEngine will earn extra points, but solid API integration work speaks for itself. Let me know the tech stack you’d choose and link me to a similar integration you’ve shipped. </description></item>
 <item><title>Launch-Ready Shopify Wig Store</title><link>https://www.freelancer.com/projects/shopify-development/Launch-Ready-Shopify-Wig-Store</link><guid isPermaLink="false">freelancer:40833344</guid><pubDate>Tue, 24 Nov 2026 10:49:55 GMT</pubDate><description>2-8 USD/hr | My Shopify wig shop is built, stocked with products, and almost ready to go live; I just need a sharp Shopify expert to handle the last-mile tasks today.
 
 What has to happen:
