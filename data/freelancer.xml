@@ -3,6 +3,21 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Global Dev Talent Marketplace Build</title><link>https://www.freelancer.com/projects/django/Global-Dev-Talent-Marketplace-Build</link><guid isPermaLink="false">freelancer:40838624</guid><pubDate>Fri, 27 Nov 2026 11:32:16 GMT</pubDate><description>15-25 CAD/hr | I’m creating an online marketplace that lets clients connect with digital and tech professionals for long-term website and online-store development projects. The concept must comfortably span everything from modest $10 tasks all the way to multi-million-dollar engagements, so scalability, flexible pricing logic, and rock-solid security are essential.  
+
+Here’s what I need from you:  
+
+• A responsive web application (frontend + backend) that supports account creation for both clients and experts, profile management, advanced search and filtering, real-time messaging, milestone-based payments/escrow, and a review system.  
+• An intuitive project workspace where long-term website or e-commerce builds can be planned, tracked, and delivered over months—not just quick gigs.  
+• Admin dashboards for user, payment, and dispute management, plus analytics to monitor transaction volume across every budget tier.  
+• Clean documentation, deployment scripts, and hand-over support so the platform can be launched smoothly on cloud infrastructure.  
+
+Acceptance criteria  
+1. Performance: marketplace loads sub-2 s globally under typical traffic.  
+2. Security: OWASP top-10 protections, encrypted payments, and GDPR-ready data handling.  
+3. Extensibility: modular codebase making it easy to add future categories beyond website and store development.  
+
+If you’ve built similar multi-sided platforms or large-scale e-commerce sites using stacks like React, Next.js, Node, Django, or Laravel, let’s talk details and timelines.</description></item>
 <item><title>Client-Focused Freelance Marketplace Website</title><link>https://www.freelancer.com/projects/html/Client-Focused-Freelance-Marketplace</link><guid isPermaLink="false">freelancer:40835875</guid><pubDate>Fri, 27 Nov 2026 09:43:03 GMT</pubDate><description>250-750 CAD | I’m launching a web platform that lets clients post a task, collect offers from vetted freelancers, and release payment only after they approve the finished work. Phase-one is strictly client-facing, so every screen, flow, and call-to-action must speak to someone who wants to hire talent—freelancer self-service can wait until later iterations.
 
 Your assignment covers the full build:
