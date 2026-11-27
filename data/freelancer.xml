@@ -3,6 +3,29 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Upscale Photography E-commerce Site</title><link>https://www.freelancer.com/projects/web-development/Upscale-Photography-commerce-Site</link><guid isPermaLink="false">freelancer:40838858</guid><pubDate>Fri, 27 Nov 2026 14:44:04 GMT</pubDate><description>250-750 USD | I need an elegant, modern website that showcases my fine-art photographs and lets visitors choose a photo, pick a size, and place an order that I will print and ship myself.  The entire experience should feel premium: crisp full-screen galleries, smooth animations, and a clean, minimalist layout that keeps the imagery front-and-center on both desktop and mobile.  
+
+Core shopping flow  
+• Browsing: visitors can search or filter by collection, subject, or even dominant color to find the perfect shot.  
+• Detail view: each image must open in a fast, high-resolution lightbox so buyers can zoom in and inspect texture and sharpness before committing.  
+• Favorites: users can add photos to a private favorites list, then move selected pieces straight into the cart when ready.  
+• Checkout: payments go through a secure, integrated gateway that accepts major cards and digital wallets (Apple Pay, Google Pay, PayPal, etc.).  
+
+Back-end management  
+I need an intuitive dashboard to upload new photos, assign them to collections, set multiple print sizes with individual prices, cap edition counts when necessary, and track orders.  If you propose WordPress + WooCommerce, Shopify, or another platform, please explain why it fits a gallery-style storefront.  
+
+Deliverables  
+1. Fully responsive website, live on my domain and SSL-secured.  
+2. Custom-styled gallery templates with the three features above working smoothly.  
+3. Payment gateway configured in test and live modes.  
+4. Documentation (or short Loom video) showing how I add new photos, edit sizes, and fulfill orders.  
+
+Acceptance criteria  
+• Page load under 3 s on a standard broadband connection with WebP or next-gen image formats.  
+• Filters return results instantly and zoom remains pixel-sharp.  
+• End-to-end test order processes successfully with a sandbox card.  
+
+Timeframe is flexible but I would like to review a staging version within three weeks so we can fine-tune the look before launch.</description></item>
 <item><title>Instagram Content &amp; Client Growth</title><link>https://www.freelancer.com/projects/content-creation/Instagram-Content-Client-Growth</link><guid isPermaLink="false">freelancer:40838846</guid><pubDate>Fri, 27 Nov 2026 14:37:01 GMT</pubDate><description>20-250 GBP | I run a professional health and wellness coaching/consulting practice and I want Instagram to become a direct sales engine, not just a showcase. I’m looking for someone who can plan, create, publish, and optimize content that attracts the right followers and turns them into paying clients.
 
 Here’s what I need from you:
@@ -909,31 +932,6 @@ Here’s what I expect:
 • A smooth hand-over that leaves me with all source files, build scripts, and deployment instructions
 
 If you have a lean process, can communicate milestones clearly, and enjoy collaborating with non-technical founders, I’d love to hear how you’d tackle this project and an estimated timeline to launch.</description></item>
-<item><title>Responsive E-Commerce Website Revamp</title><link>https://www.freelancer.com/projects/cms/Responsive-Commerce-Website-Revamp</link><guid isPermaLink="false">freelancer:40834845</guid><pubDate>Wed, 25 Nov 2026 08:05:43 GMT</pubDate><description>30-250 AUD | Revamp old website
-
-Replicate a simple layout (not identical) to an an existing similar website (made with shopify) using either a cms like Wordpress or similar platform with WYSIWYG interface for easy changes by someone without coding experience.
-
-The site must be obviously fully responsive.
-
-Will need design and coding performed and delivered
-
-Site will include:
-
-1) one main page (with products listed and add to cart functionality and *secure* contact form function) this page must include the same text/hyper text as per original site for existing google SEO weight
-
-2) cart page (with add/remove and complete transaction functionality as well as - recommended purchase to add to cart function)
-
-3) transaction complete (return to home link)
-
-4) Contact form success page (return to home link)
-
-Please link to recent *working* websites you have completed, especially single page sites
-
-Links provided via message
-
-Please no dummy bids, this is a simple website project. Please confirm with confirmation of this in your bid please or I will assume no one has read this simple brief and delete the bid. Doing this due to previous bad experiences. Please read carefully
-
-Thank you. Looking forward to ongoing work with imaginative Dev :)</description></item>
 <item><title>Online Business Marketing Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Online-Business-Marketing-Specialist</link><guid isPermaLink="false">freelancer:40834279</guid><pubDate>Wed, 25 Nov 2026 00:40:32 GMT</pubDate><description>15-25 USD/hr | Transitioning an existing webpage from WordPress to"lovable" 
 Help me with performing SEO optimization
 Help with pay per click marketing and social media advertising</description></item>
