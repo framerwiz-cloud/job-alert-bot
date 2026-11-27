@@ -3,6 +3,18 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>AI Supermarket Shopping Platform</title><link>https://www.freelancer.com/projects/nodejs/Supermarket-Shopping-Platform</link><guid isPermaLink="false">freelancer:40838386</guid><pubDate>Fri, 27 Nov 2026 08:29:40 GMT</pubDate><description>250-750 USD | I am kicking off my “AI supermarket” by first releasing a customer-facing shopping experience that works smoothly on web and (ideally) mobile. The goal is simple: let visitors browse our full catalogue, fill a cart, and pay online, all while an AI engine quietly recommends items they might like. Shoppers must be free to roam the store without logging in, then create or confirm an account only when they decide to check out and pay. Delivery or in-store pickup can be chosen during that flow.
+
+To make this happen I need:
+• A modern, responsive app or website tied to a solid back-end that manages products, prices, inventory, and orders.  
+• Secure checkout with major payment gateways and the option to schedule delivery or pickup slots.  
+• A lightweight sign-in step triggered at checkout (social, email, or phone are fine as long as the browse-first requirement stays intact).  
+• An AI recommendation component—rule-based or ML—surfacing complementary products in real time.  
+• Clean, well-documented code plus a short hand-off session so my in-house team can maintain it.
+
+React, Next.js, Flutter, Node, Python, or similar stacks are perfectly acceptable if you can meet the requirements above; feel free to propose alternative tech you know will scale.
+
+Show me recent e-commerce or AI-driven projects you have shipped, outline how you would structure the build, and include an estimated timeline to reach a usable MVP. I’m ready to start as soon as I find the right partner.</description></item>
 <item><title>Build a Modern, Responsive Business Website with Digital Product Sales</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Responsive-Business-Website</link><guid isPermaLink="false">freelancer:40838327</guid><pubDate>Fri, 27 Nov 2026 07:53:11 GMT</pubDate><description>250-750 USD | Project Overview
 
 I’m looking for an experienced web developer to design and develop a modern, professional, and fully responsive website for my business.
@@ -1016,31 +1028,6 @@ Acceptance criteria:
 3. Code is clean, commented, and can be redeployed with live keys in under an hour.  
 
 I need at least three hours of overlap with Sydney business hours each day. Experience with Australian mortgage broking or BrokerEngine will earn extra points, but solid API integration work speaks for itself. Let me know the tech stack you’d choose and link me to a similar integration you’ve shipped. </description></item>
-<item><title>Bespoke API-Powered Report Builder</title><link>https://www.freelancer.com/projects/api-developmet/Bespoke-API-Powered-Report-Builder</link><guid isPermaLink="false">freelancer:40834017</guid><pubDate>Tue, 24 Nov 2026 19:47:12 GMT</pubDate><description>3000-5000 GBP | I am looking to develop a bespoke web-based application for my business that will allow me to create professional, customised reports by integrating data from multiple third-party websites and platforms via their APIs.
-
-The application should have a flexible report-building interface, allowing me to design and customise my own report templates rather than relying on fixed, pre-designed formats.
-
-Key functionality required:
-
-API integrations: Ability to pull data automatically from several different third-party websites and platforms via their APIs and populate relevant sections of my reports.
-
-Custom text fields: Ability to create editable text boxes throughout the report, allowing me to add my own commentary, descriptions and professional opinions.
-
-Dropdown menus: Customisable dropdown fields with predefined options to ensure consistency and speed up report completion.
-
-Photo uploads: Dedicated sections where users can upload photographs, arrange them within the report and add descriptions or captions.
-
-Custom report templates: Ability to create, save and amend bespoke report templates, including different layouts and sections depending on the report type.
-
-Dynamic content: The ability for information retrieved through APIs, dropdown selections and manual inputs to automatically populate the relevant sections of the report.
-
-Report generation: Ability to generate a final, professionally formatted report, ideally in PDF format, with consistent branding, layouts, headers and footers.
-
-User management: Ideally, multiple users should be able to log in, access the platform and create reports, with appropriate permissions.
-
-The overall objective is to build a flexible, scalable reporting platform that combines automated data retrieval with manual input, allowing us to produce our own bespoke reports efficiently.
-
-I am looking for a developer who can advise on the best technology and architecture for this project, assist with API integrations and deliver a fully functioning application with an intuitive, user-friendly interface.</description></item>
 <item><title>Launch-Ready Shopify Wig Store</title><link>https://www.freelancer.com/projects/shopify-development/Launch-Ready-Shopify-Wig-Store</link><guid isPermaLink="false">freelancer:40833344</guid><pubDate>Tue, 24 Nov 2026 10:49:55 GMT</pubDate><description>2-8 USD/hr | My Shopify wig shop is built, stocked with products, and almost ready to go live; I just need a sharp Shopify expert to handle the last-mile tasks today.
 
 What has to happen:
