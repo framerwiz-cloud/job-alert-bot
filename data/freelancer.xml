@@ -3,18 +3,15 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>AI Supermarket Shopping Platform</title><link>https://www.freelancer.com/projects/nodejs/Supermarket-Shopping-Platform</link><guid isPermaLink="false">freelancer:40838386</guid><pubDate>Fri, 27 Nov 2026 08:29:40 GMT</pubDate><description>250-750 USD | I am kicking off my “AI supermarket” by first releasing a customer-facing shopping experience that works smoothly on web and (ideally) mobile. The goal is simple: let visitors browse our full catalogue, fill a cart, and pay online, all while an AI engine quietly recommends items they might like. Shoppers must be free to roam the store without logging in, then create or confirm an account only when they decide to check out and pay. Delivery or in-store pickup can be chosen during that flow.
+<item><title>Build Modern E-Commerce Store</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Commerce-Store</link><guid isPermaLink="false">freelancer:40838400</guid><pubDate>Fri, 27 Nov 2026 08:32:10 GMT</pubDate><description>250-750 EUR | E-commerce Website Developer – Full Website Development
 
-To make this happen I need:
-• A modern, responsive app or website tied to a solid back-end that manages products, prices, inventory, and orders.  
-• Secure checkout with major payment gateways and the option to schedule delivery or pickup slots.  
-• A lightweight sign-in step triggered at checkout (social, email, or phone are fine as long as the browse-first requirement stays intact).  
-• An AI recommendation component—rule-based or ML—surfacing complementary products in real time.  
-• Clean, well-documented code plus a short hand-off session so my in-house team can maintain it.
+We are looking for an experienced E-commerce Developer to build a new online store from the ground up. The project involves developing a modern, professional, and fully functional e-commerce website with a user-friendly interface, responsive design, and all essential online shopping features.
 
-React, Next.js, Flutter, Node, Python, or similar stacks are perfectly acceptable if you can meet the requirements above; feel free to propose alternative tech you know will scale.
+Responsibilities include developing the website structure and functionality, implementing product catalogs and category pages, setting up shopping carts and checkout processes, integrating payment gateways and shipping solutions, configuring customer accounts, and ensuring a smooth shopping experience across desktop and mobile devices. The developer will also be responsible for implementing third-party integrations, optimizing website performance, and ensuring the overall reliability of the platform.
 
-Show me recent e-commerce or AI-driven projects you have shipped, outline how you would structure the build, and include an estimated timeline to reach a usable MVP. I’m ready to start as soon as I find the right partner.</description></item>
+The ideal candidate should have strong experience in e-commerce website development, frontend and backend technologies, database management, and API integrations. Experience with platforms such as WooCommerce, Shopify, Magento, or PrestaShop is highly desirable.
+
+Please share examples of e-commerce websites you have built and briefly describe your preferred development approach and technical expertise.</description></item>
 <item><title>Build a Modern, Responsive Business Website with Digital Product Sales</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Responsive-Business-Website</link><guid isPermaLink="false">freelancer:40838327</guid><pubDate>Fri, 27 Nov 2026 07:53:11 GMT</pubDate><description>250-750 USD | Project Overview
 
 I’m looking for an experienced web developer to design and develop a modern, professional, and fully responsive website for my business.
