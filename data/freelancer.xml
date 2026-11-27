@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Developer needed to build a digital download store for Lumora Files</title><link>https://www.freelancer.com/projects/web-development/Developer-needed-build-digital-download</link><guid isPermaLink="false">freelancer:40839142</guid><pubDate>Fri, 27 Nov 2026 18:46:03 GMT</pubDate><description>500-700 USD | I'm preparing to launch Lumora Files, an online shop that sells only digital products: e-books, design templates, audio loops and similar downloads. I need a developer to build the store from scratch with a simple buying experience. A customer finds a product, pays and gets the file immediately.
+
+Customers should be able to create secure accounts, search the catalogue quickly and receive their licence key or download link automatically after payment. On my end, I need an easy product upload screen and a clear analytics view of sales. The design should feel clean and modern and work perfectly on mobile.
+
+I'm flexible on the platform. Shopify with a digital delivery app, WooCommerce or a custom Next.js build are all fine, so go with whatever you work fastest in. What I can't compromise on is a dependable checkout through both Stripe and PayPal, plus well-commented code that's easy to maintain.
+
+At handover, the store should be live on my domain with SSL. It should have at least three sample products that have passed test purchases. Every order should trigger an automatic email with a unique download link that expires after 24 hours. I'll also need a short guide on adding products and reviewing orders.
+
+I'll sign off on the project once pages load in under two seconds on mobile 4G, test orders complete without any manual steps and every link stays valid for the full 24 hours before expiring.
+
+If you've built something similar, send me your suggested approach, a rough timeline and milestones. I'm ready to start right away.</description></item>
 <item><title>Multi-Platform Product Promotion Campaign</title><link>https://www.freelancer.com/projects/marketing/Multi-Platform-Product-Promotion</link><guid isPermaLink="false">freelancer:40839030</guid><pubDate>Fri, 27 Nov 2026 17:27:15 GMT</pubDate><description>15-25 USD/hr | The client is looking to establish social media accounts under their company name, which is currently in the process of being registered. They need a freelancer to promote their tourism and private transportation services in the Dominican Republic through engaging social media content, including short-form videos, graphics, and promotional materials. The client prefers an hourly arrangement so they can work at their own pace. Budget and timeline have not yet been specified.</description></item>
 <item><title>Corporate WordPress Site Build</title><link>https://www.freelancer.com/projects/web-design/Corporate-WordPress-Site-Build-40838864</link><guid isPermaLink="false">freelancer:40838864</guid><pubDate>Fri, 27 Nov 2026 14:48:34 GMT</pubDate><description>30-250 USD | I need a seasoned WordPress specialist to craft a four-page corporate website that instantly communicates credibility.  Home, About Us and Services will each run as elegant long-scroll sections; Contact Us will complete the set with a fully working form.  
 
@@ -928,16 +939,6 @@ Experience with full-stack development, Stripe API, e-commerce, booking systems,
 Please provide relevant portfolio examples, a fixed-price quote itemized by business, estimated completion time, and any ongoing subscription or maintenance costs.
 
 Existing websites must not be rebuilt or replaced without my written approval. All changes must be approved before publication. Payments will be released through agreed project milestones after successful testing and acceptance.</description></item>
-<item><title>Website/App Development from Scratch</title><link>https://www.freelancer.com/projects/app-development/Website-App-Development-from-Scratch</link><guid isPermaLink="false">freelancer:40835417</guid><pubDate>Wed, 25 Nov 2026 14:51:32 GMT</pubDate><description>250-750 USD | I’m ready to turn my idea into a fully functional digital product and I need an experienced developer-partner to guide me from concept to launch. At this stage I’m open to building either a responsive website or a dedicated mobile app; I’ll decide once we review the best technical and business fit together.
-
-Here’s what I expect:
-• Early-stage consultation to help me choose the right platform, tech stack, and hosting or app-store strategy  
-• Wireframes or clickable prototypes that translate my thoughts into a clear user journey  
-• Full-stack development, clean code, and documentation so future updates are straightforward  
-• Basic SEO or app-store optimisation and an analytics setup so I can measure performance  
-• A smooth hand-over that leaves me with all source files, build scripts, and deployment instructions
-
-If you have a lean process, can communicate milestones clearly, and enjoy collaborating with non-technical founders, I’d love to hear how you’d tackle this project and an estimated timeline to launch.</description></item>
 <item><title>Online Business Marketing Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Online-Business-Marketing-Specialist</link><guid isPermaLink="false">freelancer:40834279</guid><pubDate>Wed, 25 Nov 2026 00:40:32 GMT</pubDate><description>15-25 USD/hr | Transitioning an existing webpage from WordPress to"lovable" 
 Help me with performing SEO optimization
 Help with pay per click marketing and social media advertising</description></item>
