@@ -106,20 +106,6 @@ Acceptance criteria
 4. All copy and UI elements are English-ready and stored for easy localisation later.
 
 Hand over clean, documented code in a Git repo plus a brief deployment guide (Docker or standard VPS). Once these boxes are ticked, milestones close and payment is cleared.</description></item>
-<item><title>WordPress AI Assistant &amp; Image Update</title><link>https://www.freelancer.com/projects/ai-chatbot/WordPress-Assistant-Image-Update</link><guid isPermaLink="false">freelancer:40838434</guid><pubDate>Fri, 27 Nov 2026 08:58:42 GMT</pubDate><description>20-250 GBP | I want to enhance my WordPress site with a small, smart chat-bubble assistant that can instantly answer visitor questions about our products and services. The bot should pull its knowledge from two places:  
-• the existing pages and posts already live on the site  
-• a short, curated Q&amp;A list I’ll supply  
-
-Please handle the complete setup—selecting or coding the plugin, connecting it with OpenAI (or a comparable NLP engine), indexing the content sources, styling the chat bubble so it fits our theme, and testing until responses feel natural.  
-
-Alongside the chatbot work, I need a handful of page images refreshed. I’ll provide the new artwork; you just need to upload, replace, and make sure everything is optimised and displays crisply on desktop and mobile.  
-
-Deliverables:  
-1. Fully functioning chat-bubble assistant, live on every page, trained on the sources above  
-2. Admin guide (one-pager is fine) showing how I can add new Q&amp;As in future  
-3. Updated images on the specified pages, compressed and retina-ready  
-
-If you’re comfortable with WordPress, AI chatbot plugins or custom code, and basic media optimisation, this should be a straightforward project. Let me know your timeline and any tool preferences so we can get started right away.</description></item>
 <item><title>Build Modern E-Commerce Store</title><link>https://www.freelancer.com/projects/web-development/Build-Modern-Commerce-Store</link><guid isPermaLink="false">freelancer:40838400</guid><pubDate>Fri, 27 Nov 2026 08:32:10 GMT</pubDate><description>250-750 EUR | E-commerce Website Developer – Full Website Development
 
 We are looking for an experienced E-commerce Developer to build a new online store from the ground up. The project involves developing a modern, professional, and fully functional e-commerce website with a user-friendly interface, responsive design, and all essential online shopping features.
@@ -942,6 +928,16 @@ Experience with full-stack development, Stripe API, e-commerce, booking systems,
 Please provide relevant portfolio examples, a fixed-price quote itemized by business, estimated completion time, and any ongoing subscription or maintenance costs.
 
 Existing websites must not be rebuilt or replaced without my written approval. All changes must be approved before publication. Payments will be released through agreed project milestones after successful testing and acceptance.</description></item>
+<item><title>Website/App Development from Scratch</title><link>https://www.freelancer.com/projects/app-development/Website-App-Development-from-Scratch</link><guid isPermaLink="false">freelancer:40835417</guid><pubDate>Wed, 25 Nov 2026 14:51:32 GMT</pubDate><description>250-750 USD | I’m ready to turn my idea into a fully functional digital product and I need an experienced developer-partner to guide me from concept to launch. At this stage I’m open to building either a responsive website or a dedicated mobile app; I’ll decide once we review the best technical and business fit together.
+
+Here’s what I expect:
+• Early-stage consultation to help me choose the right platform, tech stack, and hosting or app-store strategy  
+• Wireframes or clickable prototypes that translate my thoughts into a clear user journey  
+• Full-stack development, clean code, and documentation so future updates are straightforward  
+• Basic SEO or app-store optimisation and an analytics setup so I can measure performance  
+• A smooth hand-over that leaves me with all source files, build scripts, and deployment instructions
+
+If you have a lean process, can communicate milestones clearly, and enjoy collaborating with non-technical founders, I’d love to hear how you’d tackle this project and an estimated timeline to launch.</description></item>
 <item><title>Online Business Marketing Specialist</title><link>https://www.freelancer.com/projects/digital-marketing/Online-Business-Marketing-Specialist</link><guid isPermaLink="false">freelancer:40834279</guid><pubDate>Wed, 25 Nov 2026 00:40:32 GMT</pubDate><description>15-25 USD/hr | Transitioning an existing webpage from WordPress to"lovable" 
 Help me with performing SEO optimization
 Help with pay per click marketing and social media advertising</description></item>
