@@ -3,6 +3,30 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Tarot Vending Machine Design -- 2</title><link>https://www.freelancer.com/projects/product-design/Tarot-Vending-Machine-Design-40839347</link><guid isPermaLink="false">freelancer:40839347</guid><pubDate>Fri, 27 Nov 2026 23:08:15 GMT</pubDate><description>30-250 AUD | I'm looking for a creative designer to develop a tarot vending machine wrap design. The machine should dispense a printed tarot card with a short reading.
+
+Key Requirements:
+- Modern meets tarot theme
+- Payment system integration for card or phone transactions
+
+Ideal Skills and Experience:
+- Experience in vending machine design
+- Graphic design skills for modern-themed tarot card
+- Knowledge of payment integration systems
+
+You can check out my chaotic vibe @altar_tarot</description></item>
+<item><title>Tarot Vending Machine Design</title><link>https://www.freelancer.com/projects/product-design/Tarot-Vending-Machine-Design</link><guid isPermaLink="false">freelancer:40839345</guid><pubDate>Fri, 27 Nov 2026 23:08:15 GMT</pubDate><description>30-250 AUD | I'm looking for a creative designer to develop a tarot vending machine wrap design. The machine should dispense a printed tarot card with a short reading.
+
+Key Requirements:
+- Modern meets tarot theme
+- Payment system integration for card or phone transactions
+
+Ideal Skills and Experience:
+- Experience in vending machine design
+- Graphic design skills for modern-themed tarot card
+- Knowledge of payment integration systems
+
+You can check out my chaotic vibe @altar_tarot</description></item>
 <item><title>Shopify Store Redesign</title><link>https://www.freelancer.com/projects/web-design/Shopify-Store-Redesign-40839306</link><guid isPermaLink="false">freelancer:40839306</guid><pubDate>Fri, 27 Nov 2026 21:50:12 GMT</pubDate><description>250-750 USD | I'm looking for an experienced Shopify developer to refresh the design and layout of my existing Shopify website. 
 
 Key requirements:
@@ -768,53 +792,6 @@ Please include the following in your proposal:
 I am not looking for someone to simply make my website look better. I am looking for someone who understands how to turn visitors into paying customers and help build a successful, profitable business.
 
 There is potential for a long-term working relationship if the initial project delivers positive results.</description></item>
-<item><title>Shopify Homepage &amp; Retailer Updates</title><link>https://www.freelancer.com/projects/web-design/Shopify-Homepage-Retailer-Updates</link><guid isPermaLink="false">freelancer:40836090</guid><pubDate>Thu, 26 Nov 2026 00:27:13 GMT</pubDate><description>30-250 AUD | I’m ready to give my Shopify store a polished, high-end look while tidying up a couple of content chores.
-
-Paying $60 AUD
-
-First, I need the “Find a Retailer” page updated with a fresh list of stockists. Just drop in the new retailers, make sure addresses are correct, and confirm they display cleanly on the page (map pins or a well-formatted list—whatever matches the current setup).
-
-Second, I have a new item that belongs under an existing product listing. images, pricing, and copy so it flows seamlessly with the current product family and inherits the theme’s styling.
-
-Finally—and most importantly—I want the home page redesigned so that the brand feels elegant and luxurious with refined details. The goal is to elevate perceived value, not shout about discounts. Here’s the creative scope:
-
-• Refresh the hero banner and supporting imagery with striking, on-brand visuals.  
-• Rework product highlight sections and their calls to action so they guide shoppers naturally to purchase.  
-• Tweak the entire layout, colour palette, typography, and any visual accents until the page reads premium, professional, and cohesive.  
-
-Subtle animations, generous white space, and a performance-minded build are all welcome. Liquid, CSS, and any Shopify 2.0 customisations should stay organised so I can adjust copy and assets later without digging through code.
-
-When you reply, please share two or three live Shopify sites you’ve built in a luxury or high-end niche, indicate your turnaround time, and flag any theme or app dependencies you expect. I’ll supply product assets and retailer details as soon as we start.</description></item>
-<item><title>Build B2B Wholesale Ordering Portal wordPress</title><link>https://www.freelancer.com/projects/b2b-marketing/Build-Wholesale-Ordering-Portal</link><guid isPermaLink="false">freelancer:40835904</guid><pubDate>Wed, 25 Nov 2026 21:07:13 GMT</pubDate><description>20-250 GBP | WordPress B2B Wholesale Ordering Portal (Phased Build)
-
-Project Summary:
-We are upgrading an existing live WordPress site into a private, gated B2B wholesale ordering portal for a poultry and egg supplier in Southern Africa. Wholesale pricing and ordering must be restricted to verified business buyers, support local currency (NAD / N$) and 15% VAT rules, enable fast bulk ordering, and automate order alerts and back-office workflows across structured phases.
-All client, business, pricing, and buyer details are strictly confidential. We are looking for quotes broken down clearly by phase so we can review scope, timelines, and milestones.
-
-Phase Breakdown:
- * Phase 1 — Gated B2B Portal, Bulk Ordering &amp; Instant Alerts
-   * Clone the live WordPress site to a private staging environment with zero downtime to the live site.
-   * Build a B2B registration workflow capturing company details, business registration numbers, and VAT/tax IDs, with a manual admin approval step (pending vs. approved) that gates wholesale pricing and checkout.
-   * Configure NAD / N$ currency, 15% VAT calculation, product listings (SKUs, pack sizes, stock status, and minimum order quantities), and a fast spreadsheet/matrix-style bulk order sheet.
-   * Set up Direct Bank Transfer (EFT) checkout, automated order confirmation emails to buyers and internal office/accounts addresses, and real-time mobile/WhatsApp order notifications.
-   * Structure product, customer, and order data cleanly so Phase 2 can plug in without refactoring the core setup.
-
- * Phase 2 — Warehouse Operations &amp; Financial Document Automation
-   * Generate consolidated picking and packing lists for warehouse/ground staff (sorted by product type and delivery route/schedule).
-   * Auto-generate itemized driver delivery notes with delivery details and customer sign-off blocks.
-   * Implement clear order status stages (e.g., Pending, Paid, Processing, Packed, Dispatched, Delivered).
-   * Generate tax invoices for accounting and support credit notes (for adjustments such as weight or quantity variances).
-
- * Phase 3 — Online Payments &amp; Scaling Enhancements
-   * Integrate online card/local payment gateway options and support refund workflows alongside EFT.
-   * Support future operational scaling (such as standing/recurring orders, catch-weight adjustments, or reorder tracking).
-
-How to Quote:
-
-Please include:
- * Separate cost estimates and estimated timelines for Phase 1, Phase 2, and Phase 3 (and note if you recommend milestone splits within each phase).
- * Relevant past work building gated B2B wholesale portals, bulk order forms, order alerts, and fulfillment/invoicing workflows.
- * Any clarifying questions before we share staging details under confidentiality.</description></item>
 <item><title>Mobile Detailing Google Visibility</title><link>https://www.freelancer.com/projects/web-design/Mobile-Detailing-Google-Visibility</link><guid isPermaLink="false">freelancer:40835677</guid><pubDate>Wed, 25 Nov 2026 17:37:32 GMT</pubDate><description>15-25 USD/hr | I need a clean, mobile-first website that simply promotes my mobile detailing service and makes it effortless for visitors to reach me. The site’s sole purpose is visibility and conversion, so every element should guide people toward contacting or booking.
 
 Core requirements  
