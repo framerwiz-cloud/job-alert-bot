@@ -3,6 +3,27 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Abkhazia Online Visa Service Website</title><link>https://www.freelancer.com/projects/web-development/Abkhazia-Online-Visa-Service-Website</link><guid isPermaLink="false">freelancer:40840082</guid><pubDate>Sat, 28 Nov 2026 12:48:13 GMT</pubDate><description>250-750 USD | Hi,
+
+I need a website for an online visa service for Abkhazia. People should be able to check if they need a visa, fill in the application form, upload their passport photo and pay online.
+
+What I need:
+
+- Home page with a short visa checker (nationality + travel dates), prices, how it works and FAQ
+- Application form (about 40 fields) with passport upload. Business and work visas also need a document upload
+- Stripe payment after the form is sent (3 prices: 50, 100 and 250 EUR)
+- Form data and files sent to our email, and the customer gets a confirmation email
+- Support ticket page
+- Terms, Privacy and Refund pages
+- 8 languages: English, Russian, German, French, Italian, Turkish, Spanish and Arabic (Arabic right to left)
+- Basic SEO so the site shows up on Google, and a few blog articles
+- Hosting on Cloudflare Pages
+
+Design should be clean and fast, nothing heavy. Colours green, white and red like the Abkhaz flag. Must work well on mobile.
+
+Please send me examples of similar sites you made, how long it will take and your price.
+
+Thanks</description></item>
 <item><title>WordPress WooCommerce Store Migration Expert</title><link>https://www.freelancer.com/projects/website-development/WordPress-WooCommerce-Store-Migration</link><guid isPermaLink="false">freelancer:40840024</guid><pubDate>Sat, 28 Nov 2026 11:47:48 GMT</pubDate><description>750-1500 USD | RELIABLE. FAST, AND TECHNICALLY PROFICIENT, WordPress and WooCommerce developer needed.
 
 I am about to buy the Soxa WooCommerce theme to use as the template from which I would like to have the existing health and wellness 
@@ -734,17 +755,6 @@ Key deliverables I’m expecting:
 • Admin access and brief hand-off guide so my staff can manage content, orders, and ads
 
 I’m open to the tech stack you prefer—WordPress + WooCommerce, Laravel, React Native, Flutter, or another solid solution—as long as it delivers a smooth user experience and can scale. Let me know the framework you recommend, your timeline, and any similar projects you have shipped.</description></item>
-<item><title>Luxury Yacht-Inspired Boat Redesign</title><link>https://www.freelancer.com/projects/interior-design/Luxury-Yacht-Inspired-Boat-Redesign</link><guid isPermaLink="false">freelancer:40837378</guid><pubDate>Thu, 26 Nov 2026 16:37:20 GMT</pubDate><description>250-750 GBP | I'm seeking a skilled designer to modernize my boat's topsides with a luxury yacht-inspired aesthetic. 
-
-Key areas for update include:
-- Windows, rails, and deck details
-- Paint colors, graphics, and finishes
-
-Ideal skills and experience:
-- Expertise in marine design
-- Strong portfolio in luxury yacht aesthetics
-- Proficiency in color theory and modern design elements
-- Attention to detail and practicality</description></item>
 <item><title>Recruiting Senior Development Team</title><link>https://www.freelancer.com/projects/web-development/Recruiting-Senior-Development-Team</link><guid isPermaLink="false">freelancer:40836704</guid><pubDate>Thu, 26 Nov 2026 08:46:41 GMT</pubDate><description>50+ USD/hr | Delineate is scaling rapidly, and I am coordinating the search for seasoned talent to strengthen our product lines. My immediate focus is on senior-level engineers who can own web front-end builds, craft robust mobile apps, and design or tune complex backend and database layers. Your background should show hands-on leadership, production releases, and an ability to collaborate across design and project-management functions—we have parallel openings for UI/UX and management, so cross-disciplinary communication matters.
 
 If you join us, you will step straight into feature work on active platforms, shaping architecture decisions rather than simply following tickets. Please share a concise portfolio link or repo, a brief summary of the tech stacks where you excel, and your typical availability. I review submissions daily and will invite the strongest matches to a short technical chat followed by a practical code exercise.</description></item>
