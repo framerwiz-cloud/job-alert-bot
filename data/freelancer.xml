@@ -3,6 +3,22 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>WordPress Speed &amp; Stability Boost</title><link>https://www.freelancer.com/projects/cloudflare/WordPress-Speed-Stability-Boost</link><guid isPermaLink="false">freelancer:40839796</guid><pubDate>Sat, 28 Nov 2026 07:58:57 GMT</pubDate><description>250-750 AUD | My Lightsail-hosted site, tek1.com.au, has started dragging its feet. Pages and even the WordPress admin back end often take far too long to appear, and every so often the whole site simply drops offline without warning. The slowdowns and outages hit at random, so I can’t just schedule maintenance windows or blame traffic spikes.
+
+Everything runs on the usual stack—WordPress with MariaDB and Apache behind Cloudflare. I’ve already enabled basic Cloudflare caching, but the gains are inconsistent. I suspect thread limits, database tuning, and Cloudflare worker rules all need a fresh set of expert eyes. What I need is a methodical optimisation that:
+
+• Keeps the Lightsail instance stable (no crashes during tuning).  
+• Brings consistent load times across the entire site, including wp-admin.  
+• Uses smart caching and connection limits so random outages disappear.
+
+Feel free to tap into tools you trust—php-fpm configs, MariaDB index tweaks, Apache MPM, Cloudflare cache rules, or custom workers—as long as each change is documented so I can maintain it later.
+
+Deliverables  
+• A before-and-after performance report (GTmetrix or WebPageTest plus server metrics).  
+• Updated configs/scripts applied on the server and saved to a repo or text file.  
+• A brief hand-over note outlining what was changed and how to revert if needed.
+
+If you’ve solved similar WordPress + Lightsail + Cloudflare headaches before, I’d like to hear how you tackled them and how quickly we can repeat that success here.</description></item>
 <item><title>Claude AI Agents for CRM Automation</title><link>https://www.freelancer.com/projects/api-integration/Claude-Agents-for-CRM-Automation</link><guid isPermaLink="false">freelancer:40839718</guid><pubDate>Sat, 28 Nov 2026 06:52:32 GMT</pubDate><description>750-1500 AUD | We are  a Sydney-based digital marketing agency 
 We are looking for an experienced and cost-effective Claude AI specialist to develop AI agents and integrate them with our existing custom-built PHP/MySQL CRM.
 
@@ -802,25 +818,6 @@ Ideal Skills &amp; Experience:
 <item><title>Recruiting Senior Development Team</title><link>https://www.freelancer.com/projects/web-development/Recruiting-Senior-Development-Team</link><guid isPermaLink="false">freelancer:40836704</guid><pubDate>Thu, 26 Nov 2026 08:46:41 GMT</pubDate><description>50+ USD/hr | Delineate is scaling rapidly, and I am coordinating the search for seasoned talent to strengthen our product lines. My immediate focus is on senior-level engineers who can own web front-end builds, craft robust mobile apps, and design or tune complex backend and database layers. Your background should show hands-on leadership, production releases, and an ability to collaborate across design and project-management functions—we have parallel openings for UI/UX and management, so cross-disciplinary communication matters.
 
 If you join us, you will step straight into feature work on active platforms, shaping architecture decisions rather than simply following tickets. Please share a concise portfolio link or repo, a brief summary of the tech stacks where you excel, and your typical availability. I review submissions daily and will invite the strongest matches to a short technical chat followed by a practical code exercise.</description></item>
-<item><title>Website QA &amp; Workflow Assistant</title><link>https://www.freelancer.com/projects/project-management/Website-Workflow-Assistant</link><guid isPermaLink="false">freelancer:40836585</guid><pubDate>Thu, 26 Nov 2026 07:32:21 GMT</pubDate><description>250-750 USD | I handle all client communication for the websites I build, but I need a reliable assistant working quietly in the background to keep each project running smoothly.
-
-Your first priority will be to open every draft site on both desktop and mobile and give it a thorough pre-client check. I want absolute confidence that links, forms, and other basic functions behave exactly as expected. Buttons, menus, and page-to-page links must be clicked, tapped, and tested until nothing breaks.
-
-Beyond that immediate QA pass, you will:
-
-• Turn my meeting notes and client feedback into clear, actionable tasks for the designer, writer, and developer.  
-• Keep logos, brand guidelines, images, and copy in a tidy, version-controlled folder structure so the team can always grab the latest approved file.  
-• Track deadlines and revision rounds, flagging any missing assets, blockers, or unanswered questions so I can raise them with the client quickly.  
-• Send me concise status snapshots that highlight what’s ready for review and where I need to step in.
-
-Deliverables for each website:
-
-1. A QA report confirming every link, form, button, menu, and critical function passes on both desktop and mobile.  
-2. A task board (Trello, Asana, or similar) populated with next-step items for the team.  
-3. A neatly organized asset folder, clearly labeled and dated.  
-4. A one-page weekly summary outlining progress, blockers, and upcoming deadlines.
-
-If you enjoy methodically spotting issues before clients ever see them and can keep a fast-moving project organized from first mock-up to final launch, we’ll work well together.</description></item>
 <item><title>Mobile Detailing Google Visibility</title><link>https://www.freelancer.com/projects/web-design/Mobile-Detailing-Google-Visibility</link><guid isPermaLink="false">freelancer:40835677</guid><pubDate>Wed, 25 Nov 2026 17:37:32 GMT</pubDate><description>15-25 USD/hr | I need a clean, mobile-first website that simply promotes my mobile detailing service and makes it effortless for visitors to reach me. The site’s sole purpose is visibility and conversion, so every element should guide people toward contacting or booking.
 
 Core requirements  
