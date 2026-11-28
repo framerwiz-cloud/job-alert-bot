@@ -3,20 +3,6 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
-<item><title>Dairy E-Commerce Website Build</title><link>https://www.freelancer.com/projects/ecommerce/Dairy-Commerce-Website-Build</link><guid isPermaLink="false">freelancer:40840045</guid><pubDate>Sat, 28 Nov 2026 12:12:42 GMT</pubDate><description>25-50 USD/hr | I need a full-featured online store, inspired by https://dwa-barany.pl/ and http://alpha.swietek.com/other/oscypki/index1.htm, where customers in Poland can order cheese and other dairy products directly from my farm. The site has to run smoothly on either a Linux or Windows server, store all order data in a secure database, and automatically email me each time a purchase is completed.
-
-Payments must cover online card and standard bank transfers, BLIK with Polish online banks, PayPal, and the option for cash on delivery. For fulfilment, shoppers should be able to choose courier delivery to their address, delivery to parcel lockers, or free local pickup from the farm.
-
-A clean, rustic design that matches the examples, mobile-first responsiveness, and an intuitive Polish-language checkout are essential. Please include an admin panel where I can add new products, adjust stock and pricing, and view order history.
-
-The finished site will be considered complete when:
-• All payment methods process test transactions successfully.
-• Each shipping option calculates rates and prints labels (or exports data) correctly.
-• Confirmation emails reach both the customer and my farm inbox without delay.
-• The database records every order and can be exported to CSV.
-• Pages load quickly on mainstream browsers and mobile devices.
-
-Let me know which framework or CMS you prefer (e.g., WooCommerce, PrestaShop, Laravel, custom PHP + MySQL) and your estimated timeline to reach a live, production-ready launch.</description></item>
 <item><title>WordPress WooCommerce Store Migration Expert</title><link>https://www.freelancer.com/projects/website-development/WordPress-WooCommerce-Store-Migration</link><guid isPermaLink="false">freelancer:40840024</guid><pubDate>Sat, 28 Nov 2026 11:47:48 GMT</pubDate><description>750-1500 USD | RELIABLE. FAST, AND TECHNICALLY PROFICIENT, WordPress and WooCommerce developer needed.
 
 I am about to buy the Soxa WooCommerce theme to use as the template from which I would like to have the existing health and wellness 
