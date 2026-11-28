@@ -3,6 +3,17 @@
 <title>Freelancer.com saved search</title>
 <link>https://www.freelancer.com/search/projects?types=hourly,fixed&amp;clientCountries=gb,us,ca,au,de,sa,ae&amp;projectSort=latest&amp;projectLanguages=en&amp;projectFixedPriceMin=100&amp;projectHourlyRateMin=5&amp;projectSkills=17,69,482,2037,2825</link>
 <description>New Freelancer.com projects matching the saved search</description>
+<item><title>Premium Shopify Homepage Redesign</title><link>https://www.freelancer.com/projects/web-design/Premium-Shopify-Homepage-Redesign-40839799</link><guid isPermaLink="false">freelancer:40839799</guid><pubDate>Sat, 28 Nov 2026 08:03:41 GMT</pubDate><description>250-750 GBP | I want to give our current Shopify store a polished facelift, starting with the homepage. The goal is a premium, elegant aesthetic that instantly feels modern and trustworthy. When visitors arrive, I need our best-selling products to command attention through refined visuals, thoughtful typography, and clean section hierarchy.  
+
+Here’s what I’m after: refresh the layout, fine-tune colours and spacing, tighten up the navigation bar, and adjust any Liquid or CSS so everything loads smoothly on desktop and mobile alike. The existing theme can stay if it works—feel free to customise or recommend lightweight apps that showcase product cards, quick-add buttons, and smooth hover effects without slowing the site down.  
+
+Deliverables will be:  
+• Fully updated homepage with hero, featured product carousel, and re-styled collection blocks  
+• Consistent premium look and feel across banners, buttons, and fonts  
+• Responsive checks on major browsers and devices  
+• Handover notes explaining any theme edits or added sections  
+
+If you’re comfortable refining Shopify themes, manipulating Liquid/CSS, and have an eye for high-end design, I’m ready to get started right away.</description></item>
 <item><title>WordPress Speed &amp; Stability Boost</title><link>https://www.freelancer.com/projects/cloudflare/WordPress-Speed-Stability-Boost</link><guid isPermaLink="false">freelancer:40839796</guid><pubDate>Sat, 28 Nov 2026 07:58:57 GMT</pubDate><description>250-750 AUD | My Lightsail-hosted site, tek1.com.au, has started dragging its feet. Pages and even the WordPress admin back end often take far too long to appear, and every so often the whole site simply drops offline without warning. The slowdowns and outages hit at random, so I can’t just schedule maintenance windows or blame traffic spikes.
 
 Everything runs on the usual stack—WordPress with MariaDB and Apache behind Cloudflare. I’ve already enabled basic Cloudflare caching, but the gains are inconsistent. I suspect thread limits, database tuning, and Cloudflare worker rules all need a fresh set of expert eyes. What I need is a methodical optimisation that:
@@ -801,20 +812,6 @@ The existing website is functional, so this project is primarily focused on desi
 I'm looking for someone who can bring fresh ideas, improve the overall visual quality, and help make the website feel like a polished, modern dating platform.
 
 If you have the experience and skills to handle this project, please submit your portfolio and a brief explanation of how you would approach the redesign.</description></item>
-<item><title>Online Education Supplies Store Setup</title><link>https://www.freelancer.com/projects/ui-design/Online-Education-Supplies-Store-Setup</link><guid isPermaLink="false">freelancer:40836812</guid><pubDate>Thu, 26 Nov 2026 10:02:58 GMT</pubDate><description>250-750 GBP | I'm looking to set up a comprehensive online store dedicated to selling a wide range of educational supplies. Our primary clientele will be schools and businesses. 
-
-The store should feature:
-- Categories for school stationery, teaching aids, lab equipment, and larger school items
-- User-friendly navigation and robust search functionality
-- Secure payment gateway integration
-- Inventory management system
-- Responsive design for mobile and tablet access
-
-Ideal Skills &amp; Experience:
-- E-commerce development experience
-- Familiarity with inventory management systems
-- Strong UI/UX design skills
-- Experience with secure payment integrations</description></item>
 <item><title>Recruiting Senior Development Team</title><link>https://www.freelancer.com/projects/web-development/Recruiting-Senior-Development-Team</link><guid isPermaLink="false">freelancer:40836704</guid><pubDate>Thu, 26 Nov 2026 08:46:41 GMT</pubDate><description>50+ USD/hr | Delineate is scaling rapidly, and I am coordinating the search for seasoned talent to strengthen our product lines. My immediate focus is on senior-level engineers who can own web front-end builds, craft robust mobile apps, and design or tune complex backend and database layers. Your background should show hands-on leadership, production releases, and an ability to collaborate across design and project-management functions—we have parallel openings for UI/UX and management, so cross-disciplinary communication matters.
 
 If you join us, you will step straight into feature work on active platforms, shaping architecture decisions rather than simply following tickets. Please share a concise portfolio link or repo, a brief summary of the tech stacks where you excel, and your typical availability. I review submissions daily and will invite the strongest matches to a short technical chat followed by a practical code exercise.</description></item>
